@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-10-29T20:43:00+00:00",
-            "temperature_f": 60.836,
-            "temperature_c": 16.02,
-            "humidity": 49.975112081797,
+            "timestamp": "2024-10-29T21:43:00+00:00",
+            "temperature_f": 60.782,
+            "temperature_c": 15.99,
+            "humidity": 45.004516752495,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-29T14:00:00-07:00",
+                "startTime": "2024-10-29T16:00:00-07:00",
                 "endTime": "2024-10-29T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "9 to 14 mph",
+                "windSpeed": "14 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. West wind 9 to 14 mph, with gusts as high as 18 mph."
+                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. West wind around 14 mph, with gusts as high as 18 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The air above Downtown San Francisco is crisp and clear this afternoon, invigorated by a gentle westward breeze that sweeps through the streets and parks. The sun casts its warm gaze upon the city, illuminating the iconic skyline and lending a vibrant hue to the skyline\u2019s steel and glass. With temperatures hovering around a pleasant 64 degrees, the day feels comfortably mild, inviting residents to step outside and bask in this rare moment of tranquility. Though the forecast hints at a slight drop in temperatures, it assures us that cloud cover will remain light, as any lurking fog remains at bay, allowing for stunning views across the bay towards the Golden Gate. \n\nAs the evening approaches, temperatures will settle around 52 degrees, a reminder of the city's tendency to cool in later hours. A light jacket or sweater would be sensible, making it ideal for leisurely strolls along the waterfront, perhaps stopping to admire the reflections of the city upon the bay or indulging in a serene moment at a local caf\u00e9, savoring a warm drink as the sun dips beneath the horizon. It\u2019s a day perfectly suited for exploring the subtle charms of the city\u2014meandering through the neighborhoods, popping into a quaint bookshop, or finding a peaceful spot in one of the lush parks to let the day's warmth linger just a bit longer.",
-    "color_code": "#B5C9DE",
-    "timestamp": "2024-10-29 15:01:55"
+    "weather_report": "In the heart of San Francisco this afternoon, the sun graces the city with a bright, cheerful presence, casting a warm glow over the skyline. Highs hover near a comfortable 64 degrees, with a gentle west wind creating a refreshing breath of air. There\u2019s a sense of clarity, with the views stretching far across the Bay, unmarred by fog or haze. Even as the temperatures begin to retreat towards the mid-60s, the atmosphere remains inviting, ripe for leisurely strolls through vibrant neighborhoods or perhaps a quiet moment in a sunbeam at a local caf\u00e9.\n\nThe evening promises to wrap the day in a cozy embrace, with partly cloudy skies settling in around 52 degrees, allowing for a comfortable night ahead under the stars. While a light breeze may continue to whisper through the streets, it\u2019s advisable to don a light jacket for the coolness that might linger after sunset. The lack of fog allows for a delightful clarity in the early night sky, best enjoyed perhaps from a spot overlooking the Bay, where the twinkling city lights come alive. Whether reading a book in a park or dining outdoors, tonight\u2019s conditions effortlessly lend themselves to simple pleasures that invite connection with the surroundings.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2024-10-29 16:01:39"
 }
