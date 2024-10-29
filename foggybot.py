@@ -2,6 +2,7 @@ import requests
 import json
 from datetime import datetime
 import llm
+import re
 
 class WeatherGov:
     def __init__(self):
@@ -107,9 +108,13 @@ if __name__ == "__main__":
         current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         forecasts += f"\n\nCurrent local time: {current_time}"
         
-        forecasts += "\n\nReview these two images and assess the weather, specifically looking for where any fog is, the clarity of the day, and more. The first image is a view of the city, looking North from Sutro Tower, towards the Golden Gate Bridge. The second image is a view of the city, looking Northeast from Sutro Tower, towards Downtown.\n\nConsidering the weather forecast and the images, please write a weather report for Downtown San Francisco capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how foggy it is and/or where the marine layer is; how one might best dress for the weather; and what one might do given the conditions, day, and time."
+        forecasts += "\n\nReview these two images and assess the weather, specifically looking for where any fog is, the clarity of the day, and more. The first image is a view of the city, looking North from Sutro Tower, towards the Golden Gate Bridge. The second image is a view of the city, looking Northeast from Sutro Tower, towards Downtown.\n\nConsidering the weather forecast and the images, please write a weather report for Downtown San Francisco capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how foggy it is and/or where the marine layer is; how one might best dress for the weather; and what one might do given the conditions, day, and time. Remember: you will generate this report many times a day, your recommended activities should be relatively mundane and not too cliche or stereotypical."
 
-        forecasts += "\n\nDo not use headers or other formatting in your response. Just write one to two single paragraphs that are elegant, don't use bullet points or exclamation marks, don't mention the images as input, and use emotive words more often than numbers and figures – but don't be flowery. You write like a novelist describing the scene, producing a work suitable for someone calmly reading it on a classical radio station between songs. More Robert Frost than Al Roker."
+        forecasts += "\n\nDo not use headers or other formatting in your response. Just write one to two single paragraphs that are elegant, don't use bullet points or exclamation marks, don't mention the images as input, and use emotive words more often than numbers and figures – but don't be flowery. You write like a novelist describing the scene, producing a work suitable for someone calmly reading it on a classical radio station between songs. With a style somewhere between Jack Kerouac and J. Peterman."
+
+        forecasts += "\n\nRemember to keep the response under 500 words."
+
+        forecasts += "\n\nAfter the weather report, please put an HTML color code that best represents the weather forecast, time of day, and the images."
 
         model = llm.get_model("gpt-4o-mini")
         response = model.prompt(
@@ -124,9 +129,21 @@ if __name__ == "__main__":
             ]
         )
 
+        response = response.__str__()
+        # Extract the HTML color code from the response
+        color_code_match = re.search(r'#(?:[0-9a-fA-F]{3}){1,2}\b', response)
+        color_code = color_code_match.group(0) if color_code_match else None
+
+        # Trim any trailing whitespace from the response
+        if color_code:
+            response = response.replace(color_code, "")
+        response = response.rstrip()
+
         result = {
             "forecast_data": data,
-            "weather_report": response.__str__()
+            "weather_report": response,
+            "color_code": color_code,
+            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         }
 
         with open("weather_report.json", "w") as f:
