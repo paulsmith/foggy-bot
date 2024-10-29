@@ -13,7 +13,7 @@
                     document.getElementById('weather-report').innerText = data.weather_report;
                     const options = { year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric'};
                     const formattedTimestamp = new Date(data.timestamp).toLocaleDateString('en-US', options);
-                    document.getElementById('timestamp').innerText = "Generated on " + formattedTimestamp;
+                    document.getElementById('timestamp').innerText = "Generated on " + formattedTimestamp + ", San Francisco time.";
                     document.querySelectorAll('.divider').forEach(element => {
                         element.style.backgroundColor = data.color_code;
                     });

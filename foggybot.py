@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 import llm
 import re
+from pytz import timezone
 
 class WeatherGov:
     def __init__(self):
@@ -139,11 +140,15 @@ if __name__ == "__main__":
             response = response.replace(color_code, "")
         response = response.rstrip()
 
+        # Convert the current time to San Francisco time
+        sf_tz = timezone('America/Los_Angeles')
+        sf_time = datetime.now(sf_tz).strftime("%Y-%m-%d %H:%M:%S")
+
         result = {
             "forecast_data": data,
             "weather_report": response,
             "color_code": color_code,
-            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            "timestamp": sf_time
         }
 
         with open("weather_report.json", "w") as f:
