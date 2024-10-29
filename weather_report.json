@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-10-29T11:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2024-10-29T12:00:00-07:00",
                 "endTime": "2024-10-29T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 14 mph",
+                "windSpeed": "7 to 14 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 59 in the afternoon. West wind 5 to 14 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 59 in the afternoon. West wind 7 to 14 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In downtown San Francisco, today greets us with a calm embrace of sunny skies, where the sun illuminates the vibrant cityscape. With a gentle westward breeze stirring, the day is a comfortable mix of warmth and cool gusts, creating a delightful atmosphere ideal for an afternoon stroll. The anticipated high, nearing 61 degrees, invites both tourists and locals alike to explore the myriad of urban delights, though as the afternoon unfolds, temperatures will dip slightly, ushering in a refreshing chill.\n\nTonight, the comfort remains as the skies shift to a partly cloudy canvas, promising a tranquil evening with a low settling around 51. The gentle winds will persist, providing just enough briskness to remind us that autumn has arrived in this coastal haven, but without the heaviness of fog or a thick marine layer. As you ponder how to dress, layering is your best ally; think light sweaters or cardigans paired with a light jacket for those later hours. Take advantage of this splendid weather by wandering through the local markets, discovering hidden caf\u00e9s, or enjoying an outdoor reading at one of the parks. It\u2019s an ideal day to savor the simple joys the city brings.",
-    "color_code": "#A6C8E0",
-    "timestamp": "2024-10-29 11:59:23"
+    "weather_report": "In Downtown San Francisco, the afternoon bathes the city in sunlight, wrapping the streets in a gentle glow, inviting passersby to enjoy the clear skies and mild temperatures. With a high approaching 61 degrees, the cool yet crisp embrace of a westerly breeze\u2014ranging between 7 to 14 mph\u2014adds a refreshing touch to the day, rustling the leaves of the trees and encouraging a leisurely stroll. The absence of a marine layer keeps the vistas expansive, offering unobstructed views of the iconic Golden Gate and the city\u2019s skyline, while the horizon melts into an endless azure.\n\nAs twilight approaches, a shift is anticipated; the sun will cast a softer light across the landscape, and with it, partly cloudy skies will take over, introducing a cozy ambiance by evening\u2019s arrival. Expect temperatures to dip to around 51 degrees, prompting a light jacket or sweater to ward off the cool night air. This transition invites possibilities\u2014perhaps a quiet evening walk along the Embarcadero, savoring a warm cup of coffee at a cherished caf\u00e9, or gathering with friends for a casual dinner. The clarity of the day makes it a perfect time to explore the hidden corners of the city, with the charm of autumn whispering through the streets.",
+    "color_code": "#0077B3",
+    "timestamp": "2024-10-29 12:01:47"
 }
