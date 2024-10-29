@@ -1,0 +1,60 @@
+{
+    "forecast_data": {
+        "location": {
+            "name": "Sausalito",
+            "state": "CA",
+            "latitude": 37.7885,
+            "longitude": -122.4071
+        },
+        "current_conditions": {
+            "timestamp": "2024-10-29T15:43:00+00:00",
+            "temperature_f": 52.196,
+            "temperature_c": 11.22,
+            "humidity": 70.006613691294,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": ""
+        },
+        "forecast": [
+            {
+                "number": 1,
+                "name": "Today",
+                "startTime": "2024-10-29T09:00:00-07:00",
+                "endTime": "2024-10-29T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 59 in the afternoon. West northwest wind 5 to 14 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-10-29T18:00:00-07:00",
+                "endTime": "2024-10-30T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 51. West wind 5 to 13 mph, with gusts as high as 18 mph."
+            }
+        ]
+    },
+    "weather_report": "In the heart of Downtown San Francisco, the day unfolds beneath a brilliant sky, showcasing the city's iconic landscape bathed in sunlight. The gentle winds, whispering through the streets, create a refreshing atmosphere as temperatures hover near a comfortable 61 degrees, drawing residents and visitors alike to step outside and embrace the day. The air is crisp, free from the usual veil of fog, allowing for stunning views of the Golden Gate Bridge and the surrounding hills, a vivid reminder of nature's artistry.\n\nAs afternoon approaches, temperatures will soften slightly, nudging down to around 59, inviting a light sweater or jacket to ward off the chill, especially as the sun begins its descent. Such conditions beckon one to explore the vibrant neighborhoods, perhaps indulging in a leisurely stroll along the waterfront or savoring a warm cup of coffee at a local caf\u00e9. Tonight, anticipation builds for a cozy evening under partly cloudy skies, where the charm of the city can be fully appreciated. A perfect blend of crispness and clarity paints an ideal backdrop for both adventure and relaxation."
+}
