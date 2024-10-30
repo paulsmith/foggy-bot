@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T10:51:00+00:00",
-            "temperature_f": 68.0,
-            "temperature_c": 20,
-            "humidity": 67.934987286895,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 200,
+            "timestamp": "2024-10-30T11:51:00+00:00",
+            "temperature_f": 69.08,
+            "temperature_c": 20.6,
+            "humidity": 65.463288484429,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-10-30T07:00:00-05:00",
+                "startTime": "2024-10-30T08:00:00-05:00",
                 "endTime": "2024-10-30T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 79,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "20 to 25 mph",
+                "windSpeed": "25 mph",
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 79. South southwest wind 20 to 25 mph, with gusts as high as 45 mph."
+                "detailedForecast": "Partly sunny, with a high near 79. South southwest wind around 25 mph, with gusts as high as 45 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston reveals a somewhat tranquil scene, yet the air carries a hint of expectancy. The sun, obscured by gathering clouds, hints at warming temperatures as it seeks to break through. As forecasted, the high today is set around the pleasant temperature of 79 degrees, but the strong south-southwest wind, gusting up to 45 mph, introduces an element of briskness that may catch the unwary off guard. The shoreline at Lake Michigan mirrors this duality; whilst the waves are relatively calm now, they bear the flurry of coming storms that promise to disrupt the peace later in the day.\n\nAs night approaches, be prepared for the likelihood of rain showers accompanied by thunder, particularly early morning. The chance of precipitation rises to 80%, transforming the pleasant daytime into a potentially tumultuous evening with showers expected to deliver between a quarter and half an inch of rain. Given these conditions, layering is advisable; a light jacket or an umbrella might be wise, particularly for those venturing out after sunset. For those choosing to enjoy the outdoors, consider a stroll along the beach before the weather shifts, allowing an appreciation of the last vestiges of autumnal daylight. Engaging in a calm walk or a moment to breathe in the fresh air might be just the remedy before nature unleashes its fury.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-10-30 07:08:36"
+    "weather_report": "As the sun begins its ascent over Evanston, the day presents itself with a blend of partly sunny skies and a warm breeze that speaks of late October's capability for both comfort and change. With temperatures reaching the high 70s, the air stirs gently under a south-southwest wind, strong enough to ruffle the leaves and send ripples across the surface of Lake Michigan. However, the tranquility of this morning is tempered by the promise of showers later, with rain and thunderstorms on the horizon that could arrive in the early hours of the night, bringing a chance for substantial precipitation.\n\nThe beach itself reflects a mix of calm and agitation; while the waves gently lap at the shoreline, there is an unmistakable edge of roughness in their movement, hinting at the winds stirring the depths. It\u2019s a moment of serendipity, where one can enjoy a walk along the shore, feeling the warmth on the skin while preparing for the moist embrace of evening rains. Light, layered clothing is wise, suitable for both the mild midday temperature and the impending chill of night. As the day unfolds, a stroll on the beach or a visit to a local caf\u00e9 for a warm drink might be the best way to appreciate this liminal space between sun and storm.",
+    "color_code": "#98B5B5",
+    "timestamp": "2024-10-30 08:09:52"
 }
