@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T05:51:00+00:00",
-            "temperature_f": 71.96,
-            "temperature_c": 22.2,
-            "humidity": 57.080129993681,
+            "timestamp": "2024-10-30T06:51:00+00:00",
+            "temperature_f": 71.06,
+            "temperature_c": 21.7,
+            "humidity": 58.847971651165,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Cloudy"
@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-10-30T02:00:00-05:00",
+                "startTime": "2024-10-30T03:00:00-05:00",
                 "endTime": "2024-10-30T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 67,
+                "temperature": 68,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 67. South southwest wind around 25 mph, with gusts as high as 40 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 68. South southwest wind around 25 mph, with gusts as high as 40 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-10-30T06:00:00-05:00",
                 "endTime": "2024-10-30T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 78,
+                "temperature": 79,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 78, with temperatures falling to around 75 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 45 mph."
+                "detailedForecast": "Partly sunny, with a high near 79. South southwest wind 20 to 25 mph, with gusts as high as 45 mph."
             }
         ]
     },
-    "weather_report": "As the night deepens over Evanston, the clouds loom heavily above, casting a shroud over the lakefront as the temperature settles at a warm 67 degrees. The wind whistles softly, racing from the south southwest at around 25 miles per hour, with occasional bursts reaching up to 40 miles per hour. It is a night that stirs a sense of restlessness, where the air feels charged, hinting at the tempestuous day ahead.\n\nLooking forward to Wednesday, the atmosphere promises a shift; while the morning may start partly sunny, temperatures will peak around 78 degrees before retreating in the afternoon to a cooler 75. The winds will maintain their lively pace, blowing at 20 to 25 miles per hour and gusting even higher, lending a roughness to the once inviting waves of Lake Michigan. With no precipitation expected, this will not be a day drenched in rain, but the surface of the lake may be stirred to a frothy churn, compelling careful observation for those seeking solace by the shore.\n\nDressing for the day ahead, a light layer is advisable; perhaps a breezy long-sleeve shirt to fend off the stronger gusts while still remaining comfortable in the warmth. The promise of October weather is there, reminding us of the transition toward cooler days, and while the breeze provides some relief, it also brings a sharpness that lingers on the skin. As for activities, a stroll along the lakefront might prove pleasurable, with the dynamic rhythm of the waves providing a backdrop for contemplation or light conversation. A stop by a local caf\u00e9 could also warm the spirit, serving as a cozy refuge as the seasons continue their gradual march toward winter.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2024-10-30 02:05:12"
+    "weather_report": "As the clock moves past three in the early morning, Evanston finds itself in a tranquil and dimly lit embrace of the night. The air is warm, holding steady around a balmy 68 degrees, while the gentle rustle of winds from the south southwest gusts with an undeniable vigor\u2014a whispering reminder of the energy stirring just beyond the horizon. The skies above, mostly cloudy, hint at an imminent change, as tomorrow brings a promise of partly sunny intervals and a high of 79 degrees, accompanied by continued brisk winds peaking at 45 mph.\n\nFor the morning ahead, one should prepare for an invigorating start to the day. The winds, with their spirited presence, may whip through the trees and send a playful chill along the shoreline, prompting a recommendation for light layers. A light jacket or sweater may serve well, particularly for those venturing out for an early walk along the beach or a moment of solitude with a cup of coffee. As the day unfolds, the waves indicating the lake\u2019s temperament will echo the winds\u2019 enthusiasm\u2014likely choppy and lively, ideal for those who appreciate nature's raw edge. \n\nWith the clock inching closer to morning, the mostly cloudy skies will morph into patches of brighter blue, inviting those up early to seize the day. Engaging in a waterfront stroll to witness the awakening of the lake, or perhaps indulging in a leisurely morning read at one of the nearby parks, seems fitting. As the winds continue to stir and the warmth creeps in, the day promises an inviting blend of activity and relaxation, embodying the beautiful complexity of the season.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2024-10-30 03:07:07"
 }
