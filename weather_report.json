@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T02:51:00+00:00",
+            "timestamp": "2024-10-30T03:51:00+00:00",
             "temperature_f": 73.94,
             "temperature_c": 23.3,
-            "humidity": 48.076758130037,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 190,
+            "humidity": 49.686805924481,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-10-29T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-10-30T00:00:00-05:00",
                 "endTime": "2024-10-30T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 67,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the night deepens over Evanston, the air hangs thick with clouds, holding an enveloping warmth around 67 degrees. A brisk south-southwest wind, gusting at times up to 35 mph, carries the distinct scent of the nearby Lake Michigan, providing a refreshing contrast to the humidity. The beach remains shrouded in a tranquil darkness, and although there is no fog visibly settling in, the atmosphere feels laden with moisture, hinting at a potentially hazy morning.\n\nLooking ahead to tomorrow, the promise of partly sunny skies unfolds as the day progresses\u2014a high near 78 degrees will invite those eager for the mildness of an autumn afternoon. With winds continuing at 20 to 25 mph, expect a refreshing breeze to dance across the shoreline, perhaps making it a little cooler as temperatures dip into the afternoon. This weather invites light layering; a comfortable long-sleeve shirt or a light sweater might be ideal for those planning strolls along the beach to appreciate the changing season. Casual outings could include a visit to local parks or coffee shops, where one can enjoy the seasonal flavors while watching the leaves cascade through the gently swaying trees.",
-    "color_code": "#3E4E9A",
-    "timestamp": "2024-10-29 23:19:55"
+    "weather_report": "As the clock ticks toward the early hours of Wednesday, Evanston finds itself under a mostly cloudy sky, with breezes sweeping in from the south southwest, carrying the promise of a warm morning ahead. The temperature sits comfortably around 67 degrees, creating a mild atmosphere that beckons a moment of introspection or perhaps a quiet stroll along the waterfront. Although there is no precipitation in sight, the movement of the clouds hints at the changing conditions expected later in the day.\n\nAs daylight breaks, the clouds may give way to patches of sunlight, with the afternoon high expected to reach the mid-seventies. Winds will continue to be brisk, whipping through the trees and stirring the lake, which may reveal some more energetic waves as the day unfolds. It is advisable to dress in layers, perhaps a light jacket for the morning chill, giving way to more breathable attire as the sun warms the air. For those looking to embrace the day, the inviting trail along the lakefront presents an opportunity for a refreshing walk, while the wind may encourage quiet reflection under a favorite tree, providing a perfect setting to savor the seasonal change.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-10-30 00:12:57"
 }

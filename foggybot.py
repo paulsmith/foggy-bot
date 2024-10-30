@@ -1,200 +1,209 @@
 # /// script
 # dependencies = [
-#   "yt_dlp",
+#   "google-api-python-client",
 #   "llm",
-#   "opencv-python",
 #   "requests",
 #   "pytz",
 # ]
 # ///
-import yt_dlp
-import cv2
-import time
-import os
-import requests
 import json
-from datetime import datetime
-import llm
+import logging
+import os
 import re
+from datetime import datetime
+from typing import Optional, Dict, Any
+
+import llm
+import requests
+from googleapiclient.discovery import build
 from pytz import timezone
 
+# Constants
+YOUTUBE_VIDEO_ID = "XP3Gle-S9lE"
+EVANSTON_COORDINATES = (42.032931, -87.680432)
+OUTPUT_DIR = "captures"
+TIMEZONE = "America/Chicago"
+WEATHER_BASE_URL = "https://api.weather.gov"
 
-def get_stream_url(youtube_url):
-    """
-    Get the direct stream URL from a YouTube livestream URL
-    """
-    ydl_opts = {"format": "best[ext=mp4]", "quiet": True}
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+
+class YouTubeClient:
+    def __init__(self, api_key: str):
+        self.youtube = build("youtube", "v3", developerKey=api_key)
+
+    def get_live_thumbnail(self, video_id: str) -> Optional[str]:
+        """Get the current thumbnail URL for a YouTube livestream."""
         try:
-            info = ydl.extract_info(youtube_url, download=False)
-            return info["url"]
+            request = self.youtube.videos().list(
+                part="snippet,liveStreamingDetails", id=video_id
+            )
+            response = request.execute()
+
+            if not response["items"]:
+                logger.error(f"Video {video_id} not found")
+                return None
+
+            video = response["items"][0]
+            if "liveStreamingDetails" not in video:
+                logger.error(f"Video {video_id} is not a livestream")
+                return None
+
+            thumbnails = video["snippet"]["thumbnails"]
+            for quality in ["maxres", "high", "default"]:
+                if quality in thumbnails:
+                    return thumbnails[quality]["url"]
+
         except Exception as e:
-            print(f"Error getting stream URL: {e}")
+            logger.error(f"Error getting video details: {e}")
             return None
 
 
-def capture_frame(stream_url, output_dir="captures"):
-    """
-    Capture a single frame from the livestream
-    """
-    # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)
+class ThumbnailDownloader:
+    @staticmethod
+    def download(url: str, output_dir: str = OUTPUT_DIR) -> Optional[str]:
+        """Download thumbnail image from URL."""
+        try:
+            os.makedirs(output_dir, exist_ok=True)
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            filename = os.path.join(output_dir, f"capture_{timestamp}.jpg")
 
-    # Open video capture
-    cap = cv2.VideoCapture(stream_url)
+            response = requests.get(url, stream=True)
+            response.raise_for_status()
 
-    if not cap.isOpened():
-        print("Error: Could not open stream")
-        return None
+            with open(filename, "wb") as f:
+                for chunk in response.iter_content(chunk_size=8192):
+                    f.write(chunk)
 
-    # Read a single frame
-    ret, frame = cap.read()
+            logger.info(f"Captured thumbnail saved to: {filename}")
+            return filename
 
-    if ret:
-        filename = os.path.join(output_dir, f"capture.jpg")
-
-        # Save the frame
-        cv2.imwrite(filename, frame)
-        print(f"Captured frame saved to: {filename}")
-
-        # Release the capture
-        cap.release()
-        return filename
-    else:
-        print("Error: Could not read frame")
-        cap.release()
-        return None
+        except Exception as e:
+            logger.error(f"Error downloading thumbnail: {e}")
+            return None
 
 
 class WeatherGov:
     def __init__(self):
-        self.base_url = "https://api.weather.gov"
         self.headers = {
             "User-Agent": "(WeatherDataScript, your@email.com)",
             "Accept": "application/json",
         }
 
-    def get_weather_data(self, latitude: float, longitude: float) -> dict:
-        """
-        Fetches weather data from weather.gov for a specific latitude/longitude
-
-        Args:
-            latitude (float): Latitude coordinate
-            longitude (float): Longitude coordinate
-
-        Returns:
-            dict: Dictionary containing weather data and forecast
-        """
+    def get_weather_data(
+        self, latitude: float, longitude: float
+    ) -> Optional[Dict[str, Any]]:
         try:
-            # First, get the grid endpoint for the provided coordinates
-            point_url = f"{self.base_url}/points/{latitude},{longitude}"
-            response = requests.get(point_url, headers=self.headers)
-            response.raise_for_status()
+            point_data = self._get_point_data(latitude, longitude)
+            forecast_data = self._get_forecast_data(point_data)
+            observation_data = self._get_observation_data(point_data)
 
-            point_data = response.json()
-
-            # Extract the forecast and observation station URLs
-            forecast_url = point_data["properties"]["forecast"]
-            station_url = point_data["properties"]["observationStations"]
-
-            # Get the forecast
-            forecast_response = requests.get(forecast_url, headers=self.headers)
-            forecast_response.raise_for_status()
-            forecast_data = forecast_response.json()
-
-            # Get the nearest observation station
-            stations_response = requests.get(station_url, headers=self.headers)
-            stations_response.raise_for_status()
-            stations_data = stations_response.json()
-
-            # Get the latest observation from the nearest station
-            nearest_station_url = (
-                stations_data["features"][0]["id"] + "/observations/latest"
-            )
-            observation_response = requests.get(
-                nearest_station_url, headers=self.headers
-            )
-            observation_response.raise_for_status()
-            observation_data = observation_response.json()
-
-            # Format the response
-            weather_data = {
-                "location": {
-                    "name": point_data["properties"]["relativeLocation"]["properties"][
-                        "city"
-                    ],
-                    "state": point_data["properties"]["relativeLocation"]["properties"][
-                        "state"
-                    ],
-                    "latitude": latitude,
-                    "longitude": longitude,
-                },
-                "current_conditions": {
-                    "timestamp": observation_data["properties"]["timestamp"],
-                    "temperature_f": self._celsius_to_fahrenheit(
-                        observation_data["properties"]["temperature"]["value"]
-                    ),
-                    "temperature_c": observation_data["properties"]["temperature"][
-                        "value"
-                    ],
-                    "humidity": observation_data["properties"]["relativeHumidity"][
-                        "value"
-                    ],
-                    "wind_speed_mph": self._ms_to_mph(
-                        observation_data["properties"]["windSpeed"]["value"]
-                    ),
-                    "wind_direction": observation_data["properties"]["windDirection"][
-                        "value"
-                    ],
-                    "description": observation_data["properties"]["textDescription"],
-                },
-                "forecast": forecast_data["properties"]["periods"][
-                    :2
-                ],  # Today and tonight's forecast
+            return {
+                "location": self._format_location(point_data, latitude, longitude),
+                "current_conditions": self._format_current_conditions(observation_data),
+                "forecast": forecast_data["properties"]["periods"][:2],
             }
-
-            return weather_data
-
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching weather data: {e}")
-            return None
-        except (KeyError, IndexError, json.JSONDecodeError) as e:
-            print(f"Error parsing weather data: {e}")
+        except Exception as e:
+            logger.error(f"Error getting weather data: {e}")
             return None
 
-    def _celsius_to_fahrenheit(self, celsius):
-        """Convert Celsius to Fahrenheit"""
+    def _get_point_data(self, latitude: float, longitude: float) -> Dict[str, Any]:
+        response = requests.get(
+            f"{WEATHER_BASE_URL}/points/{latitude},{longitude}", headers=self.headers
+        )
+        response.raise_for_status()
+        return response.json()
+
+    def _get_forecast_data(self, point_data: Dict[str, Any]) -> Dict[str, Any]:
+        response = requests.get(
+            point_data["properties"]["forecast"], headers=self.headers
+        )
+        response.raise_for_status()
+        return response.json()
+
+    def _get_observation_data(self, point_data: Dict[str, Any]) -> Dict[str, Any]:
+        stations_response = requests.get(
+            point_data["properties"]["observationStations"], headers=self.headers
+        )
+        stations_response.raise_for_status()
+        stations_data = stations_response.json()
+
+        nearest_station_url = (
+            f"{stations_data['features'][0]['id']}/observations/latest"
+        )
+        observation_response = requests.get(nearest_station_url, headers=self.headers)
+        observation_response.raise_for_status()
+        return observation_response.json()
+
+    @staticmethod
+    def _celsius_to_fahrenheit(celsius: Optional[float]) -> Optional[float]:
         return None if celsius is None else (celsius * 9 / 5) + 32
 
-    def _ms_to_mph(self, meters_per_second):
-        """Convert meters per second to miles per hour"""
+    @staticmethod
+    def _ms_to_mph(meters_per_second: Optional[float]) -> Optional[float]:
         return None if meters_per_second is None else meters_per_second * 2.237
 
+    def _format_location(
+        self, point_data: Dict[str, Any], lat: float, lon: float
+    ) -> Dict[str, Any]:
+        return {
+            "name": point_data["properties"]["relativeLocation"]["properties"]["city"],
+            "state": point_data["properties"]["relativeLocation"]["properties"][
+                "state"
+            ],
+            "latitude": lat,
+            "longitude": lon,
+        }
 
-if __name__ == "__main__":
-    # Evanston beach live webcam
-    YOUTUBE_URL = "https://www.youtube.com/live/XP3Gle-S9lE?si=BpIWDWcWaGxAE3YL"
-    try:
-        stream_url = get_stream_url(YOUTUBE_URL)
-        if stream_url:
-            captured_file = capture_frame(stream_url)
-            if not captured_file:
-                os.exit(1)
-    except KeyboardInterrupt:
-        print("\nStopping capture process...")
-        os.exit(1)
+    def _format_current_conditions(
+        self, observation_data: Dict[str, Any]
+    ) -> Dict[str, Any]:
+        properties = observation_data["properties"]
+        return {
+            "timestamp": properties["timestamp"],
+            "temperature_f": self._celsius_to_fahrenheit(
+                properties["temperature"]["value"]
+            ),
+            "temperature_c": properties["temperature"]["value"],
+            "humidity": properties["relativeHumidity"]["value"],
+            "wind_speed_mph": self._ms_to_mph(properties["windSpeed"]["value"]),
+            "wind_direction": properties["windDirection"]["value"],
+            "description": properties["textDescription"],
+        }
 
-    # Evanston coordinates
-    LAT = 42.032931
-    LON = -87.680432
 
-    weather = WeatherGov()
-    data = weather.get_weather_data(LAT, LON)
+class WeatherReporter:
+    def __init__(self):
+        self.model = llm.get_model("gpt-4o-mini")
 
-    if data:
+    def generate_report(
+        self, weather_data: Dict[str, Any], image_path: str
+    ) -> Dict[str, Any]:
+        forecasts = self._prepare_forecast_prompt(weather_data)
+        response = self.model.prompt(
+            forecasts, attachments=[llm.Attachment(path=image_path)]
+        )
+
+        response_text = str(response)
+        color_code = self._extract_color_code(response_text)
+
+        return {
+            "forecast_data": weather_data,
+            "weather_report": response_text.replace(color_code or "", "").rstrip(),
+            "color_code": color_code,
+            "timestamp": datetime.now(timezone(TIMEZONE)).strftime("%Y-%m-%d %H:%M:%S"),
+        }
+
+    @staticmethod
+    def _extract_color_code(text: str) -> Optional[str]:
+        color_match = re.search(r"#(?:[0-9a-fA-F]{3}){1,2}\b", text)
+        return color_match.group(0) if color_match else None
+
+    @staticmethod
+    def _prepare_forecast_prompt(weather_data: Dict[str, Any]) -> str:
         forecasts = "Below is the weather forecast for Evanston, Illinois: \n"
-        for period in data["forecast"]:
+        for period in weather_data["forecast"]:
             forecasts = (
                 forecasts + "\n - " + period["name"] + ": " + period["detailedForecast"]
             )
@@ -205,38 +214,43 @@ if __name__ == "__main__":
 
         forecasts += f"\n\nCurrent local time: {time}"
 
-        forecasts += "\n\nReview this image and assess the weather, specifically looking for where any fog is, the clarity of the day, and more. The image is a view of the beach in Evanston, looking East from a parks department building, towards Lake Michigan. \n\nConsidering the weather forecast and the image, please write a weather report for Evanston capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how foggy it is and/or where the marine layer is; how one might best dress for the weather; and what one might do given the conditions, day, and time. Remember: you will generate this report many times a day, your recommended activities should be relatively mundane and not too cliche or stereotypical."
+        forecasts += "\n\nReview this image and assess the weather, specifically looking for where any preciptitation is, the clarity of the day, and more. The image is a view of the beach in Evanston, looking East from a parks department building, towards Lake Michigan. \n\nConsidering the weather forecast and the image, please write a weather report for Evanston capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how rough or calm the waves look; how wet it is; how one might best dress for the weather; how seasonable the temperature is for the region; and what one might do given the conditions, day, and time. Remember: you will generate this report many times a day, your recommended activities should be relatively mundane and not too cliche or stereotypical."
 
-        forecasts += "\n\nDo not use headers or other formatting in your response. Just write one to two single paragraphs that are elegant, don't use bullet points or exclamation marks, don't mention the images as input, and use emotive words more often than numbers and figures – but don't be flowery. You write like a straight news journalist describing the scene, producing a work suitable for someone calmly reading it on a classical radio station between songs. With a style somewhere between Walter Cronkite and George Saunders."
+        forecasts += "\n\nDo not use headers or other formatting in your response. Just write one to two single paragraphs that are elegant, don't use bullet points or exclamation marks, don't mention the images as input, and use emotive words more often than numbers and figures – but don't be flowery. You write like a straight news journalist describing the scene, producing a work suitable for someone calmly reading it on a classical radio station between songs. With a style somewhere between Linda Wertheimer, meteorologist Tom Skilling, and George Saunders."
 
         forecasts += "\n\nRemember to keep the response under 500 words."
 
         forecasts += "\n\nAfter the weather report, please put an HTML color code that best represents the weather forecast, time of day, and the images."
 
-        model = llm.get_model("gpt-4o-mini")
-        response = model.prompt(
-            forecasts,
-            attachments=[
-                llm.Attachment(path="./captures/capture.jpg"),
-            ],
-        )
+        return forecasts
 
-        response = response.__str__()
-        # Extract the HTML color code from the response
-        color_code_match = re.search(r"#(?:[0-9a-fA-F]{3}){1,2}\b", response)
-        color_code = color_code_match.group(0) if color_code_match else None
 
-        # Trim any trailing whitespace from the response
-        if color_code:
-            response = response.replace(color_code, "")
-        response = response.rstrip()
+def main():
+    api_key = os.getenv("YOUTUBE_API_KEY")
+    if not api_key:
+        raise ValueError("Please set YOUTUBE_API_KEY environment variable")
 
-        result = {
-            "forecast_data": data,
-            "weather_report": response,
-            "color_code": color_code,
-            "timestamp": time,
-        }
+    youtube_client = YouTubeClient(api_key)
+    thumbnail_url = youtube_client.get_live_thumbnail(YOUTUBE_VIDEO_ID)
+    if not thumbnail_url:
+        raise RuntimeError("Failed to get YouTube livestream thumbnail")
 
-        with open("weather_report.json", "w") as f:
-            json.dump(result, f, indent=4)
+    captured_file = ThumbnailDownloader.download(thumbnail_url)
+    if not captured_file:
+        raise RuntimeError("Failed to download thumbnail")
+
+    weather = WeatherGov()
+    lat, lon = EVANSTON_COORDINATES
+    weather_data = weather.get_weather_data(lat, lon)
+    if not weather_data:
+        raise RuntimeError("Failed to get weather data")
+
+    reporter = WeatherReporter()
+    result = reporter.generate_report(weather_data, captured_file)
+
+    with open("weather_report.json", "w") as f:
+        json.dump(result, f, indent=4)
+
+
+if __name__ == "__main__":
+    main()
