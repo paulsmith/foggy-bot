@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T08:51:00+00:00",
+            "timestamp": "2024-10-30T09:51:00+00:00",
             "temperature_f": 69.08,
             "temperature_c": 20.6,
-            "humidity": 62.95797615727,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 200,
-            "description": "Cloudy"
+            "humidity": 65.463288484429,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": ""
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the darkness of early morning envelops Evanston, the beach scene remains largely tranquil, offering only a hint of the lively day that awaits. With mostly cloudy skies overhead and a gentle breeze already stirring, the air carries the soft whispers of an approaching day. Winds from the southwest are brisk, hinting at the stronger gusts that will accompany the daylight hours. By mid-morning, a modest warmth will break through, coaxing the temperature towards a comfortable 79 degrees, making this a matter of layers for anyone stepping out\u2014perhaps a light jacket against the still chill of the morning, but one that can be shed as the sun takes the stage.\n\nToday promises a mix of partly sunny skies, with the atmosphere growing more inviting as the hours unfold. While the beach remains calm for now, the winds may whip the waves into a playful flurry, offering glimpses of the lake\u2019s character, which can change with the whims of the weather. One might find solace in a morning stroll along the shoreline, the cool breezes and the gentle lapping of water providing a perfect backdrop for reflection. As the day unfolds, those adventurous enough might consider a bike ride along the lakeshore or a stop at a local caf\u00e9 to enjoy the embrace of an autumn morning, taking advantage of the mild air before the season's chill sets in.",
+    "weather_report": "As dawn gently breaks over Evanston, the scene is set for a day marked by lingering clouds and brisk winds. The overnight skies have been mostly cloaked in cloud cover, with temperatures holding steady at around 68 degrees, propelled by a south-southwest breeze that\u2019s quite gusty. The wind sweeps through at a notable 25 miles per hour, with gusts climbing even higher, creating a backdrop of movement that one can feel on the skin. As we look ahead to Wednesday, conditions are expected to shift slightly: a partly sunny day beckons with a high near 79 degrees, bringing a mix of warmth and continued blustery winds.\n\nThe beach along Lake Michigan appears subdued, with waves no doubt reflecting the stirring winds, likely rendering them more animated than calm. While there doesn't seem to be any immediate signs of precipitation, the dampness in the air adds a touch of humidity that suggests one may want to carry an umbrella just in case. Since the day is still in its early hours, dressing in layers would be wise; a light jacket coupled with comfortable attire would suit the fluctuating temperatures. Given the conditions, a morning or early afternoon stroll along the water's edge could provide a refreshing encounter with nature, allowing for quiet moments of reflection by the shore before the day fully unfolds. Alternatively, finding an inviting caf\u00e9 where one can savor a warm beverage while watching the world go by might also be the perfect way to embrace this October day.",
     "color_code": "#A9A9A9",
-    "timestamp": "2024-10-30 05:06:25"
+    "timestamp": "2024-10-30 06:04:50"
 }
