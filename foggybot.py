@@ -68,15 +68,22 @@ class ThumbnailDownloader:
             os.makedirs(output_dir, exist_ok=True)
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             filename = os.path.join(output_dir, f"capture_{timestamp}.jpg")
+            latest_filename = os.path.join(output_dir, "capture_latest.jpg")
 
             response = requests.get(url, stream=True)
             response.raise_for_status()
 
+            # Write the timestamped file
             with open(filename, "wb") as f:
                 for chunk in response.iter_content(chunk_size=8192):
                     f.write(chunk)
 
+            # Make a copy as capture_latest.jpg
+            with open(filename, "rb") as src, open(latest_filename, "wb") as dst:
+                dst.write(src.read())
+
             logger.info(f"Captured thumbnail saved to: {filename}")
+            logger.info(f"Latest capture copied to: {latest_filename}")
             return filename
 
         except Exception as e:
@@ -216,7 +223,7 @@ class WeatherReporter:
 
         forecasts += "\n\nReview this image and assess the weather, specifically looking for where any preciptitation is, the clarity of the day, and more. The image is a view of the beach in Evanston, looking East from a parks department building, towards Lake Michigan. \n\nConsidering the weather forecast and the image, please write a weather report for Evanston capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how rough or calm the waves look; how wet it is; how one might best dress for the weather; how seasonable the temperature is for the region; and what one might do given the conditions, day, and time. Remember: you will generate this report many times a day, your recommended activities should be relatively mundane and not too cliche or stereotypical."
 
-        forecasts += "\n\nDo not use headers or other formatting in your response. Just write one to two single paragraphs that are elegant, don't use bullet points or exclamation marks, don't mention the images as input, and use emotive words more often than numbers and figures – but don't be flowery. You write like a straight news journalist describing the scene, producing a work suitable for someone calmly reading it on a classical radio station between songs. With a style somewhere between Linda Wertheimer, meteorologist Tom Skilling, and George Saunders."
+        forecasts += "\n\nDo not use headers or other formatting in your response. Just write one to two single paragraphs that are elegant, don't use bullet points or exclamation marks, don't mention the images as input, and use emotive words more often than numbers and figures – but don't be flowery. You write like a straight news journalist describing the scene, producing a work suitable for someone calmly reading it on a classical radio station between songs. With a style somewhere between anchor Bill Kurtis, meteorologist Tom Skilling, and Studs Terkel."
 
         forecasts += "\n\nRemember to keep the response under 500 words."
 
