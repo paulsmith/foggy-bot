@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-10-30T00:00:00-05:00",
+                "name": "Tonight",
+                "startTime": "2024-10-29T23:00:00-05:00",
                 "endTime": "2024-10-30T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 67,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The night sky over Evanston is cloaked in a thick veil of clouds, with temperatures resting gently around 67 degrees. A noticeable southwest wind, brisk and resolute, sweeps in at 20 to 25 mph, occasionally gusting up to 35 mph, leaving a hint of anticipation for the day ahead. As dawn approaches, the clouds will begin to part, allowing glimpses of sunshine to filter through, but the temperature will gradually fall to a comfortable 75 degrees by afternoon. Today promises to be partly sunny, although those same winds will remain, with gusts reaching as high as 40 mph, bringing a slight chill that may bite at the edges of any outdoor plans.\n\nWhile the waves of Lake Michigan are not particularly fierce at this hour, the stirring winds may kick them up as the day unfolds, creating a dynamic backdrop for a stroll along the shore. Given the weather conditions, layers are advisable\u2014perhaps a light jacket or a comfortable sweater to guard against the briskness. For those seeking solace in this urban setting, a walk along the beach or a visit to one of Evanston's charming coffee spots could provide a serene respite, allowing one to enjoy the quiet beauty that such a transitional time of year can bring. The weather now invites contemplation less than adventure, making it an ideal time to catch up on a book or indulge in moments of solitude as the world awakens.",
-    "color_code": "#5A8D9D",
-    "timestamp": "2024-10-30 00:16:51"
+    "weather_report": "The current conditions in Evanston reveal a quiet beachside scene, marked by cloudy skies that wrap the night in muted tones. With a temperature resting at a comfortable 67 degrees, a brisk wind from the south-southwest is stirring, bringing gusts that may challenge the warmth outside. Tonight offers little in the way of precipitation, though the winds may leave a hint of chill in the air. As dawn approaches, Wednesday promises a shift to partly sunny skies, allowing the sun to break through and elevate the daytime high to a pleasant 78 degrees before temperatures dip slightly in the afternoon.\n\nThe waves of Lake Michigan, though likely creating some froth under this wind, appear calm for now, reflecting a tranquil environment perfect for an evening stroll. For those venturing out, light layers would suffice, perhaps a comfortable cardigan or light jacket to counter the wind. Seasonal for late October, the weather invites locals to enjoy a leisurely afternoon at the park or a casual bike ride along the lakefront, embracing the tranquility before the full force of autumn sets in.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-10-30 00:34:46"
 }
