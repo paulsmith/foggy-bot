@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T15:51:00+00:00",
-            "temperature_f": 71.96,
-            "temperature_c": 22.2,
-            "humidity": 63.723105176793,
+            "timestamp": "2024-10-30T16:51:00+00:00",
+            "temperature_f": 75.02,
+            "temperature_c": 23.9,
+            "humidity": 57.494971511865,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": ""
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-30T12:00:00-05:00",
+                "startTime": "2024-10-30T13:00:00-05:00",
                 "endTime": "2024-10-30T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 79,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "25 mph",
+                "windSpeed": "20 to 25 mph",
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 79. South southwest wind around 25 mph, with gusts as high as 45 mph."
+                "detailedForecast": "Partly sunny, with a high near 79. South southwest wind 20 to 25 mph, with gusts as high as 40 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "20 to 25 mph",
+                "windSpeed": "15 to 25 mph",
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/wind_bkn/tsra_sct,80?size=medium",
                 "shortForecast": "Mostly Cloudy then Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers between 2am and 4am, then showers and thunderstorms. Mostly cloudy. Low around 66, with temperatures rising to around 68 overnight. South southwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "A chance of rain showers between 2am and 4am, then showers and thunderstorms. Mostly cloudy. Low around 66, with temperatures rising to around 68 overnight. South southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "This afternoon in Evanston, the scene is mixed\u2014a canvas of partly sunny skies and warm temperatures nearing 79 degrees, which invites a feeling of early autumn nostalgia. However, the winds swirl fiercely from the south southwest at a brisk pace, reaching up to 25 mph, stirring the leaves and sending occasional gusts of up to 45 mph that dance across the beach. It carries with it both the promise of warm weather and the impending shift to something more turbulent.\n\nAs daylight gives way to evening, a shift looms in the forecast. Showers and thunderstorms are expected, particularly after 2 a.m., with an 80% chance of precipitation later tonight. The low of 66 degrees is forecasted to rise slightly as the night unfolds, but the threat of rain adds an unsettling twist to the evening's calm. The lake's surface appears relatively serene now, yet with the incoming winds, one may imagine the waves building strength in anticipation. For those venturing out, dressing in layers would be wise\u2014perhaps a light jacket to guard against the chill and potential rain, a sensible preparation for what could be a wet night. \n\nAs the hours progress, consider a quiet walk along the shoreline, taking in the convergence of warm breezes and the vibrant autumn colors starting to blanket the landscape. A cozy caf\u00e9 nearby may also beckon, promising refuge from the looming storms, allowing one to savor a warm drink while watching the clouds swirl above.",
-    "color_code": "#A9C0C8",
-    "timestamp": "2024-10-30 12:04:56"
+    "weather_report": "Evanston greets this autumn afternoon with a soft warmth as partly sunny skies stretch overhead, inviting residents to enjoy the light breeze. The temperature hovers pleasantly near 79 degrees, with gusts from the south southwest stirring up the air, creating a lively atmosphere. However, the tranquility of the day is set to be fleeting, as tonight a significant chance for rain looms on the horizon. Clouds will gather, and showers alongside potential thunderstorms are anticipated between the early morning hours, bringing a notable change in the weather. \n\nCurrently, the beach conditions reflect this transition; the waves appear calm, glistening under the dim sunlight, yet their gentle rhythm may soon be disrupted by incoming precipitation. Observers will find the sand dappled with leaves, an indication of the shifting seasons, and with temperatures still on the rise overnight, dressing in layers will ensure comfort throughout the day. As the rain approaches, a simple stroll along the shoreline might be a fitting way to embrace the season\u2019s beauty before seeking shelter as the evening unfolds. Engaging in quiet moments by the water or enjoying a warm drink with friends can provide a satisfying closing to the day as nature readies itself for a change.",
+    "color_code": "#AAB8B2",
+    "timestamp": "2024-10-30 13:06:19"
 }
