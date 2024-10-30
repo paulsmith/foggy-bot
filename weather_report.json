@@ -7,7 +7,7 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T12:51:00+00:00",
+            "timestamp": "2024-10-30T13:51:00+00:00",
             "temperature_f": 69.08,
             "temperature_c": 20.6,
             "humidity": 67.617642311515,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston awakens to a brisk morning, infused with a mix of sun and clouds that dances across the sky. The air carries a warmth that teeters around 79 degrees, complemented by a stirring south-southwest breeze, bending branches and tossing leaves. As the day rolls on, those gentle gusts, peaking up to 45 mph, will surely invigorate the beachgoers, although they might want to brace themselves against the wind. Despite the mild temperatures, the looming presence of afternoon storms adds a shadowy undertone, hinting at rain showers expected overnight. As the sun sets, the clouds will consolidate, bringing with them a substantial chance of thunderstorms, suggesting the necessity of an umbrella or a waterproof jacket for any evening ventures.\n\nThe lake, a vibrant hue of blue, glimmers invitingly, though the waves appear restless, hinting at the strength of the wind. While conditions remain generally pleasant for a morning stroll or a leisurely picnic by the shoreline, the incoming weather may soon spark an urgency to seek cover. Given the changing skies, light, layered clothing is advisable, allowing for comfort should temperatures climb or dive unexpectedly. This afternoon offers a perfect window for a quiet moment by the beach or perhaps a visit to a local cafe, savoring the day\u2019s fleeting calm before the impending rain whispers through the region.",
-    "color_code": "#73a9cf",
-    "timestamp": "2024-10-30 09:05:32"
+    "weather_report": "In Evanston, this morning unfolds under a canopy of partly sunny skies, where a warm breeze dances down from the south southwest at about 25 miles per hour, gusting refreshingly strong, reaching up to 45 miles per hour. The temperature hovers near 79 degrees, presenting a lovely invitation outdoors for those inclined to explore the coastal paths along Lake Michigan, though the wind promises to keep the air feeling brisk. \n\nAs the day transitions to night, expect a shift; a chance of rain showers will weave into the fabric of a mostly cloudy evening, with temperatures gradually rising back to around 68 degrees after dropping to a low of 66. The wind will continue, unyielding, and the chance of precipitation stands at about 80%, hinting at potential showers and thunderstorms particularly between 2 AM and 4 AM. The beach scene, while currently inviting, may forewarn of wetness to come; those considering outdoor plans might don a light jacket for warmth while preparing for the chance of rain. With the waves reflecting a somewhat restless nature and the looming clouds, activities like a leisurely stroll or a brief visit to the beach may be best enjoyed now before the weather turns more unwelcome.",
+    "color_code": "#88C2D7",
+    "timestamp": "2024-10-30 10:05:22"
 }
