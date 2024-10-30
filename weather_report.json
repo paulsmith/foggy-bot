@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T18:51:00+00:00",
+            "timestamp": "2024-10-30T19:51:00+00:00",
             "temperature_f": 78.98,
             "temperature_c": 26.1,
-            "humidity": 46.96757376811,
-            "wind_speed_mph": 66.03624,
-            "wind_direction": 210,
-            "description": "Mostly Cloudy"
+            "humidity": 48.513245772051,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-30T15:00:00-05:00",
+                "startTime": "2024-10-30T16:00:00-05:00",
                 "endTime": "2024-10-30T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 79,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The afternoon in Evanston unfolds with partly sunny skies, a pleasant warmth reaching towards 79 degrees. The brisk south-southwest wind, gusting up to 40 mph, adds a lively edge to the day, stirring both the air and the waters of Lake Michigan. As the sun begins its descent, the conditions suggest a shift; an incoming chance of showers and thunderstorms looms on the horizon, with expected precipitation hitting between the early hours of the morning.\n\nBy tonight, expect a more somber atmosphere; clouds will blanket the skies, with temperatures quietly rising to a mild 66 degrees. The winds will remain steady, keeping a refreshing chill in the air as humidity increases with the approaching storms. While the beach may appear inviting, with calm waves reflecting the muted light, one should prepare to adapt as the weather transitions. It may be wise to dress in layers, opting for a light jacket to ward off evening coolness and potential rain. As the evening approaches, local residents might find enjoyment in a cozy indoor activity\u2014a visit to a nearby caf\u00e9 or a leisurely stroll through the waterfront park, enjoying the last whispers of autumn before rain settles in.",
-    "color_code": "#A3B3C3",
-    "timestamp": "2024-10-30 15:05:37"
+    "weather_report": "Evanston's afternoon unfolds with a mix of sunshine and a brisk breeze, all part of a pleasantly warm palette that dances around 79 degrees. The south-southwest winds whip along the shoreline, creating a refreshing atmosphere as they gust up to 40 mph, teasing the lake's surface. As the day wanes, clouds will gather, hinting at the impending shift in weather, with chances rising for showers and thunderstorms overnight, carrying an 80% chance of precipitation. While the sand remains dry for now, the cobblestones by the pier might soon feel the touch of rain, as the forecast suggests a sizable accumulation overnight.\n\nGiven the season, these temperatures reflect a comfortable late October, though the approaching storm may warrant a light jacket or a waterproof layer later in the evening. The waves appear relatively calm at this hour, gently lapping at the shore, inviting thoughtful strolls rather than energetic activities. As twilight approaches, a leisurely jaunt along the beach, or perhaps settling into a cozy caf\u00e9 with a view of the darkening horizon, may be the perfect way to savor the evening before the storms roll in.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-10-30 16:04:43"
 }
