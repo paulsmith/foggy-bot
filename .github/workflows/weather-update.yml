@@ -23,7 +23,8 @@ jobs:
 
     - name: Run weather script
       env:
-        OPENAI_API_KEY: ${{ secrets.LLM_API_KEY }}  # For the LLM service
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # For the LLM service
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       run: uv run foggybot.py
 
     - name: Commit and push if changes
