@@ -1,62 +1,62 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Sausalito",
-            "state": "CA",
-            "latitude": 37.7885,
-            "longitude": -122.4071
+            "name": "Evanston",
+            "state": "IL",
+            "latitude": 42.032931,
+            "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T01:43:00+00:00",
-            "temperature_f": 55.094,
-            "temperature_c": 12.83,
-            "humidity": 74.00364469014,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": ""
+            "timestamp": "2024-10-30T02:51:00+00:00",
+            "temperature_f": 73.94,
+            "temperature_c": 23.3,
+            "humidity": 48.076758130037,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 190,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-29T19:00:00-07:00",
-                "endTime": "2024-10-30T06:00:00-07:00",
+                "startTime": "2024-10-29T23:00:00-05:00",
+                "endTime": "2024-10-30T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 52,
+                "temperature": 67,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 52. West wind 5 to 12 mph."
+                "windSpeed": "20 to 25 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 67. South southwest wind 20 to 25 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
                 "name": "Wednesday",
-                "startTime": "2024-10-30T06:00:00-07:00",
-                "endTime": "2024-10-30T18:00:00-07:00",
+                "startTime": "2024-10-30T06:00:00-05:00",
+                "endTime": "2024-10-30T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 62,
+                "temperature": 78,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": null
                 },
-                "windSpeed": "3 to 13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct/rain,70?size=medium",
-                "shortForecast": "Mostly Sunny then Light Rain Likely",
-                "detailedForecast": "Rain likely after 5pm. Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 3 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "20 to 25 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 78, with temperatures falling to around 75 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 40 mph."
             }
         ]
     },
-    "weather_report": "The evening settles gently over Downtown San Francisco, with a soft blanket of partly cloudy skies cradling the city. A low temperature of around 52 whispers a chill that finds its way through the streets, while a light west wind stirs the air, brushing against the remnants of a warm day. As night deepens, the stars play hide and seek, occasionally silhouetting the outlines of the towering skyline. \n\nTomorrow graces us with the promise of rain, beginning after the evening\u2019s rush. The day starts mostly sunny, a deceptive warmth weaving through the air, reaching towards a peak near 62 before succumbing to the inevitable drop in temperature. The wind will carry hints of dampness, gusts reminding us of the changing season\u2014perhaps a light jacket should be your companion should you venture out. Ideal pursuits for a day that unfolds like this might involve in-depth conversations over coffee at a cozy corner caf\u00e9 or an afternoon spent exploring art exhibits, where the ambiance echoes a sense of introspection as the clouds gather overhead, presenting their own gentle drama.",
-    "color_code": "#A0B2C6",
-    "timestamp": "2024-10-29 20:07:04"
+    "weather_report": "As the night deepens over Evanston, the air hangs thick with clouds, holding an enveloping warmth around 67 degrees. A brisk south-southwest wind, gusting at times up to 35 mph, carries the distinct scent of the nearby Lake Michigan, providing a refreshing contrast to the humidity. The beach remains shrouded in a tranquil darkness, and although there is no fog visibly settling in, the atmosphere feels laden with moisture, hinting at a potentially hazy morning.\n\nLooking ahead to tomorrow, the promise of partly sunny skies unfolds as the day progresses\u2014a high near 78 degrees will invite those eager for the mildness of an autumn afternoon. With winds continuing at 20 to 25 mph, expect a refreshing breeze to dance across the shoreline, perhaps making it a little cooler as temperatures dip into the afternoon. This weather invites light layering; a comfortable long-sleeve shirt or a light sweater might be ideal for those planning strolls along the beach to appreciate the changing season. Casual outings could include a visit to local parks or coffee shops, where one can enjoy the seasonal flavors while watching the leaves cascade through the gently swaying trees.",
+    "color_code": "#3E4E9A",
+    "timestamp": "2024-10-29 23:19:55"
 }
