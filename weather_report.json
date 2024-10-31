@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T16:51:00+00:00",
-            "temperature_f": 64.94,
-            "temperature_c": 18.3,
-            "humidity": 75.526486555437,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Cloudy"
+            "timestamp": "2024-10-31T17:51:00+00:00",
+            "temperature_f": 62.059999999999995,
+            "temperature_c": 16.7,
+            "humidity": 72.346821714672,
+            "wind_speed_mph": 70.86816,
+            "wind_direction": 230,
+            "description": "Mostly Cloudy and Windy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-31T13:00:00-05:00",
+                "startTime": "2024-10-31T14:00:00-05:00",
                 "endTime": "2024-10-31T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This afternoon in Evanston, the weather presents a juxtaposition of briskness and clarity. With partly sunny skies and temperatures hovering around a mild 66 degrees before dipping to 52 later, there's a distinct autumnal chill in the air, amplified by a vigorous west-southwest wind gusting up to 45 miles per hour. As clouds drift above, their shapes softened by the light, the atmosphere offers a fresh and invigorating backdrop against the backdrop of Lake Michigan. \n\nHowever, it's important to consider the impact of the wind on the water's surface, which likely stirs the waves into a moderate froth, hinting at a more tumultuous day for those venturing to the beach. The overall scene is inviting yet emphasizes the need for caution by the waterside. Dress appropriately for the fluctuating temperatures; layering would be wise, perhaps a light jacket to shield against the brisk wind as evening approaches and temperatures drop to around 40 degrees. As for the day's activities, it could be the perfect setting for a leisurely stroll along the shore, breathing in the crisp air, or taking a moment to enjoy the shifting light on the water, all while being mindful of the wind's strength. Even as Halloween unfolds this evening, the weather remains a stark reminder of the season's transition, encouraging both reflection and appreciation of the changing landscape.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2024-10-31 13:06:43"
+    "weather_report": "In Evanston this afternoon, the weather presents a blend of partly sunny skies and a brisk, cooling breeze. As daylight wanes, temperatures are expected to hover around 66 degrees, but will gently trend down towards 52, making the air feel noticeably crisper. The wind, swirling from the west-southwest at around 30 mph with gusts soaring to 45 mph, is likely to generate a lively atmosphere along the beach, where the waves dance against the shoreline with a bit more vigor than usual. \n\nAs the sun sets, the clouds will take on a more subdued character, leaving a partly cloudy evening in their wake, with lows nearing 40. It\u2019s a remarkably seasonal afternoon for late October, and with Halloween beckoning, the atmosphere has a festive allure despite the bluster. Those venturing out should consider layering some warm clothing and perhaps donning a windbreaker to shield against the gusts. Sweaters or light jackets paired with jeans would suit the weather well, allowing for comfort as one enjoys a stroll along the lakeshore or participates in local festivities. With the waves appearing slightly choppy, this might not be the best day for boating, but a beach walk or a trip to a nearby caf\u00e9 could provide a refreshing and invigorating experience on this October day.",
+    "color_code": "#A3B3D7",
+    "timestamp": "2024-10-31 14:04:33"
 }
