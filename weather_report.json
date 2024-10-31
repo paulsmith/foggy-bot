@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T19:51:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 64.241540272317,
-            "wind_speed_mph": 78.92136,
+            "timestamp": "2024-10-31T20:51:00+00:00",
+            "temperature_f": 57.02,
+            "temperature_c": 13.9,
+            "humidity": 59.336421444033,
+            "wind_speed_mph": 66.03624,
             "wind_direction": 240,
-            "description": "Mostly Cloudy and Windy"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-31T15:00:00-05:00",
+                "startTime": "2024-10-31T17:00:00-05:00",
                 "endTime": "2024-10-31T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston today, the afternoon unfolds with a mix of sunshine and clouds, creating a tranquil, if brisk, coastal atmosphere. The temperature hover around a mild 66 degrees initially, but as the hours slip by, a noticeable drop will lead to a cooler evening with lows nearing 40. A vigorous west-southwest wind, gusting up to 45 mph, gives a certain edge to the day, causing the lake\u2019s surface to ripple and creating a more spirited ambience along the beach.\n\nThe clarity appears relatively good, with the sun's illumination illuminating the sandy shore, countered by the sway of the waves that suggest a moderate churn from the brisk winds. Observers may find the water\u2019s edge inviting yet slightly chilly, with the air adding a bite that requires adequate layers. Heading into tonight, the skies will gradually cloud over, maintaining a mild invitation towards an evening walk, though bundled up attire is advisable given the sharpness in the air.\n\nToday might resonate with the spirit of Halloween, a time when many embrace the outdoors, perhaps taking in scenic views along the beach or enjoying a calm stroll through nearby parks, appreciating the subtle shifts of autumn at Lake Michigan. As the daylight wanes and the evening settles in, you may find comfort in the cool embrace of a cozy sweater, perfect for enjoying the season\u2019s charms.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-10-31 16:05:20"
+    "weather_report": "As dusk approaches in Evanston, the weather exhibits a blend of chill and briskness, perfectly encapsulating late October. The skies, partly clad in soft clouds, transition from a high near 66 to a much cooler 40 degrees overnight. The winds, robust and relentless, are swirling from the west-southwest, creating an exhilarating rush that pushes the temperature down and stirs the waters of Lake Michigan, causing gentle ripples rather than full tumult.\n\nWith the evening deepening, conditions appear inviting yet crisp, embodying the essence of fall's late charm. There\u2019s a sense of clarity to the air, and while no precipitation is notable, the freshness carries the earthy scent of autumn leaves. Those venturing outdoors this evening might want to layer up, opting for a sturdy jacket to stave off the briskness, particularly in the presence of those sharp gusts reaching up to 45 mph. It\u2019s an ideal time for a solitary stroll along the shoreline, where one can embrace both the solitude and the serene beauty of the lake as darkness envelops the landscape, reflecting upon the day's stillness and transitioning into a tranquil evening.\n\nAs today happens to be Halloween, the anticipation of evening festivities is palpable, yet the cool weather may temper more exuberant outdoor celebrations. Instead, consider enjoying the evening\u2019s highlights indoors or cozying up to a fire with friends, reflecting on the year gone by as trick-or-treaters shuffle through the neighborhoods.",
+    "color_code": "#A1C6EA",
+    "timestamp": "2024-10-31 17:05:13"
 }
