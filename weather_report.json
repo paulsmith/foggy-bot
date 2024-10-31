@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-30T20:00:00-05:00",
+                "startTime": "2024-10-30T21:00:00-05:00",
                 "endTime": "2024-10-31T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 64,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Tonight in Evanston, the atmosphere is charged with the potential of showers and thunderstorms as a warm front moves through the area. The sky, mostly cloudy now, will soon pulse with the rhythm of rain and lightning as temperatures settle around 64 degrees, gradually rising to about 66. Winds from the south-southwest will whip through the region at speeds of 15 to 25 mph, with gusts possibly reaching up to 40 mph, painting a rather restless scene along the shoreline. With an 80% chance of precipitation, it\u2019s clear that those venturing outside would do well to carry an umbrella and dress in layers to adapt to the shifting temperatures.\n\nAs Thursday unfolds, expect more rain and thunderstorms in the early part of the day, tapering off by early afternoon. The high of 66 will give way to cooler temperatures, dropping to about 56 as the storm season echoes the transition into fall. Though the waves may appear agitated under the driving wind, today's conditions suggest a noticing calm rather than a recreational invitation to the beach. Given the weather, it\u2019s an opportune time for some indoor activities\u2014perhaps a warm drink at a local caf\u00e9 or a leisurely visit to a nearby library, allowing for a cozy retreat from the blustery evening ahead.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-10-30 20:32:44"
+    "weather_report": "As evening sets in over Evanston, the air carries a palpable sense of humidity, hinting at the storms expected later tonight. The clouds loom heavily, dark and moist under the waning light. With temperatures hovering around 64 degrees, a gentle rise to 66 overnight coupled with gusty southern winds of up to 25 mph creates an unsettling yet invigorating atmosphere. The forecast calls for showers and thunderstorms to roll in around 2 a.m., with precipitation chances at a noteworthy 80%. Those outside may soon find themselves seeking refuge as drops begin to pelt the ground, potentially adding a quarter to half-inch of moisture to the already dampened landscape.\n\nLooking ahead to Thursday, the morning will yield to a blend of showers and possible thunderstorms giving way to a moment of respite just after noon. Despite a high of 66 degrees, a notable drop to around 56 is anticipated by afternoon, making layering a wise choice for those venturing out. The gusts are expected to intensify, peaking at 45 mph, presenting a blustery reminder of the season. The scenery along the lake's edge may appear turbulent, with rough waves churning against the shoreline, suggesting a possibly turbulent day ahead. Evening plans should take into account the likelihood of rain; cozy evenings indoors with warm beverages could be a fitting antidote to the chilly, unsettled weather.",
+    "color_code": "#4C4D5A",
+    "timestamp": "2024-10-30 21:28:59"
 }
