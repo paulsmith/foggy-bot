@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T21:51:00+00:00",
-            "temperature_f": 78.08,
-            "temperature_c": 25.6,
-            "humidity": 49.971847445519,
-            "wind_speed_mph": 66.03624,
-            "wind_direction": 200,
-            "description": "Cloudy"
+            "timestamp": "2024-10-30T23:51:00+00:00",
+            "temperature_f": 75.92,
+            "temperature_c": 24.4,
+            "humidity": 48.373255174627,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 180,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-30T18:00:00-05:00",
+                "startTime": "2024-10-30T19:00:00-05:00",
                 "endTime": "2024-10-31T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 64,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening settles over Evanston, the atmosphere grows thick with the promise of rain. Currently, the beach is enveloped in a grayish hue, a harbinger of the storms to come. While the air is warm, lingering around 64 degrees, a vigorous wind from the south southwest is stirring up waves and creating an unsettling mixture of calm and chaos along Lake Michigan's shoreline. The gusts\u2014some reaching up to 40 mph\u2014send ripples across the water, and soon enough, showers and thunderstorms are expected to roll through, likely drenching this peaceful scene. The chance of precipitation looms at 80%, with expected rainfall amounts between a quarter and half an inch. \n\nTomorrow promises more tumult, as showers and thunderstorms persist into the early afternoon, tapering off but leaving the skies partly sunny by mid-day. With high temperatures peaking near 66 before retreating to a cooler 56 later on, this weather feels typical for late October in northern Illinois. It would be prudent to dress in layers today\u2014perhaps a light jacket over a long-sleeve shirt\u2014while keeping rain gear handy should you venture outdoors. As the evening unfolds, consider a cozy indoor activity: diving into a good book or cooking a warm meal, avoiding the uncertain elements of the outdoors for the time being.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-10-30 18:05:07"
+    "weather_report": "As night descends over Evanston, the atmosphere is charged with anticipation as storms are brewing on the horizon. A chance of showers and thunderstorms lingers, particularly in the wee hours, underscoring the unsettled nature of the evening. With temperatures hovering around a mild 64 degrees, there\u2019s a noticeable humidity in the air that feels typical for this time of year. The south southwest winds are brisk, stirring the leaves and hinting at gusts that could reach a notable 40 mph, suggesting that it might be wise to secure loose items outdoors.\n\nTomorrow promises more of the same unsettled conditions, with rain forecasted to continue until early afternoon, tapering then to a slight chance of lingering storms. Despite a high near 66 degrees, temperatures will begin to descend, leaving a coolness in the air that residents might find reminiscent of late fall. The proximity to the lake only enhances the chill, especially with waves that might be stirred up by the winds. For those venturing out, layering is advisable\u2014a sturdy jacket coupled with weather-appropriate footwear would serve well against both the potential rain and the blustery winds. \n\nGiven the conditions, evenings spent indoors would be best, perhaps finding solace in a warm drink or diving into a good book. However, for the adventurous, a stroll under the sporadic flashes of thunder could evoke a certain thrill, but caution is crucial as nature makes its presence felt. The mood of the day is one of anticipation as Evanston braces for the shifting weather patterns that autumn often brings.",
+    "color_code": "#8B8B8B",
+    "timestamp": "2024-10-30 19:21:21"
 }
