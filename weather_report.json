@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T12:51:00+00:00",
-            "temperature_f": 62.959999999999994,
-            "temperature_c": 17.2,
-            "humidity": 86.906635257068,
+            "timestamp": "2024-10-31T14:51:00+00:00",
+            "temperature_f": 64.94,
+            "temperature_c": 18.3,
+            "humidity": 75.526486555437,
             "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 180,
-            "description": "Light Rain"
+            "wind_direction": 210,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-10-31T09:00:00-05:00",
+                "startTime": "2024-10-31T11:00:00-05:00",
                 "endTime": "2024-10-31T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "20 to 30 mph",
+                "windSpeed": "25 to 30 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/rain_showers,20?size=medium",
                 "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers before 1pm. Mostly cloudy. High near 66, with temperatures falling to around 51 in the afternoon. Southwest wind 20 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Scattered rain showers before 1pm. Partly sunny. High near 66, with temperatures falling to around 51 in the afternoon. Southwest wind 25 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston this morning, the atmosphere is laden with a sense of shifting weather. As scattered rain showers make their exit before the noon hour, the clouds loom overhead, cloaking the skyline in a muted gray. A brisk southwesterly wind is directing its strong gusts toward the shoreline, whipping the waves into a lively dance, hinting at the more turbulent waters of Lake Michigan. The temperature, held up near 66 degrees, will soon retreat, dipping into the chilly realm of the low 50s as the afternoon unfolds, evoking a quintessential autumn chill.\n\nTonight promises to be a bit more subdued, the clouds letting up as they drift away, giving way to a clearer sky and a low around 40. The persistent winds will remain, continuing to stir the evening air with a vigor that suggests those venturing out should bundle up. Given these conditions, a layered outfit with a warm jacket should suffice for those making their way outdoors. The day doesn't lend itself to thrilling outdoor pursuits, but a stroll along the beach might offer a refreshingly brisk experience or a moment of tranquility by the lakeside as the day winds down. For the more indoor-inclined, perhaps a cozy afternoon with a good book could provide a fitting way to usher in another chilly autumn day in this charming corner of the Midwest.",
-    "color_code": "#5F9EA0",
-    "timestamp": "2024-10-31 09:05:20"
+    "weather_report": "In Evanston today, the weather is shaping up as an intriguing blend of fleeting showers and brisk winds, characteristic of an autumn afternoon. As the morning's scattered rain gives way to a partly sunny sky, the temperature will hover around 66 degrees, before the afternoon chill nudges it down to the low 50s. Gusty southwest winds, reaching 30 mph with sharper gusts up to 50 mph, will bring a distinct bite to the air, nudging residents toward warmer layers. The scenery along the beach conveys a sense of unsettled calm; dark, moody clouds linger overhead, while the waves appear to be subtly agitated. The lake reflects the day's ambiance, with hints of turquoise battling the gray above.\n\nAs the evening approaches, expect a drop toward the low 40s, with continued strong winds, fostering a brisk atmosphere. It would be wise to don something comfortable yet warm, perhaps a sturdy jacket and a good pair of shoes. As for activities, indoors might be the best refuge, perhaps diving into a good book or enjoying a cozy afternoon coffee at a local caf\u00e9, as the weather aligns itself with quiet contemplation rather than outdoor adventure. Given the seasonal nature of these conditions, it serves as a gentle reminder of autumn's gradual embrace and the beauty found within its transient charm.",
+    "color_code": "#7C9C9C",
+    "timestamp": "2024-10-31 11:05:50"
 }
