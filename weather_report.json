@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T00:51:00+00:00",
-            "temperature_f": 73.94,
-            "temperature_c": 23.3,
-            "humidity": 51.681409983201,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 180,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-10-31T01:51:00+00:00",
+            "temperature_f": 73.04,
+            "temperature_c": 22.8,
+            "humidity": 55.037015331205,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 190,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening sets in over Evanston, the air carries a palpable sense of humidity, hinting at the storms expected later tonight. The clouds loom heavily, dark and moist under the waning light. With temperatures hovering around 64 degrees, a gentle rise to 66 overnight coupled with gusty southern winds of up to 25 mph creates an unsettling yet invigorating atmosphere. The forecast calls for showers and thunderstorms to roll in around 2 a.m., with precipitation chances at a noteworthy 80%. Those outside may soon find themselves seeking refuge as drops begin to pelt the ground, potentially adding a quarter to half-inch of moisture to the already dampened landscape.\n\nLooking ahead to Thursday, the morning will yield to a blend of showers and possible thunderstorms giving way to a moment of respite just after noon. Despite a high of 66 degrees, a notable drop to around 56 is anticipated by afternoon, making layering a wise choice for those venturing out. The gusts are expected to intensify, peaking at 45 mph, presenting a blustery reminder of the season. The scenery along the lake's edge may appear turbulent, with rough waves churning against the shoreline, suggesting a possibly turbulent day ahead. Evening plans should take into account the likelihood of rain; cozy evenings indoors with warm beverages could be a fitting antidote to the chilly, unsettled weather.",
-    "color_code": "#4C4D5A",
-    "timestamp": "2024-10-30 21:28:59"
+    "weather_report": "In Evanston tonight, the atmosphere is charged with the promise of rain, as showers and thunderstorms are expected to roll through the area between the early morning hours. The clouds loom heavily, suggesting that the night will be predominantly gray, with temperatures hovering in the low 60s and gradually rising. A brisk south-southwest wind, gusting up to 40 mph, adds a lively chill to the air, making it a rather turbulent evening along the lakeshore.\n\nFor Thursday, a similar narrative unfolds, with a high likelihood of more rain in the morning, tapering off to isolated showers by early afternoon. The temperatures will drop, painting a cooler picture as the day progresses. As precipitation is anticipated to accumulate between a quarter and half an inch, the beach may appear somber and uninviting, with gusty winds stirring up the surface of Lake Michigan, likely creating a rougher sea. As one considers stepping outside, layers will be essential; a sturdy jacket and perhaps an umbrella would be prudent to navigate the dampness. For those who prefer to stay dry, a cozy afternoon indoors, indulging in a good book or savoring a warm drink, might be the best course of action until the skies clear.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2024-10-30 22:11:40"
 }
