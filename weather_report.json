@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T06:51:00+00:00",
-            "temperature_f": 71.06,
-            "temperature_c": 21.7,
-            "humidity": 58.847971651165,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 190,
+            "timestamp": "2024-10-31T07:51:00+00:00",
+            "temperature_f": 69.98,
+            "temperature_c": 21.1,
+            "humidity": 65.569642339015,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the night is shrouded in clouds, with scattered showers and sporadic thunderstorms looming on the horizon. The overnight chill sits at around 64 degrees, subtly rising as the night deepens, while gusty winds whip from the south-southwest, gusting up to 45 miles per hour. The air is thick with the promise of rain, with a 70% chance that those showers will become a reality, likely bringing a quarter to half an inch of new precipitation\u2014an unwelcome reminder of nature\u2019s unpredictability this time of year. \n\nAs dawn approaches, the day will unfold with more storms likely, particularly before 1 pm. The high barely nudges to around 66 degrees, only to drop sharply into the afternoon as temperatures settle around 51. Those venturing outside should prepare for brisk conditions, complemented by a coat to shield against the wind and rain-soaked elements. The waves of Lake Michigan may be turbulent, reflecting the inclement weather, making for a robust view, but best observed from a distance. For those looking for refuge, curling up with a good book or visiting a local caf\u00e9 would provide solace from the tempestuous weather, especially as the day promises to be anything but serene.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2024-10-31 03:06:42"
+    "weather_report": "As dawn approaches in Evanston, the night air carries the promise of rain, with scattered thunderstorms a likelihood in the hours ahead. Currently, the temperature rests comfortably around 64 degrees, but it is expected to creep upward as the night unfolds. A robust south-southwest wind is stirring with notable gusts, adding a vigorous touch to the atmosphere, hinting at a transition that will see weather conditions shift substantially by midday. The forecast suggests a high near 66 degrees, yet it may feel much cooler as the afternoon progresses. \n\nResidents should anticipate a day characterized by a damp chill, with the rising likelihood of rain leading to puddled streets. Given the high potential for precipitation\u2014about a quarter to half an inch\u2014venturing outdoors will require cautious attire. A light waterproof jacket and sturdy shoes would provide comfort while weathering the elements. The beach, though shrouded in night, reflects a mood that may soon shift from tranquil to tumultuous as the waves pick up strength with the brewing winds. Engaging in leisurely indoor activities such as visiting a local bookstore or enjoying a warm beverage at a caf\u00e9 might be the most appealing choices today, allowing one to stay dry while observing the dramatic interplay of autumn weather outside.",
+    "color_code": "#4B4A4B",
+    "timestamp": "2024-10-31 04:05:33"
 }
