@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T17:51:00+00:00",
-            "temperature_f": 62.059999999999995,
-            "temperature_c": 16.7,
-            "humidity": 72.346821714672,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-10-31T19:51:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 64.241540272317,
+            "wind_speed_mph": 78.92136,
+            "wind_direction": 240,
+            "description": "Mostly Cloudy and Windy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As you step outside this afternoon in Evanston, you'll find the skies displaying a blend of gray and white, with clouds that evoke a sense of autumn's embrace. The temperature hovers around a mild 66 degrees, although you may feel a chill as it dips to 52 in the afternoon. A robust west-southwest wind is at play, touching 30 mph and occasionally gusting up to 45 mph, giving those gentle waves on Lake Michigan a bit of a wild character. Despite the lack of precipitation, the air carries a crispness that signals the advance of winter.\n\nAs night falls, expect partly cloudy skies and a cooler ambiance, with temperatures settling around 40 degrees. The wind will continue its lively dance from the west-northwest, reminding us of the season's transition. For those contemplating an outing, dressing in layers is wise; perhaps a warm sweater and a light jacket, along with closed-toed shoes, will serve you well against the wind and chill. With today marked as Halloween, consider engaging in some neighborhood strolls to enjoy festive decorations adorning homes, or perhaps gather for cozy gatherings with friends highlighting the spirit of the occasion. As the waves roll gently against the shoreline, their rhythmic pulse is perfect for quiet reflection or a brisk walk along the beach, where nature and the crisp air blend harmoniously.",
-    "color_code": "#A9B3C1",
-    "timestamp": "2024-10-31 15:05:50"
+    "weather_report": "In Evanston today, the afternoon unfolds with a mix of sunshine and clouds, creating a tranquil, if brisk, coastal atmosphere. The temperature hover around a mild 66 degrees initially, but as the hours slip by, a noticeable drop will lead to a cooler evening with lows nearing 40. A vigorous west-southwest wind, gusting up to 45 mph, gives a certain edge to the day, causing the lake\u2019s surface to ripple and creating a more spirited ambience along the beach.\n\nThe clarity appears relatively good, with the sun's illumination illuminating the sandy shore, countered by the sway of the waves that suggest a moderate churn from the brisk winds. Observers may find the water\u2019s edge inviting yet slightly chilly, with the air adding a bite that requires adequate layers. Heading into tonight, the skies will gradually cloud over, maintaining a mild invitation towards an evening walk, though bundled up attire is advisable given the sharpness in the air.\n\nToday might resonate with the spirit of Halloween, a time when many embrace the outdoors, perhaps taking in scenic views along the beach or enjoying a calm stroll through nearby parks, appreciating the subtle shifts of autumn at Lake Michigan. As the daylight wanes and the evening settles in, you may find comfort in the cool embrace of a cozy sweater, perfect for enjoying the season\u2019s charms.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-10-31 16:05:20"
 }
