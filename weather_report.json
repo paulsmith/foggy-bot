@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T23:51:00+00:00",
-            "temperature_f": 75.92,
-            "temperature_c": 24.4,
-            "humidity": 48.373255174627,
-            "wind_speed_mph": 49.929840000000006,
+            "timestamp": "2024-10-31T00:51:00+00:00",
+            "temperature_f": 73.94,
+            "temperature_c": 23.3,
+            "humidity": 51.681409983201,
+            "wind_speed_mph": 53.95644000000001,
             "wind_direction": 180,
-            "description": "Partly Cloudy"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-30T19:00:00-05:00",
+                "startTime": "2024-10-30T20:00:00-05:00",
                 "endTime": "2024-10-31T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 64,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night descends over Evanston, the atmosphere is charged with anticipation as storms are brewing on the horizon. A chance of showers and thunderstorms lingers, particularly in the wee hours, underscoring the unsettled nature of the evening. With temperatures hovering around a mild 64 degrees, there\u2019s a noticeable humidity in the air that feels typical for this time of year. The south southwest winds are brisk, stirring the leaves and hinting at gusts that could reach a notable 40 mph, suggesting that it might be wise to secure loose items outdoors.\n\nTomorrow promises more of the same unsettled conditions, with rain forecasted to continue until early afternoon, tapering then to a slight chance of lingering storms. Despite a high near 66 degrees, temperatures will begin to descend, leaving a coolness in the air that residents might find reminiscent of late fall. The proximity to the lake only enhances the chill, especially with waves that might be stirred up by the winds. For those venturing out, layering is advisable\u2014a sturdy jacket coupled with weather-appropriate footwear would serve well against both the potential rain and the blustery winds. \n\nGiven the conditions, evenings spent indoors would be best, perhaps finding solace in a warm drink or diving into a good book. However, for the adventurous, a stroll under the sporadic flashes of thunder could evoke a certain thrill, but caution is crucial as nature makes its presence felt. The mood of the day is one of anticipation as Evanston braces for the shifting weather patterns that autumn often brings.",
-    "color_code": "#8B8B8B",
-    "timestamp": "2024-10-30 19:21:21"
+    "weather_report": "Tonight in Evanston, the atmosphere is charged with the potential of showers and thunderstorms as a warm front moves through the area. The sky, mostly cloudy now, will soon pulse with the rhythm of rain and lightning as temperatures settle around 64 degrees, gradually rising to about 66. Winds from the south-southwest will whip through the region at speeds of 15 to 25 mph, with gusts possibly reaching up to 40 mph, painting a rather restless scene along the shoreline. With an 80% chance of precipitation, it\u2019s clear that those venturing outside would do well to carry an umbrella and dress in layers to adapt to the shifting temperatures.\n\nAs Thursday unfolds, expect more rain and thunderstorms in the early part of the day, tapering off by early afternoon. The high of 66 will give way to cooler temperatures, dropping to about 56 as the storm season echoes the transition into fall. Though the waves may appear agitated under the driving wind, today's conditions suggest a noticing calm rather than a recreational invitation to the beach. Given the weather, it\u2019s an opportune time for some indoor activities\u2014perhaps a warm drink at a local caf\u00e9 or a leisurely visit to a nearby library, allowing for a cozy retreat from the blustery evening ahead.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-10-30 20:32:44"
 }
