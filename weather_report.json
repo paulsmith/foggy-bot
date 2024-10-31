@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T02:51:00+00:00",
-            "temperature_f": 71.96,
-            "temperature_c": 22.2,
-            "humidity": 57.080129993681,
-            "wind_speed_mph": 62.00964,
+            "timestamp": "2024-10-31T04:51:00+00:00",
+            "temperature_f": 71.06,
+            "temperature_c": 21.7,
+            "humidity": 54.758930085835,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 180,
-            "description": "Mostly Clear"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-10-30T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-10-31T01:00:00-05:00",
                 "endTime": "2024-10-31T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 64,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "20 to 25 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/tsra,80?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms between 2am and 4am, then showers and thunderstorms. Mostly cloudy. Low around 64, with temperatures rising to around 66 overnight. South southwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra,80?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of showers and thunderstorms between 2am and 4am, then showers and thunderstorms. Cloudy. Low around 64, with temperatures rising to around 66 overnight. South southwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "15 to 25 mph",
+                "windSpeed": "15 to 30 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/tsra_sct,90/tsra_sct,30?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms before 1pm, then a slight chance of showers and thunderstorms between 1pm and 2pm. Partly sunny. High near 66, with temperatures falling to around 56 in the afternoon. Southwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Showers and thunderstorms before 1pm, then a slight chance of showers and thunderstorms between 1pm and 2pm. Partly sunny. High near 66, with temperatures falling to around 56 in the afternoon. Southwest wind 15 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As evening blankets Evanston, a sense of stormy anticipation hangs in the air. With temperatures gently nudging 64 degrees, they are expected to rise slightly overnight. The sky is mostly clouded, hinting at what\u2019s to come\u2014a mix of showers and thunderstorms through the night. The winds whistle with authority, gusting up to 40 miles per hour, as the community braces for an 80% chance of precipitation, which could yield a quarter to half an inch of rain. The darkened beach, once lively with sunbathers and families, now lies quiet and ominous, the churning waves foreshadowing the unsettled weather that is to engulf the region.\n\nThursday will greet residents with lingering showers and thunderstorms in the morning, gradually giving way to pockets of sun peeking through the clouds by afternoon. Although high temperatures are expected to stabilize around 66 degrees before descending into the 50s, the air carries an undeniable chill, setting a tone for an unusual late October day. It would be wise to dress in layers, perhaps with a sturdy rain jacket and comfortable shoes, as the conditions may shift unexpectedly. While outdoor plans may be dampened, indoor visits to local cafes or bookstores can make for a cozy retreat, offering warmth and a respite from the brewing storm.",
-    "color_code": "#4B4BFF",
-    "timestamp": "2024-10-30 23:06:48"
+    "weather_report": "As the clock ticks into the early hours of the morning in Evanston, a palpable sense of moisture hangs in the air, heralding the likelihood of showers and thunderstorms. The sky is shrouded in heavy cloud cover, with the temperature lingering at a comfortable 64 degrees, expected to climb slightly as the night progresses. A brisk south-southwest wind, gusting dramatically at times, creates a restless energy along the shoreline, hinting at tumultuous conditions in the waters nearby.\n\nThursday promises to be a day of fleeting sunshine shattered by persistent rain. The morning will see a continuation of showers and thunderstorms, likely tapering off by early afternoon, but not before bringing additional rainfall of up to half an inch. As temperatures drop to around 56 later in the day, the air will feel quite different, inviting thick layers for comfort. Given the aggressive winds\u2014a mix of gusty beginnings and later calmness\u2014dress warmly, perhaps in a waterproof jacket, while sturdy shoes may help navigate the slick pavement. With a combination of rain-soaked landscapes and riled waters, the beach is best viewed from a distance today, but finding shelter to unwind with a good book or enjoying a warm beverage at a local caf\u00e9 could provide a perfect opportunity to savor this dreary but contemplative weather.",
+    "color_code": "#4B6F6F",
+    "timestamp": "2024-10-31 01:06:58"
 }
