@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T04:51:00+00:00",
+            "timestamp": "2024-10-31T05:51:00+00:00",
             "temperature_f": 71.06,
             "temperature_c": 21.7,
             "humidity": 54.758930085835,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 180,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Mostly Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the clock ticks into the early hours of the morning in Evanston, a palpable sense of moisture hangs in the air, heralding the likelihood of showers and thunderstorms. The sky is shrouded in heavy cloud cover, with the temperature lingering at a comfortable 64 degrees, expected to climb slightly as the night progresses. A brisk south-southwest wind, gusting dramatically at times, creates a restless energy along the shoreline, hinting at tumultuous conditions in the waters nearby.\n\nThursday promises to be a day of fleeting sunshine shattered by persistent rain. The morning will see a continuation of showers and thunderstorms, likely tapering off by early afternoon, but not before bringing additional rainfall of up to half an inch. As temperatures drop to around 56 later in the day, the air will feel quite different, inviting thick layers for comfort. Given the aggressive winds\u2014a mix of gusty beginnings and later calmness\u2014dress warmly, perhaps in a waterproof jacket, while sturdy shoes may help navigate the slick pavement. With a combination of rain-soaked landscapes and riled waters, the beach is best viewed from a distance today, but finding shelter to unwind with a good book or enjoying a warm beverage at a local caf\u00e9 could provide a perfect opportunity to savor this dreary but contemplative weather.",
-    "color_code": "#4B6F6F",
-    "timestamp": "2024-10-31 01:06:58"
+    "weather_report": "The night in Evanston is heavy with clouds and the air is electric, with a chance of showers and thunderstorms rolling in from the south. As the clock ticks past two in the morning, the temperature hangs around a mild 64 degrees, with an increase as the night progresses. Winds are formidable tonight, reaching up to 45 mph, creating an ominous and turbulent ambiance. Look out for rain, as forecasters indicate significant precipitation is likely, with amounts potentially exceeding half an inch by dawn.\n\nAs Thursday dawns, this trend of unsettled weather will continue. The morning will see more showers and thunderstorms, but a glimmer of hope may emerge into the early afternoon with a slight chance of breaks in precipitation. The high expected is near 66, but temperatures are forecast to fall as the day wears on, leaving a distinctly cool vibe by afternoon, more typical of fall. The winds will remain strong, gusting up to 50 mph, making for a blustery outing if one ventures outside. Dressing in layers, equipped with a waterproof jacket and sturdy footwear, would be wise for those brave souls considering a walk along the beach or park.\n\nWith these conditions lingering, a cozy morning at home, perhaps with a warm beverage and a good book, might be the perfect remedy. If the rain abates, an afternoon stroll is a possibility\u2014just watch your step on the wet paths. The day is a reminder that autumn in Evanston can swing from tranquility to turbulence, showcasing the changing seasons in all their glory.",
+    "color_code": "#4B0082",
+    "timestamp": "2024-10-31 02:05:27"
 }
