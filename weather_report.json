@@ -11,15 +11,15 @@
             "temperature_f": 62.059999999999995,
             "temperature_c": 16.7,
             "humidity": 72.346821714672,
-            "wind_speed_mph": 70.86816,
-            "wind_direction": 230,
-            "description": "Mostly Cloudy and Windy"
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-31T14:00:00-05:00",
+                "startTime": "2024-10-31T15:00:00-05:00",
                 "endTime": "2024-10-31T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston this afternoon, the weather presents a blend of partly sunny skies and a brisk, cooling breeze. As daylight wanes, temperatures are expected to hover around 66 degrees, but will gently trend down towards 52, making the air feel noticeably crisper. The wind, swirling from the west-southwest at around 30 mph with gusts soaring to 45 mph, is likely to generate a lively atmosphere along the beach, where the waves dance against the shoreline with a bit more vigor than usual. \n\nAs the sun sets, the clouds will take on a more subdued character, leaving a partly cloudy evening in their wake, with lows nearing 40. It\u2019s a remarkably seasonal afternoon for late October, and with Halloween beckoning, the atmosphere has a festive allure despite the bluster. Those venturing out should consider layering some warm clothing and perhaps donning a windbreaker to shield against the gusts. Sweaters or light jackets paired with jeans would suit the weather well, allowing for comfort as one enjoys a stroll along the lakeshore or participates in local festivities. With the waves appearing slightly choppy, this might not be the best day for boating, but a beach walk or a trip to a nearby caf\u00e9 could provide a refreshing and invigorating experience on this October day.",
-    "color_code": "#A3B3D7",
-    "timestamp": "2024-10-31 14:04:33"
+    "weather_report": "As you step outside this afternoon in Evanston, you'll find the skies displaying a blend of gray and white, with clouds that evoke a sense of autumn's embrace. The temperature hovers around a mild 66 degrees, although you may feel a chill as it dips to 52 in the afternoon. A robust west-southwest wind is at play, touching 30 mph and occasionally gusting up to 45 mph, giving those gentle waves on Lake Michigan a bit of a wild character. Despite the lack of precipitation, the air carries a crispness that signals the advance of winter.\n\nAs night falls, expect partly cloudy skies and a cooler ambiance, with temperatures settling around 40 degrees. The wind will continue its lively dance from the west-northwest, reminding us of the season's transition. For those contemplating an outing, dressing in layers is wise; perhaps a warm sweater and a light jacket, along with closed-toed shoes, will serve you well against the wind and chill. With today marked as Halloween, consider engaging in some neighborhood strolls to enjoy festive decorations adorning homes, or perhaps gather for cozy gatherings with friends highlighting the spirit of the occasion. As the waves roll gently against the shoreline, their rhythmic pulse is perfect for quiet reflection or a brisk walk along the beach, where nature and the crisp air blend harmoniously.",
+    "color_code": "#A9B3C1",
+    "timestamp": "2024-10-31 15:05:50"
 }
