@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T09:51:00+00:00",
-            "temperature_f": 66.02,
-            "temperature_c": 18.9,
-            "humidity": 75.137365730218,
+            "timestamp": "2024-10-31T10:51:00+00:00",
+            "temperature_f": 64.94,
+            "temperature_c": 18.3,
+            "humidity": 75.526486555437,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 200,
-            "description": ""
+            "wind_direction": 210,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-10-31T06:00:00-05:00",
+                "startTime": "2024-10-31T07:00:00-05:00",
                 "endTime": "2024-10-31T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 to 30 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,70/tsra,20?size=medium",
-                "shortForecast": "Scattered Showers And Thunderstorms",
-                "detailedForecast": "Scattered showers and thunderstorms before 1pm. Mostly cloudy. High near 66, with temperatures falling to around 51 in the afternoon. Southwest wind 15 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/rain_showers,20?size=medium",
+                "shortForecast": "Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers before 1pm. Mostly cloudy. High near 66, with temperatures falling to around 51 in the afternoon. Southwest wind 15 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the landscape is shrouded in a veil of low-hanging clouds, hinting at the unsettled weather ahead. Scattered showers and thunderstorms are expected to plague the morning hours, lingering until about 1 PM. With gusty winds from the southwest, the air feels brisk, and the high temperature aims to reach a mild 66\u00b0F before easing into the cool embrace of the afternoon, where it will dip to around 51\u00b0F. For those venturing outside, be prepared for a real feel that may be significantly cooler due to the substantial gusts, with speeds soaring to 30 mph and gusts that can reach up to 50 mph. The chance of precipitation, lingering at a robust 70%, suggests that rain gear might be a prudent choice.\n\nAs the day unfolds, the cloud cover may break slightly, but expect the skies to remain mostly cloudy, while the breeze whips across Lake Michigan, churning the waters into a frosty tableau. Waves may appear rough today, reflecting the turbulent conditions as rain taps impatiently on rooftops and leaves flutter in the gusty winds. Tonight, conditions will settle to a partly cloudy lull, with temperatures dipping down to around 40\u00b0F, so a warm jacket will ensure comfort as the evening progresses. This day might be best spent indoors, perhaps enjoying a warm beverage while diving into a good book or catching up on some indoor hobbies \u2014 the weather invites a cozy retreat rather than outdoor escapades.",
-    "color_code": "#6B7B8C",
-    "timestamp": "2024-10-31 06:05:08"
+    "weather_report": "As dawn breaks over Evanston, the weather carries a touch of autumnal chill. The morning is characterized by a mix of lingering clouds and scattered rain showers that are gradually dissipating as the clock moves toward midday. With temperatures peaking near a brisk 66 degrees earlier, the air is set to cool to around 51 degrees by afternoon, ushering in a stark sense of the season. A robust southwest wind whips through the area, with gusts soaring up to 50 mph, adding an energetic bite to the atmosphere. Today, there\u2019s a 70% chance of precipitation, hinting at the remnants of rainfall lingering on the horizon.\n\nThis evening promises partly cloudy skies and a drop to near 40 degrees, encouraging residents to reach for warm layers and jackets if venturing outdoors. The waves on Lake Michigan, while calm for now, could become restless with the wind's force. Those planning to stroll along the beach should prepare for cooler conditions and the occasional gust that stirs the surface of the lake. For the more adventurous, an afternoon exploration through one of the local parks could be invigorating, allowing one to appreciate the vibrant hues of fall foliage against a dreary sky, while others might find solace in a cozy caf\u00e9, watching the world swirl by through fogged windows.",
+    "color_code": "#A7B3C4",
+    "timestamp": "2024-10-31 07:08:22"
 }
