@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-01T13:00:00-05:00",
+                "startTime": "2024-11-01T15:00:00-05:00",
                 "endTime": "2024-11-01T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "NNE",
+                "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 51. North northeast wind around 5 mph."
+                "detailedForecast": "Sunny, with a high near 51. Northeast wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This afternoon in Evanston, the atmosphere carries a refreshing clarity, bathed in sunlight as the day unfolds with a high near 51 degrees. A gentle north-northeast wind whispers through the trees, promising a pleasant experience as you step outside. As the sun descends, temperatures will dip to around 44 degrees, but the largely clear skies should make for a lovely evening. With no precipitation in sight, the shores of Lake Michigan reflect that vivid blue, holding a calm demeanor, their gentle waves barely disturbing the surface\u2014a welcome sight for those wishing to enjoy a stroll along the beach.\n\nGiven the season, this weather feels seasonably cool, worthy of a light jacket or sweater as you navigate the afternoon. The tranquility invites an afternoon walk along the pier or perhaps the simple pleasure of reading a book with the sound of soft waves complementing the scenery. As the day edges toward dusk, the harmony of nature beckons one to embrace the calm; perhaps seek refuge with a warm beverage at a nearby caf\u00e9 or enjoy the fresh, crisp breeze outdoors as fall unfolds its tapestry of colors.",
-    "color_code": "#A3C1E6",
-    "timestamp": "2024-11-01 14:04:36"
+    "weather_report": "This afternoon in Evanston, the sun casts a warm glow over Lake Michigan, reflecting the tranquil blue expanse that promises an agreeable day ahead. With temperatures hovering around 51 degrees, the gentle northeast winds are barely whispering, creating a serene atmosphere that feels inviting. The skies remain mostly clear, with no precipitation to disrupt the pleasant scene, perfect for a leisurely stroll along the beach or a moment of quiet reflection by the water's edge.\n\nAs evening approaches, the temperature is expected to drop to around 44 degrees, maintaining a sense of coziness in the crisp autumn air. A light jacket or layers would be wise to ward off the chill, allowing for comfort as the sun sets and the day concludes. The gentle waves lapping at the shoreline appear largely calm, making it an ideal setting for contemplative thoughts or perhaps a thoughtful conversation with a friend. In this delightful weather, one might consider enjoying the beach, taking in the vibrant colors of the landscape while the last light of the day dances upon the surface of the lake, a fitting tribute to the beauty found in this season.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2024-11-01 15:05:41"
 }
