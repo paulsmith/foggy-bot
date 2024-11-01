@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T08:51:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 64.366395426096,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2024-11-01T09:51:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 67.105479906029,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 300,
             "description": "Partly Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In the serene early hours of November 1st, Evanston greets the day under a partly cloudy sky. The temperature is hovering around 40 degrees, but as the night transitions, it is expected to gradually rise to a slightly warmer 42. The brisk west northwest wind, gusting at times to 15 miles per hour, adds a chill to the air, making it essential to dress warmly\u2014layers are a wise choice, perhaps complemented by a windbreaker if stepping outside.\n\nAs the sun rises, the forecast promises a clear and sunny day ahead, with temperatures peaking at about 51 degrees. The emerging daylight reveals the gentle waves lapping at the shore of Lake Michigan, likely feeling more placid today compared to windier days past. The scene at the beach is tranquil, perfect for a peaceful morning stroll or a quiet moment by the water\u2019s edge, perhaps with a warm beverage in hand. Given the time and the absence of significant precipitation, this day could serve as an invitation to embrace outdoor activities like a leisurely walk through one of Evanston\u2019s lovely parks, enjoying the last hints of autumn before winter settles in for good.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-01 05:06:05"
+    "weather_report": "As dawn breaks over Evanston this morning, one can feel the cool air enveloping the region, with temperatures lingering around 40 degrees. The early hours are greeted with partly cloudy skies that promise a gradual warming as the day progresses. By midday, locals can expect a refreshing high near 51, complemented by a gentle north wind. Despite the absence of precipitation, the lingering chill may make it wise for residents to dress in layers\u2014perhaps a light jacket over a sweater, ensuring comfort as the temperatures fluctuate throughout the day.\n\nLooking towards Lake Michigan, the waters appear calm this morning, reflecting the muted colors of the early light. With the predicted sunny skies, it seems like a perfect opportunity to enjoy a stroll along the beach or a leisurely bike ride along the shoreline. The tranquility of the setting provides a serene backdrop for some quiet contemplation or a warm cup of coffee while watching the waves lap against the shore. As we embrace this seasonable November day, take a moment to appreciate the crisp air and the subtle beauty of the landscape before winter fully settles in.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2024-11-01 06:05:00"
 }
