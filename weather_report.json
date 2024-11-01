@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T15:51:00+00:00",
+            "timestamp": "2024-11-01T16:51:00+00:00",
             "temperature_f": 46.94,
             "temperature_c": 8.3,
-            "humidity": 58.354943194231,
-            "wind_speed_mph": 24.964920000000003,
+            "humidity": 55.876274833743,
+            "wind_speed_mph": 16.91172,
             "wind_direction": 350,
             "description": "Mostly Clear"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-01T12:00:00-05:00",
+                "startTime": "2024-11-01T13:00:00-05:00",
                 "endTime": "2024-11-01T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 51. North northeast wind around 5 mph, with gusts as high as 10 mph."
+                "detailedForecast": "Sunny, with a high near 51. North northeast wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This afternoon in Evanston unfolds under a blue sky, where the sun generously casts its warmth, reaching a high near 51 degrees. The gentle north-northeast breeze stirs the air lightly, creating an atmosphere that feels fresh yet inviting. As evening approaches, the temperature will settle to around 44 degrees, maintaining a mostly clear sky that extends a peaceful atmosphere over the town. The surf along Lake Michigan remains fairly calm, with modest waves gently lapping against the shore, reflecting a tranquil scene ideal for a quiet walk along the beach or perhaps a moment of reflection by the water's edge.\n\nThe pleasant clarity of the day diminishes any threat of precipitation, ensuring a dry environment for outdoor activities. While the weather is seasonably cool for early November, a light jacket or a cozy sweater would provide comfort against the refreshing breeze. This Thursday, a day after Halloween, encourages simple yet fulfilling pursuits\u2014an afternoon stroll through one of Evanston's parks could provide an invigorating way to enjoy the natural beauty and a quiet cup of coffee at a nearby caf\u00e9 could perfectly complement the day's easy pace.",
-    "color_code": "#a4c8e1",
-    "timestamp": "2024-11-01 12:05:06"
+    "weather_report": "This afternoon in Evanston, the sun bathes the landscape in a bright, inviting light, making the high temperature of around 51 feel pleasantly brisk, especially with a gentle north-northeast wind brushing over the shoreline. The beach, stretching east toward the expansive blue of Lake Michigan, appears calm, though the waves lap steadily against the shore with a soft rhythm. The clear skies and only a few wisps of clouds serve to enhance the day\u2019s beauty, reflecting a tranquility that many might find inviting.\n\nAs evening approaches, temperatures are set to dip to a mild low of 44 degrees, perfect for light layers. A light jacket or sweater would suit those wishing to stroll along the beach or partake in the tranquility of the waterfront. With a few leaves scattered upon the sand, it's a reminder that autumn is either preparing to take a final bow or perhaps linger a little longer. This lovely day isn\u2019t just an invitation to enjoy the outdoors; as it stands on the cusp of a new month, it presents an opportunity for a quiet reflection or a peaceful walk by the water, perhaps while considering thoughts for November.",
+    "color_code": "#87CEEB",
+    "timestamp": "2024-11-01 13:06:33"
 }
