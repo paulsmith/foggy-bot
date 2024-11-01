@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T20:51:00+00:00",
-            "temperature_f": 57.02,
-            "temperature_c": 13.9,
-            "humidity": 59.336421444033,
-            "wind_speed_mph": 66.03624,
-            "wind_direction": 240,
+            "timestamp": "2024-10-31T22:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 63.101629529279,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-10-31T17:00:00-05:00",
-                "endTime": "2024-10-31T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "30 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 66, with temperatures falling to around 52 in the afternoon. West southwest wind around 30 mph, with gusts as high as 45 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-10-31T18:00:00-05:00",
+                "startTime": "2024-10-31T19:00:00-05:00",
                 "endTime": "2024-11-01T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 40. West northwest wind 10 to 30 mph, with gusts as high as 45 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-11-01T06:00:00-05:00",
+                "endTime": "2024-11-01T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 52. North wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "As dusk approaches in Evanston, the weather exhibits a blend of chill and briskness, perfectly encapsulating late October. The skies, partly clad in soft clouds, transition from a high near 66 to a much cooler 40 degrees overnight. The winds, robust and relentless, are swirling from the west-southwest, creating an exhilarating rush that pushes the temperature down and stirs the waters of Lake Michigan, causing gentle ripples rather than full tumult.\n\nWith the evening deepening, conditions appear inviting yet crisp, embodying the essence of fall's late charm. There\u2019s a sense of clarity to the air, and while no precipitation is notable, the freshness carries the earthy scent of autumn leaves. Those venturing outdoors this evening might want to layer up, opting for a sturdy jacket to stave off the briskness, particularly in the presence of those sharp gusts reaching up to 45 mph. It\u2019s an ideal time for a solitary stroll along the shoreline, where one can embrace both the solitude and the serene beauty of the lake as darkness envelops the landscape, reflecting upon the day's stillness and transitioning into a tranquil evening.\n\nAs today happens to be Halloween, the anticipation of evening festivities is palpable, yet the cool weather may temper more exuberant outdoor celebrations. Instead, consider enjoying the evening\u2019s highlights indoors or cozying up to a fire with friends, reflecting on the year gone by as trick-or-treaters shuffle through the neighborhoods.",
-    "color_code": "#A1C6EA",
-    "timestamp": "2024-10-31 17:05:13"
+    "weather_report": "As twilight descends over Evanston, the air carries a crispness that underscores the chill of late October. Currently, the skies are partly cloudy, with the temperature dipping close to 40 degrees, accompanied by a brisk west-northwest wind that snatches at the edges of jackets and stirs up the fallen leaves. The conditions create a sense of stark beauty along the beach, as the waters of Lake Michigan reflect vague hints of moonlight, abutting the rocky shoreline. The shore appears fairly calm, a stark contrast to the gusts that sweep through\u2014at times fierce\u2014whipping up the air and casting shadows across the landscape.\n\nLooking ahead, Friday is set to unveil sunnier skies with a high in the low fifties, promising a reprieve from the evening chill that envelopes the area now. The breeze will taper off, making the day more pleasant for outdoor endeavors. Given the time of year, dressing in layers is advisable\u2014perhaps a warm sweater or light jacket for the morning, transitioning to a more relaxed fit as the day warms slightly. Additionally, this Halloween evening carries an undercurrent of festivity, though the cool air calls for quick movements rather than lingering outside. A cozy indoor gathering, perhaps with a hot beverage and seasonal treats, could be a delightful way to embrace the spirit of the night while staying warm.",
+    "color_code": "#4B0082",
+    "timestamp": "2024-10-31 19:23:44"
 }
