@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T01:51:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 60.494428614697,
+            "timestamp": "2024-11-01T02:51:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 60.371423103123,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Mostly Cloudy"
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-31T21:00:00-05:00",
+                "startTime": "2024-10-31T23:00:00-05:00",
                 "endTime": "2024-11-01T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -33,7 +33,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 40. West northwest wind 15 to 25 mph, with gusts as high as 45 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 40. West northwest wind 15 to 25 mph, with gusts as high as 40 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston tonight, a veil of clouds blankets the sky, offering an ambiance steeped in chilly tranquility as the temperature dips around the 40-degree mark. A brisk west-northwest wind whistles through the area, bringing notable gusts that may heighten the sense of winter's swift approach. As the waves gently lap against the shore, one can almost hear the whispers of Lake Michigan, yet the air is decidedly dry, devoid of any hint of precipitation, making the scene feel still and safe despite the gusty winds.\n\nLooking ahead to Friday, a welcome transformation awaits as sunlight breaks through to warm the day, with expected highs nearing 52 degrees. This shift in weather invites a sense of optimism, the gentle north wind providing the perfect backdrop for an invigorating stroll along the beach or a leisurely visit to one of the local parks. Given the seasonal chill, it would be wise to don a light jacket, perhaps layered over a cozy sweater, as the traces of autumn linger in the air. As Halloween unfolds this evening, the cooler temperatures set a fitting tone for any festive outings, while also embracing the long-standing tradition of warm drinks and seasonal treats. With the wind and waves teaming up to create an animated yet serene panorama, there\u2019s an unmatched charm to step outside and relish in the crisp, refreshing air.",
-    "color_code": "#4B6F82",
-    "timestamp": "2024-10-31 22:17:07"
+    "weather_report": "As the night deepens in Evanston, the conditions are defined by a cool and breezy atmosphere. The current temperature hovers around a brisk 40 degrees, accompanied by gusty winds from the west-northwest, reaching up to 25 mph, with occasional gusts that push even higher. The cloudy sky blankets the area, casting a subdued light over the beach and Lake Michigan, where the churning waters reflect the restless nature of the evening. The waves, while not tumultuous, are agitated enough to create a somber rhythm, reminiscent of the autumn season firmly settling in.\n\nLooking ahead to tomorrow, residents can anticipate a sunny reprieve, with temperatures climbing to a modest 52 degrees. The winds will shift to a gentler north breeze, offering a more pleasant day for outdoor activities. Given the current chill, dressing in layers will be wise; a warm jacket paired with a hat will stave off the evening's bite, while during the day, lighter attire may suffice but a sweater or light coat could still be advisable for comfort.\n\nFor those considering how to spend this Halloween night, a quiet evening by the beach could invoke contemplation or a brisk walk along the shore, although the chill may lead many to stay indoors. However, with Halloween in full swing tomorrow, preparations for festivities might find a cozy spot in the hearts of those ready to embrace the seasonal spirit, perhaps with warm drinks and traditional gatherings.",
+    "color_code": "#4B7FBB",
+    "timestamp": "2024-10-31 23:06:24"
 }
