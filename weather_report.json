@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T11:51:00+00:00",
+            "timestamp": "2024-11-01T12:51:00+00:00",
             "temperature_f": 39.02,
             "temperature_c": 3.9,
             "humidity": 75.702644607027,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 290,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Mostly Clear"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston this morning, the shoreline seems adorned with a crispness in the air, reflecting the clear skies and the gentle sun casting its warm glow over Lake Michigan. The temperature hovers around a comfortable 51 degrees, which feels quite seasonable for early November. A light north wind of 5 to 10 mph adds a brisk element, inviting residents to embrace their sweaters or light jackets, ideal for savoring a stroll along the beach or a walk through nearby parks.\n\nAs the day unfolds, expect a tranquil demeanor from the lake, with calm waves softly lapping against the shoreline\u2014a pleasant sight for those seeking solace in nature. The evening will bring a shift, with mostly clear skies and a low around 44, making it a perfect setting for cozy gatherings or quiet reflection outdoors. The absence of precipitation ensures that today could be a splendid opportunity to engage in low-key activities such as visiting local cafes, enjoying the light fall season, or even taking a leisurely bike ride along the waterfront.",
-    "color_code": null,
-    "timestamp": "2024-11-01 08:08:45"
+    "weather_report": "In Evanston today, the weather unfolds with a crisp clarity, embodying the essence of autumn. The sky shines brightly under a sun that generously warms the atmosphere, reaching a pleasant high near 51 degrees. A gentle north wind whispers through the coastal areas, keeping the air refreshingly cool for those who venture outside. As evening approaches, expect a transition towards a mostly clear night, with temperatures dipping to around 44 degrees, accompanied by a soft southeast breeze that will likely add a hint of moisture to the air.\n\nThe lake presents a picture of serene beauty, with its surface peppered by gentle waves that reflect the azure sky. Though there\u2019s no precipitation to dampen the day, the scene invites a moment of respite. Ideal attire would be layers\u2014perhaps a light sweater coupled with a windbreaker to fend off the chill, especially by the water. While it might not be the season for sunbathing or swimming along the beach, a stroll along the shoreline could prove quite enchanting today, allowing for moments of quiet reflection or appreciation of nature\u2019s tranquility. As this day rolls into evening, residents and visitors alike might consider gathering with friends for a cozy gathering indoors, wrapped in conversation as the winds sing softly outside.",
+    "color_code": "#6FA8E9",
+    "timestamp": "2024-11-01 09:04:56"
 }
