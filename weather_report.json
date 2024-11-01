@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T00:51:00+00:00",
+            "timestamp": "2024-11-01T01:51:00+00:00",
             "temperature_f": 46.94,
             "temperature_c": 8.3,
             "humidity": 60.494428614697,
-            "wind_speed_mph": 70.86816,
-            "wind_direction": 250,
-            "description": "Mostly Cloudy and Windy"
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night falls over Evanston, a gentle yet brisk breeze rustles through, bringing a chill that aligns with the day\u2019s forecast. Currently, the temperature hovers around 40 degrees under a canopy of mostly cloudy skies. The wind, blowing from the west-northwest at 15 to 25 mph, adds a distinct edge to the evening, with occasional gusts reaching 45 mph, creating a somewhat raw and uninviting atmosphere at the beach. As the late hours of Halloween settle in, the calmness of Lake Michigan is punctuated by the quickened pace of waves against the shoreline, hinting at the turbulent weather that is imminent.\n\nLooking ahead to Friday, the forecast promises a sunny respite, with the temperature rising to a milder 52 degrees under clear skies. This change brings a shift that could entice residents outdoors to enjoy the late autumn landscape. Donning layers will be essential; a light jacket or sweater paired with comfortable trousers will strike a good balance between warmth and ease on your strolls by the lake. While the brief return to sunshine may be a welcome change after tonight\u2019s chill, the season still holds a firm grip, reminding us that fall is firmly in swing. For those seeking subdued late afternoon activities, a walk along the beach or a visit to nearby parks could provide a simple pleasure in the changing scenery, perfect for quietly absorbing the beauty of autumn\u2019s end.",
-    "color_code": "#5B8F5A",
-    "timestamp": "2024-10-31 21:31:28"
+    "weather_report": "In Evanston tonight, a veil of clouds blankets the sky, offering an ambiance steeped in chilly tranquility as the temperature dips around the 40-degree mark. A brisk west-northwest wind whistles through the area, bringing notable gusts that may heighten the sense of winter's swift approach. As the waves gently lap against the shore, one can almost hear the whispers of Lake Michigan, yet the air is decidedly dry, devoid of any hint of precipitation, making the scene feel still and safe despite the gusty winds.\n\nLooking ahead to Friday, a welcome transformation awaits as sunlight breaks through to warm the day, with expected highs nearing 52 degrees. This shift in weather invites a sense of optimism, the gentle north wind providing the perfect backdrop for an invigorating stroll along the beach or a leisurely visit to one of the local parks. Given the seasonal chill, it would be wise to don a light jacket, perhaps layered over a cozy sweater, as the traces of autumn linger in the air. As Halloween unfolds this evening, the cooler temperatures set a fitting tone for any festive outings, while also embracing the long-standing tradition of warm drinks and seasonal treats. With the wind and waves teaming up to create an animated yet serene panorama, there\u2019s an unmatched charm to step outside and relish in the crisp, refreshing air.",
+    "color_code": "#4B6F82",
+    "timestamp": "2024-10-31 22:17:07"
 }
