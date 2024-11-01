@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T20:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 44.333875492396,
+            "timestamp": "2024-11-01T21:51:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 44.507972969151,
             "wind_speed_mph": 16.91172,
             "wind_direction": null,
             "description": "Mostly Clear"
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-01T17:00:00-05:00",
-                "endTime": "2024-11-01T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 51. East northeast wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-01T18:00:00-05:00",
                 "endTime": "2024-11-02T06:00:00-05:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 44. Southeast wind 0 to 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-11-02T06:00:00-05:00",
+                "endTime": "2024-11-02T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 58. South southeast wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "A tranquil afternoon embraces Evanston, as the sun casts a gentle glow over the beach and Lake Michigan. With temperatures reaching around 51 degrees, the day has been pleasantly mild, softened by a light east-northeast breeze. As dusk approaches, the sky remains mostly clear, hinting at a serene evening ahead with lows anticipated around 44 degrees.\n\nThe waves, though not tumultuous, reveal a subtle dance as they lap gently against the shore, reflecting the evening light in a soothing array of blues and greens. The air is dry, and no precipitation seems imminent, making it an ideal time to enjoy a serene stroll along the sandy expanses or perhaps engage in a quiet moment of reflection positioned on one of the nearby benches. Given the seasonal chill, layering with a light jacket would be wise, providing comfort against the coolness of the approaching night. With this lovely stretch of time following Halloween, one might even find the lingering spirit of the festivities echoing in the laughter of families enjoying the crisp fall air.",
-    "color_code": "#A0C1D6",
-    "timestamp": "2024-11-01 17:04:56"
+    "weather_report": "As evening settles over Evanston, the atmosphere remains mostly clear, with a gentle breeze whispering from the southeast. The temperature is comfortably cool, hovering around 44 degrees, heralding the calm before a sunny Saturday. Looking east towards Lake Michigan, the waves lap softly against the shore, their subtle movement a serene backdrop for anyone choosing to stroll along the waterfront. The beach appears inviting yet tranquil, an embodiment of autumn\u2019s quiet charm.\n\nTomorrow promises to be a lovely day, bathed in sunshine and reaching a high near 58 degrees. A light south-southeast wind may invigorate the experience, enhancing the gentle warmth. It\u2019s an ideal moment for outdoor activities, perhaps a leisurely walk or a visit to local parks, where the crisp air refreshes the spirit. As the sun rises higher, opportunities abound for picnicking or simply enjoying the picturesque views that Evanston has to offer during this seasonal transition. With layers recommended to manage the chilly start, it is worth stepping out to embrace the beauty of the day, celebrating the last whispers of summer as winter approaches.",
+    "color_code": "#A6C9E3",
+    "timestamp": "2024-11-01 18:05:12"
 }
