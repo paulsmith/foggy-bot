@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T16:51:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 55.876274833743,
+            "timestamp": "2024-11-01T17:51:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 47.87506114616,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 350,
+            "wind_direction": null,
             "description": "Mostly Clear"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This afternoon in Evanston, the sun bathes the landscape in a bright, inviting light, making the high temperature of around 51 feel pleasantly brisk, especially with a gentle north-northeast wind brushing over the shoreline. The beach, stretching east toward the expansive blue of Lake Michigan, appears calm, though the waves lap steadily against the shore with a soft rhythm. The clear skies and only a few wisps of clouds serve to enhance the day\u2019s beauty, reflecting a tranquility that many might find inviting.\n\nAs evening approaches, temperatures are set to dip to a mild low of 44 degrees, perfect for light layers. A light jacket or sweater would suit those wishing to stroll along the beach or partake in the tranquility of the waterfront. With a few leaves scattered upon the sand, it's a reminder that autumn is either preparing to take a final bow or perhaps linger a little longer. This lovely day isn\u2019t just an invitation to enjoy the outdoors; as it stands on the cusp of a new month, it presents an opportunity for a quiet reflection or a peaceful walk by the water, perhaps while considering thoughts for November.",
-    "color_code": "#87CEEB",
-    "timestamp": "2024-11-01 13:06:33"
+    "weather_report": "This afternoon in Evanston, the atmosphere carries a refreshing clarity, bathed in sunlight as the day unfolds with a high near 51 degrees. A gentle north-northeast wind whispers through the trees, promising a pleasant experience as you step outside. As the sun descends, temperatures will dip to around 44 degrees, but the largely clear skies should make for a lovely evening. With no precipitation in sight, the shores of Lake Michigan reflect that vivid blue, holding a calm demeanor, their gentle waves barely disturbing the surface\u2014a welcome sight for those wishing to enjoy a stroll along the beach.\n\nGiven the season, this weather feels seasonably cool, worthy of a light jacket or sweater as you navigate the afternoon. The tranquility invites an afternoon walk along the pier or perhaps the simple pleasure of reading a book with the sound of soft waves complementing the scenery. As the day edges toward dusk, the harmony of nature beckons one to embrace the calm; perhaps seek refuge with a warm beverage at a nearby caf\u00e9 or enjoy the fresh, crisp breeze outdoors as fall unfolds its tapestry of colors.",
+    "color_code": "#A3C1E6",
+    "timestamp": "2024-11-01 14:04:36"
 }
