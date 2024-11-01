@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T10:51:00+00:00",
-            "temperature_f": 39.92,
-            "temperature_c": 4.4,
-            "humidity": 73.09506649282,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 300,
+            "timestamp": "2024-11-01T11:51:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 75.702644607027,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 290,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-01T07:00:00-05:00",
+                "startTime": "2024-11-01T08:00:00-05:00",
                 "endTime": "2024-11-01T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, a crisp breeze carries a promise of a pleasant day ahead as sunlight spills softly over the horizon. The weather is marked by clear skies, a refreshing high expected to reach near 51 degrees. Winds from the north at a gentle 5 to 10 mph complement the sunshine, enhancing the serene atmosphere out by the beach. As the day unfolds, the localized clarity and the low humidity may create a lovely outdoor ambiance, inviting those who venture out to embrace the beauty of autumn by the lake.\n\nBy evening, the scene will mellow, transitioning to mostly clear skies with a temperature dipping to around 44 degrees. Light winds from the southeast might brush the shoreline, but there\u2019s no imminent threat of precipitation. The waves appear relatively calm, gently lapping at the sandy shores, offering a tranquil backdrop for evening strolls. The weather is indeed seasonable for this time of year in Illinois, marrying the freshness of late autumn with an invigorating chill. It\u2019s a perfect opportunity to enjoy a quiet walk along the beach, perhaps with a light jacket or sweater, allowing one to soak in the fading daylight. Given that today is November 1st, it's a good moment to reflect and appreciate the serene transition from Halloween festivities to the cozy warmth of the approaching winter holidays.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-01 07:08:11"
+    "weather_report": "In Evanston this morning, the shoreline seems adorned with a crispness in the air, reflecting the clear skies and the gentle sun casting its warm glow over Lake Michigan. The temperature hovers around a comfortable 51 degrees, which feels quite seasonable for early November. A light north wind of 5 to 10 mph adds a brisk element, inviting residents to embrace their sweaters or light jackets, ideal for savoring a stroll along the beach or a walk through nearby parks.\n\nAs the day unfolds, expect a tranquil demeanor from the lake, with calm waves softly lapping against the shoreline\u2014a pleasant sight for those seeking solace in nature. The evening will bring a shift, with mostly clear skies and a low around 44, making it a perfect setting for cozy gatherings or quiet reflection outdoors. The absence of precipitation ensures that today could be a splendid opportunity to engage in low-key activities such as visiting local cafes, enjoying the light fall season, or even taking a leisurely bike ride along the waterfront.",
+    "color_code": null,
+    "timestamp": "2024-11-01 08:08:45"
 }
