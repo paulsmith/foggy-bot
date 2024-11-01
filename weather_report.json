@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T02:51:00+00:00",
-            "temperature_f": 46.04,
-            "temperature_c": 7.8,
-            "humidity": 60.371423103123,
+            "timestamp": "2024-11-01T03:51:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 62.894657114005,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-10-31T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-11-01T00:00:00-05:00",
                 "endTime": "2024-11-01T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 25 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 40. West northwest wind 15 to 25 mph, with gusts as high as 40 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 40. West northwest wind 15 to 20 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the night deepens in Evanston, the conditions are defined by a cool and breezy atmosphere. The current temperature hovers around a brisk 40 degrees, accompanied by gusty winds from the west-northwest, reaching up to 25 mph, with occasional gusts that push even higher. The cloudy sky blankets the area, casting a subdued light over the beach and Lake Michigan, where the churning waters reflect the restless nature of the evening. The waves, while not tumultuous, are agitated enough to create a somber rhythm, reminiscent of the autumn season firmly settling in.\n\nLooking ahead to tomorrow, residents can anticipate a sunny reprieve, with temperatures climbing to a modest 52 degrees. The winds will shift to a gentler north breeze, offering a more pleasant day for outdoor activities. Given the current chill, dressing in layers will be wise; a warm jacket paired with a hat will stave off the evening's bite, while during the day, lighter attire may suffice but a sweater or light coat could still be advisable for comfort.\n\nFor those considering how to spend this Halloween night, a quiet evening by the beach could invoke contemplation or a brisk walk along the shore, although the chill may lead many to stay indoors. However, with Halloween in full swing tomorrow, preparations for festivities might find a cozy spot in the hearts of those ready to embrace the seasonal spirit, perhaps with warm drinks and traditional gatherings.",
-    "color_code": "#4B7FBB",
-    "timestamp": "2024-10-31 23:06:24"
+    "weather_report": "As the night unfolds over Evanston, a chill hangs in the air, with cloud cover emphasizing the crispness of a late autumn evening. The temperature dips to around 40 degrees, accentuated by a brisk wind from the northwest that rustles through the bare branches and raises the occasional gust, reaching up to 35 mph. This atmospheric backdrop sets the stage for tomorrow\u2019s shift; the dawn will likely greet us with clear skies and a sun ready to break through the clouds, bringing a mild peak of 52 degrees by midday.\n\nFor those venturing out on this Friday, attire should reflect the coolness\u2014a layered ensemble, perhaps a warm sweater beneath a light jacket, will provide both comfort and defense against the wind. It\u2019s a fitting day for activities that appreciate the season. A morning stroll along the beach could be refreshing, as fewer crowds and a tranquil Lake Michigan offer a moment of solace. One might also consider visiting local shops, where the warmth indoors contrasts nicely with the crispness outside, or enjoying a muted coffee outside to soak in the serenity of a re-emerging sunny day. While the lake remains uninviting for swimming, its waves are likely calm, presenting an almost reflective surface under the expected clear skies, a picturesque setting for contemplative moments or leisurely walks.\n\nFor color representing the evening and forecast, a rich deep blue () captures both the night sky and the promise of a sunny day ahead.",
+    "color_code": "#00008B",
+    "timestamp": "2024-11-01 00:06:02"
 }
