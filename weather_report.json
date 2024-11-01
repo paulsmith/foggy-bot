@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T14:51:00+00:00",
-            "temperature_f": 44.06,
-            "temperature_c": 6.7,
-            "humidity": 65.087507484788,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 330,
+            "timestamp": "2024-11-01T15:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 58.354943194231,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 350,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-01T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-01T12:00:00-05:00",
                 "endTime": "2024-11-01T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "NNE",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 51. North northeast wind 5 to 10 mph."
+                "detailedForecast": "Sunny, with a high near 51. North northeast wind around 5 mph, with gusts as high as 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston today, the sun casts a bright, crisp light over a serene Lake Michigan, reflecting the cool autumn air that greets us. The temperature hovers near a refreshing 51 degrees, complemented by a gentle north-northeast wind that adds a slight chill to the atmosphere. Conditions appear mostly clear, with only a few wisps of cloud lazily drifting by, promising a pleasant day for those who seek to enjoy the outdoors.\n\nAs evening approaches, temperatures are expected to dip to around 44 degrees. Those venturing outside tonight will find it advantageous to layer up\u2014a light jacket or sweater would suffice to fend off the cooling breeze. There\u2019s no hint of rain, and the sand at the beach remains dry, untouched by signs of precipitation, while the waves, though somewhat active, remain calm enough for a reflective stroll along the shore. The day holds a quiet charm, inviting residents to engage in gentle activities: perhaps a leisurely walk on the beach or a quiet moment at a local caf\u00e9 with a view of the lake, savoring the tranquility of a November afternoon that feels both seasonal and serene.",
-    "color_code": "#A3C3D1",
-    "timestamp": "2024-11-01 11:06:08"
+    "weather_report": "This afternoon in Evanston unfolds under a blue sky, where the sun generously casts its warmth, reaching a high near 51 degrees. The gentle north-northeast breeze stirs the air lightly, creating an atmosphere that feels fresh yet inviting. As evening approaches, the temperature will settle to around 44 degrees, maintaining a mostly clear sky that extends a peaceful atmosphere over the town. The surf along Lake Michigan remains fairly calm, with modest waves gently lapping against the shore, reflecting a tranquil scene ideal for a quiet walk along the beach or perhaps a moment of reflection by the water's edge.\n\nThe pleasant clarity of the day diminishes any threat of precipitation, ensuring a dry environment for outdoor activities. While the weather is seasonably cool for early November, a light jacket or a cozy sweater would provide comfort against the refreshing breeze. This Thursday, a day after Halloween, encourages simple yet fulfilling pursuits\u2014an afternoon stroll through one of Evanston's parks could provide an invigorating way to enjoy the natural beauty and a quiet cup of coffee at a nearby caf\u00e9 could perfectly complement the day's easy pace.",
+    "color_code": "#a4c8e1",
+    "timestamp": "2024-11-01 12:05:06"
 }
