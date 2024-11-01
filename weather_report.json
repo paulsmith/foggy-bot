@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T22:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 63.101629529279,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-01T00:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 60.494428614697,
+            "wind_speed_mph": 70.86816,
+            "wind_direction": 250,
+            "description": "Mostly Cloudy and Windy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-31T19:00:00-05:00",
+                "startTime": "2024-10-31T20:00:00-05:00",
                 "endTime": "2024-11-01T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 30 mph",
+                "windSpeed": "10 to 25 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 40. West northwest wind 10 to 30 mph, with gusts as high as 45 mph."
+                "detailedForecast": "Partly cloudy, with a low around 40. West northwest wind 10 to 25 mph, with gusts as high as 45 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As twilight descends over Evanston, the air carries a crispness that underscores the chill of late October. Currently, the skies are partly cloudy, with the temperature dipping close to 40 degrees, accompanied by a brisk west-northwest wind that snatches at the edges of jackets and stirs up the fallen leaves. The conditions create a sense of stark beauty along the beach, as the waters of Lake Michigan reflect vague hints of moonlight, abutting the rocky shoreline. The shore appears fairly calm, a stark contrast to the gusts that sweep through\u2014at times fierce\u2014whipping up the air and casting shadows across the landscape.\n\nLooking ahead, Friday is set to unveil sunnier skies with a high in the low fifties, promising a reprieve from the evening chill that envelopes the area now. The breeze will taper off, making the day more pleasant for outdoor endeavors. Given the time of year, dressing in layers is advisable\u2014perhaps a warm sweater or light jacket for the morning, transitioning to a more relaxed fit as the day warms slightly. Additionally, this Halloween evening carries an undercurrent of festivity, though the cool air calls for quick movements rather than lingering outside. A cozy indoor gathering, perhaps with a hot beverage and seasonal treats, could be a delightful way to embrace the spirit of the night while staying warm.",
-    "color_code": "#4B0082",
-    "timestamp": "2024-10-31 19:23:44"
+    "weather_report": "As night settles over Evanston, the air carries a crisp chill that underscores the approach of November. With partly cloudy skies and temperatures dipping to around 40 degrees, a brisk west-northwest wind adds a layer of sharpness, gusting at times to 45 mph. The scene by the lake is marked by a subtle darkness, the beach now a shadowy figure against the backdrop of Lake Michigan. The stillness of the water gives way to furtive whispers of waves, perhaps a foreshadowing of tomorrow's clearer and sunnier skies where the sun is expected to bask the day with genial warmth; a high near 52 degrees is on the horizon, inviting moments of light not seen today.\n\nFor those braving the evening, dressing warmly is essential; layers are advisable, perhaps a cozy jacket to combat the nippy winds. The conditions may not inspire an evening stroll along the water's edge, but rather, an invitation to cozy up indoors\u2014maybe reading a book or sipping a warm drink, reflecting on the end of October's ever-charming, albeit brisk, aura. As it's Halloween tonight, the excitement lingers in the air, a reminder of the festive spirits that often illuminate our darkening nights. Tomorrow, with a clearer sky and calmer winds, promises a rejuvenating day\u2014ideal for a brisk walk or visiting local shops as the new month begins, ushering in the holiday season ahead.",
+    "color_code": "#2E5D8C",
+    "timestamp": "2024-10-31 20:33:01"
 }
