@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T09:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 67.105479906029,
-            "wind_speed_mph": 37.04472,
+            "timestamp": "2024-11-01T10:51:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 73.09506649282,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 300,
-            "description": "Partly Cloudy"
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-01T05:00:00-05:00",
-                "endTime": "2024-11-01T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 40,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 40, with temperatures rising to around 42 overnight. West northwest wind around 15 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2024-11-01T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-11-01T07:00:00-05:00",
                 "endTime": "2024-11-01T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -52,11 +33,30 @@
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 51. North wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Sunny, with a high near 51. North wind 5 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-01T18:00:00-05:00",
+                "endTime": "2024-11-02T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "0 to 5 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 44. Southeast wind 0 to 5 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston this morning, one can feel the cool air enveloping the region, with temperatures lingering around 40 degrees. The early hours are greeted with partly cloudy skies that promise a gradual warming as the day progresses. By midday, locals can expect a refreshing high near 51, complemented by a gentle north wind. Despite the absence of precipitation, the lingering chill may make it wise for residents to dress in layers\u2014perhaps a light jacket over a sweater, ensuring comfort as the temperatures fluctuate throughout the day.\n\nLooking towards Lake Michigan, the waters appear calm this morning, reflecting the muted colors of the early light. With the predicted sunny skies, it seems like a perfect opportunity to enjoy a stroll along the beach or a leisurely bike ride along the shoreline. The tranquility of the setting provides a serene backdrop for some quiet contemplation or a warm cup of coffee while watching the waves lap against the shore. As we embrace this seasonable November day, take a moment to appreciate the crisp air and the subtle beauty of the landscape before winter fully settles in.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2024-11-01 06:05:00"
+    "weather_report": "This morning in Evanston, a crisp breeze carries a promise of a pleasant day ahead as sunlight spills softly over the horizon. The weather is marked by clear skies, a refreshing high expected to reach near 51 degrees. Winds from the north at a gentle 5 to 10 mph complement the sunshine, enhancing the serene atmosphere out by the beach. As the day unfolds, the localized clarity and the low humidity may create a lovely outdoor ambiance, inviting those who venture out to embrace the beauty of autumn by the lake.\n\nBy evening, the scene will mellow, transitioning to mostly clear skies with a temperature dipping to around 44 degrees. Light winds from the southeast might brush the shoreline, but there\u2019s no imminent threat of precipitation. The waves appear relatively calm, gently lapping at the sandy shores, offering a tranquil backdrop for evening strolls. The weather is indeed seasonable for this time of year in Illinois, marrying the freshness of late autumn with an invigorating chill. It\u2019s a perfect opportunity to enjoy a quiet walk along the beach, perhaps with a light jacket or sweater, allowing one to soak in the fading daylight. Given that today is November 1st, it's a good moment to reflect and appreciate the serene transition from Halloween festivities to the cozy warmth of the approaching winter holidays.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-01 07:08:11"
 }
