@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-31T20:00:00-05:00",
+                "startTime": "2024-10-31T21:00:00-05:00",
                 "endTime": "2024-11-01T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 25 mph",
+                "windSpeed": "15 to 25 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 40. West northwest wind 10 to 25 mph, with gusts as high as 45 mph."
+                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 40. West northwest wind 15 to 25 mph, with gusts as high as 45 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night settles over Evanston, the air carries a crisp chill that underscores the approach of November. With partly cloudy skies and temperatures dipping to around 40 degrees, a brisk west-northwest wind adds a layer of sharpness, gusting at times to 45 mph. The scene by the lake is marked by a subtle darkness, the beach now a shadowy figure against the backdrop of Lake Michigan. The stillness of the water gives way to furtive whispers of waves, perhaps a foreshadowing of tomorrow's clearer and sunnier skies where the sun is expected to bask the day with genial warmth; a high near 52 degrees is on the horizon, inviting moments of light not seen today.\n\nFor those braving the evening, dressing warmly is essential; layers are advisable, perhaps a cozy jacket to combat the nippy winds. The conditions may not inspire an evening stroll along the water's edge, but rather, an invitation to cozy up indoors\u2014maybe reading a book or sipping a warm drink, reflecting on the end of October's ever-charming, albeit brisk, aura. As it's Halloween tonight, the excitement lingers in the air, a reminder of the festive spirits that often illuminate our darkening nights. Tomorrow, with a clearer sky and calmer winds, promises a rejuvenating day\u2014ideal for a brisk walk or visiting local shops as the new month begins, ushering in the holiday season ahead.",
-    "color_code": "#2E5D8C",
-    "timestamp": "2024-10-31 20:33:01"
+    "weather_report": "As night falls over Evanston, a gentle yet brisk breeze rustles through, bringing a chill that aligns with the day\u2019s forecast. Currently, the temperature hovers around 40 degrees under a canopy of mostly cloudy skies. The wind, blowing from the west-northwest at 15 to 25 mph, adds a distinct edge to the evening, with occasional gusts reaching 45 mph, creating a somewhat raw and uninviting atmosphere at the beach. As the late hours of Halloween settle in, the calmness of Lake Michigan is punctuated by the quickened pace of waves against the shoreline, hinting at the turbulent weather that is imminent.\n\nLooking ahead to Friday, the forecast promises a sunny respite, with the temperature rising to a milder 52 degrees under clear skies. This change brings a shift that could entice residents outdoors to enjoy the late autumn landscape. Donning layers will be essential; a light jacket or sweater paired with comfortable trousers will strike a good balance between warmth and ease on your strolls by the lake. While the brief return to sunshine may be a welcome change after tonight\u2019s chill, the season still holds a firm grip, reminding us that fall is firmly in swing. For those seeking subdued late afternoon activities, a walk along the beach or a visit to nearby parks could provide a simple pleasure in the changing scenery, perfect for quietly absorbing the beauty of autumn\u2019s end.",
+    "color_code": "#5B8F5A",
+    "timestamp": "2024-10-31 21:31:28"
 }
