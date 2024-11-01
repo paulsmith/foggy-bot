@@ -13,13 +13,13 @@
             "humidity": 62.894657114005,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": ""
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-01T00:00:00-05:00",
+                "startTime": "2024-11-01T01:00:00-05:00",
                 "endTime": "2024-11-01T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the night unfolds over Evanston, a chill hangs in the air, with cloud cover emphasizing the crispness of a late autumn evening. The temperature dips to around 40 degrees, accentuated by a brisk wind from the northwest that rustles through the bare branches and raises the occasional gust, reaching up to 35 mph. This atmospheric backdrop sets the stage for tomorrow\u2019s shift; the dawn will likely greet us with clear skies and a sun ready to break through the clouds, bringing a mild peak of 52 degrees by midday.\n\nFor those venturing out on this Friday, attire should reflect the coolness\u2014a layered ensemble, perhaps a warm sweater beneath a light jacket, will provide both comfort and defense against the wind. It\u2019s a fitting day for activities that appreciate the season. A morning stroll along the beach could be refreshing, as fewer crowds and a tranquil Lake Michigan offer a moment of solace. One might also consider visiting local shops, where the warmth indoors contrasts nicely with the crispness outside, or enjoying a muted coffee outside to soak in the serenity of a re-emerging sunny day. While the lake remains uninviting for swimming, its waves are likely calm, presenting an almost reflective surface under the expected clear skies, a picturesque setting for contemplative moments or leisurely walks.\n\nFor color representing the evening and forecast, a rich deep blue () captures both the night sky and the promise of a sunny day ahead.",
-    "color_code": "#00008B",
-    "timestamp": "2024-11-01 00:06:02"
+    "weather_report": "As the clock ticks past one in the morning in Evanston, the air carries a chill typical of early November, with temperatures hovering around 40 degrees. The sky wears a blanket of clouds, obscuring the stars, and a brisk west northwest wind dances through the area, gusting notably, which hints at an evolving weather pattern. By sunrise, the clouds will give way to a more promising day, with Friday promising clear blue skies and sunshine warming the shoreline, inviting a high near 52 by afternoon. \n\nThe beach, though quiet at this hour, swells with a palpable energy as the waves gently crash against the shore. While the water looks calm under the muted glow of the surrounding lights, the chill in the air suggests it is best to don a warm jacket, perhaps layered with a knit scarf and sturdy shoes, as nature's crispness mixed with gusty winds calls for thoughtful preparation. As the morning unfolds, locals may find joy in a simple walk along the beach, embracing the tranquility before bustling plans take shape later in the day. With no major holiday clouds looming over this Friday, it offers an ideal moment to relish the season's change amidst a fresh breeze and the gentle backdrop of Lake Michigan's soothing waves.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2024-11-01 01:07:01"
 }
