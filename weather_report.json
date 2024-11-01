@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T03:51:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 62.894657114005,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2024-11-01T05:51:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 64.951166789497,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 280,
             "description": "Mostly Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the clock ticks past one in the morning in Evanston, the air carries a chill typical of early November, with temperatures hovering around 40 degrees. The sky wears a blanket of clouds, obscuring the stars, and a brisk west northwest wind dances through the area, gusting notably, which hints at an evolving weather pattern. By sunrise, the clouds will give way to a more promising day, with Friday promising clear blue skies and sunshine warming the shoreline, inviting a high near 52 by afternoon. \n\nThe beach, though quiet at this hour, swells with a palpable energy as the waves gently crash against the shore. While the water looks calm under the muted glow of the surrounding lights, the chill in the air suggests it is best to don a warm jacket, perhaps layered with a knit scarf and sturdy shoes, as nature's crispness mixed with gusty winds calls for thoughtful preparation. As the morning unfolds, locals may find joy in a simple walk along the beach, embracing the tranquility before bustling plans take shape later in the day. With no major holiday clouds looming over this Friday, it offers an ideal moment to relish the season's change amidst a fresh breeze and the gentle backdrop of Lake Michigan's soothing waves.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2024-11-01 01:07:01"
+    "weather_report": "As the night deepens in Evanston, the coastal breeze carries a chill, with temperatures settling around 40 degrees. The sky is mostly cloudy, a thick blanket emphasizing the briskness of the west-northwest winds, which are gusting significantly, hinting at the tumultuous waters of Lake Michigan. Though it's still dark, the overall atmosphere suggests a mild, restless night, devoid of precipitation but restless nonetheless.\n\nLooking forward to Friday, the sun will rise to clear these clouds, bringing a welcome warmth that will nudge the day\u2019s high to around 52 degrees. With a gentler north wind, this clear weather will be a bright contrast to the wind-swept night. The lake may present a choppier visage than usual, as the receding winds could leave behind slight swells\u2014perfect for those observing from a distance, though perhaps not for a dip. \n\nIn such conditions, a careful approach to dressing is advisable; layers are essential for warmth in the morning's lingering chill, transitioning to lighter jackets by midday. The seasonably cool temperatures reflect the onset of November, a time when fall holds sway just before winter's grasp. As the day unfolds, the calm light of autumn invites local residents to stroll the shoreline or enjoy a moment of reflection amid nature\u2019s changing palette, perhaps even gathering within the cozy confines of a local caf\u00e9 to savor a warm beverage, savoring the simple joys of the season.",
+    "color_code": "#4B7FBB",
+    "timestamp": "2024-11-01 02:05:23"
 }
