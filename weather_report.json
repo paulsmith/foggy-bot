@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T14:51:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 70.756646043571,
+            "timestamp": "2024-11-02T15:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 65.824827442761,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 170,
+            "wind_direction": 160,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-02T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-02T12:00:00-05:00",
                 "endTime": "2024-11-02T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 56 in the afternoon. Southeast wind around 10 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 56 in the afternoon. Southeast wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a blustery scene, where the temperature rests in the mid-40s, creating a damp and cool atmosphere. The sky is mostly cloudy, but it hints at brightness as the day advances, enhancing the contrast against the Lake Michigan waters. The winds are fierce, blowing in from the southeast, stirring up the lake and adding a sense of movement to the coastal landscape. \n\nLooking ahead, today promises mostly sunny skies with a high near the upper 50s, as the winds shift to a gentler breeze around 10 mph. Tonight, expect partly cloudy skies and a mild low in the upper 40s. There\u2019s no significant precipitation in sight, offering a reprieve from the usual autumnal showers. The waves on the lake are likely choppy, stirred by the winds, making it less inviting for swimming but perhaps ideal for those who enjoy a good brisk walk along the shore. Given the season, a light jacket is advisable to shield against the chilly air, and it could be wise to don layers for warmth as temperatures will gradually drop with the fading daylight. \n\nWith the forecast looking favorable, local residents might consider taking advantage of the crisp air with outdoor activities like a leisurely stroll on the beach, appreciating the beauty of the season while taking in the lake's autumn hues. All in all, it\u2019s a splendid autumn day to embrace the outdoors, particularly for those eager to enjoy the waning warmth of the daylight before winter sets in.",
-    "color_code": "#A6C4D8",
-    "timestamp": "2024-11-02 11:05:03"
+    "weather_report": "Evanston is experiencing a brisk afternoon with temperatures hovering in the low 50s and a refreshing humidity that lends a slight crispness to the air. The wind is notably vibrant, sweeping in from the southeast at a blustery pace, making it feel even cooler. As the day progresses, expect an uplifting transition into sunny skies, with temperatures set to rise modestly to around the upper 50s. The outlook for tonight suggests a gentle shift towards partly cloudy conditions, settling down to the upper 40s, while maintaining a moderate breeze.\n\nOverall, the scene at the beach presents a somewhat pleasant appearance, with the waves reflecting a glimmer of sunshine contrasting against the deep blue of Lake Michigan. Thankfully, precipitation is absent, allowing for a clear view across the water. For those venturing outside, light layers are advisable, fitting well for autumn's chills as the season is clearly in the waning warmth of fall. This inviting weather makes it a nice afternoon for a leisurely walk along the lakefront or perhaps a visit to a nearby caf\u00e9 to soak in the tranquil surroundings. Given that today is not a major holiday, it provides a perfect respite to enjoy nature or catch up with friends without the usual hustle and bustle. \n\nFor the day's weather, a fitting HTML color code that embodies the spirit of the forecasted conditions would be , representing the soothing blue tones of the lake and the serene atmosphere.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2024-11-02 12:04:44"
 }
