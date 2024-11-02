@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T22:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 60.641382833951,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 100,
+            "timestamp": "2024-11-02T00:51:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 70.539119120885,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 110,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-01T19:00:00-05:00",
+                "startTime": "2024-11-01T20:00:00-05:00",
                 "endTime": "2024-11-02T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the evening unfolds in Evanston, the sky remains mostly clear, providing a gentle contrast to the deepening twilight. With temperatures settling down to around 44 degrees, a light southeast breeze adds a nice touch of freshness to the air, inviting those near the water to breathe in the crispness of the night. Looking ahead to Saturday, the forecast promises continuity with sunny skies dominating the day, allowing temperatures to rise to about 58 degrees. Gentle winds from the south-southeast will accompany this warmth, creating a pleasant atmosphere that beckons residents to step outside.\n\nCurrently, the lake\u2019s surface appears calm yet reflective, hinting at the tranquility of the evening. With little indication of precipitation and the clarity of the sky, the scene seems just right for a peaceful stroll along the beach or a quiet moment by the water. As the temperature hovers at a seasonal low, those venturing out may find themselves comfortable in a light jacket or sweater, perfect for an evening walk. Considering the time of year, with autumn in full swing, the outdoors could provide a perfect backdrop for simple activities such as enjoying the night air or perhaps some quiet reflection by the shore, all in the spirit of the surrounding natural beauty that Evanston has to offer.",
-    "color_code": "#2E2E2E",
-    "timestamp": "2024-11-01 19:20:44"
+    "weather_report": "As the evening descends upon Evanston, the local ambience is accompanied by a mostly clear sky, a tranquil view towards Lake Michigan reflecting the calmness of the moment. The temperature has dipped to around 44 degrees, and a gentle southeast breeze of 0 to 5 mph barely stirs the air. This crisp fall night offers a pleasant respite from the often hectic rhythms of urban life, encouraging a comforting layer in the form of a light jacket or sweater.\n\nLooking ahead, Saturday beckons with its promise of sunshine. The forecast anticipates a high near 58 degrees, accompanied by a refreshing south-southeast wind ranging from 5 to 10 mph, with occasional gusts that might elevate the spirited atmosphere. The day should unfold with clarity, making it an ideal backdrop for a leisurely stroll along the beach, perhaps engaging in quiet moments of reflection by the water's edge or enjoying the last hints of autumn's foliage in the nearby parks. The waves of the lake appear to be gentle, a fitting companion for those seeking a peaceful connection with nature. As the evening turns to memories of Halloween, the seasonal shift invites one to appreciate the more subdued rhythms of life, celebrating the beauty of simply being present in such serene surroundings.",
+    "color_code": "#A9B7A1",
+    "timestamp": "2024-11-01 20:32:11"
 }
