@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T08:51:00+00:00",
+            "timestamp": "2024-11-02T09:51:00+00:00",
             "temperature_f": 39.02,
             "temperature_c": 3.9,
             "humidity": 81.959440634687,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 170,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-02T04:00:00-05:00",
+                "startTime": "2024-11-02T05:00:00-05:00",
                 "endTime": "2024-11-02T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 41,
+                "temperature": 39,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 41. South wind around 5 mph."
+                "detailedForecast": "Mostly clear, with a low around 39. South wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn approaches over Evanston, the air is clear and crisp, with temperatures around 41 degrees, hinting at the refreshing essence of an autumn morning. The slight south wind, gentle at about 5 mph, suggests a tranquil start to the weekend. Anticipation builds for Saturday, which promises to be mostly sunny, with temperatures peaking near 58 degrees before retreating to a cooler 56 in the afternoon. The light winds may pick up slightly, introducing occasional gusts of 20 mph, adding a lively touch to the day.\n\nLooking out over Lake Michigan, the waves appear calm; the prevailing conditions make for a smooth surface rather than the tumultuous scenery often seen in rougher weather. The shoreline, framed by the quiet solitude of the morning, invites a sense of serenity\u2014an ideal backdrop for a leisurely stroll or perhaps a jog along the beach. Dressing in layers would be wise to accommodate the day's shifts in temperature, with a light jacket recommended for the early chill before shedding it under the warm sun later. The weather feels seasonable for November, encouraging residents to embrace the final lush tones of fall, with opportunities for a nature walk or a leisurely visit to the parks that line the lakeshore.\n\nAs you step into this beautiful autumn day, consider sipping a warm coffee at a nearby caf\u00e9 or taking a book to enjoy the peace that these gentle conditions offer. Even without the bustle of a major holiday, this Saturday holds potential for simple joys, whether it be through reflection by the water or taking in the vibrant tapestry of fall's final days.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2024-11-02 05:04:59"
+    "weather_report": "As the quiet early hours unfold in Evanston, the beach community is greeted by mostly clear skies, a fitting prelude to the day's mild offering. With the temperature dipping to around 39 degrees overnight, a gentle south wind whispers promises of change. As the morning progresses and the sun peeks over the horizon, residents can expect a transition to mostly sunny conditions. The anticipated high near 58 degrees may have temperatures slightly cooling to the mid-50s by afternoon, complemented by a moderate breeze from the south-southeast, occasionally gusting to 20 mph.\n\nThe lake, likely reflecting the soft hues of dawn, appears calm this morning, devoid of any significant wave action or precipitation. It\u2019s an amiable autumn day that feels seasonable for the region, although one may want to don a light jacket or sweater, especially as temperatures begin to wane in the afternoon. Morning walks along the shore or contemplative moments with a warm beverage in hand could beautifully enhance the experience of this serene morning. While it\u2019s not a major U.S. holiday today, the tranquil backdrop of Lake Michigan sets a comforting tone for anyone seeking a gentle escape this weekend.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-02 06:04:30"
 }
