@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T10:51:00+00:00",
-            "temperature_f": 39.92,
-            "temperature_c": 4.4,
-            "humidity": 82.614624284648,
+            "timestamp": "2024-11-02T11:51:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 85.561801112502,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 180,
-            "description": "Clear"
+            "wind_direction": 160,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-02T07:00:00-05:00",
+                "startTime": "2024-11-02T08:00:00-05:00",
                 "endTime": "2024-11-02T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the sky offers a gentle gradient of colors, suggesting a mostly sunny day ahead, albeit with peaks of cloud cover. Current conditions feel brisk, with temperatures hovering near the mid-50s, and a soft southeast wind whispering through the air, gently rocking the surface of Lake Michigan. The waves appear calm, lapping gently against the shore, their ripples catching the early light, presenting a serene scene ideal for a peaceful stroll along the beach.\n\nThe forecast indicates that temperatures will gradually decrease throughout the afternoon, settling close to 56 degrees, while the evening promises a milder low around 49. The wind will pick up slightly, lending a chill that encourages layered clothing; a light jacket or sweater would serve well to ward off the cool breeze. Today\u2019s weather falls comfortably within the seasonal norms for the region, reminding one that autumn is firmly established.\n\nWith such pleasant yet brisk conditions, this day invites leisurely outdoor activities: consider a quiet walk on the beach, relishing the tranquility of the water and the fading hues of fall. Perhaps a visit to a cozy caf\u00e9 afterward would be perfect to warm up with a hot beverage while watching the world go by. It\u2019s a day for enjoying the subtle beauty of the season, making the most of a wardrobe that comfortably transitions from the warm sun to the cooler evenings.",
-    "color_code": "#A2B2C3",
-    "timestamp": "2024-11-02 07:07:32"
+    "weather_report": "As morning unfolds in Evanston, the beach presents a serene view toward Lake Michigan, with gentle waves lapping at the shore under a mostly sunny sky. The current temperature hovers around a brisk 58 degrees, emblematic of the transition into fall, and one can expect a slight drop as the day progresses. A subtle southeast wind, reaching up to 15 mph, stirs the air, adding a refreshing chill that underlines the season's bite. \n\nTonight, the atmosphere will shift to a partly cloudy disposition, with temperatures dipping to approximately 49 degrees. Light breezes may pick up with gusts, creating a somewhat blustery end to the day. Given these conditions, it\u2019s advisable to dress in layers\u2014perhaps a light jacket or sweater over a long-sleeve shirt, complemented with comfortable pants. This October day, devoid of precipitation, offers an inviting opportunity for a stroll along the sand or through local parks, soaking in the remaining vestiges of autumn\u2019s splendor. It\u2019s a day that calls for quiet reflection by the water, or simply enjoying the brisk air as the waves ripple gently, a reminder of nature\u2019s tranquil power amidst the changing seasons.",
+    "color_code": "#A3B4C4",
+    "timestamp": "2024-11-02 08:07:44"
 }
