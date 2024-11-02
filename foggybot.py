@@ -241,8 +241,9 @@ Style Guidelines:
   Skilling, and raconteur Studs Terkel
 - Try to keep response under 500 words
 
-After the weather report, please provide an HTML color code that best
-represents the weather forecast, time of day, and the image.
+After the weather report, please provide an HTML color code that best represents
+the weather forecast, time of day, and the image. Output only the hex code on a
+line by itself. Do not refer to the color code at all in the report otherwise.
 """
 
     def generate_report(
