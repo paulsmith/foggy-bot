@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T00:51:00+00:00",
+            "timestamp": "2024-11-02T01:51:00+00:00",
             "temperature_f": 44.96,
             "temperature_c": 7.2,
             "humidity": 70.539119120885,
-            "wind_speed_mph": 20.93832,
+            "wind_speed_mph": 16.91172,
             "wind_direction": 110,
             "description": "Clear"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-01T21:00:00-05:00",
+                "startTime": "2024-11-01T22:00:00-05:00",
                 "endTime": "2024-11-02T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night settles over Evanston, a chill embraces the air, with temperatures dipping toward 42 degrees. The sky is mostly clear, inviting a peaceful gaze at the stars, while a gentle south-southeast wind whispers at around 5 miles per hour. The tranquillity of the beach scene beckons to those who appreciate the calmness of a late autumn evening, although it may feel a touch brisk for those unprepared. \n\nTomorrow brings a reprieve in the form of sunshine, anticipated to warm the day to a pleasant 58 degrees. With the sun shining brightly and a moderate southeasterly breeze expected to pick up a bit, outdoor activities could flourish. The lake may display some light wave action but generally appears calm, perfect for a reflective stroll along the shore or perhaps an outing with a good book. As the season naturally cools, dressing in layers\u2014perhaps a light jacket paired with comfortable pants\u2014will keep one cozy while enjoying the fresh air. With no significant precipitation forecasted, the day may serve as a delightful opportunity to savor the outdoor beauty of Lake Michigan, engaging in leisurely activities or simple reflections by the water's edge.",
-    "color_code": "#A5C8E1",
-    "timestamp": "2024-11-01 21:26:10"
+    "weather_report": "As the night envelops Evanston, the skies remain mostly clear, allowing the gentle glow of moonlight to reflect on the tranquil surface of Lake Michigan. With temperatures dipping to around 42 degrees, a soft south-southeast breeze brushes through, adding a hint of chill to the evening air. Those venturing outdoors may find it wise to don light layers, perhaps a warm sweater or jacket, as the coolness settles in.\n\nLooking ahead to Saturday, the forecast promises a delightful day to follow. With sunny skies on the horizon, temperatures are expected to climb to a pleasant 58 degrees. This seasonable warmth invites residents to embrace outdoor activities, perhaps a leisurely stroll along the beach or a visit to one of the local parks. The winds, gentle at 5 to 10 mph with occasional gusts, are likely to create a moderate but inviting swell on the lake, perfect for those who enjoy the sound of waves lapping against the shore. Given the current conditions and the pleasant day ahead, it's a wonderful opportunity for simple pleasures: a quiet morning jog, enjoying a good book outdoors, or perhaps sipping coffee while taking in the serene beauty of autumn along the lakefront.",
+    "color_code": "#2E2A30",
+    "timestamp": "2024-11-01 22:08:45"
 }
