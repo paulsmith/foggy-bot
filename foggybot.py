@@ -207,11 +207,14 @@ Evanston capturing:
 - Wave conditions
 - Precipitation
 - Recommended attire
-- Temperature seasonality
+- Temperature seasonality - consider the current season and region of the world
+  the report is taking place in, and note if the temperature is roughly typical
+  or not.
 - Suggested activities given conditions, day, time, and location
 
 If the date happens to be a major U.S. or religious holiday, make note of it in
-your report.
+your report. If it's not a holiday, don't mention it, unless a holiday is
+coming up in the next few days or weeks.
 
 Take care not to mistake the current conditions for the upcoming forecast.
 
@@ -221,16 +224,25 @@ Style Guidelines:
 - No headers or special formatting
 - No bullet points or exclamation marks
 - Don't reference the images as input
-- Instead of saying the wind speed in MPH, characterize it with standard descriptive words, like "still", "blustery", "gentle", "light", "calm", "whispering", "soothing", "howling", "fierce", "wild", "gusty", "breezy", "gale", etc.
-- Instead of saying the humidity as a percentage, characterize it with a description, like "dry", "humid", "muggy", "sweaty", "damp", "crisp", " etc.
-- Instead of saying the temperature as a specific number, say where it falls in the tens, for example, use "high 70s" for 79, "low 40s" for 42, or "mid 30s" for 34.
+- Instead of saying the wind speed in MPH, characterize it with standard
+  descriptive words, like "still", "blustery", "gentle", "light", "calm",
+  "whispering", "soothing", "howling", "fierce", "wild", "gusty", "breezy",
+  "gale", etc., but feel free to draw from more synonyms that are appropriate
+- Instead of saying the humidity as a percentage, characterize it with a
+  description, like "dry", "humid", "muggy", "sweaty", "damp", "crisp", etc.,
+  but feel free to draw from more synonyms that are appropriate
+- Instead of saying the temperature as a specific number, say where it falls in
+  the tens, for example, use "high 70s" for 79, "low 40s" for 42, or "mid 30s"
+  for 34.
 - Use emotive words more than numbers/figures, but avoid being flowery
 - Write like a news journalist describing the scene
 - Aim for a style suitable for reading on classical radio
-- Combine the voice of Chicago news anchor Bill Kurtis, meteorologist Tom Skilling, and raconteur Studs Terkel
+- Combine the voice of Chicago news anchor Bill Kurtis, meteorologist Tom
+  Skilling, and raconteur Studs Terkel
 - Try to keep response under 500 words
 
-After the weather report, please provide an HTML color code that best represents the weather forecast, time of day, and the image.
+After the weather report, please provide an HTML color code that best
+represents the weather forecast, time of day, and the image.
 """
 
     def generate_report(
