@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T19:51:00+00:00",
-            "temperature_f": 57.92,
-            "temperature_c": 14.4,
-            "humidity": 47.248268299697,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 150,
+            "timestamp": "2024-11-02T20:51:00+00:00",
+            "temperature_f": 57.02,
+            "temperature_c": 13.9,
+            "humidity": 45.141375866801,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 140,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-02T15:00:00-05:00",
+                "startTime": "2024-11-02T17:00:00-05:00",
                 "endTime": "2024-11-02T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 57, with temperatures falling to around 55 in the afternoon. Southeast wind around 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 55 in the afternoon. Southeast wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Conditions in Evanston today reflect a coastal charm, with temperatures hovering in the upper 50s accompanied by gentle humidity that brings a crispness to the air. Currently, gusty winds are sweeping in from the southeast, stirring the lake\u2019s surface and creating a bit of a vibrant scene along the beach. With mostly cloudy skies, the afternoon promises some sunshine, although temperatures are expected to dip slightly as the day progresses. Tonight will see a return to cloudiness and a mild low around the upper 40s.\n\nThe current weather appears pleasant for an outdoor stroll along the lakefront, though the wind and the potential for increasing cloud cover might make it feel a touch cooler. The waves are likely moderate, due to that strong southeastern breeze, which could entice local fishermen or anyone seeking a refreshing view of Lake Michigan. Given the season, where autumn colors are giving their last vibrant display, this weather is somewhat typical for November in the Midwest, suggesting it's time to bundle up a bit without going overboard. A light jacket paired with layers and maybe a warm drink could enhance the enjoyment of any outdoor activity this evening. As for activities, a leisurely walk on the beach or a visit to a nearby caf\u00e9 would capture this lovely fall day perfectly.",
-    "color_code": "#BDC3C7",
-    "timestamp": "2024-11-02 16:05:07"
+    "weather_report": "As evening settles over Evanston, current conditions reveal a temperature in the mid-50s, accompanied by a delightful crispness in the air, ensuring a comfortable experience outside. The scene is mostly cloudy, giving a muted yet elegantly soothing backdrop as the winds whistle in from the southeast, creating a noticeable breezy atmosphere. The wave action on Lake Michigan is moderate, producing a gentle lapping at the shore, perfect for contemplative strolls along the beach as the sun begins its descent, casting soft hues across the water.\n\nLooking ahead, the forecast promises mostly sunny skies this afternoon, with temperatures dipping slightly. Tonight will bring a return to cloudy conditions, with lows settling in the upper 40s, underlining the seasonal transition unmistakably felt this autumn. While precipitation is absent from the radar, the gusty winds, reaching up to 15 mph, may add a brisk chill, making a light jacket or sweater advisable for any evening outings. Considering it's the first week of November, these temperatures align with expectations for this time of year, creating an inviting environment for leisurely walks or perhaps a visit to a local caf\u00e9 to enjoy the cozy ambiance that fall offers.",
+    "color_code": "#CDA6D8",
+    "timestamp": "2024-11-02 17:05:51"
 }
