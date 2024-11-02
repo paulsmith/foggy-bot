@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T13:51:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 82.183211819876,
+            "timestamp": "2024-11-02T14:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 70.756646043571,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 150,
-            "description": "Partly Cloudy"
+            "wind_direction": 170,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-02T10:00:00-05:00",
+                "startTime": "2024-11-02T11:00:00-05:00",
                 "endTime": "2024-11-02T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "SSE",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 56 in the afternoon. South southeast wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 56 in the afternoon. Southeast wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning, Evanston finds itself enveloped in conditions that are a blend of brisk air and humidity, typical for early November. Currently standing in the low 40s, the temperature brings a hint of chill, heightened by a gusty wind flowing from the south-southeast. Despite the partly cloudy skies, the lake gleams invitingly, suggesting a glimpse of the sun may soon break through. As the day unfolds, we can anticipate a transition to mostly sunny weather, with highs reaching into the upper 50s, though expect a cool down in the afternoon as the temperature settles around the mid 50s. \n\nIn terms of appearance, the scene at the beach is pleasant, with the waves gently caressing the shore, though some may find the brisk wind a tad brisk for lounging. There's no forecast for precipitation, enabling a variety of outdoor activities. Attire for today should lean towards layers\u2014perhaps a light jacket or sweater to fend off the chill, especially as the sun begins to dip this evening, when temperatures will settle back into the upper 40s. Given the time of year and current conditions, this beautiful day is perfect for a stroll along the beach or perhaps a brisk jog on the shoreline, immersing oneself in the serene beauty of Lake Michigan as it bids farewell to fall. \n\nFor today's weather representation, a calming and clear hue of , reminiscent of the lake's tranquil surface under the autumn sun, captures the essence of Evanston's inviting atmosphere.",
-    "color_code": "#4BB8E4",
-    "timestamp": "2024-11-02 10:05:35"
+    "weather_report": "Current conditions in Evanston reveal a blustery scene, where the temperature rests in the mid-40s, creating a damp and cool atmosphere. The sky is mostly cloudy, but it hints at brightness as the day advances, enhancing the contrast against the Lake Michigan waters. The winds are fierce, blowing in from the southeast, stirring up the lake and adding a sense of movement to the coastal landscape. \n\nLooking ahead, today promises mostly sunny skies with a high near the upper 50s, as the winds shift to a gentler breeze around 10 mph. Tonight, expect partly cloudy skies and a mild low in the upper 40s. There\u2019s no significant precipitation in sight, offering a reprieve from the usual autumnal showers. The waves on the lake are likely choppy, stirred by the winds, making it less inviting for swimming but perhaps ideal for those who enjoy a good brisk walk along the shore. Given the season, a light jacket is advisable to shield against the chilly air, and it could be wise to don layers for warmth as temperatures will gradually drop with the fading daylight. \n\nWith the forecast looking favorable, local residents might consider taking advantage of the crisp air with outdoor activities like a leisurely stroll on the beach, appreciating the beauty of the season while taking in the lake's autumn hues. All in all, it\u2019s a splendid autumn day to embrace the outdoors, particularly for those eager to enjoy the waning warmth of the daylight before winter sets in.",
+    "color_code": "#A6C4D8",
+    "timestamp": "2024-11-02 11:05:03"
 }
