@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T12:51:00+00:00",
-            "temperature_f": 39.92,
-            "temperature_c": 4.4,
-            "humidity": 82.614624284648,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 160,
+            "timestamp": "2024-11-02T13:51:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 82.183211819876,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 150,
             "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-02T08:00:00-05:00",
+                "startTime": "2024-11-02T10:00:00-05:00",
                 "endTime": "2024-11-02T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 56 in the afternoon. South southeast wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 56 in the afternoon. South southeast wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, a refreshing chill greets residents as the temperature hovers in the low 40s, accompanied by a damp atmosphere under partly cloudy skies. The brisk, whispering winds from the southeast stir the lake, creating a gentle swell but no significant wave action to worry beachgoers. As we move into the day, forecasts promise a transition toward warmer, mostly sunny conditions with a high approaching the upper 50s. This afternoon, temperatures will slightly dip as clouds drift in, yet the gentle south-southeast breeze will keep the air feeling lively.\n\nAs night falls, expect a low in the upper 40s, with the warmth of the day giving way to a calm evening under the stars. With no precipitation forecasted and the visibility remaining clear, it's an excellent opportunity for a stroll along the shoreline or a cozy gathering at local parks. Dress in layers to adjust to the temperature fluctuations, and perhaps don a light jacket for later. As we embrace the fall season, the beauty of Lake Michigan beckons residents to enjoy the serenity of late autumn.",
-    "color_code": "#A6C8E0",
-    "timestamp": "2024-11-02 09:11:17"
+    "weather_report": "This morning, Evanston finds itself enveloped in conditions that are a blend of brisk air and humidity, typical for early November. Currently standing in the low 40s, the temperature brings a hint of chill, heightened by a gusty wind flowing from the south-southeast. Despite the partly cloudy skies, the lake gleams invitingly, suggesting a glimpse of the sun may soon break through. As the day unfolds, we can anticipate a transition to mostly sunny weather, with highs reaching into the upper 50s, though expect a cool down in the afternoon as the temperature settles around the mid 50s. \n\nIn terms of appearance, the scene at the beach is pleasant, with the waves gently caressing the shore, though some may find the brisk wind a tad brisk for lounging. There's no forecast for precipitation, enabling a variety of outdoor activities. Attire for today should lean towards layers\u2014perhaps a light jacket or sweater to fend off the chill, especially as the sun begins to dip this evening, when temperatures will settle back into the upper 40s. Given the time of year and current conditions, this beautiful day is perfect for a stroll along the beach or perhaps a brisk jog on the shoreline, immersing oneself in the serene beauty of Lake Michigan as it bids farewell to fall. \n\nFor today's weather representation, a calming and clear hue of , reminiscent of the lake's tranquil surface under the autumn sun, captures the essence of Evanston's inviting atmosphere.",
+    "color_code": "#4BB8E4",
+    "timestamp": "2024-11-02 10:05:35"
 }
