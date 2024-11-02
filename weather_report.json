@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T15:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 65.824827442761,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 160,
+            "timestamp": "2024-11-02T16:51:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 56.36085975426,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 140,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-02T12:00:00-05:00",
+                "startTime": "2024-11-02T13:00:00-05:00",
                 "endTime": "2024-11-02T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 58,
+                "temperature": 57,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 56 in the afternoon. Southeast wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Sunny. High near 57, with temperatures falling to around 55 in the afternoon. Southeast wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is experiencing a brisk afternoon with temperatures hovering in the low 50s and a refreshing humidity that lends a slight crispness to the air. The wind is notably vibrant, sweeping in from the southeast at a blustery pace, making it feel even cooler. As the day progresses, expect an uplifting transition into sunny skies, with temperatures set to rise modestly to around the upper 50s. The outlook for tonight suggests a gentle shift towards partly cloudy conditions, settling down to the upper 40s, while maintaining a moderate breeze.\n\nOverall, the scene at the beach presents a somewhat pleasant appearance, with the waves reflecting a glimmer of sunshine contrasting against the deep blue of Lake Michigan. Thankfully, precipitation is absent, allowing for a clear view across the water. For those venturing outside, light layers are advisable, fitting well for autumn's chills as the season is clearly in the waning warmth of fall. This inviting weather makes it a nice afternoon for a leisurely walk along the lakefront or perhaps a visit to a nearby caf\u00e9 to soak in the tranquil surroundings. Given that today is not a major holiday, it provides a perfect respite to enjoy nature or catch up with friends without the usual hustle and bustle. \n\nFor the day's weather, a fitting HTML color code that embodies the spirit of the forecasted conditions would be , representing the soothing blue tones of the lake and the serene atmosphere.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2024-11-02 12:04:44"
+    "weather_report": "The current weather in Evanston presents a cool and brisk scene, with temperatures hovering in the low 50s and a gentle, refreshing breeze rustling through the area. The air feels notably crisp, and despite the mostly cloudy skies, there\u2019s no immediate threat of precipitation. As we look ahead, the forecast promises relief with a transition to sunny skies this afternoon, reaching highs in the upper 50s. The wind will shift to a softer southeast breeze, making for a pleasant early November day.\n\nVisually, the beach presents a calm appearance, inviting for an afternoon stroll, though the cloud cover still hints at the lingering chill. The wave conditions are mild, ideal for a quiet moment by the shore, but not conducive for vigorous water activities. With no significant weather concerns, it's a perfect opportunity for wearing layered clothing\u2014think a light jacket or sweater, given the seasonality and the promise of cooler evening temperatures dipping to about the upper 40s. Outdoor enthusiasts might enjoy a leisurely walk along the beach, perhaps taking in the changing autumn scenery or simply savoring a moment by the watery horizon before dusk envelops the day.",
+    "color_code": "#B0E0E6",
+    "timestamp": "2024-11-02 13:05:47"
 }
