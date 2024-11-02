@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T16:51:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 56.36085975426,
-            "wind_speed_mph": 37.04472,
+            "timestamp": "2024-11-02T17:51:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 58.64338077836,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 140,
             "description": "Mostly Cloudy"
         },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston presents a cool and brisk scene, with temperatures hovering in the low 50s and a gentle, refreshing breeze rustling through the area. The air feels notably crisp, and despite the mostly cloudy skies, there\u2019s no immediate threat of precipitation. As we look ahead, the forecast promises relief with a transition to sunny skies this afternoon, reaching highs in the upper 50s. The wind will shift to a softer southeast breeze, making for a pleasant early November day.\n\nVisually, the beach presents a calm appearance, inviting for an afternoon stroll, though the cloud cover still hints at the lingering chill. The wave conditions are mild, ideal for a quiet moment by the shore, but not conducive for vigorous water activities. With no significant weather concerns, it's a perfect opportunity for wearing layered clothing\u2014think a light jacket or sweater, given the seasonality and the promise of cooler evening temperatures dipping to about the upper 40s. Outdoor enthusiasts might enjoy a leisurely walk along the beach, perhaps taking in the changing autumn scenery or simply savoring a moment by the watery horizon before dusk envelops the day.",
-    "color_code": "#B0E0E6",
-    "timestamp": "2024-11-02 13:05:47"
+    "weather_report": "In Evanston, Illinois, the current weather presents a blend of briskness and beauty by the shore. With temperatures hovering in the low 50s, there's a fresh, crisp feel in the air, complemented by a blustery wind sweeping in from the southeast. The humidity adds a touch of dampness, though the sky remains mostly clear and the day appears to brighten as it progresses. Instead of precipitation, we can expect a sunny afternoon with temperatures reaching close to 57 degrees, although they may dip slightly in the later hours.\n\nAs for the outlook, tonight brings partly cloudy skies with lows around 49. The wind is poised to remain noticeable, providing an invigorating backdrop for any evening stroll or gathering. Given these conditions, the beach would still call to those seeking a bracing walk along Lake Michigan, but be prepared for the chilly air\u2014dress warmly in layers and perhaps don a windbreaker to fend off those gusts. The waves, while not tumultuous, may offer a soothing rhythm, ideal for reflective moments or simply enjoying the serene lakefront. As we embrace this late autumn vibe, it\u2019s a wonderful opportunity for outdoor activities like a brisk bike ride or a leisurely walk, engaging with the seasonal beauty that this time of year in Evanston presents.",
+    "color_code": "#A7C6D5",
+    "timestamp": "2024-11-02 14:04:43"
 }
