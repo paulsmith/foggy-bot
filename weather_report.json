@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T01:51:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 70.539119120885,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 110,
+            "timestamp": "2024-11-02T03:51:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 78.753376184584,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-01T22:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-11-02T00:00:00-05:00",
                 "endTime": "2024-11-02T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 mph",
+                "windSpeed": "0 to 5 mph",
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 42. South southeast wind around 5 mph."
+                "detailedForecast": "Mostly clear, with a low around 42. South southeast wind 0 to 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the night envelops Evanston, the skies remain mostly clear, allowing the gentle glow of moonlight to reflect on the tranquil surface of Lake Michigan. With temperatures dipping to around 42 degrees, a soft south-southeast breeze brushes through, adding a hint of chill to the evening air. Those venturing outdoors may find it wise to don light layers, perhaps a warm sweater or jacket, as the coolness settles in.\n\nLooking ahead to Saturday, the forecast promises a delightful day to follow. With sunny skies on the horizon, temperatures are expected to climb to a pleasant 58 degrees. This seasonable warmth invites residents to embrace outdoor activities, perhaps a leisurely stroll along the beach or a visit to one of the local parks. The winds, gentle at 5 to 10 mph with occasional gusts, are likely to create a moderate but inviting swell on the lake, perfect for those who enjoy the sound of waves lapping against the shore. Given the current conditions and the pleasant day ahead, it's a wonderful opportunity for simple pleasures: a quiet morning jog, enjoying a good book outdoors, or perhaps sipping coffee while taking in the serene beauty of autumn along the lakefront.",
-    "color_code": "#2E2A30",
-    "timestamp": "2024-11-01 22:08:45"
+    "weather_report": "In Evanston, the night settles in with a largely clear sky, evoking a calmness that belies the hint of chill in the air, as temperatures drift down to around 42 degrees. The whisper of a south-southeast breeze gently stirs the surroundings, providing just enough movement to keep the ambiance fresh but untroubled. As we edge into Saturday, the promise of sunshine emerges, bringing with it a high near 58 degrees. The morning will greet residents with clear skies that unveil the beauty of the day ahead, while a modest wind will be felt throughout, with occasional gusts adding a playful touch to the air.\n\nAs dawn breaks and transforms the landscape, the beach at Lake Michigan beckons with serene allure. Today\u2019s weather paints an inviting portrait for casual strolls along the coastline, where the waves appear calm and gentle, providing a peaceful rhythm that soothes the spirit. Those venturing outdoors this weekend might choose lighter layers, perhaps a comfortable sweater over a long-sleeved shirt, complemented by sturdy yet relaxed footwear for a leisurely exploration of the waterfront. With the season transitioning, the temperature aligns well with the late autumn vibe, offering a delightful backdrop for a quaint outing or thoughtful time spent by the lake. A flatter shoreline invites quiet moments of reflection, a perfect escape from the busy week, ideal for sipping a warm beverage while soaking in the crisp, invigorating air.",
+    "color_code": "#A9C1DB",
+    "timestamp": "2024-11-02 00:05:35"
 }
