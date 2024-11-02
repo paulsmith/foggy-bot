@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T07:51:00+00:00",
-            "temperature_f": 39.92,
-            "temperature_c": 4.4,
-            "humidity": 82.614624284648,
+            "timestamp": "2024-11-02T08:51:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 81.959440634687,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-02T03:00:00-05:00",
+                "startTime": "2024-11-02T04:00:00-05:00",
                 "endTime": "2024-11-02T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 41,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "0 to 5 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 41. South wind 0 to 5 mph."
+                "detailedForecast": "Mostly clear, with a low around 41. South wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the night is still cloaked in a tranquil darkness. The air is crisp, with temperatures dipping to a cool 41 degrees, a reminder that autumn is firmly in control. A light breeze from the south whispers through the trees, setting the stage for a pleasant Saturday ahead. The forecast promises a beautiful day, with mostly sunny skies that should brighten as the sun rises higher. By midday, expect temperatures to peak near 58 degrees, providing a gentle warmth in the afternoon.\n\nThe lake appears calm against the backdrop of this serene morning, the water\u2019s surface reflecting the early light without any signs of precipitation. It is a day that invites outdoor exploration, perfect for a leisurely stroll along the beach or perhaps a visit to one of the local parks to enjoy the changing colors of the fall foliage. Consider dressing in layers to tackle the cool start, transitioning to lighter apparel as the day warms up\u2014perhaps a light sweater or jacket should suffice during the cool early hours.\n\nThis Saturday does not coincide with a major U.S. holiday, allowing for a quiet day of personal enjoyment. Whether you choose to grab a warm cup of coffee and sit quietly by the lake or engage in a leisurely walk through the neighborhood, the conditions beckon to be embraced. The charm of early November in Evanston offers both beauty and a sense of peaceful continuity, ideal for the contemplative spirit and those seeking simple pleasures in the crisp morning air.",
-    "color_code": "#B0C4C7",
-    "timestamp": "2024-11-02 04:05:00"
+    "weather_report": "As dawn approaches over Evanston, the air is clear and crisp, with temperatures around 41 degrees, hinting at the refreshing essence of an autumn morning. The slight south wind, gentle at about 5 mph, suggests a tranquil start to the weekend. Anticipation builds for Saturday, which promises to be mostly sunny, with temperatures peaking near 58 degrees before retreating to a cooler 56 in the afternoon. The light winds may pick up slightly, introducing occasional gusts of 20 mph, adding a lively touch to the day.\n\nLooking out over Lake Michigan, the waves appear calm; the prevailing conditions make for a smooth surface rather than the tumultuous scenery often seen in rougher weather. The shoreline, framed by the quiet solitude of the morning, invites a sense of serenity\u2014an ideal backdrop for a leisurely stroll or perhaps a jog along the beach. Dressing in layers would be wise to accommodate the day's shifts in temperature, with a light jacket recommended for the early chill before shedding it under the warm sun later. The weather feels seasonable for November, encouraging residents to embrace the final lush tones of fall, with opportunities for a nature walk or a leisurely visit to the parks that line the lakeshore.\n\nAs you step into this beautiful autumn day, consider sipping a warm coffee at a nearby caf\u00e9 or taking a book to enjoy the peace that these gentle conditions offer. Even without the bustle of a major holiday, this Saturday holds potential for simple joys, whether it be through reflection by the water or taking in the vibrant tapestry of fall's final days.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2024-11-02 05:04:59"
 }
