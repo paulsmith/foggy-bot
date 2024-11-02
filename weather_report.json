@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T09:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 81.959440634687,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 170,
+            "timestamp": "2024-11-02T10:51:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 82.614624284648,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 180,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-02T05:00:00-05:00",
-                "endTime": "2024-11-02T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 39. South wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2024-11-02T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-11-02T07:00:00-05:00",
                 "endTime": "2024-11-02T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 56 in the afternoon. South southeast wind 5 to 10 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-02T18:00:00-05:00",
+                "endTime": "2024-11-03T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 49. Southeast wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the quiet early hours unfold in Evanston, the beach community is greeted by mostly clear skies, a fitting prelude to the day's mild offering. With the temperature dipping to around 39 degrees overnight, a gentle south wind whispers promises of change. As the morning progresses and the sun peeks over the horizon, residents can expect a transition to mostly sunny conditions. The anticipated high near 58 degrees may have temperatures slightly cooling to the mid-50s by afternoon, complemented by a moderate breeze from the south-southeast, occasionally gusting to 20 mph.\n\nThe lake, likely reflecting the soft hues of dawn, appears calm this morning, devoid of any significant wave action or precipitation. It\u2019s an amiable autumn day that feels seasonable for the region, although one may want to don a light jacket or sweater, especially as temperatures begin to wane in the afternoon. Morning walks along the shore or contemplative moments with a warm beverage in hand could beautifully enhance the experience of this serene morning. While it\u2019s not a major U.S. holiday today, the tranquil backdrop of Lake Michigan sets a comforting tone for anyone seeking a gentle escape this weekend.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-02 06:04:30"
+    "weather_report": "As dawn breaks over Evanston, the sky offers a gentle gradient of colors, suggesting a mostly sunny day ahead, albeit with peaks of cloud cover. Current conditions feel brisk, with temperatures hovering near the mid-50s, and a soft southeast wind whispering through the air, gently rocking the surface of Lake Michigan. The waves appear calm, lapping gently against the shore, their ripples catching the early light, presenting a serene scene ideal for a peaceful stroll along the beach.\n\nThe forecast indicates that temperatures will gradually decrease throughout the afternoon, settling close to 56 degrees, while the evening promises a milder low around 49. The wind will pick up slightly, lending a chill that encourages layered clothing; a light jacket or sweater would serve well to ward off the cool breeze. Today\u2019s weather falls comfortably within the seasonal norms for the region, reminding one that autumn is firmly established.\n\nWith such pleasant yet brisk conditions, this day invites leisurely outdoor activities: consider a quiet walk on the beach, relishing the tranquility of the water and the fading hues of fall. Perhaps a visit to a cozy caf\u00e9 afterward would be perfect to warm up with a hot beverage while watching the world go by. It\u2019s a day for enjoying the subtle beauty of the season, making the most of a wardrobe that comfortably transitions from the warm sun to the cooler evenings.",
+    "color_code": "#A2B2C3",
+    "timestamp": "2024-11-02 07:07:32"
 }
