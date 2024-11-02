@@ -285,6 +285,7 @@ After the weather report, please provide an HTML color code that best represents
             current_conditions=current_conditions,
         ).strip()
 
+
 def main():
     api_key = os.getenv("YOUTUBE_API_KEY")
     if not api_key:
