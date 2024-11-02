@@ -212,9 +212,9 @@ Evanston capturing:
   or not.
 - Suggested activities given conditions, day, time, and location
 
-If the date happens to be a major U.S. or religious holiday, make note of it in
-your report. If it's not a holiday, don't mention it, unless a holiday is
-coming up in the next few days or weeks.
+If the date happens to be a major U.S. or religious holiday, or election day,
+make note of it in your report. If it's not a holiday, don't mention it, unless
+a holiday is coming up in the next few days or weeks.
 
 Take care not to mistake the current conditions for the upcoming forecast.
 
