@@ -184,6 +184,55 @@ class WeatherReporter:
     def __init__(self):
         self.model = llm.get_model("gpt-4o-mini")
 
+    PROMPT_TEMPLATE = """
+Here are the current conditions in Evanston, Illinois:
+{current_conditions}
+
+Below is the weather forecast for Evanston, Illinois:
+{forecast_periods}
+
+Current local date and time: {current_time}
+
+Considering this image and the weather forecast, assess the weather,
+specifically looking for where any preciptitation is, the clarity of the day,
+and more. The image is a view of the beach in Evanston, Illinois, looking east
+from a parks department building towards Lake Michigan.
+
+Considering your assessment of the weather, please write a weather report for
+Evanston capturing:
+
+- Current conditions
+- Expected weather for the day
+- Pleasant/unpleasant appearance
+- Wave conditions
+- Precipitation
+- Recommended attire
+- Temperature seasonality
+- Suggested activities given conditions, day, time, and location
+
+If the date happens to be a major U.S. or religious holiday, make note of it in
+your report.
+
+Take care not to mistake the current conditions for the upcoming forecast.
+
+Style Guidelines:
+
+- Write 1-2 single paragraphs
+- No headers or special formatting
+- No bullet points or exclamation marks
+- Don't reference the images as input
+- Instead of saying the wind speed in MPH, characterize it with standard descriptive words, like "still", "blustery", "gentle", "light", "calm", "whispering", "soothing", "howling", "fierce", "wild", "gusty", "breezy", "gale", etc.
+- Instead of saying the humidity as a percentage, characterize it with a description, like "dry", "humid", "muggy", "sweaty", "damp", "crisp", " etc.
+- Instead of saying the temperature as a specific number, say where it falls in the tens, for example, use "high 70s" for 79, "low 40s" for 42, or "mid 30s" for 34.
+- Use emotive words more than numbers/figures, but avoid being flowery
+- Write like a news journalist describing the scene
+- Aim for a style suitable for reading on classical radio
+- Combine the voice of Chicago news anchor Bill Kurtis, meteorologist Tom Skilling, and raconteur Studs Terkel
+- Try to keep response under 500 words
+
+After the weather report, please provide an HTML color code that best represents the weather forecast, time of day, and the image.
+"""
+
     def generate_report(
         self, weather_data: Dict[str, Any], image_path: str
     ) -> Dict[str, Any]:
@@ -208,29 +257,33 @@ class WeatherReporter:
         return color_match.group(0) if color_match else None
 
     @staticmethod
-    def _prepare_forecast_prompt(weather_data: Dict[str, Any]) -> str:
-        forecasts = "Below is the weather forecast for Evanston, Illinois: \n"
-        for period in weather_data["forecast"]:
-            forecasts = (
-                forecasts + "\n - " + period["name"] + ": " + period["detailedForecast"]
-            )
+    def _format_forecast_periods(weather_data: Dict[str, Any]) -> str:
+        return "\n".join(
+            f" - {period['name']}: {period['detailedForecast']}"
+            for period in weather_data["forecast"]
+        )
 
-        # Convert the current time to local time
-        tz = timezone("America/Chicago")
-        time = datetime.now(tz).strftime("%Y-%m-%d %H:%M:%S")
+    @staticmethod
+    def _format_current_conditions(weather_data: Dict[str, Any]) -> str:
+        conditions = weather_data["current_conditions"]
+        return f"""\
+- Temperature (F): {conditions["temperature_f"]}
+- Humidity (%): {conditions["humidity"]}
+- Wind speed (MPH): {conditions["wind_speed_mph"]}
+- Wind direction (degrees): {conditions["wind_direction"]}
+- Description: {conditions["description"]}
+"""
 
-        forecasts += f"\n\nCurrent local time: {time}"
+    def _prepare_forecast_prompt(self, weather_data: Dict[str, Any]) -> str:
+        current_time = datetime.now(timezone(TIMEZONE)).strftime("%Y-%m-%d %H:%M:%S")
+        forecast_periods = self._format_forecast_periods(weather_data)
+        current_conditions = self._format_current_conditions(weather_data)
 
-        forecasts += "\n\nReview this image and assess the weather, specifically looking for where any preciptitation is, the clarity of the day, and more. The image is a view of the beach in Evanston, looking East from a parks department building, towards Lake Michigan.\n\nConsidering the weather forecast and the image, please write a weather report for Evanston capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how rough or calm the waves look; how wet it is; how one might best dress for the weather; how seasonable the temperature is for the region; and what one might do given the conditions, day, and time. If the date happens to be a major U.S. holiday, make note of it in your report. Remember: you will generate this report many times a day, your recommended activities should be relatively mundane and not too cliche or stereotypical."
-
-        forecasts += "\n\nDo not use headers or other formatting in your response. Just write one to two single paragraphs that are elegant, don't use bullet points or exclamation marks, don't mention the images as input, and use emotive words more often than numbers and figures – but don't be flowery. You write like a straight news journalist describing the scene, producing a work suitable for someone calmly reading it on a classical radio station between songs. With a style somewhere between anchor Bill Kurtis, meteorologist Tom Skilling, and Studs Terkel."
-
-        forecasts += "\n\nRemember to keep the response under 500 words."
-
-        forecasts += "\n\nAfter the weather report, please put an HTML color code that best represents the weather forecast, time of day, and the images."
-
-        return forecasts
-
+        return self.PROMPT_TEMPLATE.format(
+            forecast_periods=forecast_periods,
+            current_time=current_time,
+            current_conditions=current_conditions,
+        ).strip()
 
 def main():
     api_key = os.getenv("YOUTUBE_API_KEY")
