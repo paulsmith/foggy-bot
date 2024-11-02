@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T03:51:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 78.753376184584,
+            "timestamp": "2024-11-02T04:51:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 79.226480114693,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-02T00:00:00-05:00",
+                "startTime": "2024-11-02T01:00:00-05:00",
                 "endTime": "2024-11-02T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "0 to 5 mph",
-                "windDirection": "SSE",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 42. South southeast wind 0 to 5 mph."
+                "detailedForecast": "Mostly clear, with a low around 42. South wind 0 to 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the night settles in with a largely clear sky, evoking a calmness that belies the hint of chill in the air, as temperatures drift down to around 42 degrees. The whisper of a south-southeast breeze gently stirs the surroundings, providing just enough movement to keep the ambiance fresh but untroubled. As we edge into Saturday, the promise of sunshine emerges, bringing with it a high near 58 degrees. The morning will greet residents with clear skies that unveil the beauty of the day ahead, while a modest wind will be felt throughout, with occasional gusts adding a playful touch to the air.\n\nAs dawn breaks and transforms the landscape, the beach at Lake Michigan beckons with serene allure. Today\u2019s weather paints an inviting portrait for casual strolls along the coastline, where the waves appear calm and gentle, providing a peaceful rhythm that soothes the spirit. Those venturing outdoors this weekend might choose lighter layers, perhaps a comfortable sweater over a long-sleeved shirt, complemented by sturdy yet relaxed footwear for a leisurely exploration of the waterfront. With the season transitioning, the temperature aligns well with the late autumn vibe, offering a delightful backdrop for a quaint outing or thoughtful time spent by the lake. A flatter shoreline invites quiet moments of reflection, a perfect escape from the busy week, ideal for sipping a warm beverage while soaking in the crisp, invigorating air.",
-    "color_code": "#A9C1DB",
-    "timestamp": "2024-11-02 00:05:35"
+    "weather_report": "In Evanston, the overnight hours have settled into a calm embrace, with the sky mostly clear and a gentle breeze whispering through. As we transition into daylight, Saturday promises to awaken under a bright sun, leading to a high near 58 degrees. Gusts from the south-southeast, reaching up to 20 miles per hour, may ruffle the surface of Lake Michigan, introducing a hint of motion to the otherwise serene backdrop.\n\nAt this hour, the beach is cloaked in a soft darkness, the waters obscured but likely undulating gently. The absence of precipitation makes for a pleasant outdoor experience, though one might feel a slight chill typical of early November. For those venturing out, layering is advisable \u2014 a light jacket over a cozy sweater will serve well as temperatures climb throughout the day. This weather is decidedly seasonable, a reminder of the briskness that precedes winter's plunge. As the afternoon unfolds, outdoor strolls or a quiet moment by the lake would be ideal, allowing residents to appreciate the beauty of nature as it shifts from autumnal colors towards the stillness of the coming winter.",
+    "color_code": "#4A90E2",
+    "timestamp": "2024-11-02 01:06:09"
 }
