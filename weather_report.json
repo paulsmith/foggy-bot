@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-03T08:51:00+00:00",
+            "timestamp": "2024-11-03T09:51:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
             "humidity": 54.110084017545,
-            "wind_speed_mph": 20.93832,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 110,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-03T03:00:00-06:00",
+                "startTime": "2024-11-03T04:00:00-06:00",
                 "endTime": "2024-11-03T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. Southeast wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 52. Southeast wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather presents a cool and damp atmosphere, with temperatures lingering in the low 50s accompanied by a gentle, balmy breeze from the southeast. The clouds dominate the sky, shrouding the area in a muted light as the city embraces the late-night calm. As the day unfolds, expect a grayer sky, with rain showers making their anticipated arrival after noon. The high is forecasted to reach the low 60s, giving way to cooler conditions as the afternoon progresses, alongside gusty winds that might stir up a sense of briskness.\n\nGiven the conditions, the beach scene may appear somewhat uninviting now, with cloudy skies and impending rain overshadowing the charm of Lake Michigan. Wave conditions could attract a few adventurers seeking solace in the rhythm of the water, but be wary of the potential for rainfall and gusty winds later. Dressing in layers and preparing for a possible rain slicker is advisable, as the combination of humidity and cooler temperatures lends a chilly touch to the air. Though November doesn\u2019t usually boast beach-friendly weather, the current temperature aligns with the season's typical patterns for the Midwest. Consider enjoying indoor activities like visiting a local caf\u00e9 or exploring nearby shops, keeping dry as the clouds above hint at a wet afternoon ahead.",
-    "color_code": "#C2C2C2",
-    "timestamp": "2024-11-03 04:05:40"
+    "weather_report": "This morning in Evanston, the atmosphere is marked by a gentle chill with temperatures dipping into the low 50s, accompanied by a moderate breeze whispering from the southeast. The sky looms overcast, adding a somewhat gloomy feel to the early dawn, hinting at the rain showers expected later in the day. As the sun makes its ascent, residents can anticipate a shift in conditions. By afternoon, clouds will hang persistently, painting a gray backdrop, as rain showers are likely to roll in after noon with a 70% chance of precipitation. High temperatures are forecasted to reach up into the low 60s, then gradually sink later on.\n\nGiven the blustery winds and the likelihood of rain, it's best to don layers that include a light waterproof jacket and perhaps sturdy footwear, especially if venturing outside. As the lake waves may grow in the unsettled weather, those looking to enjoy the shore should approach with caution. While the day might not seem ideal for outdoor activities, consider cozying up at a nearby caf\u00e9, tackling some reading, or preparing for a roiling weekend by preparing the home. Today is not a holiday, but the approaching festive season sure warrants some planning.",
+    "color_code": "#344B54",
+    "timestamp": "2024-11-03 05:05:22"
 }
