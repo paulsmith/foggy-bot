@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-03T19:51:00+00:00",
+            "timestamp": "2024-11-03T20:51:00+00:00",
             "temperature_f": 57.92,
             "temperature_c": 14.4,
             "humidity": 64.545340236686,
-            "wind_speed_mph": 33.01812,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 130,
-            "description": "Light Rain"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-03T15:00:00-06:00",
+                "startTime": "2024-11-03T16:00:00-06:00",
                 "endTime": "2024-11-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a rather dreary afternoon with light rain contributing to a damp atmosphere, as the temperature hovers in the mid-50s. The sky is heavily overcast, casting a grayish pall over the beach, while a blustery southeast wind whips through at about 33 miles an hour, creating a brisk chill in the air. Conditions are expected to worsen, with rain showers likely continuing into the evening, and thunderstorms possible later on, as temperatures gradually rise to the low 60s. The chance of precipitation stands at a near certainty, accompanied by significant rainfall accumulation anticipated between half an inch to three-quarters of an inch.\n\nThe lake's surface shows some movement, with moderate waves reflecting the increased winds and impending storm conditions, presenting a less than pleasant sight for those hoping to enjoy the outdoors. Given the wet and windy forecast, it's advisable to wear a waterproof jacket, sturdy shoes, and perhaps carry an umbrella if venturing outside. For this time of year in late autumn, the temperature feels slightly cooler than typical for the region, hinting at the approach of winter. With inclement weather prevailing, indoor activities such as visiting local cafes or art galleries will be far more enjoyable than attempting to brave the beach, despite its often serene beauty\u2014where today, the allure of Lake Michigan is masked by clouds and rain.",
-    "color_code": "#A9B0B0",
-    "timestamp": "2024-11-03 15:04:37"
+    "weather_report": "In Evanston, current conditions paint a picture of a cool, cloudy afternoon with temperatures hovering in the upper 50s, suggesting a distinctly damp chill in the air. The atmosphere is quite humid, contributing to a muggy sensation that might make outdoor activities feel less inviting. A fierce wind is whipping in from the southeast, stirring the waters of Lake Michigan and adding to the already cloudy backdrop. As we look ahead, rain showers are expected to intensify, with a 70% chance of precipitation predicted for this afternoon, reaching absolute certainty as we transition into the evening, bringing the risk of thunderstorms along with rising temperatures.\n\nAs we anticipate the evening hours, the weather will remain uninviting for outdoor adventures, with potential rainfall accumulating between half an inch to three-quarters of an inch. For those brave enough to venture outside, a light rain jacket or an umbrella is highly recommended to fend off the wet chill. With late autumn in full swing, these temperatures are typical for the season in this part of the Midwest, as residents are no strangers to gray skies and gusty winds. For the time being, leisurely indoor activities\u2014be it a cozy caf\u00e9 visit or a museum outing\u2014seem the most appealing in light of today's dreary forecast.",
+    "color_code": "#B0C4E4",
+    "timestamp": "2024-11-03 16:04:50"
 }
