@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T21:51:00+00:00",
-            "temperature_f": 57.02,
-            "temperature_c": 13.9,
-            "humidity": 45.141375866801,
+            "timestamp": "2024-11-02T22:51:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 56.36085975426,
             "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 150,
-            "description": "Mostly Cloudy"
+            "wind_direction": 100,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-02T18:00:00-05:00",
+                "startTime": "2024-11-02T19:00:00-05:00",
                 "endTime": "2024-11-03T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dusk settles over Evanston, current conditions reveal a mild evening with temperatures in the upper 50s, complemented by a gentle mix of clouds that lend a muted tone to the sky. The wind is brisk, whipping in from the southeast, creating a lively atmosphere along the lakefront. The mostly cloudy backdrop sways gently, with the waters of Lake Michigan reflecting the twilight, hinting at a serene yet alluring coastline.\n\nLooking ahead, tonight\u2019s forecast predicts a continuation of the cloudy skies, with temperatures dipping to the low 50s, ideal for a light jacket or layers. As we transition into Sunday, expect rainy spells to emerge, particularly in the afternoon, as temperatures hover around the low 60s\u2014generally typical for this time of year in the Midwest. With a brisk wind anticipated, gusts will enhance the chill, suggesting that outdoor enthusiasts might want to secure their umbrellas and rain gear. While the beach may not be conducive for a dip, a moderate stroll along the shore could still be enjoyable under the atmosphere of drifting clouds. \n\nGiven the current weather conditions and the forecast ahead, today presents a decorative canvas, albeit with potential rain, hinting at the changing seasons. With no holiday to mark the occasion, residents might consider cozying up indoors or taking the opportunity to appreciate the lakeside in its subtle beauty before the rain arrives.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2024-11-02 18:06:55"
+    "weather_report": "This evening in Evanston, the atmosphere feels cool and somewhat breezy, settling into the low 50s, accompanied by a feeling of crispness in the air. The wind is moderately spirited, out of the southeast, bringing a bit of a chill, and the sky appears mostly cloudy, wrapped in a gloomy shroud typical of late fall. As night descends, those clouds will likely usher in mild temperatures as they drop to around 49 degrees. \n\nTomorrow's forecast indicates a shift, as rain showers are predicted to roll in after noon, matched with a high near 62 degrees. The wind will pick up slightly, with gusts reaching up to 30 mph, enhancing that refreshing fall briskness. The likelihood of rain at 60% suggests that any outdoor plans may need an umbrella, particularly as the temperatures begin to dip later in the day. For a comfortable outing, layering up with a light jacket is advisable, considering the season's transition into cooler weather. Given the late hour and overcast skies, this might not be the most inviting time for a beach stroll, but it could be an ideal opportunity to cozy up indoors or sip a warm beverage while watching the wind whip the lake into a tangy froth.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2024-11-02 19:23:11"
 }
