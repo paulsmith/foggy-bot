@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-03T15:51:00+00:00",
-            "temperature_f": 53.96,
-            "temperature_c": 12.2,
-            "humidity": 52.639568918667,
-            "wind_speed_mph": 45.903240000000004,
+            "timestamp": "2024-11-03T16:51:00+00:00",
+            "temperature_f": 57.02,
+            "temperature_c": 13.9,
+            "humidity": 48.803177776309,
+            "wind_speed_mph": 53.95644000000001,
             "wind_direction": 130,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-03T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-03T12:00:00-06:00",
                 "endTime": "2024-11-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -31,7 +31,7 @@
                 },
                 "windSpeed": "20 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,70?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70?size=medium",
                 "shortForecast": "Rain Showers Likely",
                 "detailedForecast": "Rain showers likely. Cloudy. High near 61, with temperatures falling to around 59 in the afternoon. Southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the conditions currently present a cool, crisp atmosphere, with temperatures hovering in the low 50s and a moderate humidity adding to the chill. The wind is quite gusty, whispering along with the lake\u2019s wave action, creating a blustery feel that is characteristic of this time of year. As clouds blanket the sky, the day appears rather dreary, but there\u2019s a chance for rain showers in the forecast that could transform the scene, enhancing the landscape's gray tones with a potential silvery sheen from upcoming rainfall.\n\nAs we look ahead today, expect a continuation of cloudy skies with increasing chances for rain, particularly this afternoon. High temperatures should rise into the upper 50s before succumbing to a low near 60 tonight, setting the stage for a series of showers and possible thunderstorms. With winds stirring from the southeast, reaching up to 30 miles per hour, it's wise to prepare for typical fall conditions\u2014a bit chaotic yet refreshingly bracing. With the likelihood of significant precipitation tonight, any outdoor plans may need reconsideration. Recommended attire includes a durable rain jacket and sturdy shoes to navigate the potentially slick conditions, allowing for some warmth against the autumn chill. While this weather might not inspire sun-drenched leisure by the lake, a cozy afternoon spent indoors with a warm cup of tea or coffee, perhaps reading or chatting with friends, could provide a pleasant diversion from the gloom. The current season reflects the typical unpredictability of early November in the Midwest, blending cool nights with the kind of restless weather that keeps everyone guessing and adapting.",
-    "color_code": "#7F7F7F",
-    "timestamp": "2024-11-03 11:04:39"
+    "weather_report": "Evanston is experiencing a cloudy afternoon with brisk temperatures in the upper 50s, complemented by a noticeable dampness in the air that hints at the rain showers expected later in the day. The wind is quite gusty, adding a wind-chill factor to the overall feel. As we look ahead, rain showers are likely, with a substantial chance for downpours and possibly thunderstorms tonight. Residents can expect temperatures to remain steady, rising slightly into the low 60s overnight. Given these conditions, the beach might appear less inviting, with choppy waters and looming clouds casting a somewhat dreary ambiance over Lake Michigan.\n\nFor those venturing outside, it\u2019s advisable to wear a light jacket or raincoat, as precipitation is imminent and the winds could feel sharp. With the chance of rain and the current autumn atmosphere, outdoor activities may need to be reconsidered in favor of cozying up indoors with a good book or enjoying a leisurely cup of coffee at a local caf\u00e9. This evening\u2019s stormy forecast makes for perfect conditions to settle in and watch the rain from the comfort of home.",
+    "color_code": "#B3C2C4",
+    "timestamp": "2024-11-03 12:06:26"
 }
