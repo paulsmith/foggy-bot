@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-03T18:51:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 47.416810583467,
-            "wind_speed_mph": 45.903240000000004,
+            "timestamp": "2024-11-03T19:51:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": 64.545340236686,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 130,
-            "description": "Cloudy"
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-03T14:00:00-06:00",
+                "startTime": "2024-11-03T15:00:00-06:00",
                 "endTime": "2024-11-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois paints a typical autumn day, marked by a cool temperature in the upper 50s and a brisk, gusty breeze from the southeast. The air feels somewhat damp, fitting for a mid-fall afternoon, which adds to the cloudy ambiance overhead. As rain showers are likely this afternoon, there's a distinct sense of gloom, though it doesn\u2019t preclude the Lake Michigan shoreline from offering a captivating view\u2014if not one of warmth and brightness.\n\nLooking ahead, the forecast predicts a high chance of rain as the day progresses, with temperatures expected to rise slightly overnight. As evening sets in, the likelihood of thunderstorms adds to the drama of the scene, potentially transforming our cloudy daytime into a more turbulent backdrop. With wave conditions likely feeling a bit wild, those near the shore should exercise caution; swimming is advised against today. Given the forecast, one might opt for a waterproof jacket and sturdy footwear to weather the impending downpour. \n\nFor activities, a cozy afternoon indoors would be ideal, perhaps visiting a local caf\u00e9 or museum, as outdoor plans are best reserved for sunnier days. Today, November 3rd lacks the spirit of any significant holiday, but the onset of winter is unmistakably near, urging reflection on the season ahead and the changes it will soon bring.",
-    "color_code": "#A9B4B1",
-    "timestamp": "2024-11-03 14:05:11"
+    "weather_report": "Evanston is currently experiencing a rather dreary afternoon with light rain contributing to a damp atmosphere, as the temperature hovers in the mid-50s. The sky is heavily overcast, casting a grayish pall over the beach, while a blustery southeast wind whips through at about 33 miles an hour, creating a brisk chill in the air. Conditions are expected to worsen, with rain showers likely continuing into the evening, and thunderstorms possible later on, as temperatures gradually rise to the low 60s. The chance of precipitation stands at a near certainty, accompanied by significant rainfall accumulation anticipated between half an inch to three-quarters of an inch.\n\nThe lake's surface shows some movement, with moderate waves reflecting the increased winds and impending storm conditions, presenting a less than pleasant sight for those hoping to enjoy the outdoors. Given the wet and windy forecast, it's advisable to wear a waterproof jacket, sturdy shoes, and perhaps carry an umbrella if venturing outside. For this time of year in late autumn, the temperature feels slightly cooler than typical for the region, hinting at the approach of winter. With inclement weather prevailing, indoor activities such as visiting local cafes or art galleries will be far more enjoyable than attempting to brave the beach, despite its often serene beauty\u2014where today, the allure of Lake Michigan is masked by clouds and rain.",
+    "color_code": "#A9B0B0",
+    "timestamp": "2024-11-03 15:04:37"
 }
