@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-03T09:51:00+00:00",
+            "timestamp": "2024-11-03T10:51:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
-            "humidity": 54.110084017545,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 110,
-            "description": "Cloudy"
+            "humidity": 56.07584487389,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 120,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-03T04:00:00-06:00",
-                "endTime": "2024-11-03T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. Southeast wind around 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2024-11-03T06:00:00-06:00",
                 "endTime": "2024-11-03T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,70?size=medium",
                 "shortForecast": "Cloudy then Rain Showers Likely",
                 "detailedForecast": "Rain showers likely after noon. Cloudy. High near 61, with temperatures falling to around 59 in the afternoon. Southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-03T18:00:00-06:00",
+                "endTime": "2024-11-04T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/tsra,100?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Rain showers likely before 3am, then showers and thunderstorms. Cloudy. Low around 59, with temperatures rising to around 62 overnight. South southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the atmosphere is marked by a gentle chill with temperatures dipping into the low 50s, accompanied by a moderate breeze whispering from the southeast. The sky looms overcast, adding a somewhat gloomy feel to the early dawn, hinting at the rain showers expected later in the day. As the sun makes its ascent, residents can anticipate a shift in conditions. By afternoon, clouds will hang persistently, painting a gray backdrop, as rain showers are likely to roll in after noon with a 70% chance of precipitation. High temperatures are forecasted to reach up into the low 60s, then gradually sink later on.\n\nGiven the blustery winds and the likelihood of rain, it's best to don layers that include a light waterproof jacket and perhaps sturdy footwear, especially if venturing outside. As the lake waves may grow in the unsettled weather, those looking to enjoy the shore should approach with caution. While the day might not seem ideal for outdoor activities, consider cozying up at a nearby caf\u00e9, tackling some reading, or preparing for a roiling weekend by preparing the home. Today is not a holiday, but the approaching festive season sure warrants some planning.",
-    "color_code": "#344B54",
-    "timestamp": "2024-11-03 05:05:22"
+    "weather_report": "Current conditions in Evanston reveal a damp and blustery morning, with a temperature hovering in the low 50s. The air carries a noticeable humidity, lending a slightly heavy feeling. As the day unfolds, expect rain showers to become increasingly likely as clouds thicken, with a high approaching the low 60s, then dipping back into the upper 50s later on. Winds will shift to a gentle southeast, picking up to breezy levels, adding to the chill as gusts could reach 25 mph.\n\nWith precipitation on the horizon, a gloomy appearance prevails, obscuring the normally vibrant lakeside view. Wave conditions are expected to be moderate, fueled by the wind, making the water look choppy. The likelihood of rain and even thunderstorms tonight raises concerns for outdoor activities, so layering is advised; a light jacket over comfortable clothing would be wise. As we glide into November, these temperatures are consistent with typical autumn weather for this region, where brisk days transition to cooler nights. Despite the less-than-ideal conditions, cozy indoor pursuits\u2014like visiting local cafes or enjoying the arts\u2014could bring warmth and cheer to residents on this dreary day.",
+    "color_code": "#B0C4D8",
+    "timestamp": "2024-11-03 06:07:30"
 }
