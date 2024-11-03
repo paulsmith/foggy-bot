@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-03T20:51:00+00:00",
-            "temperature_f": 57.92,
-            "temperature_c": 14.4,
-            "humidity": 64.545340236686,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 130,
+            "timestamp": "2024-11-03T21:51:00+00:00",
+            "temperature_f": 60.08,
+            "temperature_c": 15.6,
+            "humidity": 61.814618307198,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 140,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-03T16:00:00-06:00",
+                "startTime": "2024-11-03T17:00:00-06:00",
                 "endTime": "2024-11-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -30,10 +30,10 @@
                     "value": 70
                 },
                 "windSpeed": "20 mph",
-                "windDirection": "SE",
+                "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,70?size=medium",
                 "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Cloudy, with a high near 59. Southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain showers likely. Cloudy, with a high near 59. South southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, current conditions paint a picture of a cool, cloudy afternoon with temperatures hovering in the upper 50s, suggesting a distinctly damp chill in the air. The atmosphere is quite humid, contributing to a muggy sensation that might make outdoor activities feel less inviting. A fierce wind is whipping in from the southeast, stirring the waters of Lake Michigan and adding to the already cloudy backdrop. As we look ahead, rain showers are expected to intensify, with a 70% chance of precipitation predicted for this afternoon, reaching absolute certainty as we transition into the evening, bringing the risk of thunderstorms along with rising temperatures.\n\nAs we anticipate the evening hours, the weather will remain uninviting for outdoor adventures, with potential rainfall accumulating between half an inch to three-quarters of an inch. For those brave enough to venture outside, a light rain jacket or an umbrella is highly recommended to fend off the wet chill. With late autumn in full swing, these temperatures are typical for the season in this part of the Midwest, as residents are no strangers to gray skies and gusty winds. For the time being, leisurely indoor activities\u2014be it a cozy caf\u00e9 visit or a museum outing\u2014seem the most appealing in light of today's dreary forecast.",
-    "color_code": "#B0C4E4",
-    "timestamp": "2024-11-03 16:04:50"
+    "weather_report": "In Evanston, the current weather presents a cool and somewhat unsettling afternoon, with temperatures in the low 60s and a noticeably humid feel in the air. The blustery winds are whipping from the southeast, creating a gloomy atmosphere reminiscent of a late autumn day. As the afternoon progresses, the sky remains dominated by thick clouds, and the likelihood of rain showers looms overhead, with a 70% chance of precipitation expected to unfold soon.\n\nThis evening is set to bring a dynamic shift, with a nearly guaranteed rainfall of up to three-quarters of an inch as showers give way to thunderstorms. The temperature will rise slightly overnight, settling in the low 60s, suggesting an oddly mild November night for the region. Wave conditions along Lake Michigan might be turbulent, making for choppy waters, which could be hazardous for small vessels. Given these conditions, individuals venturing outside should certainly consider donning a water-resistant jacket, along with sturdy shoes to navigate potentially slick terrain. As we approach a weekend without the immediate backdrop of any holidays, indoor activities would be more appealing, such as visiting local cafes or art galleries to escape the damp and windy weather.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-03 17:06:01"
 }
