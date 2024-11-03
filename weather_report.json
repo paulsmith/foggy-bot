@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-03T12:00:00-06:00",
+                "startTime": "2024-11-03T13:00:00-06:00",
                 "endTime": "2024-11-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is experiencing a cloudy afternoon with brisk temperatures in the upper 50s, complemented by a noticeable dampness in the air that hints at the rain showers expected later in the day. The wind is quite gusty, adding a wind-chill factor to the overall feel. As we look ahead, rain showers are likely, with a substantial chance for downpours and possibly thunderstorms tonight. Residents can expect temperatures to remain steady, rising slightly into the low 60s overnight. Given these conditions, the beach might appear less inviting, with choppy waters and looming clouds casting a somewhat dreary ambiance over Lake Michigan.\n\nFor those venturing outside, it\u2019s advisable to wear a light jacket or raincoat, as precipitation is imminent and the winds could feel sharp. With the chance of rain and the current autumn atmosphere, outdoor activities may need to be reconsidered in favor of cozying up indoors with a good book or enjoying a leisurely cup of coffee at a local caf\u00e9. This evening\u2019s stormy forecast makes for perfect conditions to settle in and watch the rain from the comfort of home.",
-    "color_code": "#B3C2C4",
-    "timestamp": "2024-11-03 12:06:26"
+    "weather_report": "This afternoon in Evanston, the weather is predominantly cloudy, with a gentle murmur of rain showers soon to intensify. Currently, the temperature hovers in the mid-50s, paired with a brisk breeze from the southeast that brings a hint of chill, making it feel a little cooler. As the forecast unfolds, expect the temperatures to peak close to 61, before slipping slightly as precipitation becomes more prominent. By tonight, there's a guaranteed soaking, with strong chances of thunderstorms rolling through as temperatures rise to the low 60s. Rainfall could accumulate between a quarter and half an inch, so those venturing out should be prepared for a thoroughly damp experience.\n\nWhile the beach offers a dramatic view of Lake Michigan\u2019s choppy waters, conditions may not be ideal for a leisurely stroll along the shore. The waves are moderate today, possibly enticing to the adventurous surfer, but certainly not welcoming for casual beachgoers. With rain looming, it would be wise to don waterproof attire and sturdy shoes. As late autumn in the Midwest typically brings cooler temperatures and fluctuating weather, today\u2019s conditions align somewhat with the season\u2019s expected briskness. Given these circumstances, indoor activities like visiting local cafes or museums may prove more enjoyable than braving the elements outdoors.",
+    "color_code": "#A0B2B5",
+    "timestamp": "2024-11-03 13:04:53"
 }
