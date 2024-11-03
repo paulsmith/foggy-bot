@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-03T13:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 56.605628702185,
-            "wind_speed_mph": 49.929840000000006,
+            "timestamp": "2024-11-03T14:51:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 54.402421181059,
+            "wind_speed_mph": 53.95644000000001,
             "wind_direction": 130,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-03T09:00:00-06:00",
+                "startTime": "2024-11-03T10:00:00-06:00",
                 "endTime": "2024-11-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 70
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "20 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,70?size=medium",
-                "shortForecast": "Cloudy then Rain Showers Likely",
-                "detailedForecast": "Rain showers likely after noon. Cloudy. High near 61, with temperatures falling to around 59 in the afternoon. Southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,70?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely. Cloudy. High near 61, with temperatures falling to around 59 in the afternoon. Southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/tsra,100?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Rain showers likely before 3am, then showers and thunderstorms. Cloudy. Low around 59, with temperatures rising to around 62 overnight. South southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain showers likely before 3am, then showers and thunderstorms. Cloudy. Low around 59, with temperatures rising to around 62 overnight. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather paints a picture of a brisk, unsettling autumn day. With temperatures in the low 50s, a heavy blanket of clouds hangs overhead while the wind howls from the southeast, making for a blustery atmosphere. The humidity feels comfortably damp but not oppressive, typical of this transitional season. Ocean waves at the beach reflect the restless sky, where gusty winds stir up a bit more energy on Lake Michigan.\n\nToday\u2019s forecast indicates that rain showers are likely to invade the area after noon, with overall conditions remaining cloudy. The high will reach the low 60s, but temperatures are expected to decrease into the afternoon, with precipitation chances skyrocketing to a full 100% tonight, making an umbrella a necessity. Given this weather, it's wise to don weatherproof attire, including a lightweight rain jacket and sturdy footwear. The season aligns well with typical autumn temperatures, though today feels more like a display of nature's unpredictability. Indoor activities may be preferable, such as visiting local caf\u00e9s or enjoying cultural sites, as the rain promises to dampen outdoor plans by the evening.",
-    "color_code": "#A0C1D6",
-    "timestamp": "2024-11-03 09:04:57"
+    "weather_report": "In Evanston this morning, the atmosphere is marked by a cool, cloudy blanket, with temperatures nestled in the low 50s and a humid feel that could make one reach for an extra layer. The winds are brisk, whipping through at nearly 54 miles per hour, lending a certain wildness to the scene along the beach. As the day progresses, rain showers are highly likely, with a forecast high nearing the low 60s before dipping slightly in the afternoon. The forecast predicts these showers will continue into the night, escalating to thunderstorms, so holding onto an umbrella is a wise choice. \n\nThe beach presents a somewhat dreary canvas\u2014clouds looming overhead and waves gently lapping against the shore. The choppy water might excite some surfers, but conditions may not be ideal for casual swimming with the increased wave activity. As for attire, it's advisable to wear layers, incorporating a waterproof jacket for the impending rain and comfortable shoes for walking along the shore\u2014perhaps even an extra pair if you plan to splash about in the shallows. This time of year, the chill is typical for early November around the Great Lakes, setting the stage for a cozy, indoor day filled with warm drinks and good company. With rain forecasted and a significant chill lingering in the air, it might be a perfect opportunity to hunker down with a book or explore nearby cafes rather than venturing out for leisurely outdoor activities.",
+    "color_code": "#7F7F7F",
+    "timestamp": "2024-11-03 10:05:53"
 }
