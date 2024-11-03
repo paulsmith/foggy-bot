@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-03T07:51:00+00:00",
+            "timestamp": "2024-11-03T08:51:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
             "humidity": 54.110084017545,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 140,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 110,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-03T02:00:00-06:00",
+                "startTime": "2024-11-03T03:00:00-06:00",
                 "endTime": "2024-11-03T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 70
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,60?size=medium",
-                "shortForecast": "Mostly Cloudy then Rain Showers Likely",
-                "detailedForecast": "Rain showers likely after noon. Mostly cloudy. High near 61, with temperatures falling to around 59 in the afternoon. Southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,70?size=medium",
+                "shortForecast": "Cloudy then Rain Showers Likely",
+                "detailedForecast": "Rain showers likely after noon. Cloudy. High near 61, with temperatures falling to around 59 in the afternoon. Southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions are marked by a cozy chill in the air, indicative of early November, with temperatures hovering in the low 50s. The atmosphere is a blend of cool and humid, and the sky is cloaked in a thick blanket of clouds, lending a subdued light to the evening. There's a brisk, gusty breeze blowing in from the southeast that adds a sharpness to the coastal air, hinting at the proximity of Lake Michigan. Overnight, expect more clouds with a slight dip in temperatures, settling around the low 50s, accompanied by gentle but noticeable winds.\n\nAs we look ahead to Sunday, rain showers are likely to emerge after noon, transforming this cloudy weekend into a wet one. The skies will remain overcast, with temperatures climbing to near the low 60s before a slight drop in the afternoon. With a 60% chance of precipitation, it's wise to keep an umbrella handy, as the potential for light rain will be present throughout the day. The wave conditions along the lake may become choppy as the wind continues to whip up the waters. Given the seasonality of late autumn, today's weather is typical for this time of year\u2014rather crisp and damp, perfect for bundling up in jackets and scarves. Activities might be limited; however, a cozy day indoors with a warm drink or catching up on reading could be the perfect antidote to the dreary weather.",
-    "color_code": "#6B8E23",
-    "timestamp": "2024-11-03 03:05:48"
+    "weather_report": "In Evanston, the current weather presents a cool and damp atmosphere, with temperatures lingering in the low 50s accompanied by a gentle, balmy breeze from the southeast. The clouds dominate the sky, shrouding the area in a muted light as the city embraces the late-night calm. As the day unfolds, expect a grayer sky, with rain showers making their anticipated arrival after noon. The high is forecasted to reach the low 60s, giving way to cooler conditions as the afternoon progresses, alongside gusty winds that might stir up a sense of briskness.\n\nGiven the conditions, the beach scene may appear somewhat uninviting now, with cloudy skies and impending rain overshadowing the charm of Lake Michigan. Wave conditions could attract a few adventurers seeking solace in the rhythm of the water, but be wary of the potential for rainfall and gusty winds later. Dressing in layers and preparing for a possible rain slicker is advisable, as the combination of humidity and cooler temperatures lends a chilly touch to the air. Though November doesn\u2019t usually boast beach-friendly weather, the current temperature aligns with the season's typical patterns for the Midwest. Consider enjoying indoor activities like visiting a local caf\u00e9 or exploring nearby shops, keeping dry as the clouds above hint at a wet afternoon ahead.",
+    "color_code": "#C2C2C2",
+    "timestamp": "2024-11-03 04:05:40"
 }
