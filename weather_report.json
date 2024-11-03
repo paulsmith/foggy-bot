@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-02T20:00:00-05:00",
+                "startTime": "2024-11-02T21:00:00-05:00",
                 "endTime": "2024-11-03T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening descends upon Evanston, the air carries a brisk chill, typical for early November in this lakeside community. With current temperatures nestled in the low 50s and a slightly damp ambiance, the atmosphere feels refreshingly cool. Winds from the east are noticeably gusty, adding a lively touch to the atmosphere while wisping through the trees. The skies are mostly cloudy, providing a muted yet serene canvas as daylight fades into night.\n\nLooking ahead, the forecast hints at a change in the weather, with rain showers likely to move in tomorrow afternoon. The anticipated rise into the low 60s, paired with a southeast breeze that could reach 20 mph, suggests that outdoor excursions may be best suited for earlier in the day. As waves rise just beyond the beach, they promise a robust spectacle for those who appreciate the powerful beauty of Lake Michigan, yet surf conditions may deter casual swimmers. For tonight, a light jacket should suffice for those venturing outdoors, as the coolness in the air lingers, making for pleasant evening strolls or a quiet moment by the shore, as the lake softly laps at the sand.",
-    "color_code": "#4c4f5c",
-    "timestamp": "2024-11-02 20:32:23"
+    "weather_report": "Evanston, Illinois is experiencing mild fall conditions this evening, with temperatures in the low 50s and a gentle breeze out of the east, making for a somewhat brisk atmosphere near Lake Michigan. The humidity has settled in, lending a slightly damp feel to the air. As the night deepens, the skies will remain mostly cloudy, with a chance for remaining dry until tomorrow afternoon when rain showers loom on the horizon, projected to arrive after noon. As we anticipate Sunday, the temperature is expected to rise into the low 60s before dipping again, accompanied by a steady southeast wind that could bring gusts up to 30 miles per hour.\n\nGiven the transitional weather, the beach may appear a bit dreary, especially with the overcast skies prevailing. However, the calm waters of the lake today stand out against the darker backdrop, lending an inviting yet muted charm to the scene. With showers likely tomorrow, it's advisable to dress in layers, perhaps a light jacket over a long-sleeved shirt, to stay comfortable during the cooler evening and prepare for precipitation. The current conditions are typical for early November around these parts, reflective of the changing season and the approach of winter. While outdoor activities may be limited this evening, the cozy ambiance could be ideal for a movie night at home or a warm gathering with friends, as rain may deter plans to explore the beach tomorrow.",
+    "color_code": "#5A5B62",
+    "timestamp": "2024-11-02 21:29:57"
 }
