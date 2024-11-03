@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-03T06:51:00+00:00",
+            "timestamp": "2024-11-03T07:51:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
             "humidity": 54.110084017545,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 110,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 140,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As we glance at the serene landscape of Lake Michigan's shoreline in Evanston, the current weather presents a cool scene, with the air feeling crisp and a touch damp. At this hour, temperatures are hovering in the low 50s, supported by a gentle but persistent breeze, lending a blustery feel to the coastal environment. Overhead, the sky is predominantly cloudy, casting a somber yet tranquil atmosphere as we await the day's transitions.\n\nLooking ahead, the forecast predicts a shift towards rain showers by afternoon, though the morning hours may remain mostly cloudy, with temperatures peaking in the low 60s before tapering off slightly later in the day. Wave conditions are likely to become choppy as those gusty winds stir the lake waters, making for a dynamic yet potentially rough surface. The impending rain brings a 60% chance of precipitation, suggesting that those planning to venture outdoors should prepare accordingly. Recommended attire might include a light jacket or a waterproof layer, particularly for those who will be out in the afternoon. \n\nSeasonally, this weather is typical for early November in the Midwest, reflecting the transitional phase as autumn relinquishes its grip to winter's approach. As for activities, consider seeking indoor pleasures, perhaps visiting local cafes or exploring community events, especially with a few holidays on the horizon.",
-    "color_code": "#5D6A7F",
-    "timestamp": "2024-11-03 02:06:06"
+    "weather_report": "In Evanston, the current conditions are marked by a cozy chill in the air, indicative of early November, with temperatures hovering in the low 50s. The atmosphere is a blend of cool and humid, and the sky is cloaked in a thick blanket of clouds, lending a subdued light to the evening. There's a brisk, gusty breeze blowing in from the southeast that adds a sharpness to the coastal air, hinting at the proximity of Lake Michigan. Overnight, expect more clouds with a slight dip in temperatures, settling around the low 50s, accompanied by gentle but noticeable winds.\n\nAs we look ahead to Sunday, rain showers are likely to emerge after noon, transforming this cloudy weekend into a wet one. The skies will remain overcast, with temperatures climbing to near the low 60s before a slight drop in the afternoon. With a 60% chance of precipitation, it's wise to keep an umbrella handy, as the potential for light rain will be present throughout the day. The wave conditions along the lake may become choppy as the wind continues to whip up the waters. Given the seasonality of late autumn, today's weather is typical for this time of year\u2014rather crisp and damp, perfect for bundling up in jackets and scarves. Activities might be limited; however, a cozy day indoors with a warm drink or catching up on reading could be the perfect antidote to the dreary weather.",
+    "color_code": "#6B8E23",
+    "timestamp": "2024-11-03 03:05:48"
 }
