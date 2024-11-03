@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T23:51:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 63.240936158413,
+            "timestamp": "2024-11-03T01:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 73.402721805054,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 90,
-            "description": ""
+            "wind_direction": 100,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston, Illinois is experiencing mild fall conditions this evening, with temperatures in the low 50s and a gentle breeze out of the east, making for a somewhat brisk atmosphere near Lake Michigan. The humidity has settled in, lending a slightly damp feel to the air. As the night deepens, the skies will remain mostly cloudy, with a chance for remaining dry until tomorrow afternoon when rain showers loom on the horizon, projected to arrive after noon. As we anticipate Sunday, the temperature is expected to rise into the low 60s before dipping again, accompanied by a steady southeast wind that could bring gusts up to 30 miles per hour.\n\nGiven the transitional weather, the beach may appear a bit dreary, especially with the overcast skies prevailing. However, the calm waters of the lake today stand out against the darker backdrop, lending an inviting yet muted charm to the scene. With showers likely tomorrow, it's advisable to dress in layers, perhaps a light jacket over a long-sleeved shirt, to stay comfortable during the cooler evening and prepare for precipitation. The current conditions are typical for early November around these parts, reflective of the changing season and the approach of winter. While outdoor activities may be limited this evening, the cozy ambiance could be ideal for a movie night at home or a warm gathering with friends, as rain may deter plans to explore the beach tomorrow.",
-    "color_code": "#5A5B62",
-    "timestamp": "2024-11-02 21:29:57"
+    "weather_report": "As darkness settles over Evanston, current conditions reveal a cool, brisk evening with temperatures in the mid to high 40s, accompanied by a slightly humid atmosphere. The air is stirred by a gentle, yet brisk, breeze blowing from the southeast, giving the night a refreshing feel. The sky is mostly clear, allowing the stars to peek through, setting a serene backdrop over the quiet beach.\n\nLooking ahead to tomorrow, the forecast calls for a shift to mostly cloudy skies with rain showers possible, particularly after noon. With highs reaching the low 60s during the day, temperatures will likely start to drop as afternoon progresses. Winds will pick up, blowing strongly from the southeast, and gusts could reach up to 30 mph. As a result, those venturing out should prepare for potential precipitation, perhaps a light rain, with a 60% chance of showers, indicating that the day could transition from pleasant to rather dreary. \n\nFor those planning outdoor activities on this weekend, it's advisable to don layers and perhaps a waterproof jacket, as the weather's variability calls for preparation. The wave conditions on Lake Michigan will likely be moderate to choppy due to the wind, making it less inviting for those hoping for a tranquil evening by the water. Given the season, this weather mirrors the transitional phase from fall, typical for early November in the Midwest, where cool temperatures and the likelihood of rain become more frequent as winter approaches.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2024-11-02 22:12:58"
 }
