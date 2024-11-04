@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-04T17:51:00+00:00",
+            "timestamp": "2024-11-04T18:51:00+00:00",
             "temperature_f": 68.0,
             "temperature_c": 20,
             "humidity": 81.310107248396,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 210,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-04T13:00:00-06:00",
+                "startTime": "2024-11-04T14:00:00-06:00",
                 "endTime": "2024-11-04T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 67,
+                "temperature": 68,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,20?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of rain showers before 4pm, then a slight chance of showers and thunderstorms. Cloudy. High near 67, with temperatures falling to around 65 in the afternoon. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
+                "shortForecast": "Chance Rain",
+                "detailedForecast": "A chance of rain. Cloudy. High near 68, with temperatures falling to around 65 in the afternoon. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 90
+                    "value": 80
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,90?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms before 7pm, then showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 62. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between 1 and 2 inches possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra,80?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "A chance of rain before 7pm, then rain and a chance of thunderstorms. Cloudy, with a low around 62. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "Evanston is enveloped in a humid, cloudy embrace this afternoon, with temperatures hovering comfortably in the mid-60s. The scene along the beach reflects this overcast mood, as gentle waves lap against the shoreline, setting a tranquil backdrop. However, the atmosphere is charged with a hint of anticipation, as a slight chance of rain showers lurks until later in the afternoon. The forecast predicts a shift in the weather, with a more substantial chance of showers and thunderstorms rolling in tonight, potentially bringing heavy rain as temperatures dip to the low 60s. \n\nThough the day might feel somewhat dreary, it offers a unique ambiance for a leisurely stroll along the beach or a cozy afternoon in a caf\u00e9 while watching the clouds dance above. Given the current humidity and impending rain, it's wise to opt for light layers\u2014perhaps a waterproof jacket or an umbrella for evening outings. As we ease into November, these cool, damp temperatures are quite typical for the season around Lake Michigan, reminding us that autumn is well upon us. While today may not invite extensive outdoor activities, it still holds the potential for a peaceful retreat indoors or a thoughtful moment by the comforting sounds of the waves.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-04 13:04:36"
+    "weather_report": "In Evanston, the current conditions present a rather humid and cloudy afternoon, with temperatures comfortably in the upper 60s. The breeze is brisk, providing a fresh, invigorating touch against the backdrop of Lake Michigan. With rain on the horizon, it seems the day will shift towards more unsettled weather, as forecasters predict cloud cover to deepen with a chance of rain arriving before evening. This chance intensifies into a likely scenario tonight, accompanied by possible thunderstorms and a drop in temperatures to the low 60s.\n\nSuch atmospheric conditions give the beach scene a muted, yet serene quality, but one may find the waters somewhat choppy as waves gather energy from the gusty winds. Precipitation amounts could reach three-quarters of an inch, which may make outdoor plans less appealing. Ideal attire would lean towards layers, with a light jacket being recommended to ward off the cool breeze, particularly as evening approaches. Given the current season, these temperatures are typical for early November in the Midwest, signaling the gradual shift into winter. As the clouds roll in and rain threatens, indoor activities may be best\u2014consider visiting local cafes or museums to escape the elements while still enjoying the charm of Evanston during this transitional season.",
+    "color_code": "#A0B0B7",
+    "timestamp": "2024-11-04 14:05:53"
 }
