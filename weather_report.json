@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-04T04:00:00-06:00",
+                "startTime": "2024-11-04T05:00:00-06:00",
                 "endTime": "2024-11-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the scene is enveloped in a gentle yet persistent rain, cloaking the landscape in a damp and humid embrace. Current temperatures hover in the mid-60s, complemented by a blustery south wind that rattles the trees and sends a shiver through the air. The clouds are thick and gray, casting a shadow over the day as light rain continues to fall, promising to linger well into the night. \n\nLooking ahead, the weather will remain dominated by rain throughout the early hours, with a low settling around the low 60s. Come Monday, expect more rain in the morning with a glimmer of activity in the form of possible showers and thunderstorms in the afternoon, as the temperature peaks near 70. The waves on Lake Michigan may roar with the wind\u2019s intensity, making for an unsettled shoreline with surf that could be quite choppy. Given the conditions, bundling up in waterproof attire is essential if venturing outside, and perhaps saving indoor activities for the day is wiser. The current climate reflects a typical, albeit brisk, autumn in the Midwest as nature prepares for the cold grip of winter. Ideal activities today might include cozying up with a book, enjoying the rhythmic sound of rain, or taking part in a local caf\u00e9\u2019s warm offerings while the world gets a wash.",
-    "color_code": "#6A6E72",
-    "timestamp": "2024-11-04 04:05:56"
+    "weather_report": "As dawn breaks over Evanston, the air hangs heavy with humidity, and the temperature lingers in the mid-60s, presenting a rather damp and gray picture. Light rain falls steadily, blurring the edges of the landscape while a brisk, gusty wind from the south whips through the area, creating a chill that might catch you off guard. The current conditions herald an overnight forecast of persistent rain, as temperatures dip to the low 60s and winds remain, howling occasionally with gusts nearing 30 mph\u2014this is not an inviting scene for outdoor pursuits.\n\nLooking ahead to Monday, rain will continue to dominate the morning, tapering off slightly by noon, but the day promises lingering clouds and the potential for afternoon showers or even thunderstorms. With a high creeping into the upper 60s but likely falling later in the day, it delineates an unseasonably cool and soggy condition reminiscent of early fall rather than the late autumn we find ourselves in. The turbulent waters of Lake Michigan will likely continue to churn, reflecting the day's blustery ambiance.\n\nGiven the precipitation and overcast skies, it\u2019s advisable to don water-resistant attire\u2014think raincoats and sturdy footwear\u2014and perhaps carry an umbrella for added protection. This weather certainly calls for cozy indoor activities; reading a good book by the window, visiting local cafes, or perhaps catching a film. Interactions with the brisk outdoors would be best reserved for those ready to embrace the elements fully.",
+    "color_code": "#4F83B9",
+    "timestamp": "2024-11-04 05:05:13"
 }
