@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-04T16:00:00-06:00",
+                "startTime": "2024-11-04T17:00:00-06:00",
                 "endTime": "2024-11-04T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 68,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston, Illinois is experiencing a distinctly cloudy afternoon with temperatures settling comfortably in the mid to upper 60s. The air is damp, typical for this time of year, as the region transitions from a milder fall into the cooler months ahead. As the day progresses, a sense of heaviness hangs in the atmosphere, heralding the potential for rain later. Waves on Lake Michigan are likely gentle, with a calm surface reflecting the gray sky overhead.\n\nThis evening, expect an uptick in precipitation as rain and possible thunderstorms move in, particularly before 7 PM. With temperatures dropping to the low 60s, the forecast calls for a decidedly cozy atmosphere, best complemented by warm layers and perhaps a waterproof jacket to prepare for the anticipated showers and gusty winds reaching up to 25 mph. For those considering outdoor activities, it may be wise to enjoy any last sunlit moments before the rain arrives, potentially engaging in a brief stroll along the beach or a visit to a local caf\u00e9. Keep in mind that today comes without the celebration of a holiday, but it offers a true taste of the changing seasons as winter approaches.",
-    "color_code": "#B0C4D8",
-    "timestamp": "2024-11-04 16:04:50"
+    "weather_report": "Evanston is currently experiencing a warm, humid evening with temperatures in the upper 60s, wrapped in a dense blanket of cloud cover. Although breezes are gentle, they lend no relief from the sticky atmosphere, making it feel quite muggy. As we move into the evening, rain is likely to start before sunset, with clouds thickening and an increasing chance for thunderstorms later in the night, bringing potentially significant rainfall.\n\nGiven the approaching precipitation, the beach's usual appeal might dwindle this afternoon as storms set in. The waves are likely to remain calm in the fading daylight, but prepare for choppy waters as winds pick up overnight. It\u2019s advisable to bundle up in a light jacket or raincoat if venturing outdoors. With the current conditions being typical for early November\u2014neither too hot nor too cold\u2014activities such as a cozy indoor gathering or exploring local cafes would be more appealing than a stroll along the shore. Tonight, as rain showers loom and temperatures drop slightly, a slow, relaxed evening indoors seems most fitting.",
+    "color_code": "#7D9F9F",
+    "timestamp": "2024-11-04 17:04:49"
 }
