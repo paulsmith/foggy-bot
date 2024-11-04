@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-03T17:00:00-06:00",
-                "endTime": "2024-11-03T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Cloudy, with a high near 59. South southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-03T18:00:00-06:00",
                 "endTime": "2024-11-04T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/tsra,100?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
                 "detailedForecast": "A chance of rain showers before midnight, then showers and thunderstorms. Cloudy. Low around 59, with temperatures rising to around 62 overnight. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2024-11-04T06:00:00-06:00",
+                "endTime": "2024-11-04T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,100/tsra,70?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers before 3pm, then showers and thunderstorms likely. Cloudy. High near 67, with temperatures falling to around 64 in the afternoon. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather presents a cool and somewhat unsettling afternoon, with temperatures in the low 60s and a noticeably humid feel in the air. The blustery winds are whipping from the southeast, creating a gloomy atmosphere reminiscent of a late autumn day. As the afternoon progresses, the sky remains dominated by thick clouds, and the likelihood of rain showers looms overhead, with a 70% chance of precipitation expected to unfold soon.\n\nThis evening is set to bring a dynamic shift, with a nearly guaranteed rainfall of up to three-quarters of an inch as showers give way to thunderstorms. The temperature will rise slightly overnight, settling in the low 60s, suggesting an oddly mild November night for the region. Wave conditions along Lake Michigan might be turbulent, making for choppy waters, which could be hazardous for small vessels. Given these conditions, individuals venturing outside should certainly consider donning a water-resistant jacket, along with sturdy shoes to navigate potentially slick terrain. As we approach a weekend without the immediate backdrop of any holidays, indoor activities would be more appealing, such as visiting local cafes or art galleries to escape the damp and windy weather.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-03 17:06:01"
+    "weather_report": "As evening settles over Evanston, the air is a touch cool and slightly damp, typical for this time of year. Currently, temperatures hover in the low 60s, bringing a gentle humidity that makes the atmosphere feel rather muggy. A strong, blustery wind from the southeast raises the Lake Michigan waves into a frothy dance, hinting at the storms brewing on the horizon. Cloud coverage blankets the sky, wrapping the area in a subdued light that hardly lifts the mood.\n\nLooking ahead into the night, residents can expect persistent rain showers and the likelihood of thunderstorms, with temperatures gradually climbing to the low 60s as the night progresses. The chance of precipitation looms at a solid 100%, predicting rainfall between half an inch to three-quarters. As the evening rolls into Monday, the forecast continues to call for showers and storms, with high temperatures reaching the upper 60s, making for a soggy start to the workweek. Given the current season, this weather is a fitting reminder that November in the Midwest often invites chilly winds and damp atmospheres, making temperatures feel a bit colder than they are.\n\nIn light of these conditions, layering is recommended\u2014a light waterproof jacket paired with long pants will serve well against the emerging showers, and sturdy footwear will prove essential for navigating the wet terrain. While outdoor activities may be best avoided with these conditions, cozy indoor pursuits, such as visiting a local caf\u00e9 or enjoying a warm gathering with friends, could provide a delightful escape from the elements.",
+    "color_code": "#c4d3d3",
+    "timestamp": "2024-11-03 18:22:09"
 }
