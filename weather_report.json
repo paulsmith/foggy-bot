@@ -11,8 +11,8 @@
             "temperature_f": 64.04,
             "temperature_c": 17.8,
             "humidity": 89.786765048381,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 180,
             "description": "Light Rain"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the atmosphere as of now is quite damp, with light rain creating a tranquil yet somewhat forlorn ambiance. The temperature hovers comfortably in the mid 60s, but the heavy humidity hangs in the air, making it feel noticeably muggy. The day ahead reveals a forecast that is primarily cloudy, with periods of rain expected to taper off by late morning, followed by a chance of scattered showers and thunderstorms as the day progresses. Winds are expected to pick up, contributing to a gusty feeling, potentially reaching up to 25 mph later on.\n\nAs we look towards the lake, wave conditions appear gentle despite the impending storms, with light swells signaling a peaceful but watchful environment. Given today's weather, it would be advisable to wear comfortable layers, perhaps a light raincoat or umbrella handy, as the likelihood of heavier rain increases into the evening. With temperatures typical for early November, the coolness of the season combined with the persistent precipitation makes it a cozy day for indoor activities. In light of these conditions, consider visiting local cafes or art galleries, or perhaps delve into some reading at home, as this gloomy day beckons for cozy comforts rather than outdoor adventures.",
-    "color_code": "#A2B2C2",
-    "timestamp": "2024-11-04 07:10:21"
+    "weather_report": "Current conditions in Evanston reveal a damp and murky atmosphere, with light rain softly falling and a high degree of humidity lingering in the air, creating a distinctly muggy feel. The temperature is in the mid-60s, which is fairly typical for this time of year in the region. As we gaze towards the day ahead, expect persistent rain in the morning, shifting to more scattered showers and even thunderstorms later. The clouds are thick and foreboding, casting a gray pall over the landscape. Gusty winds from the south will make their presence felt, with stronger gusts potentially stirring up waves on Lake Michigan.\n\nDespite these less-than-ideal conditions, those who don suitable rain gear could still find enjoyment outdoors. However, with the prediction of heavy rainfall and possibly severe thunderstorms later, it would be wise to prepare for a cozy day inside or to engage in activities that are sheltered from the elements. A sturdy umbrella and waterproof shoes are strongly recommended for anyone venturing out today. As we mark the beginning of November, the season is clearly advancing toward chillier days, and today\u2019s weather perfectly embodies the transition from autumn\u2019s crispness to the drearier, wetter days of late fall.",
+    "color_code": "#A0B3C3",
+    "timestamp": "2024-11-04 08:05:22"
 }
