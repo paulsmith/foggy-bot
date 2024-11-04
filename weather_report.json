@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-04T07:24:00+00:00",
+            "timestamp": "2024-11-04T09:21:00+00:00",
             "temperature_f": 64.94,
             "temperature_c": 18.3,
-            "humidity": 78.012013621432,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 170,
-            "description": "Cloudy"
+            "humidity": 90.396229795155,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 200,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-04T03:00:00-06:00",
+                "startTime": "2024-11-04T04:00:00-06:00",
                 "endTime": "2024-11-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The atmosphere in Evanston this early morning is marked by a heavy overcast, accompanied by a persistent drizzle that is set to intensify. Current temperatures hover in the mid-60s, creating a damp and humid feel to the air, while gusty winds from the south are shaking the branches and rustling through the leaves. Residents can expect a full day of rain, particularly before 10 AM, with a likelihood of showers continuing into the afternoon. Highs will reach the upper 60s, but with a noticeable drop to the mid-60s later in the day as the weather front moves through. \n\nThe beach, typically a lively gathering spot, is under a blanket of gloom, interrupted only by the occasional burst of wind. Given the incoming weather and persistent rain, outdoor activities are best postponed until the skies clear. For those venturing out, a waterproof jacket and sturdy shoes are essential to navigate the slick paths and unexpected puddles. With rain forecasted throughout the day, it\u2019s more suited for cozy indoor pursuits such as visiting local caf\u00e9s or cultural spots than for beach strolls or picnics. As this weather unfolds on the eve of the holiday season, it invites a reflective mood, perfect for curling up with a good book or catching up with friends indoors.",
-    "color_code": "#6B7B95",
-    "timestamp": "2024-11-04 03:06:09"
+    "weather_report": "As dawn breaks over Evanston, the scene is enveloped in a gentle yet persistent rain, cloaking the landscape in a damp and humid embrace. Current temperatures hover in the mid-60s, complemented by a blustery south wind that rattles the trees and sends a shiver through the air. The clouds are thick and gray, casting a shadow over the day as light rain continues to fall, promising to linger well into the night. \n\nLooking ahead, the weather will remain dominated by rain throughout the early hours, with a low settling around the low 60s. Come Monday, expect more rain in the morning with a glimmer of activity in the form of possible showers and thunderstorms in the afternoon, as the temperature peaks near 70. The waves on Lake Michigan may roar with the wind\u2019s intensity, making for an unsettled shoreline with surf that could be quite choppy. Given the conditions, bundling up in waterproof attire is essential if venturing outside, and perhaps saving indoor activities for the day is wiser. The current climate reflects a typical, albeit brisk, autumn in the Midwest as nature prepares for the cold grip of winter. Ideal activities today might include cozying up with a book, enjoying the rhythmic sound of rain, or taking part in a local caf\u00e9\u2019s warm offerings while the world gets a wash.",
+    "color_code": "#6A6E72",
+    "timestamp": "2024-11-04 04:05:56"
 }
