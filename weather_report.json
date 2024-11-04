@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-04T14:59:00+00:00",
-            "temperature_f": 64.94,
-            "temperature_c": 18.3,
-            "humidity": 90.396229795155,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 180,
+            "timestamp": "2024-11-04T17:51:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 81.310107248396,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-04T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-04T13:00:00-06:00",
                 "endTime": "2024-11-04T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 67,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/ovc/tsra,20?size=medium",
-                "shortForecast": "Cloudy then Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of rain showers between noon and 4pm, then a slight chance of showers and thunderstorms. Cloudy. High near 67, with temperatures falling to around 65 in the afternoon. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/tsra,20?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms",
+                "detailedForecast": "A slight chance of rain showers before 4pm, then a slight chance of showers and thunderstorms. Cloudy. High near 67, with temperatures falling to around 65 in the afternoon. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "10 to 25 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,90?size=medium",
                 "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms before 7pm, then showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 62. South wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New rainfall amounts between 1 and 2 inches possible."
+                "detailedForecast": "A chance of showers and thunderstorms before 7pm, then showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 62. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "Evanston is experiencing cloudy skies this morning, with temperatures comfortably resting in the mid-60s and a humidity level that lends a muggy feel to the air. The wind has picked up, blowing from the south at a brisk pace, creating a lively, somewhat fierce ambiance along the shoreline. As we look ahead, today presents a slight chance of rain showers and thunderstorms in the afternoon, but fear not\u2014the chance of precipitation remains modest at 20%. This evening, however, the forecast paints a different picture, with a much higher likelihood of storms and the potential for heavy rain, as temperatures dip to the low 60s.\n\nThe overall appearance of the day might be deemed a bit dreary, with the waves along Lake Michigan likely becoming more pronounced as winds increase, bringing a touch of wildness to the shoreline. For those planning outdoor activities, it would be prudent to don layers suitable for the cool, damp conditions\u2014with waterproof options recommended for the anticipated rain later in the evening. The temperature is consistent with early November in this region, providing a typical autumn feel while hinting at the approaching winter chill. Given the day's conditions, indoor activities might be the best choice, although a walk with an umbrella along the beach could offer a refreshing encounter with nature\u2014if one is prepared for the elements.",
-    "color_code": "#A2B2C8",
-    "timestamp": "2024-11-04 11:04:53"
+    "weather_report": "Evanston is enveloped in a humid, cloudy embrace this afternoon, with temperatures hovering comfortably in the mid-60s. The scene along the beach reflects this overcast mood, as gentle waves lap against the shoreline, setting a tranquil backdrop. However, the atmosphere is charged with a hint of anticipation, as a slight chance of rain showers lurks until later in the afternoon. The forecast predicts a shift in the weather, with a more substantial chance of showers and thunderstorms rolling in tonight, potentially bringing heavy rain as temperatures dip to the low 60s. \n\nThough the day might feel somewhat dreary, it offers a unique ambiance for a leisurely stroll along the beach or a cozy afternoon in a caf\u00e9 while watching the clouds dance above. Given the current humidity and impending rain, it's wise to opt for light layers\u2014perhaps a waterproof jacket or an umbrella for evening outings. As we ease into November, these cool, damp temperatures are quite typical for the season around Lake Michigan, reminding us that autumn is well upon us. While today may not invite extensive outdoor activities, it still holds the potential for a peaceful retreat indoors or a thoughtful moment by the comforting sounds of the waves.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-11-04 13:04:36"
 }
