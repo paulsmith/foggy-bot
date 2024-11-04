@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-04T19:51:00+00:00",
+            "timestamp": "2024-11-04T20:51:00+00:00",
             "temperature_f": 68.0,
             "temperature_c": 20,
-            "humidity": 81.310107248396,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 200,
-            "description": "Mostly Cloudy"
+            "humidity": 78.263867055004,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-04T14:00:00-06:00",
+                "startTime": "2024-11-04T16:00:00-06:00",
                 "endTime": "2024-11-04T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 68,
@@ -33,7 +33,7 @@
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
                 "shortForecast": "Chance Rain",
-                "detailedForecast": "A chance of rain. Cloudy. High near 68, with temperatures falling to around 65 in the afternoon. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain. Cloudy. High near 68, with temperatures falling to around 65 in the afternoon. South southwest wind around 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston's weather today presents a rather muggy atmosphere, with temperatures in the comfortable high 60s, though a gentle breeze adds a bit of chill. The sky is painted mostly cloudy, hinting at impending rain later in the day, especially as the forecast implies a robust chance of showers and possible thunderstorms this evening. Currently, the beach looks calm, but the wind is whispering with gusts that could stir up a gentle rush along the Lake Michigan shoreline. \n\nAs the day progresses, conditions may shift from the humid warmth to a cooler feel, especially with the anticipated rain providing relief but also prompting a need for umbrellas. Given the nature of the day\u2014where temperatures tease a dip\u2014attire should lean towards layered options to accommodate the fluctuating warmth, perfect for a walk by the beach, though beach activities might be curtailed due to the chance of precipitation. While today is not marked as a holiday, the fall season is undeniable; the falling temperatures and onset of rain signal that winter is fast approaching. Overall, those looking to enjoy the outdoors should be prepared for the weather changes and perhaps find refuge in sheltered spots or enjoy indoor activities as the evening approaches.",
-    "color_code": "#BCC4D3",
-    "timestamp": "2024-11-04 15:05:04"
+    "weather_report": "Evanston, Illinois is experiencing a distinctly cloudy afternoon with temperatures settling comfortably in the mid to upper 60s. The air is damp, typical for this time of year, as the region transitions from a milder fall into the cooler months ahead. As the day progresses, a sense of heaviness hangs in the atmosphere, heralding the potential for rain later. Waves on Lake Michigan are likely gentle, with a calm surface reflecting the gray sky overhead.\n\nThis evening, expect an uptick in precipitation as rain and possible thunderstorms move in, particularly before 7 PM. With temperatures dropping to the low 60s, the forecast calls for a decidedly cozy atmosphere, best complemented by warm layers and perhaps a waterproof jacket to prepare for the anticipated showers and gusty winds reaching up to 25 mph. For those considering outdoor activities, it may be wise to enjoy any last sunlit moments before the rain arrives, potentially engaging in a brief stroll along the beach or a visit to a local caf\u00e9. Keep in mind that today comes without the celebration of a holiday, but it offers a true taste of the changing seasons as winter approaches.",
+    "color_code": "#B0C4D8",
+    "timestamp": "2024-11-04 16:04:50"
 }
