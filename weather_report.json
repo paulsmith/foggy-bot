@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-04T03:51:00+00:00",
-            "temperature_f": 62.959999999999994,
-            "temperature_c": 17.2,
-            "humidity": 75.345564108887,
-            "wind_speed_mph": 41.07132,
+            "timestamp": "2024-11-04T05:51:00+00:00",
+            "temperature_f": 64.04,
+            "temperature_c": 17.8,
+            "humidity": 74.954456791337,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 170,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-04T00:00:00-06:00",
+                "startTime": "2024-11-04T01:00:00-06:00",
                 "endTime": "2024-11-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -33,7 +33,7 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain likely before 3am, then rain and a slight chance of thunderstorms. Cloudy. Low around 59, with temperatures rising to around 62 overnight. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain likely before 3am, then rain and a slight chance of thunderstorms. Cloudy. Low around 59, with temperatures rising to around 62 overnight. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/tsra,90/tsra,70?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain and a slight chance of thunderstorms. Cloudy. High near 67, with temperatures falling to around 64 in the afternoon. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain and a slight chance of thunderstorms. Cloudy. High near 67, with temperatures falling to around 64 in the afternoon. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather presents a cool and slightly oppressive atmosphere, with faded temperatures in the low 60s, accompanied by a damp and humid feel that might leave one seeking shelter. A strong and gusty wind from the south stirs up the air, reaching speeds that could ruffle nearby foliage and create an energetic buzz along the shorelines of Lake Michigan. The night sky looms heavy with clouds, setting the stage for the impending rain that is expected shortly.\n\nAs the night progresses into Monday morning, expect rain to arrive, possibly accompanied by a few rumbles of thunder as the temperatures hover near the upper 50s, gradually creeping into the low 60s with a gentle rise in warmth. The prospect of thunderstorms keeps today\u2019s activities somewhat subdued, making it better suited for indoor plans. Waves may be elevated with the wind's fierce demeanor, presenting a rough and choppy Lake Michigan, not ideal for boating or swimming. In keeping with the mood, it's advisable to don waterproof attire, perhaps a light raincoat or umbrella, to navigate the wet and breezy conditions comfortably. While the season may typically boast a range of crisp October days, tonight serves as a reminder that the winds of change often bring unpredictable weather, nudging us toward the cozy interiors of our homes as we prepare for a rain-swept day ahead.",
-    "color_code": "#505050",
-    "timestamp": "2024-11-04 00:07:29"
+    "weather_report": "Current conditions in Evanston, Illinois, reveal a rather balmy night with temperatures resting comfortably in the low 60s, accompanied by a damp atmosphere. The sky is blanketed in cloud cover, creating a thick, muted ambiance that blankets the beach as it draws closer to Lake Michigan. Wind gusts are fierce, swirling with a notable intensity, hinting at the approaching storm. Rain is predicted to make its entrance shortly, likely before dawn, with precipitation chances soaring to 100%. As the night progresses, temperatures are expected to dip slightly before warming a bit again overnight, setting the stage for a cool and rainy Monday.\n\nLooking ahead, tomorrow promises an equally drizzly day, where rain and the possibility of thunderstorms will linger amidst a cloudy sky, with temperatures peaking in the upper 60s before falling off in the afternoon. The wave conditions on the lake, influenced by the robust winds and imminent rainfall, will likely become tumultuous. Given the weather, it would be wise to dress in layers, incorporating waterproof attire, and perhaps an umbrella, to navigate through a day that will feel particularly dreary for this time of year in the Midwest, especially as we move deeper into November. Outdoor activities might be better left for another day, favoring indoor ventures or cozying up in familiar settings given the forecast of impending rain and cool temperatures typical for this season.",
+    "color_code": "#2E3B46",
+    "timestamp": "2024-11-04 01:05:31"
 }
