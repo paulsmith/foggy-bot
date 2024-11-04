@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-04T05:51:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 74.954456791337,
-            "wind_speed_mph": 37.04472,
+            "timestamp": "2024-11-04T07:24:00+00:00",
+            "temperature_f": 64.94,
+            "temperature_c": 18.3,
+            "humidity": 78.012013621432,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 170,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-04T02:00:00-06:00",
+                "startTime": "2024-11-04T03:00:00-06:00",
                 "endTime": "2024-11-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston awakes this morning under a canopy of clouds, with temperatures resting comfortably in the mid-60s. The air is thick with humidity, creating a muggy atmosphere as an energetic breeze whispers in from the south, stirring the night into dawn. Expect the wet weather to intensify overnight, with rain forecasted to drench the area, ushering in a low near 61 degrees, along with gusty winds that could tickle 30 mph. As Monday unfolds, the persistent rain should yield to fleeting showers and perhaps a thunderstorm, with afternoon highs peaking around the upper 60s but then retreating slightly as cooling breezes take over.\n\nWith the anticipated downpours and a rather overcast, dreary aesthetic, outdoor activities may suffer. The waves on Lake Michigan could see some height with the impending winds, making it less than ideal for casual beachgoers or boating enthusiasts. For those braving the elements, a light raincoat, sturdy footwear, and perhaps a warm layer are recommended to combat the damp chill. As we find ourselves firmly in the early days of November, the current temperatures feel typical for the season but may leave you yearning for the crisp, golden days of fall just past. Given the holiday weekend, keep in mind that cozy indoor activities or a warm drink in a caf\u00e9 will likely be more appealing than walking along the beach.",
-    "color_code": "#4a4a4a",
-    "timestamp": "2024-11-04 02:07:30"
+    "weather_report": "The atmosphere in Evanston this early morning is marked by a heavy overcast, accompanied by a persistent drizzle that is set to intensify. Current temperatures hover in the mid-60s, creating a damp and humid feel to the air, while gusty winds from the south are shaking the branches and rustling through the leaves. Residents can expect a full day of rain, particularly before 10 AM, with a likelihood of showers continuing into the afternoon. Highs will reach the upper 60s, but with a noticeable drop to the mid-60s later in the day as the weather front moves through. \n\nThe beach, typically a lively gathering spot, is under a blanket of gloom, interrupted only by the occasional burst of wind. Given the incoming weather and persistent rain, outdoor activities are best postponed until the skies clear. For those venturing out, a waterproof jacket and sturdy shoes are essential to navigate the slick paths and unexpected puddles. With rain forecasted throughout the day, it\u2019s more suited for cozy indoor pursuits such as visiting local caf\u00e9s or cultural spots than for beach strolls or picnics. As this weather unfolds on the eve of the holiday season, it invites a reflective mood, perfect for curling up with a good book or catching up with friends indoors.",
+    "color_code": "#6B7B95",
+    "timestamp": "2024-11-04 03:06:09"
 }
