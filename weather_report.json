@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-03T20:00:00-06:00",
+                "startTime": "2024-11-03T21:00:00-06:00",
                 "endTime": "2024-11-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night falls over Evanston, the current conditions reveal a mild atmosphere, with the temperature lingering in the low 60s. Despite a light haze dominating the skyline, the air feels somewhat humid, a reminder of the potential rain on the horizon. Wind gusts are strong and blustery, whipping through the area as they come from the southeast, stirring the waters of Lake Michigan with a sense of urgency.\n\nLooking ahead, the forecast indicates a persistent chance of rain and thunderstorms, particularly before midnight, with precipitation expected to be heavy at times. Overnight lows will hover around the upper 50s, while temperatures may rise slightly into the low 60s later. Tomorrow promises a continuation of the wet weather, with more rain showers expected and highs reaching the mid to upper 60s, accompanied by similar blustery winds. \n\nGiven the conditions, it\u2019s wise to prepare for damp weather with a waterproof jacket and sturdy footwear, as outdoor activities may be less than inviting. The waves on the lake might bring a bit of drama to the shore, but it\u2019s a night best spent indoors, perhaps engaging in cozy pursuits like reading or watching a film. The temperatures align with what one might expect for early November in the Midwest, neither uncomfortably cold nor particularly warm, suggesting a classic autumn evening worthy of reflection before winter sets in.",
-    "color_code": "#4F545D",
-    "timestamp": "2024-11-03 20:29:41"
+    "weather_report": "In Evanston tonight, we're experiencing a cool and damp ambiance as temperatures settle into the upper 50s. The air feels humid and thick, brewing a tempestuous backdrop as a howling south wind sweeps in. Expect rain showers and the possibility of thunderstorms as the evening progresses, with precipitation likely, making it quite uninviting for outdoor activities. As the clock ticks closer to midnight, conditions will remain cloudy, with total rainfall amounts potentially reaching over half an inch.\n\nLooking ahead to Monday, the forecast promises more rain, especially before mid-afternoon, and a chance of thunderstorms. Daytime highs will hover around the mid-60s, tapering as the day advances, complemented by a brisk breeze. While the waves on Lake Michigan may rise and churn in this gusty weather, it\u2019s a day best suited for cozy indoor activities rather than a stroll by the shore. For those venturing out, layering with a waterproof jacket and comfortable footwear will be essential. Given that we find ourselves in early November, these conditions reflect the transitional autumn weather typical for the region, where one must brace for cooler, precipitation-laden days.",
+    "color_code": "#4b6f93",
+    "timestamp": "2024-11-03 21:12:53"
 }
