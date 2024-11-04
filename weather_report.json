@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-04T00:51:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 64.859503898911,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 160,
+            "timestamp": "2024-11-04T03:51:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 75.345564108887,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 170,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-03T21:00:00-06:00",
+                "startTime": "2024-11-03T23:00:00-06:00",
                 "endTime": "2024-11-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/tsra,100?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers before midnight, then showers and thunderstorms. Cloudy. Low around 59, with temperatures rising to around 62 overnight. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/tsra,100?size=medium",
+                "shortForecast": "Cloudy then Rain",
+                "detailedForecast": "Rain likely between midnight and 3am, then rain and a slight chance of thunderstorms. Cloudy. Low around 59, with temperatures rising to around 62 overnight. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 90
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,100/tsra,70?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers before 3pm, then showers and thunderstorms likely. Cloudy. High near 67, with temperatures falling to around 64 in the afternoon. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/tsra,90/tsra,70?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain and a slight chance of thunderstorms. Cloudy. High near 67, with temperatures falling to around 64 in the afternoon. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As of this evening, the weather in Evanston is marked by a cool and damp atmosphere, with temperatures lingering in the low 60s. Humidity hangs in the air, creating a slightly muggy environment, while the winds from the south whip around at a gusty pace, stirring up the shoreline and bringing an unsettled flavor to the evening. Cloud cover dominates the sky, hinting at the impending rain that is forecasted to roll in shortly, accompanied by thunder and lightning, as showers become more frequent overnight.\n\nTonight's heaviest precipitation will set in just before midnight, with expectations of significant rainfall, possibly accumulating up to three-quarters of an inch by morning. This rainy pattern will extend into Monday, keeping cloudy skies overhead and temperatures hovering in the mid to upper 60s during the day before dipping into the lower 60s. With substantial moisture in the air and the rough wave conditions likely due to the wind and rain, it's best to prepare for a wet day ahead. \n\nAppropriate attire would include water-resistant layers and sturdy footwear as outdoor activities will be challenging under these circumstances. Given the time of year, this weather is rather typical for early November in the Midwest, with cool temperatures and increased precipitation\u2014certainly a hallmark of the season. Indoor activities, such as visiting local cafes, exploring museums, or enjoying a cozy evening indoors with a good book, may be preferable amid this less than inviting forecast.",
-    "color_code": "#444c6e",
-    "timestamp": "2024-11-03 22:06:26"
+    "weather_report": "As evening falls over Evanston, the current weather paints a picture of coolness and humidity, with temperatures settled in the low 60s under a blanket of thick clouds. The air is damp, and a powerful, gusty wind whistles from the south, creating a brisk and somewhat chilly environment. With rain on the horizon, the forecast predicts a likely deluge tonight, starting just after midnight and continuing into the early hours, bringing with it a slight chance of thunderstorms. New rainfall amounts could reach half an inch, so expect a thoroughly wet and gloomy atmosphere.\n\nLooking ahead to Monday, the rain will persist, with an overall high near the upper 60s but temperatures gradually falling as the day progresses. The already humid conditions will feel heavier with the continued precipitation, making the air feel muggy and oppressive at times. As we navigate through this autumn season, these cooler temperatures are within the expected range, though the high winds and rain may make it feel somewhat more severe. For those braving the outdoors, waterproof jackets, umbrellas, and sturdy footwear are advisable. The evening\u2019s heavy clouds and rain may not be ideal for typical outdoor activities; however, it might be a perfect time for indoor pursuits\u2014curling up with a good book or enjoying a cozy movie scene might be the perfect antidote to the wet weather.",
+    "color_code": "#2c3e50",
+    "timestamp": "2024-11-03 23:05:35"
 }
