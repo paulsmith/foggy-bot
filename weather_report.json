@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-03T18:00:00-06:00",
+                "startTime": "2024-11-03T19:00:00-06:00",
                 "endTime": "2024-11-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening settles over Evanston, the air is a touch cool and slightly damp, typical for this time of year. Currently, temperatures hover in the low 60s, bringing a gentle humidity that makes the atmosphere feel rather muggy. A strong, blustery wind from the southeast raises the Lake Michigan waves into a frothy dance, hinting at the storms brewing on the horizon. Cloud coverage blankets the sky, wrapping the area in a subdued light that hardly lifts the mood.\n\nLooking ahead into the night, residents can expect persistent rain showers and the likelihood of thunderstorms, with temperatures gradually climbing to the low 60s as the night progresses. The chance of precipitation looms at a solid 100%, predicting rainfall between half an inch to three-quarters. As the evening rolls into Monday, the forecast continues to call for showers and storms, with high temperatures reaching the upper 60s, making for a soggy start to the workweek. Given the current season, this weather is a fitting reminder that November in the Midwest often invites chilly winds and damp atmospheres, making temperatures feel a bit colder than they are.\n\nIn light of these conditions, layering is recommended\u2014a light waterproof jacket paired with long pants will serve well against the emerging showers, and sturdy footwear will prove essential for navigating the wet terrain. While outdoor activities may be best avoided with these conditions, cozy indoor pursuits, such as visiting a local caf\u00e9 or enjoying a warm gathering with friends, could provide a delightful escape from the elements.",
-    "color_code": "#c4d3d3",
-    "timestamp": "2024-11-03 18:22:09"
+    "weather_report": "This evening in Evanston, the atmosphere is dominated by a chilly blanket of clouds, setting the tone for a rather humid and overcast night. Currently, temperatures hover in the low 60s, with a blustery wind from the southeast stirring the air, promising an unsettled night ahead. As the evening progresses, a steady chance of rain showers transitions into more persistent thunderstorms, with the mercury expected to rise slightly as the night wears on.\n\nLooking ahead to Monday, the inclement weather continues as rain showers are likely to persist until the afternoon, followed by thunderstorms that may linger throughout the day. While temperatures are projected to peak in the high 60s before dipping back into the mid-60s, such warmth is typical for early November in this region. However, with rain expected and the persistent clouds overhead, outdoor activities may indeed take a backseat this week. Consider donning a waterproof jacket or layers for warmth, and perhaps opt for indoor pursuits such as visiting local museums or enjoying a cozy caf\u00e9. Given the conditions and the nighttime hour, the beach will likely remain quiet, as gusty winds create frothy waves against the shoreline, making it less than inviting for evening strolls along the water.",
+    "color_code": "#2E2E2E",
+    "timestamp": "2024-11-03 19:32:55"
 }
