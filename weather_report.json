@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-04T12:09:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 89.786765048381,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Light Rain"
+            "timestamp": "2024-11-04T14:59:00+00:00",
+            "temperature_f": 64.94,
+            "temperature_c": 18.3,
+            "humidity": 90.396229795155,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 180,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-04T09:00:00-06:00",
+                "startTime": "2024-11-04T11:00:00-06:00",
                 "endTime": "2024-11-04T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 67,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "10 to 20 mph",
-                "windDirection": "S",
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/ovc/tsra,20?size=medium",
                 "shortForecast": "Cloudy then Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of rain showers between noon and 4pm, then a slight chance of showers and thunderstorms. Cloudy. High near 67, with temperatures falling to around 65 in the afternoon. South wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "A slight chance of rain showers between noon and 4pm, then a slight chance of showers and thunderstorms. Cloudy. High near 67, with temperatures falling to around 65 in the afternoon. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston this morning, the atmosphere is marked by the lingering effects of light rain, with a temperature settling into the mild mid-60s. The air is quite humid, adding a damp chill as the winds remain relatively calm. Looking ahead, the day brings the potential for more rain showers and the possibility of thunderstorms after noon, with overcast skies that promise little sunshine. Highs will hover around the upper 60s, though temperatures may dip slightly in the afternoon. Expect brisk gusts from the south, reaching up to 20 mph, which could stir the waves along the shore of Lake Michigan.\n\nThe beach presents an uninviting scene, with gray skies and rough waters indicative of the brewing storms. While precipitation is expected to increase throughout the afternoon and evening, bringing significant rainfall later on, the conditions may be too blustery for leisurely activities outdoors. Given the dampness, a waterproof jacket or umbrella would be wise attire, along with sturdy footwear to navigate any puddles. As we slide into autumn, these temperatures are typical for the season in this region, suggesting a shift toward deeper autumnal weather. Overall, for today, staying indoors may be the most prudent choice\u2014an excellent opportunity to engage in indoor activities like visiting a local cafe or enjoying some reading time at home, while you wait for clearer skies to return.",
-    "color_code": "#A6A6A6",
-    "timestamp": "2024-11-04 09:05:32"
+    "weather_report": "Evanston is experiencing cloudy skies this morning, with temperatures comfortably resting in the mid-60s and a humidity level that lends a muggy feel to the air. The wind has picked up, blowing from the south at a brisk pace, creating a lively, somewhat fierce ambiance along the shoreline. As we look ahead, today presents a slight chance of rain showers and thunderstorms in the afternoon, but fear not\u2014the chance of precipitation remains modest at 20%. This evening, however, the forecast paints a different picture, with a much higher likelihood of storms and the potential for heavy rain, as temperatures dip to the low 60s.\n\nThe overall appearance of the day might be deemed a bit dreary, with the waves along Lake Michigan likely becoming more pronounced as winds increase, bringing a touch of wildness to the shoreline. For those planning outdoor activities, it would be prudent to don layers suitable for the cool, damp conditions\u2014with waterproof options recommended for the anticipated rain later in the evening. The temperature is consistent with early November in this region, providing a typical autumn feel while hinting at the approaching winter chill. Given the day's conditions, indoor activities might be the best choice, although a walk with an umbrella along the beach could offer a refreshing encounter with nature\u2014if one is prepared for the elements.",
+    "color_code": "#A2B2C8",
+    "timestamp": "2024-11-04 11:04:53"
 }
