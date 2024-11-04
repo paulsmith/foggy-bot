@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-03T21:51:00+00:00",
-            "temperature_f": 60.08,
-            "temperature_c": 15.6,
-            "humidity": 61.814618307198,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 140,
+            "timestamp": "2024-11-04T00:51:00+00:00",
+            "temperature_f": 64.04,
+            "temperature_c": 17.8,
+            "humidity": 64.859503898911,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 160,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-03T19:00:00-06:00",
+                "startTime": "2024-11-03T20:00:00-06:00",
                 "endTime": "2024-11-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -30,10 +30,10 @@
                     "value": 100
                 },
                 "windSpeed": "15 to 20 mph",
-                "windDirection": "SSE",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/tsra,100?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers before midnight, then showers and thunderstorms. Cloudy. Low around 59, with temperatures rising to around 62 overnight. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "A chance of rain showers before midnight, then showers and thunderstorms. Cloudy. Low around 59, with temperatures rising to around 62 overnight. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, the atmosphere is dominated by a chilly blanket of clouds, setting the tone for a rather humid and overcast night. Currently, temperatures hover in the low 60s, with a blustery wind from the southeast stirring the air, promising an unsettled night ahead. As the evening progresses, a steady chance of rain showers transitions into more persistent thunderstorms, with the mercury expected to rise slightly as the night wears on.\n\nLooking ahead to Monday, the inclement weather continues as rain showers are likely to persist until the afternoon, followed by thunderstorms that may linger throughout the day. While temperatures are projected to peak in the high 60s before dipping back into the mid-60s, such warmth is typical for early November in this region. However, with rain expected and the persistent clouds overhead, outdoor activities may indeed take a backseat this week. Consider donning a waterproof jacket or layers for warmth, and perhaps opt for indoor pursuits such as visiting local museums or enjoying a cozy caf\u00e9. Given the conditions and the nighttime hour, the beach will likely remain quiet, as gusty winds create frothy waves against the shoreline, making it less than inviting for evening strolls along the water.",
-    "color_code": "#2E2E2E",
-    "timestamp": "2024-11-03 19:32:55"
+    "weather_report": "As night falls over Evanston, the current conditions reveal a mild atmosphere, with the temperature lingering in the low 60s. Despite a light haze dominating the skyline, the air feels somewhat humid, a reminder of the potential rain on the horizon. Wind gusts are strong and blustery, whipping through the area as they come from the southeast, stirring the waters of Lake Michigan with a sense of urgency.\n\nLooking ahead, the forecast indicates a persistent chance of rain and thunderstorms, particularly before midnight, with precipitation expected to be heavy at times. Overnight lows will hover around the upper 50s, while temperatures may rise slightly into the low 60s later. Tomorrow promises a continuation of the wet weather, with more rain showers expected and highs reaching the mid to upper 60s, accompanied by similar blustery winds. \n\nGiven the conditions, it\u2019s wise to prepare for damp weather with a waterproof jacket and sturdy footwear, as outdoor activities may be less than inviting. The waves on the lake might bring a bit of drama to the shore, but it\u2019s a night best spent indoors, perhaps engaging in cozy pursuits like reading or watching a film. The temperatures align with what one might expect for early November in the Midwest, neither uncomfortably cold nor particularly warm, suggesting a classic autumn evening worthy of reflection before winter sets in.",
+    "color_code": "#4F545D",
+    "timestamp": "2024-11-03 20:29:41"
 }
