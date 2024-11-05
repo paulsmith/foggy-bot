@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-05T12:00:00-06:00",
+                "startTime": "2024-11-05T14:00:00-06:00",
                 "endTime": "2024-11-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -33,7 +33,7 @@
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,80?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy. High near 66, with temperatures falling to around 63 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain showers. Cloudy. High near 66, with temperatures falling to around 64 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-05T18:00:00-06:00",
                 "endTime": "2024-11-06T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 46,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/bkn?size=medium",
                 "shortForecast": "Scattered Rain Showers then Mostly Cloudy",
-                "detailedForecast": "Scattered rain showers before 9pm. Mostly cloudy, with a low around 46. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Scattered rain showers before 9pm. Mostly cloudy. Low around 50, with temperatures rising to around 53 overnight. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston today, the weather is characterized by a damp and blustery atmosphere, with light rain currently falling. The temperature rests in the mid-60s, providing a cool yet mildly refreshing feel as the clouds hang low in the sky. Expect the overcast to persist throughout the afternoon, with rain showers likely, and temperatures gradually dipping to the low 60s later on. Winds from the south-southwest will unleash their strength, blowing briskly with occasional gusts, making it feel rather invigorating, albeit a tad uncomfortable for those unprepared.\n\nAs the sun sets this evening, scattered rain showers will continue, giving way to mostly cloudy skies, while temperatures will cool down significantly to the mid-40s. With wave conditions likely stirred up by the gusty winds, the lake may present a choppy surface; thus, those contemplating waterfront activities should approach with caution. Given the continued precipitation and cool air, layered attire including waterproof jackets and perhaps a scarf would be wise this afternoon and into the evening. With today being a regular Sunday, outdoor plans may be best suited for a cozy indoor setting, perhaps enjoying a good book or a warm drink while listening to the raindrops dance against the windows.",
-    "color_code": "#A6A6A6",
-    "timestamp": "2024-11-05 13:04:38"
+    "weather_report": "Evanston is enveloped in a damp and overcast ambiance this afternoon, with temperatures lingering in the mid 60s and a noticeable humidity lending a muggy feel to the air. Blustery winds from the south-southwest rake across the beach, reaching 20 to 25 miles per hour, with gusts that could top 40 miles per hour, creating a restless surface on Lake Michigan. Rain showers are currently falling, and more precipitation is expected throughout the day, intensifying into a steady drizzle later. The day is characterized by a gray sky where the sun makes little appearance, giving the shoreline an almost muted quality.\n\nAs the day progresses into the evening, a slight drop in temperature is anticipated, settling into the low 50s. While the chance of precipitation slightly diminishes after 9 PM, the clouds will linger, keeping it mostly cloudy overnight. Given the mildly uncomfortable weather, it's advisable for residents and visitors to dress in layers, incorporating a waterproof jacket and sturdy shoes, especially if venturing outside on this blustery day. While swimming may be uninviting due to the choppy waters, a brisk walk along the beach could be refreshing, as long as one is prepared for the elements\u2014a perfect opportunity to savor the vibrant fall scenery and the dynamic surf crashing against the shore.",
+    "color_code": "#A9B0B0",
+    "timestamp": "2024-11-05 14:05:45"
 }
