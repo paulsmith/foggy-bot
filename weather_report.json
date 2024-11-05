@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T16:51:00+00:00",
-            "temperature_f": 64.94,
-            "temperature_c": 18.3,
-            "humidity": 84.273096772476,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 160,
-            "description": "Light Rain"
+            "timestamp": "2024-11-05T19:51:00+00:00",
+            "temperature_f": 66.92,
+            "temperature_c": 19.4,
+            "humidity": 81.232642384103,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Cloudy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is enveloped in a damp and overcast ambiance this afternoon, with temperatures lingering in the mid 60s and a noticeable humidity lending a muggy feel to the air. Blustery winds from the south-southwest rake across the beach, reaching 20 to 25 miles per hour, with gusts that could top 40 miles per hour, creating a restless surface on Lake Michigan. Rain showers are currently falling, and more precipitation is expected throughout the day, intensifying into a steady drizzle later. The day is characterized by a gray sky where the sun makes little appearance, giving the shoreline an almost muted quality.\n\nAs the day progresses into the evening, a slight drop in temperature is anticipated, settling into the low 50s. While the chance of precipitation slightly diminishes after 9 PM, the clouds will linger, keeping it mostly cloudy overnight. Given the mildly uncomfortable weather, it's advisable for residents and visitors to dress in layers, incorporating a waterproof jacket and sturdy shoes, especially if venturing outside on this blustery day. While swimming may be uninviting due to the choppy waters, a brisk walk along the beach could be refreshing, as long as one is prepared for the elements\u2014a perfect opportunity to savor the vibrant fall scenery and the dynamic surf crashing against the shore.",
-    "color_code": "#A9B0B0",
-    "timestamp": "2024-11-05 14:05:45"
+    "weather_report": "The current weather in Evanston paints a rather somber scene, with a temperature in the mid-60s and thick clouds hovering overhead. Humidity levels are high, creating a muggy atmosphere, while the absence of wind leaves the air feeling still and heavy. The beach, usually a vibrant escape, appears subdued under the gray skies. As we look ahead, expect rain showers to sweep in this afternoon, with temperatures dipping slightly as they hover around the low 60s. Strong southwesterly winds will stir things up, gusting to nearly 40 miles per hour, adding a lively contrast to the otherwise restrained environment. Tonight, scattered showers may linger into the evening, with a brief reprieve leading to mostly cloudy skies and temperatures settling into the low 50s.\n\nWith precipitation likely this afternoon and wave conditions gently undulating along Lake Michigan, outdoor plans may need to shift indoors. The recommendation for attire is layered and waterproof, suitable for navigating both the dampness and the brisk winds. While the weather might not inspire a leisurely stroll along the water, cozying up with a good book or visiting a local caf\u00e9 could be delightful alternatives. In November, with temperatures typical for the season around this time, the mood leans towards a crisp autumn ambience, inviting a reflective pause rather than the usual basking in the sun.",
+    "color_code": "#A9B6B0",
+    "timestamp": "2024-11-05 15:04:45"
 }
