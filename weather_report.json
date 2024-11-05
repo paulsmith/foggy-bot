@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T12:51:00+00:00",
+            "timestamp": "2024-11-05T14:51:00+00:00",
             "temperature_f": 64.94,
             "temperature_c": 18.3,
-            "humidity": 93.306363604193,
-            "wind_speed_mph": 57.98304000000001,
+            "humidity": 90.396229795155,
+            "wind_speed_mph": 53.95644000000001,
             "wind_direction": 190,
             "description": "Light Rain"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-05T09:00:00-06:00",
+                "startTime": "2024-11-05T10:00:00-06:00",
                 "endTime": "2024-11-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -33,7 +33,7 @@
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain_showers,80?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy. High near 66, with temperatures falling to around 63 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain showers. Cloudy. High near 66, with temperatures falling to around 63 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the day begins with damp conditions as light rain falls, contributing to a heavy atmosphere with a hint of late autumn chill. Current temperatures hover in the mid-60s, cloaked in a thick layer of clouds, making it feel even cooler. A robust breeze from the south-southwest sends gusts whipping through the area, creating a somewhat turbulent atmosphere along the shoreline as waves lap against the beach. As the day progresses, rain showers are expected to continue, with an 80 percent chance of precipitation and potential rainfall amounting to a quarter of an inch or more. By afternoon, temperatures will dip slightly, settling around the low 60s, inviting a transition to a more brisk, blustery evening.\n\nWhile today\u2019s weather might not inspire outdoor activity, those in search of fresh air could find solace in a brisk walk along the beach, despite the wet conditions. However, dressing in layers with a waterproof jacket will be essential to stay comfortable. The season is decidedly autumn, and the current temperatures are typical for early November in this part of the Midwest. With no major holidays on the calendar, the focus rests squarely on enjoying the serenity of the lake, albeit briefly, under the prevailing clouds.",
-    "color_code": "#5B8DB9",
-    "timestamp": "2024-11-05 09:05:38"
+    "weather_report": "Evanston, Illinois, is currently enveloped in a damp atmosphere, with light rain falling and a temperature lingering in the mid 60s. The air is heavy with humidity, making for a muggy sensation, while gusts of wind create a blustery feel along the shore. As we look forward to the rest of the day, rain showers are expected to continue, with cloud cover dominating the sky. A high near the mid 60s is anticipated, dipping slightly in the afternoon. With wind whipping in from the south-southwest, gusts could climb to 40 mph, and there's a significant chance of additional rainfall.\n\nThe beach scene presents a somewhat somber look\u2014overcast skies and wild waves crashing against the shore offer a dramatic coastal view. Those venturing outside today should prepare for wet conditions; a light rain jacket or umbrella is advisable, combined with comfortable layers suitable for the dip in temperatures tonight, which are expected to fall to the mid 40s. With the moisture in the air and the chill settling in, outdoor activities may be less appealing. Instead, this could be a good day for cozy indoor pursuits, perhaps at a local caf\u00e9 or library, enjoying the quiet charm of Evanston on a rainy day.",
+    "color_code": "#BAC1C1",
+    "timestamp": "2024-11-05 10:06:02"
 }
