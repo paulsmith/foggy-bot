@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T12:19:00+00:00",
+            "timestamp": "2024-11-05T12:51:00+00:00",
             "temperature_f": 64.94,
             "temperature_c": 18.3,
             "humidity": 93.306363604193,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 200,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 190,
             "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-05T07:00:00-06:00",
+                "startTime": "2024-11-05T09:00:00-06:00",
                 "endTime": "2024-11-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -31,7 +31,7 @@
                 },
                 "windSpeed": "20 to 25 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/rain_showers,80?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain_showers,80?size=medium",
                 "shortForecast": "Rain Showers",
                 "detailedForecast": "Rain showers. Cloudy. High near 66, with temperatures falling to around 63 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
             },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the morning presents a damp and overcast scene, with temperatures in the mid 60s and a heavy, humid atmosphere that hangs in the air. Light rain is currently falling, complemented by gusty winds sweeping through the area, making for a blustery shoreline outlook toward Lake Michigan. The forecast indicates a continuation of rain showers throughout the day, with high temperatures hovering near the mid 60s before dipping into the low 50s in the evening. As we anticipate gusts reaching up to 45 mph, the day remains cloaked in cloud cover, promising more precipitation later; new rainfall is expected to add a quarter to half an inch to our already soaked landscape.\n\nGiven the weather conditions, it's a day better suited for cozy indoor activities than excursions along the beach, where the choppy waters and strong winds might create uncomfortable situations. Should you venture outside, layers are advisable, with a waterproof jacket, as the climate is decidedly cool and damp, especially as evening approaches. While the beach might hold its typical charm, today it would be wise to seek shelter and warmth, perhaps indulging in a cup of coffee at a local caf\u00e9 or diving into an engaging book while listening to the rhythm of the rain.",
-    "color_code": "#6c757d",
-    "timestamp": "2024-11-05 07:08:29"
+    "weather_report": "In Evanston, the day begins with damp conditions as light rain falls, contributing to a heavy atmosphere with a hint of late autumn chill. Current temperatures hover in the mid-60s, cloaked in a thick layer of clouds, making it feel even cooler. A robust breeze from the south-southwest sends gusts whipping through the area, creating a somewhat turbulent atmosphere along the shoreline as waves lap against the beach. As the day progresses, rain showers are expected to continue, with an 80 percent chance of precipitation and potential rainfall amounting to a quarter of an inch or more. By afternoon, temperatures will dip slightly, settling around the low 60s, inviting a transition to a more brisk, blustery evening.\n\nWhile today\u2019s weather might not inspire outdoor activity, those in search of fresh air could find solace in a brisk walk along the beach, despite the wet conditions. However, dressing in layers with a waterproof jacket will be essential to stay comfortable. The season is decidedly autumn, and the current temperatures are typical for early November in this part of the Midwest. With no major holidays on the calendar, the focus rests squarely on enjoying the serenity of the lake, albeit briefly, under the prevailing clouds.",
+    "color_code": "#5B8DB9",
+    "timestamp": "2024-11-05 09:05:38"
 }
