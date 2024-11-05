@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T14:51:00+00:00",
-            "temperature_f": 64.94,
-            "temperature_c": 18.3,
-            "humidity": 90.396229795155,
+            "timestamp": "2024-11-05T15:51:00+00:00",
+            "temperature_f": 66.02,
+            "temperature_c": 18.9,
+            "humidity": 87.065238588912,
             "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 190,
-            "description": "Light Rain"
+            "wind_direction": 180,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-05T10:00:00-06:00",
+                "startTime": "2024-11-05T11:00:00-06:00",
                 "endTime": "2024-11-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -31,7 +31,7 @@
                 },
                 "windSpeed": "20 to 25 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain_showers,80?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,80?size=medium",
                 "shortForecast": "Rain Showers",
                 "detailedForecast": "Rain showers. Cloudy. High near 66, with temperatures falling to around 63 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
             },
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 40
                 },
                 "windSpeed": "10 to 20 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/bkn?size=medium",
-                "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-                "detailedForecast": "A chance of rain showers before 9pm. Mostly cloudy, with a low around 46. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/bkn?size=medium",
+                "shortForecast": "Scattered Rain Showers then Mostly Cloudy",
+                "detailedForecast": "Scattered rain showers before 9pm. Mostly cloudy, with a low around 46. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Evanston, Illinois, is currently enveloped in a damp atmosphere, with light rain falling and a temperature lingering in the mid 60s. The air is heavy with humidity, making for a muggy sensation, while gusts of wind create a blustery feel along the shore. As we look forward to the rest of the day, rain showers are expected to continue, with cloud cover dominating the sky. A high near the mid 60s is anticipated, dipping slightly in the afternoon. With wind whipping in from the south-southwest, gusts could climb to 40 mph, and there's a significant chance of additional rainfall.\n\nThe beach scene presents a somewhat somber look\u2014overcast skies and wild waves crashing against the shore offer a dramatic coastal view. Those venturing outside today should prepare for wet conditions; a light rain jacket or umbrella is advisable, combined with comfortable layers suitable for the dip in temperatures tonight, which are expected to fall to the mid 40s. With the moisture in the air and the chill settling in, outdoor activities may be less appealing. Instead, this could be a good day for cozy indoor pursuits, perhaps at a local caf\u00e9 or library, enjoying the quiet charm of Evanston on a rainy day.",
-    "color_code": "#BAC1C1",
-    "timestamp": "2024-11-05 10:06:02"
+    "weather_report": "In Evanston, the beach presents a chilly, damp scene, reflecting today\u2019s weather. Currently, temperatures hover in the upper 60s, but with a blanket of thick clouds enveloping the area, the overall feel is cool and humid. A strong, gusty wind gusts from the south, creating a blustery environment by the lake, where waves gently lap against the shore. As the day progresses, expect rain showers to persist, with conditions remaining overcast and a temperature drop to the low 60s in the afternoon. The chance of precipitation hovers around 80%, bringing with it the potential for some moderate rainfall accumulation.\n\nGiven the forecast, it\u2019s advisable to dress warmly in layers and carry an umbrella if venturing out, especially since scattered rain showers are anticipated tonight with temperatures dropping to the mid-40s. The weather aligns with early November seasonal norms for this region, offering a reminder of the approaching winter. While outdoor activities might be curtailed due to the unfavorable conditions, a stroll along the lake, bundled up against the wind, can still be a pleasant escape, provided one is prepared for the occasional shower and gusty winds. Alternatively, a cozy afternoon inside a local caf\u00e9 might be the most inviting option.",
+    "color_code": "#A4B7B0",
+    "timestamp": "2024-11-05 11:05:00"
 }
