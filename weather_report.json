@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T01:51:00+00:00",
+            "timestamp": "2024-11-05T02:51:00+00:00",
             "temperature_f": 64.04,
             "temperature_c": 17.8,
             "humidity": 93.281507422058,
-            "wind_speed_mph": 33.01812,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 200,
-            "description": "Light Drizzle and Fog/Mist"
+            "description": "Light Drizzle"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, the atmosphere is tinged with a moist dampness, as temperatures linger in the low to mid 60s. The prevailing conditions are a light drizzle combined with fog, which lends a soft, muted quality to the seascape, blurring the horizon where the dark waters of Lake Michigan meet the sky. As night approaches, the winds pick up, blowing steadily from the south at a brisk pace, stirring the air and adding a sense of urgency to the impending storms.\n\nLooking ahead, tonight's forecast predicts showers and thunderstorms, some potentially severe, with heavy rain expected to drench the area. The temperature will dip slightly, hovering around 62 degrees under overcast skies. Residents should brace for wild gusts of wind that may reach up to 35 miles per hour, making for a turbulent night. With a near certainty of rain, those venturing out should don waterproof gear. Given the season, this weather aligns with the typical late autumn chill, though the warmth of earlier days may linger in memory. While outdoor activities might be curtailed, this could be an ideal time for indoor pursuits\u2014perhaps a cozy night in or catching a movie while the storm rumbles on outside.",
-    "color_code": "#404040",
-    "timestamp": "2024-11-04 21:07:53"
+    "weather_report": "As night falls over Evanston, the current conditions paint a rather dreary scene, characterized by a damp atmosphere and light drizzle. The temperature is hovering in the mid-60s, creating a muggy environment, while a gusty wind from the southwest shakes nearby trees, making the evening feel uncomfortably brisk. Looking ahead, the forecast indicates a night of showers and thunderstorms, with the potential for heavy rain and gusts reaching near 35 miles per hour. Tomorrow promises more of the same as temperatures struggle to reach the mid-60s, accompanied by continued showers and a significant chance of precipitation, likely totaling between one and two inches.\n\nGiven these gloomy projections, outdoor visibility will be low, and the waves on Lake Michigan are expected to churn, presenting choppy conditions ideal only for the most adventurous of mariners. For those venturing outdoors, raincoats and sturdy footwear are essential to withstand the wet and windy atmosphere. With the season signaling the approach of winter, these temperatures are typical for early November in the Midwest, but they can still feel quite raw against the persistent drizzle. Evening plans should lean toward indoor activities\u2014perhaps gathering with friends at a cozy caf\u00e9 or enjoying a timely film, as the tumult outside encourages a retreat to warmth and solace.",
+    "color_code": "#2B2D32",
+    "timestamp": "2024-11-04 22:06:25"
 }
