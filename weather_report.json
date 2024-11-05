@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T09:51:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 96.284527228549,
-            "wind_speed_mph": 33.01812,
+            "timestamp": "2024-11-05T10:51:00+00:00",
+            "temperature_f": 64.94,
+            "temperature_c": 18.3,
+            "humidity": 93.306363604193,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 180,
-            "description": "Light Rain"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-05T05:00:00-06:00",
-                "endTime": "2024-11-05T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Cloudy, with a low around 63. South wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New rainfall amounts between three quarters and one inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2024-11-05T06:00:00-06:00",
                 "endTime": "2024-11-05T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/rain_showers,80?size=medium",
                 "shortForecast": "Rain Showers",
                 "detailedForecast": "Rain showers. Cloudy. High near 66, with temperatures falling to around 63 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-05T18:00:00-06:00",
+                "endTime": "2024-11-06T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "10 to 20 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/bkn?size=medium",
+                "shortForecast": "Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A chance of rain showers before 9pm. Mostly cloudy, with a low around 46. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, current conditions paint a rather gloomy picture, with temperatures in the mid-60s and a blanket of humidity clinging to the air, creating a decidedly damp atmosphere. The howling winds from the south are fierce, adding to the uncomfortable chill as light rain continues to fall, making outdoor ventures less than appealing at this early hour. As we look ahead, the forecast indicates persistent rain showers overnight, with cloud cover intensifying and temperatures dipping slightly. Tomorrow, expect more of the same as rain remains in the forecast, accompanied by brisk winds that may gust significantly; the overall chances of precipitation are elevated.\n\nGiven these conditions, the beach scene, though picturesque in its own right, is marred by dreariness. The waves of Lake Michigan are likely choppy due to the winds, so swimming or paddleboarding may not be advisable. For those who must venture outside, practical attire such as waterproof jackets and sturdy shoes is recommended to stay dry and comfortable. As the region transitions firmly into autumn, temperatures align closely with seasonal norms for early November, reinforcing the importance of cozy layers. While outdoor activities might be curtailed, this evening would be well-suited for indoor pursuits \u2013 perhaps a warm drink while settling in with a good book, or catching up on a favorite film at home.",
-    "color_code": "#4D6A92",
-    "timestamp": "2024-11-05 05:04:55"
+    "weather_report": "In Evanston, Illinois, the current weather presents a rather damp and breezy morning, with temperatures hovering in the mid-60s and a thick blanket of humidity enveloping the area. The wind is howling from the south, reaching gusty speeds that add a brisk edge to the day. The sky is shrouded in overcast clouds, and the atmosphere carries the scent of impending rain, as light drizzle may soon sweep through. \n\nToday's forecast predicts a continuation of rain showers, with the high temperature expected to linger around the mid-60s before sliding into the low 60s by the afternoon. With an 80% chance of precipitation, those looking to be outdoors might find the conditions less than inviting, especially considering the risk of strong gusts and potential rainfall accumulations of up to half an inch. Waves may churn gently along the shore, adding to the somewhat uninviting coastal scene that the beach holds. Given the blustery weather, it would be wise to don a waterproof jacket, perhaps layered over a sweater, to fend off the chill. As we're in early November, these conditions reflect the typical transition into colder weather, with temperatures gradually shifting downwards. Activities might be limited today, but exploring local caf\u00e9s or indoor attractions could provide a welcome respite from the rain, making the best of an otherwise dreary November day.",
+    "color_code": "#A8B3C2",
+    "timestamp": "2024-11-05 06:08:33"
 }
