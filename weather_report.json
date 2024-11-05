@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T07:51:00+00:00",
-            "temperature_f": 62.959999999999994,
-            "temperature_c": 17.2,
-            "humidity": 100,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 150,
-            "description": ""
+            "timestamp": "2024-11-05T08:51:00+00:00",
+            "temperature_f": 64.94,
+            "temperature_c": 18.3,
+            "humidity": 93.306363604193,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 170,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-05T03:00:00-06:00",
+                "startTime": "2024-11-05T04:00:00-06:00",
                 "endTime": "2024-11-05T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 63,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 80
                 },
                 "windSpeed": "20 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,100?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,80?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a low around 63. South wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+                "detailedForecast": "Rain showers. Cloudy, with a low around 63. South wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions are marked by a clammy embrace, with temperatures lingering in the low 60s and humidity saturating the air. The atmosphere is heavy with impending rain, as blustery winds from the south howl at around 20 mph, contributing to an overall damp and cool feel. Looking ahead, the forecast invites a night filled with rain showers and a continuation of clouds, with overnight lows remaining steady. Tomorrow promises more of the same\u2014a murky day with scattered rain, highs inching towards the mid-60s, and gusts that could reach a fierce 45 mph.\n\nToday\u2019s appearance is decidedly unpleasant, with overcast skies and the likelihood of rain, making outdoor adventures seem less appealing. The churning waters of Lake Michigan may present heightened waves, creating a potentially dramatic scene, but also uninviting conditions for beachgoers or boaters. With heavy precipitation on the horizon, it\u2019s advisable to dress warmly in layered, waterproof clothing and sturdy shoes. While November in the Midwest typically ushers in cooler temperatures, the persistent humidity adds a unique chill, reminding us that winter is just around the corner. Given the late hour and the forecast, indoor activities such as visiting local caf\u00e9s or museums would be more fitting for today\u2019s weather.",
-    "color_code": "#1F4F4F",
-    "timestamp": "2024-11-05 03:05:22"
+    "weather_report": "In Evanston, the current conditions reflect a damp and overcast atmosphere, with the temperature settled in the mid 60s, accompanied by a high humidity that contributes to a muggy feel. As rain lightly falls, the south wind howls at nearly 50 mph, creating a blustery scene by Lake Michigan, where waves churn restlessly against the shore. With an 80% chance of continued rain through the night, expect the cloudy skies to usher in persistent showers, and temperatures to settle to the low 60s.\n\nLooking ahead to Tuesday, rain showers will dominate, and the mercury will hover in the mid 60s before gradually slipping to the low 60s by afternoon. Strong winds from the south-southwest, gusting up to 45 mph, will only add to the wild conditions. Given this weather, it\u2019s advisable to dress warmly in waterproof attire, perhaps a sturdy jacket and reliable footwear, as you might encounter slick surfaces and blustery winds. The current temperatures are typical for November in this region, signaling the transition into the chillier months. Outdoor activities might be limited, but this weather could be perfect for cozying up indoors with a good book or enjoying the comforting ambiance of a local caf\u00e9, watching the rain painted against the windows.",
+    "color_code": "#4B4A3A",
+    "timestamp": "2024-11-05 04:05:49"
 }
