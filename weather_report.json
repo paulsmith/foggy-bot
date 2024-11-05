@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T03:51:00+00:00",
-            "temperature_f": 62.959999999999994,
-            "temperature_c": 17.2,
-            "humidity": 96.881098248152,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 170,
-            "description": "Heavy Rain and Fog/Mist"
+            "timestamp": "2024-11-05T04:51:00+00:00",
+            "temperature_f": 64.04,
+            "temperature_c": 17.8,
+            "humidity": 93.281507422058,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 190,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-04T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-05T00:00:00-06:00",
                 "endTime": "2024-11-05T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,100?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 62. South wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+                "detailedForecast": "Showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 62. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current scene is marked by a heavy drizzle and an enveloping fog that creates an atmosphere of stillness, punctuated occasionally by the sound of gusty winds barreling in from the south. The temperature hovers in the low 60s, lending a damp chill to the air, while humidity feels stifling, contributing to the discomfort of being outside. As night approaches, conditions are set to worsen with a forecast of showers and thunderstorms expected to roll in, bringing the possibility of significant rainfall, with totals potentially reaching up to 2 inches. Gale-force gusts will accompany these storms, making the evening particularly blustery.\n\nAs we look toward tomorrow, expect a continuation of this unsettled weather. The day will remain cloudy with temperatures fluctuating around the mid-60s, and further precipitation is likely throughout the day. Given the uninviting conditions, which are not typical for early November, dressing in waterproof layers and sturdy footwear is advisable. With outdoor activities winding down in light of the stormy forecast, it may be best to seek refuge indoors, catching up on reading or enjoying a warm beverage. Although this evening marks no holiday, it serves as a reminder of the changing seasons and the onset of more turbulent weather ahead.",
-    "color_code": "#4a4c56",
-    "timestamp": "2024-11-04 23:05:29"
+    "weather_report": "In Evanston, Illinois, the night air is dense with humidity, presenting a sultry feel underscored by light rain and mist hanging low. Currently, temperatures hover in the low 60s, coupled with a fierce breeze sweeping in from the south, causing trees to sway and rippling the surface of Lake Michigan. As we look ahead, the forecast warns of showers and thunderstorms overnight, with the possibility of heavy downpours\u2014rainfall could reach up to an inch. The likelihood of precipitation stands at a remarkable 100%, ensuring a wet night ahead. Tomorrow promises more of the same; the clouds will linger, and while temperatures may inch towards the mid-60s, expect a drop in the afternoon. Wind gusts could intensify, making it feel even chillier.\n\nGiven these conditions, the atmosphere is far from pleasant, with outdoor activities likely hindered by rain and wind. Waves will likely be choppy along the shoreline, punctuated by gusty winds, making it less than ideal for any water-related pursuits. Tonight and well into tomorrow, layering up will be essential; a waterproof jacket and sturdy shoes are advisable for anyone venturing outside. As we settle into November, the weather reflects the typical shift toward cooler, wetter days, a signature of the season in this part of the Midwest. With the current conditions dominating the night sky, cozying up indoors with a good book or a movie might be the best course of action during this damp and blustery spell.",
+    "color_code": "#6B7C9A",
+    "timestamp": "2024-11-05 00:06:56"
 }
