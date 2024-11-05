@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-04T19:00:00-06:00",
+                "startTime": "2024-11-04T20:00:00-06:00",
                 "endTime": "2024-11-05T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,80?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain and a chance of thunderstorms. Cloudy, with a low around 62. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "Rain and a chance of thunderstorms. Cloudy, with a low around 62. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a damp and cloudy atmosphere, with temperatures in the mid-60s, a hint of moisture in the air that makes it feel quite humid. The wind is notably fierce, gusting around 29 miles per hour from the south, stirring the waters of Lake Michigan and bringing a chill that foreshadows the impending rain. As night falls, the forecast suggests an 80% chance of rain accompanied by possible thunderstorms, with temperatures dipping to the low 60s overnight. Tomorrow looks equally unsettled, with showers likely and temperatures holding steady in the mid-60s, though they're expected to decline in the afternoon while winds may intensify with gusts up to 45 mph.\n\nGiven these conditions, the beach scene appears rather uninviting\u2014overcast skies and a potentially drenching rain make outdoor activities less than ideal. Wave conditions are likely choppy given the strong winds, making for a wild lakefront. For those venturing outside, wearing a waterproof jacket and sturdy shoes will be wise, along with an umbrella to guard against the rain. As November settles in, these temperatures align with seasonal expectations for the region, though the high humidity lingers uncharacteristically for fall. Suggested activities lean towards cozy indoor pursuits, perhaps a warm drink at a local caf\u00e9 or enjoying a movie indoors, as the weather shifts from a pleasant autumn to a more wintry feel.",
-    "color_code": "#4B6E92",
-    "timestamp": "2024-11-04 19:32:27"
+    "weather_report": "Currently in Evanston, the weather is marked by a humid atmosphere and a gentle breeze, as temperatures sit in the mid-60s. The skies are overcast, lending a gray pallor to the evening and foreshadowing moisture. As the night draws on, the forecast indicates rain and a chance of thunderstorms, with temperatures dipping slightly to the low 60s. Wind will pick up, becoming more brisk, leading to gusts that could reach up to 25 mph, making conditions feel a bit more unsettled.\n\nLooking ahead to Tuesday, expect persistent showers and thunderstorms, with temperatures peaking around the mid-60s \u2013 cooler than today, particularly as the afternoon approaches. The winds will be quite spirited, with gusts potentially reaching 45 mph, creating choppy wave conditions on Lake Michigan. With the likelihood of rain, especially given the 70% chance of precipitation, it might be best to stay indoors unless you're prepared with rain gear. Given the season, this weather aligns with typical fall patterns, though the humidity may feel a touch oppressive. A warm, waterproof jacket is advisable if venturing out, and indoor activities such as visiting local cafes or museums could provide a cozy alternative on this blustery day.",
+    "color_code": "#6B8E23",
+    "timestamp": "2024-11-04 20:26:25"
 }
