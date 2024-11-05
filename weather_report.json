@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T08:51:00+00:00",
-            "temperature_f": 64.94,
-            "temperature_c": 18.3,
-            "humidity": 93.306363604193,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 170,
+            "timestamp": "2024-11-05T09:51:00+00:00",
+            "temperature_f": 64.04,
+            "temperature_c": 17.8,
+            "humidity": 96.284527228549,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 180,
             "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-05T04:00:00-06:00",
+                "startTime": "2024-11-05T05:00:00-06:00",
                 "endTime": "2024-11-05T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 63,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 70
                 },
                 "windSpeed": "20 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,80?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a low around 63. South wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely. Cloudy, with a low around 63. South wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New rainfall amounts between three quarters and one inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions reflect a damp and overcast atmosphere, with the temperature settled in the mid 60s, accompanied by a high humidity that contributes to a muggy feel. As rain lightly falls, the south wind howls at nearly 50 mph, creating a blustery scene by Lake Michigan, where waves churn restlessly against the shore. With an 80% chance of continued rain through the night, expect the cloudy skies to usher in persistent showers, and temperatures to settle to the low 60s.\n\nLooking ahead to Tuesday, rain showers will dominate, and the mercury will hover in the mid 60s before gradually slipping to the low 60s by afternoon. Strong winds from the south-southwest, gusting up to 45 mph, will only add to the wild conditions. Given this weather, it\u2019s advisable to dress warmly in waterproof attire, perhaps a sturdy jacket and reliable footwear, as you might encounter slick surfaces and blustery winds. The current temperatures are typical for November in this region, signaling the transition into the chillier months. Outdoor activities might be limited, but this weather could be perfect for cozying up indoors with a good book or enjoying the comforting ambiance of a local caf\u00e9, watching the rain painted against the windows.",
-    "color_code": "#4B4A3A",
-    "timestamp": "2024-11-05 04:05:49"
+    "weather_report": "In Evanston, current conditions paint a rather gloomy picture, with temperatures in the mid-60s and a blanket of humidity clinging to the air, creating a decidedly damp atmosphere. The howling winds from the south are fierce, adding to the uncomfortable chill as light rain continues to fall, making outdoor ventures less than appealing at this early hour. As we look ahead, the forecast indicates persistent rain showers overnight, with cloud cover intensifying and temperatures dipping slightly. Tomorrow, expect more of the same as rain remains in the forecast, accompanied by brisk winds that may gust significantly; the overall chances of precipitation are elevated.\n\nGiven these conditions, the beach scene, though picturesque in its own right, is marred by dreariness. The waves of Lake Michigan are likely choppy due to the winds, so swimming or paddleboarding may not be advisable. For those who must venture outside, practical attire such as waterproof jackets and sturdy shoes is recommended to stay dry and comfortable. As the region transitions firmly into autumn, temperatures align closely with seasonal norms for early November, reinforcing the importance of cozy layers. While outdoor activities might be curtailed, this evening would be well-suited for indoor pursuits \u2013 perhaps a warm drink while settling in with a good book, or catching up on a favorite film at home.",
+    "color_code": "#4D6A92",
+    "timestamp": "2024-11-05 05:04:55"
 }
