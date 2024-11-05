@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T04:51:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 93.281507422058,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 190,
+            "timestamp": "2024-11-05T06:15:00+00:00",
+            "temperature_f": 64.94,
+            "temperature_c": 18.3,
+            "humidity": 93.306363604193,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 180,
             "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the night air is dense with humidity, presenting a sultry feel underscored by light rain and mist hanging low. Currently, temperatures hover in the low 60s, coupled with a fierce breeze sweeping in from the south, causing trees to sway and rippling the surface of Lake Michigan. As we look ahead, the forecast warns of showers and thunderstorms overnight, with the possibility of heavy downpours\u2014rainfall could reach up to an inch. The likelihood of precipitation stands at a remarkable 100%, ensuring a wet night ahead. Tomorrow promises more of the same; the clouds will linger, and while temperatures may inch towards the mid-60s, expect a drop in the afternoon. Wind gusts could intensify, making it feel even chillier.\n\nGiven these conditions, the atmosphere is far from pleasant, with outdoor activities likely hindered by rain and wind. Waves will likely be choppy along the shoreline, punctuated by gusty winds, making it less than ideal for any water-related pursuits. Tonight and well into tomorrow, layering up will be essential; a waterproof jacket and sturdy shoes are advisable for anyone venturing outside. As we settle into November, the weather reflects the typical shift toward cooler, wetter days, a signature of the season in this part of the Midwest. With the current conditions dominating the night sky, cozying up indoors with a good book or a movie might be the best course of action during this damp and blustery spell.",
-    "color_code": "#6B7C9A",
-    "timestamp": "2024-11-05 00:06:56"
+    "weather_report": "In Evanston, the current conditions present a damp and gloomy atmosphere, with temperatures lingering in the mid 60s and a heavy blanket of humidity that feels oppressive in the cool night air. The strong winds are howling from the south, creating a blustery scene as light rain and mist veil the beach and Lake Michigan to the east. Tonight, residents can expect showers and thunderstorms, where some storms may bring heavy downpours, accumulating up to an inch of rain. With a low forecasted around the low 60s, the environment will remain cool and overcast, maintaining a feeling of wet chill.\n\nLooking ahead to Tuesday, the day promises more of the same, with steady showers and storms likely to persist throughout the day. Expect a high in the mid to upper 60s, but temperatures will gradually fall as the afternoon approaches, accompanied by gusty winds reaching up to 45 miles per hour. This combination of weather creates an overall unpleasant appearance along the shoreline, with choppy wave conditions stirred up by the wind. Those venturing out should dress warmly in waterproof layers, perhaps donning a raincoat and sturdy footwear to navigate through puddles and soggy ground. Given that the season is autumn, these cooling temperatures are typical for the region, although the intensity of the rainfall is a reminder that winter is approaching. With the inclement weather, outdoor activities are best postponed; instead, consider cozy indoor pursuits, perhaps curling up with a good book or enjoying a warm cup of something comforting while weathering the storms inside.",
+    "color_code": "#4B6EAD",
+    "timestamp": "2024-11-05 01:05:15"
 }
