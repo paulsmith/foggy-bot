@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T02:51:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 93.281507422058,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 200,
-            "description": "Light Drizzle"
+            "timestamp": "2024-11-05T03:51:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 96.881098248152,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 170,
+            "description": "Heavy Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-04T21:00:00-06:00",
+                "startTime": "2024-11-04T23:00:00-06:00",
                 "endTime": "2024-11-05T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night falls over Evanston, the current conditions paint a rather dreary scene, characterized by a damp atmosphere and light drizzle. The temperature is hovering in the mid-60s, creating a muggy environment, while a gusty wind from the southwest shakes nearby trees, making the evening feel uncomfortably brisk. Looking ahead, the forecast indicates a night of showers and thunderstorms, with the potential for heavy rain and gusts reaching near 35 miles per hour. Tomorrow promises more of the same as temperatures struggle to reach the mid-60s, accompanied by continued showers and a significant chance of precipitation, likely totaling between one and two inches.\n\nGiven these gloomy projections, outdoor visibility will be low, and the waves on Lake Michigan are expected to churn, presenting choppy conditions ideal only for the most adventurous of mariners. For those venturing outdoors, raincoats and sturdy footwear are essential to withstand the wet and windy atmosphere. With the season signaling the approach of winter, these temperatures are typical for early November in the Midwest, but they can still feel quite raw against the persistent drizzle. Evening plans should lean toward indoor activities\u2014perhaps gathering with friends at a cozy caf\u00e9 or enjoying a timely film, as the tumult outside encourages a retreat to warmth and solace.",
-    "color_code": "#2B2D32",
-    "timestamp": "2024-11-04 22:06:25"
+    "weather_report": "In Evanston, the current scene is marked by a heavy drizzle and an enveloping fog that creates an atmosphere of stillness, punctuated occasionally by the sound of gusty winds barreling in from the south. The temperature hovers in the low 60s, lending a damp chill to the air, while humidity feels stifling, contributing to the discomfort of being outside. As night approaches, conditions are set to worsen with a forecast of showers and thunderstorms expected to roll in, bringing the possibility of significant rainfall, with totals potentially reaching up to 2 inches. Gale-force gusts will accompany these storms, making the evening particularly blustery.\n\nAs we look toward tomorrow, expect a continuation of this unsettled weather. The day will remain cloudy with temperatures fluctuating around the mid-60s, and further precipitation is likely throughout the day. Given the uninviting conditions, which are not typical for early November, dressing in waterproof layers and sturdy footwear is advisable. With outdoor activities winding down in light of the stormy forecast, it may be best to seek refuge indoors, catching up on reading or enjoying a warm beverage. Although this evening marks no holiday, it serves as a reminder of the changing seasons and the onset of more turbulent weather ahead.",
+    "color_code": "#4a4c56",
+    "timestamp": "2024-11-04 23:05:29"
 }
