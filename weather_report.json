@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T15:51:00+00:00",
-            "temperature_f": 66.02,
-            "temperature_c": 18.9,
-            "humidity": 87.065238588912,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 180,
-            "description": "Cloudy"
+            "timestamp": "2024-11-05T16:51:00+00:00",
+            "temperature_f": 64.94,
+            "temperature_c": 18.3,
+            "humidity": 84.273096772476,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 160,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-05T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-05T12:00:00-06:00",
                 "endTime": "2024-11-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "20 to 25 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,80?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,80?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy. High near 66, with temperatures falling to around 63 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain showers. Cloudy. High near 66, with temperatures falling to around 63 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the beach presents a chilly, damp scene, reflecting today\u2019s weather. Currently, temperatures hover in the upper 60s, but with a blanket of thick clouds enveloping the area, the overall feel is cool and humid. A strong, gusty wind gusts from the south, creating a blustery environment by the lake, where waves gently lap against the shore. As the day progresses, expect rain showers to persist, with conditions remaining overcast and a temperature drop to the low 60s in the afternoon. The chance of precipitation hovers around 80%, bringing with it the potential for some moderate rainfall accumulation.\n\nGiven the forecast, it\u2019s advisable to dress warmly in layers and carry an umbrella if venturing out, especially since scattered rain showers are anticipated tonight with temperatures dropping to the mid-40s. The weather aligns with early November seasonal norms for this region, offering a reminder of the approaching winter. While outdoor activities might be curtailed due to the unfavorable conditions, a stroll along the lake, bundled up against the wind, can still be a pleasant escape, provided one is prepared for the occasional shower and gusty winds. Alternatively, a cozy afternoon inside a local caf\u00e9 might be the most inviting option.",
-    "color_code": "#A4B7B0",
-    "timestamp": "2024-11-05 11:05:00"
+    "weather_report": "In Evanston, the weather is currently characterized by a mild coolness with temperatures in the mid-60s accompanied by a thick layer of humidity that saturates the air. Light rain adds to the dampness, creating a scene where the gentle lapping of waves meets the shoreline. However, the sky is locked in a blanket of clouds, casting a muted pallor over the beach, making it feel quite dreary. A robust breeze from the south-southwest adds a gusty touch, causing leaves to dance and the occasional splatter of rain against skin.\n\nAs the day unfolds, expect sporadic showers with a high hovering around the mid-60s before gradually cooling to the low 40s tonight. There\u2019s an 80% chance of rain this afternoon, promising new rainfall accumulation that may reach a quarter of an inch. The evening will see a calmer, yet still breezy atmosphere, with the clouds continuing to loom over the area. Given the season, this chilly weather aligns well with a typical autumn in Illinois, where the transition to winter is marked by such damp and blustery conditions. \n\nConsidering the weather's unpleasant demeanor, it would be wise to dress warmly in layers and waterproof gear if venturing outdoors. Ideal activities may include cozying up with a book in a nearby caf\u00e9, or taking a brisk walk along the beach to feel the refreshing breeze, but be prepared for the possibility of becoming quite wet. Should the rain subside, a serene stroll could be a lovely way to absorb the stormy beauty of the Lake Michigan coastline.",
+    "color_code": "#A2A142",
+    "timestamp": "2024-11-05 12:06:24"
 }
