@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T23:51:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 89.786765048381,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 220,
-            "description": ""
+            "timestamp": "2024-11-06T01:51:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 90.318702301983,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 230,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-05T19:00:00-06:00",
+                "startTime": "2024-11-05T21:00:00-06:00",
                 "endTime": "2024-11-06T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium",
-                "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
-                "detailedForecast": "Isolated rain showers before 9pm. Mostly cloudy. Low around 50, with temperatures rising to around 53 overnight. West southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. Low around 50, with temperatures rising to around 53 overnight. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening settles over Evanston, current conditions reveal a balmy atmosphere with temperatures resting in the mid-60s accompanied by a noticeably humid breeze. The wind is wild, reaching nearly 50 miles per hour, whipping through the area and contributing to a restless, unsettled feel. The beach presents a mostly cloudy canvas, punctuated by isolated rain showers forecasted until after 9 PM, with a slight chance of drizzle lingering into the night. As the temperature dips toward the low 50s, residents may notice it rising slightly as the night progresses, which complicates the comfort level outside.\n\nFor those pondering activities this evening, it\u2019s best to dress for a cool, breezy night\u2014light layers should suffice, especially if venturing out near the lakeshore where the gusts are sure to be more pronounced. Tomorrow promises a partly sunny reprieve, with daytime highs expected to hover around the low 50s, lending an overall pleasant, if crisp, autumn vibe. Given the current season, temperatures are in line with expectations for early November in the Midwest, making this weather ideal for enjoying a brisk walk along the water or perhaps cozying up inside with a warm drink while the evening's cloud cover keeps temperatures in check.",
-    "color_code": "#333333",
-    "timestamp": "2024-11-05 19:32:31"
+    "weather_report": "This evening in Evanston, the temperature lingers in the low 60s, accompanied by a heavy humidity that creates a damp, almost oppressive feeling in the air. The howling winds from the west-southwest whip at 45 miles per hour, mixing with the patchy clouds overhead, which render the night mostly cloudy but not entirely dark. The forecast suggests a shift overnight as temperatures drop towards the low 50s, rising slightly to around 53 as the night progresses. Gusty winds will persist, making it feel cooler than it is, and a few sprinkles may accompany the change, with only minimal precipitation expected.\n\nThough November here tends to lean towards brisk and chilly, today's conditions verge on unusual; such warm weather at this time of year is rare. As for attire, layering will be key\u2014think light jackets over sweaters to fend off the cool breeze. With these conditions, outdoor activities may be limited. However, those braving the elements might find tranquility by the Lake Michigan shore, though the waves could be restless with the wind. Overall, this evening is best reserved for cozy indoor pursuits, perhaps with a warm drink in hand as we settle into a classic Midwest fall night.",
+    "color_code": "#4B6E91",
+    "timestamp": "2024-11-05 21:07:39"
 }
