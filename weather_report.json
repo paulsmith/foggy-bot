@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-06T16:51:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 73.709316572126,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 320,
+            "timestamp": "2024-11-06T20:51:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 68.877362479151,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 330,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-06T15:00:00-06:00",
+                "startTime": "2024-11-06T16:00:00-06:00",
                 "endTime": "2024-11-06T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -30,10 +30,10 @@
                     "value": 20
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers before 4pm, then patchy drizzle. Mostly cloudy. High near 53, with temperatures falling to around 51 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 20%."
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle. Mostly cloudy. High near 53, with temperatures falling to around 51 in the afternoon. North northwest wind around 10 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston reveal a cool and somewhat damp atmosphere, with temperatures lingering in the low 50s. The air feels quite humid, and the blustery winds are stirring up the waters of Lake Michigan, suggesting a lively day along the shore. As clouds blanket the sky, the chance of isolated rain showers this afternoon keeps the atmosphere feeling unsettled, with patchy drizzle expected later. The forecast indicates that temperatures will begin to drop slightly, highlighting a typical early November chill in this area.\n\nVisitors to the beach today should prepare for a brisk day; with a high near the mid-50s, layered attire would be advisable, combining a warm jacket with lighter layers underneath to accommodate the cool breeze. As the day progresses towards evening, temperatures are projected to dip into the mid-40s, so additional warmth will certainly be appreciated. Given the conditions, engaging in a quiet stroll along the shore may be pleasant, while the blustering winds keep the atmosphere invigorating. However, it's wise to stay alert for occasional rain, which might deter extended outdoor activities. Today\u2019s weather marks a quintessential autumn day in the Midwest, with all its changing elements and a reminder of the approaching winter.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-11-06 15:04:47"
+    "weather_report": "As we take stock of the weather in Evanston, Illinois this afternoon, the air is characterized by a coolness typical for November, hovering in the low 50s with an overcast sky lending a muted palette to the day. The breeze is brisk, whispering from the north northwest at a spirited pace, adding an invigorating chill to the scenery. With a touch of humidity in the air, it's a damp feel, potentially in preparation for some light drizzle, although the chances of actual rain remain rather slim.\n\nLooking ahead, the forecast indicates a continuation of mostly cloudy skies this evening, with isolated showers possible before eight o\u2019clock. Temperatures are expected to dip into the mid 40s, ideal for cozy layers rather than light attire. Given the state of the sky and the forecast for the rest of the day, those with plans outdoors may want to bundle up. The waves along Lake Michigan are likely tranquil in this weather, promising a calm view for late afternoon strolls or perhaps a quiet moment on the beach, though the beachgoers may be few. \n\nAltogether, while the day may not be bursting with sun, it encapsulates the essence of a classic fall afternoon, beckoning both contemplation and serene walks by the water, perhaps before settling in for a warm evening indoors.",
+    "color_code": "#A2AAB0",
+    "timestamp": "2024-11-06 16:04:50"
 }
