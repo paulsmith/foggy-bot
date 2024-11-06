@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-06T12:00:00-06:00",
+                "startTime": "2024-11-06T14:00:00-06:00",
                 "endTime": "2024-11-06T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers?size=medium",
+                "windSpeed": "10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers after 4pm. Mostly cloudy, with a high near 53. North northwest wind 5 to 10 mph."
+                "detailedForecast": "Isolated rain showers between 3pm and 4pm, then patchy drizzle. Cloudy. High near 53, with temperatures falling to around 51 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "N",
+                "windSpeed": "10 mph",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers/bkn?size=medium",
                 "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
-                "detailedForecast": "Isolated rain showers before 9pm. Mostly cloudy, with a low around 45. North wind around 5 mph."
+                "detailedForecast": "Isolated rain showers before 8pm. Mostly cloudy, with a low around 45. North northwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, current conditions reveal a cloudy afternoon with a brisk, blustery wind complementing the chill in the air, making it feel rather damp and cool. With temperatures lingering in the low 50s and a hint of rain on the horizon, the atmosphere conveys a typical fall day in Illinois. Looking ahead, more isolated rain showers are expected this afternoon, tapering off by early evening, with highs barely reaching the mid-50s before dipping down to cool lows around 45 tonight. The lake, though not particularly wild, may feature some modest waves reflecting the blustery gusts sweeping across its surface.\n\nGiven the weather, it's advisable to dress warmly, layering up with a light jacket or sweater, and donning waterproof footwear if venturing out, especially with the potential for light showers. While today's cloud cover might not inspire outdoor adventures, a stroll along the beach could still be refreshing, allowing one to appreciate the serene beauty of Lake Michigan, especially as ever-changing autumn skies cast their brooding shadows. With November's chill in full swing, today's temperatures certainly align with seasonal expectations, making outdoor events less enticing. Instead, cozy indoor activities\u2014perhaps a visit to a local caf\u00e9 or bookstore\u2014seem more inviting on this gray afternoon.",
-    "color_code": "#7D9FC9",
-    "timestamp": "2024-11-06 13:04:44"
+    "weather_report": "Current conditions in Evanston reveal a chill in the air with a temperature hovering in the low 50s and a damp, humid feel that pervades the shoreline. As blustery winds whip from the northwest, waves dance upon the surface of Lake Michigan, hinting at the unsettled weather ahead. Looking out toward the water, the sky is cloaked in a thick blanket of clouds, lending a muted tone to the landscape. This afternoon, expect isolated rain showers between 3 and 4 PM, with patchy drizzle lingering shortly thereafter. The high might reach just above 50 degrees before dipping again, while a gentle northwesterly breeze adds to the overall briskness.\n\nAs twilight approaches, isolated showers may scatter before nightfall, giving way to mostly cloudy skies and a low settling in the mid 40s. With precipitation chances low and the day featuring a combination of gray clouds and fleeting moisture, the atmosphere feels somewhat uninviting. For those who dare venture outside, a light jacket and perhaps an umbrella might be wise, especially if you plan on sojourning along the beach or enjoying one of Evanston\u2019s parks. Given the seasonality, this weather is typical for early November in the Midwest, so warm attire is recommended. Outdoor activities may be limited, but a cozy stroll along the lakefront or a visit to a nearby caf\u00e9 could provide an enjoyable respite from the elements.",
+    "color_code": "#A0B6C0",
+    "timestamp": "2024-11-06 14:06:09"
 }
