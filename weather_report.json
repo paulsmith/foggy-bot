@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-06T14:00:00-06:00",
+                "startTime": "2024-11-06T15:00:00-06:00",
                 "endTime": "2024-11-06T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -33,7 +33,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers between 3pm and 4pm, then patchy drizzle. Cloudy. High near 53, with temperatures falling to around 51 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Isolated rain showers before 4pm, then patchy drizzle. Mostly cloudy. High near 53, with temperatures falling to around 51 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chill in the air with a temperature hovering in the low 50s and a damp, humid feel that pervades the shoreline. As blustery winds whip from the northwest, waves dance upon the surface of Lake Michigan, hinting at the unsettled weather ahead. Looking out toward the water, the sky is cloaked in a thick blanket of clouds, lending a muted tone to the landscape. This afternoon, expect isolated rain showers between 3 and 4 PM, with patchy drizzle lingering shortly thereafter. The high might reach just above 50 degrees before dipping again, while a gentle northwesterly breeze adds to the overall briskness.\n\nAs twilight approaches, isolated showers may scatter before nightfall, giving way to mostly cloudy skies and a low settling in the mid 40s. With precipitation chances low and the day featuring a combination of gray clouds and fleeting moisture, the atmosphere feels somewhat uninviting. For those who dare venture outside, a light jacket and perhaps an umbrella might be wise, especially if you plan on sojourning along the beach or enjoying one of Evanston\u2019s parks. Given the seasonality, this weather is typical for early November in the Midwest, so warm attire is recommended. Outdoor activities may be limited, but a cozy stroll along the lakefront or a visit to a nearby caf\u00e9 could provide an enjoyable respite from the elements.",
-    "color_code": "#A0B6C0",
-    "timestamp": "2024-11-06 14:06:09"
+    "weather_report": "Current weather conditions in Evanston reveal a cool and somewhat damp atmosphere, with temperatures lingering in the low 50s. The air feels quite humid, and the blustery winds are stirring up the waters of Lake Michigan, suggesting a lively day along the shore. As clouds blanket the sky, the chance of isolated rain showers this afternoon keeps the atmosphere feeling unsettled, with patchy drizzle expected later. The forecast indicates that temperatures will begin to drop slightly, highlighting a typical early November chill in this area.\n\nVisitors to the beach today should prepare for a brisk day; with a high near the mid-50s, layered attire would be advisable, combining a warm jacket with lighter layers underneath to accommodate the cool breeze. As the day progresses towards evening, temperatures are projected to dip into the mid-40s, so additional warmth will certainly be appreciated. Given the conditions, engaging in a quiet stroll along the shore may be pleasant, while the blustering winds keep the atmosphere invigorating. However, it's wise to stay alert for occasional rain, which might deter extended outdoor activities. Today\u2019s weather marks a quintessential autumn day in the Midwest, with all its changing elements and a reminder of the approaching winter.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-11-06 15:04:47"
 }
