@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-06T05:00:00-06:00",
-                "endTime": "2024-11-06T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 50, with temperatures rising to around 54 overnight. West wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2024-11-06T06:00:00-06:00",
                 "endTime": "2024-11-06T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy. High near 55, with temperatures falling to around 53 in the afternoon. Northwest wind 5 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-06T18:00:00-06:00",
+                "endTime": "2024-11-07T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 45. North wind around 5 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the early morning presents a cool and damp atmosphere, with temperatures hovering in the low 50s and a humidity level that gives a somewhat muggy feel. The wind is brisk, blowing in from the west at a pace that may catch you off guard, lending a touch of chill to the air. Skies are mostly cloudy, contributing to a muted landscape that invites a reflective mood but lacks the vibrancy of a clearer day. As we look to the hours ahead, the forecast suggests a continuation of this cloudy disposition, with temperatures expected to settle in the mid 50s by afternoon.\n\nThe water, stirred by the gusty winds, may result in moderate wave conditions, making it less than ideal for leisurely activities on the beach. For those venturing outdoors, layering is recommended\u2014a light jacket or sweater should suffice against the brisk breeze, especially as temperatures are gradual in their rise overnight. Seasonal averages for November typically see highs near the mid to upper 50s, so today\u2019s weather remains within the realm of typical autumn conditions for this region. Though not perfectly delightful, the cool air provides a refreshing backdrop for a stroll along the shore or perhaps visiting one of Evanston's cozy coffee shops to relish a warm beverage while watching the world go by.",
-    "color_code": "#3B3D5D",
-    "timestamp": "2024-11-06 05:04:50"
+    "weather_report": "In the serene early morning of Evanston, the temperature hovers in the low 50s, with a dampness in the air creating that unmistakable autumn chill. Winds are brisk, coming from the northwest, adding a bit of a bite to your morning stroll, while the skies are draped in a cloak of gray, indicating mostly cloudy conditions throughout the day. The forecast suggests that afternoon temperatures will drop slightly, reaching around the mid-50s before settling into the evening with a low around the mid-40s. \n\nThe landscape appears tranquil, with no immediate threats of rain, making the start of your day feel pleasantly clear despite the overcast sky. Wave conditions on Lake Michigan look calm but could build as winds pick up throughout the day, ideal for those who might be looking to cast a line or enjoy some time at the shore. For today\u2019s attire, consider dressing in layers\u2014perhaps a light jacket or sweater to keep warm against the chill, especially if you're venturing off to explore the beach or local parks. As we find ourselves in early November, these temperatures are typical for the season, reminding us that winter is just around the corner. Enjoying a peaceful walk on the beach or a leisurely visit to nearby cafes might be the perfect way to embrace this crisp autumn day.",
+    "color_code": "#8B9DC3",
+    "timestamp": "2024-11-06 06:08:29"
 }
