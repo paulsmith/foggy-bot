@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-06T15:51:00+00:00",
+            "timestamp": "2024-11-06T16:51:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
             "humidity": 73.709316572126,
             "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 290,
+            "wind_direction": 320,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-06T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-06T12:00:00-06:00",
                 "endTime": "2024-11-06T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -31,8 +31,8 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers?size=medium",
-                "shortForecast": "Mostly Cloudy then Isolated Rain Showers",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers?size=medium",
+                "shortForecast": "Isolated Rain Showers",
                 "detailedForecast": "Isolated rain showers after 4pm. Mostly cloudy, with a high near 53. North northwest wind 5 to 10 mph."
             },
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston this morning, the atmosphere is characterized by a damp and breezy chill, with temperatures lounging in the low 50s. The air carries a heavy humidity, making it feel a bit more raw as clouds dominate the skyline. Gusty winds from the northwest add a sharp edge to outdoor activities. As we glide into the afternoon, expect isolated rain showers to sweep in post-4 PM, with skies remaining mostly overcast. Tonight, a brief reprieve from the rain is anticipated, but the cloud cover will keep temperatures edging down toward the mid 40s. \n\nWave conditions along Lake Michigan are likely to be modest, perhaps inviting a stroll along the shoreline, but boaters should remain cautious due to the wind. Given the environmental cues, a cozy jacket is advisable, accompanied by waterproof footwear and perhaps an umbrella handy for the evening's light showers. This November day falls within typical seasonal temperatures for the region, reflecting the onset of late autumn, where cooler, unpredictable weather holds sway. While outdoor activities may be limited by the looming rain, a visit to a local caf\u00e9 or library could provide a delightful escape amid the chill.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2024-11-06 11:04:51"
+    "weather_report": "Evanston is currently enveloped in cloudy skies, with temperatures hovering in the low 50s, making for a damp and somewhat chilly ambiance. The brisk north-northwest winds are stirring up the atmosphere, with a noticeable breeze that adds a bite to the air. There\u2019s a hint of impending rain, as isolated showers are expected to drift in later this afternoon, particularly after 4 PM. Tonight, the clouds will linger, and more light rain could sweep through before the evening settles in.\n\nIn terms of enjoyment, the beach may appear inviting but the cool, moist air and potential precipitation lend a rather dreary feel to the day. Wave conditions may be moderate due to the blustery winds, but they are not likely to be tumultuous. As for attire, layering is essential today; a light jacket or fleece is recommended to stave off the chill, paired with waterproof shoes should you venture out to enjoy the beach or park. With the season firmly situated in late fall, these temperatures are typical for this time of year. While indoor activities might be preferable, a brisk walk could be quite refreshing if one welcomes the crisp autumn air\u2014just keep an umbrella handy.",
+    "color_code": null,
+    "timestamp": "2024-11-06 12:06:35"
 }
