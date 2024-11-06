@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-06T03:03:00+00:00",
-            "temperature_f": 62.059999999999995,
-            "temperature_c": 16.7,
-            "humidity": 89.704428240961,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 220,
+            "timestamp": "2024-11-06T04:19:00+00:00",
+            "temperature_f": 60.980000000000004,
+            "temperature_c": 16.1,
+            "humidity": 93.195965844652,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 230,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-05T21:00:00-06:00",
+                "startTime": "2024-11-05T23:00:00-06:00",
                 "endTime": "2024-11-06T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 50, with temperatures rising to around 53 overnight. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Mostly cloudy. Low around 50, with temperatures rising to around 53 overnight. West southwest wind 5 to 10 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, the weather offers a humid, mostly cloudy atmosphere with a temperature hovering in the low 60s, hinting at a balmy night ahead. The winds are gusty, likely creating a lively lakefront with some choppy waves, perfect for observers yet not ideal for calm pursuits. Tonight\u2019s forecast suggests a gradual cooling down to the low 50s, complemented by a gentle west-southwest breeze and the chance of light rainfall\u2014a reminder that autumn's dance with winter is upon us.\n\nAs we look to the day ahead, expect partly sunny conditions, with the high reaching into the mid-50s, accompanied by a moderating northwest wind. This fall day promises to feel typical for the season, inviting residents to dress in layers with light jackets to navigate the cooler temps. Given the weather's character, leisurely strolls along the beach or a warm drink at a local caf\u00e9 could provide a delightful escape after dinner. Although today isn\u2019t a holiday, it\u2019s a time for reflection and comfort as we embrace the changing seasons.",
-    "color_code": "#4b6e9e",
-    "timestamp": "2024-11-05 22:06:26"
+    "weather_report": "Current conditions in Evanston reveal a damp and breezy atmosphere with temperatures hovering in the low 60s and a wind from the southwest that adds a noticeable chill. As the night unfolds, expect mostly cloudy skies with a low settling around the mid-50s, making for a rather overcast evening. Tomorrow brings a shift to partly sunny conditions, albeit cool, with a high near the mid-50s and a gentle northwesterly breeze that should enhance any outdoor experiences.\n\nWhile the beach may appear serene, the wave conditions could be influenced by the evening\u2019s bluster, potentially causing some rolling surf, particularly with the ongoing winds. Any precipitation anticipated is minor, with only a light drizzle feasible overnight. Step outside with a jacket and perhaps a light scarf to guard against the humidity and cooler air, particularly as temperatures will feel more brisk. In this transitional season in the Midwest, where autumn begins to wrestle with winter, these temperatures are typical but signal that winter is approaching. A peaceful stroll along the lakefront or a visit to a cozy caf\u00e9 would be ideal activities for this crisp evening, allowing one to enjoy the sights and sounds of the approaching holiday season while wrapped in warmth.",
+    "color_code": "#6B8E23",
+    "timestamp": "2024-11-05 23:05:19"
 }
