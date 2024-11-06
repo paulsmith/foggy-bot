@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-06T13:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 74.11362974689,
-            "wind_speed_mph": 33.01812,
+            "timestamp": "2024-11-06T15:51:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 73.709316572126,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 290,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-06T10:00:00-06:00",
+                "startTime": "2024-11-06T11:00:00-06:00",
                 "endTime": "2024-11-06T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "NW",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers?size=medium",
                 "shortForecast": "Mostly Cloudy then Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers after 4pm. Mostly cloudy, with a high near 53. Northwest wind 5 to 10 mph."
+                "detailedForecast": "Isolated rain showers after 4pm. Mostly cloudy, with a high near 53. North northwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the air carries a brisk chill, with temperatures settling in the low 50s. A damp atmosphere envelops the area, complemented by a blustery wind sweeping in from the northwest. Today is shrouded in a cloudy haze, creating a rather gray ambiance, while isolated rain showers are expected to drift in after 4 PM, with the likelihood of brief periods of drizzle lingering into the evening. As the clouds loom overhead, the lake presents a steady, unbroken surface\u2014waves remain relatively calm, suitable for quiet contemplation rather than rowdy recreation.\n\nAs daylight fades tonight, temperatures will dip further, settling around the mid 40s. Given the seasonal shift, attire should embrace layers; a light jacket paired with something warm underneath will provide comfort against the encroaching chill. The presence of rain in the forecast suggests you may want to carry an umbrella. While the clouds may dim the appeal of a leisurely stroll on the beach, the setting still offers a unique charm, making it a decent time for reflective walks or cozy reading sessions by the window\u2014a fine way to enjoy a typical November day in the Midwest.",
-    "color_code": "#A0B3C7",
-    "timestamp": "2024-11-06 10:06:11"
+    "weather_report": "In Evanston this morning, the atmosphere is characterized by a damp and breezy chill, with temperatures lounging in the low 50s. The air carries a heavy humidity, making it feel a bit more raw as clouds dominate the skyline. Gusty winds from the northwest add a sharp edge to outdoor activities. As we glide into the afternoon, expect isolated rain showers to sweep in post-4 PM, with skies remaining mostly overcast. Tonight, a brief reprieve from the rain is anticipated, but the cloud cover will keep temperatures edging down toward the mid 40s. \n\nWave conditions along Lake Michigan are likely to be modest, perhaps inviting a stroll along the shoreline, but boaters should remain cautious due to the wind. Given the environmental cues, a cozy jacket is advisable, accompanied by waterproof footwear and perhaps an umbrella handy for the evening's light showers. This November day falls within typical seasonal temperatures for the region, reflecting the onset of late autumn, where cooler, unpredictable weather holds sway. While outdoor activities may be limited by the looming rain, a visit to a local caf\u00e9 or library could provide a delightful escape amid the chill.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2024-11-06 11:04:51"
 }
