@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-06T09:51:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 85.795186713907,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 250,
+            "timestamp": "2024-11-06T11:38:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 82.880385175758,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 300,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-06T06:00:00-06:00",
+                "startTime": "2024-11-06T07:00:00-06:00",
                 "endTime": "2024-11-06T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In the serene early morning of Evanston, the temperature hovers in the low 50s, with a dampness in the air creating that unmistakable autumn chill. Winds are brisk, coming from the northwest, adding a bit of a bite to your morning stroll, while the skies are draped in a cloak of gray, indicating mostly cloudy conditions throughout the day. The forecast suggests that afternoon temperatures will drop slightly, reaching around the mid-50s before settling into the evening with a low around the mid-40s. \n\nThe landscape appears tranquil, with no immediate threats of rain, making the start of your day feel pleasantly clear despite the overcast sky. Wave conditions on Lake Michigan look calm but could build as winds pick up throughout the day, ideal for those who might be looking to cast a line or enjoy some time at the shore. For today\u2019s attire, consider dressing in layers\u2014perhaps a light jacket or sweater to keep warm against the chill, especially if you're venturing off to explore the beach or local parks. As we find ourselves in early November, these temperatures are typical for the season, reminding us that winter is just around the corner. Enjoying a peaceful walk on the beach or a leisurely visit to nearby cafes might be the perfect way to embrace this crisp autumn day.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2024-11-06 06:08:29"
+    "weather_report": "This morning in Evanston, we find ourselves under mostly cloudy skies with a rather balmy chill in the air, hovering in the low 50s. The humidity gives it a damp feel, and a fierce breeze sweeps in from the northwest, creating a distinctly brisk atmosphere along the lakeshore. As we look east towards Lake Michigan, the scene is calm yet somber; no precipitation graces the area at present, but the overcast sky suggests a continuation of this gray blanket throughout the day.\n\nToday's forecast indicates that the temperature will peak near the mid-50s before gently descending into the low 40s as night approaches. While the wind will ease to a gentle whisper later, the overall ambiance may come off as a bit dreary. The absence of significant wave action at this hour suggests a more tranquil experience for those near the water, though the forecasted gentle winds could stir the surface. It's a day best suited for layers\u2014comfortable yet warm attire is recommended to combat both the briskness and the moist air. Given that it\u2019s early November, these temperatures are within the seasonal norm, yet the cloud cover can leave one longing for brighter days. A stroll along the beach or a visit to nearby parks might be refreshing, perfect for those seeking to embrace the autumn scenery while bundled up and enjoying the attempt to breathe in the fresh, crisp air.",
+    "color_code": "#8DAA8D",
+    "timestamp": "2024-11-06 07:09:07"
 }
