@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-05T21:14:00+00:00",
-            "temperature_f": 64.94,
-            "temperature_c": 18.3,
-            "humidity": 93.306363604193,
+            "timestamp": "2024-11-05T23:26:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 93.251499106659,
             "wind_speed_mph": 62.00964,
-            "wind_direction": 190,
-            "description": "Rain and Fog/Mist"
+            "wind_direction": 230,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-05T16:00:00-06:00",
-                "endTime": "2024-11-05T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,80?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy. High near 66, with temperatures falling to around 64 in the afternoon. South southwest wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-05T18:00:00-06:00",
                 "endTime": "2024-11-06T06:00:00-06:00",
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 60
                 },
                 "windSpeed": "10 to 20 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/bkn?size=medium",
-                "shortForecast": "Scattered Rain Showers then Mostly Cloudy",
-                "detailedForecast": "Scattered rain showers before 9pm. Mostly cloudy. Low around 50, with temperatures rising to around 53 overnight. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/bkn?size=medium",
+                "shortForecast": "Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A chance of rain showers before 9pm. Mostly cloudy. Low around 50, with temperatures rising to around 53 overnight. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2024-11-06T06:00:00-06:00",
+                "endTime": "2024-11-06T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 54. Northwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the weather is currently marked by a thick shroud of clouds and persistent rain, giving the day a damp and dreary feel. The temperature hovers in the mid 60s, with high humidity creating a muggy atmosphere. Blustery winds from the south southwest buffet the area, reaching near gale force, making it feel a touch chillier as the rain continues to fall. As we look forward to the afternoon, expect a continuation of rain showers with little respite in terms of visibility or comfort, as temperatures are predicted to drop slightly. By tonight, scattered showers will linger into the evening before tapering off, giving way to mostly cloudy skies and cooler temperatures dropping into the low 50s.\n\nAs we observe the waves lapping against the shore of Lake Michigan, one can expect them to be moderately choppy due to the gusty winds, which might deter any thoughts of enjoying the beach. Given the conditions, it\u2019s advisable to dress in layers, opting for waterproof outerwear, and solid footwear if venturing outdoors. The season reflects typical November weather for the Midwest, with the current temperatures aligning closely with what one might expect for this time of year. Interestingly, while the weather isn't conducive for outdoor activities typically enjoyed along the beach, it does provide a cozy backdrop for indoor pursuits like visiting cafes or museums. The day is also notable as it falls just after the recent observance of a major holiday, making it a quiet time to reflect and regroup as we transition into winter.",
-    "color_code": "#7E7B7A",
-    "timestamp": "2024-11-05 16:04:54"
+    "weather_report": "Current conditions in Evanston, Illinois reveal a damp and foggy atmosphere, as light rain falls and visibility is compromised. The temperature resides in the low 60s, creating a muggy feeling in the air alongside a fierce wind that stirs up the surface of Lake Michigan. As night approaches, the forecast suggests a shift toward more manageable weather with a chance of rain showers tapering off. Clouds will dominate the evening sky, with temperatures settling into the low 50s and a blustery wind gusting at times.\n\nGiven the season, these temperatures are typical for early November, signaling the steady onset of crisp autumn weather. Nonetheless, the wet conditions make for an unpleasant outdoor appearance, especially along the beach where the rain-laden surroundings blur the familiar sights. Wave conditions may be choppy due to the gusts, so water activities should be approached with caution. For those venturing outside, layering up is advisable \u2013 a warm jacket, perhaps a waterproof layer, would suffice as evening sets in. While the weather may not encourage leisurely strolls by the lake tonight, visiting a local caf\u00e9 or enjoying indoor activities with friends would be more fitting, helping to pass the evening until warmer, sunnier days return.",
+    "color_code": "#4D5B6E",
+    "timestamp": "2024-11-05 18:20:46"
 }
