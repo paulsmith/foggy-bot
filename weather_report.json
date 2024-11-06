@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-06T09:00:00-06:00",
+                "startTime": "2024-11-06T10:00:00-06:00",
                 "endTime": "2024-11-06T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 55,
+                "temperature": 53,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 55, with temperatures falling to around 53 in the afternoon. Northwest wind 5 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers?size=medium",
+                "shortForecast": "Mostly Cloudy then Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers after 4pm. Mostly cloudy, with a high near 53. Northwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 45. North wind around 5 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers/bkn?size=medium",
+                "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
+                "detailedForecast": "Isolated rain showers before 9pm. Mostly cloudy, with a low around 45. North wind around 5 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a cool, humid morning, where the temperature hovers in the low 50s, enveloped by a blanket of clouds that cast a muted light over the landscape. The winds are brisk, blowing from the northwest at a lively pace, creating an invigorating atmosphere along the beach. Throughout the day, expect mostly cloudy skies to persist, with the high nearing the mid 50s before settling back into the low 40s tonight. The wave conditions along Lake Michigan may be stirred by this wind, offering a spirited dance on the water, though no precipitation is anticipated, allowing for a clear view of the lake\u2019s serene yet dynamic surface.\n\nDressing in layers will be advisable, as the day starts with a distinct chill and a gentle breeze, transforming into a more comfortable yet cool afternoon. The temperature and conditions are quite typical for November in the Midwest, where the allure of the lake remains even as the season shifts. For those looking to embrace the elements, a brisk walk along the shore or through local parks will be refreshing, while indoor activities like visiting cafes or local shops offer warmth and comfort as the evening draws near. With November now upon us, there\u2019s a sense of quiet anticipation for the upcoming festive season, making today an excellent opportunity to enjoy Evanston\u2019s charm before the chill of winter fully takes hold.",
-    "color_code": "#A4B7C8",
-    "timestamp": "2024-11-06 09:05:15"
+    "weather_report": "In Evanston, the air carries a brisk chill, with temperatures settling in the low 50s. A damp atmosphere envelops the area, complemented by a blustery wind sweeping in from the northwest. Today is shrouded in a cloudy haze, creating a rather gray ambiance, while isolated rain showers are expected to drift in after 4 PM, with the likelihood of brief periods of drizzle lingering into the evening. As the clouds loom overhead, the lake presents a steady, unbroken surface\u2014waves remain relatively calm, suitable for quiet contemplation rather than rowdy recreation.\n\nAs daylight fades tonight, temperatures will dip further, settling around the mid 40s. Given the seasonal shift, attire should embrace layers; a light jacket paired with something warm underneath will provide comfort against the encroaching chill. The presence of rain in the forecast suggests you may want to carry an umbrella. While the clouds may dim the appeal of a leisurely stroll on the beach, the setting still offers a unique charm, making it a decent time for reflective walks or cozy reading sessions by the window\u2014a fine way to enjoy a typical November day in the Midwest.",
+    "color_code": "#A0B3C7",
+    "timestamp": "2024-11-06 10:06:11"
 }
