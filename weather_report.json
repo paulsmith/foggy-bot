@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T05:51:00+00:00",
+            "timestamp": "2024-11-07T06:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
-            "humidity": 74.00710179304,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 350,
+            "humidity": 70.971964459347,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 330,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-07T00:00:00-06:00",
+                "startTime": "2024-11-07T02:00:00-06:00",
                 "endTime": "2024-11-07T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 45,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 45. North northwest wind 5 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 46. North northwest wind around 5 mph, with gusts as high as 10 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-07T06:00:00-06:00",
                 "endTime": "2024-11-07T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 57,
+                "temperature": 58,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 54 in the afternoon. West northwest wind around 5 mph."
+                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 55 in the afternoon. West northwest wind around 5 mph."
             }
         ]
     },
-    "weather_report": "As the night settles in Evanston, current conditions reveal a chilly, damp atmosphere with temperatures hovering in the low 50s, accompanied by a stiff, gusty wind from the north-northwest that cuts through the air. The sky is cloaked in clouds, creating an overall gloomy appearance, while the waves of Lake Michigan crash restlessly, painting a picture of late-autumn turbulence. With no precipitation in sight tonight, the forecast suggests the clouds will begin to thin, ultimately leading to a much brighter and clearer day tomorrow with highs reaching the mid-50s.\n\nTomorrow promises to bring a shift to the weather, as mostly sunny skies are expected, though temperatures will start to fall in the afternoon. Given the brisk winds, anyone venturing outside should dress warmly, perhaps with a sweater and windbreaker to combat the cool air and gusty conditions. While this November night may feel more reminiscent of winter than typical fall days, tomorrow\u2019s improving weather offers a chance to embrace the outdoors, making it suitable for a brisk walk along the lakefront or a leisurely outing in a local park. As this is not a holiday, it\u2019s a nice opportunity to savor the seasonal transition in the heart of the Midwest, where beauty can still be found even as nature prepares for winter's arrival.",
-    "color_code": "#4F4F4F",
-    "timestamp": "2024-11-07 01:05:21"
+    "weather_report": "As the clock strikes two in the morning in Evanston, the conditions along the Lake Michigan shoreline bear a chilly and humid character. The temperature hovers in the upper 40s, with a brisk wind from the north-northwest adding a bite to the air. The skies are shrouded in clouds, creating an atmosphere that feels damp and slightly eerie under the dim glow of distant lights. While there is no immediate threat of precipitation, the current conditions give the impression of a lingering dampness that may unsettle those out and about.\n\nAs dawn breaks, Thursday promises to unveil a transition to a mostly sunny day. The forecast suggests a rise in temperatures, peaking in the upper 50s, before slowly retreating back toward the mid-50s as the afternoon unfolds. The gentle breeze should provide a refreshing feel as the clouds begin to clear, giving way to brighter skies. Given the hazy night preceding it, the appearance of the day will likely turn pleasant, inviting folks to engage with the outdoors\u2014be it a stroll along the beach, a leisurely bike ride, or simply basking in the waning glow of autumn. Dress in layers, perhaps a light jacket to manage the morning chill, but expect a more comfortable experience as the day progresses, suitable for enjoying seasonal activities along the lake.",
+    "color_code": "#4B8BBE",
+    "timestamp": "2024-11-07 02:06:43"
 }
