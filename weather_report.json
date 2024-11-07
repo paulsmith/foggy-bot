@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T16:51:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 58.793154717635,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 310,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-11-07T17:51:00+00:00",
+            "temperature_f": 53.96,
+            "temperature_c": 12.2,
+            "humidity": 56.888025431897,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 250,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-07T12:00:00-06:00",
+                "startTime": "2024-11-07T13:00:00-06:00",
                 "endTime": "2024-11-07T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Today in Evanston, the temperature sits in the low 50s, accompanied by a crisp and refreshing humidity that enhances the sensation of autumn in the air. A brisk wind is stirring from the northwest, creating a gentle dance upon Lake Michigan's surface. The sky is mostly clear, allowing the sun to break through the clouds, promising a sunny afternoon that will bring temperatures to near the upper 50s before they settle back into the low 40s overnight. With such clarity, it appears the day will remain precipitation-free, making it a pleasant outing as the season transitions toward the chill of winter.\n\nGiven these inviting conditions, it\u2019s wise to dress in layers\u2014perhaps a light jacket to fend off the morning chill and a cozy sweater for the potential drop in temperature later. The lake's waves, moderately stirred yet manageable, suggest ideal conditions for a serene stroll along the beach or a brief visit to one of the nearby parks. There's no major holiday today, but it\u2019s a fine day for some outdoor activity, whether it's a leisurely walk by the water or a chance to enjoy nature's beauty amidst the changing leaves.",
-    "color_code": "#6DB6E4",
-    "timestamp": "2024-11-07 12:06:18"
+    "weather_report": "In Evanston, Illinois, current conditions are marked by a gentle coolness, with temperatures nestled in the mid-50s and a comfortably crisp atmosphere. The humidity adds a slight chill to the air, making it feel fresh and invigorating. As we look to the afternoon, expect sunny skies prevailing, with temperatures gently easing toward the low 50s. Mostly clear conditions are set to continue into the evening, with a pleasant drop to the low 40s, complemented by light winds from the west\u2014ideal for enjoying the beauty of the season.\n\nThe beach today presents a serene view, with calm waters and subtle waves\u2014a gentle reminder that while the warmth of summer fades, the charm of autumn in Chicago remains ever appealing. For those venturing out, a light jacket or sweater would be wise as the temperature dips later on. Amidst this pleasant setting, it's a wonderful opportunity for outdoor activities like a leisurely walk along the shoreline, a brief visit to the park, or simply soaking in the seasonal beauty. With no precipitation in sight, it's a perfect day to embrace the tranquility that Evanston has to offer, particularly for those seeking solace by the lake.",
+    "color_code": "#A3C1E0",
+    "timestamp": "2024-11-07 13:04:51"
 }
