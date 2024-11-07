@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-06T22:51:00+00:00",
+            "timestamp": "2024-11-07T00:51:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
-            "humidity": 73.709316572126,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 310,
+            "humidity": 79.496094610696,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 340,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-06T19:00:00-06:00",
+                "startTime": "2024-11-06T20:00:00-06:00",
                 "endTime": "2024-11-07T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 45,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers/bkn?size=medium",
-                "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
-                "detailedForecast": "Isolated rain showers before 8pm. Mostly cloudy, with a low around 45. North northwest wind around 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 45. North northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the evening settles over Evanston, the current conditions at the beach paint a chilly and damp picture with a temperature nestled in the low 50s. The air feels quite humid, and a brisk northwest wind is stirring, adding a fresh chill to the atmosphere. The overcast sky casts a dull light across the lake, hinting at the isolated rain showers forecasted to linger until early evening. Tonight, we can expect the clouds to remain, dropping to the mid 40s as the wind eases slightly, providing relief but still maintaining a cool edge.\n\nTomorrow, residents can look forward to a mostly sunny day with temperatures reaching into the upper 50s, providing a warm contrast to the cooler nights. This transition into clearer skies will be refreshing after the recent dampness. As we consider the conditions, the waves will likely be moderate, suitable for a quiet evening stroll on the beach, though water activities may be less inviting due to the ongoing coolness and wind.  A light jacket would be advisable for those venturing out this evening, particularly as the weather dips into those colder nighttime temperatures. Overall, this chill is typical for early November in this region, urging residents to cozy up as winter approaches. Whether enjoying the calmness of the lakefront or preparing for tomorrow's sunnier skies, Evanston possesses a charm unique to the fall season.",
-    "color_code": "#4f8cbb",
-    "timestamp": "2024-11-06 19:32:17"
+    "weather_report": "As night settles in Evanston, the temperature is currently in the low 50s, accompanied by a damp, chilly air that speaks of the encroaching autumn. The sky is overcast, casting a muted glow over the scene, while a gentle breeze whispers from the north-northwest at about 10 mph. Tonight's forecast predicts mostly cloudy conditions, with temperatures dipping to a brisk low in the mid-40s, inviting residents to wrap up warmly.\n\nTomorrow, the sun will make an appearance, bringing a mix of sun and clouds with a high near the upper 50s. As the day progresses, temperatures will gradually fall to around the mid-50s, paired with a light wind from the west-northwest, making it feel more comfortable. Despite the lack of precipitation and the clearing skies expected, the early evening's fading light will give way to a tranquil nighttime, perfect for cozy indoor activities or perhaps a quiet stroll along the beach, where the waves are mild and inviting. Given the temperature and time of year, a warm jacket and perhaps a cozy scarf are recommended to stave off the chill. While it may not be a festive occasion, the peaceful ambiance encourages a reflective evening in this serene lakeside community.",
+    "color_code": "#1f3a61",
+    "timestamp": "2024-11-06 20:26:22"
 }
