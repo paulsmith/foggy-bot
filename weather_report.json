@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T13:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 70.874364547581,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 340,
-            "description": "Mostly Clear"
+            "timestamp": "2024-11-07T14:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 65.824827442761,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 320,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-07T09:00:00-06:00",
+                "startTime": "2024-11-07T10:00:00-06:00",
                 "endTime": "2024-11-07T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 58,
+                "temperature": 57,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 55 in the afternoon. West northwest wind around 5 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 57, with temperatures falling to around 54 in the afternoon. West northwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current atmosphere is cool with a gentle chill lingering in the air, where temperatures hover in the upper 40s, complemented by a comfortably humid feel. The skies above are mostly clear, allowing for bright sunlight to illuminate the landscape, while a steady, brisk breeze from the northwest adds a refreshing touch. As the day unfolds, expect mostly sunny conditions with temperatures warming to the upper 50s before tapering off in the afternoon. No precipitation is on the horizon, providing a pleasant canvas for outdoor enjoyment.\n\nWith the season transitioning into late autumn, the current temperatures are fairly typical for this time, inviting a wardrobe of layers\u2014think a light jacket or sweater for comfort against the cool breeze. Today\u2019s weather offers a perfect backdrop for a stroll along the beach or a scenic walk through one of Evanston\u2019s picturesque parks. Such conditions are excellent for enjoying local sights or perhaps gathering with friends for a leisurely outdoor activity, making the most of this splendid fall day before the chill of winter sets in.",
-    "color_code": "#A4B6D7",
-    "timestamp": "2024-11-07 09:05:01"
+    "weather_report": "Current conditions in Evanston reflect a crisp, partly cloudy morning with a gentle breeze drifting in from the northwest. The temperature sits comfortably in the low 50s, with humidity lending a refreshing quality to the air. For today, sunshine is set to dominate, with temperatures peaking in the upper 50s before gradually settling into the mid-50s by the afternoon. Tonight, expect mostly clear skies with the temperature easing down to the low 40s, allowing for a peaceful evening.\n\nThe lakefront view is likely picturesque, with gentle waves rolling in, making for a pleasant scene along Lake Michigan. With no precipitation expected, those seeking outdoor activities will find ideal conditions for a stroll along the beach or a leisurely bike ride. Dress in layers to stay comfortable throughout the day, opting for a light jacket and perhaps a cozy sweater to prepare for the evening chill. Given that it\u2019s early November, these temperatures are typical for this time of year, bringing with it that classic autumn feel that invites exploration of the surrounding parks and paths.",
+    "color_code": "#6BBEDE",
+    "timestamp": "2024-11-07 10:06:14"
 }
