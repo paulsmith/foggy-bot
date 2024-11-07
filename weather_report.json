@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T05:16:00+00:00",
+            "timestamp": "2024-11-07T05:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
             "humidity": 74.00710179304,
-            "wind_speed_mph": 37.04472,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 350,
             "description": "Cloudy"
         },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a chilly, somewhat gloomy picture with temperatures hovering in the upper 40s. The air is quite humid, contributing to a feeling of dampness, and the wind is howling from the north-northwest, adding a brisk bite to the evening air. The cloudy skies blanket the horizon, giving the lake a muted appearance, devoid of any vivid colors, making for a rather somber beach view.\n\nLooking ahead to the day, we can expect a transition to mostly sunny conditions by Thursday, with temperatures reaching around the mid to upper 50s. The wind will ease, becoming a gentle breeze that will feel refreshing as the day progresses. Currently, there is no immediate precipitation to worry about, but as the day develops, the clearer skies should encourage people to venture outdoors, perhaps for a brisk walk along the lake or a leisurely afternoon picnic. Given the cool, crisp air typical for this time of year in the Midwest, layering up with a light jacket, a sweater, and perhaps a scarf would be advisable. The current weather is within the expected range for early November in this region, allowing for comfortable yet seasonable outings as we transition further into autumn.",
-    "color_code": "#3B3B3B",
-    "timestamp": "2024-11-07 00:06:39"
+    "weather_report": "As the night settles in Evanston, current conditions reveal a chilly, damp atmosphere with temperatures hovering in the low 50s, accompanied by a stiff, gusty wind from the north-northwest that cuts through the air. The sky is cloaked in clouds, creating an overall gloomy appearance, while the waves of Lake Michigan crash restlessly, painting a picture of late-autumn turbulence. With no precipitation in sight tonight, the forecast suggests the clouds will begin to thin, ultimately leading to a much brighter and clearer day tomorrow with highs reaching the mid-50s.\n\nTomorrow promises to bring a shift to the weather, as mostly sunny skies are expected, though temperatures will start to fall in the afternoon. Given the brisk winds, anyone venturing outside should dress warmly, perhaps with a sweater and windbreaker to combat the cool air and gusty conditions. While this November night may feel more reminiscent of winter than typical fall days, tomorrow\u2019s improving weather offers a chance to embrace the outdoors, making it suitable for a brisk walk along the lakefront or a leisurely outing in a local park. As this is not a holiday, it\u2019s a nice opportunity to savor the seasonal transition in the heart of the Midwest, where beauty can still be found even as nature prepares for winter's arrival.",
+    "color_code": "#4F4F4F",
+    "timestamp": "2024-11-07 01:05:21"
 }
