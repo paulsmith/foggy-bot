@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T19:51:00+00:00",
+            "timestamp": "2024-11-07T20:51:00+00:00",
             "temperature_f": 59.0,
             "temperature_c": 15,
-            "humidity": 45.455159263422,
-            "wind_speed_mph": 24.964920000000003,
+            "humidity": 38.862552721019,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 290,
             "description": "Mostly Clear"
         },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current scene unfolds with mostly clear skies and a gentle demeanor, as temperatures reside in the upper 50s. This afternoon, expect a shift to sunnier intervals with a high near the mid-50s, gradually cooling through the day. The northwest breeze whispers across the shoreline, stirring gentle waves as it brushes the surface of Lake Michigan. With no precipitation in sight, tonight will unveil a clear canvas, perfect for stargazing, as temperatures dip into the low 40s.\n\nAs we stride further into November, these temperatures are emblematic of the season, embodying that crispness typical of late fall in this region. Ideal attire might include a light jacket and comfortable walking shoes for those looking to embrace the outdoors. The beach, though quieter this time of year, invites serene strolls along its edges or perhaps a quiet moment of reflection by the water. It\u2019s a picturesque day for a peaceful outing, as the charm of Evanston\u2019s shoreline beckons both local residents and visitors alike.",
-    "color_code": "#ADD6F1",
-    "timestamp": "2024-11-07 15:04:46"
+    "weather_report": "Current conditions in Evanston, Illinois, paint a picturesque late afternoon along the shoreline, with mostly clear skies and a gentle warmth that hints at the onset of early evening. The air feels fresh and slightly brisk, characterized by a cool breeze rustling through the trees along the beach. Temperatures, while currently in the upper 50s, are on the decline, setting the stage for a night that will dip into the low 40s amidst clear skies and a light wind from the west. There's a serene clarity to the day with no precipitation in sight, making it an ideal time to enjoy the picturesque views of Lake Michigan.\n\nAs we move into the evening, expect continued clear conditions, perfect for a quiet stroll along the water or an engaging midweek gathering with friends around a bonfire. Given the season, temperatures are rather typical for November, offering a crisp backdrop for outdoor activities. Dressing in layers is recommended, as temperatures will drop into the night, yet the splendid weather invites activities that embrace the beauty of the changing autumn landscape. Enjoy the tranquility of the beach and consider taking in the sunset if you can, while the waves softly lap at the shore.",
+    "color_code": "#C9B5A5",
+    "timestamp": "2024-11-07 16:04:45"
 }
