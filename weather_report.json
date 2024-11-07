@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T14:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 65.824827442761,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 320,
+            "timestamp": "2024-11-07T16:51:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 58.793154717635,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 310,
             "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-07T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-07T12:00:00-06:00",
                 "endTime": "2024-11-07T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "WNW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 57, with temperatures falling to around 54 in the afternoon. West northwest wind around 5 mph."
+                "detailedForecast": "Sunny. High near 57, with temperatures falling to around 54 in the afternoon. West wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a crisp, partly cloudy morning with a gentle breeze drifting in from the northwest. The temperature sits comfortably in the low 50s, with humidity lending a refreshing quality to the air. For today, sunshine is set to dominate, with temperatures peaking in the upper 50s before gradually settling into the mid-50s by the afternoon. Tonight, expect mostly clear skies with the temperature easing down to the low 40s, allowing for a peaceful evening.\n\nThe lakefront view is likely picturesque, with gentle waves rolling in, making for a pleasant scene along Lake Michigan. With no precipitation expected, those seeking outdoor activities will find ideal conditions for a stroll along the beach or a leisurely bike ride. Dress in layers to stay comfortable throughout the day, opting for a light jacket and perhaps a cozy sweater to prepare for the evening chill. Given that it\u2019s early November, these temperatures are typical for this time of year, bringing with it that classic autumn feel that invites exploration of the surrounding parks and paths.",
-    "color_code": "#6BBEDE",
-    "timestamp": "2024-11-07 10:06:14"
+    "weather_report": "Today in Evanston, the temperature sits in the low 50s, accompanied by a crisp and refreshing humidity that enhances the sensation of autumn in the air. A brisk wind is stirring from the northwest, creating a gentle dance upon Lake Michigan's surface. The sky is mostly clear, allowing the sun to break through the clouds, promising a sunny afternoon that will bring temperatures to near the upper 50s before they settle back into the low 40s overnight. With such clarity, it appears the day will remain precipitation-free, making it a pleasant outing as the season transitions toward the chill of winter.\n\nGiven these inviting conditions, it\u2019s wise to dress in layers\u2014perhaps a light jacket to fend off the morning chill and a cozy sweater for the potential drop in temperature later. The lake's waves, moderately stirred yet manageable, suggest ideal conditions for a serene stroll along the beach or a brief visit to one of the nearby parks. There's no major holiday today, but it\u2019s a fine day for some outdoor activity, whether it's a leisurely walk by the water or a chance to enjoy nature's beauty amidst the changing leaves.",
+    "color_code": "#6DB6E4",
+    "timestamp": "2024-11-07 12:06:18"
 }
