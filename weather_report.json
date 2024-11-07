@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T07:51:00+00:00",
+            "timestamp": "2024-11-07T08:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
             "humidity": 68.527334655366,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 340,
-            "description": "Cloudy"
+            "wind_direction": 360,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-07T03:00:00-06:00",
+                "startTime": "2024-11-07T04:00:00-06:00",
                 "endTime": "2024-11-07T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As of now, Evanston, Illinois experiences cool, humid conditions with the temperature resting in the upper 40s. A gentle breeze from the north-northwest stirs the air, adding a crispness to the otherwise cloudy setting. Throughout the overnight hours, expect similar overcast skies with temperatures dipping slightly to around the mid 40s, an inviting atmosphere for those snug indoors. The coming day promises to be pleasantly bright, transitioning to mostly sunny skies with daytime highs reaching into the upper 50s by the afternoon. \n\nThe overall appearance is somewhat dreary but may brighten with the emerging sun, lifting spirits and showcasing the shifting hues of autumn. Wave conditions along Lake Michigan may be moderately choppy, fueled by the brisk winds, though no significant precipitation is expected. For outdoor ventures, layering up is advisable, as a light jacket will suffice against the coolness that will linger, particularly in the morning. Given the seasonal change, these weather conditions are typical for early November, inviting cozy indoor activities or leisurely strolls along the beach as the sun begins to shine. Take this opportunity to enjoy the crisp air and the natural beauty of the season, whether through a refreshing walk or a moment of reflection by the water.",
-    "color_code": "#4B8BBE",
-    "timestamp": "2024-11-07 03:05:24"
+    "weather_report": "As dawn breaks over Evanston, the air carries a brisk chill typical of early November, with temperatures resting in the low 50s, contributing to a rather damp sensation as humidity lingers in the air. The winds are robust this morning, gusting from the north at a fierce pace, stirring the fallen leaves and creating a distinctive rustle all around. The sky is draped in a thick layer of cloud cover, hinting at a grey day ahead, though the forecast anticipates a transformation as the day progresses. Despite the overcast conditions lingering into the evening, the later hours promise a victory for the sun, as skies are expected to clear, revealing sunny patches by late morning.\n\nWith wave conditions likely to be moderately agitated due to the strong winds, beach-goers should note that the shoreline may not be the calmest spot for leisurely strolls this morning. In light of the chill and wind, those stepping outdoors are advised to don layers: a warm coat complemented with a hat to shield against the brisk breeze. As the sun teases its way back into the scene, late-afternoon outings might prove more comfortable, inviting people to enjoy a brisk walk along the lakefront or perhaps venture into the local parks, while warm beverages offer solace against the lingering cool of this intriguing November day.",
+    "color_code": "#4B6F90",
+    "timestamp": "2024-11-07 04:05:31"
 }
