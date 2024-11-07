@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T17:51:00+00:00",
-            "temperature_f": 53.96,
-            "temperature_c": 12.2,
-            "humidity": 56.888025431897,
+            "timestamp": "2024-11-07T18:51:00+00:00",
+            "temperature_f": 55.94,
+            "temperature_c": 13.3,
+            "humidity": 50.745222459927,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 250,
+            "wind_direction": null,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-07T13:00:00-06:00",
+                "startTime": "2024-11-07T14:00:00-06:00",
                 "endTime": "2024-11-07T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 42. West wind 5 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 42. West wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, current conditions are marked by a gentle coolness, with temperatures nestled in the mid-50s and a comfortably crisp atmosphere. The humidity adds a slight chill to the air, making it feel fresh and invigorating. As we look to the afternoon, expect sunny skies prevailing, with temperatures gently easing toward the low 50s. Mostly clear conditions are set to continue into the evening, with a pleasant drop to the low 40s, complemented by light winds from the west\u2014ideal for enjoying the beauty of the season.\n\nThe beach today presents a serene view, with calm waters and subtle waves\u2014a gentle reminder that while the warmth of summer fades, the charm of autumn in Chicago remains ever appealing. For those venturing out, a light jacket or sweater would be wise as the temperature dips later on. Amidst this pleasant setting, it's a wonderful opportunity for outdoor activities like a leisurely walk along the shoreline, a brief visit to the park, or simply soaking in the seasonal beauty. With no precipitation in sight, it's a perfect day to embrace the tranquility that Evanston has to offer, particularly for those seeking solace by the lake.",
-    "color_code": "#A3C1E0",
-    "timestamp": "2024-11-07 13:04:51"
+    "weather_report": "In Evanston, the weather today presents a delightful scene. Currently, temperatures rest in the mid-50s, accompanied by a refreshing calmness as light winds brush through the area. The air feels pleasantly crisp with just enough humidity to keep it comfortable, all under a canopy of mostly clear skies that invites you to embrace the outdoors. This afternoon, sunnier conditions will prevail with temperatures dipping slightly into the low 50s, maintaining that inviting feel as a gentle breeze comes from the west.\n\nAs for wave conditions along the picturesque Lake Michigan, the waters are likely serene today, making it an ideal time for a leisurely stroll along the beach or perhaps sitting quietly by the shoreline to soak in the views. With no precipitation to worry about, the scene is set for outdoor activities. In terms of attire, consider light layers for comfort during the day and warmer clothing as evening approaches, with conditions expected to cool to the low 40s tonight. Given that we\u2019re in early November, temperatures are fairly typical for this season, marking a lovely autumn day. This afternoon is perfect for enjoying outdoor pursuits, whether it\u2019s a walk along the beach, a casual bike ride, or simply relishing the crisp air in one of the local parks.",
+    "color_code": "#005C8C",
+    "timestamp": "2024-11-07 14:05:48"
 }
