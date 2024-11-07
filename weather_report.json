@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T03:51:00+00:00",
+            "timestamp": "2024-11-07T05:16:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
-            "humidity": 86.141284587185,
-            "wind_speed_mph": 33.01812,
+            "humidity": 74.00710179304,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 350,
-            "description": ""
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-06T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-07T00:00:00-06:00",
                 "endTime": "2024-11-07T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 45,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 45. North northwest wind around 10 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 45. North northwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 54 in the afternoon. West northwest wind 5 to 10 mph."
+                "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 54 in the afternoon. West northwest wind around 5 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois reveal a cool and damp evening, with temperatures nestled in the upper 40s, accompanied by a heavy air that feels rather humid for this time of year. A brisk wind is sweeping in from the north-northwest, creating a somewhat howling atmosphere, particularly near the shoreline of Lake Michigan. The night sky is predominantly overcast, though no precipitation is currently sneaking in to dampen the scene. \n\nAs we look ahead to tomorrow, expect mostly sunny skies, with temperatures climbing into the mid to upper 50s, then gently falling in the afternoon. For those venturing outdoors, a gentle breeze will make for a refreshing day, ideal for layering lightly. Given the season, these temperatures align closely with what one would expect in early November, as the area transitions further into autumn. This would be a suitable day for a leisurely walk along the beach or a visit to the nearby parks, taking in the crisp fall air while watching the waves lap against the shore.",
-    "color_code": "#A0B0C4",
-    "timestamp": "2024-11-06 23:05:29"
+    "weather_report": "Current conditions in Evanston paint a chilly, somewhat gloomy picture with temperatures hovering in the upper 40s. The air is quite humid, contributing to a feeling of dampness, and the wind is howling from the north-northwest, adding a brisk bite to the evening air. The cloudy skies blanket the horizon, giving the lake a muted appearance, devoid of any vivid colors, making for a rather somber beach view.\n\nLooking ahead to the day, we can expect a transition to mostly sunny conditions by Thursday, with temperatures reaching around the mid to upper 50s. The wind will ease, becoming a gentle breeze that will feel refreshing as the day progresses. Currently, there is no immediate precipitation to worry about, but as the day develops, the clearer skies should encourage people to venture outdoors, perhaps for a brisk walk along the lake or a leisurely afternoon picnic. Given the cool, crisp air typical for this time of year in the Midwest, layering up with a light jacket, a sweater, and perhaps a scarf would be advisable. The current weather is within the expected range for early November in this region, allowing for comfortable yet seasonable outings as we transition further into autumn.",
+    "color_code": "#3B3B3B",
+    "timestamp": "2024-11-07 00:06:39"
 }
