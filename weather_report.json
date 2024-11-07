@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-07T05:00:00-06:00",
-                "endTime": "2024-11-07T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 46. North northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2024-11-07T06:00:00-06:00",
                 "endTime": "2024-11-07T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 55 in the afternoon. West northwest wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-07T18:00:00-06:00",
+                "endTime": "2024-11-08T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 42. West wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current scene is marked by a cool, damp night with a temperature in the low 50s, creating an atmosphere that feels both fresh and humid. The wind is gently whispering from the north, a reminder of the autumn chill that lingers as clouds blanket the sky. As dawn approaches, residents can expect a continuation of this cloudy weather overnight, with temperatures dropping slightly to a low near 46, while a light breeze holds steady. \n\nThe forecast for Thursday reveals a promising shift toward clearer skies, as the sun is expected to emerge, pushing afternoon temperatures to the mid to upper 50s. While wave conditions in Lake Michigan may be moderately choppy due to the current wind patterns, the overall outlook for the day is more pleasant, inviting outdoor activities such as crisp walks along the beach or visits to nearby parks. While no precipitation appears imminent for the upcoming hours, it's advisable to don layers\u2014perhaps a light jacket over a sweater\u2014to stay comfortable in the transition between the brisk morning air and the hoped-for afternoon warmth. As the weather aligns with typical seasonal expectations for this time of year in the Midwest, it presents a wonderful opportunity to enjoy the beauty of autumn in Evanston.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-07 05:04:55"
+    "weather_report": "As dawn breaks over Evanston, current conditions reveal a crisp, damp atmosphere with the temperature hovering in the upper 40s. A gentle breeze sweeps through, raising the humidity just enough to keep the air feeling a tad heavy. The day begins under a blanket of clouds, but the forecast promises a transition, with mostly sunny skies rolling in later, peaking near the mid-50s in the afternoon. Tonight, the calm will continue with clarity and a lower temperature settling around the low 40s.\n\nThe appearance of the beach this morning, though somewhat grey and dreary, hints at the potential for a more pleasant afternoon. Wave conditions remain mild, providing a serene backdrop, yet caution is advisable for those venturing into the water. Regarding attire, layering is key; a light jacket would suffice for the morning chill, but as the sun makes its presence known, lighter clothing will be comfortable for the day. As we sit in early November, temperatures are in line with seasonal expectations, and the weather may inspire a variety of outdoor activities. A stroll along the shoreline, some leisure time at the park, or even an outdoor caf\u00e9 visit could be delightful as the sun graces the skies later on.",
+    "color_code": "#A6C4D7",
+    "timestamp": "2024-11-07 06:08:05"
 }
