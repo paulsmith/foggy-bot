@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T18:51:00+00:00",
-            "temperature_f": 55.94,
-            "temperature_c": 13.3,
-            "humidity": 50.745222459927,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": null,
+            "timestamp": "2024-11-07T19:51:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 45.455159263422,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 290,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-07T14:00:00-06:00",
+                "startTime": "2024-11-07T15:00:00-06:00",
                 "endTime": "2024-11-07T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 57, with temperatures falling to around 54 in the afternoon. West wind around 5 mph."
+                "detailedForecast": "Sunny. High near 57, with temperatures falling to around 54 in the afternoon. North northwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the weather today presents a delightful scene. Currently, temperatures rest in the mid-50s, accompanied by a refreshing calmness as light winds brush through the area. The air feels pleasantly crisp with just enough humidity to keep it comfortable, all under a canopy of mostly clear skies that invites you to embrace the outdoors. This afternoon, sunnier conditions will prevail with temperatures dipping slightly into the low 50s, maintaining that inviting feel as a gentle breeze comes from the west.\n\nAs for wave conditions along the picturesque Lake Michigan, the waters are likely serene today, making it an ideal time for a leisurely stroll along the beach or perhaps sitting quietly by the shoreline to soak in the views. With no precipitation to worry about, the scene is set for outdoor activities. In terms of attire, consider light layers for comfort during the day and warmer clothing as evening approaches, with conditions expected to cool to the low 40s tonight. Given that we\u2019re in early November, temperatures are fairly typical for this season, marking a lovely autumn day. This afternoon is perfect for enjoying outdoor pursuits, whether it\u2019s a walk along the beach, a casual bike ride, or simply relishing the crisp air in one of the local parks.",
-    "color_code": "#005C8C",
-    "timestamp": "2024-11-07 14:05:48"
+    "weather_report": "In Evanston, Illinois, the current scene unfolds with mostly clear skies and a gentle demeanor, as temperatures reside in the upper 50s. This afternoon, expect a shift to sunnier intervals with a high near the mid-50s, gradually cooling through the day. The northwest breeze whispers across the shoreline, stirring gentle waves as it brushes the surface of Lake Michigan. With no precipitation in sight, tonight will unveil a clear canvas, perfect for stargazing, as temperatures dip into the low 40s.\n\nAs we stride further into November, these temperatures are emblematic of the season, embodying that crispness typical of late fall in this region. Ideal attire might include a light jacket and comfortable walking shoes for those looking to embrace the outdoors. The beach, though quieter this time of year, invites serene strolls along its edges or perhaps a quiet moment of reflection by the water. It\u2019s a picturesque day for a peaceful outing, as the charm of Evanston\u2019s shoreline beckons both local residents and visitors alike.",
+    "color_code": "#ADD6F1",
+    "timestamp": "2024-11-07 15:04:46"
 }
