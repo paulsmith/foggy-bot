@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T06:51:00+00:00",
+            "timestamp": "2024-11-07T07:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
-            "humidity": 70.971964459347,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 330,
+            "humidity": 68.527334655366,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 340,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-07T02:00:00-06:00",
+                "startTime": "2024-11-07T03:00:00-06:00",
                 "endTime": "2024-11-07T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -33,7 +33,7 @@
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 46. North northwest wind around 5 mph, with gusts as high as 10 mph."
+                "detailedForecast": "Cloudy, with a low around 46. North northwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the clock strikes two in the morning in Evanston, the conditions along the Lake Michigan shoreline bear a chilly and humid character. The temperature hovers in the upper 40s, with a brisk wind from the north-northwest adding a bite to the air. The skies are shrouded in clouds, creating an atmosphere that feels damp and slightly eerie under the dim glow of distant lights. While there is no immediate threat of precipitation, the current conditions give the impression of a lingering dampness that may unsettle those out and about.\n\nAs dawn breaks, Thursday promises to unveil a transition to a mostly sunny day. The forecast suggests a rise in temperatures, peaking in the upper 50s, before slowly retreating back toward the mid-50s as the afternoon unfolds. The gentle breeze should provide a refreshing feel as the clouds begin to clear, giving way to brighter skies. Given the hazy night preceding it, the appearance of the day will likely turn pleasant, inviting folks to engage with the outdoors\u2014be it a stroll along the beach, a leisurely bike ride, or simply basking in the waning glow of autumn. Dress in layers, perhaps a light jacket to manage the morning chill, but expect a more comfortable experience as the day progresses, suitable for enjoying seasonal activities along the lake.",
+    "weather_report": "As of now, Evanston, Illinois experiences cool, humid conditions with the temperature resting in the upper 40s. A gentle breeze from the north-northwest stirs the air, adding a crispness to the otherwise cloudy setting. Throughout the overnight hours, expect similar overcast skies with temperatures dipping slightly to around the mid 40s, an inviting atmosphere for those snug indoors. The coming day promises to be pleasantly bright, transitioning to mostly sunny skies with daytime highs reaching into the upper 50s by the afternoon. \n\nThe overall appearance is somewhat dreary but may brighten with the emerging sun, lifting spirits and showcasing the shifting hues of autumn. Wave conditions along Lake Michigan may be moderately choppy, fueled by the brisk winds, though no significant precipitation is expected. For outdoor ventures, layering up is advisable, as a light jacket will suffice against the coolness that will linger, particularly in the morning. Given the seasonal change, these weather conditions are typical for early November, inviting cozy indoor activities or leisurely strolls along the beach as the sun begins to shine. Take this opportunity to enjoy the crisp air and the natural beauty of the season, whether through a refreshing walk or a moment of reflection by the water.",
     "color_code": "#4B8BBE",
-    "timestamp": "2024-11-07 02:06:43"
+    "timestamp": "2024-11-07 03:05:24"
 }
