@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T20:51:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 38.862552721019,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 290,
+            "timestamp": "2024-11-07T21:51:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": 40.395597497145,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 270,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-07T15:00:00-06:00",
+                "startTime": "2024-11-07T17:00:00-06:00",
                 "endTime": "2024-11-07T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "NNW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 57, with temperatures falling to around 54 in the afternoon. North northwest wind around 5 mph."
+                "detailedForecast": "Sunny. High near 57, with temperatures falling to around 54 in the afternoon. West wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, paint a picturesque late afternoon along the shoreline, with mostly clear skies and a gentle warmth that hints at the onset of early evening. The air feels fresh and slightly brisk, characterized by a cool breeze rustling through the trees along the beach. Temperatures, while currently in the upper 50s, are on the decline, setting the stage for a night that will dip into the low 40s amidst clear skies and a light wind from the west. There's a serene clarity to the day with no precipitation in sight, making it an ideal time to enjoy the picturesque views of Lake Michigan.\n\nAs we move into the evening, expect continued clear conditions, perfect for a quiet stroll along the water or an engaging midweek gathering with friends around a bonfire. Given the season, temperatures are rather typical for November, offering a crisp backdrop for outdoor activities. Dressing in layers is recommended, as temperatures will drop into the night, yet the splendid weather invites activities that embrace the beauty of the changing autumn landscape. Enjoy the tranquility of the beach and consider taking in the sunset if you can, while the waves softly lap at the shore.",
-    "color_code": "#C9B5A5",
-    "timestamp": "2024-11-07 16:04:45"
+    "weather_report": "In Evanston, the current weather features mild temperatures in the upper 50s, accompanied by a dry and mostly clear atmosphere. A gentle breeze dances along the waterfront, enhancing the serene beach scene, while the sun prepares to dip toward the horizon. Today\u2019s forecast indicates clear skies continuing into the evening, with temperatures expected to settle into the low 40s overnight, making for a crisp night ahead. The lake shows gentle wave activity, suitable for contemplative strolls along the shore rather than vigorous swimming, as conditions remain tranquil.\n\nFor attire, this is a day for light layers; a light jacket would serve well against the cool breeze as daylight fades. With November settling in, the weather is characteristic of a typical late autumn day in this region; it carries the promise of seasonal change without the heaviness of winter just yet. For activities, consider enjoying an evening walk along the beach or a visit to a local caf\u00e9 to savor the tranquil beauty of the lakefront at sunset. As tomorrow approaches, prepare for another clear day, perfect for outdoor enjoyment.",
+    "color_code": "#7A9BA8",
+    "timestamp": "2024-11-07 17:05:26"
 }
