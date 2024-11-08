@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T05:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 73.402721805054,
+            "timestamp": "2024-11-08T06:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 79.712411892316,
             "wind_speed_mph": 28.991520000000005,
             "wind_direction": 260,
             "description": "Clear"
@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-08T00:00:00-06:00",
+                "startTime": "2024-11-08T02:00:00-06:00",
                 "endTime": "2024-11-08T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 42,
+                "temperature": 43,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 42. West wind around 10 mph."
+                "detailedForecast": "Clear, with a low around 43. West wind around 10 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-08T06:00:00-06:00",
                 "endTime": "2024-11-08T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 58,
+                "temperature": 60,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 54 in the afternoon. North northwest wind around 10 mph."
+                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 55 in the afternoon. North northwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a cool and crisp atmosphere, with temperatures in the upper 40s. The humidity adds a touch of dampness to the night air, while a gusty breeze whispers from the west, hinting at a chill that coats the shoreline. The nighttime sky is clear, allowing for a crisp view of the stars overhead, creating a serene yet brisk ambiance.\n\nLooking ahead to the day, we can expect sunny skies that promise a high in the upper 50s, with a gentle north-northwest wind encouraging a pleasant autumn feel. As temperatures dip in the afternoon, the soothing sunlight should provide a delightful backdrop for anyone venturing outside. There is no expectation of precipitation, making it a perfect day for those looking to enjoy the beauty of Lake Michigan. However, the brisk wind may lead to some choppy wave conditions, which could appeal to those interested in bracing walks along the beach or even photography enthusiasts looking for the perfect shot of the natural scenery. Given the season, this weather is typical for early November in the Midwest, where crisp air mingles with vibrant autumn light. Dress warmly in layers\u2014 perhaps a cozy sweater and a windbreaker are in order\u2014 as the cool temperatures combined with the wind might make it feel even chillier. Ideal activities today include enjoying a stroll by the lake, soaking in the serene environment, or perhaps visiting one of Evanston\u2019s charming coffee shops to appreciate the seasonal ambiance.",
-    "color_code": "#3b5998",
-    "timestamp": "2024-11-08 01:05:07"
+    "weather_report": "As dawn breaks over Evanston, the current conditions reveal a refreshing chill with a temperature nestled in the mid-40s and an air laden with moisture, giving it a distinctly damp feel. The skies are clear, painting a serene backdrop against the lively, gusty winds blowing from the west, creating a restless whisper over the beach. While the night is still young, it promises to warm slightly as the temperatures dip to about the low 40s, accompanied by a gentle breeze.\n\nLooking ahead to Friday, the forecast brings a welcome shift as the sun takes center stage, pushing temperatures to the high 50s in the early afternoon. The day will transition into a more pleasant experience under clear skies, though be prepared for a slight drop in temperature as afternoon gives way to evening. The lake\u2019s waters will undoubtedly reflect this change, with waves at a manageable level, inviting those adventurous enough to brave the brisk air. There\u2019s no hint of precipitation today, making it an optimal time to venture outdoors. Dress warmly in layers, and perhaps add a jacket for the winds as you explore the beautiful lakeside, perfect for a stroll or a mid-day picnic. As a reminder of the season, these temperatures are typical for early November in this corner of Illinois, ushering in the crisp air that often accompanies the approach of winter. Today may not mark a holiday, but with the clear skies and gentle conditions, it beckons to be spent outdoors, celebrating the beauty of autumn by Lake Michigan.",
+    "color_code": "#1E3A5F",
+    "timestamp": "2024-11-08 02:06:38"
 }
