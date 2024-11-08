@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T19:51:00+00:00",
-            "temperature_f": 60.980000000000004,
-            "temperature_c": 16.1,
-            "humidity": 39.183839375951,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 280,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-11-08T20:51:00+00:00",
+            "temperature_f": 60.08,
+            "temperature_c": 15.6,
+            "humidity": 40.456203083442,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 300,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-08T15:00:00-06:00",
+                "startTime": "2024-11-08T17:00:00-06:00",
                 "endTime": "2024-11-08T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 57 in the afternoon. North wind around 10 mph."
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 61, with temperatures falling to around 57 in the afternoon. North northeast wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a mix of tranquility and briskness. With temperatures hovering in the low 60s, the air is pleasantly crisp, suggesting that the cool breeze blowing in from the west is lending a refreshing touch to the atmosphere. The wind, while fairly gusty, sweeps over the beach, rustling through leaves and sending a gentle flicker across the water's surface, where the lake reflects the partly cloudy sky. Although light cloud cover is present, the overall clarity remains good, promising a delightful afternoon.\n\nLooking ahead to the rest of the day, the forecast indicates that we can expect sunny skies, with temperatures gradually easing down to the high 50s. As night descends, a shift to partly cloudy conditions is projected, with a low settling around the mid-40s, and a consistent east-northeast breeze expected. With no precipitation forecasted, the chances of rain are slim, making this a fine opportunity to enjoy outdoor activities. Light layers would suffice for today\u2019s cooler conditions, inviting visitors to stroll along the lakeshore, partake in a leisurely jog, or simply bask in the fresh air at one of Evanston\u2019s parks. Given the season, temperatures are on par with November norms, making this a picturesque autumn day to savor before winter settles in.",
-    "color_code": "#AEC6D3",
-    "timestamp": "2024-11-08 15:04:49"
+    "weather_report": "As evening falls over Evanston, the current conditions paint a picture of mostly cloudy skies with a gentle breeze stirring the air. The temperature rests comfortably in the low 60s, accompanied by a crisp and refreshing humidity that is quite pleasant for this autumn day. Wind gusts, however, are quite strong, whipping across the shore. The lake reflects a tranquil yet inviting palette, hinting at calm wave conditions that are perfect for a quiet stroll along the beach or a moment of contemplation by the water's edge.\n\nMoving into the evening, expect partly cloudy skies with temperatures dipping to the mid-40s\u2014still mild for November. As the daylight wanes, it\u2019s advisable to dress warmly, perhaps in a light jacket or sweater, especially if you're planning to admire the serene beauty of Lake Michigan after sunset. While precipitation isn\u2019t forecasted, the air remains fresh and invigorating, inviting outdoor activities like walking or simply enjoying the natural vista. Although today's weather is far from typical for a chilly November, it certainly allows for a delightful experience at the beach, making the most of a calm and mild autumn evening.",
+    "color_code": "#A9C9D4",
+    "timestamp": "2024-11-08 17:05:18"
 }
