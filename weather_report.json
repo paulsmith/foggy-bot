@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T00:51:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 58.518037708605,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 220,
+            "timestamp": "2024-11-08T01:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 63.101629529279,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 250,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-07T20:00:00-06:00",
+                "startTime": "2024-11-07T21:00:00-06:00",
                 "endTime": "2024-11-08T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night falls over Evanston, the conditions remain pleasantly crisp, with clear skies revealing a serene view of Lake Michigan. Currently, the temperature hovers in the low 50s, accompanied by a gentle breeze whispering from the west, creating a refreshing atmosphere. The humidity is moderate, preventing a damp feel, making it comfortable for evening strolls along the shore. Looking ahead, the forecast suggests that this clarity will persist into the night, dipping to the low 40s, while tomorrow promises a sunny day with highs near the upper 50s, though temperatures will cool slightly in the afternoon. \n\nGiven the absence of precipitation and the pleasant seasonal temperatures typical for early November in this region, it is advisable to wear layers, perhaps opting for a light jacket as the evening air can be a bit brisk. With ideal weather for outdoor activities, now is a great time for a quiet walk by the beach or a small gathering at a nearby park. Tonight\u2019s clear skies might also entice stargazers, making the most of this tranquil fall evening.",
-    "color_code": "#1F2B33",
-    "timestamp": "2024-11-07 20:26:46"
+    "weather_report": "As evening descends on Evanston, the air is brisk with a refreshing chill, marking an early November night with temperatures nestled in the low 50s. The humidity brings a crispness, keeping the atmosphere feeling lively but not uncomfortable, while the gentle, yet noticeable, breeze whispers through the trees, hinting at the forthcoming winter. Skies are clear tonight, offering a beautiful contrast to the shimmering waters of Lake Michigan, making for a serene and pleasant view.\n\nLooking ahead, the forecast signals a delightful day on Friday, promising abundant sunshine with highs reaching the upper 50s. As temperatures drop to the mid 40s by nightfall, coupled with a mild northwest breeze, it will be a perfect opportunity to enjoy outdoor activities. The calm waters of the lake are expected, ideal for a peaceful stroll along the shoreline or a cozy gathering at one of the nearby parks. As we\u2019re well into the fall season, this soothing weather is typical for the region, inviting residents to appreciate the beauty of outdoor autumnal scenes. Light layers will be advisable to navigate the shifting temperatures, ensuring comfort during evening adventures or walks under the starry sky.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2024-11-07 21:08:02"
 }
