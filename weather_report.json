@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T07:51:00+00:00",
+            "timestamp": "2024-11-08T08:51:00+00:00",
             "temperature_f": 46.94,
             "temperature_c": 8.3,
             "humidity": 79.712411892316,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 280,
+            "wind_direction": 270,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-08T02:00:00-06:00",
+                "startTime": "2024-11-08T04:00:00-06:00",
                 "endTime": "2024-11-08T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 43,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night blankets Evanston, the air feels cool and crisp with a temperature settling in the mid 40s, accompanied by a damp chill that hints at the approaching winter. Wind from the west is howling softly, carrying with it a clear atmosphere, free from any hint of precipitation. Looking ahead to the day, the overnight skies will remain clear, dipping to a low in the low 40s. As morning breaks, Friday promises sunshine, with temperatures reaching into the upper 50s, a comfortable warmth before retreating slightly in the afternoon. \n\nConditions at the beach are tranquil, though the currents may be brisk, ideal for a reflective stroll along the shoreline but not quite inviting enough for swimming. The vibrant colors of autumn foliage still hang on, making it a picturesque setting. For those venturing outside, layering is advisable, combining a light jacket with warmer attire for later in the day. This November weather feels typical for the season here in the Midwest, suggesting a perfect day for outdoor activities such as a leisurely walk or perhaps a visit to the local parks, enjoying the transition of the seasons.",
-    "color_code": "#383838",
-    "timestamp": "2024-11-08 03:05:21"
+    "weather_report": "Current conditions in Evanston reveal a cool and damp atmosphere, with temperatures lingering in the mid-40s. The air is thick with moisture, giving a muggy feel as the steady breeze sweeps in from the west. The night sky remains clear, providing a perfect backdrop for stargazers, yet it's certainly chilly for those venturing outdoors. \n\nAs we look ahead to the upcoming day, a sunny and gradually warming trend can be expected, with highs reaching the upper 50s. However, in the afternoon, temperatures will dip slightly as cooler air filters in, accompanied by a gentle breeze from the north-northwest. The lake\u2019s surface may show some lively waves stirred by the wind, ideal for experienced water enthusiasts. There are no signs of precipitation, making this Friday perfect for outdoor activities. Given the conditions, wearing layers is advisable, as mornings can be brisk, but the afternoon may offer some comfort with sunnier skies. This time of year in Evanston typically brings fluctuating temperatures, and while today is comfortably within seasonal norms, the coolness serves as a reminder that winter is just around the corner. With a clear forecast, consider taking a stroll along the lakefront or enjoying a warm beverage at a nearby caf\u00e9 while watching the world go by.",
+    "color_code": "#4B87B4",
+    "timestamp": "2024-11-08 04:05:22"
 }
