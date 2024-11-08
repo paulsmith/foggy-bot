@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T02:51:00+00:00",
+            "timestamp": "2024-11-08T03:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
-            "humidity": 65.69233300022,
-            "wind_speed_mph": 24.964920000000003,
+            "humidity": 68.527334655366,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 260,
-            "description": ""
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-07T21:00:00-06:00",
+                "startTime": "2024-11-07T23:00:00-06:00",
                 "endTime": "2024-11-08T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -49,14 +49,14 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "NW",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 54 in the afternoon. Northwest wind around 10 mph."
+                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 54 in the afternoon. North northwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "As night settles in Evanston, the current conditions present a crisp atmosphere, with temperatures hovering in the upper 40s and a gentle dampness in the air. The wind is stirring along the shoreline from the west, creating a breezy yet refreshing environment. The beach, illuminated by the soft glow of lights, reveals no signs of precipitation tonight, promising clear skies ahead. Looking toward Friday, we can expect a bright, sunny day with temperatures peaking in the upper 50s; but as the afternoon rolls in, the mercury will gradually slide to a more comfortable mid-50s. \n\nIn terms of attire, a light jacket or sweater will serve well against the cool breeze, especially as evening descends and temperatures dip to the low 40s. Given the lack of rain and sunshine on the horizon, outdoor activities such as a leisurely stroll along the beach or visiting nearby parks would be ideal. It\u2019s a fitting backdrop for enjoying the unfolding beauty of late fall, typical for this region at this time of year. Overall, the weather is shaping up to be pleasant for a late autumn evening.",
-    "color_code": "#2F4F70",
-    "timestamp": "2024-11-07 22:06:15"
+    "weather_report": "Evanston, Illinois, is experiencing a cool evening with temperatures lingering in the upper 40s, accompanied by a gentle, gusty wind from the west that adds a slight chill to the air. The atmosphere is clear and crisp, offering a quiet serenity under the night sky, perfect for reflective walks. As we look towards tomorrow, the forecast suggests a pleasant sunny day, with highs nearing the upper 50s before tapering off in the afternoon, alongside a light north-northwest breeze that should keep the coolness in check. \n\nTonight, there\u2019s no threat of precipitation, ensuring that the lakeshore remains calm. However, the wave conditions on Lake Michigan may still be a bit rough due to the earlier gusty winds, making it less inviting for water activities. As for attire, layers are advisable\u2014a light jacket or sweater will keep you comfortable while enjoying the fresh air. With the current conditions being typical for early November in this region, it\u2019s an ideal time for cozying up with a warm drink at home or perhaps a brisk evening stroll by the lake to soak in the fall ambiance.",
+    "color_code": "#4A4C7B",
+    "timestamp": "2024-11-07 23:05:28"
 }
