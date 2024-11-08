@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T08:51:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 79.712411892316,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 270,
-            "description": "Clear"
+            "timestamp": "2024-11-08T11:51:00+00:00",
+            "temperature_f": 44.06,
+            "temperature_c": 6.7,
+            "humidity": 82.325880313448,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 290,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-08T04:00:00-06:00",
-                "endTime": "2024-11-08T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 43. West wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2024-11-08T06:00:00-06:00",
+                "name": "Today",
+                "startTime": "2024-11-08T07:00:00-06:00",
                 "endTime": "2024-11-08T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 60, with temperatures falling to around 55 in the afternoon. North northwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-08T18:00:00-06:00",
+                "endTime": "2024-11-09T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "ENE",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 45. East northeast wind 10 to 15 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a cool and damp atmosphere, with temperatures lingering in the mid-40s. The air is thick with moisture, giving a muggy feel as the steady breeze sweeps in from the west. The night sky remains clear, providing a perfect backdrop for stargazers, yet it's certainly chilly for those venturing outdoors. \n\nAs we look ahead to the upcoming day, a sunny and gradually warming trend can be expected, with highs reaching the upper 50s. However, in the afternoon, temperatures will dip slightly as cooler air filters in, accompanied by a gentle breeze from the north-northwest. The lake\u2019s surface may show some lively waves stirred by the wind, ideal for experienced water enthusiasts. There are no signs of precipitation, making this Friday perfect for outdoor activities. Given the conditions, wearing layers is advisable, as mornings can be brisk, but the afternoon may offer some comfort with sunnier skies. This time of year in Evanston typically brings fluctuating temperatures, and while today is comfortably within seasonal norms, the coolness serves as a reminder that winter is just around the corner. With a clear forecast, consider taking a stroll along the lakefront or enjoying a warm beverage at a nearby caf\u00e9 while watching the world go by.",
-    "color_code": "#4B87B4",
-    "timestamp": "2024-11-08 04:05:22"
+    "weather_report": "As the sun rises over Evanston, the current temperatures rest in the chilly low 40s, accompanied by a damp and slightly breezy atmosphere with winds whispering from the northwest. The picturesque view of Lake Michigan reflects the morning's clarity, maintaining a mostly clear disposition that hints at the promise of a pleasant day ahead. As we look at today's forecast, we can expect a bright and sunny afternoon with temperatures reaching into the upper 50s, offering a welcome reprieve from the cool spell. Tonight, the skies will remain clear, with temperatures dropping to the comfortable mid 40s. \n\nWave conditions along the shore are calm, making it a perfect time for a stroll along the water or a visit to the local parks. There is no precipitation in sight, allowing for outdoor plans without concern for the weather. Given the current season's transition into late autumn, these temperatures are typical for the region, reminding us that winter is on the horizon. For those braving the outdoors today, layering up with a light jacket would be wise, especially for any evening activities. A gentle walk along the beach or a visit to nearby cafes could provide the perfect way to enjoy this lovely fall day.",
+    "color_code": "#0066CC",
+    "timestamp": "2024-11-08 07:09:03"
 }
