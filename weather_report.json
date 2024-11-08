@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T15:51:00+00:00",
-            "temperature_f": 53.96,
-            "temperature_c": 12.2,
-            "humidity": 58.917436953004,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 290,
+            "timestamp": "2024-11-08T16:51:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": 49.287302578355,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 260,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-08T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-08T12:00:00-06:00",
                 "endTime": "2024-11-08T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 45. East northeast wind 10 to 15 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 45. East northeast wind 10 to 15 mph."
             }
         ]
     },
-    "weather_report": "As the sun shines brightly over Evanston, current conditions present a mild and invigorating day by the lake. The temperature hovers in the low 50s with a crisp atmosphere that feels refreshingly cool. A gentle breeze is at play, creating a spirited but pleasant environment, perfect for those who enjoy outdoor activities without the swelter of summer. The sky is mostly clear, offering breathtaking views of Lake Michigan that beckon residents and visitors alike to embrace the outdoors.\n\nLooking ahead, today promises sunny skies with temperatures rising to the upper 50s before tapering off into the mid-40s tonight. The wind will be less pronounced as it shifts to a lighter north-northwest, facilitating a tranquil evening. There\u2019s no precipitation expected, allowing the shoreline to remain dry and welcoming. Given the current season, these temperatures are typical for early November in the Midwest, where autumn begins to yield to the chill of winter. For those venturing out, layering is advisable\u2014a light jacket paired with a sweater will accommodate the cool breeze while keeping you comfortable throughout the day. Ideal activities include a leisurely stroll along the beach or enjoying a warm beverage at a local caf\u00e9, both of which can be savored under the clear blue skies.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2024-11-08 11:04:47"
+    "weather_report": "In Evanston today, we're seeing a refreshing atmosphere with temperatures drifting around the mid to high 50s under mostly clear skies. The light, playful wind from the north-northwest adds a brisk energy to the air, making it feel a touch cooler but also invigorating. As the day unfolds, we can expect sunshine to prevail, though temperatures will gradually fall to the low 50s by the afternoon. Tonight, the clouds will roll in slightly, bringing a calmness to the night as we settle down to around the mid-40s, creating a gentle, pleasant ambiance for the evening.\n\nWith no precipitation on the horizon, the lakefront views invite outdoor activities. The water appears inviting with mild wave conditions, suitable for strolls along the beach or a peaceful moment by the pier. Given the current season, this weather feels quite typical for November in the Midwest, as the air carries a crispness that characterizes this time of year. I'd recommend layering up a bit\u2014perhaps a cozy sweater or light jacket\u2014for comfort while you enjoy the outdoors, especially if you're venturing out this evening. Whether it\u2019s a brisk walk or simply soaking in the serene lake views, today presents a wonderful opportunity to embrace the beauty of late fall in Evanston.",
+    "color_code": "#A7C6E7",
+    "timestamp": "2024-11-08 12:06:27"
 }
