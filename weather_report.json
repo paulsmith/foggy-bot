@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T16:51:00+00:00",
-            "temperature_f": 57.92,
-            "temperature_c": 14.4,
-            "humidity": 49.287302578355,
+            "timestamp": "2024-11-08T17:51:00+00:00",
+            "temperature_f": 60.08,
+            "temperature_c": 15.6,
+            "humidity": 43.737950678809,
             "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 260,
+            "wind_direction": 270,
             "description": "Mostly Clear"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston today, we're seeing a refreshing atmosphere with temperatures drifting around the mid to high 50s under mostly clear skies. The light, playful wind from the north-northwest adds a brisk energy to the air, making it feel a touch cooler but also invigorating. As the day unfolds, we can expect sunshine to prevail, though temperatures will gradually fall to the low 50s by the afternoon. Tonight, the clouds will roll in slightly, bringing a calmness to the night as we settle down to around the mid-40s, creating a gentle, pleasant ambiance for the evening.\n\nWith no precipitation on the horizon, the lakefront views invite outdoor activities. The water appears inviting with mild wave conditions, suitable for strolls along the beach or a peaceful moment by the pier. Given the current season, this weather feels quite typical for November in the Midwest, as the air carries a crispness that characterizes this time of year. I'd recommend layering up a bit\u2014perhaps a cozy sweater or light jacket\u2014for comfort while you enjoy the outdoors, especially if you're venturing out this evening. Whether it\u2019s a brisk walk or simply soaking in the serene lake views, today presents a wonderful opportunity to embrace the beauty of late fall in Evanston.",
-    "color_code": "#A7C6E7",
-    "timestamp": "2024-11-08 12:06:27"
+    "weather_report": "Evanston, Illinois, is experiencing mild and mostly clear conditions this afternoon, with temperatures hovering in the low 60s. The bright sun overhead keeps the atmosphere cheerful, though temperatures are expected to dip to around 55 as the afternoon wears on. A brisk north-northwest breeze adds a refreshing edge, making it feel a bit cooler despite the sunny disposition. Tonight promises partly cloudy skies and a drop in temperatures to the mid-40s, accompanied by a gentle easterly wind.\n\nThe absence of precipitation ensures a pleasant outdoor experience, perfect for beach strolls or enjoying the serene views of Lake Michigan. Wave conditions remain calm, not ideal for serious boating but delightful for casual observers and walkers along the shore. Given the current temperature and clear skies, light layers are recommended to counter the evening chill, making this an enjoyable day to embrace the outdoors. While it's not a holiday, it\u2019s an excellent opportunity to gather with friends or family, perhaps for a peaceful walk by the water or a casual picnic as we transition deeper into the fall season. The current weather is typical for this time of year in the Midwest, hinting at the cooler days ahead.",
+    "color_code": "#87CEEB",
+    "timestamp": "2024-11-08 13:04:36"
 }
