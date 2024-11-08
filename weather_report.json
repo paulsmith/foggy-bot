@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T18:51:00+00:00",
+            "timestamp": "2024-11-08T19:51:00+00:00",
             "temperature_f": 60.980000000000004,
             "temperature_c": 16.1,
             "humidity": 39.183839375951,
-            "wind_speed_mph": 37.04472,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 280,
             "description": "Partly Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-08T14:00:00-06:00",
+                "startTime": "2024-11-08T15:00:00-06:00",
                 "endTime": "2024-11-08T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "NNW",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 57 in the afternoon. North northwest wind around 10 mph."
+                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 57 in the afternoon. North wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, conditions are currently mild, with a temperature in the low 60s and a refreshing, crisp feel to the air, as humidity hovers pleasantly low. The skies are partly cloudy, allowing a comforting warmth from the sun to shine through intermittently, while a blustery northwest wind adds a bit of vibrancy to the day. Looking ahead, the forecast calls for sunny skies this afternoon, but temperatures will taper, settling to the upper 50s. Tonight, expect partly cloudy skies with a drop to the mid-40s, under a gentle breeze from the east-northeast.\n\nThe waves lapping gently at the shoreline are calm, presenting an inviting scene for a stroll along the beach. There is no precipitation in sight, making it a fine day to enjoy outdoor activities. Layered attire is recommended, with perhaps a light jacket or sweater for later as the evening cools. As the season transitions into late fall, these temperatures are on the cooler side of typical for this time of year, suggesting a perfect opportunity to embrace the season\u2019s change. Given the pleasant weather, a leisurely walk by Lake Michigan or a visit to a nearby caf\u00e9 could create a refreshing afternoon experience.",
-    "color_code": "#A6C8EA",
-    "timestamp": "2024-11-08 14:05:45"
+    "weather_report": "Current conditions in Evanston present a mix of tranquility and briskness. With temperatures hovering in the low 60s, the air is pleasantly crisp, suggesting that the cool breeze blowing in from the west is lending a refreshing touch to the atmosphere. The wind, while fairly gusty, sweeps over the beach, rustling through leaves and sending a gentle flicker across the water's surface, where the lake reflects the partly cloudy sky. Although light cloud cover is present, the overall clarity remains good, promising a delightful afternoon.\n\nLooking ahead to the rest of the day, the forecast indicates that we can expect sunny skies, with temperatures gradually easing down to the high 50s. As night descends, a shift to partly cloudy conditions is projected, with a low settling around the mid-40s, and a consistent east-northeast breeze expected. With no precipitation forecasted, the chances of rain are slim, making this a fine opportunity to enjoy outdoor activities. Light layers would suffice for today\u2019s cooler conditions, inviting visitors to stroll along the lakeshore, partake in a leisurely jog, or simply bask in the fresh air at one of Evanston\u2019s parks. Given the season, temperatures are on par with November norms, making this a picturesque autumn day to savor before winter settles in.",
+    "color_code": "#AEC6D3",
+    "timestamp": "2024-11-08 15:04:49"
 }
