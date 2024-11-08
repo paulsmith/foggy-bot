@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T04:51:00+00:00",
+            "timestamp": "2024-11-08T05:51:00+00:00",
             "temperature_f": 48.02,
             "temperature_c": 8.9,
             "humidity": 73.402721805054,
-            "wind_speed_mph": 33.01812,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 260,
             "description": "Clear"
         },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Currently in Evanston, the air is brisk with temperatures in the upper 40s, and a refreshing gustiness adds a bite to the evening. The sky is clear, showcasing a crisp ambiance typical for November, yet the humidity lends a damp quality to the chill that lingers. As we look towards tomorrow, expect sunny skies during the day, with a high creeping into the upper 50s. The winds will settle into a gentle breeze, making it a pleasant day for outdoor activities. However, tonight, conditions remain clear with temperatures dropping to the low 40s.\n\nWith no precipitation in sight, the lakefront may prove inviting for a stroll, though do expect the waves to be somewhat energetic given the earlier winds. As evening descends, layers will be essential, combining warmth with comfort. It\u2019s a wonderful opportunity to enjoy the lake's beauty in this season that marks the transition into colder months, perhaps with a warm drink in hand. Overall, Evanston presents an engaging autumn evening, perfect for contemplation or a casual outing by the water.",
-    "color_code": "#1a2d56",
-    "timestamp": "2024-11-08 00:06:41"
+    "weather_report": "Current conditions in Evanston reveal a cool and crisp atmosphere, with temperatures in the upper 40s. The humidity adds a touch of dampness to the night air, while a gusty breeze whispers from the west, hinting at a chill that coats the shoreline. The nighttime sky is clear, allowing for a crisp view of the stars overhead, creating a serene yet brisk ambiance.\n\nLooking ahead to the day, we can expect sunny skies that promise a high in the upper 50s, with a gentle north-northwest wind encouraging a pleasant autumn feel. As temperatures dip in the afternoon, the soothing sunlight should provide a delightful backdrop for anyone venturing outside. There is no expectation of precipitation, making it a perfect day for those looking to enjoy the beauty of Lake Michigan. However, the brisk wind may lead to some choppy wave conditions, which could appeal to those interested in bracing walks along the beach or even photography enthusiasts looking for the perfect shot of the natural scenery. Given the season, this weather is typical for early November in the Midwest, where crisp air mingles with vibrant autumn light. Dress warmly in layers\u2014 perhaps a cozy sweater and a windbreaker are in order\u2014 as the cool temperatures combined with the wind might make it feel even chillier. Ideal activities today include enjoying a stroll by the lake, soaking in the serene environment, or perhaps visiting one of Evanston\u2019s charming coffee shops to appreciate the seasonal ambiance.",
+    "color_code": "#3b5998",
+    "timestamp": "2024-11-08 01:05:07"
 }
