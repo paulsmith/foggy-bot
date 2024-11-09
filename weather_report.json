@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T22:51:00+00:00",
+            "timestamp": "2024-11-08T23:51:00+00:00",
             "temperature_f": 55.04,
             "temperature_c": 12.8,
-            "humidity": 50.607985456672,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 340,
+            "humidity": 56.643564028212,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 40,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-08T18:00:00-06:00",
+                "startTime": "2024-11-08T19:00:00-06:00",
                 "endTime": "2024-11-09T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "ENE",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 46. East northeast wind 10 to 15 mph."
+                "detailedForecast": "Partly cloudy, with a low around 46. East northeast wind around 15 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the sun begins to dip below the horizon in Evanston, the current temperature hovers in the mid-50s, complemented by a refreshing, brisk air that carries a gentle humidity, making it feel quite comfortable for late fall. The skies remain mostly clear, with just a hint of clouds painting the scene, illuminated by the tranquil glow of evening. Winds are blowing from the northwest at a steady breeze, lending a gentle whisper to the air, though gusts can sometimes make their presence felt.\n\nTonight promises a delightful follow-up, with partly cloudy skies and a low settling into the mid-40s, creating an atmosphere perfect for a cozy night in or a leisurely stroll along the beach, should one seek the solace of nature. Tomorrow brings a continuation of this inviting weather; expect partly sunny conditions with daytime highs near 57, accompanied by a southeast breeze. The waves off Lake Michigan may be moderately active, providing a soothing soundtrack of gentle splashes, ideal for a calming beachside experience. As temperatures reflect typical November chill, be advised to dress warmly but comfortably, perhaps layering with a light jacket to accommodate the cool air in the evening. It's a fine time to enjoy a brisk walk, unwind on the beach, or embrace the serenity that this season offers before winter fully sets in.",
-    "color_code": "#7D9C9C",
-    "timestamp": "2024-11-08 18:20:29"
+    "weather_report": "In Evanston, the evening air cools gently as the temperature hovers in the mid-50s, accompanied by a mild humidity that creates a crisp feel. The wind is howling from the northeast, bringing a lively energy to the shore. As the sun sets, the sky showcases a mostly clear canvas, but looking ahead, we can anticipate a parting of clouds tonight with lows dipping into the upper 40s. Tomorrow's forecast hints at partly sunny skies, fitting for a late autumn day, but remember that temperatures will fall after peaking near 57.\n\nThe lake displays moderate waves, reflecting the brisk winds and inviting a watchful gaze. While there is no precipitation in the near horizon, it is advisable to layer up for the evening chill. As we find ourselves in early November, the temperatures are comfortably typical, mirroring the seasonal transition where the air begins to carry the scents of winter\u2019s approach. Evening walks along the beach or cozy gatherings by the fire pit could make for delightful activities, taking advantage of the charming ambiance that this time of year brings to the lakeshore.",
+    "color_code": "#1B3D73",
+    "timestamp": "2024-11-08 19:31:52"
 }
