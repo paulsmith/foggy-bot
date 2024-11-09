@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-09T14:51:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 71.204369375173,
-            "wind_speed_mph": 41.07132,
+            "timestamp": "2024-11-09T15:51:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 68.877362479151,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 140,
             "description": "Mostly Cloudy"
         },
@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-09T09:00:00-06:00",
+                "startTime": "2024-11-09T11:00:00-06:00",
                 "endTime": "2024-11-09T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 57,
+                "temperature": 56,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 57. Southeast wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 56. Southeast wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Currently, Evanston finds itself shrouded in a veil of mostly cloudy skies, with temperatures nestled in the low 50s, offering a damp, humid feel that might cause some discomfort for those unaccustomed to such weather. A robust breeze sweeps in from the southeast, adding to the lively ambiance along the lakeshore, where choppy waters disrupt the typically serene view. While the waves may be enticing, they carry a certain wildness, likely making any water activities more challenging and perhaps unsafe.\n\nAs the day unfolds, clouds will persist, with rain showers expected to sweep in after sunset, promising to drench the region as temperatures drop slightly to near 50 by nightfall. The chance for precipitation stands at a significant 80%, so taking cover and perhaps considering an indoor activity could be wise. With the upcoming drizzle, attire should lean toward the practical; a light raincoat and sturdy shoes will provide comfort against the elements. \n\nIn terms of seasonality, this weather falls comfortably within typical late autumn conditions here in the Midwest; temperatures hovering in the 50s are consistent with what locals expect as fall transitions toward winter. Given the present circumstances and the impending rain, today may be best suited for indoor pursuits like visiting cozy caf\u00e9s or exploring local shops rather than long walks along the beach.",
-    "color_code": "#A9C1D9",
-    "timestamp": "2024-11-09 10:04:50"
+    "weather_report": "Currently in Evanston, conditions are marked by a brisk, blustery atmosphere as temperatures hover in the low 50s with a considerable humidity making for a damp feel in the air. The sky above is mostly cloudy, creating a soft, muted palette over Lake Michigan. Winds are fierce, gusting sharply, and driving across the beach. As the day progresses, expect more clouds to roll in, accompanied by rain showers later in the evening, with a real chance of precipitation at about 80% after 7 PM. If you\u2019re planning to be outdoors, prepare for a transition in weather; highs will reach around 56, but once the sun dips, temperatures will settle back into the low 50s.\n\nDressing in layers will be essential, given the mix of chilly temperatures and moist air. Consider donning a light jacket or a windbreaker, particularly as the gusty winds may feel quite chilly at times. The waters of Lake Michigan may appear choppy today, presenting a lively but potentially turbulent landscape for any boating or swimming activities. As we\u2019re now well into November, this type of weather is typical for the season in this region, though the upcoming rain adds an unmistakable autumnal twist to the day. While outdoor pursuits might be limited by the forecast, enjoying cozy indoor activities, such as visiting a local caf\u00e9 or gallery, could be a delightful way to embrace the day.",
+    "color_code": "#A1B2B3",
+    "timestamp": "2024-11-09 11:04:44"
 }
