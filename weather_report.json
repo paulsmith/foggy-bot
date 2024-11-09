@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-08T20:51:00+00:00",
-            "temperature_f": 60.08,
-            "temperature_c": 15.6,
-            "humidity": 40.456203083442,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 300,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-08T22:51:00+00:00",
+            "temperature_f": 55.04,
+            "temperature_c": 12.8,
+            "humidity": 50.607985456672,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 340,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-08T17:00:00-06:00",
-                "endTime": "2024-11-08T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 61, with temperatures falling to around 57 in the afternoon. North northeast wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-08T18:00:00-06:00",
                 "endTime": "2024-11-09T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 46. East northeast wind 10 to 15 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-11-09T06:00:00-06:00",
+                "endTime": "2024-11-09T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. Southeast wind around 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As evening falls over Evanston, the current conditions paint a picture of mostly cloudy skies with a gentle breeze stirring the air. The temperature rests comfortably in the low 60s, accompanied by a crisp and refreshing humidity that is quite pleasant for this autumn day. Wind gusts, however, are quite strong, whipping across the shore. The lake reflects a tranquil yet inviting palette, hinting at calm wave conditions that are perfect for a quiet stroll along the beach or a moment of contemplation by the water's edge.\n\nMoving into the evening, expect partly cloudy skies with temperatures dipping to the mid-40s\u2014still mild for November. As the daylight wanes, it\u2019s advisable to dress warmly, perhaps in a light jacket or sweater, especially if you're planning to admire the serene beauty of Lake Michigan after sunset. While precipitation isn\u2019t forecasted, the air remains fresh and invigorating, inviting outdoor activities like walking or simply enjoying the natural vista. Although today's weather is far from typical for a chilly November, it certainly allows for a delightful experience at the beach, making the most of a calm and mild autumn evening.",
-    "color_code": "#A9C9D4",
-    "timestamp": "2024-11-08 17:05:18"
+    "weather_report": "As the sun begins to dip below the horizon in Evanston, the current temperature hovers in the mid-50s, complemented by a refreshing, brisk air that carries a gentle humidity, making it feel quite comfortable for late fall. The skies remain mostly clear, with just a hint of clouds painting the scene, illuminated by the tranquil glow of evening. Winds are blowing from the northwest at a steady breeze, lending a gentle whisper to the air, though gusts can sometimes make their presence felt.\n\nTonight promises a delightful follow-up, with partly cloudy skies and a low settling into the mid-40s, creating an atmosphere perfect for a cozy night in or a leisurely stroll along the beach, should one seek the solace of nature. Tomorrow brings a continuation of this inviting weather; expect partly sunny conditions with daytime highs near 57, accompanied by a southeast breeze. The waves off Lake Michigan may be moderately active, providing a soothing soundtrack of gentle splashes, ideal for a calming beachside experience. As temperatures reflect typical November chill, be advised to dress warmly but comfortably, perhaps layering with a light jacket to accommodate the cool air in the evening. It's a fine time to enjoy a brisk walk, unwind on the beach, or embrace the serenity that this season offers before winter fully sets in.",
+    "color_code": "#7D9C9C",
+    "timestamp": "2024-11-08 18:20:29"
 }
