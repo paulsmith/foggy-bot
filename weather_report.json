@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-09T12:51:00+00:00",
-            "temperature_f": 46.04,
-            "temperature_c": 7.8,
-            "humidity": 79.084822103185,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 130,
+            "timestamp": "2024-11-09T13:51:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 77.156442416889,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 120,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-09T08:00:00-06:00",
+                "startTime": "2024-11-09T09:00:00-06:00",
                 "endTime": "2024-11-09T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the morning brings cool conditions with a temperature resting in the mid-40s, paired with a humid atmosphere that feels quite damp. The wind is notably brisk, coming from the southeast, whipping gently, promising a blustery day ahead. Overhead, the sky is mostly cloudy, setting a grey backdrop against the serene waters of Lake Michigan.\n\nLooking ahead, today\u2019s weather expects to remain overcast, with temperatures climbing to a high near the upper 50s. There\u2019s a significant chance of rain showers rolling in after 7 PM, as the clouds deepen and a steady south-southeast wind continues to sway, delivering gusts that could reach up to 25 miles per hour. While the waves are likely to be moderately rough considering the gusty conditions, the shoreline might not be the most inviting spot for leisurely strolls as rain looms in the evening. It would be wise to dress in layers, potentially donning a light jacket and waterproof gear, as you might encounter some rain later on. \n\nThis time of year, with the chilly air typical of early November in the Midwest, the current temperatures align closely with seasonal norms, making it a fitting prelude to the winter months. For the adventurous souls, a brisk walk along the coast could still be enjoyable, but anticipating rain makes it prudent to have an alternative indoor activity on hand should the skies open up. As it stands, while the day may not be particularly bright or sunny, the atmospheric shifts could lead to cozy indoor experiences, accentuated by the evolving tapestry of Evanston's lakeside charm as the season changes.",
-    "color_code": "#839FA8",
-    "timestamp": "2024-11-09 08:04:34"
+    "weather_report": "In Evanston, the day begins under a blanket of mostly cloudy skies, with temperatures hovering in the upper 40s\u2014a notably crisp start for early November. Humidity lends a dampness to the air, making the chill feel a touch sharper, while a brisk, gusty southeast wind adds an invigorating bite, stirring up the waters of Lake Michigan into a lively chatter. As the day unfolds, expect the clouds to dominate, with the temperature climbing to a high near 57. Rain showers are predicted to make their appearance later this evening after 7 PM, with the chance of precipitation sitting at a robust 80%, hinting at a wet night ahead.\n\nGiven these conditions, the scene at the beach might appear subdued, with low wave action that could be suited for contemplative strolls rather than vigorous activities. As the forecast leans towards rain, dressing in layers with a waterproof outer layer would be wise to stay comfortable throughout the day. This time of year traditionally sees temperatures fluctuating in this mid to upper 50s range, aligning well with seasonal norms in this region, though the chill may leave many residents longing for the warm embrace of summer. For today, light outdoor activities early on could be pleasant, but with rain on the horizon, planning for indoor pastimes by evening would be prudent.",
+    "color_code": "#A9B2B6",
+    "timestamp": "2024-11-09 09:05:08"
 }
