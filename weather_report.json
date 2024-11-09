@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-09T02:00:00-06:00",
+                "startTime": "2024-11-09T03:00:00-06:00",
                 "endTime": "2024-11-09T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 47,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current conditions in Evanston, Illinois, reveal a cool and somewhat humid night, with the temperature resting in the low 50s and a soft eastward breeze adding a touch of chill to the air. The skies are partly cloudy, providing a dimmed view of the stars as they dance between the clouds above. As we look forward to Saturday, residents can expect a modest warming trend, with partly sunny skies anticipated to brighten the day. Daytime temperatures should push into the high 50s, accompanied by gentle southeast winds that may gust up to 25 mph, stirring up a lively atmosphere at the beach.\n\nIn terms of visual appearance, the scene is a bit somber yet refreshing, perfect for a reflective evening walk or for those who appreciate the calm of a beach under nighttime skies. Wave conditions appear moderate, which may create a soothing background sound for those out enjoying the night air, though caution is advised if venturing into the water, as there are slight signs of increased movement from the breeze. Precipitation is not expected, keeping the evening dry. Attire suggestions include light layers, suitable for the cool night air and the expected warmer day ahead. This time of year, temperatures are typical for the region, displaying the characteristic crispness of late fall, inviting local residents to embrace outdoor activities like a stroll along Lake Michigan or an evening jog while enjoying the tranquil ambiance.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-09 02:06:09"
+    "weather_report": "Current conditions in Evanston paint a cool and breezy picture, with temperatures cooling into the low 50s and humidity lending a slightly damp edge to the evening air. The wind is blowing gently from the east, providing a refreshing chill, especially as night takes hold. Expect a tranquil night ahead with partly cloudy skies and a low slipping down to around 47 degrees, allowing for a crisp yet comfortable environment. \n\nLooking forward to Saturday, the day will usher in partly sunny skies and a high nearing the upper 50s, with a light southeast breeze picking up as the day progresses. The waves on Lake Michigan may offer a soothing sound, but there\u2019s no precipitation in sight for now, keeping the atmosphere clear for outdoor plans. Given the seasonal chill typical for mid-November in the region, dressing in layers is advisable\u2014think warm clothing paired with a light jacket to fend off the cool breeze. Outdoor activities such as a stroll along the beach or park should be delightful, inviting locals to enjoy the fresh air and dynamic lakefront, especially before the weather turns more wintry in the coming weeks.",
+    "color_code": "#4D6D7E",
+    "timestamp": "2024-11-09 03:04:57"
 }
