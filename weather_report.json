@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-09T03:51:00+00:00",
+            "timestamp": "2024-11-09T04:51:00+00:00",
             "temperature_f": 50.0,
             "temperature_c": 10,
-            "humidity": 63.101629529279,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 40,
-            "description": ""
+            "humidity": 65.824827442761,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 60,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-08T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-09T00:00:00-06:00",
                 "endTime": "2024-11-09T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night settles over Evanston, the air carries a chill typical for early November, with temperatures dipping into the low 50s. The atmosphere is moderately humid, adding a touch of briskness to the evening. A gusty breeze sweeps in from the east, creating a lively rustle among the foliage and stirring the waters of Lake Michigan. Tonight's sky is partly cloudy, offering no threats of precipitation, which adds to the evening's pleasantness as city dwellers embrace the tranquility of the shoreline.\n\nLooking ahead to Saturday, the weather promises to remain generally cheerful with partly sunny skies. Temperatures will reach a high in the upper 50s, slightly cooler as the afternoon progresses. This seasonal warmth is slightly below the average for this time of year, creating a unique opportunity for outdoor activities before winter fully takes hold. Given the brisk conditions and a continuous breeze, it's advisable to layer up\u2014think light jackets or sweaters paired with windbreakers to stay comfortable while enjoying the outdoors. With the conditions as they are, a walk along the beach or time spent at local parks would be delightful ways to appreciate the beauty of Evanston this weekend.",
-    "color_code": "#2E2E5D",
-    "timestamp": "2024-11-08 23:04:43"
+    "weather_report": "This morning in Evanston, the air feels brisk with a temperature settled in the low 50s and a gentle to breezy east wind making its presence known. The sky is partly cloudy, unveiling occasional glimpses of the nocturnal skyline above the calm waters of Lake Michigan. With the humidity hovering at a comfortable level, there's a refreshing quality to the cool air as we transition into the early hours of the day.\n\nAs the day unfolds, we're expecting partly sunny skies with a high nearing the upper 50s, albeit with temperatures gradually dipping in the afternoon. While there will be no significant precipitation to worry about, the gusty southeast winds\u2014ranging up to 25 mph\u2014will add a lively edge to the weather, perfect for those wanting to feel the natural elements. Given the current season, this weather is typical for mid-autumn in the Midwest and encourages attire suited for cool conditions. A light jacket or a cozy sweater will be ideal for anyone wishing to venture outdoors. This is an excellent day for a rejuvenating walk along the beach or a visit to the local parks, allowing you to soak in the crispness of the autumn air as the community prepares for the approaching holiday season.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-09 00:06:04"
 }
