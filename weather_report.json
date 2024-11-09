@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-09T15:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 68.877362479151,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 140,
+            "timestamp": "2024-11-09T16:51:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 63.49453116489,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 130,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-09T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-09T12:00:00-06:00",
                 "endTime": "2024-11-09T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 56,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Currently in Evanston, conditions are marked by a brisk, blustery atmosphere as temperatures hover in the low 50s with a considerable humidity making for a damp feel in the air. The sky above is mostly cloudy, creating a soft, muted palette over Lake Michigan. Winds are fierce, gusting sharply, and driving across the beach. As the day progresses, expect more clouds to roll in, accompanied by rain showers later in the evening, with a real chance of precipitation at about 80% after 7 PM. If you\u2019re planning to be outdoors, prepare for a transition in weather; highs will reach around 56, but once the sun dips, temperatures will settle back into the low 50s.\n\nDressing in layers will be essential, given the mix of chilly temperatures and moist air. Consider donning a light jacket or a windbreaker, particularly as the gusty winds may feel quite chilly at times. The waters of Lake Michigan may appear choppy today, presenting a lively but potentially turbulent landscape for any boating or swimming activities. As we\u2019re now well into November, this type of weather is typical for the season in this region, though the upcoming rain adds an unmistakable autumnal twist to the day. While outdoor pursuits might be limited by the forecast, enjoying cozy indoor activities, such as visiting a local caf\u00e9 or gallery, could be a delightful way to embrace the day.",
-    "color_code": "#A1B2B3",
-    "timestamp": "2024-11-09 11:04:44"
+    "weather_report": "Today in Evanston, the atmosphere carries a certain bracing chill as temperatures hover in the low 50s, embraced by mild humidity that gives a slightly damp feel to the air. The scene is mostly overcast, casting a muted light over the landscape, and a gentle breeze stirs the surface of Lake Michigan, providing a hint of autumn\u2019s persistence. As we move through the afternoon, expect temperatures to rise just a few degrees, peaking near 56. However, the winds will shift, becoming a bit blustery from the southeast, with gusts adding a touch of bite as they swirl around.\n\nAs evening approaches, the clouds will thicken, heralding the onset of rain showers after 7 PM. The likelihood of precipitation stands at a solid 80%, so preparations for wet weather are a must if you plan to be outside. With temperatures dipping to the low 50s tonight, a light jacket and an umbrella will be wise companions for anyone venturing out. Given that we\u2019re in mid-November, these conditions reflect the typical crispness of the season, though with a tinge of humidity that might linger in the air. For those considering outdoor activities, a stroll along the beach could be refreshing but best done earlier in the day. Later, cozy indoor pursuits will provide a warmer alternative as the rain sets in.",
+    "color_code": "#7B9C9C",
+    "timestamp": "2024-11-09 12:05:33"
 }
