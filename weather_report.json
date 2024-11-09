@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-09T16:51:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 63.49453116489,
+            "timestamp": "2024-11-09T17:51:00+00:00",
+            "temperature_f": 53.96,
+            "temperature_c": 12.2,
+            "humidity": 64.0514866151,
             "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 130,
-            "description": "Mostly Cloudy"
+            "wind_direction": 140,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-09T13:00:00-06:00",
+                "startTime": "2024-11-09T14:00:00-06:00",
                 "endTime": "2024-11-09T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 56,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston, Illinois is currently experiencing a brisk afternoon with temperatures settled in the low 50s, accompanied by a moderate humidity that gives the air a somewhat damp feel. The sky is mostly cloudy, casting a muted light over the beach as a gentle to breezy wind whistles in from the southeast, stirring the waters of Lake Michigan. This natural spectacle is somewhat alluring but brings with it a chill, particularly as the day progresses.\n\nAs the afternoon unfolds, conditions are expected to shift significantly with rain showers pushing in later tonight. It will remain cloudy, with temperatures dipping to around the low 50s, prompting a cozy atmosphere perfect for staying indoors. The waves are likely to be moderate, enticing a few adventurous souls to brave the shoreline, although caution is advised. Given the impending rain, it's wise to dress warmly in layers and bring a reliable raincoat or umbrella. \n\nThis time of year, Evanston typically embraces the coolness of late fall, and today\u2019s temperature aligns well with seasonal norms. As the evening approaches, many might seek indoor activities, perhaps enjoying a warm drink from a local caf\u00e9 or diving into an engaging book. There\u2019s no festive holiday today, but the changeable weather adds a character that reflects the spirit of November in the Midwest.",
-    "color_code": "#A0B5C2",
-    "timestamp": "2024-11-09 13:04:30"
+    "weather_report": "In Evanston, current conditions present a cool and overcast afternoon, with temperatures lingering in the low 50s, accompanied by a dampness in the air. Winds are gusty, stirring the lake into a choppy dance, while clouds blanket the sky, hinting at the rain that's expected later this evening. Forecasts indicate that the temperature may peak around 56 degrees, but as night descends, conditions are set to shift, introducing rain showers after 7 PM as a warm front moves through. The chance of precipitation is substantial, with light rain anticipated throughout the evening.\n\nGiven the brisk winds and the impending rain, the current scene, while perhaps moodily beautiful, is more suited for those bundled in layers; a waterproof jacket would be wise along with sturdy footwear to navigate the wet terrain. The temperatures are typical for November in this region, contributing to a damp chill that may deter outdoor excursions. Those considering activities might prefer indoor offerings, such as visiting local cafes or theaters, as the beach, despite its somber beauty, may prove less inviting amidst the gusty, rainy evening ahead.",
+    "color_code": "#A9B0B2",
+    "timestamp": "2024-11-09 14:04:53"
 }
