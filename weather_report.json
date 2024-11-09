@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-09T05:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 67.942265381454,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 50,
+            "timestamp": "2024-11-09T06:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 68.173048569669,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 70,
             "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-09T01:00:00-06:00",
+                "startTime": "2024-11-09T02:00:00-06:00",
                 "endTime": "2024-11-09T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 46,
+                "temperature": 47,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 46. East wind around 15 mph."
+                "detailedForecast": "Partly cloudy, with a low around 47. East wind around 15 mph."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. Southeast wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly sunny, with a high near 57. Southeast wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois reveal a brisk evening as temperatures settle in the low 50s. The air carries a hint of humidity, making it feel slightly damp. With a vigorous breeze sweeping in from the northeast, the atmosphere is brisk and somewhat invigorating. Tonight\u2019s skies remain partly cloudy, offering a modest glimpse of the stars while the capricious winds rustle through the trees.\n\nAs we look toward tomorrow\u2019s forecast, expect a partly sunny day with temperatures rising into the upper 50s. A gentle southeast wind will shift toward a more blustery pace in the afternoon, reaching gusts that could stir the lake's surface. Fortunately, no precipitation is expected, promising a clear and pleasant day for outdoor activities. Given the season, these temperatures feel somewhat typical for November in the Midwest. For appropriate attire, consider layering with a light jacket and perhaps a scarf to guard against the chill. The weather invites a leisurely stroll along the beach, a visit to local shops, or simply enjoying the scenery at one of Evanston's parks before winter fully sets in.",
-    "color_code": "#A8C8E0",
-    "timestamp": "2024-11-09 01:04:41"
+    "weather_report": "The current conditions in Evanston, Illinois, reveal a cool and somewhat humid night, with the temperature resting in the low 50s and a soft eastward breeze adding a touch of chill to the air. The skies are partly cloudy, providing a dimmed view of the stars as they dance between the clouds above. As we look forward to Saturday, residents can expect a modest warming trend, with partly sunny skies anticipated to brighten the day. Daytime temperatures should push into the high 50s, accompanied by gentle southeast winds that may gust up to 25 mph, stirring up a lively atmosphere at the beach.\n\nIn terms of visual appearance, the scene is a bit somber yet refreshing, perfect for a reflective evening walk or for those who appreciate the calm of a beach under nighttime skies. Wave conditions appear moderate, which may create a soothing background sound for those out enjoying the night air, though caution is advised if venturing into the water, as there are slight signs of increased movement from the breeze. Precipitation is not expected, keeping the evening dry. Attire suggestions include light layers, suitable for the cool night air and the expected warmer day ahead. This time of year, temperatures are typical for the region, displaying the characteristic crispness of late fall, inviting local residents to embrace outdoor activities like a stroll along Lake Michigan or an evening jog while enjoying the tranquil ambiance.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-09 02:06:09"
 }
