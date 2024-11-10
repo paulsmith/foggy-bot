@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T09:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 100,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 170,
+            "timestamp": "2024-11-10T10:51:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 96.074594670841,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 190,
             "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-10T05:00:00-06:00",
-                "endTime": "2024-11-10T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle and patchy fog. Cloudy. Low around 50, with temperatures rising to around 52 overnight. South wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2024-11-10T06:00:00-06:00",
                 "endTime": "2024-11-10T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/rain_showers,30?size=medium",
                 "shortForecast": "Patchy Drizzle then Chance Rain Showers",
                 "detailedForecast": "Patchy drizzle and patchy fog before 9am, then a chance of rain showers between noon and 5pm. Mostly cloudy. High near 61, with temperatures falling to around 56 in the afternoon. South southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-10T18:00:00-06:00",
+                "endTime": "2024-11-11T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 48. West wind 10 to 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "Evanston wakes this morning under a thick blanket of dampness, with the air heavy and saturated due to persistent light drizzle and a pervasive fog that casts a muted veil over the landscape. The temperature hovers in the low 50s, while a brisk, southerly breeze whispers through the trees at a steady pace, creating an atmosphere that feels both chilly and refreshing. Throughout the day, expect more of the same, with patchy drizzle lingering until midday, giving way to a chance of rain showers that may sweep through during the afternoon. As the clouds hang low, temperatures are expected to climb into the upper 50s, but the day\u2019s potential gusts could bring a jolt of energy, stirring up the atmosphere.\n\nGiven the current conditions, attire should consist of layers, including a waterproof jacket to stave off the dampness and a warm outer layer when venturing outdoors. The sea may churn with relatively gentle waves, inviting only the hardiest souls to the shore, but the uninviting landscape might discourage casual beachgoers. Though the season leans toward late fall and the temperatures may feel typical for this time of year, the combination of fog and precipitation provides a somber ambiance. For those determined to embrace the outdoors, a stroll along the lakefront could offer a momentary respite in nature, albeit enveloped in mist\u2014perfect for reflective thought or a brisk walk before the possibility of rain showers dances into the picture later in the day.",
-    "color_code": "#666666",
-    "timestamp": "2024-11-10 05:04:33"
+    "weather_report": "Evanston awakes to the sound of light drizzle and a veil of fog, as current conditions present a humid atmosphere, heavy with moisture and a bracing breeze rolling off Lake Michigan. The temperature hovers in the low 50s, and the winds are brisk, creating a chill that lingers in the air. As the day unfolds, expect patchy drizzle and fog to linger until morning's end, with the possibility of scattered rain showers surfacing around midday. Anticipate mostly cloudy skies with temperatures peaking near the upper 50s, though transitioning downwards in the afternoon.\n\nToday\u2019s ambiance paints a somewhat dreary but picturesque scene along the shoreline. The waves appear gentle yet rhythmic, inviting for contemplative strolls by the lake. Given the cool temperatures, opting for layers is wise\u2014think warm jackets or sweaters coupled with waterproof footwear, in case of a sudden downpour. During this early November period, the temperatures align with typical conditions for the season in this region, combining the remnants of autumn with the chill of approaching winter. If you're seeking activities, a brisk walk along the beach or through one of Evanston's parks can be refreshing, though check the skies for any errant raindrops. Enjoy this tranquil moment in nature, but don\u2019t forget an umbrella just in case.",
+    "color_code": "#5B6F92",
+    "timestamp": "2024-11-10 06:07:09"
 }
