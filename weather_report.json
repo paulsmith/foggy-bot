@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T06:51:00+00:00",
+            "timestamp": "2024-11-10T08:11:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
-            "humidity": 92.842632704448,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 130,
+            "humidity": 96.688464288609,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 160,
             "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As of early this morning, Evanston experiences a humid and damp atmosphere, with temperatures nestled in the upper 40s and a whispering breeze from the southeast adding a chill to the air. Light drizzle persists, shrouding the beach and Lake Michigan in a veil of mist. The gray skies and patchy fog evoke a sense of quiet solitude along the shoreline, making it less than inviting for outdoor activities.\n\nExpect continued drizzle and fog throughout the day, particularly in the early hours before it becomes more sporadic around noon. The temperature is anticipated to rise slightly, reaching near the low 60s by afternoon, though it may retreat to the mid-50s later. The south-southwest winds will maintain a gentle to moderate strength, possibly gusting to 30 mph, adding to the chilly feel. With a chance of precipitation lingering at about 30%, it would be wise to keep an umbrella handy while out and about. Dressing in layers and opting for waterproof attire would be ideal, as conditions are typical for this time of year in the Midwest, where cool, moist weather can often prevail in November. \n\nFor those contemplating outdoor plans, a brisk walk through the park or a visit to a local caf\u00e9 may be more appealing than a trip to the beach, as the mist may obscure views and dampen any seaside picnic. Overall, while the day may not capture the essence of late autumn beauty, it does offer a reflective atmosphere for those seeking a quieter retreat.",
-    "color_code": "#4B8BBE",
-    "timestamp": "2024-11-10 02:06:03"
+    "weather_report": "In Evanston, the air is thick with humidity, creating a damp and chilly atmosphere. Current temperatures sit in the upper 40s, accompanied by a gusty wind that sweeps in from the south, making for a brisk experience outdoors. The scene is further shadowed by light drizzle and dense fog, reducing visibility and amplifying the sense of a moody late fall night.\n\nThe forecast for the coming hours suggests a continuation of patchy drizzle and fog, with temperatures expected to rise slightly overnight. By Sunday, we can anticipate similar conditions, with a chance of rain showers throughout the day, primarily after noon. The high will creep up to the low 60s, while a steady breeze may pick up, adding a chill to the air. For those brave enough to venture outside, the beach scene may be less inviting due to the dreary weather, with waves likely subdued, concealing the usual vibrancy of the shoreline. It\u2019s a time to bundle up\u2014think layers with waterproof outerwear to fend off the persistent moisture in the air. While outdoor activities might be limited, cozying up with a good book or enjoying indoor hobbies could be a pleasant way to spend the day, especially as we near a holiday season filled with warmth and festivity.",
+    "color_code": "#5E5B6A",
+    "timestamp": "2024-11-10 03:05:10"
 }
