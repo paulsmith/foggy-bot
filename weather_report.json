@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T13:51:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 96.107794274811,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 180,
+            "timestamp": "2024-11-10T14:51:00+00:00",
+            "temperature_f": 55.04,
+            "temperature_c": 12.8,
+            "humidity": 89.404510853386,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 190,
             "description": "Mostly Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a cool, damp morning, marked by temperatures in the low 50s and a heavy blanket of humidity clinging to the air. The wind is brisk, creating a notable chill as it rolls off Lake Michigan from the south. The sky hangs mostly cloudy, with broken views of blue interspersed between the clouds.\n\nLooking ahead to today, experience a blend of sun and clouds. There\u2019s a chance of light rain showers in the early afternoon, with temperatures expected to rise slightly into the upper 50s. A strong breeze will persist, encouraging a bit of a wild sensation around town as wind gusts reach up to 30 miles per hour. As night falls, expect continued cloud cover and temperatures dipping into the high 40s, keeping it quite cool. This weather aligns with the typical fall pattern in this region, as the air turns crisp, preparing residents for the winter months ahead.\n\nGiven today's conditions, dress warmly in layers, opting for a light jacket or sweater to fend off the chill, especially if venturing out by the water. While wet weather may make outdoor plans uncertain, the clear patches could provide some moments of respite ideal for a leisurely stroll along the lakefront. The steady waves, a touch more animated than usual due to the wind, might beckon surf enthusiasts or those simply seeking the calming sounds of the water\u2019s edge. \n\nWith the holiday season just around the corner, a quiet day like today can be perfect for gathering thoughts ahead of busier times.",
-    "color_code": "#008080",
-    "timestamp": "2024-11-10 09:05:00"
+    "weather_report": "In Evanston, Illinois, the current atmosphere is one of cool, damp conditions, with temperatures hovering in the mid-50s and a persistent humidity holding the air close. There's a blustery wind from the south, occasionally gusting, which adds a slight chill to the already crisp environment, but the skies are mostly cloudy, suggesting that while the sun might struggle to break through, it won\u2019t be a completely drab day.\n\nLooking ahead, today brings a chance of light rain showers between noon and 5 PM, with clouds giving way to some sun and a high approaching the low 60s before retreating to around 56 later in the afternoon. Tonight, the clouds will linger as temperatures drop into the upper 40s, and the winds will continue to whisper with some gusts. Along the shoreline, the water is likely to experience gentle wave movement, making it suitable for leisurely walks or quiet reflection rather than vigorous water activities. With light showers anticipated, a light jacket or layers would be advisable for anyone venturing outside. In this mid-autumn season, temperatures are trending towards the typical range for November, inviting locals to embrace the cozy charm of the season. This day offers a perfect opportunity for a stroll by the lake or a visit to a local caf\u00e9, allowing for both enjoyment of the changing weather and a sense of peaceful retreat from the busyness of life.",
+    "color_code": "#A1C8E8",
+    "timestamp": "2024-11-10 10:04:47"
 }
