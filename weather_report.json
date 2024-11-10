@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T20:51:00+00:00",
-            "temperature_f": 57.02,
-            "temperature_c": 13.9,
-            "humidity": 63.994810864366,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-10T21:51:00+00:00",
+            "temperature_f": 55.04,
+            "temperature_c": 12.8,
+            "humidity": 63.745815259196,
+            "wind_speed_mph": 66.03624,
+            "wind_direction": 260,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-10T16:00:00-06:00",
+                "startTime": "2024-11-10T17:00:00-06:00",
                 "endTime": "2024-11-10T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 62, with temperatures falling to around 55 in the afternoon. West southwest wind 15 to 20 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Partly sunny. High near 62, with temperatures falling to around 55 in the afternoon. West southwest wind around 15 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather paints a picture of a crisp, mostly cloudy afternoon with temperatures hovering in the upper 50s, accompanied by a gentle humidity that adds a slight dampness to the air. As the sun begins its descent, expect a shift as later forecasts promise partly sunny skies. This afternoon will see temperatures rising briefly to the low 60s before a light breeze transitions into a blustery west-southwest wind, bringing gusts that could reach up to 35 miles per hour.\n\nAs the day slips into evening, the weather will shift to partly cloudy skies with temperatures dipping to the upper 40s, wrapped in a cool wind that may be felt more keenly by the lakeshore. While no precipitation is on the radar, the fresh air, combined with the dance of clouds, provides a lovely backdrop for outdoor activities. Given the season, this November day is typical for the region, suggesting layers might be necessary to stay comfortable. For those venturing outside, a warm jacket and perhaps a hat would complement the brisk conditions nicely, making it a perfect opportunity for an invigorating stroll along the beach or enjoying the last rays of the sun as it reflects off Lake Michigan\u2019s surface.",
-    "color_code": "#B9C4D9",
-    "timestamp": "2024-11-10 16:04:43"
+    "weather_report": "Evanston, Illinois is experiencing a breezy evening with the air carrying a distinct chill, as temperatures hover in the mid-50s. The current conditions feature partly cloudy skies, with the breeze from the west bringing a refreshing, invigorating feel, although it seems gusty enough to catch your attention. Looking ahead, tonight promises to remain partly cloudy, with temperatures dipping into the upper 40s under the calming twilight. \n\nGiven the wave activity along Lake Michigan, expect fairly gentle conditions\u2014no major swells to contend with, making for a peaceful scene at the beach. There's no precipitation in sight, ensuring a dry evening ahead, inviting for a stroll or quiet reflection by the water. As the season shifts to fall, these temperatures are typical for November in the Midwest; however, they may feel a bit brisk given the earlier warmth experienced in October. Prepare for cooler weather with layers, perhaps a light jacket or sweater, ideal for evening activities. Enjoying a leisurely walk on the beach or visiting a local cafe for warm drinks could enhance your evening experience in this picturesque lakeside town.",
+    "color_code": "#e1b7af",
+    "timestamp": "2024-11-10 17:04:57"
 }
