@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-09T19:00:00-06:00",
+                "startTime": "2024-11-09T20:00:00-06:00",
                 "endTime": "2024-11-10T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 51,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening falls over Evanston, the air is enveloped in a damp chill, typical for this time of year as autumn transitions into winter. Current conditions reveal a temperature hovering in the low 50s, accompanied by a notable humidity that lends a heavy feel to the air. The sky is mostly cloudy, casting a muted light over the landscape as gusty winds blow in from the southeast, making the atmosphere feel brisker than it actually is. As for precipitation, expect rain showers to spread across the region late into the night, bringing the promise of a drizzly atmosphere before dawn.\n\nLooking ahead, tomorrow's weather offers a mix of light drizzle in the morning, transitioning into a tentative chance of sun by midday, albeit with temperatures peaking around the upper 50s before dropping again in the afternoon. The winds will continue to be breezy, with gusts that could whip up a bit of energy along the shore of Lake Michigan. This might make for less than ideal wave conditions, as choppy waters are likely, preventing most from finding solace along the beach. In light of these trends, dress warmly in layers, opting for waterproof attire if venturing outside, especially later in the evening. Despite the dampness, opportunities abound for enjoying indoor activities with friends or family, or perhaps even a cozy evening walk under the freshly draped evening sky.",
-    "color_code": "#6B8E97",
-    "timestamp": "2024-11-09 19:32:16"
+    "weather_report": "As the evening settles over Evanston, the temperature lingers in the low 50s, creating a damp and humid atmosphere under a blanket of mostly cloudy skies. The brisk winds from the southeast whip through the air, stirring up the nearby waves on Lake Michigan, which may present a formidable sight as they crash against the shore. Tonight, expect rain showers before dawn, with a significant probability of precipitation lingering at 90%. New rainfall could amount to less than a tenth of an inch, yet the moisture will enhance the chill in the air.\n\nTomorrow will greet you with patchy drizzle in the morning, possibly giving way to some sunshine by the afternoon, though temperatures are expected to cap near the upper 50s and fall to the mid-50s as the day wears on. A blustery southwest wind could add to the mix, with gusts reaching up to 35 mph, making for a potentially gusty experience at the beach. Given these conditions, skirting the shoreline may be unpleasant, and attire should include waterproof layers and sturdy shoes to withstand the wind and sporadic rain. As we approach mid-November in this region, these temperatures are indeed typical for the season, presenting a quintessential autumnal chill. If you plan to venture out, consider indoor activities like visiting local caf\u00e9s or museums, as outdoor excursions may prove difficult given the expected precipitation and wind.",
+    "color_code": "#4A4C9C",
+    "timestamp": "2024-11-09 20:28:08"
 }
