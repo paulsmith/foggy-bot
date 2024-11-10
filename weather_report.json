@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T02:51:00+00:00",
+            "timestamp": "2024-11-10T03:51:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
             "humidity": 76.817807374338,
-            "wind_speed_mph": 24.964920000000003,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 130,
             "description": "Light Rain"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-09T22:00:00-06:00",
+                "startTime": "2024-11-09T23:00:00-06:00",
                 "endTime": "2024-11-10T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 51,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As darkness blankets Evanston, the current conditions present a tapestry of wet and windy elements. With the temperature hovering in the low 50s, a damp chill envelops the area, accompanied by a humid atmosphere that speaks of impending rain. The air is brisk and gusty, with winds howling from the southeast at 25 mph, causing the trees to sway and the waves on Lake Michigan to rise in response. Light rain falls intermittently, creating a soft patter that sets a serene yet somber scene along the shoreline.\n\nTonight, expect rain showers to linger until early morning, transitioning to patchy drizzle under an overcast sky. Temperatures will hold steady around the low 50s, with a steady south-southeast breeze, offering a blustery feel. As the day breaks on Sunday, lingering drizzle may give way to a brief chance of rain showers, but hints of sun may peek through by the afternoon. With temperatures approaching 60 in the early hours before a gradual dip, the overall mood tomorrow appears one of mixed warmth and uncertainty. Given these conditions, it would be prudent to don layered attire, ideally something waterproof to brace against the elements. \n\nWhile the beach may lack the appeal for a leisurely stroll in such damp weather, the tempestuous waters of the lake could entice hardy souls seeking a bit of adventure. Those with a passion for photography may delight in capturing the moody landscapes, while book lovers can find solace indoors with a good read as the rain taps quietly against the window. Overall, though the evening bears a chilly, wet demeanor, the spirit of the community and the persistent beauty of Lake Michigan endures.",
-    "color_code": "#3A3F3F",
-    "timestamp": "2024-11-09 22:05:46"
+    "weather_report": "Current weather conditions in Evanston, Illinois, reveal a somewhat bleak atmosphere, with light rain drizzling from the sky. The temperature rests in the low 50s, creating a damp and chilly environment alongside a blustery wind that sweeps off Lake Michigan. As the night deepens, precipitation is expected to continue with rain showers and patchy drizzle lingering until the early hours. \n\nLooking ahead to Sunday, the weather appears to be on the mend, transitioning to a partly sunny disposition with a high approaching the low 60s, though temperatures will fall to the mid-50s by the afternoon as a gusty southwest wind stirs through the area. While wave activity on the lake isn't particularly favorable for recreational boating this evening due to rough conditions, tomorrow holds more promise for outdoor activities, provided one stays vigilant against the chance of lingering drizzle in the morning. Given the dampness, it's advisable to don waterproof attire and pack a light layer, as the air will feel crisp and invigorating. Overall, the current conditions mark a typical November evening in the region, bidding farewell to the warmth of summer and ushering in the cool embrace of autumn. A walk along the beach may be refreshing, though a cozy indoor activity could prove more appealing until the rain clears.",
+    "color_code": "#35343B",
+    "timestamp": "2024-11-09 23:04:57"
 }
