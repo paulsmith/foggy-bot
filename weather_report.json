@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T08:51:00+00:00",
+            "timestamp": "2024-11-10T09:51:00+00:00",
             "temperature_f": 50.0,
             "temperature_c": 10,
-            "humidity": 96.056307711081,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 180,
+            "humidity": 100,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 170,
             "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-10T04:00:00-06:00",
+                "startTime": "2024-11-10T05:00:00-06:00",
                 "endTime": "2024-11-10T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly, humid atmosphere with a temperature resting in the low 50s. The air is thick with fog and light drizzle, lending the beach a muted, somber quality. With a steady breeze coming from the south and wind gusts creating a mild bluster, the atmosphere feels cool and damp. Looking ahead, the overnight forecast suggests a continuation of patchy drizzle and fog, with temperatures gradually rising to the mid-50s. Sunday will bring more of the same in the morning, transitioning to a higher chance of scattered rain showers by midday, with conditions remaining mostly cloudy and temperatures peaking near 60. \n\nGiven the weather, the scene may appear less inviting for outdoor activities, as the wet and misty air can dampen spirits. Wave conditions are likely to be mild but can be choppy with the wind, making them more suitable for viewing rather than swimming. Dress in layers to manage the cool and damp environment, opting for waterproof outerwear if venturing outside. As we experience the late fall season, these temperatures are typical for the region, often reminding locals of the upcoming winter months. While a stroll along the beach might not be the most appealing option today, a cozy afternoon inside a local caf\u00e9 or engaging in indoor activities would be a perfect way to appreciate this quintessential Chicago weather.",
-    "color_code": "#6B8E8E",
-    "timestamp": "2024-11-10 04:04:45"
+    "weather_report": "Evanston wakes this morning under a thick blanket of dampness, with the air heavy and saturated due to persistent light drizzle and a pervasive fog that casts a muted veil over the landscape. The temperature hovers in the low 50s, while a brisk, southerly breeze whispers through the trees at a steady pace, creating an atmosphere that feels both chilly and refreshing. Throughout the day, expect more of the same, with patchy drizzle lingering until midday, giving way to a chance of rain showers that may sweep through during the afternoon. As the clouds hang low, temperatures are expected to climb into the upper 50s, but the day\u2019s potential gusts could bring a jolt of energy, stirring up the atmosphere.\n\nGiven the current conditions, attire should consist of layers, including a waterproof jacket to stave off the dampness and a warm outer layer when venturing outdoors. The sea may churn with relatively gentle waves, inviting only the hardiest souls to the shore, but the uninviting landscape might discourage casual beachgoers. Though the season leans toward late fall and the temperatures may feel typical for this time of year, the combination of fog and precipitation provides a somber ambiance. For those determined to embrace the outdoors, a stroll along the lakefront could offer a momentary respite in nature, albeit enveloped in mist\u2014perfect for reflective thought or a brisk walk before the possibility of rain showers dances into the picture later in the day.",
+    "color_code": "#666666",
+    "timestamp": "2024-11-10 05:04:33"
 }
