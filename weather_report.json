@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-09T20:51:00+00:00",
-            "temperature_f": 53.96,
-            "temperature_c": 12.2,
-            "humidity": 69.101022929,
+            "timestamp": "2024-11-09T22:51:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 76.898108532185,
             "wind_speed_mph": 41.07132,
-            "wind_direction": 110,
+            "wind_direction": 130,
             "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-09T17:00:00-06:00",
-                "endTime": "2024-11-09T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a high near 54. Southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-09T18:00:00-06:00",
                 "endTime": "2024-11-10T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,70/rain_showers,80?size=medium",
                 "shortForecast": "Rain Showers",
                 "detailedForecast": "Rain showers before 4am, then patchy drizzle. Cloudy, with a low around 51. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-11-10T06:00:00-06:00",
+                "endTime": "2024-11-10T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "10 to 20 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "Patchy drizzle before 9am, then a chance of rain showers between 9am and 5pm. Partly sunny. High near 60, with temperatures falling to around 54 in the afternoon. Southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston, Illinois reflect a cool, damp autumn evening, with temperatures lingering in the low 50s, accompanied by a rather humid atmosphere. The wind is howling in from the southeast, making for a brisk and somewhat blustery feel, especially along the waterfront. Presently, light rain is falling, contributing to the patchy gray clouds that cloak the sky, creating a mellow, subdued ambiance for the day.\n\nAs we look ahead to this afternoon and tonight, expect further rain showers, particularly before dawn, with a substantial chance of drizzle later on. The temperature will settle slightly lower, hovering around the lower 50s, while the breeze remains prominent, reaching gusts that could stir up the lake in a tumultuous fashion. Given the wave conditions, it might be best to steer clear of the water\u2019s edge; the rough texture of the waves could be quite uninviting. For those considering outdoor ventures, a warm rain jacket and sturdy footwear would be advisable to keep dry and comfortable. As we are in mid-autumn, this weather is in line with typical seasonal patterns, where overcast skies and the risk of precipitation are commonplace. \n\nDespite the less-than-ideal weather, cozy indoor activities such as visiting a local caf\u00e9 or venturing into one of Evanston's quaint shops could provide a warm reprieve while soaking in the town's charm.",
-    "color_code": "#7C7C7C",
-    "timestamp": "2024-11-09 17:05:15"
+    "weather_report": "As we gaze across the serene waters of Lake Michigan this evening, the current conditions in Evanston reflect a rather damp and brisk atmosphere. The temperature sits comfortably in the low 50s, while the air carries a noticeably humid feel with light rain contributing to the chill. Wind gusts are howling from the southeast, bringing a certain intensity to the night and creating ripples on the lake\u2019s surface.\n\nLooking ahead, tonight promises continued rain showers until the early morning, giving way to patchy drizzle. As the temperature hovers around the low 50s, a gentle breeze will accompany the rain, with gusts strengthening a bit as the night unfolds. Tomorrow, early risers might encounter some lingering drizzle before the skies clear slightly. A high in the upper 50s awaits, with a shift to a partly sunny day\u2014though, temperatures will dip a bit in the afternoon. The chance of rain lessens, presenting a more pleasant outlook for the day.\n\nGiven the wet and breezy conditions, it would be wise to dress warmly in layers with a waterproof jacket, and perhaps some solid footwear if venturing outside, particularly near the beach, where the waves might be moderately choppy. The overall vibe of the evening's weather feels quite typical for this season in the Midwest, with the autumn setting in, making outdoor activities a bit less appealing tonight. However, for those who enjoy a local walk under an umbrella or the solitude of rain against the lake, the evening offers a spirit that can be quite reflective. \n\nAs it stands, we can embrace cozy indoor pursuits like reading, enjoying a movie, or indulging in culinary creations while the comforting sounds of rain surround us.",
+    "color_code": "#A6B4C1",
+    "timestamp": "2024-11-09 18:22:31"
 }
