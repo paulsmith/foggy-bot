@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T10:51:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 96.074594670841,
+            "timestamp": "2024-11-10T11:51:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 96.731932441167,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 190,
+            "wind_direction": 200,
             "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-10T06:00:00-06:00",
+                "startTime": "2024-11-10T07:00:00-06:00",
                 "endTime": "2024-11-10T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -30,10 +30,10 @@
                     "value": 30
                 },
                 "windSpeed": "10 to 20 mph",
-                "windDirection": "SSW",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/rain_showers,30?size=medium",
                 "shortForecast": "Patchy Drizzle then Chance Rain Showers",
-                "detailedForecast": "Patchy drizzle and patchy fog before 9am, then a chance of rain showers between noon and 5pm. Mostly cloudy. High near 61, with temperatures falling to around 56 in the afternoon. South southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
+                "detailedForecast": "Patchy drizzle and patchy fog before 9am, then a chance of rain showers between noon and 5pm. Mostly cloudy. High near 61, with temperatures falling to around 56 in the afternoon. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston awakes to the sound of light drizzle and a veil of fog, as current conditions present a humid atmosphere, heavy with moisture and a bracing breeze rolling off Lake Michigan. The temperature hovers in the low 50s, and the winds are brisk, creating a chill that lingers in the air. As the day unfolds, expect patchy drizzle and fog to linger until morning's end, with the possibility of scattered rain showers surfacing around midday. Anticipate mostly cloudy skies with temperatures peaking near the upper 50s, though transitioning downwards in the afternoon.\n\nToday\u2019s ambiance paints a somewhat dreary but picturesque scene along the shoreline. The waves appear gentle yet rhythmic, inviting for contemplative strolls by the lake. Given the cool temperatures, opting for layers is wise\u2014think warm jackets or sweaters coupled with waterproof footwear, in case of a sudden downpour. During this early November period, the temperatures align with typical conditions for the season in this region, combining the remnants of autumn with the chill of approaching winter. If you're seeking activities, a brisk walk along the beach or through one of Evanston's parks can be refreshing, though check the skies for any errant raindrops. Enjoy this tranquil moment in nature, but don\u2019t forget an umbrella just in case.",
-    "color_code": "#5B6F92",
-    "timestamp": "2024-11-10 06:07:09"
+    "weather_report": "It\u2019s a damp morning in Evanston, where the temperature hovers in the low 50s, accompanied by a thick blanket of humidity that makes the air feel almost heavy. The gentle, persistent drizzle and low-lying fog obscure the typically vibrant scenery, leaving an impression of muted colors. As we look toward Lake Michigan, the view is slightly obscured, delivering a calm yet somber atmosphere. Winds are brisk, coming from the southwest, adding a refreshing chill to the day, which may enhance the overall dreariness but also brings a sense of briskness.\n\nAs we move through the day, expect patchy drizzle and fog to linger until mid-morning, giving way to a chance of light rain showers around lunchtime. Cloud cover will remain omnipresent, and temperatures will gradually drop to the mid 50s by afternoon. Though precipitation chances are about 30%, the presence of dark clouds might encourage you to carry an umbrella just in case. Given the season, these temperatures are typical for early November in this region; however, the weather may feel cooler under the damp conditions. For outdoor plans, consider wearing layers: a warm, waterproof jacket, and perhaps even a pair of sturdy boots for any unforeseen splashes. Ideal activities today would include indoor visits to local cafes or museums, where one can enjoy a warm drink while waiting for the weather to clear. Alternatively, for the brave souls undeterred by drizzly conditions, a stroll along the beach might provide a quiet retreat, just be wary of the wet sand and chilly breeze.",
+    "color_code": "#A0B0B8",
+    "timestamp": "2024-11-10 07:07:04"
 }
