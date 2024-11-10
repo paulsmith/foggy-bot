@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T08:11:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 96.688464288609,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 160,
+            "timestamp": "2024-11-10T08:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 96.056307711081,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 180,
             "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-10T02:00:00-06:00",
+                "startTime": "2024-11-10T04:00:00-06:00",
                 "endTime": "2024-11-10T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 20
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers and patchy fog before 3am, then patchy drizzle and patchy fog. Cloudy. Low around 50, with temperatures rising to around 52 overnight. South wind 10 to 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle and patchy fog. Cloudy. Low around 50, with temperatures rising to around 52 overnight. South wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the air is thick with humidity, creating a damp and chilly atmosphere. Current temperatures sit in the upper 40s, accompanied by a gusty wind that sweeps in from the south, making for a brisk experience outdoors. The scene is further shadowed by light drizzle and dense fog, reducing visibility and amplifying the sense of a moody late fall night.\n\nThe forecast for the coming hours suggests a continuation of patchy drizzle and fog, with temperatures expected to rise slightly overnight. By Sunday, we can anticipate similar conditions, with a chance of rain showers throughout the day, primarily after noon. The high will creep up to the low 60s, while a steady breeze may pick up, adding a chill to the air. For those brave enough to venture outside, the beach scene may be less inviting due to the dreary weather, with waves likely subdued, concealing the usual vibrancy of the shoreline. It\u2019s a time to bundle up\u2014think layers with waterproof outerwear to fend off the persistent moisture in the air. While outdoor activities might be limited, cozying up with a good book or enjoying indoor hobbies could be a pleasant way to spend the day, especially as we near a holiday season filled with warmth and festivity.",
-    "color_code": "#5E5B6A",
-    "timestamp": "2024-11-10 03:05:10"
+    "weather_report": "Current conditions in Evanston reveal a chilly, humid atmosphere with a temperature resting in the low 50s. The air is thick with fog and light drizzle, lending the beach a muted, somber quality. With a steady breeze coming from the south and wind gusts creating a mild bluster, the atmosphere feels cool and damp. Looking ahead, the overnight forecast suggests a continuation of patchy drizzle and fog, with temperatures gradually rising to the mid-50s. Sunday will bring more of the same in the morning, transitioning to a higher chance of scattered rain showers by midday, with conditions remaining mostly cloudy and temperatures peaking near 60. \n\nGiven the weather, the scene may appear less inviting for outdoor activities, as the wet and misty air can dampen spirits. Wave conditions are likely to be mild but can be choppy with the wind, making them more suitable for viewing rather than swimming. Dress in layers to manage the cool and damp environment, opting for waterproof outerwear if venturing outside. As we experience the late fall season, these temperatures are typical for the region, often reminding locals of the upcoming winter months. While a stroll along the beach might not be the most appealing option today, a cozy afternoon inside a local caf\u00e9 or engaging in indoor activities would be a perfect way to appreciate this quintessential Chicago weather.",
+    "color_code": "#6B8E8E",
+    "timestamp": "2024-11-10 04:04:45"
 }
