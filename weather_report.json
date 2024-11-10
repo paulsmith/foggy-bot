@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T14:51:00+00:00",
-            "temperature_f": 55.04,
-            "temperature_c": 12.8,
-            "humidity": 89.404510853386,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 190,
+            "timestamp": "2024-11-10T16:51:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 74.978033950497,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 180,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-10T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-10T12:00:00-06:00",
                 "endTime": "2024-11-10T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,30?size=medium",
-                "shortForecast": "Partly Sunny then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers between noon and 4pm. Partly sunny. High near 60, with temperatures falling to around 55 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers before 4pm. Partly sunny. High near 60, with temperatures falling to around 55 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 48. West wind 10 to 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Partly cloudy, with a low around 48. West wind around 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing blustery conditions, with temperatures hovering in the mid 50s and high humidity giving the air a damp feel. The sky is mostly cloudy, leaving a touch of gray that suggests some rain may be lurking nearby. A chance of showers looms between noon and 4 PM, bringing with it a 30% chance of precipitation. As we look ahead, the forecast hints at a transition to partly sunny skies with a high temperature nudging toward 60 degrees before it begins to drop in the afternoon. Winds are expected to remain gusty, contributing to a bit of a chill in the air.\n\nGiven the current conditions, it\u2019s advisable to dress in layers, incorporating a light jacket to fend off the breeze, especially with wind gusts reaching up to 35 mph. These temperatures are typical for November in the Midwest, a season that often brings these kind of cool, variable days. As for activities, the beach could see some visitors braving the wind for a refreshing walk along the shore or enjoying the scenery of Lake Michigan, although those hoping to swim would do best to wait for warmer weather. This weekend day holds promise for both relaxation and brisk outdoor activity, provided one is aware of the potential for rain and dresses accordingly.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2024-11-10 11:04:53"
+    "weather_report": "Current conditions in Evanston offer a moderate chill, with temperatures lingering in the upper 50s and a touch of humidity in the air, creating a somewhat damp atmosphere. The winds are fierce today, blowing in from the south at significant speeds, giving the waves on Lake Michigan a spirited appearance. The day is mostly cloudy, hinting at the potential for scattered rain showers, particularly before the afternoon hours, but there\u2019s also a promise of some sun trying to break through the cloud cover.\n\nAs we look ahead to the remainder of the day, conditions will transition to partly sunny skies, with high temperatures reaching near 60 before taking a dip in the afternoon. The winds will remain brisk, maintaining their robust nature, making it feel a bit cooler than the actual temperature. With a low expected around the upper 40s tonight, it\u2019s advisable for anyone venturing out to dress in layers, perhaps a light jacket to guard against the chill as the day progresses into evening. While the beaches may look inviting, the rough waters suggest caution if any activities are planned near the shore. Given the day's moderate temperatures and the mix of cloudy skies with sunny intervals, outdoor walks and enjoying the beach's scenic views could be quite pleasant, bearing in mind the need for a light sweater as the sun starts to set.",
+    "color_code": "#A9B0B6",
+    "timestamp": "2024-11-10 12:05:40"
 }
