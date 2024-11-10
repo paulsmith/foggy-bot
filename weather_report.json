@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T11:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 96.731932441167,
+            "timestamp": "2024-11-10T13:11:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 92.966926628606,
             "wind_speed_mph": 16.91172,
             "wind_direction": 200,
-            "description": "Light Drizzle and Fog/Mist"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-10T07:00:00-06:00",
+                "startTime": "2024-11-10T08:00:00-06:00",
                 "endTime": "2024-11-10T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -33,7 +33,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/rain_showers,30?size=medium",
                 "shortForecast": "Patchy Drizzle then Chance Rain Showers",
-                "detailedForecast": "Patchy drizzle and patchy fog before 9am, then a chance of rain showers between noon and 5pm. Mostly cloudy. High near 61, with temperatures falling to around 56 in the afternoon. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
+                "detailedForecast": "Patchy drizzle before 9am, then a chance of rain showers between noon and 5pm. Mostly cloudy. High near 61, with temperatures falling to around 56 in the afternoon. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "It\u2019s a damp morning in Evanston, where the temperature hovers in the low 50s, accompanied by a thick blanket of humidity that makes the air feel almost heavy. The gentle, persistent drizzle and low-lying fog obscure the typically vibrant scenery, leaving an impression of muted colors. As we look toward Lake Michigan, the view is slightly obscured, delivering a calm yet somber atmosphere. Winds are brisk, coming from the southwest, adding a refreshing chill to the day, which may enhance the overall dreariness but also brings a sense of briskness.\n\nAs we move through the day, expect patchy drizzle and fog to linger until mid-morning, giving way to a chance of light rain showers around lunchtime. Cloud cover will remain omnipresent, and temperatures will gradually drop to the mid 50s by afternoon. Though precipitation chances are about 30%, the presence of dark clouds might encourage you to carry an umbrella just in case. Given the season, these temperatures are typical for early November in this region; however, the weather may feel cooler under the damp conditions. For outdoor plans, consider wearing layers: a warm, waterproof jacket, and perhaps even a pair of sturdy boots for any unforeseen splashes. Ideal activities today would include indoor visits to local cafes or museums, where one can enjoy a warm drink while waiting for the weather to clear. Alternatively, for the brave souls undeterred by drizzly conditions, a stroll along the beach might provide a quiet retreat, just be wary of the wet sand and chilly breeze.",
-    "color_code": "#A0B0B8",
-    "timestamp": "2024-11-10 07:07:04"
+    "weather_report": "In Evanston, Illinois, the morning brings a refreshing chill, with current temperatures hovering in the low 50s under a blanket of clouds. Humidity is high, creating a damp yet invigorating atmosphere, while a brisk and blustery wind from the southwest stirs the landscape. Today\u2019s forecast promises potential drizzle early on, with chances of rain showers emerging around midday. As the sun strives to pierce through, the afternoon high is expected to reach into the high 50s, suggesting that although the day may remain mostly cloudy, it will not be entirely dreary.\n\nAs the evening approaches, expect a gentle transition into a cooler night with temperatures dipping into the upper 40s, complemented by a calming west wind. The lakeshore will likely see some gently rolling waves, while the overall appearance of the beach may be slightly muted but still inviting for those who appreciate the peace of the water even on overcast days. Given the season, these temperatures are typical for November in the Midwest, so layering is recommended. A decent choice for attire would be light jackets in combination with long sleeves, perfect for a walk along the beach or a visit to any local cafes. While the uncertain weather may deter some outdoor activities, those willing to brave the elements can still enjoy the serenity of Lake Michigan or perhaps take part in a leisurely beach stroll.",
+    "color_code": "#A6A8B0",
+    "timestamp": "2024-11-10 08:04:47"
 }
