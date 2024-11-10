@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T04:51:00+00:00",
+            "timestamp": "2024-11-10T05:26:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
             "humidity": 89.741574390528,
             "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 120,
+            "wind_direction": 140,
             "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather presents a rather damp and dreary scene, with a temperature nestled in the upper 40s, coupled with a heavy, muggy atmosphere thanks to high humidity levels. The winds are quite gusty, sweeping in from the southeast, creating a restless environment as light rain and fog envelop the area. Residents can expect this precipitation to continue overnight, with rain showers likely tapering off around dawn before a drizzle prevails, keeping the conditions overcast and chilly.\n\nLooking ahead to Sunday, there\u2019s a glimmer of hope as the day starts with a possibility of patchy drizzle. A mix of clouds and sun is anticipated, with afternoon temperatures reaching into the upper 50s before cooling down slightly. Wind gusts may become quite vigorous, hitting highs in the 30s, adding to the briskness of the day. Ideal attire would involve layering up with a light jacket or raincoat, paired with sturdy shoes\u2014especially if venturing along the shoreline where the waves could churn restlessly due to the developing counter-current. Given that it\u2019s a weekend, indoor activities may be preferable, although if brave souls wish to explore the beachfront, a gentle walk might provide some relief from the confines of indoor spaces. The season aligns with typical November weather patterns here in the Midwest, where cool temperatures and occasional rain are expected as autumn transitions to winter.",
-    "color_code": "#4a4a4a",
-    "timestamp": "2024-11-10 00:06:12"
+    "weather_report": "In Evanston, the current weather is marked by a cool and damp atmosphere, with the temperature hovering in the low 50s and humidity creating a heavy, moist sensation in the air. Blustery winds from the southeast add an edge to the rain and mist, painting a rather grey picture at the beach, where visibility is low and the waves churn restlessly against the shore. Indeed, light rain is currently falling, and expectations are set for this precipitation to continue through the night, signaling a 100% chance of additional showers until the early morning hours.\n\nAs Sunday approaches, expect a slight reprieve from the heavier downpours, with patchy drizzle lingering until around mid-morning, followed by more scattered rain showers throughout the day. Partly sunny skies should begin to emerge later on, though temperatures will only reach the high 50s, cooling down again by the afternoon. While the brisk, gusty winds will likely make it feel a touch cooler, a light jacket will be necessary for comfort when venturing outside. The current season makes these temperatures typical for November; however, the overall dreary conditions may not inspire much outdoor activity. Still, for those eager to embrace the elements, a brisk walk along the misty beach or a cozy afternoon at a local caf\u00e9 could provide a pleasant refuge from the chill.",
+    "color_code": "#607D8B",
+    "timestamp": "2024-11-10 01:04:46"
 }
