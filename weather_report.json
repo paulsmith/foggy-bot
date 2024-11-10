@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T05:26:00+00:00",
+            "timestamp": "2024-11-10T06:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
-            "humidity": 89.741574390528,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 140,
-            "description": "Light Rain and Fog/Mist"
+            "humidity": 92.842632704448,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 130,
+            "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-10T00:00:00-06:00",
+                "startTime": "2024-11-10T02:00:00-06:00",
                 "endTime": "2024-11-10T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 51,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 50
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,100?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers before 4am, then patchy drizzle. Cloudy, with a low around 51. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers and patchy fog before 3am, then patchy drizzle and patchy fog. Cloudy. Low around 50, with temperatures rising to around 52 overnight. South wind 10 to 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-10T06:00:00-06:00",
                 "endTime": "2024-11-10T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 60,
+                "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -49,14 +49,14 @@
                     "value": 30
                 },
                 "windSpeed": "10 to 20 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "Patchy drizzle before 9am, then a chance of rain showers between 9am and 5pm. Partly sunny. High near 60, with temperatures falling to around 54 in the afternoon. Southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%."
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain_showers,30?size=medium",
+                "shortForecast": "Patchy Drizzle then Chance Rain Showers",
+                "detailedForecast": "Patchy drizzle and patchy fog before 9am, then a chance of rain showers between noon and 5pm. Mostly cloudy. High near 61, with temperatures falling to around 56 in the afternoon. South southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather is marked by a cool and damp atmosphere, with the temperature hovering in the low 50s and humidity creating a heavy, moist sensation in the air. Blustery winds from the southeast add an edge to the rain and mist, painting a rather grey picture at the beach, where visibility is low and the waves churn restlessly against the shore. Indeed, light rain is currently falling, and expectations are set for this precipitation to continue through the night, signaling a 100% chance of additional showers until the early morning hours.\n\nAs Sunday approaches, expect a slight reprieve from the heavier downpours, with patchy drizzle lingering until around mid-morning, followed by more scattered rain showers throughout the day. Partly sunny skies should begin to emerge later on, though temperatures will only reach the high 50s, cooling down again by the afternoon. While the brisk, gusty winds will likely make it feel a touch cooler, a light jacket will be necessary for comfort when venturing outside. The current season makes these temperatures typical for November; however, the overall dreary conditions may not inspire much outdoor activity. Still, for those eager to embrace the elements, a brisk walk along the misty beach or a cozy afternoon at a local caf\u00e9 could provide a pleasant refuge from the chill.",
-    "color_code": "#607D8B",
-    "timestamp": "2024-11-10 01:04:46"
+    "weather_report": "As of early this morning, Evanston experiences a humid and damp atmosphere, with temperatures nestled in the upper 40s and a whispering breeze from the southeast adding a chill to the air. Light drizzle persists, shrouding the beach and Lake Michigan in a veil of mist. The gray skies and patchy fog evoke a sense of quiet solitude along the shoreline, making it less than inviting for outdoor activities.\n\nExpect continued drizzle and fog throughout the day, particularly in the early hours before it becomes more sporadic around noon. The temperature is anticipated to rise slightly, reaching near the low 60s by afternoon, though it may retreat to the mid-50s later. The south-southwest winds will maintain a gentle to moderate strength, possibly gusting to 30 mph, adding to the chilly feel. With a chance of precipitation lingering at about 30%, it would be wise to keep an umbrella handy while out and about. Dressing in layers and opting for waterproof attire would be ideal, as conditions are typical for this time of year in the Midwest, where cool, moist weather can often prevail in November. \n\nFor those contemplating outdoor plans, a brisk walk through the park or a visit to a local caf\u00e9 may be more appealing than a trip to the beach, as the mist may obscure views and dampen any seaside picnic. Overall, while the day may not capture the essence of late autumn beauty, it does offer a reflective atmosphere for those seeking a quieter retreat.",
+    "color_code": "#4B8BBE",
+    "timestamp": "2024-11-10 02:06:03"
 }
