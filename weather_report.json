@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T13:11:00+00:00",
+            "timestamp": "2024-11-10T13:51:00+00:00",
             "temperature_f": 53.06,
             "temperature_c": 11.7,
-            "humidity": 92.966926628606,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 200,
-            "description": "Cloudy"
+            "humidity": 96.107794274811,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 180,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-10T08:00:00-06:00",
+                "startTime": "2024-11-10T09:00:00-06:00",
                 "endTime": "2024-11-10T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain_showers,30?size=medium",
-                "shortForecast": "Patchy Drizzle then Chance Rain Showers",
-                "detailedForecast": "Patchy drizzle before 9am, then a chance of rain showers between noon and 5pm. Mostly cloudy. High near 61, with temperatures falling to around 56 in the afternoon. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,30?size=medium",
+                "shortForecast": "Partly Sunny then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers between noon and 5pm. Partly sunny. High near 61, with temperatures falling to around 56 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the morning brings a refreshing chill, with current temperatures hovering in the low 50s under a blanket of clouds. Humidity is high, creating a damp yet invigorating atmosphere, while a brisk and blustery wind from the southwest stirs the landscape. Today\u2019s forecast promises potential drizzle early on, with chances of rain showers emerging around midday. As the sun strives to pierce through, the afternoon high is expected to reach into the high 50s, suggesting that although the day may remain mostly cloudy, it will not be entirely dreary.\n\nAs the evening approaches, expect a gentle transition into a cooler night with temperatures dipping into the upper 40s, complemented by a calming west wind. The lakeshore will likely see some gently rolling waves, while the overall appearance of the beach may be slightly muted but still inviting for those who appreciate the peace of the water even on overcast days. Given the season, these temperatures are typical for November in the Midwest, so layering is recommended. A decent choice for attire would be light jackets in combination with long sleeves, perfect for a walk along the beach or a visit to any local cafes. While the uncertain weather may deter some outdoor activities, those willing to brave the elements can still enjoy the serenity of Lake Michigan or perhaps take part in a leisurely beach stroll.",
-    "color_code": "#A6A8B0",
-    "timestamp": "2024-11-10 08:04:47"
+    "weather_report": "Current conditions in Evanston present a cool, damp morning, marked by temperatures in the low 50s and a heavy blanket of humidity clinging to the air. The wind is brisk, creating a notable chill as it rolls off Lake Michigan from the south. The sky hangs mostly cloudy, with broken views of blue interspersed between the clouds.\n\nLooking ahead to today, experience a blend of sun and clouds. There\u2019s a chance of light rain showers in the early afternoon, with temperatures expected to rise slightly into the upper 50s. A strong breeze will persist, encouraging a bit of a wild sensation around town as wind gusts reach up to 30 miles per hour. As night falls, expect continued cloud cover and temperatures dipping into the high 40s, keeping it quite cool. This weather aligns with the typical fall pattern in this region, as the air turns crisp, preparing residents for the winter months ahead.\n\nGiven today's conditions, dress warmly in layers, opting for a light jacket or sweater to fend off the chill, especially if venturing out by the water. While wet weather may make outdoor plans uncertain, the clear patches could provide some moments of respite ideal for a leisurely stroll along the lakefront. The steady waves, a touch more animated than usual due to the wind, might beckon surf enthusiasts or those simply seeking the calming sounds of the water\u2019s edge. \n\nWith the holiday season just around the corner, a quiet day like today can be perfect for gathering thoughts ahead of busier times.",
+    "color_code": "#008080",
+    "timestamp": "2024-11-10 09:05:00"
 }
