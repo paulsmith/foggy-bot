@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-11T06:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 76.898108532185,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 270,
+            "timestamp": "2024-11-11T07:51:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 79.496094610696,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 260,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-11T02:00:00-06:00",
+                "startTime": "2024-11-11T03:00:00-06:00",
                 "endTime": "2024-11-11T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the night air carries a chill, with temperatures hovering in the low 50s and a humid feel that leaves a dampness in the atmosphere. The wind is howling from the west at a brisk pace, creating a lively and restless sound along the shoreline. Currently, the sky is mostly cloudy, offering a patchy view of the moon, while wave action on Lake Michigan creates a restless surface, reflecting the vibrant dance of wind against water. As we look toward the forecast, it's indicated that the overnight conditions will remain mostly cloudy, with temperatures inching up slightly as the night wears on. Tomorrow, however, brings promising weather with mostly sunny skies expected, a high near the mid-50s, and a drop in temperature in the afternoon, accompanied by a blustery wind.\n\nTomorrow marks Veterans Day, a fitting occasion for outdoor honors and gatherings. However, the waves may still be too rough for swimming, making it best to admire the lake from afar. Recommended attire would include layers, with a jacket wise to bring along to combat the breeze as temperatures fluctuate throughout the day. While it\u2019s a cooler time of year in this part of the Midwest, conditions today feel typical for November, where crispness reigns and transitions to winter begin to set in. With the promise of clearer skies by mid-morning, it\u2019s an inviting opportunity for walks along the beach, visiting local caf\u00e9s, or participating in community events that honor our veterans.",
+    "weather_report": "Current conditions in Evanston, Illinois, reveal a damp and blustery night with temperatures resting in the low 50s, accompanied by a substantial humidity that adds a chill to the air. The winds are fierce, stirring up a rather restless atmosphere, while the skies hover mostly cloudy. As we transition into Veterans Day, expect a shift in the weather, with early morning clouds gradually giving way to sunnier skies. Daytime highs will approach the mid-50s, although readings will begin to taper into the afternoon, settling in the mid-40s by day\u2019s end.\n\nThe day appears to hold a pleasant quality, particularly as the sunlight breaks through, enhancing the shoreline\u2019s beauty. However, wave conditions on Lake Michigan may reflect the blustery winds, presenting a lively shoreline, possibly optimal for those who enjoy the sight of crashing waves, but perhaps less so for restful activities along the beach. With no precipitation in sight, outdoor ventures could be refreshing, though layered clothing would be advisable to accommodate the sharp winds and cooling temperatures typical of this time of year. A mid-November day like today is often characterized by a blend of fading autumn warmth and the crispness initiating winter's approach, making the current temperatures slightly below average for the season. For those looking to spend the day, a brisk walk along the waterfront or attending local ceremonies in honor of Veterans Day could be particularly fulfilling.",
     "color_code": "#3B3B3B",
-    "timestamp": "2024-11-11 02:07:16"
+    "timestamp": "2024-11-11 03:05:42"
 }
