@@ -11,32 +11,13 @@
             "temperature_f": 55.04,
             "temperature_c": 12.8,
             "humidity": 63.745815259196,
-            "wind_speed_mph": 66.03624,
-            "wind_direction": 260,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-10T17:00:00-06:00",
-                "endTime": "2024-11-10T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 62, with temperatures falling to around 55 in the afternoon. West southwest wind around 15 mph, with gusts as high as 35 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-10T18:00:00-06:00",
                 "endTime": "2024-11-11T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 48. West wind around 15 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Veterans Day",
+                "startTime": "2024-11-11T06:00:00-06:00",
+                "endTime": "2024-11-11T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 55, with temperatures falling to around 44 in the afternoon. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "Evanston, Illinois is experiencing a breezy evening with the air carrying a distinct chill, as temperatures hover in the mid-50s. The current conditions feature partly cloudy skies, with the breeze from the west bringing a refreshing, invigorating feel, although it seems gusty enough to catch your attention. Looking ahead, tonight promises to remain partly cloudy, with temperatures dipping into the upper 40s under the calming twilight. \n\nGiven the wave activity along Lake Michigan, expect fairly gentle conditions\u2014no major swells to contend with, making for a peaceful scene at the beach. There's no precipitation in sight, ensuring a dry evening ahead, inviting for a stroll or quiet reflection by the water. As the season shifts to fall, these temperatures are typical for November in the Midwest; however, they may feel a bit brisk given the earlier warmth experienced in October. Prepare for cooler weather with layers, perhaps a light jacket or sweater, ideal for evening activities. Enjoying a leisurely walk on the beach or visiting a local cafe for warm drinks could enhance your evening experience in this picturesque lakeside town.",
-    "color_code": "#e1b7af",
-    "timestamp": "2024-11-10 17:04:57"
+    "weather_report": "As evening settles over Evanston, current conditions reveal a cool, partly cloudy sky with temperatures in the mid-50s. The air carries a refreshing crispness, making it a comfortable moment for a stroll. Looking forward, tonight\u2019s forecast suggests that the skies will remain partly cloudy with a gentle breeze picking up from the west, likely providing a playful rustle among the trees. Tomorrow, Veterans Day, promises mostly sunny conditions, although temperatures are expected to dip into the low 40s in the afternoon, accompanied by more blustery winds that could bring gusts up to 30 mph.\n\nThe absence of any significant precipitation adds to the pleasantness of the scene, perfect for an evening walk along the beach or a quiet moment enjoying the lakefront view. With the cool temperatures typical for November in the Midwest, layering is recommended; consider a light jacket to stay comfortable. Tonight might be a lovely time to unwind outdoors, perhaps with friends or family, while soaking in the tranquil atmosphere before the chill sets in later.",
+    "color_code": "#004080",
+    "timestamp": "2024-11-10 18:21:51"
 }
