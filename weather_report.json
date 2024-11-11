@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Veterans Day",
-                "startTime": "2024-11-11T14:00:00-06:00",
+                "startTime": "2024-11-11T16:00:00-06:00",
                 "endTime": "2024-11-11T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 47 in the afternoon. North northwest wind 15 to 20 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 48 in the afternoon. North northwest wind around 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As of this afternoon, Evanston, Illinois finds itself in a refreshingly brisk setting, with temperatures hovering in the high 50s, complemented by a crisp and pleasant atmosphere. The air carries a slight dryness, while the skies remain mostly clear, allowing glimpses of sunshine to dance upon the surface of Lake Michigan. However, a steady, gusty breeze from the north-northwest adds a lively chill to the air, reaching upwards of 45 mph, creating just the right backdrop for a dynamic beach scene.\n\nLooking ahead, today\u2019s weather is expected to shift slightly as a cold front approaches. While the afternoon will maintain mostly sunny conditions, temperatures will gradually dip to the mid 40s. There's a slight chance of rain showers developing overnight, so those out for evening strolls should keep an umbrella handy. The wave conditions on the lake mirror the exuberance of the wind; a moderate chop stirs the waters, ideal for watching the light\u2019s reflections but too tumultuous for swimming. Given these conditions, layered attire is recommended\u2014think warm sweaters combined with a light jacket to fend off the chill, especially as evening approaches. As the heart of autumn envelops us, this weather feels typical for the season, inviting brisk walks along the shoreline or a cozy afternoon with a warm beverage as the days grow shorter.",
-    "color_code": "#A2C2E4",
-    "timestamp": "2024-11-11 15:04:44"
+    "weather_report": "In Evanston today, the weather presents a blend of serenity and briskness as we approach the early evening of Veterans Day. Current conditions reveal a temperature in the moderate high 50s, accompanied by a refreshing yet gusty north-northwest wind that brushes against the shoreline of Lake Michigan. The sky is predominantly clear, making way for the soft glow of twilight, but as night falls, a slight chance of rain showers may emerge after 3 AM, introducing a layer of unpredictability to the otherwise charming evening.\n\nAs we look forward to the rest of the day, we anticipate mostly sunny skies, transitioning to mostly cloudy conditions tonight. Residents should prepare for cooler temperatures dropping into the low 40s later, prompting a recommendation for layered attire\u2014perhaps a warm jacket or sweater paired with comfortable shoes for those venturing outdoors. The wave conditions along the lake are likely moderate, perfect for a peaceful stroll or perhaps engaging in some contemplative moments by the water as the day winds down. Given the current season, these temperatures align well with typical November weather in the Midwest, inviting locals to enjoy the brisk air while participating in seasonal activities such as visiting nearby parks or engaging in light recreational outings before the chance of rain arrives.",
+    "color_code": "#E8B16D",
+    "timestamp": "2024-11-11 16:04:50"
 }
