@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-11T05:00:00-06:00",
-                "endTime": "2024-11-11T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 48, with temperatures rising to around 50 overnight. West wind around 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
                 "name": "Veterans Day",
                 "startTime": "2024-11-11T06:00:00-06:00",
                 "endTime": "2024-11-11T18:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 54, with temperatures falling to around 45 in the afternoon. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-11T18:00:00-06:00",
+                "endTime": "2024-11-12T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. North northeast wind around 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois reveal a chilly, cloudy morning with temperatures hovering in the low 50s. The air is quite humid, which enhances the coolness, while a blustery wind whips in from the west, keeping the atmosphere brisk. As we move into the day, expect the weather to gradually clear, giving way to mostly sunny skies by afternoon. Highs will reach around the mid-50s, but temperatures will dip into the mid-40s later on.\n\nDespite the cool temperatures and gusty winds, this November day holds potential for pleasant outdoor pursuits. The choppy wave conditions on Lake Michigan may entice those interested in observing nature's raw beauty, although swimming or water activities might be less appealing. With no significant precipitation in sight, light layers are advisable to stay comfortable throughout the day, particularly as the afternoon brings cooler breezes. Given that today is Veterans Day, it is an opportune moment to participate in commemorative events while enjoying the fall freshness that our lakefront provides.",
-    "color_code": "#AAB8C2",
-    "timestamp": "2024-11-11 05:04:43"
+    "weather_report": "In Evanston this morning, the atmosphere is decidedly brisk, with temperatures lingering in the low 50s under a blanket of clouds, giving the shoreline a somewhat muted appearance as it stretches toward Lake Michigan. A strong, gusty wind sweeps through the area, making for a rather blustery scene along the beach, while the humidity lingers, imparting a damp chill to the air. For the day ahead, while mostly sunny skies are on the horizon, we can expect a gradual decline in temperatures, dipping into the mid 40s by afternoon. As evening sets in, temperatures may rise slightly but will settle around the low 40s.\n\nThe wave conditions are likely moderate given today\u2019s breezy winds, perfect for a brisk walk or jog along the shoreline to enjoy the fresh air, though anyone considering water activities should do so with caution. Currently, there\u2019s no precipitation on the radar, so it seems rain is not a concern today. Donning layers is advisable; a warm jacket and perhaps a scarf would provide comfort against the cool breezes. In the spirit of Veterans Day, it\u2019s a fine opportunity to honor those who served, perhaps through reflective activities like a peaceful stroll or gathering with friends and family. Overall, while the day may start cloudy, don\u2019t miss the chance to relish the sunshine later on.",
+    "color_code": "#A8B2C0",
+    "timestamp": "2024-11-11 06:08:28"
 }
