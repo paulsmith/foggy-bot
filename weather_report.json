@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-11T13:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 76.898108532185,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 260,
+            "timestamp": "2024-11-11T14:51:00+00:00",
+            "temperature_f": 53.96,
+            "temperature_c": 12.2,
+            "humidity": 71.510261021778,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 250,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Veterans Day",
-                "startTime": "2024-11-11T09:00:00-06:00",
+                "startTime": "2024-11-11T10:00:00-06:00",
                 "endTime": "2024-11-11T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 54,
+                "temperature": 56,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "20 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 54, with temperatures falling to around 45 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly sunny. High near 56, with temperatures falling to around 46 in the afternoon. Northwest wind around 20 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a day that is cool, with temperatures in the low 50s, accompanied by a damp feel in the air due to elevated humidity. The atmosphere is mostly clear, allowing for a pleasant view of Lake Michigan, although a strong and gusty wind from the northwest brings a brisk chill. As we look ahead to the weather for the rest of the day, expect mostly sunny skies, with temperatures reaching towards the mid-50s, although some cooling will set in during the afternoon. Tonight, the clouds will thicken as temperatures drop to around the low 40s and a rising breeze from the north-northeast adds a fresh note to the evening.\n\nGiven the current season, these temperatures are typical for early November in the Midwest, but the gusty winds add an element of bite to the air. With wave conditions likely stirred by the strong winds, it might not be the best time for swimming or boating. Instead, consider layering up in a warm jacket and comfortable attire for outdoor activities, perhaps a brisk walk along the lakefront to enjoy the fresh air while appreciating the autumn scenery. As today is Veterans Day, it\u2019s a fitting time to reflect on service and sacrifice, and a perfect excuse for a leisurely stroll to enjoy the vibrant surroundings while paying homage to those who have served.",
-    "color_code": "#5B9BD5",
-    "timestamp": "2024-11-11 09:05:04"
+    "weather_report": "As residents of Evanston awaken to a mostly clear morning, the air is a cool crispness typical of early autumn, with temperatures hovering in the low 50s. Humidity gives a slight dampness to the atmosphere, while a blustery wind sweeps in from the northwest, bringing invigorating gusts that could make you huddle a bit closer into your jacket. For the day ahead, expect mostly sunny skies with temperatures peaking near the mid-50s before settling into a cooler afternoon around the mid-40s. A north-northeast breeze will maintain its presence, with gusts that may stir the waters of Lake Michigan, creating conditions that can be both bracing and refreshing.\n\nWith a striking view of the lake, the beach scene invites outdoor exploration; however, the wind might dissuade those looking for a tranquil stroll. The wave conditions may be a bit choppy, appealing to those wishing to observe the frothy crests along the shore. There\u2019s no precipitation on the horizon, which means a dry day lends itself to various activities. Dress warmly in layers, favoring jackets and perhaps a light scarf, and take advantage of the clear skies by enjoying a walk or hosting an outdoor gathering. And as this day coincides with Veterans Day, it is especially fitting to reflect and honor those who have served. Embrace the season's essence as you venture out into the vibrant community spirit that characterizes this holiday.",
+    "color_code": "#0072B0",
+    "timestamp": "2024-11-11 10:06:00"
 }
