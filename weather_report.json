@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-11T07:51:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 79.496094610696,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 260,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-11T09:51:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 76.898108532185,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 250,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-11T04:00:00-06:00",
+                "startTime": "2024-11-11T05:00:00-06:00",
                 "endTime": "2024-11-11T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston indicate a cool and damp atmosphere, with temperatures hovering in the low 50s and a distinctly high level of humidity contributing to a moist, brisk feeling in the air. The wind is notably fierce, gusting with intensity that could take you by surprise if you're outdoors. The sky is mostly cloudy, obscuring any stars and creating a blanket of gray, which is typical for this time of year as we transition deeper into autumn.\n\nLooking ahead to today's forecast, residents can expect the clouds to disperse somewhat as the day progresses, yielding mostly sunny skies by afternoon. High temperatures will climb to the mid-50s before gently retreating to the low 40s as evening approaches. Wind conditions will moderate slightly but remain blustery, which could create choppy wave conditions along the beach. Overall, while the morning may start off feeling cool and overcast, the day promises a more pleasant turn with brighter skies and milder temperatures\u2014ideal for any outdoor activities. Dress in layers to combat the brisk winds, and consider a light jacket if heading outside, particularly if you're near the lake where the gusts can be sharper. \n\nAs we mark",
-    "color_code": null,
-    "timestamp": "2024-11-11 04:05:48"
+    "weather_report": "Current conditions in Evanston, Illinois reveal a chilly, cloudy morning with temperatures hovering in the low 50s. The air is quite humid, which enhances the coolness, while a blustery wind whips in from the west, keeping the atmosphere brisk. As we move into the day, expect the weather to gradually clear, giving way to mostly sunny skies by afternoon. Highs will reach around the mid-50s, but temperatures will dip into the mid-40s later on.\n\nDespite the cool temperatures and gusty winds, this November day holds potential for pleasant outdoor pursuits. The choppy wave conditions on Lake Michigan may entice those interested in observing nature's raw beauty, although swimming or water activities might be less appealing. With no significant precipitation in sight, light layers are advisable to stay comfortable throughout the day, particularly as the afternoon brings cooler breezes. Given that today is Veterans Day, it is an opportune moment to participate in commemorative events while enjoying the fall freshness that our lakefront provides.",
+    "color_code": "#AAB8C2",
+    "timestamp": "2024-11-11 05:04:43"
 }
