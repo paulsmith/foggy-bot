@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-11T03:00:00-06:00",
+                "startTime": "2024-11-11T04:00:00-06:00",
                 "endTime": "2024-11-11T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a damp and blustery night with temperatures resting in the low 50s, accompanied by a substantial humidity that adds a chill to the air. The winds are fierce, stirring up a rather restless atmosphere, while the skies hover mostly cloudy. As we transition into Veterans Day, expect a shift in the weather, with early morning clouds gradually giving way to sunnier skies. Daytime highs will approach the mid-50s, although readings will begin to taper into the afternoon, settling in the mid-40s by day\u2019s end.\n\nThe day appears to hold a pleasant quality, particularly as the sunlight breaks through, enhancing the shoreline\u2019s beauty. However, wave conditions on Lake Michigan may reflect the blustery winds, presenting a lively shoreline, possibly optimal for those who enjoy the sight of crashing waves, but perhaps less so for restful activities along the beach. With no precipitation in sight, outdoor ventures could be refreshing, though layered clothing would be advisable to accommodate the sharp winds and cooling temperatures typical of this time of year. A mid-November day like today is often characterized by a blend of fading autumn warmth and the crispness initiating winter's approach, making the current temperatures slightly below average for the season. For those looking to spend the day, a brisk walk along the waterfront or attending local ceremonies in honor of Veterans Day could be particularly fulfilling.",
-    "color_code": "#3B3B3B",
-    "timestamp": "2024-11-11 03:05:42"
+    "weather_report": "Current weather conditions in Evanston indicate a cool and damp atmosphere, with temperatures hovering in the low 50s and a distinctly high level of humidity contributing to a moist, brisk feeling in the air. The wind is notably fierce, gusting with intensity that could take you by surprise if you're outdoors. The sky is mostly cloudy, obscuring any stars and creating a blanket of gray, which is typical for this time of year as we transition deeper into autumn.\n\nLooking ahead to today's forecast, residents can expect the clouds to disperse somewhat as the day progresses, yielding mostly sunny skies by afternoon. High temperatures will climb to the mid-50s before gently retreating to the low 40s as evening approaches. Wind conditions will moderate slightly but remain blustery, which could create choppy wave conditions along the beach. Overall, while the morning may start off feeling cool and overcast, the day promises a more pleasant turn with brighter skies and milder temperatures\u2014ideal for any outdoor activities. Dress in layers to combat the brisk winds, and consider a light jacket if heading outside, particularly if you're near the lake where the gusts can be sharper. \n\nAs we mark",
+    "color_code": null,
+    "timestamp": "2024-11-11 04:05:48"
 }
