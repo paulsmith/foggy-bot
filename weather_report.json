@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-10T18:00:00-06:00",
+                "startTime": "2024-11-10T19:00:00-06:00",
                 "endTime": "2024-11-11T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening settles over Evanston, current conditions reveal a cool, partly cloudy sky with temperatures in the mid-50s. The air carries a refreshing crispness, making it a comfortable moment for a stroll. Looking forward, tonight\u2019s forecast suggests that the skies will remain partly cloudy with a gentle breeze picking up from the west, likely providing a playful rustle among the trees. Tomorrow, Veterans Day, promises mostly sunny conditions, although temperatures are expected to dip into the low 40s in the afternoon, accompanied by more blustery winds that could bring gusts up to 30 mph.\n\nThe absence of any significant precipitation adds to the pleasantness of the scene, perfect for an evening walk along the beach or a quiet moment enjoying the lakefront view. With the cool temperatures typical for November in the Midwest, layering is recommended; consider a light jacket to stay comfortable. Tonight might be a lovely time to unwind outdoors, perhaps with friends or family, while soaking in the tranquil atmosphere before the chill sets in later.",
-    "color_code": "#004080",
-    "timestamp": "2024-11-10 18:21:51"
+    "weather_report": "This evening in Evanston, we\u2019re experiencing a pleasant and slightly cool ambiance, with temperatures hovering in the mid-50s and a refreshing, crisp feel to the air. The sky is adorned with scattered clouds, providing a gentle contrast against the fading light, which adds a serene touch to the lakeside view. As the night progresses, temperatures are expected to dip into the upper 40s, accompanied by a brisk, steady breeze from the west, making for a refreshing walk along the beach or through the nearby parks. \n\nLooking ahead to tomorrow, Veterans Day promises mostly sunny skies, though temperatures will drop to the low 50s in the morning and further towards the mid-40s in the afternoon. It will remain breezy, with winds reaching up to 20 mph at times, ensuring that there is a bit of a chill in the air throughout the day. No precipitation is expected, so it will be a dry day suitable for outdoor activities. Given the typical fall conditions in this region, the temperature is quite standard for early November, making it an ideal time for jackets or light layers. Outdoor enthusiasts might consider taking a stroll along the lakefront or visiting local parks, enjoying a peaceful moment by the water as fall transitions into winter.",
+    "color_code": "#4B8BBE",
+    "timestamp": "2024-11-10 19:32:42"
 }
