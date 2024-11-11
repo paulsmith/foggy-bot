@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-10T19:00:00-06:00",
+                "startTime": "2024-11-10T20:00:00-06:00",
                 "endTime": "2024-11-11T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -33,7 +33,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 48. West wind around 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Partly cloudy, with a low around 48. West wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night settles over Evanston, the weather is best described as cool and somewhat blustery with temperatures hovering in the low 50s. The air carries a slightly damp chill, corresponding to the relatively high humidity, and the breeze is quite vigorous, shifting from the west, which may feel brisk against the skin. The sky is cloaked in clouds, contributing to an overall muted appearance of the landscape, especially as one looks towards Lake Michigan. Unfortunately, there is no precipitation anticipated tonight, allowing for a dry evening despite the pervasive overcast.\n\nLooking ahead to Veterans Day, a more promising forecast emerges with mostly sunny skies expected, although temperatures will drop to the mid-40s by the afternoon. The winds will continue to be strong, which may create a notable wind chill. Given this transition, layering will be advisable to comfortably enjoy outdoor activities. As for suggested activities, tonight lends itself to cozy indoor pursuits; perhaps a warm drink at a local caf\u00e9 would be delightful. Tomorrow, with improved conditions, a stroll along the lake or a visit to one of Evanston's parks could be refreshing, especially with the sun illuminating the vibrant autumn foliage. With thoughtful attire and a spirit for exploration, the weekend ahead could be splendid.",
-    "color_code": "#4A90E2",
-    "timestamp": "2024-11-10 20:27:40"
+    "weather_report": "As we catch a glimpse of the evening in Evanston, the current conditions present a cool ambiance with temperatures falling into the low 50s, accompanied by a gentle humidity that lends a slight chill to the air. The wind howls from the west at a brisk pace, creating a lively atmosphere along the shoreline, where the lake echoes with those robust gusts. The sky is cloaked in cloud cover, absorbing the fading daylight while offering little clarity, a situation that may linger into the night.\n\nLooking ahead, the forecast for tonight calls for partial clearing, with temperatures dipping further to around the high 40s. A steady breeze will continue, making it feel a bit cooler, yet the conditions stay dry, leaving little room for precipitation. As Veterans Day approaches, a promising shift awaits; expect mostly sunny skies with highs nearing the mid-50s, although temperatures will gradually fall to the low 40s by the afternoon, which is seasonal for November in this region. Given the robust winds and cool temperatures, it's prudent to dress warmly if heading out. A light jacket or layers would be advisable to combat the chill, especially for those planning evening strolls along the beach. Ideal activities for this evening would include cozy gatherings or quiet reflections by the lake, embracing the calming yet brisk atmosphere of early November.",
+    "color_code": "#4B6F86",
+    "timestamp": "2024-11-10 21:09:29"
 }
