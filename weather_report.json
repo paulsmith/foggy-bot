@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T17:51:00+00:00",
+            "timestamp": "2024-11-12T18:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
             "humidity": 60.763303347215,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 80,
-            "description": "Partly Cloudy"
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 70,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-12T12:00:00-06:00",
+                "startTime": "2024-11-12T14:00:00-06:00",
                 "endTime": "2024-11-12T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 49,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 49. East southeast wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly sunny. High near 50, with temperatures falling to around 48 in the afternoon. East southeast wind around 15 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 41. Southeast wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly cloudy, with a low around 41. Southeast wind around 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current scene is defined by a brisk chill with temperatures in the upper 40s. The inviting tableau of partly cloudy skies juxtaposes the soothing movement of Lake Michigan, where gentle waves lap at the shore. Humidity settles around a comfortable level, adding a touch of crispness to the air that makes a brisk walk delightfully refreshing. As the afternoon progresses, expect mostly sunny conditions and temperatures to edge slightly higher, while light breezes from the east southeast add a gentle touch.\n\nTonight, the temperature will dip into the low 40s, inviting a cozy evening indoors or a layered stroll along the waterfront. Wave conditions remain moderate, making it a serene day for viewing the lake, although one should keep in mind the cooler temperatures. With no precipitation on the horizon, today is ripe for outdoor activities, whether it\u2019s a visit to the beach or enjoying a warm drink at a local caf\u00e9. Consider wearing layers to adapt to the cooling evening that is typical for a mid-November day in the region. This time of year generally sees chilly climes in the Midwest, making today's temperatures a fitting reflection of the season.",
-    "color_code": "#7EB2D6",
-    "timestamp": "2024-11-12 13:04:55"
+    "weather_report": "In Evanston, the current weather reveals a brisk and slightly cool afternoon, with temperatures in the low 50s and a gentle yet noticeable breeze from the east. The humidity imparts a refreshing quality to the air, making it feel invigorating despite the chill. Clear skies punctuate the mostly sunny day, with just a hint of clouds mingling high above, providing a picturesque view towards Lake Michigan. However, the wind is notably gusty, creating lively wave conditions along the shore. \n\nAs we move into the later hours, expect partly cloudy skies to settle in, with temperatures dipping down to the low 40s. The evening\u2019s winds will continue from the southeast, making for a chilling night. With no precipitation expected throughout the day or night, outdoor activities remain on the table. Given the season, these temperatures are typical for November in the Midwest, presenting an opportunity for warm layers. It\u2019s advisable to dress in comfortable, layered clothing to fully enjoy the late autumn feel. A stroll along the beach or through local parks could be particularly pleasant, especially under such inviting, clear conditions, as we embrace the season's natural beauty.",
+    "color_code": "#2C8EBA",
+    "timestamp": "2024-11-12 14:06:16"
 }
