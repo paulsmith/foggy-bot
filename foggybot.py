@@ -180,6 +180,26 @@ class WeatherGov:
         }
 
 
+COMFORT_MATRIX = {
+    "temp_ranges": [30, 40, 50, 60, 70, 80, 90, 100],
+    "humidity_ranges": [20, 30, 40, 50, 60, 70, 80, 90],
+    "comfort_levels": {
+        "cold": {"range": "<=40", "desc": "Cold, humidity less relevant"},
+        "chilly": {"range": "<=50", "desc": "Chilly"},
+        "cool_dry": {"range": "51-65, RH<40", "desc": "Cool & crisp"},
+        "cool": {"range": "51-65, RH>=40", "desc": "Pleasant & cool"},
+        "comfortable_dry": {"range": "66-75, RH<40", "desc": "Perfect conditions"},
+        "comfortable": {"range": "66-75, RH<60", "desc": "Ideal comfort"},
+        "warm_humid": {"range": "66-75, RH>=60", "desc": "Slightly muggy"},
+        "warm_dry": {"range": "76-85, RH<40", "desc": "Warm but manageable"},
+        "warm_sticky": {"range": "76-85, RH<60", "desc": "Warm and sticky"},
+        "hot_humid": {"range": "76-85, RH>=60", "desc": "Uncomfortably humid"},
+        "hot_dry": {"range": ">85, RH<40", "desc": "Very hot"},
+        "dangerous": {"range": ">85, RH>=40", "desc": "Oppressively humid"},
+    },
+}
+
+
 class WeatherReporter:
     def __init__(self):
         self.model = llm.get_model("gpt-4o-mini")
@@ -211,10 +231,9 @@ Evanston capturing:
   the report is taking place in, and note if the temperature is roughly typical
   or not.
 - Suggested activities given conditions, day, time, and location
-
-If the date happens to be a major U.S. or religious holiday, or election day,
-make note of it in your report. If it's not a holiday, don't mention it, unless
-a holiday is coming up in the next few days or weeks.
+- If the date happens to be a major U.S. or religious holiday, or election day,
+  make note of it in your report. If it's not a holiday, don't mention it,
+  unless a holiday is coming up in the next few days or weeks.
 
 Take care not to mistake the current conditions for the upcoming forecast.
 
@@ -228,9 +247,12 @@ Style Guidelines:
   descriptive words, like "still", "blustery", "gentle", "light", "calm",
   "whispering", "soothing", "howling", "fierce", "wild", "gusty", "breezy",
   "gale", etc., but feel free to draw from more synonyms that are appropriate
-- Instead of saying the humidity as a percentage, characterize it with a
-  description, like "dry", "humid", "muggy", "sweaty", "damp", "crisp", etc.,
-  but feel free to draw from more synonyms that are appropriate
+- Instead of stating humidity directly, characterize the overall feel using
+  descriptive phrases that combine temperature and humidity effects, such as:
+  "crisp and cool", "perfectly comfortable", "pleasantly dry", "ideal
+  conditions", "slightly muggy", "sticky", "uncomfortably humid", or similar
+  terms that reflect the comfort matrix below. The description should account
+  for both temperature and humidity levels.
 - Instead of saying the temperature as a specific number, say where it falls in
   the tens, for example, use "high 70s" for 79, "low 40s" for 42, or "mid 30s"
   for 34.
@@ -241,9 +263,12 @@ Style Guidelines:
   Skilling, and raconteur Studs Terkel
 - Try to keep response under 500 words
 
-After the weather report, please provide an HTML color code that best represents
-the weather forecast, time of day, and the image. Output only the hex code on a
-line by itself. Do not refer to the color code at all in the report otherwise.
+After the weather report, please provide an HTML color code that best
+represents the weather forecast, time of day, and the image. Output only the
+hex code on a line by itself. Do not refer to the color code at all in the
+report otherwise.
+
+COMFORT_MATRIX = {comfort_matrix}
 """
 
     def generate_report(
@@ -296,6 +321,7 @@ line by itself. Do not refer to the color code at all in the report otherwise.
             forecast_periods=forecast_periods,
             current_time=current_time,
             current_conditions=current_conditions,
+            comfort_matrix=COMFORT_MATRIX,
         ).strip()
 
 
