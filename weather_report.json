@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T04:51:00+00:00",
+            "timestamp": "2024-11-12T05:51:00+00:00",
             "temperature_f": 44.06,
             "temperature_c": 6.7,
-            "humidity": 62.322868593296,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 360,
+            "humidity": 65.087507484788,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 20,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston currently bathed in a chill around the low 40s, stands under a dense curtain of clouds. The atmosphere feels damp, making it a rather brisk night along the shoreline, where gusty winds swirl in from the north, adding to the briskness of the evening. While isolated rain showers may have lingered just a while ago, conditions are set to shift, promising mostly sunny skies for Tuesday with temperatures climbing to a high near the upper 40s. The distinct chill is expected to hold sway throughout the night, though, as temperatures gradually creep upward to around 46 degrees.\n\nTomorrow greets us with a clearer outlook, a stark contrast to the cloud-covered canvas of the current evening. Given the wind's bluster and the damp feel of the air, those venturing outside should bundle up in warm attire, including jackets and perhaps a hat to shield against the blustery breeze. As for activities, the improving weather suggests a lovely opportunity for a walk along the beach or perhaps a stroll through local parks, taking in the refreshing autumn air. While we remain in the grip of fall, these temperatures are consistent with the seasonal expectations for this part of the Midwest, reminding us that winter is just around the corner.",
-    "color_code": "#6B7C97",
-    "timestamp": "2024-11-12 00:06:45"
+    "weather_report": "The current conditions in Evanston, Illinois, paint a cool and damp picture. With temperatures hovering in the low 40s and a noticeable breeze, the air feels crisp and somewhat raw. Clouds dominate the sky, creating an atmosphere that is decidedly overcast, hinting at the possibility of isolated rain showers in the early morning hours before 3 a.m. As the night wears on, temperatures are expected to rise slightly, reaching about 46 by dawn, with a gentle northeast wind making for a brisk outing if venturing outdoors.\n\nLooking ahead to Tuesday, residents can anticipate a welcome shift with mostly sunny skies and a high temperature nearing 50. The day promises to bring more agreeable weather, perfect for taking a stroll along the lakefront or enjoying some time in the parks as winds mellow. Given the season, these temperatures are typical for mid-November in this region, where autumn lingers before the chill of winter fully sets in. For those planning to enjoy the day, layering up is advised; a light jacket should ward off any lingering coolness, especially near the breezy waters of Lake Michigan. \n\nGiven these conditions, a leisurely walk along the beach could provide comfort and peace, watching the waves reflect the day's gradual brightness, as the clouds recede for a clearer afternoon.",
+    "color_code": "#4E6E6D",
+    "timestamp": "2024-11-12 01:05:09"
 }
