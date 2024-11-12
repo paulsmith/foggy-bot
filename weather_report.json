@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T12:51:00+00:00",
-            "temperature_f": 46.04,
-            "temperature_c": 7.8,
-            "humidity": 65.335628646729,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 60,
-            "description": "Cloudy"
+            "timestamp": "2024-11-12T13:51:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 65.200583476966,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 70,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-12T07:00:00-06:00",
+                "startTime": "2024-11-12T09:00:00-06:00",
                 "endTime": "2024-11-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "E",
+                "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 49. East wind 10 to 15 mph."
+                "detailedForecast": "Partly sunny, with a high near 49. East southeast wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a typical mid-autumn picture. The temperature hovers in the low 50s, under a thick, gray blanket of clouds that hints at the dampness in the air, making it feel rather crisp. Winds are howling down from the northeast, whipping up the surf on Lake Michigan, creating a lively scene at the beach. Despite the cloud cover, the day ahead offers a promise of partial sun with a high reaching near 50 degrees this afternoon. Tonight, we can expect a slight dip into the low 40s, with breezy southeast winds and intermittent gusts that may catch you off guard.\n\nIn terms of atmosphere, the cloudy demeanor gives the area a somewhat solemn look, perfect for contemplative strolls along the shore, but may lack the inviting warmth some seek. Wave conditions are notably vigorous, making it less appealing for swimming but perfect for those who enjoy the dramatic sight of white-capped waves. There\u2019s no precipitation on the horizon, maintaining a dry environment for outdoor activities. Those venturing outside should dress warmly\u2014layering with a cozy jacket and perhaps a hat to mitigate the chill from those gusty winds. As we embrace the late fall season, these temperatures are typical for this time of year, reminding us that winter is just around the corner. \n\nFor this Sunday, consider taking a brisk walk along the lakeshore or enjoying the vibrant autumn scenery at one of Evanston\u2019s parks, where the beauty of nature is still on display despite the encroaching winter chill.",
-    "color_code": "#A3B1B7",
-    "timestamp": "2024-11-12 08:05:15"
+    "weather_report": "In Evanston, Illinois, the current weather feels distinctly brisk, with temperatures nestled in the mid-40s and a noticeable dampness hanging in the air. The sky is mostly cloudy, casting a muted light over the scenery as gusty winds whip off Lake Michigan, creating a lively atmosphere by the beach. The wind, which is quite blustery, adds a chill that accentuates the seasonal shift, making this November day feel particularly frosty.\n\nToday\u2019s forecast suggests a transition to partly sunny skies with a projected high in the upper 40s, indicating a slight improvement in the weather. The evening will bring partly cloudy conditions and a drop to the low 40s under a gentle southeast breeze that may gust to 25 miles per hour. Given the wave action observed along the shore, expect moderate swells, making conditions not ideal for swimming. Those venturing outdoors should dress warmly, with layers advisable to combat the cool breeze. As we are well into fall, the temperatures align closely with typical seasonal patterns, inviting enjoyment of autumnal activities. A stroll along the beach, a visit to a nearby caf\u00e9, or perhaps tackling fall crafts indoors would all suit the day perfectly.",
+    "color_code": "#A9B3C1",
+    "timestamp": "2024-11-12 09:05:08"
 }
