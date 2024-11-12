@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T01:51:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 59.949479740185,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 360,
-            "description": "Mostly Clear"
+            "timestamp": "2024-11-12T03:51:00+00:00",
+            "temperature_f": 44.06,
+            "temperature_c": 6.7,
+            "humidity": 59.662840582445,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 350,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-11T21:00:00-06:00",
+                "startTime": "2024-11-11T22:00:00-06:00",
                 "endTime": "2024-11-12T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,20?size=medium",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers?size=medium",
                 "shortForecast": "Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 1am and 3am. Cloudy. Low around 44, with temperatures rising to around 46 overnight. North northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers between midnight and 3am. Cloudy. Low around 44, with temperatures rising to around 46 overnight. Northeast wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Currently in Evanston, temperatures are in the low 40s, with a crisp breeze from the north adding a touch of chill to the mostly clear night sky. The humidity is moderate, lending a slightly damp feel to the air as it encourages a cozy indoor atmosphere. As the night progresses, the weather forecast indicates a slight chance of rain showers early tomorrow morning, but for now, the outlook remains clear.\n\nLooking ahead to Tuesday, expect mostly sunny skies with a high near 50 and a gentle east wind, inviting the possibility of enjoying some midday outdoor activities. With the temperature seasonally typical for this time of year, it\u2019s prudent to dress warmly\u2014layers are recommended, perhaps a light jacket or sweater, especially with tonight\u2019s temperatures expected to rise only slightly. Despite the hint of potential rain overnight, the vibrations of Lake Michigan are generally calm, making for a peaceful evening by the shore. Given these conditions, a leisurely walk along the lake or a reflective moment on the beach could be quite enjoyable as this brisk November night unfolds.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2024-11-11 22:06:20"
+    "weather_report": "As night settles over Evanston, conditions are cool and a bit blustery, with the temperature hovering in the low 40s and humidity creating a crisp atmosphere. The north wind, while vigorous, brings a touch of chill, making it feel fresher near the lakeshore. Cloudy skies blanket the area, setting a grey tone for the evening, and there's a slight chance of rain showers emerging in the early hours, although nothing substantial is expected. \n\nLooking ahead to the day, the weather is set to improve slightly, transitioning to mostly sunny skies with the mercury rising to the high 40s by mid-afternoon. Given the cool air, a gentle breeze will continue, so layers will be essential. The current season is typical for November in the Midwest, where cooler days and evenings are the norm. Those looking to enjoy the outdoors might consider a brisk walk by the lake or a quick jog along the park paths, keeping an eye on the weather for any light rain that could dampen plans later tonight. Dress warmly, and enjoy the serene beauty of Evanston as it prepares for a unique late autumn day.",
+    "color_code": "#7D9CDA",
+    "timestamp": "2024-11-11 23:05:22"
 }
