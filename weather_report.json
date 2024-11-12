@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-12T16:00:00-06:00",
+                "startTime": "2024-11-12T17:00:00-06:00",
                 "endTime": "2024-11-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 48,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening descends on Evanston, the air holds a crisp coolness typical for this time of year, settling into the low 40s. The humidity lingers gently in the atmosphere, making it feel pleasant enough for a stroll, even as strong gusts whip through, lending a bright, lively quality to the mostly clear skies. This afternoon, sunny conditions have permeated, with a gentle east-southeast breeze whispering along, and it is expected to remain partly cloudy tonight\u2014a sight that beckons for an evening walk along the beach or a relaxed gathering with friends.\n\nFor those eyeing the lake, the waves appear moderate but lively, perfect for onlookers but perhaps not ideal for swimming given the cold temperatures. With no precipitation forecast for the rest of the day, outdoor plans should be secure. However, as the forecast suggests cooler temperatures tonight\u2014dropping to the low 40s\u2014dressing in layers would be wise, combining comfortable attire with a light jacket to ward off the evening chill. Overall, this weather reflects typical seasonal trends for mid-November in the Midwest, making it a delightful time to appreciate the beauty of nature before winter's firm grasp takes hold.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2024-11-12 16:04:54"
+    "weather_report": "The current weather in Evanston, Illinois, offers a cool respite, marked by mostly clear skies and a temperature settling in the upper 40s. The gentle breeze from the east-southeast adds a brisk touch to the afternoon, with wind gusts stirring up a lively atmosphere along the beach. Humidity is moderate, creating a pleasantly cool ambiance ideal for an outdoor stroll, though the chill might be felt if you're out without adequate layers.\n\nThis afternoon's forecast predicts clear, sunny conditions with highs remaining near the mid to upper 40s. By nightfall, expect the skies to transition to partly cloudy, while temperatures dip into the low 40s, complemented by a soft, breezy southeast wind. The lakefront might see some wave action, reflecting the well-mixed winds, perfect for those who enjoy a brisk beach walk but not quite inviting enough for water activities. Given the November season, this weather is typical, aligning with the onset of cooler temperatures that define the Midwest during this time of year. As such, layered clothing is recommended to stay comfortable, perhaps a warm jacket and a hat for those venturing outdoors as evening approaches. No precipitation is anticipated, allowing for a calm exploration of the shoreline or a cozy evening inside. With no notable holidays today, it\u2019s a perfect time for a simple scenic outing by the water or preparing for upcoming festivities in the weeks to come.",
+    "color_code": "#A9C0CC",
+    "timestamp": "2024-11-12 17:05:01"
 }
