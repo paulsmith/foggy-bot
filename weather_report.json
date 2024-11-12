@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T06:43:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 78.753376184584,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Cloudy"
+            "timestamp": "2024-11-12T07:51:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 82.104692489025,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 350,
+            "description": ""
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Currently in Evanston, the temperature hovers in the low 40s, cloaked in a damp chill enhanced by overcast skies. The ambiance is cool and yet still, evoking a sense of tranquility along the shoreline of Lake Michigan, though it carries the weight of impending rain. As we look ahead, the overnight hours suggest a slight chance of rain before dawn, with temperatures dipping to around 44, complemented by a whispering northeast wind that may stir up a few leaves, reaching a brisk gustiness at times.\n\nTuesday promises a shift towards a more favorable outlook, with partly sunny skies breaking through as the day progresses, and temperatures climbing into the upper 40s. While the air maintains a crisp edge, the anticipated easing of cloud cover may breathe a fresh vibrancy into the landscape. Given the current season, these temperatures are fairly typical for mid-November in this region, hinting at the nearing winter chill. For those venturing out, light layers and a cozy jacket are advisable to fend off the coolness, particularly near the lakefront, which could be amplified by any leftover gusts. As for activities, a stroll along the beach may yield serene views and the invigorating scent of the lake, though those hoping to engage in water sports should take heed of the chilly conditions.",
-    "color_code": "#6c9dc4",
-    "timestamp": "2024-11-12 02:06:48"
+    "weather_report": "As dawn approaches over Evanston, the temperature rests comfortably in the low 40s with a rather damp and chilly atmosphere. Currently, a gusty wind is sweeping in from the north, creating a brisk chill that adds to the discomfort of the already humid conditions. Looking ahead, overnight forecasts suggest a slight chance of rain tapering off by early morning, with clouds continuing to dominate the sky. Tomorrow's weather will feature a modest high near the upper 40s, with the day likely to bring some glimpses of sunlight as it unfolds.\n\nThe beach scenes tonight are painted with a rather bleak and overcast palette, resonating with the sense of autumn in full swing\u2014waves may be somewhat restless but not dangerously so. Given the chill and the potential for lingering moisture, a warm layer and sturdy footwear would be advisable. As for activities, while lounging on the beach may not be ideal, brief strolls along the shoreline could provide a refreshing reprieve, especially for the adventurous souls undeterred by the gloom.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-11-12 03:05:26"
 }
