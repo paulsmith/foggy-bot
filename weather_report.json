@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Veterans Day",
-                "startTime": "2024-11-11T17:00:00-06:00",
-                "endTime": "2024-11-11T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 48 in the afternoon. North northwest wind around 15 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-11T18:00:00-06:00",
                 "endTime": "2024-11-12T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain showers after 3am. Mostly cloudy, with a low around 43. North northeast wind 10 to 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2024-11-12T06:00:00-06:00",
+                "endTime": "2024-11-12T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 49. East wind 10 to 15 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a gently crisp evening with a temperature in the low 50s and a mostly clear sky that invites a reflective stroll along the beach. However, the breeze is quite vigorous, whipping in from the northwest, creating a moody atmosphere as waves crash against the shore, hinting at the more unsettled weather to come. As we move into the evening, the forecast indicates a chance of light rain after 3 a.m., setting the stage for a cool night with temperatures dipping to the low 40s and considerable cloud cover. \n\nWhile today has opened with pleasant clarity, the impending cloudiness may dampen evening plans outdoors. Given the breezy conditions and approaching rain, those venturing outside should dress warmly, perhaps layering with a light jacket or a substantial sweater. The weather feels about right for early November in the Midwest, with temperatures aligning closely with seasonal expectations. For those looking to enjoy the evening, a visit to a local caf\u00e9 or an early dinner might be more enticing than a stroll along the beach, as the winds stir the lake into a frothy frenzy.",
-    "color_code": "#0066CC",
-    "timestamp": "2024-11-11 17:04:44"
+    "weather_report": "As darkness descends upon Evanston, the current conditions reveal a brisk evening with temperatures hovering in the low 50s, accompanied by a comfortable level of humidity. The day has been marked by mostly clear skies, though a brisk wind is now stirring, reminiscent of autumn\u2019s transition. Looking ahead, the weather forecast suggests a shift to mostly cloudy conditions overnight, with a slight chance of rain showers developing after 3 AM. Low temperatures are expected to settle around the low 40s, so warmth will be advisable as the evening progresses.\n\nWave conditions along Lake Michigan will be influenced by this gusty wind, likely creating a moderate chop, perhaps ideal for a contemplative stroll along the beach or a quiet evening by the water's edge. However, the anticipated precipitation adds a level of unpredictability, suggesting a more prudent choice of attire that features windbreakers or light jackets. While the present temperature is typical for early November in the northern Midwest, the changing season invites cozy indoor activities\u2014whether it\u2019s a visit to a local caf\u00e9, a cozy night at home with loved ones, or perhaps catching a late-night film, all while embracing the crispness of the season.",
+    "color_code": "#6C7C91",
+    "timestamp": "2024-11-11 18:20:40"
 }
