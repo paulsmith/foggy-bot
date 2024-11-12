@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T10:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 88.764904189773,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 350,
+            "timestamp": "2024-11-12T11:51:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 82.248266054167,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 70,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-12T06:00:00-06:00",
+                "startTime": "2024-11-12T07:00:00-06:00",
                 "endTime": "2024-11-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston bring a decidedly brisk and chilly atmosphere, with temperatures hovering in the low 40s, accompanied by a damp and humid feel that hangs in the air. The wind is howling from the north, stirring up the waves along Lake Michigan, creating a somewhat restless scene at the beach. The day begins under cloudy skies, casting a gray blanket over the landscape, although some hints of sunshine are anticipated to break through later.\n\nLooking ahead, today\u2019s forecast predicts a flirtation with clearer skies, turning partly sunny with a high creeping up into the upper 40s, but it won\u2019t be entirely warm. For tonight, expect the temperatures to dip back down to around the low 40s, along with a shift in winds towards the southeast, gusting at times which may add to the chilly feel. With the waters of the lake still agitated, wave conditions might not be ideal for swimming or boating, so caution is advised. The atmosphere is setting itself up for a rather unpleasant experience outside, and as such, layered attire is recommended\u2014think warm sweaters and jackets to fend off the cold and wind. \n\nConsidering the current season, these temperatures align with the typical fall conditions of the region, though they might urge one to seek refuge indoors rather than venture out to enjoy outdoor activities. A good day for a cozy coffee at a local caf\u00e9 or perhaps an afternoon stroll with warm layers would be more suitable given the weather's bluster.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-12 06:08:31"
+    "weather_report": "This morning in Evanston, the temperature lingers in the low 40s, accompanied by a sense of dampness that wraps around you, hinting at the humidity lingering in the air. The skies are cloaked in a thick layer of clouds, with the wind blowing fiercely from the east, creating some turbulence over Lake Michigan. The current conditions paint a rather unsettled portrait, with waves lapping against the shore, a visual reminder of the brisk elements at play.\n\nAs we look forward into the day, expect a gradual shift toward partly sunny skies, with temperatures reaching into the upper 40s. However, those planning to be outdoors should note that the southeast winds will continue to bring about a blustery feel, especially during gusts that could reach up to 25 mph, likely stirring the waters further. Precipitation is not on the immediate horizon, promising a dry day, though the cloud cover may linger into the evening, leaving a cool ambiance as temperatures fall back to the low 40s tonight.\n\nConsidering the season, these temperatures are fairly typical for mid-November in the Midwest, fitting comfortably within the expected range for this time of year. Attire recommendations would be wise to include layers, perhaps a sturdy jacket to fend off the chill, particularly along the shoreline where the winds can bite. For those yearning to embrace the outdoors, a brisk walk along the beach or through one of Evanston's local parks could be quite refreshing, though caution should be taken due to the rough wave conditions. Overall, while the day may begin somberly, a more pleasant stretch could unfold, inviting an adventurous spirit, albeit with warm clothes and resilience against the wind.",
+    "color_code": "#7D9B9C",
+    "timestamp": "2024-11-12 07:09:29"
 }
