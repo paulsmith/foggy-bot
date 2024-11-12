@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T13:51:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 65.200583476966,
-            "wind_speed_mph": 41.07132,
+            "timestamp": "2024-11-12T14:51:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 65.335628646729,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 70,
-            "description": "Mostly Cloudy"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-12T09:00:00-06:00",
+                "startTime": "2024-11-12T10:00:00-06:00",
                 "endTime": "2024-11-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 49. East southeast wind 10 to 15 mph."
+                "detailedForecast": "Partly sunny, with a high near 49. East southeast wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather feels distinctly brisk, with temperatures nestled in the mid-40s and a noticeable dampness hanging in the air. The sky is mostly cloudy, casting a muted light over the scenery as gusty winds whip off Lake Michigan, creating a lively atmosphere by the beach. The wind, which is quite blustery, adds a chill that accentuates the seasonal shift, making this November day feel particularly frosty.\n\nToday\u2019s forecast suggests a transition to partly sunny skies with a projected high in the upper 40s, indicating a slight improvement in the weather. The evening will bring partly cloudy conditions and a drop to the low 40s under a gentle southeast breeze that may gust to 25 miles per hour. Given the wave action observed along the shore, expect moderate swells, making conditions not ideal for swimming. Those venturing outdoors should dress warmly, with layers advisable to combat the cool breeze. As we are well into fall, the temperatures align closely with typical seasonal patterns, inviting enjoyment of autumnal activities. A stroll along the beach, a visit to a nearby caf\u00e9, or perhaps tackling fall crafts indoors would all suit the day perfectly.",
-    "color_code": "#A9B3C1",
-    "timestamp": "2024-11-12 09:05:08"
+    "weather_report": "In Evanston, the current conditions are a brisk 46 degrees with a touch of humidity that gives the air a damp, cool feel. The sky is cloaked in clouds, and the winds are howling from the east at a fierce pace, stirring the waters of Lake Michigan into a choppy dance. As the day progresses, expect a shift to partly sunny skies, with temperatures climbing into the upper 40s. This evening, the temperature will retreat to the low 40s beneath partly cloudy skies, while a gentle southeast wind offers a slight respite, though gusts may still surprise with their intensity.\n\nWhile the appearance may not be entirely inviting given the overcast skies and rough waters, it does evoke the classic charm of a Lake Michigan winter day. Wave conditions are restless, with enough action to catch the eye but might not be suitable for calming pastimes. There\u2019s no precipitation expected today, making it an ideal choice for a brisk walk along the shore, but be sure to dress warmly\u2014layers are essential, with a sturdy jacket and perhaps a woolen hat to fend off the chill. As we move deeper into November, this weather feels quite typical for the region, capturing that unmistakable bite of late fall. Enjoy the natural beauty, but grab a warm drink as you venture outside to fully appreciate this atmospheric scene.",
+    "color_code": "#7F9CBB",
+    "timestamp": "2024-11-12 10:05:58"
 }
