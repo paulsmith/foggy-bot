@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T11:51:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 82.248266054167,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 70,
+            "timestamp": "2024-11-12T12:51:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 65.335628646729,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 60,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the temperature lingers in the low 40s, accompanied by a sense of dampness that wraps around you, hinting at the humidity lingering in the air. The skies are cloaked in a thick layer of clouds, with the wind blowing fiercely from the east, creating some turbulence over Lake Michigan. The current conditions paint a rather unsettled portrait, with waves lapping against the shore, a visual reminder of the brisk elements at play.\n\nAs we look forward into the day, expect a gradual shift toward partly sunny skies, with temperatures reaching into the upper 40s. However, those planning to be outdoors should note that the southeast winds will continue to bring about a blustery feel, especially during gusts that could reach up to 25 mph, likely stirring the waters further. Precipitation is not on the immediate horizon, promising a dry day, though the cloud cover may linger into the evening, leaving a cool ambiance as temperatures fall back to the low 40s tonight.\n\nConsidering the season, these temperatures are fairly typical for mid-November in the Midwest, fitting comfortably within the expected range for this time of year. Attire recommendations would be wise to include layers, perhaps a sturdy jacket to fend off the chill, particularly along the shoreline where the winds can bite. For those yearning to embrace the outdoors, a brisk walk along the beach or through one of Evanston's local parks could be quite refreshing, though caution should be taken due to the rough wave conditions. Overall, while the day may begin somberly, a more pleasant stretch could unfold, inviting an adventurous spirit, albeit with warm clothes and resilience against the wind.",
-    "color_code": "#7D9B9C",
-    "timestamp": "2024-11-12 07:09:29"
+    "weather_report": "Current conditions in Evanston paint a typical mid-autumn picture. The temperature hovers in the low 50s, under a thick, gray blanket of clouds that hints at the dampness in the air, making it feel rather crisp. Winds are howling down from the northeast, whipping up the surf on Lake Michigan, creating a lively scene at the beach. Despite the cloud cover, the day ahead offers a promise of partial sun with a high reaching near 50 degrees this afternoon. Tonight, we can expect a slight dip into the low 40s, with breezy southeast winds and intermittent gusts that may catch you off guard.\n\nIn terms of atmosphere, the cloudy demeanor gives the area a somewhat solemn look, perfect for contemplative strolls along the shore, but may lack the inviting warmth some seek. Wave conditions are notably vigorous, making it less appealing for swimming but perfect for those who enjoy the dramatic sight of white-capped waves. There\u2019s no precipitation on the horizon, maintaining a dry environment for outdoor activities. Those venturing outside should dress warmly\u2014layering with a cozy jacket and perhaps a hat to mitigate the chill from those gusty winds. As we embrace the late fall season, these temperatures are typical for this time of year, reminding us that winter is just around the corner. \n\nFor this Sunday, consider taking a brisk walk along the lakeshore or enjoying the vibrant autumn scenery at one of Evanston\u2019s parks, where the beauty of nature is still on display despite the encroaching winter chill.",
+    "color_code": "#A3B1B7",
+    "timestamp": "2024-11-12 08:05:15"
 }
