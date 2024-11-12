@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T16:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 62.844418715598,
+            "timestamp": "2024-11-12T17:51:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 60.763303347215,
             "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 110,
+            "wind_direction": 80,
             "description": "Partly Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions are decidedly chilly, with temperatures hovering in the low 40s and a decidedly brisk breeze brushing across the landscape at a fierce pace. The air carries a hint of humidity, lending a slightly clammy feel as clouds scud overhead, breaking sporadically to reveal patches of blue. As the afternoon unfolds, we can expect mostly sunny skies, with a high creeping up to just near the mid 40s and a calmer easterly wind at a more gentle pace. Tonight, it will remain partly cloudy with temperatures dipping to the low 40s, accompanied by a warming southeast wind.\n\nAs for the beach, the surf is restless with waves gently rolling ashore, but overall, the conditions render the beach less inviting for swimming. There is no precipitation expected today, allowing for activities along the shore or in the nearby parks. Given the season, these temperatures are reasonably typical for November in this region, suggesting it's time for warmer layers\u2014a cozy sweater and a jacket would suit the occasion nicely. Whether a leisurely stroll along the beach or a visit to a local caf\u00e9 is on your agenda, the charm of Evanston remains appealing despite the briskness of the day.",
-    "color_code": "#A4B8C4",
-    "timestamp": "2024-11-12 12:06:31"
+    "weather_report": "In Evanston, the current scene is defined by a brisk chill with temperatures in the upper 40s. The inviting tableau of partly cloudy skies juxtaposes the soothing movement of Lake Michigan, where gentle waves lap at the shore. Humidity settles around a comfortable level, adding a touch of crispness to the air that makes a brisk walk delightfully refreshing. As the afternoon progresses, expect mostly sunny conditions and temperatures to edge slightly higher, while light breezes from the east southeast add a gentle touch.\n\nTonight, the temperature will dip into the low 40s, inviting a cozy evening indoors or a layered stroll along the waterfront. Wave conditions remain moderate, making it a serene day for viewing the lake, although one should keep in mind the cooler temperatures. With no precipitation on the horizon, today is ripe for outdoor activities, whether it\u2019s a visit to the beach or enjoying a warm drink at a local caf\u00e9. Consider wearing layers to adapt to the cooling evening that is typical for a mid-November day in the region. This time of year generally sees chilly climes in the Midwest, making today's temperatures a fitting reflection of the season.",
+    "color_code": "#7EB2D6",
+    "timestamp": "2024-11-12 13:04:55"
 }
