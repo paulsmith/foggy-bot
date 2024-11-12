@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-12T02:00:00-06:00",
+                "startTime": "2024-11-12T04:00:00-06:00",
                 "endTime": "2024-11-12T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn approaches over Evanston, the temperature rests comfortably in the low 40s with a rather damp and chilly atmosphere. Currently, a gusty wind is sweeping in from the north, creating a brisk chill that adds to the discomfort of the already humid conditions. Looking ahead, overnight forecasts suggest a slight chance of rain tapering off by early morning, with clouds continuing to dominate the sky. Tomorrow's weather will feature a modest high near the upper 40s, with the day likely to bring some glimpses of sunlight as it unfolds.\n\nThe beach scenes tonight are painted with a rather bleak and overcast palette, resonating with the sense of autumn in full swing\u2014waves may be somewhat restless but not dangerously so. Given the chill and the potential for lingering moisture, a warm layer and sturdy footwear would be advisable. As for activities, while lounging on the beach may not be ideal, brief strolls along the shoreline could provide a refreshing reprieve, especially for the adventurous souls undeterred by the gloom.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-12 03:05:26"
+    "weather_report": "Current conditions in Evanston, Illinois reveal a damp chill settling in as temperatures hover in the low 40s, accompanied by a noticeably humid atmosphere. The winds, whipping from the northeast, are fierce, reaching speeds that create a noticeable bite and send leaves swirling across the street. As we look toward the day ahead, expect a slight chance of rain overnight before dawn. The clouds will dominate the sky, and temperatures will dip only slightly, settling around 44. Tomorrow, the sun may peek through the clouds with highs nearing the upper 40s, yet the east winds will continue to remind us of the approaching winter.\n\nThe prevalent clouds lend an offcast appearance over the waters of Lake Michigan, contributing to a somewhat dreary scenery. Wave conditions are likely moderate given the strong winds, though it is not the ideal time for beach activities\u2014so one might want to reconsider plans for a stroll along the shore. With the weather feeling rather wintry for mid-November, dressing in layers, perhaps a warm coat accompanied by a scarf and sturdy footwear, will be essential for comfort should you venture outdoors. This is certainly reflective of seasonal norms as we transition deeper into late fall, reminding us that the holiday season is fast approaching.",
+    "color_code": "#4b4b4b",
+    "timestamp": "2024-11-12 04:05:31"
 }
