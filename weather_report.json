@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T15:51:00+00:00",
-            "temperature_f": 46.04,
-            "temperature_c": 7.8,
-            "humidity": 67.709201404014,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 90,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-12T16:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 62.844418715598,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 110,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-12T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-12T12:00:00-06:00",
                 "endTime": "2024-11-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "ESE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 49. East southeast wind around 10 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 49. East southeast wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As we step into this crisp November day in Evanston, the current conditions reveal a temperature hovering in the mid 40s, accompanied by a comfortable if slightly humid air. The atmosphere is mostly cloudy, with a strong breeze that brings a lively, almost wild energy to the shoreline. There is no immediate precipitation in sight, and the wave action is energetic, hinting at a vibrant, textured surface on Lake Michigan. \n\nFor the remainder of the day, expect partly sunny skies with temperatures reaching into the upper 40s, complemented by a gentle southeast wind. As evening approaches, the temperature will slide down to the low 40s, maintaining that refreshing feel. Given the brisk air and blustery winds, a light jacket or sweater is advisable, perhaps paired with a cozy scarf to ward off the chill. Though it\u2019s a routine day, it offers lovely opportunities for outdoor strolls along the beach or a brisk walk in one of the local parks, where you can enjoy the serene beauty of late autumn.",
-    "color_code": "#A9C4D4",
-    "timestamp": "2024-11-12 11:05:31"
+    "weather_report": "In Evanston, the current conditions are decidedly chilly, with temperatures hovering in the low 40s and a decidedly brisk breeze brushing across the landscape at a fierce pace. The air carries a hint of humidity, lending a slightly clammy feel as clouds scud overhead, breaking sporadically to reveal patches of blue. As the afternoon unfolds, we can expect mostly sunny skies, with a high creeping up to just near the mid 40s and a calmer easterly wind at a more gentle pace. Tonight, it will remain partly cloudy with temperatures dipping to the low 40s, accompanied by a warming southeast wind.\n\nAs for the beach, the surf is restless with waves gently rolling ashore, but overall, the conditions render the beach less inviting for swimming. There is no precipitation expected today, allowing for activities along the shore or in the nearby parks. Given the season, these temperatures are reasonably typical for November in this region, suggesting it's time for warmer layers\u2014a cozy sweater and a jacket would suit the occasion nicely. Whether a leisurely stroll along the beach or a visit to a local caf\u00e9 is on your agenda, the charm of Evanston remains appealing despite the briskness of the day.",
+    "color_code": "#A4B8C4",
+    "timestamp": "2024-11-12 12:06:31"
 }
