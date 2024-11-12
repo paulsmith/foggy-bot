@@ -65,9 +65,21 @@ class ThumbnailDownloader:
     def download(url: str, output_dir: str = OUTPUT_DIR) -> Optional[str]:
         """Download thumbnail image from URL."""
         try:
-            os.makedirs(output_dir, exist_ok=True)
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = os.path.join(output_dir, f"capture_{timestamp}.jpg")
+            # Get current timestamp
+            now = datetime.now()
+            timestamp = now.strftime("%Y%m%d_%H%M%S")
+
+            # Create year/month/day subdirectories
+            year = now.strftime("%Y")
+            month = now.strftime("%m")
+            day = now.strftime("%d")
+
+            # Construct full directory path
+            dated_dir = os.path.join(output_dir, year, month, day)
+            os.makedirs(dated_dir, exist_ok=True)
+
+            # Create filenames with full paths
+            filename = os.path.join(dated_dir, f"capture_{timestamp}.jpg")
             latest_filename = os.path.join(output_dir, "capture_latest.jpg")
 
             response = requests.get(url, stream=True)
