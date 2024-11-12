@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T00:51:00+00:00",
+            "timestamp": "2024-11-12T01:51:00+00:00",
             "temperature_f": 42.980000000000004,
             "temperature_c": 6.1,
             "humidity": 59.949479740185,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 350,
-            "description": "Clear"
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 360,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-11T19:00:00-06:00",
+                "startTime": "2024-11-11T21:00:00-06:00",
                 "endTime": "2024-11-12T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 43,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 3am. Mostly cloudy, with a low around 43. North northeast wind 10 to 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers between 1am and 3am. Cloudy. Low around 44, with temperatures rising to around 46 overnight. North northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night envelops Evanston, the temperature hovers in the low 40s, presenting a crisp, cool atmosphere with a gentle breeze wafting from the north. The clear sky, unmarred by clouds this evening, promises an unobstructed view of the stars above, but there's an inkling of change coming as late-night hours approach. A slight chance of rain showers is expected after 3 AM, adding a whisper of uncertainty to the otherwise tranquil evening.\n\nLooking ahead to Tuesday, expect a transition into mostly sunny skies, with temperatures reaching the high 40s during the day. While the delightful sunshine will enhance the scenery along the beach, a gentle east wind will keep things feeling brisk. The probability of precipitation remains low for the day, allowing for outdoor activities aimed at soaking in the last vestiges of autumn. Given the current season, the temperatures are typical for mid-November in this region, where the cool air commands a layer or two for comfort. Ideal attire would include a warm jacket, perhaps a scarf, especially as evening descends and temperatures dip. Those looking to enjoy the shoreline should consider a stroll along the beach, taking in the serenity of the lake, or perhaps engage in a well-deserved coffee break at a nearby caf\u00e9, soaking up the pleasant yet brisk day ahead.",
-    "color_code": "#1A1A1A",
-    "timestamp": "2024-11-11 20:25:09"
+    "weather_report": "This evening in Evanston, temperatures hover in the low 40s, wrapped in a crisp, slightly damp atmosphere. The skies are mostly clear, although dark clouds linger on the horizon, hinting at the possibility of light rain showers late at night. A gentle breeze out of the north-northeast picks up throughout the evening, scavenging warmth from the coast and creating a brisk environment. The wave conditions on Lake Michigan appear moderate, presenting a slightly choppy surface as gusts brush across the water.\n\nLooking ahead to tomorrow, a change in the mood is expected. With mostly sunny skies and temperatures rising to the high 40s, the day should offer a pleasant transition from the current chill. However, the morning may still carry traces of today\u2019s dampness, possibly accompanied by lingering clouds. For anyone venturing outdoors, layering will be essential\u2014the warmth of a light jacket paired with a cozy sweater will do well against the cooler air, especially if venturing near the shoreline where the wind can bite. \n\nGiven the season, these current temperatures are fairly typical for mid-November in the Midwest, marking the descent into winter. Ideal activities for the evening might include a quiet stroll along the beach, enjoying the serene night while the lake dances with reflections from any distant lights. Tomorrow offers promise for outdoor adventures or leisurely walks, as long as one anticipates the temperamental winds off the lake.",
+    "color_code": "#7F7F7F",
+    "timestamp": "2024-11-11 21:06:53"
 }
