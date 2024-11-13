@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-13T01:51:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 73.410101373817,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2024-11-13T02:51:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 68.066342482018,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 120,
-            "description": "Clear"
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-12T21:00:00-06:00",
+                "startTime": "2024-11-12T22:00:00-06:00",
                 "endTime": "2024-11-13T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 41,
+                "temperature": 42,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 41. Southeast wind around 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 42. Southeast wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly evening with a temperature hovering in the low 40s, presenting a crisp and slightly breezy atmosphere, as southeast winds cut through at a brisk pace. The sky is clear at the moment, although the forecast indicates a shift towards partly cloudy skies, as temperatures are expected to dip slightly further overnight. Tomorrow, residents can anticipate mostly cloudy skies with a slight chance of rain later in the afternoon, though precipitation will likely be minimal. \n\nAs we navigate through this late autumn season, the current temperatures are typical for this time of year in the Midwest, where cool air prevails. With the winds blowing in gusty bursts, the beach might look desolate and a bit foreboding, as the churning waves of Lake Michigan send a hint of sea spray into the air. Given these conditions, it's advisable to wear layers\u2014perhaps a warm jacket paired with a scarf\u2014if venturing outdoors, especially as the evening cools. While it may not be ideal for a sunset stroll along the lakefront, the outdoor scene could accommodate brisk walks or preparations for a cozy night in, reflective of the season's quiet charm.",
-    "color_code": "#3c4f5e",
-    "timestamp": "2024-11-12 21:08:36"
+    "weather_report": "In Evanston, current conditions paint a picture of a cool, slightly breezy evening along the shores of Lake Michigan, with temperatures nestled in the mid 40s. The air carries a crispness, enhanced by a gentle humidity that keeps the atmosphere comfortable yet invigorating. Skies are mostly clear, allowing for occasional glimpses of stars above, though a soft blanket of clouds is anticipated to gather as the night progresses. \n\nLooking ahead, the weather forecast suggests a shift to a mostly cloudy day tomorrow, with a high in the mid 50s and a slight chance of rain in the afternoon, particularly after 3 PM. Winds will continue to be gentle but gusty, creating a bit of movement on the water that may whip up some larger waves. Given these conditions, beachgoers should dress in layers to accommodate the cooler temperatures and potential dampness later in the day. While the season brings about typical mid-autumn chills, tomorrow\u2019s conditions invite a leisurely stroll along the beach or a visit to local cafes to savor the neighborhood\u2019s vibrant atmosphere before the onset of precipitation.",
+    "color_code": "#d3c68a",
+    "timestamp": "2024-11-12 22:06:16"
 }
