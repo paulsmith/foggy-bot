@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T23:51:00+00:00",
-            "temperature_f": 46.04,
-            "temperature_c": 7.8,
-            "humidity": 65.335628646729,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 90,
+            "timestamp": "2024-11-13T00:51:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 68.066342482018,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 110,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-12T19:00:00-06:00",
+                "startTime": "2024-11-12T20:00:00-06:00",
                 "endTime": "2024-11-13T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 41,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night falls over Evanston, the air feels brisk and slightly humid, with temperatures settling in the low 40s. The current conditions present a mostly clear sky, providing a calm backdrop to the evening, though the wind is quite blustery, kicking up occasionally from the southeast. Tomorrow's forecast hints at a shift, with mostly cloudy skies and a slight chance of rain later in the day, shouldering its way into the afternoon alongside temperatures that might just touch the mid 50s.\n\nThe beach scene painted by the darkness reflects a serene yet foreboding atmosphere; waves may be somewhat choppy given the gusting winds. If you're venturing out this evening, a light jacket would be wise to stave off the chill. Activities could range from an invigorating walk along the shore to a cozy night in with a warm drink, as the air carries that quintessential fall freshness. Notably, this evening has no immediate holiday or event significance, allowing patrons to revel in the calm before the bustle of the upcoming Thanksgiving season.",
-    "color_code": "#4B8BFF",
-    "timestamp": "2024-11-12 19:32:26"
+    "weather_report": "This evening in Evanston, conditions are cool and crisp, with temperatures resting in the low 40s. The air carries a slight humidity, making the evening feel a touch brisk as a gentle breeze whispers from the southeast at around 15 miles per hour. Currently, the sky is mostly clear, providing a serene backdrop as night begins to settle over Lake Michigan, though it may not be the ideal evening for prolonged outdoor activities without proper layers.\n\nAs we look ahead to overnight and into Wednesday, cloud cover will increase, leading to a partly cloudy night with lows dipping into the low 40s. Winds will remain breezy, with gusts possibly reaching 25 miles per hour. By Wednesday afternoon, there\u2019s a slight chance of rain, particularly after 3 PM, under mostly cloudy skies and high temperatures nears the mid-50s. The lake may present some wave action, so caution is warranted if venturing out near the shore.\n\nAs for attire, a warm jacket and perhaps a hat will be advisable tonight, particularly if one intends to spend any extended time outside. While this time of year typically ushers in cooler conditions as winter approaches, the current temperatures align closely with seasonal expectations. Although there are no major holidays today, the backdrop of autumn\u2019s transition coupled with the impending rain makes for a contemplative outdoor atmosphere, perfect for a cozy evening stroll or catching up with a good book indoors.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2024-11-12 20:27:04"
 }
