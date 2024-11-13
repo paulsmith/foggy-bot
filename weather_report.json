@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-13T18:51:00+00:00",
+            "timestamp": "2024-11-13T19:51:00+00:00",
             "temperature_f": 50.0,
             "temperature_c": 10,
             "humidity": 58.366985638618,
             "wind_speed_mph": 41.07132,
-            "wind_direction": 110,
+            "wind_direction": 130,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-13T14:00:00-06:00",
+                "startTime": "2024-11-13T15:00:00-06:00",
                 "endTime": "2024-11-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the current afternoon unfolds in Evanston, a blustery and chilly atmosphere blankets the area, with temperatures hovering in the low 50s, accompanied by a rather high humidity level. The clouds loom heavy above, contributing to a gray and uninviting sky. Looking ahead, expect a significant shift as rain rolls in later today, particularly after 5 PM. The high will reach only the mid-50s, with a southeast wind picking up strength, ushering in the precipitation with a near certainty of 100%. Overnight, temperatures will rise slightly, remaining around the low 50s\u2014a warm setup for a chilly November night.\n\nThe beach today, though rugged and wild with the choppy lake waves, is best viewed from the comfort of a warm jacket, possibly with a raincoat if venturing out, as soon the skies could unleash a substantial amount of rain, up to an inch in total. Given the season, these conditions are typical for mid-November in the Midwest\u2014but the anticipated rain and high winds might deter outdoor activities. It's a day best suited for cozy indoor pastimes or perhaps enjoying a warm beverage while watching the lake's tumultuous yet captivating waves through a window. With no major holidays or events marking this date, locals may find solace in a quiet, contemplative afternoon.",
-    "color_code": "#A1A6A8",
-    "timestamp": "2024-11-13 14:05:55"
+    "weather_report": "Current conditions in Evanston present a chilly and overcast scene with temperatures lingering in the low 50s, accompanied by a moderately high humidity that gives the air a damp feel. Wind gusts howl off Lake Michigan at impressive speeds, contributing to the decidedly brisk atmosphere. As we look ahead, rain is expected to roll in later this afternoon, turning the skies an even deeper gray, and it appears that the evening will bring a steady downpour. With a 100% chance of precipitation, locals can expect over half an inch of rain, which may lead to muddier conditions along the beach.\n\nIn terms of attire, a warm jacket and waterproof gear are advisable if you plan to be outdoors, especially as temperatures are projected to rise slightly as night approaches. This is typical for mid-November in this region, where cooler temperatures and damp weather often characterize the season. Given the forecast and the current blustery conditions, one might steer clear of outdoor activities, opting instead for cozy indoor pursuits. The beach, while often a lively social scene, is left to the waves crashing against the shore, but it could be a meditative spot to observe nature's fury from a safe distance. With Thanksgiving just around the corner, this weather serves as a reminder of the approaching holiday season, a time when family gatherings often warm the spirit, despite the chill outside.",
+    "color_code": "#A2B4C8",
+    "timestamp": "2024-11-13 15:05:05"
 }
