@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-13T03:51:00+00:00",
-            "temperature_f": 44.06,
-            "temperature_c": 6.7,
-            "humidity": 67.473831002484,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 140,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-11-13T05:51:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 70.218719108347,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 120,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-13T00:00:00-06:00",
+                "startTime": "2024-11-13T01:00:00-06:00",
                 "endTime": "2024-11-13T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As of now, Evanston is experiencing a cool and crisp night with temperatures lingering in the low 40s and a noticeable breeze sweeping in from the southeast. The air feels refreshingly brisk, accompanied by a humidity level that brings a touch of dampness but remains manageable. The sky is partly cloudy, creating a somewhat muted ambiance along the beach where the waves are likely rolling gently against the shore, though the stirring wind can make them feel more robust.\n\nLooking ahead to Wednesday, expect mostly cloudy skies with a slight chance of rain in the afternoon. The high will reach the mid 50s, accompanied by a similar southeastern breeze that may pick up slightly in the afternoon. While precipitation is unlikely with only a 20% chance, the overall conditions will still feel a tad damp and chilly. Given the cool temperatures typical for mid-November in this region, dressing in layers will be advisable. A warm jacket, perhaps even a light scarf, would be prudent for anyone venturing outside, particularly with the enticing possibility of softer autumn activities as the season transitions. Ideal options might include a brisk walk along the lakefront or enjoying the quiet beauty of the shoreline as we approach the Thanksgiving season.",
-    "color_code": "#4B6F96",
-    "timestamp": "2024-11-13 00:07:11"
+    "weather_report": "Evanston wakes to a chilly night, with the temperature resting in the low 40s, accompanied by a damp chill that makes for a brisk evening air. The atmosphere is rather still, yet the winds are beginning to whisper from the southeast, hinting at the change ahead. Mostly cloudy skies offer little clarity, leaving the night draped in a muted gray, while waves on Lake Michigan may be a bit tumultuous due to the gusts reaching higher speeds late into the evening.\n\nAs the day unfolds, residents can expect more of the same cloudiness, with temperatures climbing towards the mid-50s by afternoon. There's a slim chance\u2014only about 20%\u2014of encountering some rain after 3 PM, but for now, the precipitation remains absent. Given the season, today's temperatures are fairly typical for mid-November in Illinois, though one can expect a slightly damp and cool sensation that veers toward the unpleasant side for some. Attire suggestions would favor warmth: light layers, perhaps a windbreaker, accompanied by a scarf and comfortable shoes. As the day progresses, outdoor activities may be best enjoyed in short bursts,, possibly taking in a brisk walk along the lakefront, mindful of potential rain later.",
+    "color_code": "#4B7F6D",
+    "timestamp": "2024-11-13 01:05:13"
 }
