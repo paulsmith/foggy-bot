@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-13T09:00:00-06:00",
+                "startTime": "2024-11-13T10:00:00-06:00",
                 "endTime": "2024-11-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Rain",
-                "detailedForecast": "A chance of rain after 5pm. Mostly cloudy, with a high near 54. Southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain,30?size=medium",
+                "shortForecast": "Cloudy then Chance Rain",
+                "detailedForecast": "A chance of rain after 5pm. Cloudy, with a high near 54. Southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the scene is decidedly brisk, with a recent temperature hovering in the low 40s, accompanied by a notable humidity that makes the air feel somewhat chillier. The wind is howling from the southeast at a vigorous pace, adding a sharp edge to the overall atmosphere, particularly along the shoreline where the waves are visibly stirred. Cloud cover cloaks the sky, setting a grayish tone for the day ahead.\n\nAs we look to the forecast, rain is on the horizon, particularly after 5 PM, with a high expected to reach the mid-50s. Tonight promises an even higher chance of rain, with the temperature dipping to the upper 40s. Expect steady winds, creating a crisp but potentially uncomfortable evening for any outdoor endeavors. For those braving the outdoors today, a waterproof jacket would be wise, along with layers to stave off the chill from both the wind and the impending rain. Given that we're in mid-November, these temperatures are quite typical for the region, signaling that winter is just around the corner. For today, perhaps seeking shelter in a cozy cafe or engaging in indoor activities would be ideal, as the beach, while breathtaking, may not be the most inviting spot for recreation in this weather.",
-    "color_code": "#A6A6A6",
-    "timestamp": "2024-11-13 09:05:12"
+    "weather_report": "Evanston is waking to a chilly, overcast morning with the temperature hovering in the low 40s. A brisk, blustery southeast wind is making the day feel more pronouncedly cool. The humidity wraps around the air, evoking a crispness that's perfect for cozying up indoors. The beach, though inviting, carries turbulent waters with moderate waves, suggesting a turbulent day ahead. As we look to the afternoon, residents can expect a high reaching into the mid-50s, but with rain expected to roll in after 5 PM, the chance of precipitation stands at 30%. This evening brings a 100% likelihood of rain, with totals likely between half an inch to three-quarters. \n\nGiven the forecast, it would be wise to bundle up in layers for the day ahead, opting for water-resistant jackets and sturdy footwear to navigate the anticipated downpour. Today\u2019s weather feels typical for mid-November in the Midwest, with temperatures and conditions reflecting this late autumn transition. Outdoor activities may be best reserved for short jaunts or quick errands, as the forecasted rainfall and blustery conditions may deter longer ventures along the shoreline. Despite the chilly embrace of November, the beach presents its own rough charm, inviting those willing to brave the elements to experience its wild beauty.",
+    "color_code": "#6B7C91",
+    "timestamp": "2024-11-13 10:05:53"
 }
