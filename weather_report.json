@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-13T12:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 70.097333034191,
-            "wind_speed_mph": 20.93832,
+            "timestamp": "2024-11-13T13:51:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 67.832396838868,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 130,
-            "description": "Mostly Cloudy"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-13T08:00:00-06:00",
+                "startTime": "2024-11-13T09:00:00-06:00",
                 "endTime": "2024-11-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the air is marked by a cool, brisk sensation, with temperatures settled in the low 40s and a sense of heaviness from the humidity that hovers around 70%. Although it\u2019s mostly cloudy, the landscape appears tranquil, with a gentle breeze whispering off Lake Michigan, causing occasional ripples on the surface. For the day ahead, the forecast turns towards a greater likelihood of precipitation, particularly after 5 PM, with a 30% chance of rain, and temperatures expected to rise to near 54 degrees. \n\nThose venturing outdoors may find the atmosphere somewhat dreary, especially as rain is predicted to sweep in tonight with a 100% chance of showers and a likelihood of half an inch or more of rainfall. The waves on the lake are likely to echo the wind's intensity, creating a slightly lively scene along the shore. Given the chilliness in the air and the impending rain, layered clothing is advised, including a water-resistant outer layer to stay comfortable and dry. While the current conditions bring a touch of unsettledness typical for mid-November, residents might consider activities like cozying up indoors with a book or visiting local cafes, as the holiday season approaches with Thanksgiving just around the corner.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-11-13 08:05:05"
+    "weather_report": "This morning in Evanston, the scene is decidedly brisk, with a recent temperature hovering in the low 40s, accompanied by a notable humidity that makes the air feel somewhat chillier. The wind is howling from the southeast at a vigorous pace, adding a sharp edge to the overall atmosphere, particularly along the shoreline where the waves are visibly stirred. Cloud cover cloaks the sky, setting a grayish tone for the day ahead.\n\nAs we look to the forecast, rain is on the horizon, particularly after 5 PM, with a high expected to reach the mid-50s. Tonight promises an even higher chance of rain, with the temperature dipping to the upper 40s. Expect steady winds, creating a crisp but potentially uncomfortable evening for any outdoor endeavors. For those braving the outdoors today, a waterproof jacket would be wise, along with layers to stave off the chill from both the wind and the impending rain. Given that we're in mid-November, these temperatures are quite typical for the region, signaling that winter is just around the corner. For today, perhaps seeking shelter in a cozy cafe or engaging in indoor activities would be ideal, as the beach, while breathtaking, may not be the most inviting spot for recreation in this weather.",
+    "color_code": "#A6A6A6",
+    "timestamp": "2024-11-13 09:05:12"
 }
