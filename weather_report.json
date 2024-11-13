@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-13T11:51:00+00:00",
+            "timestamp": "2024-11-13T12:51:00+00:00",
             "temperature_f": 41.0,
             "temperature_c": 5,
             "humidity": 70.097333034191,
-            "wind_speed_mph": 33.01812,
+            "wind_speed_mph": 20.93832,
             "wind_direction": 130,
-            "description": "Cloudy"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-13T07:00:00-06:00",
+                "startTime": "2024-11-13T08:00:00-06:00",
                 "endTime": "2024-11-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the morning greets us with a chilly embrace, as temperatures hover in the low 40s accompanied by a damp atmosphere, casting an aura of coolness that is further intensified by a fierce southeast wind. The day starts off cloudy and somewhat dreary, with a veil of clouds overhead and a strong breeze sweeping across the beach towards Lake Michigan, stirring up a sense of unrest in the waters, which are likely exhibiting moderate waves.\n\nAs the day progresses, expect a transition into a slightly warmer afternoon, aiming for highs near the mid-50s. However, a chance of rain arrives after 5 PM, increasing dramatically throughout the evening. This forecast indicates a high probability of precipitation, making it essential for residents and visitors alike to prepare for a wet evening, with expected rainfall between half an inch to three-quarters of an inch. Given these conditions, the attire for the day should be layered\u2014consider a warm jacket and perhaps a raincoat or umbrella for later. \n\nIn terms of seasonal context, these temperatures are typical for mid-November in this region, characterized by a stark chill as we inch closer to winter's grasp. Activities might be best enjoyed indoors today, perhaps a warm coffee at a local caf\u00e9 or visiting one of Evanston\u2019s cultural spots. As we navigate through this gray day, a reminder to stay dry and warm will be fitting as we head into the evening.",
-    "color_code": "#B0BEC5",
-    "timestamp": "2024-11-13 07:09:08"
+    "weather_report": "As dawn breaks over Evanston, the air is marked by a cool, brisk sensation, with temperatures settled in the low 40s and a sense of heaviness from the humidity that hovers around 70%. Although it\u2019s mostly cloudy, the landscape appears tranquil, with a gentle breeze whispering off Lake Michigan, causing occasional ripples on the surface. For the day ahead, the forecast turns towards a greater likelihood of precipitation, particularly after 5 PM, with a 30% chance of rain, and temperatures expected to rise to near 54 degrees. \n\nThose venturing outdoors may find the atmosphere somewhat dreary, especially as rain is predicted to sweep in tonight with a 100% chance of showers and a likelihood of half an inch or more of rainfall. The waves on the lake are likely to echo the wind's intensity, creating a slightly lively scene along the shore. Given the chilliness in the air and the impending rain, layered clothing is advised, including a water-resistant outer layer to stay comfortable and dry. While the current conditions bring a touch of unsettledness typical for mid-November, residents might consider activities like cozying up indoors with a book or visiting local cafes, as the holiday season approaches with Thanksgiving just around the corner.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-11-13 08:05:05"
 }
