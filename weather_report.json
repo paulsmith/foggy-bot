@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-12T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-13T00:00:00-06:00",
                 "endTime": "2024-11-13T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As twilight deepens in Evanston, the current atmosphere settles into a brisk scene, with temperatures in the low 40s and a refreshing chill carried by a gusty wind from the southeast. Humidity adds a touch of coolness, creating a refreshing environment perfect for an evening stroll along the beach, though it does feel a bit nippy. The clouds are beginning to gather, hinting at a mostly cloudy night ahead, with a low dipping to around 42 degrees. Winds will continue to whistle with strength, creating short bursts that elevate the chill factor.\n\nLooking ahead to Wednesday, expect a mix of clouds with a slight chance of rain after 3 PM, and temperatures steadying near the mid-50s. The breeze will maintain its presence, which could stir up some wave activity along Lake Michigan, making it a bit lively out on the water. While precipitation chances remain modest at 20%, it's wise to keep an umbrella close as the day progresses. Given these conditions, a warm jacket and layered clothing would serve well for those venturing outdoors, especially in the evening. It\u2019s worth noting that in this late autumn setting, temperatures are aligning with seasonal norms. With the approach of the holiday season, a brisk walk along the lakefront or a cozy evening inside is highly recommended to embrace the charm of the region during this time of year.",
-    "color_code": "#4B8BA0",
-    "timestamp": "2024-11-12 23:05:33"
+    "weather_report": "As of now, Evanston is experiencing a cool and crisp night with temperatures lingering in the low 40s and a noticeable breeze sweeping in from the southeast. The air feels refreshingly brisk, accompanied by a humidity level that brings a touch of dampness but remains manageable. The sky is partly cloudy, creating a somewhat muted ambiance along the beach where the waves are likely rolling gently against the shore, though the stirring wind can make them feel more robust.\n\nLooking ahead to Wednesday, expect mostly cloudy skies with a slight chance of rain in the afternoon. The high will reach the mid 50s, accompanied by a similar southeastern breeze that may pick up slightly in the afternoon. While precipitation is unlikely with only a 20% chance, the overall conditions will still feel a tad damp and chilly. Given the cool temperatures typical for mid-November in this region, dressing in layers will be advisable. A warm jacket, perhaps even a light scarf, would be prudent for anyone venturing outside, particularly with the enticing possibility of softer autumn activities as the season transitions. Ideal options might include a brisk walk along the lakefront or enjoying the quiet beauty of the shoreline as we approach the Thanksgiving season.",
+    "color_code": "#4B6F96",
+    "timestamp": "2024-11-13 00:07:11"
 }
