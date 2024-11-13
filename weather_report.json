@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-13T01:00:00-06:00",
+                "startTime": "2024-11-13T02:00:00-06:00",
                 "endTime": "2024-11-13T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 42,
+                "temperature": 43,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 42. Southeast wind around 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 43. Southeast wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Rain",
-                "detailedForecast": "A slight chance of rain after 3pm. Mostly cloudy, with a high near 54. Southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,30?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Rain",
+                "detailedForecast": "A chance of rain after 5pm. Mostly cloudy, with a high near 54. Southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "Evanston wakes to a chilly night, with the temperature resting in the low 40s, accompanied by a damp chill that makes for a brisk evening air. The atmosphere is rather still, yet the winds are beginning to whisper from the southeast, hinting at the change ahead. Mostly cloudy skies offer little clarity, leaving the night draped in a muted gray, while waves on Lake Michigan may be a bit tumultuous due to the gusts reaching higher speeds late into the evening.\n\nAs the day unfolds, residents can expect more of the same cloudiness, with temperatures climbing towards the mid-50s by afternoon. There's a slim chance\u2014only about 20%\u2014of encountering some rain after 3 PM, but for now, the precipitation remains absent. Given the season, today's temperatures are fairly typical for mid-November in Illinois, though one can expect a slightly damp and cool sensation that veers toward the unpleasant side for some. Attire suggestions would favor warmth: light layers, perhaps a windbreaker, accompanied by a scarf and comfortable shoes. As the day progresses, outdoor activities may be best enjoyed in short bursts,, possibly taking in a brisk walk along the lakefront, mindful of potential rain later.",
-    "color_code": "#4B7F6D",
-    "timestamp": "2024-11-13 01:05:13"
+    "weather_report": "In Evanston, Illinois, the current conditions present a slightly cool and muggy atmosphere, with temperatures resting in the low 40s. The humid air lends a damp chill, while a gusty southeast wind sends ripples across the lake, making it feel brisk on the shore. As night approaches, the weather is mostly cloudy, with the horizon veiled in soft grey. The upcoming forecast indicates a steady chance of rain developing after 5 PM, so it may be wise to keep an umbrella close, particularly as temperatures nudge upwards to the mid-50s on Wednesday.\n\nWith these conditions, the beach may lack the charm of a sunny day, but it has its own allure in the quietude of twilight. The lake\u2019s waves may be choppy due to the wind, stirring a gentle unease in the water. For those venturing outdoors, layering is recommended, as a light jacket or sweater will provide comfort against the cool evening air. Given it\u2019s a typical November day in the Midwest, these temperatures align closely with the season, although they may fall on the chilly side for more temperate preferences. As for activities, a brisk walk along the waterfront could be refreshing, but be prepared for the impending rain; cozy indoor pursuits might be more appealing as the day progresses.",
+    "color_code": "#5B7F7F",
+    "timestamp": "2024-11-13 02:06:49"
 }
