@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-13T23:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 74.11362974689,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 140,
-            "description": "Light Rain"
+            "timestamp": "2024-11-14T01:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 92.815182297916,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 120,
+            "description": "Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-13T19:00:00-06:00",
+                "startTime": "2024-11-13T20:00:00-06:00",
                 "endTime": "2024-11-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evening in Evanston presents a gray and drizzly scene, with current temperatures in the low 50s complemented by a touch of humidity that makes the air feel damp and chilly. The winds are fierce, howling from the southeast, creating a blustery atmosphere along Lake Michigan. Light rain falls steadily, setting a somber tone as clouds loom overhead, obscuring any hint of evening cheer. This weather will carry on into the night, with projections suggesting a continued downpour\u2014expect temperatures to rise slightly as the night wears on, reaching around the low 50s in the early hours.\n\nLooking ahead to Thursday, rain is likely to persist until mid-afternoon, with a high expected to linger in the mid-50s. The clouds will remain dominant, and the chance of additional rain adds a layer of gloom to the day\u2019s activities. With gusty winds expected, outdoor plans might be best postponed, as the conditions are less than inviting. As we are well into autumn, this weather feels typical for the season, aligning with the cooler temperatures of the Great Lakes region. For those venturing out, sturdy rain gear and warm layers will be essential to stay dry and comfortable amidst the damp chill. It\u2019s a good evening for indoor activities, perhaps enjoying a cozy meal or diving into a good book while the rain patters against the windows.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2024-11-13 19:33:09"
+    "weather_report": "In Evanston, Illinois, the current conditions are marked by a damp chill, with temperatures hovering in the upper 40s and humidity creating an enveloping sensation. The air feels heavy, enhanced by a gentle whisper of wind from the southeast, while rain and fog cloak the landscape, considerably reducing visibility. As night descends, the forecast indicates persistent rainfall, with temperatures gradually rising to the low 50s as the night progresses. Expect gusty winds to accompany the rain, reaching up to 30 mph, making for a rather blustery night.\n\nGiven the persistent rain and low visibility, venturing outdoors may prove less than pleasant. Wave conditions at Lake Michigan could become choppy with the incoming gusty winds, posing caution for any nighttime waterfront activities. The expected precipitation is significant, as up to an inch of rain may fall, so appropriate attire would include waterproof outerwear and sturdy footwear, emphasizing comfort and dryness. This chilly and damp forecast, typical for mid-November in the heart of the Midwest, suggests that activities outdoors would be best reserved for another day, perhaps saved for a cozy evening indoors, allowing for reflection and warmth as the gray skies prevail.",
+    "color_code": "#5A5F73",
+    "timestamp": "2024-11-13 20:27:35"
 }
