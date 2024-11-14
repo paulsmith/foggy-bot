@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-14T09:51:00+00:00",
+            "timestamp": "2024-11-14T10:58:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
             "humidity": 96.074594670841,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 90,
-            "description": "Light Drizzle and Fog/Mist"
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-14T05:00:00-06:00",
-                "endTime": "2024-11-14T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,80?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers and areas of drizzle and patchy fog. Cloudy. Low around 49, with temperatures rising to around 51 overnight. South southeast wind around 5 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2024-11-14T06:00:00-06:00",
                 "endTime": "2024-11-14T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/ovc?size=medium",
                 "shortForecast": "Widespread Drizzle then Cloudy",
                 "detailedForecast": "Widespread drizzle and rain showers likely and patchy fog before noon. Cloudy. High near 54, with temperatures falling to around 52 in the afternoon. West wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-14T18:00:00-06:00",
+                "endTime": "2024-11-15T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 45. Northwest wind around 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the atmosphere is marked by a damp chill, with temperatures in the low 50s complemented by a nearly saturated air that feels cool and penetrating. A gentle wind whispers from the east, adding a crisp edge to the already somber scene of light drizzle and fog. The beach, usually a vibrant canvas, presents a muted palette today, shrouded in mist and gray clouds that blanket the horizon.\n\nAs we look ahead to the day, we can expect widespread drizzle and lingering rain showers through the morning hours. The high will peak in the mid 50s, with temperatures dipping slightly in the afternoon as the clouds persist. A gentle breeze will pick up later, possibly turning blustery, and there\u2019s a noticeable 70% chance of additional rain, accumulating less than a tenth of an inch by day's end. Given this forecast, those venturing outside should don waterproof jackets and footwear, as puddles and wet pathways are likely. The current weather, typical for mid-November in the Midwest, may deter some outdoor enthusiasm but can still provide a moody beauty worth embracing. While this day is not a holiday, the approach of Thanksgiving in the coming weeks offers a reminder of seasonal gatherings, making one appreciate the cozy comforts of home during this cold, drizzly weather.",
-    "color_code": "#5D5F61",
-    "timestamp": "2024-11-14 05:04:58"
+    "weather_report": "Current weather conditions in Evanston, Illinois, paint a chilly and damp picture. The temperature hovers in the low 50s, creating a slightly muggy feel, intensified by high humidity levels around 96 percent. The air is still, with little to no wind stirring, contributing to an overall subdued ambiance. As dawn draws nearer, widespread drizzle and rain showers are on the horizon, along with patchy fog likely to linger through the morning. Today's forecast suggests a cloudy day with a high reaching into the mid 50s, but temperatures will drop to the low 50s this afternoon. As the day progresses, expect a gentle westward breeze picking up in intensity, possibly leading to gusty conditions.\n\nConsidering these elements, the scene at the beach will lack clarity and vibrancy, leaning towards a more muted, somber appearance with raindrops potentially flickering on the surface of Lake Michigan. The waves may be modest, not particularly high, fitting for a drizzly day along the shore. Attire wise, a light jacket or raincoat is recommended, coupled with waterproof footwear if venturing outdoors. In terms of broaching seasonal norms, this fall day aligns reasonably well with expected temperatures for mid-November in the Midwest, marking the gradual shift into colder days ahead. Activities may gravitate towards indoor venues, perfect for enjoying warm beverages and cozy gatherings as the rain falls, or perhaps a reflective stroll along the shoreline for those unfazed by the drizzle. Today is a typical day leading into the heart of autumn, with no major holiday celebrations marking the calendar aside from the approaching Thanksgiving in a week\u2019s time.",
+    "color_code": "#B0C4C5",
+    "timestamp": "2024-11-14 06:08:40"
 }
