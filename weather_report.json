@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-14T01:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 92.815182297916,
+            "timestamp": "2024-11-14T02:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 96.659876800572,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 120,
-            "description": "Rain and Fog/Mist"
+            "wind_direction": 100,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather is quite gloomy with temperatures lingering in the chill of the high 40s, accompanied by a heavy, humid feel due to the considerable moisture in the air. It's a night marked by persistent rain and a shroud of fog, creating a somber yet serene atmosphere near the lake. The wind is notably brisk, blowing at a pace that can stir up a chill, reaching nearly 25 miles per hour, and is set to shift gears tonight, providing a gusty backdrop to the already wet conditions.\n\nLooking ahead, the rain will continue through tonight, with lows hovering around the upper 40s and a gradual rise to the low 50s as the night progresses. It's projected that the rain will ease off somewhat by Thursday afternoon, though there\u2019s still a reasonable likelihood of showers ahead. For those contemplating a venture outdoors, layers would be wise, given the dampness and chill; waterproof attire and a sturdy umbrella are essential. The conditions are typical for mid-November in this region\u2014a time when temperatures often fall into this uninviting range. While outdoor activities may be limited to cozy gatherings indoors, engaging in a good book or enjoying a warm cup of coffee while listening to the rain might provide a pleasant escape from the dampness.",
-    "color_code": "#4A5567",
-    "timestamp": "2024-11-13 21:09:07"
+    "weather_report": "Evanston is currently enveloped in a chilly embrace, with temperatures hovering in the mid to upper 40s, where the air feels damp and steely from the persistent light rain and mist. The atmosphere carries a pronounced heaviness, as humidity clings uncomfortably to the skin, making the conditions feel even cooler. The wind is spirited, blowing from the southeast with occasional gusts, adding an invigorating element to an otherwise dreary scene.\n\nLooking ahead, the city can expect rain to continue throughout the night, with temperatures only creeping upward slightly to the low 50s by morning, driven by a gentle southeast breeze. As the day progresses, rain is likely to linger until mid-afternoon, when conditions may hold steady around the low 50s before dipping again. The precipitation forecast suggests a significant accumulation, with a chance of nearly an inch, creating rather blustery and unfriendly conditions along the lakeshore. The waves on Lake Michigan will likely be restless, influenced by the powerful winds, making the beach an uninviting sight for leisurely activities. In this season, a chill like this is typical, marking the depths of late autumn in the Midwest\u2014best suited for cozy gatherings indoors. With such weather, layering is essential; a waterproof jacket and sturdy shoes will serve one well against the persistent chill and moisture. Today is an ordinary Tuesday, devoid of notable holidays, making it a prime time to retreat indoors with a good book or perhaps catch a local film as the weather outside grows steadily more inclement.",
+    "color_code": "#2F2F34",
+    "timestamp": "2024-11-13 22:06:37"
 }
