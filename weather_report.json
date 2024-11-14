@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-14T03:00:00-06:00",
+                "startTime": "2024-11-14T04:00:00-06:00",
                 "endTime": "2024-11-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather presents a rather dreary spectacle, with light drizzle falling amid a thick blanket of fog and mist. The temperature is in the low 50s, with a relentless, chilly wind from the southeast that adds a brisk edge to the air. This combination of high humidity results in an overall damp and chilly feel, making the outdoors less inviting for those unprepared. \n\nLooking ahead to the day, expect persistent drizzle and rain showers, particularly before noon, while overcast skies will dominate the scene. Temperatures will hover around the mid-50s, with the brisk breeze potentially raising a few gusts that might catch you off guard. As rain amounts are projected to be modest, the lake's typical calm may be disrupted with gentle waves, but conditions will still be manageable for most. For those venturing outdoors, layered clothing is recommended, with waterproof outerwear essential to combat the pervasive dampness. \n\nAs we are in the late autumn season, the temperatures align with what is typical for the region, although it does carry a melancholic charm. Today is certainly not the best for outdoor activities, but a cozy afternoon at a local caf\u00e9, away from the rain, could provide a pleasant alternative.",
-    "color_code": "#4B4C7A",
-    "timestamp": "2024-11-14 03:05:34"
+    "weather_report": "In Evanston, the morning greets us with a chill in the air, marked by temperatures hovering in the low 50s. It's a damp and dreary scene, with humidity wrapping around the landscape at a balmy 100 percent, intensifying the light drizzle currently falling. The wind, while moderate, adds to the coolness with gusts whispering off Lake Michigan, creating a brisk atmosphere unfavorable for outdoor activities.\n\nLooking ahead, the day promises to be similarly overcast, filled with persistent drizzle and sporadic rain showers, particularly before noon. As temperatures are expected to climb slightly, peaking in the mid 50s, the overall feel remains decidedly chilly with the potential for patchy fog. With a high likelihood of rainfall\u2014about 90 percent\u2014conditions call for waterproof gear and warm clothing. The waves on the lake might be restless, indicating tougher conditions for any adventurous souls braving the shoreline. \n\nTo navigate this wintry mix typical of mid-November, dressing in layers, including a waterproof jacket, is advisable. Though today isn\u2019t marked by any significant holiday, the weather nudges one to consider cozy indoor activities, perhaps curling up with a good book or visiting a local caf\u00e9, rather than venturing into the elements. Overall, this day embodies the transition into the heart of autumn, where the cool air and increasing moisture are familiar yet still bracing reminders of the shifting seasons.",
+    "color_code": "#4D5656",
+    "timestamp": "2024-11-14 04:05:50"
 }
