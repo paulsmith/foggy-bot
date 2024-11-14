@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-14T11:51:00+00:00",
+            "timestamp": "2024-11-14T12:51:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
             "humidity": 96.074594670841,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Light Drizzle and Fog/Mist"
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 290,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-14T07:00:00-06:00",
+                "startTime": "2024-11-14T08:00:00-06:00",
                 "endTime": "2024-11-14T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 40
                 },
                 "windSpeed": "5 to 15 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/ovc?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/ovc?size=medium",
                 "shortForecast": "Areas Of Drizzle then Cloudy",
-                "detailedForecast": "Areas of drizzle and a chance of rain showers and patchy fog before noon. Cloudy. High near 54, with temperatures falling to around 52 in the afternoon. West northwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Areas of drizzle and a chance of rain showers and patchy fog before noon. Cloudy. High near 54, with temperatures falling to around 52 in the afternoon. West northwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston this morning, a thick blanket of fog and light drizzle cloaks the shoreline, creating an atmosphere that feels both damp and cool. With temperatures lingering in the low 50s and heavy humidity, it\u2019s a decidedly chilly scene by Lake Michigan, where visibility may be reduced. Today's forecast suggests a continuation of overcast skies with a high nearing the mid-50s, as areas of drizzle persist before giving way to occasional rain showers, particularly in the morning hours. The wind, gently whispering from the west-northwest at around 5 to 15 miles per hour, has the potential to gust up to 25 miles an hour, which might add a brisk edge to those stepping out.\n\nGiven the possibly dreary aesthetics and cool temperatures typical for mid-November here, a warm jacket and rain gear are recommended for those planning to venture outside today. The wave conditions look calm, with minimal surf activity, suitable for leisurely views rather than aquatic adventures. While the atmosphere may not lend itself to lively outdoor activities, it could be a pleasant day for a visit to cozy local caf\u00e9s or bookstores, perfect for indulging in a good novel or enjoying a warm drink. It's worth noting that while today isn't a holiday, Thanksgiving is just around the corner, making it a reflective time for many in the community.",
-    "color_code": "#3B3B3B",
-    "timestamp": "2024-11-14 07:10:04"
+    "weather_report": "This morning in Evanston, conditions are decidedly dreary, with temperatures lingering in the low 50s and high humidity making the air feel heavier. The atmosphere is thick with clouds, hinting at the potential for light drizzle and patchy fog, particularly before noon. A gentle breeze from the northwest stirs the air, adding a slight chill that could leave one feeling a bit uncomfortable without a proper layer. The beach view is likely obscured by the overcast sky, casting a grey pallor over the tranquil waters of Lake Michigan.\n\nAs the day unfolds, expect a continuation of cloudy skies with a high nearing the mid-50s, before temperatures gradually settle back into the low 50s by afternoon. The chance of precipitation is around 40%, so keep an umbrella handy, especially if venturing out for any midday activities. For anyone considering outdoor plans, the weather leans towards the chilly and damp, making it a great day to cozy up indoors. Wave conditions at the beach may not be ideal for swimming but could be suitable for a peaceful walk along the shoreline, provided one is adequately dressed. As autumn settles in, this weather is typical for mid-November in the Midwest, with cool temperatures and unpredictable skies. Today is a regular Tuesday with no major holiday looming, but the next few days may offer clearer conditions for those hoping to soak up the dwindling fall sunshine.",
+    "color_code": "#A9B8B0",
+    "timestamp": "2024-11-14 08:05:06"
 }
