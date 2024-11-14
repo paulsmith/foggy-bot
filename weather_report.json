@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-14T13:00:00-06:00",
+                "startTime": "2024-11-14T14:00:00-06:00",
                 "endTime": "2024-11-14T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston indicate a rather gloomy afternoon, with temperatures hovering in the low 50s and a stubborn blanket of clouds overhead. The air feels damp and cool, intensified by a brisk northwest wind that is stirring up some wave activity on Lake Michigan. This evening, expect continued cloud cover as temperatures dip to a comfortable low in the upper 40s, with winds calming slightly but still providing a noticeable chill.\n\nAs for the rest of the day, it looks like a slightly blustery and overcast situation will prevail, making outdoor activities less enticing. Those venturing out should bundle up with layers, perhaps including a warm jacket and scarf, to stay cozy against the cool and breezy conditions. The wave conditions on the lake are moderately active, which may be of interest to surfers or those looking to enjoy a brisk beach walk. Given it's mid-November, temperatures are typical for the season\u2014evoking that quintessential late fall feel where the leaves have mostly turned and the chill is settling in. While today is not marked by any significant festivities or holidays, it presents a perfect opportunity to enjoy the tranquility of nature or indulge in a cozy cafe visit.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-14 13:04:53"
+    "weather_report": "As the afternoon unfolds in Evanston, the air carries a distinctly cool and damp chill typical for this time of year. Currently, temperatures hover in the low 50s, accompanied by brisk winds that whip in from the northwest, creating a blustery atmosphere ideal for a cozy indoor day. The gray clouds blanketing the sky suggest a lingering overcast that may not lift soon, and with humidity levels high, the overall feel is somewhat clammy, reinforcing that chilly edge.\n\nLooking ahead to the rest of the day, expect temperatures to dip slightly to around the mid 50s, bringing a steady cloud cover that is likely to persist into the evening. The breeze will remain noticeable, making it feel even cooler, with gusts that could reach up to 25 mph at times. No precipitation is currently in sight, and the chance of rain appears minimal, though one should remain cautious of the possibility of unexpected showers later. Given the waves are likely to be moderately stirred by the wind, conditions for beach activities are not ideal. Instead, consider indulging in indoor pursuits such as visiting local caf\u00e9s or museums that beckon with warmth and shelter from the elements. For those venturing outside, layering up with a warm jacket and perhaps a scarf will help counter the cold, making this a perfect day for a brisk walk if you're dressed appropriately.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2024-11-14 14:05:46"
 }
