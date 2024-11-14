@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-14T06:51:00+00:00",
+            "timestamp": "2024-11-14T07:51:00+00:00",
             "temperature_f": 50.0,
             "temperature_c": 10,
-            "humidity": 96.056307711081,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 130,
+            "humidity": 100,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 120,
             "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-14T02:00:00-06:00",
+                "startTime": "2024-11-14T03:00:00-06:00",
                 "endTime": "2024-11-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,90?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers and areas of drizzle and patchy fog. Cloudy. Low around 49, with temperatures rising to around 51 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain showers and areas of drizzle and patchy fog. Cloudy. Low around 49, with temperatures rising to around 51 overnight. Southeast wind around 5 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston depict a dreary scene, with temperatures slumbering in the low 50s and an enveloping moisture that gives a fresh, misty feeling. The light drizzle and patchy fog lend a somber touch to the landscape, while a gentle southeast breeze rustles the leaves. Visibility may be limited, so outdoor enthusiasts should be mindful as they venture out. \n\nLooking ahead, the overnight hours promise a continuation of rain showers and areas of drizzle, with temperatures creeping to the mid 50s. Tomorrow may bring more of the same\u2014cloudy skies, with a likelihood of widespread drizzle and rain showers continuing into the morning. Expect the high to hover around 50, and for wind gusts to pick up, adding a bit of bite to the day. The overall atmosphere is decidedly damp, with a precipitation chance of 90% overnight and about 70% on Thursday. Given these conditions, those planning to step outdoors should prepare for a potentially blustery experience by dressing in layers and bringing an umbrella. It\u2019s certainly a day better spent indoors with a warm drink, reflective of the seasonal shift toward late autumn. With a major holiday approaching, the spirit of the season might inspire cozy indoor gatherings, despite the weather's reluctance to cooperate.",
-    "color_code": "#606060",
-    "timestamp": "2024-11-14 02:06:59"
+    "weather_report": "In Evanston, the current weather presents a rather dreary spectacle, with light drizzle falling amid a thick blanket of fog and mist. The temperature is in the low 50s, with a relentless, chilly wind from the southeast that adds a brisk edge to the air. This combination of high humidity results in an overall damp and chilly feel, making the outdoors less inviting for those unprepared. \n\nLooking ahead to the day, expect persistent drizzle and rain showers, particularly before noon, while overcast skies will dominate the scene. Temperatures will hover around the mid-50s, with the brisk breeze potentially raising a few gusts that might catch you off guard. As rain amounts are projected to be modest, the lake's typical calm may be disrupted with gentle waves, but conditions will still be manageable for most. For those venturing outdoors, layered clothing is recommended, with waterproof outerwear essential to combat the pervasive dampness. \n\nAs we are in the late autumn season, the temperatures align with what is typical for the region, although it does carry a melancholic charm. Today is certainly not the best for outdoor activities, but a cozy afternoon at a local caf\u00e9, away from the rain, could provide a pleasant alternative.",
+    "color_code": "#4B4C7A",
+    "timestamp": "2024-11-14 03:05:34"
 }
