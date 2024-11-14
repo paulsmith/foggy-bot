@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-14T07:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 100,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 120,
+            "timestamp": "2024-11-14T09:51:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 96.074594670841,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 90,
             "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-14T04:00:00-06:00",
+                "startTime": "2024-11-14T05:00:00-06:00",
                 "endTime": "2024-11-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 90
+                    "value": 80
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,90?size=medium",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,80?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers and areas of drizzle and patchy fog. Cloudy. Low around 49, with temperatures rising to around 51 overnight. Southeast wind around 5 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain showers and areas of drizzle and patchy fog. Cloudy. Low around 49, with temperatures rising to around 51 overnight. South southeast wind around 5 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the morning greets us with a chill in the air, marked by temperatures hovering in the low 50s. It's a damp and dreary scene, with humidity wrapping around the landscape at a balmy 100 percent, intensifying the light drizzle currently falling. The wind, while moderate, adds to the coolness with gusts whispering off Lake Michigan, creating a brisk atmosphere unfavorable for outdoor activities.\n\nLooking ahead, the day promises to be similarly overcast, filled with persistent drizzle and sporadic rain showers, particularly before noon. As temperatures are expected to climb slightly, peaking in the mid 50s, the overall feel remains decidedly chilly with the potential for patchy fog. With a high likelihood of rainfall\u2014about 90 percent\u2014conditions call for waterproof gear and warm clothing. The waves on the lake might be restless, indicating tougher conditions for any adventurous souls braving the shoreline. \n\nTo navigate this wintry mix typical of mid-November, dressing in layers, including a waterproof jacket, is advisable. Though today isn\u2019t marked by any significant holiday, the weather nudges one to consider cozy indoor activities, perhaps curling up with a good book or visiting a local caf\u00e9, rather than venturing into the elements. Overall, this day embodies the transition into the heart of autumn, where the cool air and increasing moisture are familiar yet still bracing reminders of the shifting seasons.",
-    "color_code": "#4D5656",
-    "timestamp": "2024-11-14 04:05:50"
+    "weather_report": "This morning in Evanston, the atmosphere is marked by a damp chill, with temperatures in the low 50s complemented by a nearly saturated air that feels cool and penetrating. A gentle wind whispers from the east, adding a crisp edge to the already somber scene of light drizzle and fog. The beach, usually a vibrant canvas, presents a muted palette today, shrouded in mist and gray clouds that blanket the horizon.\n\nAs we look ahead to the day, we can expect widespread drizzle and lingering rain showers through the morning hours. The high will peak in the mid 50s, with temperatures dipping slightly in the afternoon as the clouds persist. A gentle breeze will pick up later, possibly turning blustery, and there\u2019s a noticeable 70% chance of additional rain, accumulating less than a tenth of an inch by day's end. Given this forecast, those venturing outside should don waterproof jackets and footwear, as puddles and wet pathways are likely. The current weather, typical for mid-November in the Midwest, may deter some outdoor enthusiasm but can still provide a moody beauty worth embracing. While this day is not a holiday, the approach of Thanksgiving in the coming weeks offers a reminder of seasonal gatherings, making one appreciate the cozy comforts of home during this cold, drizzly weather.",
+    "color_code": "#5D5F61",
+    "timestamp": "2024-11-14 05:04:58"
 }
