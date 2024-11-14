@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-14T10:00:00-06:00",
+                "startTime": "2024-11-14T11:00:00-06:00",
                 "endTime": "2024-11-14T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly and damp scene, with temperatures hovering in the low 50s and a heavy blanket of clouds overhead. The brisk northwest winds provide a blustery touch, pushing the humidity to nearly 92%, giving the air a damp, cool feel that might not be refreshing for everyone. This morning, light drizzle is expected, particularly before noon, adding to the grayness of the day. As we move into the afternoon, the high will reach near 54 before falling back down to the low 50s, accompanied by gusty winds that could reach up to 25 mph. The chances of additional rain are minimal, but residents should be wary of intermittent sprinkles.\n\nThe forecast suggests a transition to partly cloudy conditions later, with temperatures continuing to dip into the low 40s tonight. Spectators hoping for time by the lake may find the beach somewhat forbidding, with rough wave conditions likely influenced by the vibrant winds. For outdoor adventurers, a warm jacket and perhaps a light raincoat are advisable. The temperatures are typical for mid-November in this region, signaling the full arrival of autumn. As for activities, the weather might not be ideal for extended beach strolls, but a brief visit to take in the brisk lakeside air could still be invigorating. Today is not a holiday, but with Thanksgiving around the corner, the air carries a sense of seasonal transition, with winter soon to take hold.",
-    "color_code": "#9B9B9B",
-    "timestamp": "2024-11-14 10:06:16"
+    "weather_report": "Current conditions in Evanston reveal a chilly and rather gloomy day, with temperatures lingering in the low 50s and a notable touch of dampness in the air. The blustery northwestern wind is adding a bite to the overall feel, approaching a fierce strength that sweeps across the shoreline, carrying with it the sound of distant waves lapping against the beach. Today's forecast shows a persistent cloud cover, with patchy drizzle expected to taper off by noon, making way for a high near 54 before the afternoon sets in and the temperature begins to retreat again. As evening approaches, expect mostly cloudy skies and a low dipping to around 45.\n\nWith the horizon cloaked in grey and only hints of sunlight occasionally breaking through, the scene may appear somewhat bleak. Wave conditions are moderate, reflecting the wind's hustle but still inviting for contemplative strolls along the waterfront if one can brave the chill. Given the autumn season, this temperature is typical of mid-November in the Midwest, so layers will be key. A warm jacket, perhaps with a scarf, is advisable for those venturing outside to enjoy the changing views of Lake Michigan. Ideal activities today might include a brisk walk along the beach, gathering with friends indoors, or taking in a cozy caf\u00e9 moment as the drizzle subsides and the clouds linger overhead, capturing the muted charm of a cozy November day.",
+    "color_code": "#A5B7B1",
+    "timestamp": "2024-11-14 11:05:03"
 }
