@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-14T02:51:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 96.659876800572,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 100,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2024-11-14T03:33:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 92.815182297916,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-13T21:00:00-06:00",
+                "startTime": "2024-11-13T22:00:00-06:00",
                 "endTime": "2024-11-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 90
                 },
-                "windSpeed": "5 to 15 mph",
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy. Low around 49, with temperatures rising to around 51 overnight. Southeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,90?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers. Cloudy. Low around 49, with temperatures rising to around 51 overnight. Southeast wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "5 to 15 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,20?size=medium",
-                "shortForecast": "Rain Likely",
-                "detailedForecast": "Rain likely before 3pm. Cloudy. High near 54, with temperatures falling to around 51 in the afternoon. West northwest wind 5 to 15 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/rain_showers,20?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely before 3pm. Cloudy. High near 54, with temperatures falling to around 51 in the afternoon. West northwest wind 5 to 15 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Evanston is currently enveloped in a chilly embrace, with temperatures hovering in the mid to upper 40s, where the air feels damp and steely from the persistent light rain and mist. The atmosphere carries a pronounced heaviness, as humidity clings uncomfortably to the skin, making the conditions feel even cooler. The wind is spirited, blowing from the southeast with occasional gusts, adding an invigorating element to an otherwise dreary scene.\n\nLooking ahead, the city can expect rain to continue throughout the night, with temperatures only creeping upward slightly to the low 50s by morning, driven by a gentle southeast breeze. As the day progresses, rain is likely to linger until mid-afternoon, when conditions may hold steady around the low 50s before dipping again. The precipitation forecast suggests a significant accumulation, with a chance of nearly an inch, creating rather blustery and unfriendly conditions along the lakeshore. The waves on Lake Michigan will likely be restless, influenced by the powerful winds, making the beach an uninviting sight for leisurely activities. In this season, a chill like this is typical, marking the depths of late autumn in the Midwest\u2014best suited for cozy gatherings indoors. With such weather, layering is essential; a waterproof jacket and sturdy shoes will serve one well against the persistent chill and moisture. Today is an ordinary Tuesday, devoid of notable holidays, making it a prime time to retreat indoors with a good book or perhaps catch a local film as the weather outside grows steadily more inclement.",
-    "color_code": "#2F2F34",
-    "timestamp": "2024-11-13 22:06:37"
+    "weather_report": "Current conditions in Evanston reveal a chill in the air, marked by a temperature in the low 50s and a damp, drizzly embrace that makes it feel even cooler. The pervasive fog creates a muted landscape, obscuring the usual vibrancy of the shoreline and casting a serene yet somber ambiance over Lake Michigan. As we look ahead to the evening, rain showers are expected to intensify, with temperatures gradually rising to around the low 50s, accompanied by a southeast wind that will shift to a gentle breeze overnight.\n\nThe weather tomorrow promises more rain, likely until the early afternoon, with temperatures peaking in the mid-50s before retreating. This forecast suggests a day that feels distinctly chilly and damp, not unusual for mid-November in the Midwest. Waves along the shoreline are likely to be animated by the winds, providing a rugged beauty to the otherwise drab scenery. Given the unsettled conditions, it\u2019s wise to dress warmly in layers \u2014 a waterproof jacket and sturdy shoes are essential if venturing outdoors. As the area is not commemorating any significant holiday today, it\u2019s a quiet day best spent indoors, perhaps enjoying a cozy afternoon with a good book or planning for the upcoming Thanksgiving holiday.",
+    "color_code": "#6B7F98",
+    "timestamp": "2024-11-13 23:05:33"
 }
