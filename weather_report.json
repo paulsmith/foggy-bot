@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-14T13:25:00+00:00",
+            "timestamp": "2024-11-14T14:51:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
-            "humidity": 96.074594670841,
+            "humidity": 92.285708289197,
             "wind_speed_mph": 28.991520000000005,
             "wind_direction": 310,
-            "description": "Fog/Mist"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-14T09:00:00-06:00",
+                "startTime": "2024-11-14T10:00:00-06:00",
                 "endTime": "2024-11-14T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/ovc?size=medium",
-                "shortForecast": "Areas Of Drizzle then Cloudy",
-                "detailedForecast": "Areas of drizzle and a chance of rain showers before noon. Cloudy. High near 54, with temperatures falling to around 52 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/ovc?size=medium",
+                "shortForecast": "Patchy Drizzle then Cloudy",
+                "detailedForecast": "Patchy drizzle before noon. Cloudy. High near 54, with temperatures falling to around 52 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "A thick cloak of fog lingers over Evanston this morning, wrapping the area in a damp chill, with temperatures resting in the low 50s and a somewhat oppressive humidity creating a muggy feel along the lakeshore. Winds are brisk and gusty, reaching up to nearly 30 miles per hour, adding a sharp edge to the otherwise muted gray skies. Residents can expect areas of drizzle and a slight chance of rain showers to linger before noon, giving way to a cloudy afternoon where temperatures will hover around the low 50s.\n\nAs the day unfolds, the view from the beach presents a typically dreary yet serene November landscape, conducive to introspection or quiet walks along the shore. However, the water conditions may not be ideal for activities like swimming, as wave heights could be moderate given the wind. For those venturing outdoors, it is advisable to wear layers that can withstand both the cool air and possible drizzle, along with closed shoes for comfort on wet surfaces. This time of year typically witnesses temperatures in this range, making it a hallmark of a transitional fall into winter\u2014perfect for indoor gatherings or warm beverages while the world outside maintains its muted palette.",
-    "color_code": "#A5A8A0",
-    "timestamp": "2024-11-14 09:05:22"
+    "weather_report": "Current conditions in Evanston present a chilly and damp scene, with temperatures hovering in the low 50s and a heavy blanket of clouds overhead. The brisk northwest winds provide a blustery touch, pushing the humidity to nearly 92%, giving the air a damp, cool feel that might not be refreshing for everyone. This morning, light drizzle is expected, particularly before noon, adding to the grayness of the day. As we move into the afternoon, the high will reach near 54 before falling back down to the low 50s, accompanied by gusty winds that could reach up to 25 mph. The chances of additional rain are minimal, but residents should be wary of intermittent sprinkles.\n\nThe forecast suggests a transition to partly cloudy conditions later, with temperatures continuing to dip into the low 40s tonight. Spectators hoping for time by the lake may find the beach somewhat forbidding, with rough wave conditions likely influenced by the vibrant winds. For outdoor adventurers, a warm jacket and perhaps a light raincoat are advisable. The temperatures are typical for mid-November in this region, signaling the full arrival of autumn. As for activities, the weather might not be ideal for extended beach strolls, but a brief visit to take in the brisk lakeside air could still be invigorating. Today is not a holiday, but with Thanksgiving around the corner, the air carries a sense of seasonal transition, with winter soon to take hold.",
+    "color_code": "#9B9B9B",
+    "timestamp": "2024-11-14 10:06:16"
 }
