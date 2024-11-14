@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-13T20:00:00-06:00",
+                "startTime": "2024-11-13T21:00:00-06:00",
                 "endTime": "2024-11-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current conditions are marked by a damp chill, with temperatures hovering in the upper 40s and humidity creating an enveloping sensation. The air feels heavy, enhanced by a gentle whisper of wind from the southeast, while rain and fog cloak the landscape, considerably reducing visibility. As night descends, the forecast indicates persistent rainfall, with temperatures gradually rising to the low 50s as the night progresses. Expect gusty winds to accompany the rain, reaching up to 30 mph, making for a rather blustery night.\n\nGiven the persistent rain and low visibility, venturing outdoors may prove less than pleasant. Wave conditions at Lake Michigan could become choppy with the incoming gusty winds, posing caution for any nighttime waterfront activities. The expected precipitation is significant, as up to an inch of rain may fall, so appropriate attire would include waterproof outerwear and sturdy footwear, emphasizing comfort and dryness. This chilly and damp forecast, typical for mid-November in the heart of the Midwest, suggests that activities outdoors would be best reserved for another day, perhaps saved for a cozy evening indoors, allowing for reflection and warmth as the gray skies prevail.",
-    "color_code": "#5A5F73",
-    "timestamp": "2024-11-13 20:27:35"
+    "weather_report": "In Evanston, the current weather is quite gloomy with temperatures lingering in the chill of the high 40s, accompanied by a heavy, humid feel due to the considerable moisture in the air. It's a night marked by persistent rain and a shroud of fog, creating a somber yet serene atmosphere near the lake. The wind is notably brisk, blowing at a pace that can stir up a chill, reaching nearly 25 miles per hour, and is set to shift gears tonight, providing a gusty backdrop to the already wet conditions.\n\nLooking ahead, the rain will continue through tonight, with lows hovering around the upper 40s and a gradual rise to the low 50s as the night progresses. It's projected that the rain will ease off somewhat by Thursday afternoon, though there\u2019s still a reasonable likelihood of showers ahead. For those contemplating a venture outdoors, layers would be wise, given the dampness and chill; waterproof attire and a sturdy umbrella are essential. The conditions are typical for mid-November in this region\u2014a time when temperatures often fall into this uninviting range. While outdoor activities may be limited to cozy gatherings indoors, engaging in a good book or enjoying a warm cup of coffee while listening to the rain might provide a pleasant escape from the dampness.",
+    "color_code": "#4A5567",
+    "timestamp": "2024-11-13 21:09:07"
 }
