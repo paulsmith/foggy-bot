@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-14T20:00:00-06:00",
+                "startTime": "2024-11-14T21:00:00-06:00",
                 "endTime": "2024-11-15T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening, Evanston experiences a chilly atmosphere as temperatures hover in the low 50s combined with a high humidity that adds a damp feel to the air. The conditions are overcast and quite blustery, with winds pushing through from the northwest, creating a notable chill, especially along the lakefront. As the night progresses, patchy drizzle is expected, particularly before 11 PM, making the shoreline considerably more humid and uninviting for outdoor activities.\n\nLooking towards tomorrow, cloudy skies will persist with daytime temperatures climbing slightly to the low 50s. A gentle north northwest wind will help to maintain a cooler edge, and while the higher waves along Lake Michigan may not pose a safety issue, they will deter casual beachgoers looking to enjoy the shore. This late autumn weather feels typical for mid-November in this corner of Illinois, where brisk winds and occasional drizzle set the scene. Given the forecast, it's advisable to don layers along with a waterproof jacket to stay comfortable while braving the elements. Enjoying indoor activities like visiting local cafes or exploring cultural spots may be the best choice for this damp day.",
-    "color_code": "#A1A49D",
-    "timestamp": "2024-11-14 20:30:30"
+    "weather_report": "This evening in Evanston, the weather presents a chilly, damp atmosphere marked by the gentle patter of patchy drizzle expected to ease before 11 PM. As temperatures hover in the low 50s, a noticeable humidity blankets the air, heightening that somewhat brisk edge. The northwest wind, while not fierce, carries a hint of chill, making the overall feel less inviting in this overcast setting.\n\nAs we look towards tomorrow, expect a continuation of the cloudy conditions with a high only reaching into the low 50s, complemented by a light, north-northwest breeze. Wave conditions along Lake Michigan may be subdued tonight but could stir slightly with the breeze tomorrow, creating a mildly choppy surface. For those heading out, a warm jacket and perhaps a rain-resistant layer would serve well, as the typical late autumn chill permeates the region. Given the evening and weather pairing, indoor activities like visiting a caf\u00e9 or catching a local show might be more enjoyable than braving the damp coastal winds.",
+    "color_code": "#1f2a6d",
+    "timestamp": "2024-11-14 21:14:35"
 }
