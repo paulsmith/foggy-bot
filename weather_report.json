@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-15T16:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 74.11362974689,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 290,
+            "timestamp": "2024-11-15T18:16:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 68.525286256056,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-15T12:00:00-06:00",
+                "startTime": "2024-11-15T15:00:00-06:00",
                 "endTime": "2024-11-15T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 52,
+                "temperature": 54,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 52, with temperatures falling to around 50 in the afternoon. Northwest wind around 5 mph."
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 54, with temperatures falling to around 51 in the afternoon. North northwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-15T18:00:00-06:00",
                 "endTime": "2024-11-16T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 45,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "0 mph",
                 "windDirection": "",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 45. East southeast wind around 0 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 44. East southeast wind around 0 mph."
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing cool and cloudy conditions with the temperature sitting in the low 50s, accompanied by a slightly humid ambiance that makes it feel brisk. A gentle northwesterly breeze adds to the chill, creating an atmosphere that is fitting for a late autumn day. As the afternoon progresses, temperatures will peak near the mid 50s before gently retreating later in the day. Expect similarly overcast skies tonight, with a drop to the mid 40s, underlining the season's transition.\n\nThe lake remains calm, ideal for quiet reflections rather than exhilarating activities, as wave conditions are mild with little to no wind ripples on the water's surface. Fortunately, there appears to be no precipitation expected, which allows for outdoor activities, though the cool temperatures urge some caution against the bite of the wind. With low temperatures typical for this time of year in northeastern Illinois, a light jacket along with long sleeves is advisable for anyone heading outside. The day may not lend itself to sunbathing, but a stroll along the beach or a visit to the parks could be quite pleasant for those equipped with the right attire. This day is an ordinary one for late November, with no major holiday on the horizon, presenting a perfect opportunity to enjoy the quieter beauty of Lake Michigan.",
-    "color_code": "#A9B0B6",
-    "timestamp": "2024-11-15 13:04:45"
+    "weather_report": "This afternoon in Evanston, the weather presents a rather cool and cloudy scene, with temperatures hovering in the low 50s. The gentle north-northwest winds add a crispness to the air, creating a slightly chilly atmosphere. The forecast indicates temperatures will continue to fall, providing a perfect setting for a cozy afternoon.\n\nAs clouds linger overhead, the outlook suggests that the evening will bring more clouds with temperatures dipping to the mid-40s, accompanied by virtually still air. With no precipitation in sight and the water conditions appearing relatively calm, it\u2019s an ideal time for beach walks, though beachgoers might prefer a light jacket or sweater. As we find ourselves in mid-November, these temperatures are typical for the season in this region, inviting thoughts of upcoming holiday festivities while embodying the true essence of a Chicago late autumn day.",
+    "color_code": "#A6B2C2",
+    "timestamp": "2024-11-15 15:05:07"
 }
