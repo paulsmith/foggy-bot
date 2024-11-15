@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-14T23:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 86.202442841334,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 300,
-            "description": "Cloudy"
+            "timestamp": "2024-11-15T02:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 92.815182297916,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 280,
+            "description": "Light Drizzle"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-14T21:00:00-06:00",
+                "startTime": "2024-11-14T22:00:00-06:00",
                 "endTime": "2024-11-15T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, the weather presents a chilly, damp atmosphere marked by the gentle patter of patchy drizzle expected to ease before 11 PM. As temperatures hover in the low 50s, a noticeable humidity blankets the air, heightening that somewhat brisk edge. The northwest wind, while not fierce, carries a hint of chill, making the overall feel less inviting in this overcast setting.\n\nAs we look towards tomorrow, expect a continuation of the cloudy conditions with a high only reaching into the low 50s, complemented by a light, north-northwest breeze. Wave conditions along Lake Michigan may be subdued tonight but could stir slightly with the breeze tomorrow, creating a mildly choppy surface. For those heading out, a warm jacket and perhaps a rain-resistant layer would serve well, as the typical late autumn chill permeates the region. Given the evening and weather pairing, indoor activities like visiting a caf\u00e9 or catching a local show might be more enjoyable than braving the damp coastal winds.",
-    "color_code": "#1f2a6d",
-    "timestamp": "2024-11-14 21:14:35"
+    "weather_report": "As the evening settles in Evanston, the air is cool and damp, with a temperature lingering in the upper 40s, paired with a heavy, enveloping humidity that makes the environment feel distinctly moist. Current light drizzle adds a sheen to the streets and a reflective quality to the waters of Lake Michigan, which is visible from the shore. A light but brisk northwesterly breeze rustles through the trees, bringing an invigorating chill as the day gradually transitions to night. \n\nLooking ahead, tonight will feature patchy drizzle before 11 PM, with cloudy skies promising little reprieve from the gloom. Tomorrow, expect a cloudy day with temperatures barely reaching into the low 50s, kept respectable by a gentle northerly wind. Given the conditions, heavy layers, waterproof attire, and comfortable shoes are recommended for anyone venturing out. This weather certainly leans toward the chilly side of pleasant, particularly for mid-November\u2014a time when autumn is giving way to the impending cold of winter, making the current temperatures quite typical for this season. Activities might be best spent indoors, perhaps cozying up with a warm drink or catching up on reading, rather than braving the drizzled shore.",
+    "color_code": "#5B6F76",
+    "timestamp": "2024-11-14 22:06:40"
 }
