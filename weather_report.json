@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-15T03:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 92.815182297916,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 290,
-            "description": "Light Drizzle"
+            "timestamp": "2024-11-15T04:51:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 86.141284587185,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 280,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-14T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-15T00:00:00-06:00",
                 "endTime": "2024-11-15T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain/ovc?size=medium",
-                "shortForecast": "Patchy Drizzle then Cloudy",
-                "detailedForecast": "Patchy drizzle before 11pm. Cloudy, with a low around 48. Northwest wind around 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle before 5am. Cloudy, with a low around 48. Northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the weather this evening is a chilly mix of dampness and cloud cover with light drizzle creating a moody ambiance. The temperature hovers in the low 50s, combining with the high humidity to produce a raw, brisk feel that\u2019s typical for mid-November along the shores of Lake Michigan. Winds are gusting from the northwest, adding a brisk bite to the air that complements the gray, overcast skies.\n\nAs for the outlook overnight, expect lingering drizzle to taper off before 11 PM, leaving cloudy conditions in its wake, with lows also settling around the upper 40s. Tomorrow, a cloudy sky will dominate as the region remains cool, with a high not much above the low 50s. The lake\u2019s surface, likely calm this evening with only gentle ripples, provides a serene backdrop for nighttime thoughts. Given the dampness, it's advisable to wear a warm coat and perhaps waterproof footwear if venturing outdoors, perfect for cozy indoor activities or enjoying a quiet walk along the beach path in the twilight. With the holiday season approaching, it\u2019s a time to reflect on these cooler, crisp evenings as family gatherings draw near.",
-    "color_code": "#5a5c66",
-    "timestamp": "2024-11-14 23:05:45"
+    "weather_report": "Current conditions in Evanston are marked by a chill in the air and dampness, with temperatures lingering in the upper 40s. The atmosphere feels quite saturated, creating a refreshingly crisp experience, albeit one that may compel residents to layer up. The blustery winds from the northwest add a distinct edge to the night, making it feel cooler than it might otherwise. As we transition into Friday, expect sustained clouds to dominate the sky, with a high reaching into the low 50s and a light breeze. An overnight patch of drizzle is expected before dawn, further adding to the dullness of the clouds that will persist throughout the day.\n\nWith the nighttime calmness of the lake currently witnessed, wave conditions should remain relatively gentle. Given the overcast and slightly wet environment, outdoor plans might be best kept to brief excursions. Attire for the day should focus on warmth; think jackets and perhaps a light hat to counter the gusts. The temperature this time of year is typical for mid-November in the Midwest, reflecting the onset of winter's chill. As such, indoor activities or nostalgic moments by the waterfront with a warm drink might be the most enjoyable way to embrace the atmosphere as the holiday season approaches.",
+    "color_code": "#7B9A93",
+    "timestamp": "2024-11-15 00:07:44"
 }
