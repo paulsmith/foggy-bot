@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-15T09:51:00+00:00",
+            "timestamp": "2024-11-15T10:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
             "humidity": 79.870781661168,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 280,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 300,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-15T04:00:00-06:00",
-                "endTime": "2024-11-15T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle before 5am. Cloudy, with a low around 48. Northwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2024-11-15T06:00:00-06:00",
                 "endTime": "2024-11-15T18:00:00-06:00",
                 "isDaytime": true,
@@ -49,14 +30,33 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "NNW",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 52, with temperatures falling to around 50 in the afternoon. North northwest wind 5 to 10 mph."
+                "detailedForecast": "Cloudy. High near 52, with temperatures falling to around 50 in the afternoon. Northwest wind 5 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-15T18:00:00-06:00",
+                "endTime": "2024-11-16T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "0 to 5 mph",
+                "windDirection": "ESE",
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 46. East southeast wind 0 to 5 mph."
             }
         ]
     },
-    "weather_report": "In Evanston this morning, the air is noticeably brisk and damp, with temperatures hovering in the low 50s and a thick layer of clouds wrapping around the area, ushering in an overcast ambiance. A blustery northwest wind is stirring, bringing in a sense of chill that may be unwelcome for those unprepared. The daytime forecast predicts cloudy skies persisting, with temperatures peaking around the low 50s before dropping back slightly in the afternoon. \n\nAs for precipitation, expect patchy drizzle to continue into the early hours, lending an uninviting sheen to the scenery. Wave conditions on Lake Michigan could be moderately choppy due to the gusty winds, likely making it less than ideal for leisurely water activities. In terms of attire, consider layering warmth with a sturdy jacket and perhaps a light waterproof shell to fend off any lingering moisture in the air. The temperature is typical for mid-November in this region, signaling that we are deep into the heart of autumn\u2014perfect for enjoying a quiet cup of coffee indoors or taking a brisk walk along the shore, wrapped up in cozy apparel.",
-    "color_code": "#5A92BF",
-    "timestamp": "2024-11-15 05:04:58"
+    "weather_report": "In Evanston, the current conditions present a chilly atmosphere, with temperatures lingering in the upper 40s and brisk winds from the northwest creating a slightly biting feel. The cloudy sky adds to the muted tone of the day, making it ideal for those who appreciate a cozy indoor setting rather than outdoor activities. As the day progresses, expect similar cloudy conditions, with temperatures peaking near the low 50s this afternoon. The calm winds and the absence of precipitation suggest a mostly dry day, though the beach's enticing waves might still appear inviting in their rhythmic tranquility.\n\nGiven the conditions, dressing in layers would be wise, incorporating something warm and perhaps waterproof in case of unexpected changes. While the season typically ushers forth more robust autumn chills, today's temperatures resonate with this time of year, albeit on the cool side. Recommended activities could include a leisurely stroll along the shore or enjoying a hot drink at a nearby caf\u00e9, as the scenic views of Lake Michigan may offer quiet moments of reflection against the robust backdrop of cloud cover. There are no significant holidays today, but as winter approaches, the anticipation of festive gatherings lingers in the air.",
+    "color_code": "#2C2C2C",
+    "timestamp": "2024-11-15 06:08:38"
 }
