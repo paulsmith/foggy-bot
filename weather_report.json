@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-14T19:00:00-06:00",
+                "startTime": "2024-11-14T20:00:00-06:00",
                 "endTime": "2024-11-15T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 48. Northwest wind around 10 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain/ovc?size=medium",
+                "shortForecast": "Patchy Drizzle then Cloudy",
+                "detailedForecast": "Patchy drizzle before 11pm. Cloudy, with a low around 48. Northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a rather chilly evening, with temperatures dipping into the low 50s and a notable overcast sky contributing to a gloomy atmosphere. The substantial humidity adds a touch of dampness to the air, making conditions feel slightly cooler than the thermometer might suggest. A gusty wind from the northwest is stirring up a bit of movement, creating a dynamic yet brisk coastal environment along Lake Michigan.\n\nLooking ahead to the forecast, a continued overcast is expected, with temperatures dropping further tonight to around the upper 40s. Winds will ease, but a gentle breeze will accompany the chilly ambiance into the early hours of Friday, which promises a similarly cloudy day with highs creeping up to the low 50s. It's advisable to don layers, including a warm jacket and perhaps a hat, as the air could feel nippy, especially along the shoreline. The cloudy conditions might limit visibility and make outdoor activity less inviting, yet a walk along the beach could still serve as a refreshing winter precursor. As the holiday season approaches, this chilly weather reflects the typical November vibe in the Midwest, just in time for the festivities ahead.",
-    "color_code": "#4A4C52",
-    "timestamp": "2024-11-14 19:33:19"
+    "weather_report": "This evening, Evanston experiences a chilly atmosphere as temperatures hover in the low 50s combined with a high humidity that adds a damp feel to the air. The conditions are overcast and quite blustery, with winds pushing through from the northwest, creating a notable chill, especially along the lakefront. As the night progresses, patchy drizzle is expected, particularly before 11 PM, making the shoreline considerably more humid and uninviting for outdoor activities.\n\nLooking towards tomorrow, cloudy skies will persist with daytime temperatures climbing slightly to the low 50s. A gentle north northwest wind will help to maintain a cooler edge, and while the higher waves along Lake Michigan may not pose a safety issue, they will deter casual beachgoers looking to enjoy the shore. This late autumn weather feels typical for mid-November in this corner of Illinois, where brisk winds and occasional drizzle set the scene. Given the forecast, it's advisable to don layers along with a waterproof jacket to stay comfortable while braving the elements. Enjoying indoor activities like visiting local cafes or exploring cultural spots may be the best choice for this damp day.",
+    "color_code": "#A1A49D",
+    "timestamp": "2024-11-14 20:30:30"
 }
