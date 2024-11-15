@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-15T11:51:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 79.870781661168,
+            "timestamp": "2024-11-15T12:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 82.606319428922,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 280,
+            "wind_direction": 290,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the air carries a cool chill, with the temperature resting in the upper 40s and a blanket of clouds above. The humidity keeps a firm grip on the atmosphere, making it feel slightly damp, contributing to a rather dreary appearance as one gazes out towards Lake Michigan. A gentle breeze from the northwest stirs the air, though it feels more invigorating than harsh as it scuffles across the shoreline. Conditions are expected to remain cloudy throughout the day, with temperatures peaking near the low 50s before settling back to the mid-40s tonight. There\u2019s no significant precipitation on the immediate horizon, allowing for a generally dry day.\n\nThe waves lapping at the shore appear mild under the overcast sky, suitable for a peaceful walk along the beach or a contemplative moment by the water. Given this fall day is unremarkable in terms of holiday festivities, it presents a perfect opportunity to don a light jacket and enjoy a brisk stroll by the lake or explore local parks as the season transitions into winter. This chilly weather aligns well with the typical climate of mid-November in the region, a reminder that winter is poised to arrive.",
-    "color_code": "#A9B0B2",
-    "timestamp": "2024-11-15 07:10:16"
+    "weather_report": "In Evanston, Illinois, the morning brings a cool and damp atmosphere with temperatures lingering in the upper 40s and a brisk, blustery wind curling in from the northwest, which adds a bite to the air. Humidity levels are elevated, contributing to a chill that may feel more pronounced as the day unfolds under a solid blanket of clouds. The forecast hints at a high near the low 50s this afternoon but anticipates a gradual drop as we move toward evening. As clouds persist, there\u2019s little likelihood of precipitation today, maintaining a dry but overcast ambiance.\n\nThe beach scene, marked by gentle waves lapping against the shore, reflects the subdued weather, making it less than ideal for swimming but perfect for taking a brisk stroll along the waterfront. Recommended attire includes a warm jacket and perhaps a scarf to ward off the chill during your outing. The current conditions are characteristic of a mid-November day in the Midwest, where temperatures can easily dip, leaving us reminded of the encroaching winter. Nature lovers might find joy in a walk or run along the beach pathways, while others may prefer cozy indoor activities as the day progresses. November 15 is not marked by a major holiday, but the season's transition itself can inspire reflection and appreciation of the beautifully stark landscape.",
+    "color_code": "#808080",
+    "timestamp": "2024-11-15 08:05:27"
 }
