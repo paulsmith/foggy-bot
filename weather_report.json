@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-15T20:51:00+00:00",
-            "temperature_f": 53.96,
-            "temperature_c": 12.2,
-            "humidity": 61.437058804588,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 30,
+            "timestamp": "2024-11-15T21:51:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 66.065954009238,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-15T16:00:00-06:00",
+                "startTime": "2024-11-15T17:00:00-06:00",
                 "endTime": "2024-11-15T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois presents a cool, brisk atmosphere, with temperatures hovering in the low 50s and a noticeable breeze creating a refreshing edge. Humidity levels contribute to a pleasantly cool feeling, ideal for a late autumn day. The skies are partly cloudy, offering glimpses of sun that may momentarily brighten the scene before retreating behind the clouds. As we move toward the afternoon, expect some additional cloud cover with temperatures dipping slightly, accompanied by a gentle north-northwest breeze.\n\nTonight, temperatures will slide down to the low 40s, under mostly cloudy skies devoid of strong winds, promising a calm evening. Overall, the lake's conditions reflect mild waves, making it mildly choppy but not overly tumultuous. As there are no signs of precipitation, outdoor enthusiasts can enjoy a range of activities\u2014be it a stroll along the beach, a jog through nearby parks, or simply reveling in the serene beauty of Lake Michigan as the day winds down. Given the current season, this weather is fairly typical for mid-November in the region, and layering with a light sweater or jacket is advisable for evening outings.",
-    "color_code": "#A2B29E",
-    "timestamp": "2024-11-15 16:05:47"
+    "weather_report": "Current conditions in Evanston, Illinois, present a cool and pleasantly overcast atmosphere, with temperatures hovering in the low 50s and a light, whispering breeze offering some comfort. The humidity adds a slight dampness to the air, making for a crisp coastal feel. The day is expected to transition into partly sunny conditions this afternoon, with temperatures just nudging near 54 before dipping slightly as the sun descends. Tonight, the sky will shift to a mostly cloudy demeanor, settling into the low 40s as the stillness prevails.\n\nAs we draw closer to evening, the lakefront appears calm, with gentle waves lapping against the shore, providing a serene backdrop for an autumn evening. There is no precipitation in sight, ensuring that the outdoors remain inviting even as darkness approaches. Dress comfortably for these conditions; a light jacket is advisable to keep warm against the evening chill. Given the season, this weather aligns well with typical late autumn temperatures in the Midwest, allowing for plenty of opportunities to enjoy a peaceful stroll along the beach or through nearby parks, appreciating the tranquil beauty of Lake Michigan.",
+    "color_code": "#8FA9D9",
+    "timestamp": "2024-11-15 17:05:04"
 }
