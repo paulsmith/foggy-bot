@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-15T16:30:00+00:00",
+            "timestamp": "2024-11-15T16:51:00+00:00",
             "temperature_f": 50.0,
             "temperature_c": 10,
             "humidity": 74.11362974689,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": null,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 290,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-15T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-15T12:00:00-06:00",
                 "endTime": "2024-11-15T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 52,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "NNW",
+                "windSpeed": "5 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 52, with temperatures falling to around 50 in the afternoon. North northwest wind 5 to 10 mph."
+                "detailedForecast": "Cloudy. High near 52, with temperatures falling to around 50 in the afternoon. Northwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "0 to 5 mph",
-                "windDirection": "ESE",
+                "windSpeed": "0 mph",
+                "windDirection": "",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 45. East southeast wind 0 to 5 mph."
+                "detailedForecast": "Cloudy, with a low around 45. East southeast wind around 0 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a distinctly chilly scene, with temperatures hovering in the low 50s accompanied by a damp coolness that makes for a rather brisk outing. As clouds blanket the sky, the day carries an overcast demeanor, with the wind whispering off Lake Michigan at a gentle pace, providing a slight chill to the air. Although there\u2019s no immediate threat of rain, the persistent cloud cover and humidity create an ambiance that may leave some feeling a bit dreary.\n\nLooking ahead, today's forecast predicts similar cloudiness, with temperatures peaking near the mid-50s and then gradually tapering off in the afternoon. Tonight, expect a mild drop to the low 40s, with little breeze to stir the air\u2014a perfect setup for a quiet evening. As the waves lap softly against the shore, the conditions are generally calm, likely making the water inviting yet too cool for comfort. Given these factors, wearing layers would be wise; a light jacket or sweater is advisable, especially if you plan to embrace the outdoors. \n\nIn this transitional season, temperatures may feel a bit below average for mid-November, but this is characteristic of the region as winter approaches. For those looking to enjoy this chilly day, a stroll along the beach or a visit to local cafes could be a refreshing choice, provided you dress appropriately for the weather. There are no major holidays today, but the impending festive season is just around the corner, hinting at the gatherings and celebrations to come.",
-    "color_code": "#A7B9B4",
-    "timestamp": "2024-11-15 11:04:59"
+    "weather_report": "In Evanston today, the weather is characterized by a chilly ambiance, with current temperatures hovering in the low 50s, accompanied by a noticeable dampness in the air. The day is predominantly cloudy, which lends a muted quality to the landscape, softening the hues of Lake Michigan as it stretches out toward the horizon. A gentle to light breeze whispers from the northwest, creating a slightly invigorating atmosphere, but overall, it feels cool and somewhat damp\u2014typical of mid-November in this region.\n\nAs the afternoon progresses, temperatures are expected to dip slightly, settling around the mid-40s by evening. With no significant precipitation on the horizon, the likelihood of rain remains low, making it an ideal day for indoor activities or a brisk stroll along the water, though a light jacket is advisable to stave off the chill. Given this time of year, these temperatures are not uncommon, and while the day may lack the vibrant clarity often associated with late spring, the serene landscape offers a tranquil escape for those looking to unwind.",
+    "color_code": "#6E7B8C",
+    "timestamp": "2024-11-15 12:06:52"
 }
