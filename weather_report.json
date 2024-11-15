@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-15T04:51:00+00:00",
+            "timestamp": "2024-11-15T05:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
-            "humidity": 86.141284587185,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 280,
+            "humidity": 83.239115566642,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 300,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston are marked by a chill in the air and dampness, with temperatures lingering in the upper 40s. The atmosphere feels quite saturated, creating a refreshingly crisp experience, albeit one that may compel residents to layer up. The blustery winds from the northwest add a distinct edge to the night, making it feel cooler than it might otherwise. As we transition into Friday, expect sustained clouds to dominate the sky, with a high reaching into the low 50s and a light breeze. An overnight patch of drizzle is expected before dawn, further adding to the dullness of the clouds that will persist throughout the day.\n\nWith the nighttime calmness of the lake currently witnessed, wave conditions should remain relatively gentle. Given the overcast and slightly wet environment, outdoor plans might be best kept to brief excursions. Attire for the day should focus on warmth; think jackets and perhaps a light hat to counter the gusts. The temperature this time of year is typical for mid-November in the Midwest, reflecting the onset of winter's chill. As such, indoor activities or nostalgic moments by the waterfront with a warm drink might be the most enjoyable way to embrace the atmosphere as the holiday season approaches.",
-    "color_code": "#7B9A93",
-    "timestamp": "2024-11-15 00:07:44"
+    "weather_report": "Currently in Evanston, the scene is a combination of cool temperatures and high humidity, creating a brisk and somewhat uncomfortable atmosphere. The temperature hovers in the upper 40s, and the air feels heavy with moisture, suggestive of impending drizzle that may make the air feel even chillier. Right now, the wind is howling from the northwest, sweeping across Lake Michigan and adding to the sense of urgency in the air. The sky is cloaked in clouds, giving little promise of a bright dawn ahead.\n\nAs we look toward Friday, expect a continuation of cloudy skies with temperatures reaching the low 50s. The slight chance of drizzle, particularly early on, may create a rather dreary mood throughout the day. While wave conditions at the beach are likely rough, with choppy waters reflecting the gusty winds, outdoor activities along the shore may be less appealing. Dress warmly in layers, opting for a sturdy jacket and waterproof shoes to navigate any slick spots from the drizzle. Given that it is mid-November, these temperatures are quite typical for this time of year in the Midwest, although the dampness gives it a chill that may require a bit more preparation for comfort. With no major holidays on the horizon, it might be best to reserve outdoor plans for another day when the skies may clear and the sun can make an appearance.",
+    "color_code": "#6B8E23",
+    "timestamp": "2024-11-15 01:05:53"
 }
