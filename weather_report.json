@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-15T02:51:00+00:00",
+            "timestamp": "2024-11-15T03:51:00+00:00",
             "temperature_f": 48.02,
             "temperature_c": 8.9,
             "humidity": 92.815182297916,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 280,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 290,
             "description": "Light Drizzle"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the evening settles in Evanston, the air is cool and damp, with a temperature lingering in the upper 40s, paired with a heavy, enveloping humidity that makes the environment feel distinctly moist. Current light drizzle adds a sheen to the streets and a reflective quality to the waters of Lake Michigan, which is visible from the shore. A light but brisk northwesterly breeze rustles through the trees, bringing an invigorating chill as the day gradually transitions to night. \n\nLooking ahead, tonight will feature patchy drizzle before 11 PM, with cloudy skies promising little reprieve from the gloom. Tomorrow, expect a cloudy day with temperatures barely reaching into the low 50s, kept respectable by a gentle northerly wind. Given the conditions, heavy layers, waterproof attire, and comfortable shoes are recommended for anyone venturing out. This weather certainly leans toward the chilly side of pleasant, particularly for mid-November\u2014a time when autumn is giving way to the impending cold of winter, making the current temperatures quite typical for this season. Activities might be best spent indoors, perhaps cozying up with a warm drink or catching up on reading, rather than braving the drizzled shore.",
-    "color_code": "#5B6F76",
-    "timestamp": "2024-11-14 22:06:40"
+    "weather_report": "In Evanston, the weather this evening is a chilly mix of dampness and cloud cover with light drizzle creating a moody ambiance. The temperature hovers in the low 50s, combining with the high humidity to produce a raw, brisk feel that\u2019s typical for mid-November along the shores of Lake Michigan. Winds are gusting from the northwest, adding a brisk bite to the air that complements the gray, overcast skies.\n\nAs for the outlook overnight, expect lingering drizzle to taper off before 11 PM, leaving cloudy conditions in its wake, with lows also settling around the upper 40s. Tomorrow, a cloudy sky will dominate as the region remains cool, with a high not much above the low 50s. The lake\u2019s surface, likely calm this evening with only gentle ripples, provides a serene backdrop for nighttime thoughts. Given the dampness, it's advisable to wear a warm coat and perhaps waterproof footwear if venturing outdoors, perfect for cozy indoor activities or enjoying a quiet walk along the beach path in the twilight. With the holiday season approaching, it\u2019s a time to reflect on these cooler, crisp evenings as family gatherings draw near.",
+    "color_code": "#5a5c66",
+    "timestamp": "2024-11-14 23:05:45"
 }
