@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-16T13:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 70.874364547581,
-            "wind_speed_mph": 16.91172,
+            "timestamp": "2024-11-16T14:51:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 68.527334655366,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 150,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-16T09:00:00-06:00",
+                "startTime": "2024-11-16T10:00:00-06:00",
                 "endTime": "2024-11-16T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 53, with temperatures falling to around 50 in the afternoon. South southeast wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Cloudy. High near 53, with temperatures falling to around 50 in the afternoon. South southeast wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the day awakens to a chill in the air, hovering in the upper 40s with a refreshing dampness that makes it feel even cooler. The atmosphere is dominated by clouds, lending an overcast appearance as the brisk southeast winds whip through at a gentle yet persistent pace, creating an invigorating feel at the beach. As we look to the day ahead, expect temperatures to climb slightly, peaking near the mid-50s, before gradually retreating to the lower 50s by afternoon. Although there is a slight chance for rain showers late tonight, the day remains predominantly dry.\n\nDespite the cloudy skies, the lake provides a serene backdrop, with gentle waves that might invite a quiet stroll along the shore. Dress warmly with a light jacket and perhaps a sweater underneath, as the conditions are best described as crisp and cool, typical for this time of year in the Midwest as autumn takes its hold. For those looking to embrace the outdoors, a visit to the beach may offer peace, though be aware of the wind if venturing away from the shoreline. The seasonal shift makes today\u2019s vibe distinctly autumnal, without any major holidays breaking the horizon just yet, leaving room for a contemplative day ahead.",
-    "color_code": "#A0C1D6",
-    "timestamp": "2024-11-16 09:04:38"
+    "weather_report": "In Evanston, Illinois, the current weather is decidedly cool and cloudy, with temperatures hovering in the upper 40s accompanied by a damp chill from moderate humidity. With the wind bustling at a brisk pace from the southeast, it adds to the chilliness, creating a somewhat blustery day with a touch of dreariness. The forecast for today indicates persistent cloud cover with temperatures gradually dipping to the low 50s by afternoon, so expect a day that feels refreshing but perhaps a bit uncomfortable if you\u2019re unprepared.\n\nAs twilight approaches, a slight chance of rain showers is anticipated after 3 AM, with temperatures settling around 47 degrees overnight. As the waves of Lake Michigan churn gently under this overcast sky, conditions might not lend themselves to pleasant seaside strolls. It would be wise to bundle up with layered clothing, including a warm jacket and perhaps a hat, especially if navigating the beach area where the wind feels stronger. This time of year typically ushers in slightly chilly weather, aligning with autumn conditions, making today\u2019s temperatures fall right in line with what\u2019s expected for mid-November. Given the shifting landscape with holiday festivities on the horizon, activities could lean towards indoor enjoyment, well-suited for a cozy afternoon in a caf\u00e9 or browsing local shops.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-11-16 10:05:08"
 }
