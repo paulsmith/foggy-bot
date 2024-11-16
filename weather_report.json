@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-16T11:51:00+00:00",
+            "timestamp": "2024-11-16T12:51:00+00:00",
             "temperature_f": 46.04,
             "temperature_c": 7.8,
             "humidity": 79.084822103185,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 190,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 160,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-16T07:00:00-06:00",
+                "startTime": "2024-11-16T08:00:00-06:00",
                 "endTime": "2024-11-16T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 15 mph",
-                "windDirection": "S",
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 53, with temperatures falling to around 50 in the afternoon. South wind 5 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Cloudy. High near 53, with temperatures falling to around 50 in the afternoon. South southeast wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a chillier picture with temperatures in the mid-40s, accompanied by a damp and overcast feel that lingers in the air. With the humidity elevated, the atmosphere feels distinctly cool and slightly brisk, making the day less inviting for those looking to spend long hours outdoors. As we progress through the day, clouds will continue to dominate the sky, with temperatures reaching close to the low 50s in the afternoon before dipping again. Winds from the south, blowing at a gentle to moderate pace, may produce localized breezes, making it feel a touch cooler on the lakeshore.\n\nWave conditions are likely to be calm given the light winds, although the cloud cover casts a subdued light over Lake Michigan, offering a less vibrant coastline. While tonight brings a slight chance of rain, the likelihood remains low, with only a tentative sprinkle expected after 3 AM. As a result, dressing in layers would be advisable to accommodate the fluctuating temperatures and to stay warm during any potential dampness that may arise. With the current season marking the midst of November in the Midwest, such cool temperatures are typical for this time of year; however, the dreariness may put a damper on outdoor plans. Given the weather, anyone considering a stroll along the beach or engaging in light jogging may enjoy those activities, although taking along a warm drink could enhance the experience.",
-    "color_code": "#A0B0B3",
-    "timestamp": "2024-11-16 07:08:05"
+    "weather_report": "Evanston is experiencing a chilly morning, characterized by overcast skies and a brisk breeze coming in from the southeast, creating a somewhat dreary but invigorating atmosphere. Current temperatures hover in the mid-40s, with humidity adding a damp chill to the air, leaving many to feel a slight shiver. As the day progresses, expect the clouds to stick around with temperatures modestly rising to the low 50s, although they may dip back into the upper 40s by afternoon. There\u2019s an increasing chance of light rain as the night approaches, particularly after 3 AM, but for now, no significant precipitation looms over the immediate horizon.\n\nThe lake\u2019s surface appears calm under the heavy gray sky, and the beach, while empty, offers a quiet refuge for contemplation or brisk walks. It's advisable to bundle up in layers\u2014think cozy sweaters and jackets\u2014to combat the cold and wind, particularly with gusts potentially reaching 25 mph later in the day. As we are in mid-November, these temperatures are fairly typical for the season, while not inviting beachgoers, they do beckon those who enjoy tranquil strolls along the shore or perhaps a warm drink in a local caf\u00e9. Given that today is not a holiday, it presents a perfect opportunity for a brief escape into nature, even if the clouds threaten to dampen spirits.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2024-11-16 08:05:00"
 }
