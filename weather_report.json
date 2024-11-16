@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-16T13:00:00-06:00",
+                "startTime": "2024-11-16T14:00:00-06:00",
                 "endTime": "2024-11-16T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a brisk, cloudy afternoon, with temperatures hovering in the low 50s, lending a slightly cool and damp feel to the atmosphere. A strong breeze, blowing from the southeast, enlivens the shores, creating a lively scene by the lake. The beach stretches invitingly, though the waves are stirred by the wind, indicating a potential for more turbulent conditions on the water. As the day progresses, expect mostly cloudy skies and a slight dip in temperature, reaching around 51. Tonight may bring a whisper of rain post-midnight, with lows dropping to near 46, but the chance of any significant precipitation remains low, around 20%.\n\nGiven these conditions, layered attire is recommended to accommodate the cool air and the occasional blustery gusts. It\u2019s an ideal day for a brisk walk along the beach or a cozy gathering indoors, as the weather aligns with typical autumn standards for this region\u2014crisp and cool, though slightly muggy at times. As we look toward the calendar, it's a normal day, giving locals a chance to embrace the beautiful, albeit overcast, Michigan shoreline.",
-    "color_code": null,
-    "timestamp": "2024-11-16 13:04:42"
+    "weather_report": "Current conditions in Evanston reveal a brisk and cloudy atmosphere, with temperatures in the low 50s and a notable gustiness from the south, contributing to a chill in the air. As the day progresses, expect mostly cloudy skies with temperatures holding steady as they dip slightly in the afternoon. A slight chance of rain showers looms after midnight, but for now, the chance of getting caught in a downpour is minimal.\n\nDespite the cooler temperatures and overcast skies, the beach may still attract those seeking a refreshing stroll along the shore or a vigorous walk. However, the conditions are not ideal for swimming thanks to the choppy waves stirred up by the brisk winds, which could also make any outdoor activities feel a bit raw, so layered clothing would be advisable. As we embrace mid-November in the Midwest, today's weather reflects typical fall conditions\u2014occasionally chilly with the hint of winter approaching. With no significant holidays on the horizon, it's a day best enjoyed with a warm drink in hand while taking in the beautiful, if not blustery, lakeside views.",
+    "color_code": "#9BB3C1",
+    "timestamp": "2024-11-16 14:05:15"
 }
