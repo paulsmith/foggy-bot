@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-15T18:00:00-06:00",
+                "startTime": "2024-11-15T19:00:00-06:00",
                 "endTime": "2024-11-16T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "0 to 5 mph",
-                "windDirection": "SE",
+                "windSpeed": "0 mph",
+                "windDirection": "",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 44. Southeast wind 0 to 5 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 44. Southeast wind around 0 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In the current evening scene of Evanston, temperatures hover in the chilly low 50s, accompanied by a soft and soothing calmness that envelops the lakefront. With a humidity level that brings a slight coolness to the air, conditions feel refreshingly brisk, perfect for a peaceful stroll along the beach. Tonight's forecast predicts a mostly cloudy night, with the mercury dipping to the mid 40s, urging outdoor enthusiasts to bundle up for any late-night activities.\n\nLooking ahead to Saturday, the clouds are expected to persist, yet the afternoon may see a gentle rise to around the low 50s, giving way to a light breeze from the south, along with occasional gusts that could stir the surface of Lake Michigan into playful ripples. As rain isn't in the cards, attendees of potential outdoor gatherings or beachgoers should relish the opportunity for a refreshing day spent amidst nature. Given the season, these cool temperatures are typical for mid-November in this region, where the autumn air begins to hint at winter's arrival. While it is not a holiday today, local residents might enjoy various outdoor activities while donning their coziest jackets.",
-    "color_code": "#A3BCA5",
-    "timestamp": "2024-11-15 18:22:05"
+    "weather_report": "The temperature in Evanston hovers in the upper 40s, creating a cool yet comfortable atmosphere, complemented by a persistent humidity that brings a hint of dampness to the air. As the sun sets, a partially cloudy sky gives way to a forecasted night of mostly cloudy conditions with a mild low dipped into the mid-40s, almost whispering a cozy invitation to stay indoors. The morning will bring a continuation of this cloud cover, with temperatures reaching the low 50s but falling back to around 50 as the day progresses under south winds gently stirring at 5 to 15 mph.\n\nWith a view towards the lake, the beach scene remains serene, yet the absence of significant wave action or precipitation suggests it\u2019s a pleasant night for coastal reflection rather than maritime adventures. As dusk rolls in, those venturing out may appreciate a warm jacket, perhaps layered over comfortable clothing, perfect for strolls along the shoreline. Embracing the seasonal chill, this November weather remains typical for the region, a soothing reminder that colder days are upon us. On this evening, as we prepare for the weekend ahead, consider perusing the local parks or cozy cafes, making the most of these somewhat invigorating conditions.",
+    "color_code": "#4b5566",
+    "timestamp": "2024-11-15 19:32:34"
 }
