@@ -265,7 +265,7 @@ Style Guidelines:
   muggy", "sticky", "uncomfortably humid", or similar terms that reflect the
   comfort matrix below. The description should account for both temperature and
   humidity levels. Do not refer to humidity directly, nor say the percentage of
-  humidity.
+  humidity. Do not use the word "humidity" if you can avoid it.
 - Instead of saying the temperature as a specific number, say where it falls in
   the tens, for example, use "high 70s" for 79, "low 40s" for 42, or "mid 30s"
   for 34.
