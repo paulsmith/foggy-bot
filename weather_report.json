@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-16T05:00:00-06:00",
-                "endTime": "2024-11-16T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "0 mph",
-                "windDirection": "",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 44. South wind around 0 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2024-11-16T06:00:00-06:00",
                 "endTime": "2024-11-16T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
                 "detailedForecast": "Cloudy. High near 53, with temperatures falling to around 50 in the afternoon. South wind 5 to 15 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-16T18:00:00-06:00",
+                "endTime": "2024-11-17T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 3am. Cloudy, with a low around 47. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather presents a rather cool and damp morning, with temperatures lingering in the low 40s and a persistent cloudiness that blankets the sky. The air feels heavy with moisture, giving it a distinctly chilly edge, although the wind remains still, creating an almost serene atmosphere perfect for a quiet morning. As we look toward the day ahead, expect more of the same; overcast skies will dominate, and temperatures will reluctantly rise to around the mid-50s, yet they\u2019ll dip back into the low 50s by the afternoon. Wind will pick up slightly, offering a gentle but noticeable breeze from the south.\n\nVisually, the day lacks clarity, casting a muted, grayish hue over the landscape, which may not be the most inviting for outdoor activities. With no precipitation in sight, the conditions will remain dry, but those who venture onto the lakefront might find the water quite placid, with minimal wave activity. Given the coolness and slightly damp feel, layering is recommended, including a warm jacket and perhaps a scarf, especially if one plans to be outside for prolonged periods. As fall settles in on this mid-November day, the temperatures are indeed typical for this time of year in the Midwest. A stroll along the beach or a quiet read in a park could be pleasant endeavors, though it may be wise to bring along a thermos of hot coffee to ward off the chill.",
-    "color_code": "#A4A8AD",
-    "timestamp": "2024-11-16 05:04:37"
+    "weather_report": "Current conditions in Evanston reflect a chilly and damp atmosphere, with temperatures falling in the low 40s and a thick layer of clouds overhead. The stillness of the air belies the expected south winds that will pick up later in the day, adding a brisk quality to the afternoon as temperatures rise to the high 50s. As night approaches, there's a slight chance of rain showers after 3 a.m., but the overall precipitation risk remains low for the day. The beach, looking out toward Lake Michigan, presents a gray and muted backdrop; the water may be relatively calm but could also show slight movement with the gentle breezes that will develop. \n\nGiven the dampness and cooler temperatures, recommended attire includes warm layers, perhaps a light jacket or sweater, along with comfortable footwear for any outdoor activities. This time of year, as late fall settles into winter, the temperatures are consistent with typical ranges for the region. Visitors may enjoy a brisk walk along the beach or through local parks, relishing the fresh air, despite the grayness. While it\u2019s not a holiday today, as the season progresses, plans for upcoming festivities could be in the air.",
+    "color_code": "#8B9DC3",
+    "timestamp": "2024-11-16 06:07:36"
 }
