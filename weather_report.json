@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-16T07:51:00+00:00",
-            "temperature_f": 44.06,
-            "temperature_c": 6.7,
-            "humidity": 85.262756549264,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 230,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-16T09:51:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 82.390185843485,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-16T04:00:00-06:00",
+                "startTime": "2024-11-16T05:00:00-06:00",
                 "endTime": "2024-11-16T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 43,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 43. South wind around 0 mph."
+                "detailedForecast": "Cloudy, with a low around 44. South wind around 0 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a cool and slightly damp atmosphere, with temperatures resting in the low 40s and notable humidity creating a crisp feel in the air. The south wind, though light, whispers a reminder of the seasonal chill as we look towards the lake, which is currently veiled under mostly cloudy skies. As night deepens, expect the clouds to persist, leading to a low around 43 overnight.\n\nLooking ahead to Saturday, the overcast skies will remain, with temperatures peaking in the low 50s before gradually dipping to around 50 in the afternoon. The wind will pick up slightly, becoming a gentle breeze from the south, which may aid in cutting through the chill, though gusts could reach up to 25 mph. Fortunately, no precipitation is anticipated, making for a dry day despite the cloud cover. The cool and damp conditions are typical for mid-November in the region, so dressing in layers is advised, perhaps with a warm jacket and a light hat for outdoor activities. With Thanksgiving approaching, many may be inclined to enjoy local parks or cafes as the holiday spirit begins to stir.",
-    "color_code": null,
-    "timestamp": "2024-11-16 04:04:59"
+    "weather_report": "In Evanston, the current weather presents a rather cool and damp morning, with temperatures lingering in the low 40s and a persistent cloudiness that blankets the sky. The air feels heavy with moisture, giving it a distinctly chilly edge, although the wind remains still, creating an almost serene atmosphere perfect for a quiet morning. As we look toward the day ahead, expect more of the same; overcast skies will dominate, and temperatures will reluctantly rise to around the mid-50s, yet they\u2019ll dip back into the low 50s by the afternoon. Wind will pick up slightly, offering a gentle but noticeable breeze from the south.\n\nVisually, the day lacks clarity, casting a muted, grayish hue over the landscape, which may not be the most inviting for outdoor activities. With no precipitation in sight, the conditions will remain dry, but those who venture onto the lakefront might find the water quite placid, with minimal wave activity. Given the coolness and slightly damp feel, layering is recommended, including a warm jacket and perhaps a scarf, especially if one plans to be outside for prolonged periods. As fall settles in on this mid-November day, the temperatures are indeed typical for this time of year in the Midwest. A stroll along the beach or a quiet read in a park could be pleasant endeavors, though it may be wise to bring along a thermos of hot coffee to ward off the chill.",
+    "color_code": "#A4A8AD",
+    "timestamp": "2024-11-16 05:04:37"
 }
