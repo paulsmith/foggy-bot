@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-16T17:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 63.356494529792,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 160,
+            "timestamp": "2024-11-16T18:51:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 63.240936158413,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 170,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a brisk and cloudy atmosphere, with temperatures in the low 50s and a notable gustiness from the south, contributing to a chill in the air. As the day progresses, expect mostly cloudy skies with temperatures holding steady as they dip slightly in the afternoon. A slight chance of rain showers looms after midnight, but for now, the chance of getting caught in a downpour is minimal.\n\nDespite the cooler temperatures and overcast skies, the beach may still attract those seeking a refreshing stroll along the shore or a vigorous walk. However, the conditions are not ideal for swimming thanks to the choppy waves stirred up by the brisk winds, which could also make any outdoor activities feel a bit raw, so layered clothing would be advisable. As we embrace mid-November in the Midwest, today's weather reflects typical fall conditions\u2014occasionally chilly with the hint of winter approaching. With no significant holidays on the horizon, it's a day best enjoyed with a warm drink in hand while taking in the beautiful, if not blustery, lakeside views.",
-    "color_code": "#9BB3C1",
-    "timestamp": "2024-11-16 14:05:15"
+    "weather_report": "In Evanston today, the atmosphere feels decidedly crisp and cool, typical for mid-November. Current conditions show a cloudy sky, with temperatures in the low 50s and a gusty wind adding a brisk edge. This afternoon, expect mostly cloudy skies with temperatures hovering around 53 degrees, likely dipping slightly as the sun begins to set. There\u2019s a hint of rain in the forecast after midnight, but chances remain slim at just 20%. Given the cool breeze and overcast conditions, the day lacks the usual vibrancy of sunlight, painting the beach with a muted palette.\n\nWave conditions along Lake Michigan are mild, perfect for a peaceful stroll along the shoreline, although the brisk winds could make it feel a touch colder near the water. As a precaution, layering up is advised, with a warm jacket and perhaps a scarf to ward off the chill. While today may not feel festively seasonal, it captures the serene beauty of late fall. As we move closer to Thanksgiving week, it\u2019s a good reminder of the cozy indoor gatherings soon to come. Enjoy the quiet moments by the lake while they last; they are as much a part of the season as the festive cheer ahead.",
+    "color_code": "#6B7C88",
+    "timestamp": "2024-11-16 15:04:50"
 }
