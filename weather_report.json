@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-15T22:51:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 70.971964459347,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-11-16T01:51:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 76.360744861859,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 150,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-15T19:00:00-06:00",
+                "startTime": "2024-11-15T21:00:00-06:00",
                 "endTime": "2024-11-16T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 44,
+                "temperature": 43,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 44. Southeast wind around 0 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 43. South southeast wind around 0 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Currently in Evanston, the air is cool and a bit damp, typical for this time of year as we transition from autumn to winter. The temperature hovers in the low 50s, accompanied by a humidity level that brings a clammy feel to the evening air. With little to no breeze, the night carries a serene stillness. Looking forward to the coming days, we can expect mostly cloudy skies, with lows around the mid 40s tonight. Saturday promises a similar overcast but with a slight uptick in winds from the south, potentially giving us a high near the mid 50s before the temperature dips again into the later afternoon.\n\nThe lakefront presents a tranquil tableau with wave conditions likely to be fairly gentle, making it a peaceful spot for evening strolls but not quite inviting for swimming. With the absence of precipitation in the immediate forecast, residents and visitors can enjoy outdoor activities without fear of raindrops. As the weather cools, dressing in layers is wise\u2014think light jackets or sweaters to stay warm while embracing the crisp evening air. Given that November is now upon us, these conditions align well with typical seasonal expectations\u2014chilly, cloudy, and perfect for cozy indoor pursuits or a scenic walk along the beach as the day closes.",
-    "color_code": "#5B5C5B",
-    "timestamp": "2024-11-15 20:29:05"
+    "weather_report": "As night settles over Evanston, the air feels cool and slightly damp, typical for this time of year. Currently, temperatures are hovering in the low 40s, with a gentle breeze whispering from the southeast. The conditions outside are mostly clear, making for a tranquil evening at the beach, but as we head into the night, expect to see more clouds rolling in, with temperatures dipping to a low around 43. \n\nLooking ahead to Saturday, the weather will remain predominantly cloudy, with highs reaching near the mid-50s before cooling slightly in the afternoon. Winds will pick up a bit, blowing from the south at a moderate pace with gusts around 25 mph, adding a brisk edge to the day. The waves on Lake Michigan are manageable but might pick up slightly with the wind, creating an inviting scene for those who enjoy the solace of the shore. There\u2019s no precipitation anticipated, keeping the evening dry. Given the cool temperatures and breezy conditions, a light jacket is recommended if you plan to be out. Autumn's chill has settled in, and while daytime temperatures are somewhat typical for this season, the evening feels especially crisp, heralding the winter months ahead. As for activities, it\u2019s a perfect evening for a quiet stroll along the beach or a visit to local eateries, but be prepared for the chill if you choose to be outdoors.",
+    "color_code": "#1F2E4D",
+    "timestamp": "2024-11-15 21:13:17"
 }
