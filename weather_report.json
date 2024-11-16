@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-16T12:51:00+00:00",
-            "temperature_f": 46.04,
-            "temperature_c": 7.8,
-            "humidity": 79.084822103185,
+            "timestamp": "2024-11-16T13:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 70.874364547581,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 160,
+            "wind_direction": 150,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-16T08:00:00-06:00",
+                "startTime": "2024-11-16T09:00:00-06:00",
                 "endTime": "2024-11-16T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is experiencing a chilly morning, characterized by overcast skies and a brisk breeze coming in from the southeast, creating a somewhat dreary but invigorating atmosphere. Current temperatures hover in the mid-40s, with humidity adding a damp chill to the air, leaving many to feel a slight shiver. As the day progresses, expect the clouds to stick around with temperatures modestly rising to the low 50s, although they may dip back into the upper 40s by afternoon. There\u2019s an increasing chance of light rain as the night approaches, particularly after 3 AM, but for now, no significant precipitation looms over the immediate horizon.\n\nThe lake\u2019s surface appears calm under the heavy gray sky, and the beach, while empty, offers a quiet refuge for contemplation or brisk walks. It's advisable to bundle up in layers\u2014think cozy sweaters and jackets\u2014to combat the cold and wind, particularly with gusts potentially reaching 25 mph later in the day. As we are in mid-November, these temperatures are fairly typical for the season, while not inviting beachgoers, they do beckon those who enjoy tranquil strolls along the shore or perhaps a warm drink in a local caf\u00e9. Given that today is not a holiday, it presents a perfect opportunity for a brief escape into nature, even if the clouds threaten to dampen spirits.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2024-11-16 08:05:00"
+    "weather_report": "In Evanston, the day awakens to a chill in the air, hovering in the upper 40s with a refreshing dampness that makes it feel even cooler. The atmosphere is dominated by clouds, lending an overcast appearance as the brisk southeast winds whip through at a gentle yet persistent pace, creating an invigorating feel at the beach. As we look to the day ahead, expect temperatures to climb slightly, peaking near the mid-50s, before gradually retreating to the lower 50s by afternoon. Although there is a slight chance for rain showers late tonight, the day remains predominantly dry.\n\nDespite the cloudy skies, the lake provides a serene backdrop, with gentle waves that might invite a quiet stroll along the shore. Dress warmly with a light jacket and perhaps a sweater underneath, as the conditions are best described as crisp and cool, typical for this time of year in the Midwest as autumn takes its hold. For those looking to embrace the outdoors, a visit to the beach may offer peace, though be aware of the wind if venturing away from the shoreline. The seasonal shift makes today\u2019s vibe distinctly autumnal, without any major holidays breaking the horizon just yet, leaving room for a contemplative day ahead.",
+    "color_code": "#A0C1D6",
+    "timestamp": "2024-11-16 09:04:38"
 }
