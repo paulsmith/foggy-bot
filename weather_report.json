@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-15T21:00:00-06:00",
+                "startTime": "2024-11-15T22:00:00-06:00",
                 "endTime": "2024-11-16T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 43,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night settles over Evanston, the air feels cool and slightly damp, typical for this time of year. Currently, temperatures are hovering in the low 40s, with a gentle breeze whispering from the southeast. The conditions outside are mostly clear, making for a tranquil evening at the beach, but as we head into the night, expect to see more clouds rolling in, with temperatures dipping to a low around 43. \n\nLooking ahead to Saturday, the weather will remain predominantly cloudy, with highs reaching near the mid-50s before cooling slightly in the afternoon. Winds will pick up a bit, blowing from the south at a moderate pace with gusts around 25 mph, adding a brisk edge to the day. The waves on Lake Michigan are manageable but might pick up slightly with the wind, creating an inviting scene for those who enjoy the solace of the shore. There\u2019s no precipitation anticipated, keeping the evening dry. Given the cool temperatures and breezy conditions, a light jacket is recommended if you plan to be out. Autumn's chill has settled in, and while daytime temperatures are somewhat typical for this season, the evening feels especially crisp, heralding the winter months ahead. As for activities, it\u2019s a perfect evening for a quiet stroll along the beach or a visit to local eateries, but be prepared for the chill if you choose to be outdoors.",
-    "color_code": "#1F2E4D",
-    "timestamp": "2024-11-15 21:13:17"
+    "weather_report": "As midnight approaches in Evanston, the scene is marked by a gentle but persistent chill, with temperatures dipping into the low 40s. The air is pleasantly cool, thanks to a humidity level that adds a crisp edge to the evening ambiance, making it feel refreshing. Currently, the sky is mostly clear, allowing a few stars to twinkle above, while a south-southeast breeze whispers through the area. Tomorrow promises to maintain this cool character, with a high in the low 50s. However, clouds will dominate the skyline, and a light, shifting wind may pick up, creating a blustery atmosphere at times. \n\nThe outlook for precipitation is clear, maintaining the dry spell, though tomorrow\u2019s forecast aligns with the seasonal transition into more typical late autumn weather \u2014 ideal for bundling up and enjoying the outdoors. As for attire, layering is recommended; a warm jacket and cozy hat will keep you comfortable against the evening chill, while a brisk walk along the beach or a visit to local parks could be invigorating activities. Though the waters of Lake Michigan may be somewhat restless, the beach remains a serene spot, awaiting the rush of a new day.",
+    "color_code": "#A6B1C5",
+    "timestamp": "2024-11-15 22:06:23"
 }
