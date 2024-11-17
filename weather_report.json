@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-17T03:00:00-06:00",
+                "startTime": "2024-11-17T04:00:00-06:00",
                 "endTime": "2024-11-17T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 47,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the air is crisp and slightly damp, with temperatures lingering in the mid to upper 40s, accompanied by a gentle breeze whispering from the south southwest. The prevailing conditions are predominantly cloudy, hinting at the possibility of rain showers throughout the day, particularly during the overnight hours when the chance stands at 20%. While the weather this Sunday may feel cool, it remains significantly overshadowed by the excitement of the upcoming winter season. \n\nToday, expect a gradual climb to the high 50s by afternoon, though temperatures may fall later in the day. With gusts reaching up to 25 miles per hour, the winds will add a blustery chill to the atmosphere, making it sensible to layer up. The beach along Lake Michigan may have some enticing waves, yet swimming is not advisable given the temperature and potential precipitation. Outdoor enthusiasts might consider a brisk walk along the shore or a visit to local cafes, as the weather holds a certain charm, albeit slightly dampened by the cloud cover. While this Sunday is not a recognized holiday, the atmosphere carries a distinctively cozy feel that encourages preparation for the festive season ahead.",
-    "color_code": "#4A4D5C",
-    "timestamp": "2024-11-17 03:05:01"
+    "weather_report": "In Evanston, Illinois, the current conditions reveal a cool and damp evening, with temperatures hovering in the mid 40s and a cloud-laden sky casting a muted atmosphere. The wind, strong and brisk from the south-southwest, adds a fierce chill to the air, making for a rather chilly experience outdoors. As we look ahead to the day, expect the possibility of light rain showers, particularly overnight, with cloudy skies lingering into Sunday. Though temperatures may rise to the upper 50s by afternoon, the cooling trend will set in, keeping things brisk.\n\nTonight's wave conditions off Lake Michigan are likely to be somewhat choppy, influenced by the gusty winds. As for attire, layering is advisable\u2014consider a warm jacket paired with a hat, as you might encounter periods of precipitation. The temperatures do feel typical for this time of year in the Chicago region, signaling the gradual descent into full winter. Although it's a quiet Saturday, ideal for settling into indoor activities, the weather may prompt some to seek out cozy spots with a warm drink or perhaps enjoy a brisk walk if you can handle the bite in the air.",
+    "color_code": "#8B8B7A",
+    "timestamp": "2024-11-17 04:05:02"
 }
