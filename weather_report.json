@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-17T02:51:00+00:00",
+            "timestamp": "2024-11-17T04:51:00+00:00",
             "temperature_f": 48.02,
             "temperature_c": 8.9,
             "humidity": 76.541811205247,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 150,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 170,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-16T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-17T00:00:00-06:00",
                 "endTime": "2024-11-17T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 45,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers/rain_showers,20?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 11pm. Mostly cloudy, with a low around 45. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a low around 45. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a chilly evening with temperatures in the upper 40s and a brisk, howling breeze from the south. The air feels damp, adding to the crispness of the night, particularly as clouds blanket the sky. As we look to the forecast, there\u2019s a slight chance of rain showers developing after 11 PM, with low temperatures dropping to the mid 40s, sustaining that cool, damp feeling. Staying mostly cloudy, Sunday may only offer a modest warming up to the upper 50s, still accompanied by a possibility of rain showers throughout the day.\n\nThe beach scene, while currently gloomy, holds a certain serene charm under nightfall, although the potential for rain might hinder pleasant outdoor activities. Those wanting to venture out should certainly dress warmly with layers and consider a rain jacket to prepare for intermittent showers. Despite the chilly air, the typical autumn temperature for this time of year adds to the experience; however, the conditions may not be ideal for a walk along the shore, especially if waves pick up. If you\u2019re inclined to enjoy the outdoors, perhaps a quick visit to the beach for a brisk stroll or a dash to a nearby caf\u00e9 might be preferable as we edge closer to the end of the week.",
-    "color_code": "#444444",
-    "timestamp": "2024-11-16 23:05:05"
+    "weather_report": "In Evanston, the night settles in with a cool, slightly damp breeze. As the current conditions show, the temperature hovers in the upper 40s, presenting a crispness that invites a light jacket. With the air feeling somewhat thick, one might find the atmosphere a bit muggy, despite the cloud cover casting a muted veil over the surroundings. The south winds, blowing steadily at a brisk pace, add a gusty chill, stirring up the peacefulness of this lakeside community.\n\nLooking ahead to the day, expect mostly cloudy skies to prevail, interspersed with a slight chance of rain showers. The temperature is set to rise into the upper 50s, allowing for a moderately comfortable atmosphere, although a drop to the mid-50s in the afternoon could make it feel a little cooler. While the chance of rain remains low, any outdoor activity should be prefaced by preparations for possible drizzle. Wave conditions along Lake Michigan are expected to be gentle, suitable for a tranquil stroll by the water, while the low light may encourage cozy indoor pursuits as the day unfolds. So bundle up in layers\u2014especially with a sweater or light coat\u2014and enjoy the evening atmosphere without forgetting your umbrella just in case.",
+    "color_code": "#4A6E93",
+    "timestamp": "2024-11-17 00:06:42"
 }
