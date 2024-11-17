@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-17T18:51:00+00:00",
-            "temperature_f": 55.94,
-            "temperature_c": 13.3,
-            "humidity": 74.688740763976,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 230,
+            "timestamp": "2024-11-17T20:51:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": 71.923565721953,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 210,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-17T14:00:00-06:00",
+                "startTime": "2024-11-17T16:00:00-06:00",
                 "endTime": "2024-11-17T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -33,7 +33,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 3pm. Mostly cloudy, with a high near 58. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a high near 58. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather paints a picture of a crisp, blustery afternoon with temperatures hovering in the mid-50s. The air holds a touch of moisture, creating an ambiance that feels fresh yet slightly humid. As you gaze out towards Lake Michigan, the sky is mostly cloudy, lending a grayish hue to the landscape, while a strong southwest breeze adds a vigorous flair to the scene. Currently, there\u2019s a slight chance of rain showers later today, with a high expected near 58, and though precipitative prospects remain low, any outdoor plans may warrant a light jacket or a quick cover-up.\n\nAs the day progresses, the cloud cover will persist, leading into a partly cloudy night that drops temperatures to the mid-40s, accompanied by gentle winds. The wave conditions on the lake may be a bit choppy due to the gusty winds, presenting a mixed bag for any shoreline activities. Given these conditions, outdoor enthusiasts might consider a quick walk along the beach or a leisurely stroll through local parks, while those favoring indoor pursuits can cozy up with a book or venture into nearby cafes. The date is simply a Friday, with no major holidays on the horizon, making it an ideal time to unwind and enjoy the serene, if somewhat brisk, November atmosphere.",
-    "color_code": "#A0B0C0",
-    "timestamp": "2024-11-17 15:04:38"
+    "weather_report": "Current conditions in Evanston present a mild autumn day, with temperatures hovering in the upper 50s. The air is crisp but carries a sense of potential dampness due to some cloud cover and a slight chance of rain showers, particularly early in the evening. The breeze is moderately brisk, lending a fresh feel to the shoreline, as the lake reflects a steel gray under the mostly cloudy skies. With waves likely gentle given the wind is not too fierce, the beach scene offers a tranquil allure for brisk walks or quiet moments by the shore, although conditions might be less inviting for extended outdoor activities.\n\nLooking ahead, expect similar conditions with a low dipping into the mid-40s tonight. The potential for brief rain showers lingers, but they are forecasted to be light and mainly in the earlier parts of the evening. Attire should lean towards layers, perhaps a light jacket complemented by a scarf to fend off any evening chill. Considering the season, temperatures are typical for mid-November in this region, merging that coolness with an undercurrent of humidity that hints at an impending shift towards winter. Given it\u2019s not a holiday weekend, this evening could be ideal for a leisurely stroll along the beach or catching up with friends in the cozy confines of a local caf\u00e9.",
+    "color_code": "#A0B3C8",
+    "timestamp": "2024-11-17 16:04:56"
 }
