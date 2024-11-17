@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-17T11:51:00+00:00",
+            "timestamp": "2024-11-17T13:51:00+00:00",
             "temperature_f": 48.02,
             "temperature_c": 8.9,
-            "humidity": 82.606319428922,
+            "humidity": 86.090017231195,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 190,
+            "wind_direction": 210,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-17T07:00:00-06:00",
+                "startTime": "2024-11-17T09:00:00-06:00",
                 "endTime": "2024-11-17T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 4pm. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Good morning, Evanston. As we greet the day, current conditions reveal a cool 48 degrees, complemented by a soft, overcast sky. The breeze is notably brisk, sweeping in from the south-southwest at a wild pace, making for a refreshing\u2014though slightly biting\u2014morning. While no precipitation is falling at the moment, the atmosphere carries hints of moisture and the day ahead suggests a slight chance of rain showers. The cloud cover maintains an ethereal veil over the landscape, casting muted tones upon the lakeshore.\n\nLooking ahead, the weather is set to remain mostly cloudy with a high approaching the upper 50s, before dipping back into the mid 40s tonight. As the day unfolds, you may want to dress warmly; layers are advisable to combat the chill brought by the gusty winds. Though temperatures fit the season, the coolness may make outdoor plans less inviting. However, the beach offers a picturesque view and a brisk walk along the shore could be invigorating, if you\u2019re willing to embrace the elements. With Thanksgiving around the corner, make sure to enjoy the calm before the holiday festivities begin.",
-    "color_code": "#9cb1de",
-    "timestamp": "2024-11-17 08:04:43"
+    "weather_report": "Current conditions in Evanston present a chilly and damp atmosphere, with temperatures lingering in the low 50s, paired with a thick layer of clouds that paints the sky gray. Blustery winds sweep in from the southwest at a vigorous pace, adding a sense of motion to the otherwise subdued scenery. The beach area along Lake Michigan reflects this mood, with the water appearing restless and the surrounding air carrying a cool bite, making it feel even chillier.\n\nAs we look ahead to the day, expect a continuation of these cloudy skies, with a slight chance of rain showers creeping in later this afternoon. Highs will reach into the upper 50s, but don\u2019t be surprised if it feels a touch cooler due to the brisk winds. With wave conditions influenced by the same winds, the water may be lively, making it less than ideal for swimming but perhaps interesting for those keen on observing nature. For the evening, temperatures will dip back into the mid-40s under partly cloudy skies, providing a hint of the approaching winter season. Dressing in warm layers, including a light jacket, is advisable for those venturing outdoors. \n\nOn this typical mid-November day, when the chill is setting in as the season shifts towards winter, outdoor activities might be best suited for a brisk walk or a quiet moment by the lake, allowing you to breathe in the fresh air before colder days take hold.",
+    "color_code": "#A9B0B8",
+    "timestamp": "2024-11-17 09:04:52"
 }
