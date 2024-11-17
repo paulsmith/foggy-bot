@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-16T17:00:00-06:00",
-                "endTime": "2024-11-16T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 53, with temperatures falling to around 51 in the afternoon. South southeast wind around 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-16T18:00:00-06:00",
                 "endTime": "2024-11-17T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,20?size=medium",
                 "shortForecast": "Cloudy then Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain showers after midnight. Cloudy, with a low around 46. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-11-17T06:00:00-06:00",
+                "endTime": "2024-11-17T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain showers before 10am. Mostly cloudy. High near 60, with temperatures falling to around 57 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a chilly yet breezy atmosphere, with temperatures nestled in the low 50s. The air feels a bit heavy, contributing to a slightly uncomfortable chill, accentuated by a fierce wind that makes for a raw outdoor experience. As we look to the horizon, the cloud cover is thick, casting a dull gray over Lake Michigan, setting a somewhat somber scene, though the water remains relatively calm.\n\nAs we move into this afternoon, we can expect cloudiness to linger with temperatures slightly dropping, reaching highs near 53 before settling around 46 tonight. While there's only a slight possibility of rain showers after midnight, the blustery south-southeast wind will continue to keep the atmosphere brisk. Given the season, these temperatures align well with what one would expect for mid-November in this region, feeling quite typical for this time of year. For those venturing outdoors, a warm jacket, perhaps layered with a cozy sweater, would be advisable to stave off the chill. The conditions, while not ideal for beach activities, might be well-suited for a brisk walk along the shore or a quiet moment enjoying the serene\u2014albeit gray\u2014lakefront.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2024-11-16 17:05:04"
+    "weather_report": "Evanston is currently experiencing a brisk evening, with temperatures settling in the low 50s and a gentle breeze that feels more pronounced near the shoreline. The skies are mostly cloudy, casting a muted light over Lake Michigan, which creates a somewhat somber yet tranquil atmosphere. As we look ahead, tonight's forecast hints at a slight chance of rain showers after midnight, accompanied by an increase in cloud cover and a low dipping into the upper 40s. Tomorrow brings a continuation of cloudy conditions with a slight chance of morning rain before giving way to mostly cloudy skies, as temperatures peak close to the low 60s.\n\nWhile the overall demeanor outside is on the chilly side, it may start to feel slightly damp later in the evening with the anticipated showers. As for the waves, conditions will likely be gentle, making it less than ideal for water sports but pleasant for a quiet stroll along the beach. Given the current cool and slightly drippy atmosphere, layering up would be wise\u2014consider a light jacket or sweater to fend off the chill. This time of year in the Midwest typically brings cool, crisp weather, so the current temperatures align well with the seasonal expectations. As this relaxed Friday evening unfolds, the beach may not be bustling, but it's a perfect opportunity for a reflective walk or some casual reading by the water under the watchful clouds.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2024-11-16 18:24:02"
 }
