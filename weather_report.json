@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-16T18:00:00-06:00",
+                "startTime": "2024-11-16T19:00:00-06:00",
                 "endTime": "2024-11-17T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a brisk evening, with temperatures settling in the low 50s and a gentle breeze that feels more pronounced near the shoreline. The skies are mostly cloudy, casting a muted light over Lake Michigan, which creates a somewhat somber yet tranquil atmosphere. As we look ahead, tonight's forecast hints at a slight chance of rain showers after midnight, accompanied by an increase in cloud cover and a low dipping into the upper 40s. Tomorrow brings a continuation of cloudy conditions with a slight chance of morning rain before giving way to mostly cloudy skies, as temperatures peak close to the low 60s.\n\nWhile the overall demeanor outside is on the chilly side, it may start to feel slightly damp later in the evening with the anticipated showers. As for the waves, conditions will likely be gentle, making it less than ideal for water sports but pleasant for a quiet stroll along the beach. Given the current cool and slightly drippy atmosphere, layering up would be wise\u2014consider a light jacket or sweater to fend off the chill. This time of year in the Midwest typically brings cool, crisp weather, so the current temperatures align well with the seasonal expectations. As this relaxed Friday evening unfolds, the beach may not be bustling, but it's a perfect opportunity for a reflective walk or some casual reading by the water under the watchful clouds.",
-    "color_code": "#2F4F4F",
-    "timestamp": "2024-11-16 18:24:02"
+    "weather_report": "As darkness falls over Evanston, the current conditions reveal a cool and slightly humid atmosphere, with temperatures lingering in the low 50s, bringing a crispness to the evening air. The south winds are howling at a robust pace, creating a blustery feel that adds a sense of excitement, though the mostly cloudy skies may obscure some of the stars. Tonight, a slight chance of rain showers is anticipated after midnight, with a low settling around the mid-40s. \n\nLooking ahead, Sunday brings a lingering chance of sprinkles before mid-morning, but the day is expected to warm into the high 50s, though temperatures will gradually decline by the afternoon. As for wave conditions on Lake Michigan, the gusty winds could contribute to a choppy surface, making it less ideal for leisurely activities such as swimming or kayaking. Attire should lean towards layers that accommodate the transition from cool to mild\u2014a light jacket combined with long pants will suit the day well. Given the current season and regional climate, these temperatures are typical for mid-November, allowing for a nostalgic embrace of autumn's fading warmth. Activities might include brief beach strolls, a walk in the nearby parks, or cozy gatherings indoors as the holiday season approaches, setting the stage for next week's festivities.",
+    "color_code": "#3D5E5E",
+    "timestamp": "2024-11-16 19:32:45"
 }
