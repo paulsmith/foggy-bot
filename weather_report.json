@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-17T17:51:00+00:00",
-            "temperature_f": 55.04,
-            "temperature_c": 12.8,
-            "humidity": 74.098802959788,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 220,
+            "timestamp": "2024-11-17T18:51:00+00:00",
+            "temperature_f": 55.94,
+            "temperature_c": 13.3,
+            "humidity": 74.688740763976,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 230,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-17T12:00:00-06:00",
+                "startTime": "2024-11-17T14:00:00-06:00",
                 "endTime": "2024-11-17T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 59,
+                "temperature": 58,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "5 to 15 mph",
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 4pm. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers after 3pm. Mostly cloudy, with a high near 58. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-11-17T18:00:00-06:00",
                 "endTime": "2024-11-18T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 44,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
                 "windSpeed": "0 to 5 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 44. West northwest wind 0 to 5 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
+                "detailedForecast": "A slight chance of rain showers before 7pm. Partly cloudy, with a low around 46. West northwest wind 0 to 5 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a picture of a chill in the air, with temperatures hovering in the mid 50s, providing a refreshingly cool atmosphere. The afternoon brings mostly cloudy skies, allowing for a gentle mix of light and shadow, yet the threat of rain showers looms slightly as we approach later hours, though the chance remains low. Expect a high near 59, with the wind picking up to a breezy southwest direction, whispering through the trees at 5 to 15 mph, and gusting up to 25 mph.\n\nAs day turns to night, conditions will remain mild, settling down to a low around the mid 40s, allowing for a crisp evening. The waves on Lake Michigan should be calm, but attentive beachgoers may notice an increase in activity if the winds stir things up a bit. Given these conditions, it's sensible to don a light jacket or sweater, ideal for those enjoying a walk by the lake or attending any nearby outdoor events. While not entirely typical for mid-November, the temperatures are certainly in line with seasonal expectations for the region, creating an inviting environment for a stroll along the shore as the sun dips lower. With no holidays on the calendar, it may just be a perfect day to relish the natural beauty of Evanston and take in the sights at the beach.",
-    "color_code": "#9BCBCB",
-    "timestamp": "2024-11-17 13:04:45"
+    "weather_report": "Current conditions in Evanston reveal a scene that is mostly cloudy, with temperatures settling in the mid 50s, offering a brisk afternoon atmosphere. The wind is coming from the southwest at a breezy pace, contributing to a slightly invigorating feel in the air. As the day progresses, there's a slight chance of rain showers after 3 PM, but no significant precipitation is expected. The forecast indicates a maximum temperature nearing the upper 50s, and winds will ease somewhat, allowing for a more mellow evening ahead.\n\nGiven the current climate and forecast, this afternoon presents a mix of moderately pleasant and somewhat unsettled weather, perhaps feeling just a shade cool, especially with the chance of light rain lingering. The waves on Lake Michigan might be a touch choppy due to the gusty winds, so caution is advised for those considering water activities. Attire recommendations lean towards layered clothing\u2014think a light jacket or sweater\u2014along with appropriate footwear for the damp conditions. As we venture deeper into November, these temperatures remain quite typical for the season in this region, sustaining that autumnal chill. Ideal activities include a brisk walk by the beach to appreciate the waning daylight or perhaps a cozy afternoon at a local caf\u00e9, perfect for enjoying a hot drink while watching the clouds dance over the water.",
+    "color_code": "#B0C4D5",
+    "timestamp": "2024-11-17 14:05:14"
 }
