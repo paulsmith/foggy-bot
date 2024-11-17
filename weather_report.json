@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-17T16:00:00-06:00",
+                "startTime": "2024-11-17T17:00:00-06:00",
                 "endTime": "2024-11-17T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a high near 58. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a high near 58. Southwest wind around 5 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a mild autumn day, with temperatures hovering in the upper 50s. The air is crisp but carries a sense of potential dampness due to some cloud cover and a slight chance of rain showers, particularly early in the evening. The breeze is moderately brisk, lending a fresh feel to the shoreline, as the lake reflects a steel gray under the mostly cloudy skies. With waves likely gentle given the wind is not too fierce, the beach scene offers a tranquil allure for brisk walks or quiet moments by the shore, although conditions might be less inviting for extended outdoor activities.\n\nLooking ahead, expect similar conditions with a low dipping into the mid-40s tonight. The potential for brief rain showers lingers, but they are forecasted to be light and mainly in the earlier parts of the evening. Attire should lean towards layers, perhaps a light jacket complemented by a scarf to fend off any evening chill. Considering the season, temperatures are typical for mid-November in this region, merging that coolness with an undercurrent of humidity that hints at an impending shift towards winter. Given it\u2019s not a holiday weekend, this evening could be ideal for a leisurely stroll along the beach or catching up with friends in the cozy confines of a local caf\u00e9.",
-    "color_code": "#A0B3C8",
-    "timestamp": "2024-11-17 16:04:56"
+    "weather_report": "The weather in Evanston, Illinois, this evening presents a markedly cool and comfortably moist atmosphere, as the temperature is settling into the high 50s. The ambiance is mostly cloudy, lending a slightly overcast quality to the sky. Wind gusts from the southwest are brisk but not overwhelming, creating a gently shifting situation along the shoreline. With the lake\u2019s proximity, conditions are generally calm, although the moving breeze can stir the waves just enough to suggest an ongoing dance on Lake Michigan\u2019s surface.\n\nAs for the remainder of the day, expect a slight chance of rain showers through the afternoon, with little likelihood of any significant precipitation before tonight. Clouds will ease into a more scattered arrangement, leaving room for the chill of the evening air to settle with a low dipping into the mid-40s. Given these factors, those venturing outdoors would profit from layered clothing \u2014 a light jacket would be wise to counter the cooling winds. While the current conditions feel typical for this time in mid-November, particularly along the lakeshore, activities such as an evening stroll along the beach or a quiet time at a local caf\u00e9 could provide a pleasant respite from the day's duties. As this date falls on a non-holiday weekday, it is an ideal opportunity to unwind and enjoy the subtle beauty of an autumn evening by the water.",
+    "color_code": "#8C9DAB",
+    "timestamp": "2024-11-17 17:04:51"
 }
