@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-17T07:51:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 79.712411892316,
+            "timestamp": "2024-11-17T08:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 76.541811205247,
             "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 190,
-            "description": "Cloudy"
+            "wind_direction": 180,
+            "description": ""
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current conditions reveal a cool and damp evening, with temperatures hovering in the mid 40s and a cloud-laden sky casting a muted atmosphere. The wind, strong and brisk from the south-southwest, adds a fierce chill to the air, making for a rather chilly experience outdoors. As we look ahead to the day, expect the possibility of light rain showers, particularly overnight, with cloudy skies lingering into Sunday. Though temperatures may rise to the upper 50s by afternoon, the cooling trend will set in, keeping things brisk.\n\nTonight's wave conditions off Lake Michigan are likely to be somewhat choppy, influenced by the gusty winds. As for attire, layering is advisable\u2014consider a warm jacket paired with a hat, as you might encounter periods of precipitation. The temperatures do feel typical for this time of year in the Chicago region, signaling the gradual descent into full winter. Although it's a quiet Saturday, ideal for settling into indoor activities, the weather may prompt some to seek out cozy spots with a warm drink or perhaps enjoy a brisk walk if you can handle the bite in the air.",
-    "color_code": "#8B8B7A",
-    "timestamp": "2024-11-17 04:05:02"
+    "weather_report": "In Evanston this morning, the atmosphere presents a decidedly brisk character, with temperatures resting in the low 50s, accompanied by a thick, blanket-like layer of overcast skies. The wind is quite robust, gusting from the south-southwest and creating a blustery feel that carries a noticeable chill. While the waterfront is generally quiet under the cloak of early morning, one might catch the sound of waves stirring softly against the shore, hinting at the slight activity expected later as the day unfolds. \n\nAs we look ahead to today, a modest chance of rain showers looms, following the pattern of mostly cloudy skies and temperatures dipping into the mid to high 50s, making this a day for layered clothing\u2014perhaps a light jacket should accompany outdoor endeavors. The weather is not unpleasant, though the dampness may give a slightly cool edge to any prolonged exposure outdoors. Given the conditions, enjoying a leisurely walk along the beach or a quiet moment in one of Evanston\u2019s parks could provide a refreshing escape, though it may be worthwhile to keep an umbrella close at hand. With November nearing its midpoint, today\u2019s temperatures are right in line with seasonal averages, marking a typical autumnal experience in this lakeside community.",
+    "color_code": "#4B6F83",
+    "timestamp": "2024-11-17 05:04:36"
 }
