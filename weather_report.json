@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-18T09:00:00-06:00",
+                "startTime": "2024-11-18T10:00:00-06:00",
                 "endTime": "2024-11-18T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, conditions are decidedly cool and damp this morning, with temperatures in the low 50s and a thick blanket of fog lingering over Lake Michigan. The morning air feels heavy, enhanced by a gentle yet persistent breeze from the east, perfectly capturing the essence of a late autumn day. As we move into the afternoon, expect rain showers to arrive after 11 AM, altering the environment to a more overcast and wet outlook. Temperatures will inch up to the upper 50s, with a strong southeast wind, which will bring with it gusts that could occasionally feel fierce.\n\nWave conditions along the shore are likely to become choppy as the day progresses, influenced by the wind and incoming precipitation. Rain is expected to roll in steadily, particularly this evening, with forecasts predicting a full 100% chance of showers and possible thunderstorms. Given these conditions, layering is recommended; a light waterproof jacket and sturdy footwear will be ideal for braving the elements. The season, being late November, typically sees consistent temperatures in this range, making today's chill feel quite ordinary for this time of year. With rain on the horizon, outdoor activities may be limited, but perhaps a cozy day at home with a good book or catching up on indoor hobbies might be just the ticket for enjoying this gray afternoon.",
-    "color_code": "#A4B1B3",
-    "timestamp": "2024-11-18 09:05:50"
+    "weather_report": "Current conditions in Evanston paint a rather gloomy picture, with dense fog hanging over the shoreline and a temperature hovering in the low 50s. The atmosphere feels quite soupy and damp, a stark contrast to what one might expect for mid-November. As the day progresses, expect rain showers to move in after 11 a.m., heralded by a brisk, southeast breeze that will stir up a fair bit of activity, with wind gusts approaching 30 mph. The chance for precipitation stands at a hefty 90%, with rainfall totals potentially reaching half an inch by this evening.\n\nThe day is likely to remain overcast and damp, with temperatures rising to the high 50s before settling back to around 56 overnight, creating a rather uncomfortable and sticky environment. With such high winds and rough waters anticipated on Lake Michigan, wave conditions could be choppy, impacting any waterfront activities. Given the drizzling forecast and the weighty clouds looming overhead, it may be wise to don a waterproof jacket and sturdy shoes if venturing outdoors. This day does not coincide with any major holiday, so local outings may be muted. Instead of beach fun, a warm caf\u00e9 or indoor event would be much more inviting in today's dull and drizzly conditions.",
+    "color_code": "#B8C3B4",
+    "timestamp": "2024-11-18 10:06:10"
 }
