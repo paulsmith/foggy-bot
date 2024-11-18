@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-17T17:00:00-06:00",
-                "endTime": "2024-11-17T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a high near 58. Southwest wind around 5 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-17T18:00:00-06:00",
                 "endTime": "2024-11-18T06:00:00-06:00",
@@ -52,11 +33,30 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium",
                 "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
-                "detailedForecast": "A slight chance of rain showers before 7pm. Partly cloudy, with a low around 46. West northwest wind 0 to 5 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 46. West northwest wind 0 to 5 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2024-11-18T06:00:00-06:00",
+                "endTime": "2024-11-18T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "0 to 20 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,90?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers after 10am. Mostly cloudy, with a high near 56. East wind 0 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "The weather in Evanston, Illinois, this evening presents a markedly cool and comfortably moist atmosphere, as the temperature is settling into the high 50s. The ambiance is mostly cloudy, lending a slightly overcast quality to the sky. Wind gusts from the southwest are brisk but not overwhelming, creating a gently shifting situation along the shoreline. With the lake\u2019s proximity, conditions are generally calm, although the moving breeze can stir the waves just enough to suggest an ongoing dance on Lake Michigan\u2019s surface.\n\nAs for the remainder of the day, expect a slight chance of rain showers through the afternoon, with little likelihood of any significant precipitation before tonight. Clouds will ease into a more scattered arrangement, leaving room for the chill of the evening air to settle with a low dipping into the mid-40s. Given these factors, those venturing outdoors would profit from layered clothing \u2014 a light jacket would be wise to counter the cooling winds. While the current conditions feel typical for this time in mid-November, particularly along the lakeshore, activities such as an evening stroll along the beach or a quiet time at a local caf\u00e9 could provide a pleasant respite from the day's duties. As this date falls on a non-holiday weekday, it is an ideal opportunity to unwind and enjoy the subtle beauty of an autumn evening by the water.",
-    "color_code": "#8C9DAB",
-    "timestamp": "2024-11-17 17:04:51"
+    "weather_report": "As twilight settles over Evanston, the evening air is cool and has a slightly breezy quality, with current temperatures in the upper 50s and a mix of soft, lingering clouds in the sky. These conditions create a rather pleasant atmosphere for a late autumn night. The forecast for tonight hints at a slight chance of rain showers before 8 PM, transitioning to partly cloudy skies as temperatures dip toward the mid-40s, accompanied by a gentle breeze from the west-northwest.\n\nThe weather tomorrow promises a shift with persistent rain showers expected to roll in after 10 AM, pushing the daytime high just into the mid-50s. The winds will pick up as well, blowing easterly with gusts potentially reaching 30 miles per hour, just in time for the morning commute. The likelihood of rain is significant, making outdoor plans a bit precarious. Given the season, these temperatures are fairly typical, reflecting the coolness expected for November in this region. With the current atmospheric conditions and impending rain, it\u2019s wise to dress in layers and have an umbrella at the ready, especially for anyone planning to be out early in the day. Until the rain arrives, the beach scene might be a serene spot for a quiet evening walk by Lake Michigan, but anticipate a muddy shoreline come morning.",
+    "color_code": "#4B8A8B",
+    "timestamp": "2024-11-17 18:23:21"
 }
