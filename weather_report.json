@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-18T05:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 96.731932441167,
+            "timestamp": "2024-11-18T07:19:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 92.875368778185,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Patchy Fog and Fog/Mist"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the early morning hours are marked by a blanket of dense fog, creating a serene yet mysterious atmosphere. With temperatures nestled in the low 50s, the air feels damp and cool, wrapping around you with a lingering chill. As the night progresses into the day, the forecast predicts patchy fog continuing until sunrise, leading into a morning punctuated by gentle rain showers. Expect a high temperature reaching the mid-50s, accompanied by a shift to east winds that will pick up in intensity, bringing with them gusts that could reach 25 mph.\n\nThe prevailing weather presents a moody, somewhat drizzly day along the shores of Lake Michigan, where the waves might mirror the overcast skies, appearing slightly restless in the wind's push. Given these conditions, it's advisable to dress warmly, perhaps opting for a light jacket or a cozy sweater. The day calls for indoor activities or a stroll with an umbrella at hand, as the rain is anticipated to bring varying amounts throughout the morning. With Thanksgiving just days away, this weather serves as a reminder of the cozy gatherings and warm meals that define the season.",
-    "color_code": "#7b9f20",
-    "timestamp": "2024-11-18 02:07:36"
+    "weather_report": "Current conditions in Evanston, Illinois, present a cool and slightly sticky atmosphere with a temperature hovering in the low 50s. The air is thick, contributing to a rather eerie ambiance characterized by patchy fog and mist, rendering visibility somewhat limited. As we move into the day, expect patchy fog to linger until mid-morning, giving way to rain showers by afternoon. The clouds will dominate the sky, and temperatures will only rise to the mid to upper 50s, accompanied by a gentle easterly breeze which may become brisker throughout the day.\n\nThe beach will have a somber look with gentle waves as lake conditions remain calm, perfect for a contemplative walk amidst the mist, although the rain could dampen outdoor plans. Given the cool temperatures and the moisture in the air, layering is advisable. A light jacket or windbreaker paired with comfortable shoes would be ideal for venturing outside. It's mid-November, so temperatures are in line with seasonal expectations, though approaching a muddy and wet evening might lead to more indoor activities. While not a designated holiday, the weather encourages moments of introspection rather than festive outings, making it a perfect time for cozy indoor endeavors or planning for the upcoming holidays.",
+    "color_code": "#B0C4D2",
+    "timestamp": "2024-11-18 03:06:13"
 }
