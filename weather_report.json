@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-18T03:51:00+00:00",
+            "timestamp": "2024-11-18T04:51:00+00:00",
             "temperature_f": 51.98,
             "temperature_c": 11.1,
-            "humidity": 92.934812010123,
+            "humidity": 96.731932441167,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Mostly Cloudy"
+            "description": "Patchy Fog"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-17T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-18T00:00:00-06:00",
                 "endTime": "2024-11-18T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "0 to 5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
-                "shortForecast": "Partly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog after 3am. Partly cloudy, with a low around 48. Northwest wind 0 to 5 mph. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "0 mph",
+                "windDirection": "",
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog after 3am. Partly cloudy, with a low around 48. North northwest wind around 0 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Tonight in Evanston, the air carries a chill as the temperature drifts into the low 50s, wrapped in a blanket of moisture that lends a damp, misty quality to the atmosphere. As the clock nears 3 a.m., expect patchy fog to cloak the beaches and streets. The gentle, whispering winds will barely rustle the trees, and the sporadic chance of light rain may add a sprinkle to this gray, mostly cloudy backdrop. \n\nLooking ahead to Monday, dawn may arrive with fog lingering until about 7 a.m., but as the day progresses, the clouds will thicken, and rain showers are likely to grace the area, contributing to a risk of scattered rainfall throughout the day. The high will inch towards the mid-50s, accompanied by a brisk east wind adding to the chill. The conditions may feel slightly damp and dreary, reflecting that late autumn vibe typical for this time of year in the Midwest. Therefore, a cozy jacket and perhaps a waterproof layer are prudent choices for those venturing outside. Given the potential drizzle and cooler temperatures, it may be best to keep indoor activities in mind, such as visiting local cafes or cozying up with a good book, especially as we approach the holiday season.",
-    "color_code": "#2F4F4F",
-    "timestamp": "2024-11-17 23:06:19"
+    "weather_report": "In Evanston, the milky darkness unfolds under a blanket of patchy fog, with temperatures hovering in the low 50s, inviting a sense of chill that lingers in the air. With the wind barely whispering at a standstill, the combined effect of coolness and moisture creates a damp, raw feel typical for this time of year, as a softer atmosphere settles over the beach. As the night transitions to day, expect the fog to persist until morning, giving way to a likely burst of rain showers that will march through in the late morning hours. \n\nLooking ahead, the day promises mostly cloudy skies with a high reaching into the mid-50s, allowing for a slightly somber yet tranquil ambiance along the shore of Lake Michigan. Precipitation is anticipated, with a 90% chance of rain expected, making it wise to grab a water-resistant jacket and perhaps some boots, especially if venturing outdoors. Given the season and this week of November, temperatures reflect the typical briskness of late autumn. While many outdoor activities may be curbed by the impending drizzle, visiting a nearby caf\u00e9 or continuing a good book by the window could provide warmth and comfort in contrast to the dreary weather outside.",
+    "color_code": "#4B6F84",
+    "timestamp": "2024-11-18 00:07:30"
 }
