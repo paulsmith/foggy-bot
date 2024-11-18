@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-18T06:00:00-06:00",
+                "startTime": "2024-11-18T07:00:00-06:00",
                 "endTime": "2024-11-18T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -30,10 +30,10 @@
                     "value": 90
                 },
                 "windSpeed": "5 to 15 mph",
-                "windDirection": "E",
+                "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,90?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Patchy fog before 9am, then rain showers. Cloudy, with a high near 57. East wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Patchy fog before 9am, then rain showers. Cloudy, with a high near 57. East southeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston\u2019s morning air feels damp and cool, with temperatures hovering in the upper 40s. A thick layer of fog blankets the area, casting a gray shadow over the beach and obscuring distant views of Lake Michigan. The gentle but steady breezes, coming in from the southeast, bring a chill that makes the day feel distinctly brisk. Clouds gather ominously overhead as the forecast predicts a shift to rain showers, predominantly in the latter part of the day. By afternoon, temperatures are expected to rise to nearly the upper 50s, but existing conditions may render the experience less than pleasant, especially with a high likelihood of precipitation.\n\nAs the day progresses, expect heavy showers and possibly even thunderstorms rolling in this evening, accompanied by gusty winds reaching up to 25 mph. Wave conditions along the lake may be stirred up due to this wind, which could present some challenges for any daring early morning beachgoers or fishermen. Given the wet forecast and dense cloud cover, dressing in layers with a waterproof jacket and sturdy shoes would be wise for anyone venturing outdoors. The current conditions are typical for mid-November in the Chicago area, where cool, damp days are part of the seasonal transition into winter. Activities may be limited due to the weather; indoor pursuits, such as visiting local cafes or museums, could provide warmth and refuge until conditions improve.",
-    "color_code": "#a9a9a9",
-    "timestamp": "2024-11-18 06:08:54"
+    "weather_report": "Evanston, Illinois, is submerged in a thick shroud of mist this morning, with the temperature hovering in the chilly range, offering a muted and gray start to the day. The air feels damp and heavy, and there's a distinct damp chill in the breeze that's picking up strength as it comes off Lake Michigan. As the day unfolds, expect that patchy fog to give way to rain showers, with cloudy skies dominating the overhead views. A high in the upper 50s is on tap, alongside gusty southeast winds that will add a blustery feel to the scene. Throughout the day, a likelihood of showers intensifies into the evening, with thunderstorms expected as the temperature only creeps slightly into the mid-50s tonight.\n\nFor those planning activities outdoors, it may be wise to choose sheltered pursuits today. The beach, while beautiful in its own muted way, may not be ideal, especially as wave conditions could stir up as the winds increase. Attire should include waterproof jackets and perhaps sturdy shoes, given the rain anticipated throughout the day. This weather is perfectly characteristic of late fall in the Midwest, where cool, wet days remind us that winter is around the corner. Enjoy indoor activities, like visiting local museums or cozy cafes, as the weather encourages a retreat from the chill outside.",
+    "color_code": "#A0B4B8",
+    "timestamp": "2024-11-18 07:11:33"
 }
