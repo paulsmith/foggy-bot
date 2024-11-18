@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-18T08:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 96.056307711081,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2024-11-18T11:12:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 96.688464288609,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 160,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-18T04:00:00-06:00",
-                "endTime": "2024-11-18T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "0 mph",
-                "windDirection": "",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog. Mostly cloudy. Low around 47, with temperatures rising to around 49 overnight. Southeast wind around 0 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2024-11-18T06:00:00-06:00",
                 "endTime": "2024-11-18T18:00:00-06:00",
                 "isDaytime": true,
@@ -52,11 +33,30 @@
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,90?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Areas of fog before 7am, then rain showers. Cloudy, with a high near 57. East wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Patchy fog before 9am, then rain showers. Cloudy, with a high near 57. East wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-18T18:00:00-06:00",
+                "endTime": "2024-11-19T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "20 to 25 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,70/tsra,100?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "A chance of rain showers before 9pm, then showers and thunderstorms. Cloudy, with a low around 56. Southeast wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "The current conditions in Evanston paint a scene of thick fog enveloping the coastal landscape, where the air feels cool and damp. With temperatures resting in the low 50s, the atmosphere is reminiscent of early autumn mornings, characterized by a clingy chill that makes you reach for a light jacket. As day breaks, visibility may remain limited due to the fog, setting the stage for a gray and muted horizon. \n\nLooking ahead to the day, areas of fog are anticipated to linger until morning, giving way to rain showers that are likely to sweep through as temperatures rise slightly into the upper 50s. The day will see a gentle shift in winds, blowing from the east at 5 to 15 mph, bringing with it a heightened risk of precipitation\u201490% chance\u2014alongside expected rainfall of up to half an inch. While the wave conditions will be moderate due to the incoming weather, the dampness of the air and the probability of rain make it advisable to carry an umbrella. For those venturing outside, wearing a waterproof jacket and comfortable shoes will be essential. Given that it's mid-November, the cool temperatures are typical for the season, though the damp feel may render outdoor activities less enjoyable. Instead, curling up with a book indoors or visiting a cozy caf\u00e9 might be the perfect remedy for this chilly, fog-draped day.",
-    "color_code": "#7F8C8C",
-    "timestamp": "2024-11-18 05:05:05"
+    "weather_report": "Evanston\u2019s morning air feels damp and cool, with temperatures hovering in the upper 40s. A thick layer of fog blankets the area, casting a gray shadow over the beach and obscuring distant views of Lake Michigan. The gentle but steady breezes, coming in from the southeast, bring a chill that makes the day feel distinctly brisk. Clouds gather ominously overhead as the forecast predicts a shift to rain showers, predominantly in the latter part of the day. By afternoon, temperatures are expected to rise to nearly the upper 50s, but existing conditions may render the experience less than pleasant, especially with a high likelihood of precipitation.\n\nAs the day progresses, expect heavy showers and possibly even thunderstorms rolling in this evening, accompanied by gusty winds reaching up to 25 mph. Wave conditions along the lake may be stirred up due to this wind, which could present some challenges for any daring early morning beachgoers or fishermen. Given the wet forecast and dense cloud cover, dressing in layers with a waterproof jacket and sturdy shoes would be wise for anyone venturing outdoors. The current conditions are typical for mid-November in the Chicago area, where cool, damp days are part of the seasonal transition into winter. Activities may be limited due to the weather; indoor pursuits, such as visiting local cafes or museums, could provide warmth and refuge until conditions improve.",
+    "color_code": "#a9a9a9",
+    "timestamp": "2024-11-18 06:08:54"
 }
