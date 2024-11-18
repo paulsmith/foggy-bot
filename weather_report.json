@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-17T20:00:00-06:00",
+                "startTime": "2024-11-17T21:00:00-06:00",
                 "endTime": "2024-11-18T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 46,
+                "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "0 to 5 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 46. West northwest wind 0 to 5 mph."
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
+                "shortForecast": "Partly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after 3am. Partly cloudy, with a low around 48. Northwest wind 0 to 5 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,90?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers after 10am. Mostly cloudy, with a high near 56. East wind 0 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Patchy fog before 7am, then rain showers. Mostly cloudy, with a high near 56. East wind 0 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the evening settles in Evanston, the current weather presents a chilly scene marked by light rain, with temperatures hovering in the low 50s. The air carries a damp coolness that might feel slightly uncomfortable for those venturing outdoors, intensified by gusty winds sweeping in from the west-southwest. Light rain has added a sheen to the landscape, creating a muted atmosphere as the sun descends behind a blanket of clouds. \n\nLooking ahead, tonight will bring a shift to partly cloudy skies with a low dropping into the mid-40s and light winds offering a gentle reprieve from the earlier breeze. On Monday, residents can expect a continuation of unsettled weather marked by rain showers beginning mid-morning, with temperatures crawling up to the mid-50s. A 90% chance of precipitation indicates more rain on the way, with gusts potentially reaching 30 mph, making for a blustery day. Given the cool and damp feel, a warm jacket would be advisable, perhaps complemented by waterproof footwear if you plan to step out. These conditions are typical for mid-November in the Midwest, where one might find activities more suited to cozy indoor settings than outdoor adventures by the lake.",
-    "color_code": "#4b4b4b",
-    "timestamp": "2024-11-17 20:31:40"
+    "weather_report": "As we look to Evanston this evening, the air is lightly graced by rain, creating a rather damp atmosphere, with a temperature nestled in the low 50s. The feel is decidedly cool and somewhat sticky, with a blustery wind sweeping in from the west-southwest. Visibility is reduced due to this light precipitation and the onset of patchy fog expected later tonight. Tomorrow's forecast suggests the persistence of fog in the morning, leading into a day characterized by mostly cloudy skies and intervals of rain showers, with temperatures inching up to the mid 50s.\n\nIn terms of outdoor conditions, the beach looks dark and quiet, and wave conditions may be choppy thanks to the gusty winds, making it less than ideal for any water activities. Given the cool temperatures and potential for ongoing rain, dressing in layers with waterproof outerwear is advisable, along with sturdy footwear to navigate damp surfaces. It's mid-November, and temperatures around this time are aligning with typical seasonal patterns. While the weather may deter outdoor adventures, it could be a cozy evening to enjoy indoor activities such as visiting local caf\u00e9s or catching up with a good book by the window as the rain patters softly outside.",
+    "color_code": "#4A4B4D",
+    "timestamp": "2024-11-17 21:17:17"
 }
