@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-18T07:19:00+00:00",
+            "timestamp": "2024-11-18T08:51:00+00:00",
             "temperature_f": 50.0,
             "temperature_c": 10,
-            "humidity": 92.875368778185,
+            "humidity": 96.056307711081,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Patchy Fog and Fog/Mist"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-18T02:00:00-06:00",
+                "startTime": "2024-11-18T04:00:00-06:00",
                 "endTime": "2024-11-18T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 48,
+                "temperature": 47,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -32,8 +32,8 @@
                 "windSpeed": "0 mph",
                 "windDirection": "",
                 "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog after 3am. Partly cloudy, with a low around 48. South southeast wind around 0 mph."
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog. Mostly cloudy. Low around 47, with temperatures rising to around 49 overnight. Southeast wind around 0 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-18T06:00:00-06:00",
                 "endTime": "2024-11-18T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 56,
+                "temperature": 57,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "5 to 15 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,90?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,90?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Patchy fog before 7am, then rain showers. Mostly cloudy, with a high near 56. East wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Areas of fog before 7am, then rain showers. Cloudy, with a high near 57. East wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, present a cool and slightly sticky atmosphere with a temperature hovering in the low 50s. The air is thick, contributing to a rather eerie ambiance characterized by patchy fog and mist, rendering visibility somewhat limited. As we move into the day, expect patchy fog to linger until mid-morning, giving way to rain showers by afternoon. The clouds will dominate the sky, and temperatures will only rise to the mid to upper 50s, accompanied by a gentle easterly breeze which may become brisker throughout the day.\n\nThe beach will have a somber look with gentle waves as lake conditions remain calm, perfect for a contemplative walk amidst the mist, although the rain could dampen outdoor plans. Given the cool temperatures and the moisture in the air, layering is advisable. A light jacket or windbreaker paired with comfortable shoes would be ideal for venturing outside. It's mid-November, so temperatures are in line with seasonal expectations, though approaching a muddy and wet evening might lead to more indoor activities. While not a designated holiday, the weather encourages moments of introspection rather than festive outings, making it a perfect time for cozy indoor endeavors or planning for the upcoming holidays.",
-    "color_code": "#B0C4D2",
-    "timestamp": "2024-11-18 03:06:13"
+    "weather_report": "In Evanston, the weather presents a bleak and murky scene under the cloak of night, with temperatures hovering in the low 50s. The air feels heavy and damp, and visibility is limited due to a thick shroud of fog that whispers across the landscape. Wind remains calm, offering little relief from the impending sense of moisture that blankets the area. As dawn breaks, the forecast points to a continuation of this overcast atmosphere, with morning fog expected to lift only briefly before rain showers roll in. Daytime highs may reach the upper 50s, bolstered by a gentle breeze shifting to the east, increasing the chance of precipitation to 90%.\n\nGiven the chilly, moist conditions, outdoor activities might prove less inviting, particularly with rain on the horizon. Those venturing outside should prepare for dampness, donning layers that include a waterproof jacket or umbrella for the anticipated rain. This time of year, typical for late fall, sees temperatures usually ranging from the upper 40s to low 50s, aligning with seasonal expectations. For anyone considering strolls along the lake or beach activities, it may be best to postpone such plans until clearer skies return. This day also falls outside of any major U.S. holidays, marking a quiet weekend morning in Evanston.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-11-18 04:06:18"
 }
