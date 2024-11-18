@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-18T11:12:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 96.688464288609,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 160,
+            "timestamp": "2024-11-18T12:51:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 92.934812010123,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 70,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-18T07:00:00-06:00",
+                "startTime": "2024-11-18T08:00:00-06:00",
                 "endTime": "2024-11-18T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "5 to 15 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,90?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Patchy fog before 9am, then rain showers. Cloudy, with a high near 57. East southeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Patchy fog before 9am, then rain showers. Cloudy, with a high near 57. East southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston, Illinois, is submerged in a thick shroud of mist this morning, with the temperature hovering in the chilly range, offering a muted and gray start to the day. The air feels damp and heavy, and there's a distinct damp chill in the breeze that's picking up strength as it comes off Lake Michigan. As the day unfolds, expect that patchy fog to give way to rain showers, with cloudy skies dominating the overhead views. A high in the upper 50s is on tap, alongside gusty southeast winds that will add a blustery feel to the scene. Throughout the day, a likelihood of showers intensifies into the evening, with thunderstorms expected as the temperature only creeps slightly into the mid-50s tonight.\n\nFor those planning activities outdoors, it may be wise to choose sheltered pursuits today. The beach, while beautiful in its own muted way, may not be ideal, especially as wave conditions could stir up as the winds increase. Attire should include waterproof jackets and perhaps sturdy shoes, given the rain anticipated throughout the day. This weather is perfectly characteristic of late fall in the Midwest, where cool, wet days remind us that winter is around the corner. Enjoy indoor activities, like visiting local museums or cozy cafes, as the weather encourages a retreat from the chill outside.",
-    "color_code": "#A0B4B8",
-    "timestamp": "2024-11-18 07:11:33"
+    "weather_report": "Currently in Evanston, the weather paints a damp and chilly picture with temperatures hovering in the low 50s and a thick fog enveloping the area. The air feels heavy, and the visibility is limited, creating a sense of eerie calm by the lakeshore. As we look toward the day, patchy fog lingers until around 9 a.m., after which rain showers are expected to move in, bringing along a steady cloud cover. With a high forecasted near the mid to upper 50s, the expectations of rain with a 90% chance mean you'll want a reliable umbrella or rain jacket at hand, as new rainfall amounts could reach up to half an inch.\n\nAs the winds shift towards the southeast, they will pick up, reaching a brisk pace, stirring up the lake slightly but not to the extent of creating rough waves. Be mindful that the day will feel quite humid and damp, contributing to an uncomfortably sticky atmosphere by afternoon. Given the season and typical temperatures for November, today's weather aligns with the cooler characteristics one would expect, yet the combination of moisture and temperature makes it less than pleasant for outdoor activities. Recommended attire would include layered clothing, a warm coat, and waterproof footwear, as the evening brings a 100% chance of thunderstorms, with temperatures stabilizing around the mid-50s. As the comforts of cozy indoor spaces beckon, this might be a day best suited for indoor activities\u2014perhaps catching a movie or enjoying a warm beverage\u2014while keeping an eye out for the approaching weather patterns.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2024-11-18 08:05:30"
 }
