@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-18T01:00:00-06:00",
+                "startTime": "2024-11-18T02:00:00-06:00",
                 "endTime": "2024-11-18T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -33,7 +33,7 @@
                 "windDirection": "",
                 "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog after 3am. Partly cloudy, with a low around 48. South wind around 0 mph."
+                "detailedForecast": "Patchy fog after 3am. Partly cloudy, with a low around 48. South southeast wind around 0 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois, paints a picture of a foggy and cool night with temperatures settling in the low 50s. The air feels damp and heavy, a testament to the moisture lingering in the atmosphere. As dawn approaches, patchy fog is likely to continue, giving way to a blend of clouds and scattered rain expected throughout the day. The high will only reach the mid 50s, accompanied by a gentle easterly breeze that may pick up later, bringing sporadic gusts.\n\nOverall, the shoreline might appear rather dreary for outdoor activities, especially with the looming possibility of rain showers. Those planning to venture out will find the beach setting less inviting under the gloomy skies and with the likelihood of dampness. Given the cloudy conditions and moderate chances of precipitation, a light waterproof jacket or layer will be necessary for comfort. The current temperature aligns with late autumn expectations, yet the abundant moisture could create a decidedly chilly feel. With this weather in mind, the ideal activity would likely center around cozy indoor pursuits rather than strolls along the beach, especially as the season transitions deeper into winter.",
-    "color_code": "#7f7f7f",
-    "timestamp": "2024-11-18 01:05:57"
+    "weather_report": "In Evanston, Illinois, the early morning hours are marked by a blanket of dense fog, creating a serene yet mysterious atmosphere. With temperatures nestled in the low 50s, the air feels damp and cool, wrapping around you with a lingering chill. As the night progresses into the day, the forecast predicts patchy fog continuing until sunrise, leading into a morning punctuated by gentle rain showers. Expect a high temperature reaching the mid-50s, accompanied by a shift to east winds that will pick up in intensity, bringing with them gusts that could reach 25 mph.\n\nThe prevailing weather presents a moody, somewhat drizzly day along the shores of Lake Michigan, where the waves might mirror the overcast skies, appearing slightly restless in the wind's push. Given these conditions, it's advisable to dress warmly, perhaps opting for a light jacket or a cozy sweater. The day calls for indoor activities or a stroll with an umbrella at hand, as the rain is anticipated to bring varying amounts throughout the morning. With Thanksgiving just days away, this weather serves as a reminder of the cozy gatherings and warm meals that define the season.",
+    "color_code": "#7b9f20",
+    "timestamp": "2024-11-18 02:07:36"
 }
