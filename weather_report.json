@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-17T23:51:00+00:00",
-            "temperature_f": 57.02,
-            "temperature_c": 13.9,
-            "humidity": 77.340598238695,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 190,
-            "description": "Cloudy"
+            "timestamp": "2024-11-18T01:51:00+00:00",
+            "temperature_f": 53.96,
+            "temperature_c": 12.2,
+            "humidity": 92.993524010865,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 210,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-17T19:00:00-06:00",
+                "startTime": "2024-11-17T20:00:00-06:00",
                 "endTime": "2024-11-18T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
                 "windSpeed": "0 to 5 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
-                "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 46. West northwest wind 0 to 5 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 46. West northwest wind 0 to 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, the atmosphere feels pleasantly cool with dense clouds casting a muted sky. Current temperatures are in the low 60s, combined with a gentle breeze that brings a soothing quality to the air, though it may feel slightly damp. As the night progresses, there\u2019s a slight chance of light rain showers before 8 PM, giving way to a potentially clearer night, with temperatures dropping to the mid 40s.\n\nLooking ahead to tomorrow, expect more substantial rainfall with showers forecasted to arrive after 10 AM, likely making for a rather gray and wet day, particularly as winds shift to the east and could gust up to 30 mph. Despite the moisture and chill, the air remains invigorating, typical for mid-November here. It\u2019s advisable to don a warm, waterproof jacket and sturdy shoes for outdoor ventures, as the bluster and potential for puddles could make navigation tricky. \n\nThese conditions lend themselves well to cozy indoor activities, perhaps a visit to a local caf\u00e9 or bookstore, as the beach and lakefront might be less inviting with choppy waters and looming rain. There are no notable holidays or events today, but with Thanksgiving approaching, the festive spirit may soon be in the air.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-17 19:33:19"
+    "weather_report": "As the evening settles in Evanston, the current weather presents a chilly scene marked by light rain, with temperatures hovering in the low 50s. The air carries a damp coolness that might feel slightly uncomfortable for those venturing outdoors, intensified by gusty winds sweeping in from the west-southwest. Light rain has added a sheen to the landscape, creating a muted atmosphere as the sun descends behind a blanket of clouds. \n\nLooking ahead, tonight will bring a shift to partly cloudy skies with a low dropping into the mid-40s and light winds offering a gentle reprieve from the earlier breeze. On Monday, residents can expect a continuation of unsettled weather marked by rain showers beginning mid-morning, with temperatures crawling up to the mid-50s. A 90% chance of precipitation indicates more rain on the way, with gusts potentially reaching 30 mph, making for a blustery day. Given the cool and damp feel, a warm jacket would be advisable, perhaps complemented by waterproof footwear if you plan to step out. These conditions are typical for mid-November in the Midwest, where one might find activities more suited to cozy indoor settings than outdoor adventures by the lake.",
+    "color_code": "#4b4b4b",
+    "timestamp": "2024-11-17 20:31:40"
 }
