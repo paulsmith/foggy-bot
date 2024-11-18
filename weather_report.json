@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-18T01:51:00+00:00",
-            "temperature_f": 53.96,
-            "temperature_c": 12.2,
-            "humidity": 92.993524010865,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 210,
-            "description": "Light Rain"
+            "timestamp": "2024-11-18T03:51:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 92.934812010123,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-17T21:00:00-06:00",
+                "startTime": "2024-11-17T23:00:00-06:00",
                 "endTime": "2024-11-18T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As we drift deeper into the evening in Evanston, the air hangs cool and damp, a reminder of the light rain that has graced the day. Currently, temperatures linger in the low 50s, accompanied by a gentle, whispering breeze stirring the leaves and the scent of wet earth. The scene is cloaked in a somber ambiance, a mix of moist air and the promise of patchy fog as the night broadens. \n\nLooking ahead, expect a continuation of this damp weather. Tonight, the fog may return after a few hours as clouds partially reveal the night sky, and temperatures will dip into the upper 40s. Tomorrow, the forecast predicts a thicker blanket of clouds with rain showers likely, peaking in the high 50s during the day accompanied by an east wind that could gust up to 30 miles per hour. With precipitation chances hovering at 90%, becoming dreary and soggy seems inevitable.\n\nGiven these conditions, be prepared for a slightly muggy experience tomorrow, and a light jacket or raincoat will serve you well if venturing outside. Ideal for cozy indoor pursuits, it may be best to opt for a quiet afternoon at home with a good book, or if one is adventurous, a stroll along the beach while savoring the refreshing scent of rain-soaked air. Enjoy the evening as another crisp fall night unfolds, with only a few weeks remaining before the holidays bring new cheer and warmth to the season.",
-    "color_code": "#5B5D7A",
-    "timestamp": "2024-11-17 22:06:36"
+    "weather_report": "Tonight in Evanston, the air carries a chill as the temperature drifts into the low 50s, wrapped in a blanket of moisture that lends a damp, misty quality to the atmosphere. As the clock nears 3 a.m., expect patchy fog to cloak the beaches and streets. The gentle, whispering winds will barely rustle the trees, and the sporadic chance of light rain may add a sprinkle to this gray, mostly cloudy backdrop. \n\nLooking ahead to Monday, dawn may arrive with fog lingering until about 7 a.m., but as the day progresses, the clouds will thicken, and rain showers are likely to grace the area, contributing to a risk of scattered rainfall throughout the day. The high will inch towards the mid-50s, accompanied by a brisk east wind adding to the chill. The conditions may feel slightly damp and dreary, reflecting that late autumn vibe typical for this time of year in the Midwest. Therefore, a cozy jacket and perhaps a waterproof layer are prudent choices for those venturing outside. Given the potential drizzle and cooler temperatures, it may be best to keep indoor activities in mind, such as visiting local cafes or cozying up with a good book, especially as we approach the holiday season.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2024-11-17 23:06:19"
 }
