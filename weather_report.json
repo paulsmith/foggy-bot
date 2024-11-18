@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-18T13:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 92.934812010123,
-            "wind_speed_mph": 20.93832,
+            "timestamp": "2024-11-18T14:51:00+00:00",
+            "temperature_f": 53.96,
+            "temperature_c": 12.2,
+            "humidity": 92.993524010865,
+            "wind_speed_mph": 24.964920000000003,
             "wind_direction": 90,
             "description": "Fog/Mist"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-18T10:00:00-06:00",
+                "startTime": "2024-11-18T11:00:00-06:00",
                 "endTime": "2024-11-18T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 90
+                    "value": 100
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "ESE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,90?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers after 11am. Cloudy, with a high near 57. East southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 57. East southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "20 to 25 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,70/tsra,100?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers before 9pm, then showers and thunderstorms. Cloudy, with a low around 56. Southeast wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "A chance of rain showers before 9pm, then showers and thunderstorms. Cloudy, with a low around 56. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a rather gloomy picture, with dense fog hanging over the shoreline and a temperature hovering in the low 50s. The atmosphere feels quite soupy and damp, a stark contrast to what one might expect for mid-November. As the day progresses, expect rain showers to move in after 11 a.m., heralded by a brisk, southeast breeze that will stir up a fair bit of activity, with wind gusts approaching 30 mph. The chance for precipitation stands at a hefty 90%, with rainfall totals potentially reaching half an inch by this evening.\n\nThe day is likely to remain overcast and damp, with temperatures rising to the high 50s before settling back to around 56 overnight, creating a rather uncomfortable and sticky environment. With such high winds and rough waters anticipated on Lake Michigan, wave conditions could be choppy, impacting any waterfront activities. Given the drizzling forecast and the weighty clouds looming overhead, it may be wise to don a waterproof jacket and sturdy shoes if venturing outdoors. This day does not coincide with any major holiday, so local outings may be muted. Instead of beach fun, a warm caf\u00e9 or indoor event would be much more inviting in today's dull and drizzly conditions.",
-    "color_code": "#B8C3B4",
-    "timestamp": "2024-11-18 10:06:10"
+    "weather_report": "Current weather conditions in Evanston present a rather dreary scene, with the temperature lingering in the low 50s and a thick mist enveloping the area. The breeze is brisk and aggressive, creating a cool and clammy atmosphere that feels more uncomfortable than refreshing. Today's weather forecast doesn't offer much hope for improvement; expect continuous rain throughout the day, with cloud cover casting an uninviting gloom. Highs may reach the upper 50s, and persistent winds from the east southeast will be accompanied by gusty bursts that could rock nearby structures.\n\nAs for wave conditions, the water surface appears choppy, ideal for viewing nature's tumult but not for swimming or other beach activities. With the promise of rain and thunderstorms tonight, along with high chances of precipitation throughout the day, it's best to prepare for a wet outing. Dress warmly in layers, including a waterproof jacket, and consider sturdy footwear to stay dry. Given the current season, these conditions are typical for mid-November in the Midwest, where one can expect cool, damp weather. Ideal activities might include cozy afternoons indoors, perhaps visiting local caf\u00e9s or art galleries to escape the chill. Today is a standard day, free from any major holidays or events, yet it presents an opportunity to enjoy a quiet moment away from the stormy weather.",
+    "color_code": "#A9B0B2",
+    "timestamp": "2024-11-18 11:05:07"
 }
