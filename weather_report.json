@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-18T18:00:00-06:00",
+                "startTime": "2024-11-18T19:00:00-06:00",
                 "endTime": "2024-11-19T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a rather dreary scene, with the temperature lingering in the mid-50s, creating a crisp but humid atmosphere as light rain continues to fall. The day is overcast, suffused with a thick mist that mingles with the steady rainfall, making visibility limited along the shoreline of Lake Michigan. A howling wind from the southeast adds to the bluster, lending an unmistakable chill to the air and causing the waves to rise and crash against the beach with a ferocity typical of stormy autumn weather.\n\nLooking ahead to the evening and into tomorrow, rain showers will persist, with temperatures expected to hover around the mid-50s. The winds will remain strong, gusting up to 40 mph, which, combined with the rain, will leave the waterfront feeling uninviting and cold. While tomorrow may bring brief respites from the showers in the early hours, the crafting gray clouds will not easily dissipate, and the temperature will drop slightly by afternoon. Those venturing out should don raincoats or waterproof jackets, along with sturdy footwear fit to contend with wet conditions. \n\nGiven the seasonal chill, today's weather is characteristic of late fall in the Midwest, where temperatures typically start to dip, aligning with the forthcoming Thanksgiving holiday. While the rain may deter outdoor activities, it offers a perfect backdrop for cozying up with a book or enjoying warm drinks indoors, staying dry as the waves continue to rage outside.",
-    "color_code": "#5A5A5A",
-    "timestamp": "2024-11-18 18:22:19"
+    "weather_report": "In Evanston, the scene is set under a blanket of mist and light rain, as the evening current conditions hover in the mid 50s, where the air feels heavy and damp. A fierce breeze sweeps across the beach, whipping the waves into a bubbling froth as they rhythmically crash against the shore, driving a chill through the air that calls for warm layers and waterproof attire. Tonight, rain showers are guaranteed, with temperatures only shifting slightly to a low around the upper 50s. The southeast winds promise gusts that could whip around 40 mph, making for a blustery evening.\n\nAs we look toward the forecasted weather for Tuesday, there's a chance of rain likely to linger until the morning, giving way to mostly cloudy skies and a high near 60\u2014an indication of the changing seasons in this lakeside city. The temperature, typically cool for this time of year, encourages indoor activities, where one can escape the elements with a warm drink or a cozy evening indoors. While the views of Lake Michigan may be obscured by fog, engaging in a thoughtful read or enjoying the quiet hum of the rain might just be the remedy for a chilly November night.",
+    "color_code": "#A8B2BB",
+    "timestamp": "2024-11-18 19:33:08"
 }
