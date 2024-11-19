@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-19T16:51:00+00:00",
-            "temperature_f": 57.02,
-            "temperature_c": 13.9,
-            "humidity": 74.290523029752,
-            "wind_speed_mph": 53.95644000000001,
+            "timestamp": "2024-11-19T20:51:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 60.134185623228,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 240,
-            "description": "Cloudy"
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-19T13:00:00-06:00",
+                "startTime": "2024-11-19T16:00:00-06:00",
                 "endTime": "2024-11-19T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 56 in the afternoon. West southwest wind 10 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 56 in the afternoon. West southwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 3am. Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. West wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,30?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Light Rain",
+                "detailedForecast": "A chance of rain after 3am. Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. West wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly afternoon with temperatures hovering in the mid to high 50s. The air carries a brisk edge, marked by gusty winds sweeping in from the west-southwest, presenting a slightly blustery feel that may deter some from lingering outdoors. The sky hangs heavily, cloaked in clouds with a promise of clearing as the day progresses. As evening approaches, the temperature is expected to dip toward the low 40s, with the slight possibility of rain showers surfacing after 3 AM.\n\nDespite the impending coolness of the night, today bears a moderately pleasant aspect, framed by the shifting light and the muted shimmer of Lake Michigan. However, as the waves meet the shoreline, they are calm but might chop up later with increased winds. For those venturing outside, layering is advisable; a light jacket or sweater would suffice for the current coolness, complemented by a hat to shield against the drizzle that might come later. This time of year typically ushers in cooler temperatures, and today's weather aligns closely with seasonal norms. Given the brisk air, invigorating walks along the beach or visits to local cafes may be the perfect way to embrace this quintessential late autumn day.",
-    "color_code": "#4a6b8c",
-    "timestamp": "2024-11-19 13:04:57"
+    "weather_report": "As evening descends on Evanston, the weather presents a crisp and cool atmosphere, with current temperatures lingering in the low 60s. The gentle breeze from the west-southwest carries a hint of invitational warmth yet stirs a refreshing coolness, making outdoor activities delightful but perhaps a bit brisk for some without adequate layers. Partly cloudy skies allow glimpses of the fading sun, casting a gentle glow over the landscape as daylight wanes.\n\nLooking ahead into the evening, the forecast suggests a transition to mostly cloudy skies, with temperatures dipping into the low 40s, potentially punctuated by a chance of rain after 3 AM. Thus, if you're venturing out this evening, consider a warm jacket and perhaps a light raincoat, as those storm clouds may roll in. The lake's surface should display relatively mild wave conditions, suitable for a calm evening stroll along the shore but perhaps not ideal for more vigorous water activities. Such conditions beckon for quiet walks, reflecting on a serene lakeside, as the warmth of the day softly gives way to the cool embrace of night.",
+    "color_code": "#B7D1E6",
+    "timestamp": "2024-11-19 16:04:57"
 }
