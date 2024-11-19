@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-19T07:37:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 89.575248781927,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 150,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2024-11-19T08:16:00+00:00",
+            "temperature_f": 60.08,
+            "temperature_c": 15.6,
+            "humidity": 86.191267982613,
+            "wind_speed_mph": 66.03624,
+            "wind_direction": 160,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-19T03:00:00-06:00",
+                "startTime": "2024-11-19T04:00:00-06:00",
                 "endTime": "2024-11-19T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 50
                 },
                 "windSpeed": "25 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Cloudy. Low around 55, with temperatures rising to around 57 overnight. South southeast wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy. Low around 55, with temperatures rising to around 57 overnight. South southeast wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a dusky scene as light rain and fog create a wet atmosphere along the lakeshore. With temperatures hovering in the upper 50s and an oppressive dampness in the air, the evening feels slightly muggy and chilly, not quite inviting for outdoor activities. A fierce wind sweeps through the area, gusting around 58 miles per hour, adding a howling tone to the night. The combination of the rain and haze dims visibility, rendering the beach view obscured and dreary.\n\nLooking ahead to Tuesday, the forecast suggests a continuation of unsettled weather. Expect a chance of early morning rain showers, followed by a mostly cloudy day with temperatures peaking near the low 60s before falling slightly in the afternoon. Winds will remain gusty, maintaining their blustery character, promising a brisk day despite a slight chance of lingering rainfall. As such, while outdoor promenades might tempt residents and visitors alike, tempered attire should include waterproof layers to brace against the elements, with thicker clothing advisable for comfort against the coolness. The emerging chill and wind make it a day better suited for indoor pursuits, perhaps visiting local cafes or cultural spots, especially as the holiday season approaches, bringing a spirit of warmth and togetherness to the community.",
-    "color_code": "#606060",
-    "timestamp": "2024-11-19 03:05:53"
+    "weather_report": "Current conditions in Evanston reveal a rather thick fog enveloping the area, with temperatures resting in the low 60s. The air feels slightly muggy, making for a rather sticky atmosphere as the breeze sweeps in from the southeast, strong enough to create a noticeable chill. The day ahead predicts increasing cloud cover and the potential for rain showers, particularly overnight, with a low settling around the mid-50s and winds blowing briskly at 25 mph, gusting even higher. \n\nAs we look forward to Tuesday, it seems the chance of rain showers will linger but may dissipate by late morning, with a high expected in the low 60s, gradually cooling by afternoon. The waves on Lake Michigan are likely to be choppy given the strong winds. With potentially wet conditions ahead, dressing in layers and preparing for rain would be wise, perhaps favoring waterproof attire. This time of year, mid-November in the Chicago area, the temperatures are typical, reflecting the seasonal transition with a somber, yet picturesque coastal ambiance. While outdoor activities might be limited due to the weather, a brisk walk along the beach or indulging in local coffee shops while waiting out the rain could provide a pleasant experience on this moody day.",
+    "color_code": "#A4B5B3",
+    "timestamp": "2024-11-19 04:06:04"
 }
