@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-19T10:51:00+00:00",
-            "temperature_f": 60.980000000000004,
-            "temperature_c": 16.1,
-            "humidity": 89.659105457718,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 170,
+            "timestamp": "2024-11-19T11:51:00+00:00",
+            "temperature_f": 62.059999999999995,
+            "temperature_c": 16.7,
+            "humidity": 77.771170508303,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-19T06:00:00-06:00",
+                "startTime": "2024-11-19T07:00:00-06:00",
                 "endTime": "2024-11-19T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -30,10 +30,10 @@
                     "value": 30
                 },
                 "windSpeed": "15 to 25 mph",
-                "windDirection": "SSW",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/wind_bkn?size=medium",
                 "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-                "detailedForecast": "A chance of rain showers before 9am. Mostly cloudy. High near 60, with temperatures falling to around 56 in the afternoon. South southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers before 9am. Mostly cloudy. High near 60, with temperatures falling to around 56 in the afternoon. Southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the atmosphere is a bit blustery as temperatures hover in the low 60s, creating a somewhat cool ambiance that feels heavier due to the overcast skies and increased moisture in the air. The winds are howling from the south-southwest, contributing to a restless feeling along the beach as waves lap against the shore. Today\u2019s weather calls for mostly cloudy conditions with a chance of rain showers earlier in the day, though these should clear up somewhat as we progress into the afternoon. Expect a high nearing 60 before temperatures dip slightly to the mid-50s later on.\n\nAs the sun sets tonight, a few sprinkles may emerge around 3 AM, but overall, the evening will be primarily cloudy with temperatures cooling down to the low 40s. Those venturing outdoors should consider wearing layers to stay warm, especially with the brisk winds and potential for a light jacket to keep comfortable. While the atmosphere might not lend itself to beach lounging, it could be an ideal day for a brisk walk along the shore or enjoying the cozy confines of a local caf\u00e9. This time of year is typical for Evanston, where the chill signifies the approach of winter, making these autumn days a fleeting treasure.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2024-11-19 06:08:48"
+    "weather_report": "Good morning, Evanston. As dawn breaks over Lake Michigan, the current weather presents cloudy skies with a temperature nestled comfortably in the low 60s. The air carries a coolness, interlaced with a slight stickiness, typical for this season. Conditions remain relatively calm, with only a gentle breeze brushing against the shoreline. \n\nLooking ahead, the day is expected to feature mostly cloudy skies, with a brief chance of rain showers before morning gives way to afternoon. Temperatures will gradually dip to the mid 50s, adding a touch of chill as the day unfolds, further enhanced by gusty winds reaching up to 25 mph, along with stronger gusts later. While the chance of precipitation looms at about 30%, any rainfall is likely to be light. This weather encourages layered attire, suggesting a light jacket or sweater to keep the crispness at bay as temperatures hover around the season's norms.\n\nFor those looking to take advantage of the coastal scenery, an afternoon stroll along the beach could provide solace, though it's best to be prepared for potential showers. Winds should create moderate waves on the lake, making it a fitting backdrop for contemplative moments or a brisk walk. As we embrace this mid-November day, keep an eye out for the sky's movements and remember to enjoy the beautiful, albeit cloudy, embrace of our lakeside environment.",
+    "color_code": "#A1B2C3",
+    "timestamp": "2024-11-19 07:11:01"
 }
