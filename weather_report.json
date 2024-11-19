@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-18T21:51:00+00:00",
-            "temperature_f": 55.04,
-            "temperature_c": 12.8,
-            "humidity": 100,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2024-11-19T01:27:00+00:00",
+            "temperature_f": 57.02,
+            "temperature_c": 13.9,
+            "humidity": 96.172950694716,
+            "wind_speed_mph": 53.95644000000001,
             "wind_direction": 120,
-            "description": "Light Rain and Fog/Mist"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-18T19:00:00-06:00",
+                "startTime": "2024-11-18T20:00:00-06:00",
                 "endTime": "2024-11-19T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "15 to 25 mph",
+                "windSpeed": "20 to 25 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,100?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a low around 56. Southeast wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain showers after 11pm. Cloudy, with a low around 56. Southeast wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the scene is set under a blanket of mist and light rain, as the evening current conditions hover in the mid 50s, where the air feels heavy and damp. A fierce breeze sweeps across the beach, whipping the waves into a bubbling froth as they rhythmically crash against the shore, driving a chill through the air that calls for warm layers and waterproof attire. Tonight, rain showers are guaranteed, with temperatures only shifting slightly to a low around the upper 50s. The southeast winds promise gusts that could whip around 40 mph, making for a blustery evening.\n\nAs we look toward the forecasted weather for Tuesday, there's a chance of rain likely to linger until the morning, giving way to mostly cloudy skies and a high near 60\u2014an indication of the changing seasons in this lakeside city. The temperature, typically cool for this time of year, encourages indoor activities, where one can escape the elements with a warm drink or a cozy evening indoors. While the views of Lake Michigan may be obscured by fog, engaging in a thoughtful read or enjoying the quiet hum of the rain might just be the remedy for a chilly November night.",
-    "color_code": "#A8B2BB",
-    "timestamp": "2024-11-18 19:33:08"
+    "weather_report": "The conditions in Evanston paint a picture of a chilly and misty evening, with temperatures hovering in the upper 50s. There's a thick fog enveloping the area, contributing to an atmosphere that's both damp and slightly uncomfortable, especially with the howling winds sweeping across the beach from the southeast. These gusts, reaching nearly 54 miles per hour, whip through the air, making the shoreline a challenging place for any evening stroll.\n\nAs night deepens, rain showers are anticipated after 11 PM, with a certainty of precipitation approaching 100%. With cloudy skies forecasted for Tuesday and a brief chance of lingering rain in the morning, residents might experience a continuing dampness throughout the day, with highs only crawling up to the mid to upper 50s. The choppy waves of Lake Michigan may be quite robust, making the shoreline unwelcoming for water activities. Given these conditions, layering is advisable\u2014think warm and waterproof, perhaps even boots if venturing out. As we are nearing the season's end, this typical November chill and moisture remind us of the Midwest's upcoming winter months. For those considering outdoor plans, it may be wise to stay indoors or enjoy cozy activities at home, avoiding the treacherous elements that await outside.",
+    "color_code": "#5c5c5c",
+    "timestamp": "2024-11-18 20:30:35"
 }
