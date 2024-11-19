@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-19T03:51:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 89.575248781927,
-            "wind_speed_mph": 57.98304000000001,
+            "timestamp": "2024-11-19T04:51:00+00:00",
+            "temperature_f": 60.08,
+            "temperature_c": 15.6,
+            "humidity": 83.421885156152,
+            "wind_speed_mph": 66.03624,
             "wind_direction": 130,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-18T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-19T00:00:00-06:00",
                 "endTime": "2024-11-19T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "20 to 25 mph",
+                "windSpeed": "25 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30/tsra,100?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "A chance of rain before midnight, then rain and a slight chance of thunderstorms. Cloudy. Low around 55, with temperatures rising to around 58 overnight. South southeast wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain and a slight chance of thunderstorms. Cloudy. Low around 55, with temperatures rising to around 58 overnight. South southeast wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "15 to 25 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/bkn?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/wind_bkn?size=medium",
                 "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-                "detailedForecast": "A chance of rain showers before 9am. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. South southwest wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers before 9am. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. South southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the evening settles in Evanston, the air carries a cool, slightly damp chill, typical for this time of year. Currently, temperatures hover in the upper 50s, complemented by a dense cloud cover. The wind is quite gusty, swirling in from the southeast, causing a brisk sensation as it brushes against the skin. A chance of rain looms large, with conditions predicted to deteriorate further into the night, where heavy rain and possible thunderstorms await residents. New rainfall could reach a half inch, creating a rather soggy environment by morning.\n\nTomorrow morning brings the possibility of lingering showers before 9 AM, though a break in the clouds may provide some relief before more clouds drift back in. Expect a high temperature around the upper 50s, with a steady, gentle breeze that may become gusty at times. Overall, the scene outside is not inviting, as waves on the lake churn restlessly, influenced by the strong winds\u2014a sight not suited for leisurely beach activities. Given the upcoming storms and the abrupt shift in weather patterns, it\u2019s advisable to wear a raincoat and sturdy footwear if venturing outdoors. As November unfolds, these conditions reflect the typical transition toward colder weather in the Midwest, reminding us that winter is just around the corner.",
-    "color_code": "#8B9DA8",
-    "timestamp": "2024-11-18 23:05:45"
+    "weather_report": "Evanston is currently enveloped in a murky ambiance with temperatures hovering in the low 60s, and the air feels notably damp, creating a somewhat oppressive atmosphere. The wind is howling from the southeast, adding to the chill and restlessness of the night as clouds shroud the sky. Rain is imminent, with forecasts indicating a heavy downpour overnight, potentially accompanied by thunderstorms, as temperatures are expected to dip to the mid-50s.\n\nLooking ahead to Tuesday, the day will begin with a lingering chance of rain showers before dawn, gradually transitioning to mostly cloudy skies for the afternoon. The high will struggle to reach the upper 50s, with a brisk breeze continuing to sweep through the area. Considering the season, this overall weather pattern is typical for late fall in the Midwest, where cool, damp conditions prevail. Given these circumstances, one might consider wearing waterproof attire and sturdy shoes if venturing outdoors. As for activities, the weather may not be conducive to outdoor excursions; perhaps a cozy indoor outing or catching up on reading would provide the perfect respite from the impending rain.",
+    "color_code": "#7C7C7C",
+    "timestamp": "2024-11-19 00:07:22"
 }
