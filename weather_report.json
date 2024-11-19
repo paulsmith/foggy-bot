@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-19T08:00:00-06:00",
+                "startTime": "2024-11-19T10:00:00-06:00",
                 "endTime": "2024-11-19T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
                 "windSpeed": "15 to 25 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/wind_bkn?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
-                "detailedForecast": "A slight chance of rain showers before 9am. Mostly cloudy. High near 60, with temperatures falling to around 56 in the afternoon. Southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. High near 60, with temperatures falling to around 56 in the afternoon. Southwest wind 15 to 25 mph, with gusts as high as 35 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston reveals a rather muted beauty, where temperatures hover in the low 60s, creating a pleasantly cool atmosphere, albeit with a touch of dampness in the air. The day is predominantly cloudy, and while there's a slight chance of rain this morning, conditions are more likely to remain dry as we progress into the afternoon. Expect high temperatures to drop to around the mid-50s, accompanied by blustery winds gusting up to 40 mph, stirring up the air and creating a breezy environment. Tonight promises more cloud cover with a minor chance of light rain after 3 AM, as temperatures settle into the low 40s.\n\nWave conditions on Lake Michigan may be somewhat choppy given the strong winds, making it less than ideal for swimming or leisurely boating. Attire should aim for comfort; a light jacket or sweater might be necessary as the temperatures dip, especially later in the evening. This kind of weather is typical for this time of year, where autumn wraps its cooling embrace around the region. As we transition towards the holiday season, it\u2019s a fine opportunity to enjoy the beauty of lakefront walks or visit a nearby caf\u00e9, soaking in the season's ambiance. Though today is not a recognized holiday, the approach of Thanksgiving in a few days hints at the gathering sentiments and festive spirit just around the corner.",
-    "color_code": "#A3B3C4",
-    "timestamp": "2024-11-19 09:05:32"
+    "weather_report": "In Evanston today, conditions are marked by a persistent cloud cover, with temperatures currently lingering in the low 60s, creating a slightly muggy atmosphere that may lead some to seek shelter from the dampness. As the day unfolds, expect a mix of sun and cloudiness, with temperatures gradually sinking toward the mid 50s by the afternoon. Winds will pick up significantly, becoming blustery from the southwest, humming in at speeds around 15 to 25 mph, with gusts reaching up to 35 mph.\n\nTonight will introduce a slight chance of rain showers after 3 AM, culminating in a mostly cloudy night where temperatures dip into the low 40s. The air will feel cooler under the west winds, which will remain gently persistent. Given the season, these temperatures are typical for mid-November in the northern Midwest, making it a cool time of year. For those venturing outside, layering is advisable, favoring lighter jackets or sweaters to accommodate the cooling air. The wave conditions on Lake Michigan may present a few rolling swells, perfect for a brisk stroll along the shoreline or an invigorating jog. As this Sunday is neither a holiday nor an election day, it's a fine opportunity for local outdoor endeavors before the weather turns later in the week.",
+    "color_code": "#A3B2C4",
+    "timestamp": "2024-11-19 10:06:20"
 }
