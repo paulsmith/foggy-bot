@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-19T20:51:00+00:00",
-            "temperature_f": 62.959999999999994,
-            "temperature_c": 17.2,
-            "humidity": 60.134185623228,
-            "wind_speed_mph": 45.903240000000004,
+            "timestamp": "2024-11-19T21:51:00+00:00",
+            "temperature_f": 60.980000000000004,
+            "temperature_c": 16.1,
+            "humidity": 64.486025639597,
+            "wind_speed_mph": 53.95644000000001,
             "wind_direction": 240,
-            "description": "Partly Cloudy"
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-19T16:00:00-06:00",
+                "startTime": "2024-11-19T17:00:00-06:00",
                 "endTime": "2024-11-19T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 60,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 56 in the afternoon. West southwest wind around 10 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 57 in the afternoon. West southwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening descends on Evanston, the weather presents a crisp and cool atmosphere, with current temperatures lingering in the low 60s. The gentle breeze from the west-southwest carries a hint of invitational warmth yet stirs a refreshing coolness, making outdoor activities delightful but perhaps a bit brisk for some without adequate layers. Partly cloudy skies allow glimpses of the fading sun, casting a gentle glow over the landscape as daylight wanes.\n\nLooking ahead into the evening, the forecast suggests a transition to mostly cloudy skies, with temperatures dipping into the low 40s, potentially punctuated by a chance of rain after 3 AM. Thus, if you're venturing out this evening, consider a warm jacket and perhaps a light raincoat, as those storm clouds may roll in. The lake's surface should display relatively mild wave conditions, suitable for a calm evening stroll along the shore but perhaps not ideal for more vigorous water activities. Such conditions beckon for quiet walks, reflecting on a serene lakeside, as the warmth of the day softly gives way to the cool embrace of night.",
-    "color_code": "#B7D1E6",
-    "timestamp": "2024-11-19 16:04:57"
+    "weather_report": "As evening sets in over Evanston, the current conditions reveal a crisp yet soothing charm, with temperatures in the low 60s and a light breeze stirring through the air. The sky is mostly clear, providing a broad view of the fading daylight and transitioning hues. Tonight, the forecast hints at a shift, with clouds rolling in and a possibility of rain after 3 AM, dropping temperatures to the low 40s. The winds will shift to a gentle westerly flow, occasionally gusting, ensuring a brisk feel as the night progresses.\n\nWave conditions along Lake Michigan are likely to remain calm to moderate, reflecting the gentle swells typical of this time of year. Although the current dialogue of the weather suggests a pleasant outdoor experience, hasty departures may be thwarted by the expected precipitation. Therefore, layered clothing is advisable\u2014perhaps a light jacket to fend off the cool air, complemented by a scarf or hat as temperatures dip. Given the setting, tonight presents an ideal opportunity for a stroll or perhaps settling into a cozy caf\u00e9 to enjoy the onset of the season\u2019s chill\u2014though keep an eye on the clouds, as they promise to bring some evening moisture.",
+    "color_code": "#B3C5D9",
+    "timestamp": "2024-11-19 17:05:06"
 }
