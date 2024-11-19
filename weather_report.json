@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-19T04:51:00+00:00",
-            "temperature_f": 60.08,
-            "temperature_c": 15.6,
-            "humidity": 83.421885156152,
-            "wind_speed_mph": 66.03624,
+            "timestamp": "2024-11-19T05:51:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 89.575248781927,
+            "wind_speed_mph": 53.95644000000001,
             "wind_direction": 130,
-            "description": "Cloudy"
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-19T00:00:00-06:00",
+                "startTime": "2024-11-19T01:00:00-06:00",
                 "endTime": "2024-11-19T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "25 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,100?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain and a slight chance of thunderstorms. Cloudy. Low around 55, with temperatures rising to around 58 overnight. South southeast wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain. Cloudy. Low around 55, with temperatures rising to around 58 overnight. South southeast wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently enveloped in a murky ambiance with temperatures hovering in the low 60s, and the air feels notably damp, creating a somewhat oppressive atmosphere. The wind is howling from the southeast, adding to the chill and restlessness of the night as clouds shroud the sky. Rain is imminent, with forecasts indicating a heavy downpour overnight, potentially accompanied by thunderstorms, as temperatures are expected to dip to the mid-50s.\n\nLooking ahead to Tuesday, the day will begin with a lingering chance of rain showers before dawn, gradually transitioning to mostly cloudy skies for the afternoon. The high will struggle to reach the upper 50s, with a brisk breeze continuing to sweep through the area. Considering the season, this overall weather pattern is typical for late fall in the Midwest, where cool, damp conditions prevail. Given these circumstances, one might consider wearing waterproof attire and sturdy shoes if venturing outdoors. As for activities, the weather may not be conducive to outdoor excursions; perhaps a cozy indoor outing or catching up on reading would provide the perfect respite from the impending rain.",
-    "color_code": "#7C7C7C",
-    "timestamp": "2024-11-19 00:07:22"
+    "weather_report": "Current conditions in Evanston reveal a distinctly damp and cool atmosphere, with light rain adding to the brisk feel. The temperature hovers in the upper 50s, creating a rather sticky sensation as the humidity lingers, and the wind whistles fiercely at close to 54 miles per hour. Overnight, expect rain to persist, with temperatures gradually rising into the low 60s and a strong south-southeast breeze propelling the moisture across the area. As Tuesday approaches, the chance of rain continues, but it may relent slightly in the morning, giving way to a mostly cloudy sky, with temperatures peaking once again in the upper 50s. \n\nGiven the inclement weather, the beach scene takes on a somber tone, with high wave action potentially stirring up Lake Michigan, making it an uninviting time for activities by the shore. Those venturing outdoors should dress warmly, opting for waterproof gear to combat the rain and wind. With the climate leaning toward the cooler side typical of late fall in the Midwest, many may find this weather less than ideal for outdoor plans. As for activities, it would be wiser to seek indoor pursuits like visiting local museums or cozy cafes to escape the chill and rain. Remember, there are no major holidays on the horizon, but as we inch closer to Thanksgiving in just a few days, preparations for gatherings may begin to stir in the area.",
+    "color_code": "#5B5C9A",
+    "timestamp": "2024-11-19 01:05:51"
 }
