@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-19T01:51:00+00:00",
-            "temperature_f": 57.02,
-            "temperature_c": 13.9,
-            "humidity": 96.172950694716,
-            "wind_speed_mph": 53.95644000000001,
+            "timestamp": "2024-11-19T03:51:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 89.575248781927,
+            "wind_speed_mph": 57.98304000000001,
             "wind_direction": 130,
-            "description": "Fog/Mist"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-18T21:00:00-06:00",
+                "startTime": "2024-11-18T23:00:00-06:00",
                 "endTime": "2024-11-19T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -30,10 +30,10 @@
                     "value": 100
                 },
                 "windSpeed": "20 to 25 mph",
-                "windDirection": "SE",
+                "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,30/tsra,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "A chance of rain between 11pm and midnight, then rain and a slight chance of thunderstorms. Cloudy. Low around 55, with temperatures rising to around 58 overnight. Southeast wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "A chance of rain before midnight, then rain and a slight chance of thunderstorms. Cloudy. Low around 55, with temperatures rising to around 58 overnight. South southeast wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather is a mix of chill and dampness, with temperatures hovering in the mid 50s and a thick blanket of mist creating a hazy atmosphere. The air feels quite heavy and moist as the wind howls from the southeast, giving the shoreline a somewhat unruly air. As night falls, cloudy skies will prevail, with a significant chance of rain starting late this evening and continuing into the night\u2014expect conditions to be quite unsettled and perhaps a little stormy, with unmistakable rumblings of thunder possible.\n\nAs we look ahead, tomorrow should see more rain showers early in the day, transitioning to mostly cloudy conditions. With highs near 60 but dipping in the afternoon, the overall feel will remain cool but somewhat dreary. These late autumn temperatures align closely with seasonal expectations, as the region begins its descent into the colder months. Given the forecast, wearing a raincoat and waterproof footwear is advisable, along with layers for warmth against the brisk winds. Outdoor activities may be better suited for another time, as the impending rain and wind will likely make a leisurely day by the lake a soggy affair; a cozy indoor setting would be best for reading or relaxing, particularly given that we\u2019re nearing the holiday season and should soon embrace the festive spirit.",
-    "color_code": "#4e54a4",
-    "timestamp": "2024-11-18 22:06:47"
+    "weather_report": "As the evening settles in Evanston, the air carries a cool, slightly damp chill, typical for this time of year. Currently, temperatures hover in the upper 50s, complemented by a dense cloud cover. The wind is quite gusty, swirling in from the southeast, causing a brisk sensation as it brushes against the skin. A chance of rain looms large, with conditions predicted to deteriorate further into the night, where heavy rain and possible thunderstorms await residents. New rainfall could reach a half inch, creating a rather soggy environment by morning.\n\nTomorrow morning brings the possibility of lingering showers before 9 AM, though a break in the clouds may provide some relief before more clouds drift back in. Expect a high temperature around the upper 50s, with a steady, gentle breeze that may become gusty at times. Overall, the scene outside is not inviting, as waves on the lake churn restlessly, influenced by the strong winds\u2014a sight not suited for leisurely beach activities. Given the upcoming storms and the abrupt shift in weather patterns, it\u2019s advisable to wear a raincoat and sturdy footwear if venturing outdoors. As November unfolds, these conditions reflect the typical transition toward colder weather in the Midwest, reminding us that winter is just around the corner.",
+    "color_code": "#8B9DA8",
+    "timestamp": "2024-11-18 23:05:45"
 }
