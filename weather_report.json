@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-19T01:00:00-06:00",
+                "startTime": "2024-11-19T02:00:00-06:00",
                 "endTime": "2024-11-19T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 70
                 },
                 "windSpeed": "25 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy. Low around 55, with temperatures rising to around 58 overnight. South southeast wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,70?size=medium",
+                "shortForecast": "Rain Likely",
+                "detailedForecast": "Rain likely. Cloudy. Low around 55, with temperatures rising to around 58 overnight. South southeast wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a distinctly damp and cool atmosphere, with light rain adding to the brisk feel. The temperature hovers in the upper 50s, creating a rather sticky sensation as the humidity lingers, and the wind whistles fiercely at close to 54 miles per hour. Overnight, expect rain to persist, with temperatures gradually rising into the low 60s and a strong south-southeast breeze propelling the moisture across the area. As Tuesday approaches, the chance of rain continues, but it may relent slightly in the morning, giving way to a mostly cloudy sky, with temperatures peaking once again in the upper 50s. \n\nGiven the inclement weather, the beach scene takes on a somber tone, with high wave action potentially stirring up Lake Michigan, making it an uninviting time for activities by the shore. Those venturing outdoors should dress warmly, opting for waterproof gear to combat the rain and wind. With the climate leaning toward the cooler side typical of late fall in the Midwest, many may find this weather less than ideal for outdoor plans. As for activities, it would be wiser to seek indoor pursuits like visiting local museums or cozy cafes to escape the chill and rain. Remember, there are no major holidays on the horizon, but as we inch closer to Thanksgiving in just a few days, preparations for gatherings may begin to stir in the area.",
-    "color_code": "#5B5C9A",
-    "timestamp": "2024-11-19 01:05:51"
+    "weather_report": "Current conditions in Evanston reveal a blustery scene, with light rain falling and temperatures settling into the upper 50s, creating a damp and slightly chilly atmosphere. With gusty winds tearing through at nearly 54 miles per hour, the surroundings may feel quite fierce, and the overcast skies add to the somber mood, making it less than ideal for outdoor enjoyment. Rain is forecasted to continue overnight, with a low dropping to around 55 degrees and temperatures slowly rising by morning, setting the stage for a gray and drizzly start to the new day.\n\nAs Tuesday unfolds, expect a chance of light rain showers before mid-morning, alongside mostly cloudy skies. The high will hover around the upper 50s, typical for late autumn in this region, as temperatures gradually decline in the afternoon. Wave conditions along the lakeshore may be robust, a reflection of the howling winds, possibly churning the waters of Lake Michigan. Those heading outdoors are advised to wear layers, including a waterproof jacket, and sturdy footwear to combat the soggy terrain. With today not designated as a notable holiday, it\u2019s best to keep indoor plans in mind, perhaps visiting local cafes or museums rather than braving the elements outside.",
+    "color_code": "#6E7B8A",
+    "timestamp": "2024-11-19 02:07:14"
 }
