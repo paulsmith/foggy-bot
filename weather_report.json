@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-20T15:51:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 65.200583476966,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 250,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-20T16:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 45.500362277602,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 260,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-20T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-20T12:00:00-06:00",
                 "endTime": "2024-11-20T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 48,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 40
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "20 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,40?size=medium",
-                "shortForecast": "Partly Sunny then Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers after 3pm. Partly sunny. High near 48, with temperatures falling to around 40 in the afternoon. West southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
+                "shortForecast": "Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers after 3pm. Partly sunny. High near 48, with temperatures falling to around 40 in the afternoon. West southwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston today, the weather is characterized by a brisk chill, with temperatures hovering in the mid 40s, wrapping the lakeshore in a cool embrace. Skies are mostly cloudy, though there\u2019s a hint of sunshine breaking through, as the gentle whispers of wind from the west southwest stir the air, adding an invigorating chill that elevates the overall experience. As we head into the afternoon, conditions are expected to shift, with scattered rain showers anticipated after 3 PM. The high will reach near 48, but a gradual drop will lead most to feel the chill intensify.\n\nWith the evening approaching, watch for the clouds to gather further, ushering in a likely mix of scattered snow showers during the night. Wind speeds will maintain a fierce quality, gusting up to 30 mph, contributing to a biting feel as temperatures dip to around the low 30s. While little to no accumulation is expected from this light snowfall, your outer layers will be necessary to stave off the evening\u2019s chill. Given the seasonal context of late November in the Midwest, these temperatures are typical yet certainly remind us that winter is at the door. Ideal activities might include a cozy afternoon indoors or a brisk waterfront walk clad in sturdy jackets, before settling in for a warm evening.",
-    "color_code": "#A2B2C8",
-    "timestamp": "2024-11-20 11:05:39"
+    "weather_report": "Current weather conditions in Evanston, Illinois present a brisk and cool atmosphere, with temperatures in the mid-40s and a fresh breeze making the air feel invigorating. The sky bears scattered clouds, allowing some sunshine to peek through, though changing conditions are on the horizon with expected rain showers this afternoon, particularly after 3 PM, as temperatures will gradually dip to the low 40s. Winds are fairly strong from the west southwest, gusting significantly, giving the day a blustery character. \n\nAs the evening approaches, clouds will thicken with scattered snow showers likely, and temperatures will settle around the low 30s. Precipitation chances rise, suggesting an active sky ahead but little to no accumulation for the snowfall. The shoreline might not be the ideal spot for leisure activities today, given the winds and potential showers; however, it might offer a beautiful backdrop for a brisk walk. For those venturing out, wearing layers with a warm coat, hat, and gloves is advisable, paired with sturdy footwear to navigate any wet terrain. Today\u2019s temperatures are typical for late November in the Midwest, capturing that distinctly cool and transitional season feel.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-20 12:07:09"
 }
