@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-20T05:00:00-06:00",
-                "endTime": "2024-11-20T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Rain",
-                "detailedForecast": "A slight chance of rain. Cloudy. Low around 42, with temperatures rising to around 44 overnight. West wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2024-11-20T06:00:00-06:00",
                 "endTime": "2024-11-20T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,60/rain_showers,40?size=medium",
                 "shortForecast": "Rain Likely then Chance Rain Showers",
                 "detailedForecast": "Rain likely before 9am, then a chance of rain showers. Partly sunny. High near 48, with temperatures falling to around 40 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-20T18:00:00-06:00",
+                "endTime": "2024-11-21T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 31,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/snow,60?size=medium",
+                "shortForecast": "Snow Showers Likely",
+                "detailedForecast": "Rain showers likely before 7pm, then snow showers likely. Cloudy, with a low around 31. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the air carries a crisp chill, with temperatures settling in the mid-40s and moisture enhancing that brisk feeling. The sky is mostly cloudy, casting a dim light over the beach area, which is currently free from any precipitation but with a hint of rain expected overnight. The breeze is gusty, rattling through the trees and perhaps stirring up some waves along the shore. \n\nLooking ahead to the day, rain is likely to arrive before morning commutes, transitioning to a chance of showers that could pepper the rest of the day. Expect a high in the upper 40s, with temperatures gradually falling in the afternoon, all accompanied by brisk winds that will make it feel even cooler. In this late autumn setting, the weather is slightly below seasonal norms for late November, yet not entirely unexpected for this time of year. \n\nGiven these conditions, it\u2019s wise to dress warmly in layers, perhaps opting for a waterproof jacket should the rain sweep through as predicted. While the beach may not seem inviting for a swim, a refreshing walk along the shore could be a brisk way to enjoy the season\u2019s charm, provided one is prepared for variable conditions. It's a typical day in November, where the chill reminds us that winter is inching closer.",
-    "color_code": "#7A7D7F",
-    "timestamp": "2024-11-20 05:04:48"
+    "weather_report": "Current conditions in Evanston present a chilly and damp morning, with a temperature hovering in the low 40s. The air carries a brisk wind from the west, adding to the slightly raw feel of the day. The sky is mostly cloudy, hinting at the likelihood of rain, particularly before mid-morning, before transitioning to rain showers later in the day. Expect temperatures to peak around the upper 40s, yet cool down to the low 40s as the afternoon settles in.\n\nLooking ahead, tonight promises a possibility of rain showers turning into snow, with a low dipping into the low 30s. With the gusty winds stirring, the atmosphere will feel quite blustery, leading to choppy wave conditions on Lake Michigan, which may not be ideal for any recreational activities involving the water. Given the forecast, dressing warmly in layers with a waterproof jacket is advisable to navigate the wet and chilly elements, while boots may come in handy for those heading outside. This late autumn weather pattern is typical for this time of year in the Midwest, as we approach the seasonal transition to winter. Ideal activities for today might include snug indoor gatherings or visits to local caf\u00e9s, where one can enjoy a warm drink while watching the changing weather outside.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-11-20 06:08:42"
 }
