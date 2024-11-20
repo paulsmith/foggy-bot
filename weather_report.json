@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-20T12:08:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 75.890852100197,
+            "timestamp": "2024-11-20T13:51:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 75.992645524942,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 310,
-            "description": ""
+            "wind_direction": 220,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-20T08:00:00-06:00",
+                "startTime": "2024-11-20T09:00:00-06:00",
                 "endTime": "2024-11-20T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 48,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain then Chance Rain Showers",
-                "detailedForecast": "A chance of rain before 9am, then a chance of rain showers. Partly sunny. High near 48, with temperatures falling to around 40 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,40?size=medium",
+                "shortForecast": "Partly Sunny then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 3pm. Partly sunny. High near 48, with temperatures falling to around 40 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a cool atmosphere, marked by temperatures in the low 40s and a rather breezy demeanor, with winds whipping in from the west at about 25 mph, creating a brisk feel as one steps outside. The skies are overcast, casting a muted light over the beach, where the calm lake reflects the somber sky. As the day unfolds, there\u2019s a likelihood of precipitation as light rain gives way to potential snow showers later on, especially this evening, with temperatures expected to dip into the low 30s.\n\nThe forecast suggests a day of changing weather, starting with a chance of rain in the morning, which could make the scene appear gloomy and wet. The wave conditions in the lake are likely to be gentle, making it a less-than-ideal time for boating or water activities. Those venturing outdoors should consider warm layers, due to the chill in the air combined with the brisk winds. It's a typical day for late November in this region, as folks prepare for the impending winter. Given the current time frame, staying cozy indoors with a book or engaging in local coffee shop explorations might be the most delightful way to enjoy the day.",
-    "color_code": "#A3B7C2",
-    "timestamp": "2024-11-20 08:05:12"
+    "weather_report": "In Evanston, the day begins under cloudy skies, with temperatures hovering in the low 40s. The air carries a chill, made more pronounced by a brisk, gusty wind. Despite the coolness, the atmosphere is invigorating, perfect for those who enjoy a bracing walk along the beach. The waves on Lake Michigan are likely moderate today, with a steady rhythm, ideal for observation although not quite conducive for swimming.\n\nAs the day unfolds, expect a chance of rain showers in the afternoon, particularly after 3 PM, with a high near 48. The forecast suggests that temperatures will dip again as the day progresses, falling back to around 40, transforming the environment into one of change and anticipation. The evening will bring heightened chances of rain transitioning to snow, a reminder that winter is just around the corner, with a low in the low 30s.\n\nGiven the conditions, layering clothing is advisable; think warm jackets, hats, and scarves, especially as the evening chill sets in. The season typically sees cooler temperatures, and today is no exception, underscoring the essence of late autumn in the Midwest. With the festive spirit of Thanksgiving just a few days away, this weather evokes a cozy and reflective mood\u2014perfect for gathering with family and friends. Outdoor activities might lean toward brisk walks or simply enjoying the evolving scenery as snowflakes begin to fall later in the evening.",
+    "color_code": "#A2B2B0",
+    "timestamp": "2024-11-20 09:05:32"
 }
