@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-20T15:00:00-06:00",
+                "startTime": "2024-11-20T16:00:00-06:00",
                 "endTime": "2024-11-20T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 48,
@@ -30,10 +30,10 @@
                     "value": 40
                 },
                 "windSpeed": "20 mph",
-                "windDirection": "WSW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
                 "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers. Mostly cloudy. High near 48, with temperatures falling to around 40 in the afternoon. West southwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Scattered rain showers. Cloudy. High near 48, with temperatures falling to around 40 in the afternoon. West wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current scene is a brisk one, where the temperature hovers in the low 50s, embraced by a feeling of coolness that cuts through the air. The sky is mostly clear, yet the presence of a powerful breeze\u2014whipping at about 75 miles per hour\u2014adds an invigorating edge to the day. As the afternoon unfolds, expect scattered rain showers to creep in, with clouds rolling over the beach landscape while temperatures drop towards the high 40s. This could lead to a transition into snow as the sun sets, with the mercury dipping into the low 30s later tonight.\n\nGiven the gusty conditions and potential for precipitation, it's best to dress warmly in layers\u2014think insulated jackets, hats, and gloves to combat the chill. The combination of wind and falling temperatures makes outdoor ventures somewhat precarious, especially given the strong waves that may be present on Lake Michigan, making beach walks less inviting. With Thanksgiving just days away, consider cozy indoor activities or planning a visit to a local caf\u00e9 for a warm drink. Such a day, while bracing, beckons a reflective moment by the water, as nature shifts from autumn into the stark quietude of winter.",
-    "color_code": "#A2C2D3",
-    "timestamp": "2024-11-20 15:05:05"
+    "weather_report": "The current weather in Evanston is characterized by a cool and markedly blustery afternoon, with temperatures hovering in the mid to high 40s. The air carries a brisk chill, as the winds howl along the lakeshore, creating an invigorating yet slightly uncomfortable atmosphere. As we move through the day, we can expect scattered rain showers to roll in, with thicker clouds overriding the skyline, pushing temperatures down to the low 40s. The chance of precipitation stands at 40%, with minor rainfall accumulations likely.\n\nAs evening approaches, the possibility of scattered rain and snow showers increases, with temperatures dipping to around freezing. Wind gusts may peak at around 30 mph, adding to the wintery feel. It\u2019s a day best suited for warm layers; consider donning a thick sweater or jacket with a waterproof outer layer to shield against the elements. This time of year, mid-November, typically sees such chilliness along the shores of Lake Michigan, making today\u2019s conditions somewhat characteristic of the season. With that in mind, outdoor activities may be limited; cozying up indoors or enjoying a hot beverage near a window might be more inviting as the weather turns.",
+    "color_code": "#A9B1B8",
+    "timestamp": "2024-11-20 16:05:09"
 }
