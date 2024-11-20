@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-20T10:51:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 73.611210708119,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 250,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-20T12:08:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 75.890852100197,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 310,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-20T07:00:00-06:00",
+                "startTime": "2024-11-20T08:00:00-06:00",
                 "endTime": "2024-11-20T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 48,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 40
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60/rain_showers,40?size=medium",
-                "shortForecast": "Rain Likely then Chance Rain Showers",
-                "detailedForecast": "Rain likely before 9am, then a chance of rain showers. Partly sunny. High near 48, with temperatures falling to around 40 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain then Chance Rain Showers",
+                "detailedForecast": "A chance of rain before 9am, then a chance of rain showers. Partly sunny. High near 48, with temperatures falling to around 40 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current atmosphere is marked by a chilly demeanor, with temperatures lingering in the low 40s and a dampness that feels a touch persistent. The wind is fierce, whipping in from the west, creating a blustery backdrop against the mostly cloudy sky. As the day progresses, expect a mix of rain in the morning and sporadic showers throughout, giving way to a high near the upper 40s before temperatures dip into the low 30s by nightfall. With gusts reaching up to 30 mph, those venturing outdoors may find the conditions brisk and quite uncomfortable, especially when combined with the likelihood of rain transitioning to snow later.\n\nWith this weather complexity, beachgoers might want to steer clear of the waves, as today\u2019s surf will be less than inviting. Layering up is advisable, with a warm coat and perhaps a waterproof jacket as rain showers threaten the outing. Given the seasonal context, these temperatures are typical for a late November day in the Midwest, hinting at the encroaching winter chill. Suitable activities would include cozying up indoors at a local caf\u00e9, enjoying the holiday spirit, or even preparing for the upcoming Thanksgiving festivities if you\u2019re planning to host or celebrate. A look at the forecast suggests this is a day to grab a warm drink and hunker down from the elements.",
-    "color_code": "#A7A8AA",
-    "timestamp": "2024-11-20 07:10:43"
+    "weather_report": "Current conditions in Evanston reveal a cool atmosphere, marked by temperatures in the low 40s and a rather breezy demeanor, with winds whipping in from the west at about 25 mph, creating a brisk feel as one steps outside. The skies are overcast, casting a muted light over the beach, where the calm lake reflects the somber sky. As the day unfolds, there\u2019s a likelihood of precipitation as light rain gives way to potential snow showers later on, especially this evening, with temperatures expected to dip into the low 30s.\n\nThe forecast suggests a day of changing weather, starting with a chance of rain in the morning, which could make the scene appear gloomy and wet. The wave conditions in the lake are likely to be gentle, making it a less-than-ideal time for boating or water activities. Those venturing outdoors should consider warm layers, due to the chill in the air combined with the brisk winds. It's a typical day for late November in this region, as folks prepare for the impending winter. Given the current time frame, staying cozy indoors with a book or engaging in local coffee shop explorations might be the most delightful way to enjoy the day.",
+    "color_code": "#A3B7C2",
+    "timestamp": "2024-11-20 08:05:12"
 }
