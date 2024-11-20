@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-20T02:51:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 71.204369375173,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 280,
-            "description": "Mostly Clear"
+            "timestamp": "2024-11-20T04:51:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 74.00710179304,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 290,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-19T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-20T00:00:00-06:00",
                 "endTime": "2024-11-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -31,8 +31,8 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Rain",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
+                "shortForecast": "Chance Rain",
                 "detailedForecast": "A chance of rain showers between 1am and 3am, then a chance of rain. Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. West northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%."
             },
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston brings cool and slightly damp air as temperatures linger in the low 50s, creating a crisp, yet pleasant atmosphere. A gentle, shifting breeze dances from the west-northwest, with occasional gusts that lend a lively touch to the night. With mostly clear skies, the scene along the shore is bathed in a serene calmness, making for an inviting evening for those who appreciate the sound of the waves lapping against the beach.\n\nAs we approach the overnight hours, expect warmth in the forecast, with temperatures subtly rising to around the mid 40s as the night unfolds. Tomorrow, a chance of rain will introduce more clouds, particularly before noon, followed by scattered showers through the afternoon. Highs will likely hover near the upper 40s, with a more pronounced breeze and potential gusts that could stir up the waves along Lake Michigan. Given the coolness and upcoming rain, it's advisable to bundle up in layers and bring an umbrella if venturing outdoors. The current conditions, while ideal for a stroll, will soon transition to spattering showers, steering weekend activities indoors or to sheltered spots along the shoreline. Overall, while we are not in the midst of a major holiday today, Thanksgiving looms on the horizon, inviting preparations and gratitude in the community.",
-    "color_code": "#B0C4C2",
-    "timestamp": "2024-11-19 23:05:45"
+    "weather_report": "Currently in Evanston, the air is crisp and cool at almost 49 degrees, accompanied by a gently blustery wind. As the night deepens, clouds blanket the sky, creating a somber atmosphere along the beach. Overnight, the temperature is expected to dip into the low 40s, with a slight uptick as the hours pass, but the chance of rain lingers nearby, particularly in the early morning hours.\n\nLooking ahead to Wednesday, the weather will remain unsettled with scattered rain showers likely before noon, fading into a partially sunny afternoon as temperatures slide back into the low 40s. Winds will increase, whipping from the west at a brisk pace, which may create choppy conditions on Lake Michigan. It's a day for layering\u2014consider a warm, waterproof jacket and sturdy shoes\u2014with the potential for light rain making outdoor activities less appealing. The season reflects typical November conditions in the region, where temperatures hover around the cooler end of the spectrum, reminding us that winter is drawing near. For those wishing to brave the elements, a stroll on the beach or visiting local coffee shops might offer a cozy respite from the chilly air.",
+    "color_code": "#4c5778",
+    "timestamp": "2024-11-20 00:07:05"
 }
