@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-20T07:51:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 65.447630659771,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 260,
+            "timestamp": "2024-11-20T09:51:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 70.539119120885,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 250,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-20T04:00:00-06:00",
+                "startTime": "2024-11-20T05:00:00-06:00",
                 "endTime": "2024-11-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -30,10 +30,10 @@
                     "value": 20
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "WNW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Rain",
-                "detailedForecast": "A slight chance of rain after 5am. Cloudy. Low around 42, with temperatures rising to around 44 overnight. West northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain. Cloudy. Low around 42, with temperatures rising to around 44 overnight. West wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a crisp and cool picture with temperatures in the mid 40s, complemented by a higher blend of moisture in the air. The wind is currently gusty, adding a briskness that you\u2019ll certainly feel when stepping outside. The scene is mostly cloudy, obscuring the stars and dampening any glow from the moon, creating a tranquil yet slightly dreary atmosphere by Lake Michigan.\n\nAs we look ahead to Wednesday, expect the weather to shift as rain becomes likely before morning light, potentially transforming any outdoor plans. Daytime temperatures will hover around the high 40s and drop to the low 40s by afternoon, with a persistent breeze from the west that could reach a vigorous 20 mph. Rain showers are expected to arrive, carrying a 60% chance of precipitation, which could leave the ground slick and the air quite damp as the day progresses. The overall feel may be a bit unpleasant, especially with the potential for showers, and coupled with the cooler temps, it\u2019s advisable to prepare with layers; a warm jacket and umbrella will be essential.\n\nGiven the current season of late November in the Midwest, these temperatures are fairly typical as we transition deeper into fall. The chill encourages cozy indoor activities, so a good day for visiting a local caf\u00e9, browsing shops, or enjoying a quiet read by the window. As the holiday season approaches, this is a perfect time to start planning seasonal events, crafting, or simply enjoying the charm of Evanston in its autumnal attire.",
-    "color_code": "#5E7A9D",
-    "timestamp": "2024-11-20 04:05:59"
+    "weather_report": "As dawn breaks over Evanston, the air carries a crisp chill, with temperatures settling in the mid-40s and moisture enhancing that brisk feeling. The sky is mostly cloudy, casting a dim light over the beach area, which is currently free from any precipitation but with a hint of rain expected overnight. The breeze is gusty, rattling through the trees and perhaps stirring up some waves along the shore. \n\nLooking ahead to the day, rain is likely to arrive before morning commutes, transitioning to a chance of showers that could pepper the rest of the day. Expect a high in the upper 40s, with temperatures gradually falling in the afternoon, all accompanied by brisk winds that will make it feel even cooler. In this late autumn setting, the weather is slightly below seasonal norms for late November, yet not entirely unexpected for this time of year. \n\nGiven these conditions, it\u2019s wise to dress warmly in layers, perhaps opting for a waterproof jacket should the rain sweep through as predicted. While the beach may not seem inviting for a swim, a refreshing walk along the shore could be a brisk way to enjoy the season\u2019s charm, provided one is prepared for variable conditions. It's a typical day in November, where the chill reminds us that winter is inching closer.",
+    "color_code": "#7A7D7F",
+    "timestamp": "2024-11-20 05:04:48"
 }
