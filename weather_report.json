@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-20T04:51:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 74.00710179304,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 290,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-20T05:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 65.447630659771,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 300,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-20T00:00:00-06:00",
+                "startTime": "2024-11-20T01:00:00-06:00",
                 "endTime": "2024-11-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
                 "shortForecast": "Chance Rain",
-                "detailedForecast": "A chance of rain showers between 1am and 3am, then a chance of rain. Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. West northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of rain showers before 3am, then a chance of rain. Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. West northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 50
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/rain,50/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain then Scattered Rain Showers",
-                "detailedForecast": "A chance of rain before 11am, then scattered rain showers. Partly sunny. High near 48, with temperatures falling to around 42 in the afternoon. West wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain before 11am, then scattered rain showers. Partly sunny. High near 48, with temperatures falling to around 42 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Currently in Evanston, the air is crisp and cool at almost 49 degrees, accompanied by a gently blustery wind. As the night deepens, clouds blanket the sky, creating a somber atmosphere along the beach. Overnight, the temperature is expected to dip into the low 40s, with a slight uptick as the hours pass, but the chance of rain lingers nearby, particularly in the early morning hours.\n\nLooking ahead to Wednesday, the weather will remain unsettled with scattered rain showers likely before noon, fading into a partially sunny afternoon as temperatures slide back into the low 40s. Winds will increase, whipping from the west at a brisk pace, which may create choppy conditions on Lake Michigan. It's a day for layering\u2014consider a warm, waterproof jacket and sturdy shoes\u2014with the potential for light rain making outdoor activities less appealing. The season reflects typical November conditions in the region, where temperatures hover around the cooler end of the spectrum, reminding us that winter is drawing near. For those wishing to brave the elements, a stroll on the beach or visiting local coffee shops might offer a cozy respite from the chilly air.",
-    "color_code": "#4c5778",
-    "timestamp": "2024-11-20 00:07:05"
+    "weather_report": "Current conditions in Evanston reveal a brisk environment, with temperatures hovering in the upper 40s and a gentle chill in the air, creating a perfectly cool atmosphere that invites a cozy night in. As the evening unfolds, intermittent clouds will dominate the skyline, with an occasional chance of rain showers expected before the dawn breaks. The winds are lively, blowing from the west-northwest at a brisk pace, adding a refreshing character to the air. \n\nLooking ahead to Wednesday, the day's forecast brings a blend of cloud cover with a likelihood of rain tapering off through the morning, shifting to scattered showers by afternoon. Temperatures are anticipated to peak in the upper 40s before cascading back to the low 40s, a reminder of the late autumn chill settling in. With gusty winds making waves on Lake Michigan, the shoreline may be a spot to watch those frothy crests rather than wade into the water. Dress warmly if venturing out, layering for the cooler afternoon is wise given the drop in temperatures and potential for wet conditions. Considering the season, these temperatures align with typical late November norms, setting the stage for indoor activities or a brisk stroll along the beach, though caution is warranted due to the uncertain weather.",
+    "color_code": "#4F6D8E",
+    "timestamp": "2024-11-20 01:05:41"
 }
