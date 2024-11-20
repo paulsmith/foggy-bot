@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-19T19:00:00-06:00",
+                "startTime": "2024-11-19T20:00:00-06:00",
                 "endTime": "2024-11-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -32,8 +32,8 @@
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 3am. Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. West wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%."
+                "shortForecast": "Mostly Cloudy then Chance Rain",
+                "detailedForecast": "A chance of rain showers between 1am and 3am, then a chance of rain. Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. West wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50/rain,20?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Partly sunny. High near 48, with temperatures falling to around 42 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,50/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain then Scattered Rain Showers",
+                "detailedForecast": "A chance of rain before 11am, then scattered rain showers. Partly sunny. High near 48, with temperatures falling to around 42 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As night falls in Evanston, the current conditions reflect a crisp evening at nearly 57 degrees, with a gentle breeze whispering from the west. The sky is mostly clear, offering a pleasant view of the city\u2019s shoreline as it prepares for an evening lull. However, the atmosphere is set to change overnight, as clouds will thicken and rain may begin to make an appearance after 3 a.m. Expect lows to dip into the low 40s, with mild gusts contributing to a slightly chilly feel.\n\nTomorrow, expect a partly sunny day with temperatures peaking in the upper 40s before falling back down into the low 40s by mid-afternoon. The chance of rain is notable at 50%, and reminiscent of the breezy conditions tonight, the winds will pick up a bit more, potentially reaching gusty levels. Given the forecast, it\u2019s advisable to wear a light jacket and perhaps a waterproof layer to stay comfortable against the elements. \n\nDespite the hint of rain, spending time outdoors along Lake Michigan can still be rewarding as the waves can offer a soothing soundtrack against the nighttime backdrop. With Thanksgiving fast approaching, this transition period is a great opportunity for brisk walks along the shore, provided you keep an eye on the sky for any incoming precipitation.",
-    "color_code": "#222B4E",
-    "timestamp": "2024-11-19 19:32:55"
+    "weather_report": "As evening descends on Evanston, the weather presents a cool and slightly brisk atmosphere, currently marked by a temperature in the mid 50s with a gentle rise forecasted overnight. The sky remains mostly clear, allowing for glimpses of the stars, although clouds will likely roll in later tonight bringing a chance of light rain, particularly between 1 and 3 AM. As we move into tomorrow, expect a mix of rain before late morning, transitioning to scattered showers in a partially sunny afternoon, with highs around the upper 40s, a typical scenario for this time of year in the Midwest.\n\nThe beach scene tonight appears more somber and contemplative rather than inviting, with gusty winds adding a chill to the evening air, perfect for a serene stroll or quiet reflection by the shore. However, the rising waves may deter casual dips, particularly as conditions grow blustery overnight. With the potential for rain and cooling temperatures, it is advisable to dress in layers and keep an umbrella on hand for tomorrow. This time of year, with temperatures fluctuating between the low to mid 40s, reflects standard late fall weather, where outdoor activities may shift toward indoor pastimes or cozy gatherings as the holiday season approaches.",
+    "color_code": "#5C4D8E",
+    "timestamp": "2024-11-19 20:30:07"
 }
