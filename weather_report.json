@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-19T22:00:00-06:00",
+                "startTime": "2024-11-19T23:00:00-06:00",
                 "endTime": "2024-11-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening falls over Evanston, the temperature lingers in the low 50s, presenting a crisp and cool atmosphere, enhanced by a gentle wind brushing in from the west. With mostly clear skies, visibility is good, though you can expect a change as we move into the early hours; a chance of rain showers is on the horizon, paving the way for a cloudier night. Later temperatures are forecasted to dip, hovering around the low 40s as we approach dawn. The wind is expected to shift to a light breeze, making for a more tranquil feel overnight.\n\nTomorrow, you can anticipate an unsettled day ahead, as rain showers are likely until mid-morning, giving way to scattered showers through the afternoon. The high will struggle to reach the upper 40s before dipping back into the low 40s later in the day, all accompanied by a brisk west wind that could gust up to 30 miles per hour. Given these conditions, be prepared for a damp and breezy day that may not inspire outdoor activities, but if you must venture out, layered clothing is advisable to combat the chill and potential rain. While the current season has brought a typical late autumn chill to the region, keep an eye on your umbrellas tonight; there\u2019s a decent chance of precipitation, so be sure to dress for the elements as we move past this fall evening.",
-    "color_code": "#2E3B4E",
-    "timestamp": "2024-11-19 22:06:40"
+    "weather_report": "This evening in Evanston brings cool and slightly damp air as temperatures linger in the low 50s, creating a crisp, yet pleasant atmosphere. A gentle, shifting breeze dances from the west-northwest, with occasional gusts that lend a lively touch to the night. With mostly clear skies, the scene along the shore is bathed in a serene calmness, making for an inviting evening for those who appreciate the sound of the waves lapping against the beach.\n\nAs we approach the overnight hours, expect warmth in the forecast, with temperatures subtly rising to around the mid 40s as the night unfolds. Tomorrow, a chance of rain will introduce more clouds, particularly before noon, followed by scattered showers through the afternoon. Highs will likely hover near the upper 40s, with a more pronounced breeze and potential gusts that could stir up the waves along Lake Michigan. Given the coolness and upcoming rain, it's advisable to bundle up in layers and bring an umbrella if venturing outdoors. The current conditions, while ideal for a stroll, will soon transition to spattering showers, steering weekend activities indoors or to sheltered spots along the shoreline. Overall, while we are not in the midst of a major holiday today, Thanksgiving looms on the horizon, inviting preparations and gratitude in the community.",
+    "color_code": "#B0C4C2",
+    "timestamp": "2024-11-19 23:05:45"
 }
