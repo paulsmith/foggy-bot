@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-20T06:51:00+00:00",
-            "temperature_f": 46.04,
-            "temperature_c": 7.8,
-            "humidity": 67.709201404014,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 300,
+            "timestamp": "2024-11-20T07:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 65.447630659771,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 260,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-20T02:00:00-06:00",
+                "startTime": "2024-11-20T04:00:00-06:00",
                 "endTime": "2024-11-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Rain",
-                "detailedForecast": "A chance of rain showers before 3am, then a chance of rain. Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. West northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Rain",
+                "detailedForecast": "A slight chance of rain after 5am. Cloudy. Low around 42, with temperatures rising to around 44 overnight. West northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 60
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain then Scattered Rain Showers",
-                "detailedForecast": "A chance of rain before 11am, then scattered rain showers. Partly sunny. High near 48, with temperatures falling to around 42 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,60/rain_showers,40?size=medium",
+                "shortForecast": "Rain Likely then Chance Rain Showers",
+                "detailedForecast": "Rain likely before 9am, then a chance of rain showers. Partly sunny. High near 48, with temperatures falling to around 40 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As of now, Evanston's weather presents a cool and somewhat brisk atmosphere, with temperatures in the low 40s and a gentle breeze brushing in from the west-northwest. The air carries a slight chill, though it\u2019s not uncomfortably damp \u2014 ideal for bundling up in a light jacket to ward off the nippiness. The sky remains mostly cloudy, adding a muted brightness to the early morning hours, although visibility into the day ahead suggests the potential for scattered rain later.\n\nLooking ahead, a chance of rain showers looms before the morning light, tapering off into a mix of sun and clouds as the day progresses. Expect high temperatures to creep up to the upper 40s, though they may dip into the low 40s by afternoon. The wind is forecasted to pick up in intensity, becoming gusty at times, which could stir the waves along Lake Michigan, making for choppy conditions. Given these factors, dressing warmly and perhaps staying close to indoor activities may be prudent for those not relishing a brisk walk along the shore. With the approach of Thanksgiving in just a few days, there is an air of anticipation for families and friends gathering for the holiday festivities ahead.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-20 03:05:47"
+    "weather_report": "Current conditions in Evanston paint a crisp and cool picture with temperatures in the mid 40s, complemented by a higher blend of moisture in the air. The wind is currently gusty, adding a briskness that you\u2019ll certainly feel when stepping outside. The scene is mostly cloudy, obscuring the stars and dampening any glow from the moon, creating a tranquil yet slightly dreary atmosphere by Lake Michigan.\n\nAs we look ahead to Wednesday, expect the weather to shift as rain becomes likely before morning light, potentially transforming any outdoor plans. Daytime temperatures will hover around the high 40s and drop to the low 40s by afternoon, with a persistent breeze from the west that could reach a vigorous 20 mph. Rain showers are expected to arrive, carrying a 60% chance of precipitation, which could leave the ground slick and the air quite damp as the day progresses. The overall feel may be a bit unpleasant, especially with the potential for showers, and coupled with the cooler temps, it\u2019s advisable to prepare with layers; a warm jacket and umbrella will be essential.\n\nGiven the current season of late November in the Midwest, these temperatures are fairly typical as we transition deeper into fall. The chill encourages cozy indoor activities, so a good day for visiting a local caf\u00e9, browsing shops, or enjoying a quiet read by the window. As the holiday season approaches, this is a perfect time to start planning seasonal events, crafting, or simply enjoying the charm of Evanston in its autumnal attire.",
+    "color_code": "#5E7A9D",
+    "timestamp": "2024-11-20 04:05:59"
 }
