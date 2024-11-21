@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-21T19:51:00+00:00",
-            "temperature_f": 35.06,
-            "temperature_c": 1.7,
-            "humidity": 88.477151746126,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2024-11-21T20:51:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 89.16280483489,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 300,
             "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-21T15:00:00-06:00",
+                "startTime": "2024-11-21T16:00:00-06:00",
                 "endTime": "2024-11-21T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather paints a stark picture of a chilly afternoon with temperatures lingering in the mid-30s, complemented by light rain and a veil of fog. The air feels damp and slightly raw, creating a rather dreary atmosphere as you gaze out toward Lake Michigan, especially with the shoreline glistening under the low-hanging clouds. Expect the weather to turn a bit more unsettled as we transition into the evening; rain is anticipated before midnight, with a slight chance of showers lingering into the early hours, while a brisk north northwest wind adds to the chill. \n\nWith the high reaching into the low 40s later today, conditions will remain blustery, making it feel even cooler. The waves will likely remain modest, reflecting the overcast skies and potential for light rain. For those venturing out, layering is advisable\u2014perhaps a warm jacket, scarf, and waterproof footwear to combat the cool and wet conditions. As we find ourselves firmly in the season of late autumn, this weather feels emblematic of the transition into winter, with temperatures that align with historical averages for this time of year. Given the conditions, it might be best to curl up indoors with a warm drink, but for those inclined toward brisk walks, just steer clear of the shoreline for a less splashy experience.",
-    "color_code": "#8B9B9B",
-    "timestamp": "2024-11-21 15:05:02"
+    "weather_report": "Current conditions in Evanston present a chilly scene, with temperatures in the mid-30s amid light rain and a shroud of fog. The air feels quite damp, making for a perceptibly cold atmosphere, while fierce winds whip along the shoreline, producing waves that may be restless but manageable for seasoned beachgoers. Expect dark clouds to linger as rain falls, tapering slightly tonight with a low hovering around 40 degrees.\n\nAs we look ahead, today\u2019s weather is set to include more rain, particularly in the afternoon, accompanied by a high in the low 40s. The gusty winds will continue, so outdoor activities should be approached with care. For those venturing out, dressing warmly in layers, with a waterproof jacket and sturdy footwear, will be essential to combat the bluster and moisture. Given that it\u2019s the day before Thanksgiving, many will be bustling about in preparation for the holiday. While outdoor enjoyment may be limited, cozy indoor activities or visiting local shops could provide some solace from the relentless weather.",
+    "color_code": "#5D8BA1",
+    "timestamp": "2024-11-21 16:05:05"
 }
