@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-21T06:51:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 75.018440463752,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 270,
+            "timestamp": "2024-11-21T09:24:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 78.283528232184,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 290,
             "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-21T02:00:00-06:00",
+                "startTime": "2024-11-21T04:00:00-06:00",
                 "endTime": "2024-11-21T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 31,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-21T06:00:00-06:00",
                 "endTime": "2024-11-21T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 44,
+                "temperature": 43,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,100?size=medium",
                 "shortForecast": "Heavy Snow",
-                "detailedForecast": "Snow before noon, then rain and snow. Cloudy. High near 44, with temperatures falling to around 41 in the afternoon. West northwest wind 15 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+                "detailedForecast": "Snow before noon, then rain and snow. Cloudy, with a high near 43. West northwest wind 15 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
             }
         ]
     },
-    "weather_report": "The current weather in Evanston is characterized by chilly temperatures right around the mid 30s, coupled with a damp, snowy ambiance as light snow falls against a backdrop of dark clouds. Winds are brisk from the west, adding a fierce chill to the air. As we look ahead, the weather tonight offers scattered snow showers, with the temperature dipping slightly to the low 30s, banishing any thoughts of lingering warmth. Tomorrow, expect snow to persist before transitioning to a mix of rain and snow, with temperatures climbing, albeit fleetingly, into the low to mid 40s in the afternoon, accompanied by strong winds that could gust dangerously near 50 mph.\n\nThis weather forecast suggests an unpleasant day outside, especially with the combination of snow and strong winds creating a biting chill. Along the shoreline, wave conditions may become choppy, reflecting the animated winds and accumulating snow, pulling the outdoor scene away from the serene. Dress warmly, layering against the cold and damp; a winter coat, gloves, and sturdy footwear are advisable. The reported temperatures fit the season, as late November in Illinois bears the marks of deepening winter, but today\u2019s wintry mix and wind may feel particularly intense for those venturing out. Suggested activities may be limited to indoor pursuits, like visiting local cafes or museums, as nature's elements may deter longer outdoor excursions\u2014best to enjoy this weather through the warmth of a window, with a warm beverage in hand.",
-    "color_code": "#A9B8B7",
-    "timestamp": "2024-11-21 03:05:45"
+    "weather_report": "Current conditions in Evanston are marked by a brisk chill, with temperatures hovering in the low 30s and the air feeling quite damp. As light snow falls, visibility appears muted, and the blustery winds whip down from the northwest, creating a sharp bite when stepping outside. Throughout the night, expect scattered snow showers to persist, with temperatures inching slightly upward, staying around the low 30s. The gusty winds could reach up to 30 mph, adding to the overall wintry atmosphere.\n\nLooking ahead to Thursday, a more substantial winter weather event is anticipated, with snow transitioning to a mix of rain and snow before noon. A high near the low 40s will offer little respite from the bluster, with winds gusting as high as 50 mph, making outdoor activities feel rather unwelcome. Expected snow accumulation of 2 to 4 inches will blanket the area, laying down a fresh layer of winter's touch. Given these conditions, layered clothing is recommended \u2013 a warm coat, hat, and sturdy boots will keep you comfortable in these chilly and wet conditions, typical for this time of year in the Midwest. While outdoor activities may be curtailed, this wintry weather provides a perfect excuse to curl up indoors with a good book or hot beverage as the season's first significant snowfall begins to settle in.",
+    "color_code": "#7B9ED8",
+    "timestamp": "2024-11-21 04:06:01"
 }
