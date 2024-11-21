@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-20T17:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 42.095680379388,
-            "wind_speed_mph": 74.89475999999999,
-            "wind_direction": 250,
-            "description": "Mostly Clear and Windy"
+            "timestamp": "2024-11-20T23:24:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 64.18845034177,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 270,
+            "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-20T17:00:00-06:00",
-                "endTime": "2024-11-20T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers. Cloudy. High near 48, with temperatures falling to around 40 in the afternoon. West wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-20T18:00:00-06:00",
                 "endTime": "2024-11-21T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow,50?size=medium",
                 "shortForecast": "Scattered Snow Showers",
                 "detailedForecast": "Scattered snow showers before 7pm, then scattered rain and snow showers. Cloudy, with a low around 32. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2024-11-21T06:00:00-06:00",
+                "endTime": "2024-11-21T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "20 to 25 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/snow,100?size=medium",
+                "shortForecast": "Heavy Snow",
+                "detailedForecast": "Snow before noon, then rain and snow. Cloudy. High near 44, with temperatures falling to around 41 in the afternoon. West northwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
             }
         ]
     },
-    "weather_report": "As twilight descends upon Evanston this evening, the air carries a distinctly chill, typical for late November. Currently, temperatures hover in the mid-40s, complemented by a brisk, howling wind that adds a bite to the cool atmosphere. The sky remains mostly clear for now, though clouds are gathering with the promise of scattered showers transitioning from rain to snow by nightfall. A chance of precipitation looms, with gusty conditions predicted to continue, driving temperatures down to the low 30s overnight.\n\nAs the day transitions, the beach scene along Lake Michigan takes on a starkly beautiful demeanor, but the rough surf could create an inhospitable landscape for casual beachgoers. With wave conditions potentially rough due to the strong winds, it\u2019s advisable to stay off the shoreline. While the scenery may seem pleasant in the fading light, the chill in the air suggests bundling up is essential; a warm jacket, hat, and perhaps gloves will be necessary for any evening outings. \n\nIn terms of activities, while the weather may not lend itself to outdoor enjoyment, an evening spent indoors at a cozy caf\u00e9 or a stroll through local shops could provide a more pleasant experience. This evening does not coincide with any major holidays, although the Thanksgiving season is fast approaching, allowing for some early festive spirit to emerge in both hearts and decorations around the community.",
-    "color_code": "#4A4C4E",
-    "timestamp": "2024-11-20 17:05:28"
+    "weather_report": "Current conditions in Evanston offer a taste of winter's chill, with temperatures lingering in the mid 30s, accompanied by a damp crispness that underscores the early night. A swift, howling wind from the west contributes to an overall sense of a blustery evening, particularly as light snow falls gently, painting the landscape in a layer of wintery white. The beach scene, viewed from the parks department, feels more tranquil than inviting, with the Lake Michigan waters likely churning as the wind creates a mesmerizing dance of waves against the shore.\n\nAs we transition into the evening, expect scattered snow showers to continue until about 7 PM, giving way to a mix of rain and snow. Tomorrow\u2019s forecast promises a full embrace of winter, with heavy snow likely before noon, transitioning into rain and snow throughout the day. The high will reach into the low 40s, though temperatures will dip in the afternoon alongside gusty winds that could reach up to 45 mph. For those venturing outdoors, warm layers are essential in this chilly climate, ideally with waterproof outerwear to stay dry amidst the precipitation. Given the fleeting nature of pleasant outdoor activities, a cozy evening indoors with a warm drink might be the best option, while those keen on winter\u2019s splendor may indulge in the snow for a bit of evening fun. As we stand at the threshold of this pre-Thanksgiving week, the seasonal chill feels typical, setting the stage for the upcoming holiday festivities.",
+    "color_code": "#6B7C9A",
+    "timestamp": "2024-11-20 18:27:42"
 }
