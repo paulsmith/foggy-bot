@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-20T18:00:00-06:00",
+                "startTime": "2024-11-20T19:00:00-06:00",
                 "endTime": "2024-11-21T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -32,8 +32,8 @@
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/snow,50?size=medium",
-                "shortForecast": "Scattered Snow Showers",
-                "detailedForecast": "Scattered snow showers before 7pm, then scattered rain and snow showers. Cloudy, with a low around 32. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
+                "shortForecast": "Scattered Rain And Snow Showers",
+                "detailedForecast": "Scattered rain and snow showers. Cloudy, with a low around 32. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston offer a taste of winter's chill, with temperatures lingering in the mid 30s, accompanied by a damp crispness that underscores the early night. A swift, howling wind from the west contributes to an overall sense of a blustery evening, particularly as light snow falls gently, painting the landscape in a layer of wintery white. The beach scene, viewed from the parks department, feels more tranquil than inviting, with the Lake Michigan waters likely churning as the wind creates a mesmerizing dance of waves against the shore.\n\nAs we transition into the evening, expect scattered snow showers to continue until about 7 PM, giving way to a mix of rain and snow. Tomorrow\u2019s forecast promises a full embrace of winter, with heavy snow likely before noon, transitioning into rain and snow throughout the day. The high will reach into the low 40s, though temperatures will dip in the afternoon alongside gusty winds that could reach up to 45 mph. For those venturing outdoors, warm layers are essential in this chilly climate, ideally with waterproof outerwear to stay dry amidst the precipitation. Given the fleeting nature of pleasant outdoor activities, a cozy evening indoors with a warm drink might be the best option, while those keen on winter\u2019s splendor may indulge in the snow for a bit of evening fun. As we stand at the threshold of this pre-Thanksgiving week, the seasonal chill feels typical, setting the stage for the upcoming holiday festivities.",
-    "color_code": "#6B7C9A",
-    "timestamp": "2024-11-20 18:27:42"
+    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere, with temperatures in the mid-30s and a biting wind that howls off Lake Michigan. Light snow falls intermittently, adding a wintry touch to the overall scene. The looming clouds blanket the sky, promising more precipitation as we transition into the night. Tonight, expect scattered rain and snow showers with lows dipping into the low 30s. The winds will remain brisk, gusting up to 30 mph, creating a blustery, raw feeling outdoors.\n\nLooking ahead to Thursday, a more significant shift in weather is on the horizon, as snow is anticipated before noon, followed by a mix of rain and snow throughout the day. Highs will struggle to reach the low 40s, falling further in the afternoon. The forecast predicts up to 3 inches of new snow, shaping a winter wonderland for the community, albeit at the expense of comfortable outdoor conditions. Given these elements, bundling up in warm layers\u2014coats, scarves, and gloves\u2014is essential. The temperature is quite typical for this time of year in the Midwest, where November often brings the first real taste of winter. Ideal activities might include a cozy afternoon of reading indoors or sipping hot beverages, as the beach and outdoor walks may be less inviting amidst the cold and wintry weather.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-11-20 19:32:51"
 }
