@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-21T04:00:00-06:00",
-                "endTime": "2024-11-21T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,50?size=medium",
-                "shortForecast": "Scattered Snow Showers",
-                "detailedForecast": "Scattered snow showers. Cloudy, with a low around 31. West northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2024-11-21T06:00:00-06:00",
                 "endTime": "2024-11-21T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/snow,100?size=medium",
                 "shortForecast": "Heavy Snow",
                 "detailedForecast": "Snow before noon, then rain and snow. Cloudy, with a high near 43. West northwest wind 15 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-21T18:00:00-06:00",
+                "endTime": "2024-11-22T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "15 to 25 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30/wind_ovc?size=medium",
+                "shortForecast": "Chance Rain then Cloudy",
+                "detailedForecast": "A chance of rain before midnight. Cloudy. Low around 38, with temperatures rising to around 40 overnight. North northwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current conditions paint a chilly picture with temperatures hovering in the low 30s, complemented by a brisk breeze that may feel biting as it sweeps off Lake Michigan. Light snow is falling, lending a wintry charm but also creating a rather bleak and overcast atmosphere. As the day progresses, expect scattered snow showers to continue into the overnight hours, with skies remaining mostly cloudy and temperatures dipping slightly.\n\nFor Thursday, anticipate a more dynamic weather pattern with snow expected before noon, transitioning into rain mixed with snow. The high temperature will reach the low 40s, but with winds gusting ferociously up to 50 mph, it will feel much cooler, bringing a greater chance of precipitation. Given these conditions, it\u2019s advisable to dress in layers, don a warm coat, and consider waterproof footwear as you'll likely encounter slushy streets or icy patches near the beach. While the waters of Lake Michigan may be too turbulent for swimming, those looking for a brisk walk might find the changing conditions invigorating, particularly as snow gives way to rain, highlighting the unpredictable nature of late fall in this region. As we approach Thanksgiving, the festive spirit may be set against a backdrop of wintry weather, encouraging cozy indoor gatherings in the days to come.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-21 05:05:07"
+    "weather_report": "This morning in Evanston, we find ourselves in the midst of winter\u2019s embrace, with a brisk atmosphere gripped by temperatures in the low 30s, complemented by a veil of light snow. The air carries a biting chill, further accentuated by fierce winds, sweeping across the landscape and bringing with them the promise of more snow throughout the day. As the skies remain overcast, the forecast predicts a transition to a mix of rain and snow by noon, with a high creeping toward the low 40s. Accumulations of two to four inches are anticipated, as gusty northwest winds continue to howl, making outdoor conditions feel particularly raw and uninviting. \n\nWith the shifting weather patterns, the beach may appear somber and windswept rather than inviting, with the waves likely heightened by the blustery conditions near Lake Michigan. For those braving the elements, layering is essential; a warm coat, sturdy boots, and a hat would be wise to fend off the stinging cold. As it is mid-November, these temperatures are typical for this time of year in the Midwest, casting a distinctly wintry feel to the season. Given the conditions, it may be best to plan for cozy indoor activities, perhaps revisiting holiday preparations or enjoying a warm beverage as the storm rolls in.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-11-21 06:08:42"
 }
