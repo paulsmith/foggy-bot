@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-21T12:51:00+00:00",
+            "timestamp": "2024-11-21T13:51:00+00:00",
             "temperature_f": 30.92,
             "temperature_c": -0.6,
-            "humidity": 72.137811402908,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 280,
+            "humidity": 75.476605631193,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 270,
             "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-21T08:00:00-06:00",
+                "startTime": "2024-11-21T09:00:00-06:00",
                 "endTime": "2024-11-21T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "20 to 30 mph",
+                "windSpeed": "25 to 30 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,100?size=medium",
                 "shortForecast": "Heavy Snow",
-                "detailedForecast": "Snow before noon, then rain and snow. Cloudy, with a high near 43. West northwest wind 20 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
+                "detailedForecast": "Snow before noon, then rain and snow. Cloudy, with a high near 43. West northwest wind 25 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Today in Evanston, it's a chilly morning greeted by light snow and a whistling northwest wind, creating a brisk atmosphere. The current conditions hover in the low 30s, which is typical for this time of year as we embrace the depths of late November. As the day progresses, expect the weather to take on a more hectic character, with snow giving way to a mix of rain and snow, as the high temperature climbs toward the low 40s. Gusty winds will whip through the area, reaching upwards of 50 mph, particularly fierce near the lakefront, which may stir up choppy waves on Lake Michigan.\n\nWhile the snowy scene might strike a pleasant note for some, the blend of moisture and cool temperatures combines to produce a rather raw outdoor experience, so dressing warmly with layers is essential. Expect periods of precipitation, with accumulations potentially reaching 2 to 4 inches by day's end, creating slick conditions on the roads and sidewalks. Consider staying indoors and warming up with a hot drink while perhaps catching up with friends or family, as outdoor activities may be better suited for another day. Since today doesn't fall on a particular holiday, it\u2019s a regular Tuesday, but given the wintery weather, it\u2019s a perfect opportunity to cozy up indoors with a book or a movie as the colder months firmly establish themselves.",
-    "color_code": "#A3B0B1",
-    "timestamp": "2024-11-21 08:05:20"
+    "weather_report": "As the morning unfolds in Evanston, residents are greeted by a chilly scene with temperatures hovering in the low 30s and a brisk wind from the west. Light snow currently blankets the area, contributing to a wintry atmosphere that feels quite raw, especially with the winds gusting fiercely. The visibility is obscured, suggesting a generally dreary outlook for the coast along Lake Michigan. \n\nLooking ahead, the forecast indicates a snowy morning will transition into a mix of rain and snow by early afternoon, with expected snow accumulation adding to the existing layer, making for a slippery afternoon commute. The temperature is predicted to rise to the high 40s, moderated by a strong, gusty breeze that promises to keep things feeling rather brisk. If venturing outdoors, dressing warmly in layers is essential, as the combination of wind and moisture will leave those unprepared feeling quite cold. Given these conditions, it might be best to postpone outdoor activities. Instead, consider cozying up indoors with a warm drink as the winter weather settles in.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-21 09:05:25"
 }
