@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-21T12:00:00-06:00",
+                "startTime": "2024-11-21T13:00:00-06:00",
                 "endTime": "2024-11-21T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "25 to 30 mph",
+                "windSpeed": "20 to 25 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,100?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow before 2pm, then drizzle. Cloudy, with a high near 42. Northwest wind 25 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 100%. Little or no snow accumulation expected."
+                "detailedForecast": "Snow before 2pm, then drizzle. Cloudy, with a high near 42. Northwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. Little or no snow accumulation expected."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,30/wind_ovc?size=medium",
                 "shortForecast": "Chance Light Rain then Cloudy",
-                "detailedForecast": "A chance of drizzle before 8pm, then a chance of rain between 8pm and 11pm, then a chance of drizzle between 11pm and midnight. Cloudy. Low around 38, with temperatures rising to around 41 overnight. North northwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of drizzle before 8pm, then a chance of rain between 8pm and 11pm, then a chance of drizzle between 11pm and midnight. Cloudy. Low around 38, with temperatures rising to around 41 overnight. North northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, current conditions are dominated by a biting chill, with temperatures hovering in the low 30s and a persistent, almost eerie fog complemented by light snow. The air feels heavy and damp, making the cold cut deeper as gusts howl from the west, creating an unsettling atmosphere along the lakeshore. Visibility is significantly reduced, and the usual serene beauty of Lake Michigan is obscured by the wintry conditions. \n\nAs the day progresses, expect the snow to transition into drizzle, with temperatures rising slightly to the low 40s by this afternoon. A stout northwest wind will continue to buff at 25 to 30 mph, with momentary gusts brushing 50 mph. Not much snow accumulation is anticipated as the precipitation shifts form, but be prepared for a damp, gloomy evening with a chance of lingering drizzle. Given the season, this weather aligns with the typical chill of late November in the Midwest, making warm layers and waterproof attire the sensible choice for any outdoor ventures. Activities such as a brisk walk along the beach may be invigorating but consider the gusty conditions and unsettled precipitation. As we approach the Thanksgiving holiday this week, many may find the cozy warmth indoors more appealing than venturing into the chilly outdoors.",
-    "color_code": "#A8A8A8",
-    "timestamp": "2024-11-21 12:06:53"
+    "weather_report": "Current conditions in Evanston paint a wintry scene with temperatures hovering in the low 30s, complemented by a damp and chilly atmosphere accentuated by gusty winds. Snow and fog cast a muted pall over the landscape, creating a quiet yet somber mood along the beach. As the day progresses, residents can expect more snow until this afternoon, transitioning to drizzle as the high reaches the low 40s. The brisk northwesterly winds will add a notable chill, with gusts capable of wreaking havoc on an otherwise mild day.\n\nThe outlook for later today suggests a continued wintry presence with limited accumulation expected, thanks to a shift towards rain in the evening. The ambiance by the shoreline is likely to remain rather unpleasant, a muted palette of grays dominating the view, with the surf likely following suit\u2014potentially calm but marked by a cold bite. As for attire, layering is advisable; a warm coat, sturdy boots, and perhaps a water-resistant layer will help combat the harsh elements. These cold temperatures are typical for this time of year in a Midwestern winter, where the seasons remind us of their fortitude. While the beach may seem less than inviting today, perhaps a steaming cup of coffee at a nearby caf\u00e9 or some indoor activity could provide momentary solace from the brisk, snow-laden air.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-21 13:04:47"
 }
