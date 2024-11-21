@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-20T23:24:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 64.18845034177,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 270,
+            "timestamp": "2024-11-21T00:58:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 78.630508989653,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 260,
             "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-20T19:00:00-06:00",
+                "startTime": "2024-11-20T20:00:00-06:00",
                 "endTime": "2024-11-21T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -32,8 +32,8 @@
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/snow,50?size=medium",
-                "shortForecast": "Scattered Rain And Snow Showers",
-                "detailedForecast": "Scattered rain and snow showers. Cloudy, with a low around 32. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
+                "shortForecast": "Scattered Snow Showers",
+                "detailedForecast": "Scattered rain showers before 9pm, then scattered snow showers. Cloudy, with a low around 32. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere, with temperatures in the mid-30s and a biting wind that howls off Lake Michigan. Light snow falls intermittently, adding a wintry touch to the overall scene. The looming clouds blanket the sky, promising more precipitation as we transition into the night. Tonight, expect scattered rain and snow showers with lows dipping into the low 30s. The winds will remain brisk, gusting up to 30 mph, creating a blustery, raw feeling outdoors.\n\nLooking ahead to Thursday, a more significant shift in weather is on the horizon, as snow is anticipated before noon, followed by a mix of rain and snow throughout the day. Highs will struggle to reach the low 40s, falling further in the afternoon. The forecast predicts up to 3 inches of new snow, shaping a winter wonderland for the community, albeit at the expense of comfortable outdoor conditions. Given these elements, bundling up in warm layers\u2014coats, scarves, and gloves\u2014is essential. The temperature is quite typical for this time of year in the Midwest, where November often brings the first real taste of winter. Ideal activities might include a cozy afternoon of reading indoors or sipping hot beverages, as the beach and outdoor walks may be less inviting amidst the cold and wintry weather.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-11-20 19:32:51"
+    "weather_report": "Current conditions in Evanston reflect a chilly evening, with temperatures resting in the mid-30s. The air carries a biting chill as light snow flurries drift, driven by a wild wind gusting from the west at nearly 54 mph, creating an atmosphere that feels both brisk and raw. Visibility is dim, with clouds shrouding the sky, offering a muted view toward Lake Michigan. Tonight's forecast suggests scattered rain and snow showers, with temperatures dropping slightly to around freezing. The gusty winds are expected to continue, adding a fierce bite to the already frigid air. \n\nAs for attire, a heavy coat, warm hat, and gloves are essential to combat the cold and blustery conditions. While the atmosphere is undeniably wintry, those who enjoy brisk walks bundled in warmth may find the evening refreshing, though anyone venturing outdoors should be cautious of the potentially slick conditions. Temperatures typical for this time of year in Evanston usually hover in the low to mid-30s, so tonight's chill falls within the expected seasonal norms. Given the weather, a cozy night indoors with a warm beverage would be a more pleasant retreat than attempting outdoor activities.",
+    "color_code": "#1f1f1f",
+    "timestamp": "2024-11-20 20:30:03"
 }
