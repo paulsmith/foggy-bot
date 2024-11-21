@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-20T21:00:00-06:00",
+                "startTime": "2024-11-20T23:00:00-06:00",
                 "endTime": "2024-11-21T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 31,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night settles over Evanston, current conditions hover in the low 30s, casting a chilly, brisk atmosphere across the beach. The biting wind howls from the west at a fierce pace, making the feel of the evening even colder, with light snow flurries dancing in the air, noticeably dampening visibility. A cloudy cover looms overhead, creating a somber palette as the waves of Lake Michigan build under the gusty winds, promising a blustery night ahead.\n\nLooking towards the forecast, scattered snow showers are expected to continue, with overnight lows dipping into the upper 20s. Tomorrow, residents can prepare for a day filled with snow transitioning to rain, complimented by strong winds that could reach near 45 mph. Accumulations of one to three inches are likely, turning the landscape into a winter wonderland before giving way to slush and puddles. Given the season, this cold is quite typical for late November, but the stormy weather may leave many reconsidering outdoor plans. As such, bundling up in warm, waterproof attire would be wise, especially for those braving the elements. With the holiday season approaching, tonight offers a quiet backdrop perfect for cozy indoor activities, perhaps with family or friends, away from the chill outside.",
-    "color_code": "#6B8EAE",
-    "timestamp": "2024-11-20 22:06:40"
+    "weather_report": "In Evanston, the current conditions present a chilly scene, with temperatures hovering in the mid-30s and a noticeable wind delivering a brisk, wild chill. The atmosphere is a touch dismal under overcast skies, accompanied by light snow, creating a rather uninviting outdoor experience. As you look toward Lake Michigan, the desolate beach colored by the night enhances the feeling of a cold, wintry evening, making it feel even colder than it actually is. The waves are likely choppy due to sustained gusts from the west at breakneck speeds, giving the lake a sheened surface that hints at rougher conditions.\n\nLooking ahead, the forecast for tonight indicates scattered snow showers may continue, with a low dipping to around 31 degrees. Tomorrow promises a wet mix of snow and rain, particularly in the morning, with temperatures peaking near the low 40s before sliding back down in the afternoon. The weather is far from pleasant\u2014staying warm and dry would be advisable, ideally with layered clothing, a sturdy coat, and perhaps waterproof boots if venturing out. As we are deep in the throes of late November, these temperatures align closely with expectations for this time of year, marked by the shift toward more extreme cold and winter weather. Given the inclement weather, activities should stay indoors where it\u2019s cozy\u2014perhaps curling up with a book or preparing for the upcoming Thanksgiving holiday next week.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-11-20 23:05:47"
 }
