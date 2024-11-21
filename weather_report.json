@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-21T19:04:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 88.423674328272,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 270,
-            "description": "Light Snow and Fog/Mist"
+            "timestamp": "2024-11-21T19:51:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 88.477151746126,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-21T14:00:00-06:00",
+                "startTime": "2024-11-21T15:00:00-06:00",
                 "endTime": "2024-11-21T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 90
+                    "value": 60
                 },
                 "windSpeed": "25 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,90?size=medium",
-                "shortForecast": "Rain And Snow",
-                "detailedForecast": "Rain and snow. Cloudy. High near 42, with temperatures falling to around 40 in the afternoon. Northwest wind around 25 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Cloudy. High near 42, with temperatures falling to around 40 in the afternoon. North northwest wind around 25 mph, with gusts as high as 45 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston are marked by a frigid chill, as temperatures hover in the low 30s, accompanied by a persistent light snow and a blanket of fog that casts a muted gray over the landscape. The wind is howling from the west at a brisk pace, creating a raw and biting sensation that underscores the early winter atmosphere. As we look forward to this afternoon, a mix of rain and snow is anticipated, with clouds thickening and temperatures inching slightly upward to near 42 degrees. Expect gusty winds that could whip through at 25 miles per hour, possibly leading to low visibility and slushy roads.\n\nThe beach, typically a bustling summertime haven, now presents a stark, chilly vista. With a light dusting of snow covering the sand, the waves are likely to remain gentle but could pick up slightly as coastal winds stir. Given the brisk and damp conditions, this is not an ideal day for outdoor activities; most would find it best to bundle up in warm, waterproof attire and perhaps seek indoor amusements. Dress warmly, perhaps layering with a sturdy coat, gloves, and a hat to ward off the cold. As we enter this notable time of year, Evanston shows us typical late November weather, reminding us that winter is undeniably approaching.",
-    "color_code": "#AAB8B2",
-    "timestamp": "2024-11-21 14:06:03"
+    "weather_report": "In Evanston, the current weather paints a stark picture of a chilly afternoon with temperatures lingering in the mid-30s, complemented by light rain and a veil of fog. The air feels damp and slightly raw, creating a rather dreary atmosphere as you gaze out toward Lake Michigan, especially with the shoreline glistening under the low-hanging clouds. Expect the weather to turn a bit more unsettled as we transition into the evening; rain is anticipated before midnight, with a slight chance of showers lingering into the early hours, while a brisk north northwest wind adds to the chill. \n\nWith the high reaching into the low 40s later today, conditions will remain blustery, making it feel even cooler. The waves will likely remain modest, reflecting the overcast skies and potential for light rain. For those venturing out, layering is advisable\u2014perhaps a warm jacket, scarf, and waterproof footwear to combat the cool and wet conditions. As we find ourselves firmly in the season of late autumn, this weather feels emblematic of the transition into winter, with temperatures that align with historical averages for this time of year. Given the conditions, it might be best to curl up indoors with a warm drink, but for those inclined toward brisk walks, just steer clear of the shoreline for a less splashy experience.",
+    "color_code": "#8B9B9B",
+    "timestamp": "2024-11-21 15:05:02"
 }
