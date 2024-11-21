@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-20T20:00:00-06:00",
+                "startTime": "2024-11-20T21:00:00-06:00",
                 "endTime": "2024-11-21T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 32,
+                "temperature": 31,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/snow,50?size=medium",
                 "shortForecast": "Scattered Snow Showers",
-                "detailedForecast": "Scattered rain showers before 9pm, then scattered snow showers. Cloudy, with a low around 32. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
+                "detailedForecast": "Scattered snow showers. Cloudy, with a low around 31. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a chilly evening, with temperatures resting in the mid-30s. The air carries a biting chill as light snow flurries drift, driven by a wild wind gusting from the west at nearly 54 mph, creating an atmosphere that feels both brisk and raw. Visibility is dim, with clouds shrouding the sky, offering a muted view toward Lake Michigan. Tonight's forecast suggests scattered rain and snow showers, with temperatures dropping slightly to around freezing. The gusty winds are expected to continue, adding a fierce bite to the already frigid air. \n\nAs for attire, a heavy coat, warm hat, and gloves are essential to combat the cold and blustery conditions. While the atmosphere is undeniably wintry, those who enjoy brisk walks bundled in warmth may find the evening refreshing, though anyone venturing outdoors should be cautious of the potentially slick conditions. Temperatures typical for this time of year in Evanston usually hover in the low to mid-30s, so tonight's chill falls within the expected seasonal norms. Given the weather, a cozy night indoors with a warm beverage would be a more pleasant retreat than attempting outdoor activities.",
-    "color_code": "#1f1f1f",
-    "timestamp": "2024-11-20 20:30:03"
+    "weather_report": "Evanston currently finds itself enshrouded in a chilly embrace, where temperatures hover in the mid-30s, creating a brisk atmosphere punctuated by light snow. The wind whips in from the west at a fierce pace, adding a biting edge to the air. As evening falls, the clouds remain thick, and for tonight, scattered snow showers are anticipated. The mercury is expected to dip further, landing around the low 30s, with blustery winds continuing to shape the night.\n\nLooking ahead to tomorrow, significant snowfall is projected before the noon hour, shifting to a mix of rain and snow during the day. Expect the high to flirt with the mid-40s, but with winds howling at over 20 mph, it will feel considerably colder. The chance of precipitation is at an all-time high, suggesting new snow accumulations of 1 to 3 inches could blanket the already wintry landscape. The scene might not be the most inviting for outdoor activities, especially with wave conditions likely to be tumultuous along the lakeshore. Given the current season, these temperatures are typical for November in the Midwest, inviting layers for warmth. For those venturing outside, bundling up with sturdy coats, thick scarves, and weatherproof boots should help to stave off the cold. As we navigate this wintry evening, keep in mind that Thanksgiving is just a few days away, a reminder of warmth and togetherness amidst the winter chill.",
+    "color_code": "#7D9CD6",
+    "timestamp": "2024-11-20 21:13:56"
 }
