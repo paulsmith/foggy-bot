@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-21T09:24:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 78.283528232184,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 290,
-            "description": "Light Snow"
+            "timestamp": "2024-11-21T12:17:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 72.137811402908,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 280,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-21T06:00:00-06:00",
+                "startTime": "2024-11-21T07:00:00-06:00",
                 "endTime": "2024-11-21T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "15 to 30 mph",
+                "windSpeed": "20 to 30 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,100?size=medium",
                 "shortForecast": "Heavy Snow",
-                "detailedForecast": "Snow before noon, then rain and snow. Cloudy, with a high near 43. West northwest wind 15 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
+                "detailedForecast": "Snow before noon, then rain and snow. Cloudy, with a high near 43. West northwest wind 20 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, we find ourselves in the midst of winter\u2019s embrace, with a brisk atmosphere gripped by temperatures in the low 30s, complemented by a veil of light snow. The air carries a biting chill, further accentuated by fierce winds, sweeping across the landscape and bringing with them the promise of more snow throughout the day. As the skies remain overcast, the forecast predicts a transition to a mix of rain and snow by noon, with a high creeping toward the low 40s. Accumulations of two to four inches are anticipated, as gusty northwest winds continue to howl, making outdoor conditions feel particularly raw and uninviting. \n\nWith the shifting weather patterns, the beach may appear somber and windswept rather than inviting, with the waves likely heightened by the blustery conditions near Lake Michigan. For those braving the elements, layering is essential; a warm coat, sturdy boots, and a hat would be wise to fend off the stinging cold. As it is mid-November, these temperatures are typical for this time of year in the Midwest, casting a distinctly wintry feel to the season. Given the conditions, it may be best to plan for cozy indoor activities, perhaps revisiting holiday preparations or enjoying a warm beverage as the storm rolls in.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-11-21 06:08:42"
+    "weather_report": "Current conditions in Evanston, Illinois, reveal a chilly morning with temperatures hovering in the low 30s. The atmosphere is noticeably damp, contributing to a distinctly crisp feel as a fierce wind sweeps through the area at nearly 50 mph. The cloud cover adds to the somber ambiance, hinting at impending precipitation. Today's forecast predicts heavy snowfall earlier in the day, transitioning to a mix of rain and snow, with the high reaching into the low 40s. Expect significant accumulations, making the cityscape turn white, particularly as gusty winds threaten to whip any loose flakes around.\n\nAs the day unfolds, it may not be the most inviting scene for outdoor activities, given the blustery winds and the potential for wet conditions. The waves on Lake Michigan will likely be rough, so beachgoers should avoid venturing into the water. For those who must be outdoors, bundling up in warm layers and grabbing waterproof gear will be crucial to staying comfortable. Although the date itself isn\u2019t marked by a major holiday, the atmospheric drama does set the stage for a classic winter day in the Midwest. Plan to stay indoors, perhaps warming up with a hot beverage and a good book as the storm rolls in.",
+    "color_code": "#A1C1D8",
+    "timestamp": "2024-11-21 07:10:45"
 }
