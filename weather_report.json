@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-22T06:00:00-06:00",
+                "startTime": "2024-11-22T07:00:00-06:00",
                 "endTime": "2024-11-22T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the sun rises over Evanston, the scene is set for a rather brisk and blustery day along the shores of Lake Michigan. Current temperatures hover in the low 40s, accompanied by a damp chill that seeps through the air, making it feel quite biting. The sky is draped in a blanket of clouds, with no promise of brightness breaking through. Winds are fierce, gusting from the northwest and creating choppy waters along the beach, making for rough wave conditions that may deter casual strolls by the shore.\n\nThe forecast for today suggests that temperatures may peak in the mid 40s before giving way to a drop in the afternoon. While tonight's low is expected to sit comfortably in the high 30s, it remains essential to be prepared for wind gusts that will persist throughout the evening. With the current atmosphere, one may want to bundle up in warm layers, perhaps donning a sturdy coat, a scarf, and a hat to shield against the relentless breeze.\n\nIn terms of seasonal context, this weather mirrors typical November conditions in the Midwest, where chilly air and brisk winds are standard as daylight grows shorter. Outdoor activities might be best reserved for the brave or adventurous, as the elements aren\u2019t particularly inviting for leisurely walks or picnics by the water. However, a brisk workout or a quick trip to a local caf\u00e9 for some warming hot chocolate could be delightful alternatives on this cloudy Thanksgiving Eve.",
-    "color_code": "#4B7C92",
-    "timestamp": "2024-11-22 06:08:47"
+    "weather_report": "The current conditions in Evanston reveal a crisp and cool atmosphere, with temperatures settling in the low 40s and a penetrating dampness in the air. A fierce northwesterly breeze is stirring, contributing to a rather blustery morning. As the day unfolds, expect persistent cloudiness with a high nearing the mid 40s, though temperatures are likely to dip to the low 40s as the afternoon unfolds. Earlier gusts may begin to ease slightly, but expect a steady wind to remain.\n\nThe beach area looks rather dreary under the overcast skies, lacking in vibrant colors, with visible wave action indicative of a potentially choppy Lake Michigan. Rain is not anticipated today, making for relatively dry conditions, yet the cool temperatures and brisk winds may deter leisurely strolls along the shore. As for attire, layering is advisable, featuring a warm jacket and perhaps a hat to shield against the wind. While this weather is typical for late fall in the Midwest, the chilly air may prompt a cozy indoor day. Suggested activities could include visiting a local caf\u00e9 for a warm beverage or enjoying the festive preparations as Thanksgiving approaches in just a couple of days.",
+    "color_code": "#4B6F8E",
+    "timestamp": "2024-11-22 07:10:21"
 }
