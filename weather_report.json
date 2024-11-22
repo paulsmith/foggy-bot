@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-22T16:51:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 73.611210708119,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 330,
-            "description": "Cloudy"
+            "timestamp": "2024-11-22T17:51:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 73.201672074915,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 320,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-22T12:00:00-06:00",
+                "startTime": "2024-11-22T14:00:00-06:00",
                 "endTime": "2024-11-22T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 45,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. High near 46, with temperatures falling to around 44 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain/bkn?size=medium",
-                "shortForecast": "Patchy Drizzle then Mostly Cloudy",
-                "detailedForecast": "Patchy drizzle before midnight. Mostly cloudy, with a low around 39. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 39. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a picture of a crisp, cool day, with temperatures hanging in the low 40s and a brisk northwest wind making its presence felt. The atmosphere is quite murky, with scattered clouds cloaking the sky, giving the afternoon an overcast feel. As we look ahead, the forecast suggests a continuation of this cloudiness, with high temperatures barely nudging towards the mid-40s before settling down to near 39 overnight. Precipitation is a possibility as patchy drizzle could visit the area before midnight, though nothing significant is anticipated.\n\nThe beach today may lack inviting waves, with Lake Michigan reflecting the glum skies above and the winds creating a few ripples rather than surf. Given the blustery conditions, those venturing out should dress warmly, sporting layers and a wind-resistant jacket, perhaps adding a hat to shield against the chill. The day feels like a typical late fall scenario in the Midwest, with the temperatures reminding us that winter is just around the corner. For activities, it might be best to consider indoor pursuits such as visiting local cafes or museums, keeping warm while enjoying what Evanston has to offer. Today also falls on the day before Thanksgiving, a time for gatherings and preparations, adding a touch of anticipation to the cool autumn air.",
-    "color_code": "#4B6F93",
-    "timestamp": "2024-11-22 12:06:40"
+    "weather_report": "In Evanston, current conditions reveal a cool, crisp afternoon with a temperature hovering in the mid 40s, complemented by a blustery northwestern wind that adds a bite to the air. The sky is predominantly cloudy, creating a rather somber atmosphere, while wave conditions on Lake Michigan suggest a restless surface, likely stirred by the gusty winds. As we move into the evening, temperatures will dip to the upper 30s, maintaining a chilly vibe with winds continuing to be notably brisk.\n\nToday\u2019s weather is a reminder of late autumn's embrace, aligning with typical seasonal temperatures for this region at this time of year. The dampness in the air makes for a slightly uncomfortable feel outdoors, especially for those accustomed to warmer weather. Recommended attire includes layered clothing \u2014 perhaps a warm jacket paired with a scarf and gloves to fend off the chill. While outdoor activities could be limited due to the brisk wind and cloud cover, a cozy walk along the beach or a visit to a local caf\u00e9 could provide a charming escape. Keep in mind that today is just a few days before Thanksgiving, an opportunity for reflection and preparation for the upcoming festivities.",
+    "color_code": "#4B7F9B",
+    "timestamp": "2024-11-22 14:06:07"
 }
