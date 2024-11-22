@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-21T21:51:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 85.496461459529,
-            "wind_speed_mph": 66.03624,
-            "wind_direction": 310,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2024-11-21T22:51:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 85.561801112502,
+            "wind_speed_mph": 74.89475999999999,
+            "wind_direction": 320,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-21T17:00:00-06:00",
-                "endTime": "2024-11-21T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "25 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Cloudy. High near 42, with temperatures falling to around 40 in the afternoon. North northwest wind around 25 mph, with gusts as high as 45 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-21T18:00:00-06:00",
                 "endTime": "2024-11-22T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,20/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Light Rain then Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain before midnight, then a slight chance of rain showers between midnight and 3am. Cloudy, with a low around 40. North northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-11-22T06:00:00-06:00",
+                "endTime": "2024-11-22T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. High near 47, with temperatures falling to around 45 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a rather dreary picture, with temperatures hovering in the mid-30s accompanied by heavy mist and light rain. As you step outside, you\u2019ll feel the chill amplified by fierce winds swirling in from the northwest; it\u2019s a day to brace yourself against the elements. Visibility is limited, and the skies above are predominantly gray, enveloping the area in an overcast gloom. \n\nLooking ahead to later today, the forecast doesn't offer much relief, predicting cloudy skies with a slight chance of ongoing rain, particularly before midnight. As temperatures rise only slightly to the low 40s, the gusty winds may lead to a wild and blustery experience, perfect for staying snug indoors. For those who must venture out, layered attire is a must\u2014think warm jackets, sturdy footwear, and perhaps a raincoat to fend off the damp chill. Given the current season, these temperatures are typical for late November in the Midwest, as the landscape prepares for winter\u2019s embrace. As for activities, the weather isn\u2019t inviting for leisurely strolls along the lake, but it could be a great opportunity to explore cozy indoor spots or enjoy hot beverages at local caf\u00e9s.",
-    "color_code": "#2F4F6D",
-    "timestamp": "2024-11-21 17:05:33"
+    "weather_report": "Current conditions in Evanston present a scene marked by light rain and a chill in the air, as temperatures hover in the low 40s accompanied by a brisk, howling wind that underscores the dampness. The atmosphere is thick and gray, cloud cover dominating the sky, creating a somber but poignant vista along Lake Michigan. Tonight, the forecast hints at a slight chance for lingering showers tapering off before midnight, with darkness settling upon the beach and gusts of wind expected to remain fierce, reaching up to 40 miles per hour.\n\nTomorrow offers a continuation of the chilly, overcast weather with temperatures reaching a high in the upper 40s before retreating in the afternoon. The inviting allure of a winterscape beckons, though the wave conditions are likely unruly given the robust winds and rain, making it less than ideal for boating or beach outings. Attire for the evening should lean toward warmth\u2014think layers, waterproof outerwear, and sturdy footwear to brave the bluster and damp. While it may not be the heart of summer, these temperatures are typical for late November along the lakeshore. As we edge closer to Thanksgiving, consider cozy indoor activities or a brisk walk to enjoy the seasonal change and preparation for the holiday festivities ahead.",
+    "color_code": "#AAB8C7",
+    "timestamp": "2024-11-21 18:22:54"
 }
