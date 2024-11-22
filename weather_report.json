@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-22T12:51:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 82.183211819876,
-            "wind_speed_mph": 45.903240000000004,
+            "timestamp": "2024-11-22T15:04:00+00:00",
+            "temperature_f": 44.06,
+            "temperature_c": 6.7,
+            "humidity": 78.920027625265,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 330,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-22T09:00:00-06:00",
+                "startTime": "2024-11-22T10:00:00-06:00",
                 "endTime": "2024-11-22T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 45, with temperatures falling to around 43 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 39. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain/bkn?size=medium",
+                "shortForecast": "Patchy Drizzle then Mostly Cloudy",
+                "detailedForecast": "Patchy drizzle before midnight. Mostly cloudy, with a low around 39. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a chilly day with temperatures hovering in the low 40s, wrapped in a blanket of clouds that dimmed the morning light. The brisk northwest winds are quite vigorous, gusting at times, adding a notable edge to the coolness in the air. This creates a somewhat raw sensation for those venturing outdoors. Today\u2019s weather will see these clouds persist, with a slight rise in temperature to the mid 40s, before cooling off again this afternoon. Expect a further drop as the evening unfolds, settling around the upper 30s.\n\nWith waves likely churning along Lake Michigan due to the strong winds, the beach today may not be ideal for leisurely strolls or sunbathing, although it could still intrigue those who appreciate the power of nature in its full, blustery glory. There is no precipitation forecasted, so expect the skies to remain cloudy without any rain on the horizon. To combat the wind\u2019s bite, wearing layered clothing would be wise; a warm jacket along with a hat and gloves would ensure comfort while outside. This time of year, temperatures in the low 40s feel quite typical for late November in the Midwest, making it a good day for indoor activities or a brisk walk if properly layered. Given that today is the day before Thanksgiving, it might be a good time to finalize preparations for the festivities ahead.",
-    "color_code": "#A9B4C9",
-    "timestamp": "2024-11-22 09:05:11"
+    "weather_report": "Evanston is experiencing a brisk and cloudy morning with temperatures hovering in the low 40s, accompanied by a blustery northwestern wind that adds a chill to the air. The lack of direct sunlight casts a gray tone over the landscape, creating a somewhat muted atmosphere typical of late November. As the day progresses, residents can expect persistent cloud cover, with temperatures peaking around 45 before gradually dipping again. While there may be patchy drizzle before midnight, it should remain mostly dry throughout the daytime hours. \n\nThe significant winds create sizable waves on Lake Michigan, making it a less-than-ideal day for beachside activities. It\u2019s a good idea to layer up, opting for warm jackets, scarves, and hats to combat the cool conditions. As we approach Thanksgiving, this chilly weather aligns well with the season, encouraging warmth within homes and gatherings. The overall ambiance may suit those who appreciate a cozy indoor setting with friends and family. Therefore, consider planning indoor activities or holiday preparations as we navigate this crisp late autumn day.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-11-22 10:07:00"
 }
