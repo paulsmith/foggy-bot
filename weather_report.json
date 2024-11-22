@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-22T08:51:00+00:00",
+            "timestamp": "2024-11-22T09:51:00+00:00",
             "temperature_f": 39.92,
             "temperature_c": 4.4,
             "humidity": 89.344634867018,
-            "wind_speed_mph": 41.07132,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 310,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-22T04:00:00-06:00",
+                "startTime": "2024-11-22T05:00:00-06:00",
                 "endTime": "2024-11-22T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current scene presents a chilly atmosphere, with temperatures lingering in the upper 30s and a damp, oppressive air that adds to the crisp discomfort of the day. As clouds hang heavily overhead, a strong, gusty wind sweeps in from the northwest, creating a blustery feel that can catch you off guard. The beach, typically a vibrant sight, is muted under this cloudy shroud, while the lapping waves from Lake Michigan speak to the ferocity of the wind, promising brisk conditions. \n\nAs we look to the forecast, overnight temperatures are expected to drop slightly before rising toward 40 degrees, lined with a chance of patchy drizzle. Tomorrow will see similar overcast skies with high temperatures expected in the mid-40s, accompanied by persistent winds that could gust up to 30 mph, making for a day that feels much colder. With winter approaching, these conditions are an early sign of the season, and dressing warmly in layers is essential for anyone venturing outdoors. Taking in the brisk air may feel refreshing for a brief stroll, but prolonged exposure will likely necessitate a cozy retreat indoors, especially for those contemplating outdoor activities during this holiday week.",
-    "color_code": "#4B4F6A",
-    "timestamp": "2024-11-22 04:06:06"
+    "weather_report": "In Evanston this morning, the weather feels chillier than it actually is, with a temperature hovering in the low 40s, accompanied by a thick layer of clouds. The air carries a dampness that hints at possible patchy drizzle later on, reflecting the atmosphere\u2019s cool embrace. A gusty northerly wind, reaching up to 33 mph, adds a brisk edge to the day, making it feel even cooler as it sweeps across the open areas. \n\nAs we move into the day, expect continued cloudiness with temperatures peaking in the mid 40s before dipping slightly by afternoon. This will be a day that commands warm layers\u2014consider donning a sturdy jacket, perhaps a cozy scarf, and windproof gear if venturing outside. The lake may toss up some lively waves, though they are unlikely to swell too high, perfect for a bracing seaside stroll, provided one is suitably attired against the chill. While today isn't marked by any significant holiday, the pre-holiday spirit might inspire indoor gatherings, as Thanksgiving approaches in just two days.",
+    "color_code": "#4B4F82",
+    "timestamp": "2024-11-22 05:05:15"
 }
