@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-22T06:51:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 85.496461459529,
-            "wind_speed_mph": 45.903240000000004,
+            "timestamp": "2024-11-22T08:51:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 89.344634867018,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 310,
-            "description": "Partly Cloudy"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-22T03:00:00-06:00",
+                "startTime": "2024-11-22T04:00:00-06:00",
                 "endTime": "2024-11-22T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
                 "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle. Mostly cloudy. Low around 36, with temperatures rising to around 40 overnight. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Patchy drizzle. Mostly cloudy. Low around 36, with temperatures rising to around 40 overnight. Northwest wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the air hangs heavy and cool, currently around the mid 30s with a touch of moisture that lends the morning a crisp, damp quality. Winds are fierce, blowing in from the northwest at a strong clip, creating a notable chill that may make it feel even cooler as you venture outside. The view of the beach presents a partly cloudy sky, but no immediate precipitation is evident\u2014though patchy drizzle is expected overnight.\n\nLooking ahead to the day, clouds will dominate the sky, providing a somber backdrop as temperatures rise slightly into the high 40s before dipping again in the afternoon. The gusty winds will persist, making it a classic blustery day along the shores of Lake Michigan, stirring the waves and creating a brisk atmosphere that feels entirely typical for late November in this region. Given the conditions, it would be wise to dress warmly with layers, accompanied by a windbreaker to shield against the gusts. \n\nWith Thanksgiving just around the corner, this day indeed carries a holiday spirit, albeit a chilly one. Outdoor activities may be best limited to brief walks, perhaps to enjoy the shoreline's beauty, but be sure to keep moving to stay comfortable in the cold. So, whether you\u2019re strolling along the beach or preparing for the holiday festivities, be prepared for brisk conditions that remind us winter is on its way.",
-    "color_code": "#7A9A8A",
-    "timestamp": "2024-11-22 03:06:11"
+    "weather_report": "In Evanston, Illinois, the current scene presents a chilly atmosphere, with temperatures lingering in the upper 30s and a damp, oppressive air that adds to the crisp discomfort of the day. As clouds hang heavily overhead, a strong, gusty wind sweeps in from the northwest, creating a blustery feel that can catch you off guard. The beach, typically a vibrant sight, is muted under this cloudy shroud, while the lapping waves from Lake Michigan speak to the ferocity of the wind, promising brisk conditions. \n\nAs we look to the forecast, overnight temperatures are expected to drop slightly before rising toward 40 degrees, lined with a chance of patchy drizzle. Tomorrow will see similar overcast skies with high temperatures expected in the mid-40s, accompanied by persistent winds that could gust up to 30 mph, making for a day that feels much colder. With winter approaching, these conditions are an early sign of the season, and dressing warmly in layers is essential for anyone venturing outdoors. Taking in the brisk air may feel refreshing for a brief stroll, but prolonged exposure will likely necessitate a cozy retreat indoors, especially for those contemplating outdoor activities during this holiday week.",
+    "color_code": "#4B4F6A",
+    "timestamp": "2024-11-22 04:06:06"
 }
