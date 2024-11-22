@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-22T00:00:00-06:00",
+                "startTime": "2024-11-22T02:00:00-06:00",
                 "endTime": "2024-11-22T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain before 2am, then patchy drizzle. Mostly cloudy, with a low around 40. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle after 4am. Cloudy, with a low around 40. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current scene is chilly and somewhat damp, with a temperature in the mid-30s. The atmosphere is thick and heavy, characteristic of an overcast night, with the wind blustering from the northwest at a vigorous pace. The shore of Lake Michigan is mostly calm, but conditions could lead to some gentle waves as the wind stirs the water. Looking ahead, the overnight forecast suggests a slight chance of rain transitioning to patchy drizzle, and temperatures are set to dip into the low 40s. Expect a cloudy day on Friday with highs reaching the upper 40s, while gusty winds will continue to whip through the area.\n\nFor outdoor enthusiasts, this isn\u2019t the most inviting weather to spend significant time outdoors; the conditions may feel raw and unwelcoming. Nevertheless, a brisk walk along the beach could invigorate as long as one is suitably dressed\u2014think warm layers and a waterproof jacket. Given that we are in late November, these temperatures align closely with typical seasonal averages for the region, evoking a sense of early winter settling in. While today is not a major holiday, Thanksgiving is just around the corner, heightening the anticipation of holiday gatherings and festivities ahead.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-22 01:05:45"
+    "weather_report": "As we look at Evanston, Illinois, the current scene is marked by a chilly and brisk atmosphere, with temperatures hovering in the mid 30s, while still maintaining a predominantly cloudy sky. The wind is rather fierce, sweeping in from the northwest, giving a biting edge to the night air that feels damp and cool. This will change as the overnight hours approach, bringing a high risk of patchy drizzle after 4 AM, with temperatures expected to settle around the low 40s.\n\nThe forecast for Friday reveals an overcast day with a high near 47 degrees, but a gradual drop in temperatures as the afternoon progresses. Winds will continue to be quite strong, maintaining their onslaught at 15 to 20 miles per hour with gusts reaching upwards to 30 miles per hour. While visibility may be limited with the clouds and possible drizzle, the wave conditions on Lake Michigan are likely to be moderate, with swells expected to also be influenced by the wind. For those venturing outside, layering is advisable; a warm, water-resistant coat along with a sturdy sweater underneath would be ideal to combat the chill and wind. \n\nConsidering the season, these temperatures fall below typical late November averages, which often see warmer days. With the festive spirit of Thanksgiving approaching, it may not be the most inviting weather to enjoy outdoor activities like strolling along the beach or picnicking. Rather, indoor gatherings, holiday preparations, or cozying up at home would be more suitable in this drizzly setting.",
+    "color_code": "#2A2E4D",
+    "timestamp": "2024-11-22 02:07:04"
 }
