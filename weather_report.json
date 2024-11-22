@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-22T02:51:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 82.472737837653,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 340,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-22T03:51:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 85.441682739594,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 330,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-21T22:00:00-06:00",
+                "startTime": "2024-11-21T23:00:00-06:00",
                 "endTime": "2024-11-22T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 20
                 },
                 "windSpeed": "15 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40/rain,20?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain before 2am, then patchy drizzle. Mostly cloudy, with a low around 40. North northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain before 2am, then patchy drizzle. Mostly cloudy, with a low around 40. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly and raw atmosphere, with temperatures hovering in the mid to upper 30s and a balmy, moist air contributing to a slightly uncomfortable dampness. The mostly cloudy skies shroud the night, with winds whipping in from the northwest, brisk and powerful, generating a notable chill in the air. Tonight, residents can expect a 40% chance of rain through the early hours, followed by patchy drizzle, as temperatures dip to around 40. Those stepping outside should prepare for a blustery evening, as gusts may reach up to 30 mph, making it feel even colder.\n\nLooking forward to Friday, conditions remain cloudy with high temperatures anticipated in the upper 40s, gradually cooling into the afternoon. The winds maintain their vigorous nature, promising a brisk day ahead, which could lead to additional discomfort for those unprepared for such blustery weather. As for the lake, expect wave conditions to be moderate, adding a slightly choppy character to the shoreline. Given this weather, individuals are advised to bundle up in warm, layered clothing, perhaps a sturdy coat, a scarf, and gloves. This time of year aligns with the typical chill of late November in the Midwest, as the region transitions fully towards the winter season. Outdoor plans may need to be adjusted in favor of cozying up indoors, perhaps enjoying the warmth of a beloved spot with friends or family while watching the rain drape over the lakeside.",
-    "color_code": "#4B7F92",
-    "timestamp": "2024-11-21 22:06:43"
+    "weather_report": "In Evanston, current conditions present a brisk and damp backdrop with temperatures hovering in the mid to high 30s. The air carries a chilly edge as a blustery northwest wind whispers in at nearly 25 miles per hour, creating a raw atmosphere perfect for curling up indoors. The sky is partly cloudy, adding a hint of light to the evening, yet the forthcoming forecast hints at a slightly more turbulent night, with a 20% chance of light rain before giving way to patchy drizzle. As the temperature drops to the low 40s, it combines with these breezy winds, suggesting a less than inviting environment for outdoor activities.\n\nLooking ahead to Friday, clouds will dominate the skyline, with high temperatures lingering in the upper 40s before dipping down in the afternoon. The persistent winds will maintain their lively presence, gusting upwards of 30 miles per hour. In terms of wave conditions, expect a bit of movement on Lake Michigan with increased activity due to the winds, though specifics on wave height remain unverified without local reports. Layered attire would be prudent for anyone venturing outside, perhaps opting for a warm coat, a scarf, and sturdy footwear. While these conditions may not align with typical outdoor recreational pursuits, those bundled up might still find enjoyment in brisk walks along familiar paths, relishing the quiet beauty of the season in this charming lakeside locale as the holiday season approaches.",
+    "color_code": "#4C4C4C",
+    "timestamp": "2024-11-21 23:05:44"
 }
