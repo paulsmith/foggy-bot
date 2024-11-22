@@ -13,13 +13,13 @@
             "humidity": 82.183211819876,
             "wind_speed_mph": 45.903240000000004,
             "wind_direction": 330,
-            "description": ""
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-22T08:00:00-06:00",
+                "startTime": "2024-11-22T09:00:00-06:00",
                 "endTime": "2024-11-22T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, temperatures linger in the low 40s, creating a crisp, cool atmosphere accentuated by a stiff northwesterly breeze that adds a touch of bite to the air. Overcast skies blanket the region, promising little in the way of sunshine today. There are no immediate signs of precipitation, but the day is characterized by grayness, which may dampen spirits for those hoping to be outdoors.\n\nAs the day progresses, temperatures are forecasted to peak near the mid 40s before settling into the low 40s by afternoon. Winds will remain brisk, with gusts that might dance up to 30 miles per hour, adding to the chill. Tonight, cloud cover persists with a low settling around 39 degrees, keeping outdoor plans brisk but manageable. Considering the season, this weather aligns well with typical late November conditions in the Midwest, suggesting a solid winter feel without hitting the extremes. \n\nFor those venturing outside, layering is recommended, perhaps a warm coat paired with a scarf to shield against the wind. Given the coolness and cloudiness, indoor activities like visiting local eateries, galleries, or shops would be ideal, rather than lingering too long outdoors in this somewhat somber setting. Today is November 22nd, which is known as a day of gathering for the Thanksgiving holiday, and many may find solace and warmth in time spent with family and friends over a festive meal.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2024-11-22 08:05:05"
+    "weather_report": "Evanston is currently experiencing a chilly day with temperatures hovering in the low 40s, wrapped in a blanket of clouds that dimmed the morning light. The brisk northwest winds are quite vigorous, gusting at times, adding a notable edge to the coolness in the air. This creates a somewhat raw sensation for those venturing outdoors. Today\u2019s weather will see these clouds persist, with a slight rise in temperature to the mid 40s, before cooling off again this afternoon. Expect a further drop as the evening unfolds, settling around the upper 30s.\n\nWith waves likely churning along Lake Michigan due to the strong winds, the beach today may not be ideal for leisurely strolls or sunbathing, although it could still intrigue those who appreciate the power of nature in its full, blustery glory. There is no precipitation forecasted, so expect the skies to remain cloudy without any rain on the horizon. To combat the wind\u2019s bite, wearing layered clothing would be wise; a warm jacket along with a hat and gloves would ensure comfort while outside. This time of year, temperatures in the low 40s feel quite typical for late November in the Midwest, making it a good day for indoor activities or a brisk walk if properly layered. Given that today is the day before Thanksgiving, it might be a good time to finalize preparations for the festivities ahead.",
+    "color_code": "#A9B4C9",
+    "timestamp": "2024-11-22 09:05:11"
 }
