@@ -19,21 +19,21 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-23T09:00:00-06:00",
+                "startTime": "2024-11-23T10:00:00-06:00",
                 "endTime": "2024-11-23T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 44,
+                "temperature": 43,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 44, with temperatures falling to around 42 in the afternoon. West wind around 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. High near 43, with temperatures falling to around 40 in the afternoon. West wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-23T18:00:00-06:00",
                 "endTime": "2024-11-24T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 38,
+                "temperature": 35,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 38. Southwest wind around 5 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 35. Southwest wind around 5 mph, with gusts as high as 10 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current chill of the day is marked by a temperature in the upper 30s, complemented by a robust breeze swirling from the northwest. As the clouds blanket the sky, the atmosphere feels notably brisk and a touch damp, thanks to the elevated moisture in the air. Expect the weather to remain predominantly cloudy throughout today with a high in the mid 40s, only to slide down to the upper 30s tonight. The winds will temper, shifting to a gentle breeze, creating a more manageable outdoor environment later in the day.\n\nThe beach may appear grey and moody, with the waves lapping softly at the shore, but the cooler air suggests that dressing warmly is essential\u2014think layered clothing with a comfortable scarf to shield against the chill. The seasonal temperature is typical for late November in this part of the Midwest, and while there may not be significant precipitation in the immediate future, the overall grey skies might deter leisurely outdoor activities. However, for the adventurous, a brisk walk along the lakeshore could be invigorating, giving a chance to embrace the beauty of Lake Michigan even in its muted winter palette.",
-    "color_code": "#5B5C56",
-    "timestamp": "2024-11-23 09:05:33"
+    "weather_report": "Today in Evanston, the weather presents a cool and damp outlook under a blanket of clouds. With temperatures currently resting in the upper 30s, one might feel a crisp chill in the air, amplified by gusty winds sweeping in from the northwest, making it feel colder than it is. The forecast indicates a high near the low 40s, gradually cooling through the afternoon, with a gentle wind expected to accompany the day. Tonight, we can expect cloud cover persisting, with temperatures dipping into the mid 30s accompanied by light breezes from the southwest.\n\nThe beach scene along the shores of Lake Michigan is likely to reflect the overcast conditions, casting a somber hue over the usually vibrant landscape. Wave conditions are likely moderate, given the wind speed, suggesting a gentle rippling effect on the water rather than crashing waves. Fortunately, no precipitation is expected throughout the day or into the night, making for a dry experience, albeit somewhat gloomy. Ideal attire would include warm layers\u2014perhaps a thick coat, a scarf, and gloves\u2014to stave off the cold, especially if venturing outdoors for an extended period. \n\nAs we settle into late November, these conditions align quite well with typical seasonal expectations in this part of the Midwest. For those seeking recreational activities, a stroll along the shoreline could be refreshing, just ensure to bundle up. With the Thanksgiving holiday just days behind us, many may still feel the lingering effects of the festive spirit, making a quiet walk or reflection by the serene but gray waters an appealing option today.",
+    "color_code": "#3c3c3c",
+    "timestamp": "2024-11-23 10:06:23"
 }
