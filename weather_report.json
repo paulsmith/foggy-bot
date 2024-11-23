@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T01:51:00+00:00",
-            "temperature_f": 44.06,
-            "temperature_c": 6.7,
-            "humidity": 72.99849708106,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 320,
+            "timestamp": "2024-11-23T03:51:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 78.753376184584,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 330,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening descends upon Evanston, the air feels crisp with current temperatures lingering in the low 40s, complemented by a substantial overcast sky. A blustery northwest wind whistles briskly, keeping the chill in the atmosphere palpable. The beach looks stark, suggesting the waves are likely to be somewhat restless given the wind's ferocity, creating a somewhat moody yet soothing setting. Tonight, expect cloudy skies to dominate, with temperatures dipping towards the high 30s as a gusty wind persists, adding a bite to the already cool conditions.\n\nLooking ahead to tomorrow, the clouds will remain as the day unfolds, with a high near the mid-40s that will gradually give way to even cooler afternoon readings. This time of year, as we approach Thanksgiving, such temperatures are seasonally typical for the Midwest, signaling the transition fully into late autumn's embrace. Recommended attire would include layered clothing and a wind-resistant jacket to stave off the chill. For those feeling adventurous, a brisk walk along the beach or through local parks could be invigorating, even if the scenery is slightly subdued. Special occasions are in the air, as families prepare for the upcoming holiday, wrapping up the year with gratitude and warmth despite the cooling temperatures.",
-    "color_code": "#4B4C4D",
-    "timestamp": "2024-11-22 22:06:53"
+    "weather_report": "Evanston, Illinois, is currently under a blanket of clouds, creating a chilly ambiance as temperatures hover in the low 40s, complemented by a brisk northwesterly wind that feels quite gusty. The air carries a somewhat damp chill, making it feel colder than the numbers suggest. Presently, there are no signs of precipitation, but the grey skies loom overhead with an intensity that suggests a potential shift. As we look forward, tonight's forecast predicts continued cloud cover with a low around the upper 30s, as the winds taper off to a gentler 10 to 15 mph.\n\nThroughout Saturday, expect a mostly cloudy day with afternoon temperatures dipping towards the low 40s. While the air may not be quite comfortable, it does not offer any major discomfort either\u2014just that persistent chill typical of this time of year along the lake. With waves likely becoming a bit choppy due to the wind, it may not be the best day for beachcombing, but bundled-up walks along the shoreline could still be enjoyable. Dress warmly in layers to fend off the cold, and consider waterproof footwear in case of any lingering dampness from the beach. As we find ourselves in late November, these temperatures align closely with expectations for the season, marking it as a typical autumn day in the Midwest.",
+    "color_code": "#4B5B8A",
+    "timestamp": "2024-11-22 23:05:12"
 }
