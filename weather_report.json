@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-23T12:00:00-06:00",
+                "startTime": "2024-11-23T14:00:00-06:00",
                 "endTime": "2024-11-23T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-23T18:00:00-06:00",
                 "endTime": "2024-11-24T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 35,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 35. Southwest wind around 5 mph, with gusts as high as 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/fog/rain?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Patchy fog between 11pm and midnight, then areas of fog and patchy drizzle. Cloudy, with a low around 34. Southwest wind around 5 mph, with gusts as high as 10 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions paint a rather chilly scene, with temperatures hovering in the upper 30s and a persistent cloud cover that adds to the brisk atmosphere. The wind is strong and blustery, creating a noticeable bite to the air as it sweeps in from the southwest. This afternoon, expect similar cloudiness with temperatures inching just a touch upward before dipping again, accompanied by gentle winds carrying a hint of warmth. As night falls, the clouds will remain, and a slight drop in temperatures to the mid-30s will set in, leading to a calm evening with only light breezes.\n\nOverall, today\u2019s weather gives off a rather gloomy vibe, with dim light reflecting off the gray waters of Lake Michigan. Wave conditions may be slightly choppy due to the blustery winds, making it less than ideal for water-based activities. With no precipitation in the forecast, the day remains dry, but the cooler temperatures dictate that layered attire is essential to stay warm and comfortable while outdoors. In this late November setting, the temperatures are about what one would expect for the season, prompting thoughts of indoor activities such as visiting local caf\u00e9s or art galleries, where one can find warmth and solace from the biting winds. As today is not a holiday, it's a typical day for engagement with community events or preparations for the upcoming festive season.",
-    "color_code": "#3A3A3B",
-    "timestamp": "2024-11-23 12:05:50"
+    "weather_report": "Current conditions in Evanston reveal a chilly afternoon with an overcast sky, where temperatures hover in the upper 30s, complemented by a brisk and blustery wind whipping at nearly 25 mph from the west-southwest. As the day progresses, expect temperatures to dip slightly, falling into the low 40s, with a sense of dampness in the air likely contributing to a rather cool and possibly uncomfortable feel if exposed for too long. \n\nRest assured, this evening brings a shift toward patchy fog and drizzle, particularly after 11 PM, as temperatures settle around the mid-30s. Winds will soften to a gentle whisper, but the lake's waves remain a bit restless, hinting at an unsettled water surface. Given the current season, these temperatures are quite typical for late November in the Midwest, though they may feel a bit biting due to the conditions. For outdoor ventures, warmly layered attire is recommended, ideally featuring a windproof jacket and comfortable footwear, since lingering drizzles could make for slippery paths. With the holiday season around the corner, this chilly weather might just be the backdrop for cozy indoor gatherings rather than outdoor adventures.",
+    "color_code": "#A5A8A7",
+    "timestamp": "2024-11-23 14:05:58"
 }
