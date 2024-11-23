@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-23T14:00:00-06:00",
+                "startTime": "2024-11-23T16:00:00-06:00",
                 "endTime": "2024-11-23T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather presents a rather chilly scene, with temperatures hovering in the mid-30s, accentuated by a blustery wind sweeping off Lake Michigan. The clouds overhead create a drab backdrop, while the air carries a damp chill, making it feel even cooler. As we look ahead to this afternoon, expect more cloud cover with a high near 43 degrees, though temperatures will likely settle back into the upper 30s by the end of the day. Tonight brings a shift to patchy fog and drizzle, with low temperatures around freezing, making it essential to prepare for a damp evening.\n\nWave conditions along the lake might be slight, but the ongoing wind creates a restless surface. Given these conditions, attire that includes layers\u2014perhaps a warm, waterproof jacket and sturdy shoes\u2014will offer the best comfort against the elements. In this late November season, these temperatures are fairly typical for the region, as the Midwest transitions into winter. As for activities, outdoor endeavors may be limited due to the fog and chill, but a brisk walk along the beach could still prove invigorating for those well-prepared for the weather, all while soaking in the tranquil atmosphere prior to the holiday rush.",
-    "color_code": "#6B8E23",
-    "timestamp": "2024-11-23 15:04:43"
+    "weather_report": "In Evanston, Illinois, the current conditions are a chill in the air marked by temperatures hovering in the upper 30s, accompanied by a robust breeze that heightens the cool feel of the day. The sky hangs heavily with clouds, reflecting a muted glow that signals the arrival of patchy fog and drizzle expected later tonight. As we transition into the later hours, the temperature will retreat into the mid-30s, with light winds lessening to a gentle whisper. These conditions create a rather dreary scene, likely discouraging outdoor activities for most.\n\nAs for the waves along Lake Michigan, the forecast suggests a gentle lapping against the shore, given the relatively calm winds. Precipitation will become more pronounced later in the evening, with fog rolling in and possible drizzles that can make the atmosphere feel damp. For those considering venturing outdoors, warm attire is advisable, ideally layered to combat the cool breeze and potential moisture. Overall, this late November weather aligns with the seasonal expectations for this time of year, as cooler temperatures are typical for the region, setting the stage for cozy indoor pursuits likely more appealing than outdoor excursions on this gray afternoon.",
+    "color_code": "#507B7F",
+    "timestamp": "2024-11-23 16:04:57"
 }
