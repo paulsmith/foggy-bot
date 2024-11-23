@@ -7,7 +7,7 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T12:51:00+00:00",
+            "timestamp": "2024-11-23T13:51:00+00:00",
             "temperature_f": 39.02,
             "temperature_c": 3.9,
             "humidity": 79.060809598359,
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-23T08:00:00-06:00",
+                "startTime": "2024-11-23T09:00:00-06:00",
                 "endTime": "2024-11-23T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the air is crisp and cool, enveloping the area with a blanket of cloud cover. Current conditions reveal a temperature in the low 40s paired with noticeable winds that add a chill to the overall atmosphere. The brisk conditions, alongside the rich, moist air quality, create a somewhat dreary scene, leaving the beach looking subdued, yet tranquil. Wave activity is moderate, reflecting the sky\u2019s temperamental demeanor, though no precipitation is currently expected. \n\nThe forecast for today anticipates mostly cloudy skies with a high reaching near 44, slightly dipping into the 40s as the day progresses. A gentle west wind will provide some relief but may still feel biting to those exposed to it. Attire should include layers with a warm outer shell\u2014perhaps a light jacket\u2014to ensure comfort while venturing outside. As we approach Thanksgiving, these seasonal conditions are typical for late November in the Midwest, inviting a spirit of reflection as families gather for the holiday.\n\nFor those seeking activities, this weather may discourage long outdoor ventures; however, it presents a perfect backdrop for a cozy caf\u00e9 outing or a leisurely stroll along the beach, taking in the serene beauty of Lake Michigan under the muted skies.",
-    "color_code": "#8B9DA8",
-    "timestamp": "2024-11-23 08:04:45"
+    "weather_report": "In Evanston, the current chill of the day is marked by a temperature in the upper 30s, complemented by a robust breeze swirling from the northwest. As the clouds blanket the sky, the atmosphere feels notably brisk and a touch damp, thanks to the elevated moisture in the air. Expect the weather to remain predominantly cloudy throughout today with a high in the mid 40s, only to slide down to the upper 30s tonight. The winds will temper, shifting to a gentle breeze, creating a more manageable outdoor environment later in the day.\n\nThe beach may appear grey and moody, with the waves lapping softly at the shore, but the cooler air suggests that dressing warmly is essential\u2014think layered clothing with a comfortable scarf to shield against the chill. The seasonal temperature is typical for late November in this part of the Midwest, and while there may not be significant precipitation in the immediate future, the overall grey skies might deter leisurely outdoor activities. However, for the adventurous, a brisk walk along the lakeshore could be invigorating, giving a chance to embrace the beauty of Lake Michigan even in its muted winter palette.",
+    "color_code": "#5B5C56",
+    "timestamp": "2024-11-23 09:05:33"
 }
