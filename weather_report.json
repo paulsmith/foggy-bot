@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T06:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 82.104692489025,
+            "timestamp": "2024-11-23T07:51:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 82.614624284648,
             "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 310,
+            "wind_direction": 330,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston, Illinois, paint a chilly picture. It's a cool low 40s night, with a noticeable breeze sweeping in from the northwest, creating a blustery atmosphere. Clouds blanket the sky, adding a layer of gloom that softens the edges of the urban landscape. Expect these gray clouds to linger into Saturday, with temperatures slowly inching toward the mid-40s, followed by an afternoon drop towards the low 40s. Though there are no precipitation threats in the immediate forecast, the gusty winds are likely to kick up waves on Lake Michigan, making for a restless lakefront scene.\n\nFor those contemplating outdoor activities, be sure to bundle up in warm layers, perhaps a heavy jacket and gloves, to combat the brisk winds and cool air. The November chill coupled with the seasonal cloud cover reflects typical Midwest weather, neither surprising nor particularly inviting for outdoor excursions. However, it could be a good opportunity for a cozy day indoors with warm beverages, or a brisk walk along the beach to enjoy the lingering fall atmosphere before winter fully sets in.",
-    "color_code": "#4B5C88",
-    "timestamp": "2024-11-23 02:07:11"
+    "weather_report": "As we look toward the shoreline in Evanston, the temperature hovers in the chilly low 40s, accompanied by a brisk northwest wind creating a notable chill. The air feels damp, enhancing the overcast skyline. Currently, the beach scene is enveloped in a blanket of clouds, with no precipitation in sight. The ongoing gustiness from the northwest gives a stark reminder of the biting winds typical of late fall along the shores of Lake Michigan, making it wise to bundle up if venturing outside.\n\nThe forecast for the day suggests a continuation of mostly cloudy skies, reaching a high of around 44 during the afternoon before dipping back into the low 40s. With these temperatures being consistent with late November norms, the ambience remains quite typical for the season. Residents may experience intermittent bouts of restlessness but warm layers will keep them comfortable against the sweeping winds. Water conditions at the beach may present some small waves, but given the dampness in the air, it's not a day for leisurely swimming or sunbathing. Instead, it\u2019s perfect weather for a brisk walk along the shore, perhaps with a thermos of hot coffee in hand, enjoying the natural beauty of this locale as the glum skies reflect the quietude of the season.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2024-11-23 03:04:51"
 }
