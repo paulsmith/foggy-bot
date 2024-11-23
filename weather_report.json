@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T08:51:00+00:00",
+            "timestamp": "2024-11-23T09:51:00+00:00",
             "temperature_f": 39.92,
             "temperature_c": 4.4,
             "humidity": 79.13634713827,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 300,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 290,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently enveloped in a cloudy and crisp atmosphere as temperatures hover in the high 30s. The air feels invigoratingly cool, accentuated by a fierce wind sweeping across the beach, making the day feel quite brisk. While there is no significant precipitation on the horizon, the gusty conditions combined with the overcast sky present a scene that might be perceived as rather dreary at first glance. However, the waves of Lake Michigan churn gently, reflecting a vibrant yet subtle energy, inviting sturdy souls who wish to embrace the elements.\n\nLooking ahead, the day promises mostly cloudy skies, with a high temperature peaking in the low 40s. This is typical for late November in the Midwest, where the transition into winter brings a noticeable chill. Attire should lean towards warm and layered clothing, perhaps a cozy jacket or a thick sweater, especially with the wind chill adding a bite to the air. Outdoor activities may be best enjoyed in brief bursts\u2014perhaps a quick stroll along the beach or a brisk walk through a nearby park to appreciate the seasonal changes, but prepare to retreat indoors for warmth soon after.",
-    "color_code": "#2A2D30",
-    "timestamp": "2024-11-23 04:05:04"
+    "weather_report": "In Evanston, Illinois, the current temperature is hovering in the upper 30s, with a brisk and blustery wind kicking up from the northwest. The air feels rather raw as humidity adds to a damp chill, combining to make the outdoors feel quite uninviting this morning. The sky is overcast, casting a muted gray over the landscape, which diminishes visibility somewhat but reflects the tranquil yet somber character of this late November day.\n\nAs we look ahead to the forecast, expect continued cloud cover with temperatures reaching a high in the mid 40s later today. The wind will remain gentle but noticeable, and while there is no significant precipitation on the horizon, the atmosphere retains a heavy, expectant weight that might hint at the possibility of future rain. The waves on Lake Michigan are likely to be moderate, providing a soothing rhythm against the shore but not ideal conditions for any water activities. Given the brisk temperatures and raw conditions, it would be wise to dress warmly in layers, perhaps reaching for a sturdy coat and comfortable shoes suitable for walking. While today isn't marked as a holiday, those looking to enjoy the sights might consider cozying up with a hot beverage and taking a brief stroll along the beach, relishing the quietude of the season.",
+    "color_code": "#A3A48C",
+    "timestamp": "2024-11-23 05:04:46"
 }
