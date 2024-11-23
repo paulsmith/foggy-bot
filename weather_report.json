@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T10:51:00+00:00",
-            "temperature_f": 39.92,
-            "temperature_c": 4.4,
-            "humidity": 79.13634713827,
+            "timestamp": "2024-11-23T11:51:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 81.959440634687,
             "wind_speed_mph": 28.991520000000005,
             "wind_direction": 330,
-            "description": "Cloudy"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-23T06:00:00-06:00",
+                "startTime": "2024-11-23T07:00:00-06:00",
                 "endTime": "2024-11-23T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Currently in Evanston, the day kicks off with a decidedly brisk atmosphere, with temperatures hovering in the chilly mid-30s and a significant wind creating a sharp edge to the air, transforming the early morning into a reminder of winter\u2019s approach. The sky is overcast, draping the landscape with a blanket of clouds, and the wind is fierce, blowing in from the northwest at nearly 30 miles per hour. Fortunately, there are no signs of",
-    "color_code": null,
-    "timestamp": "2024-11-23 06:08:24"
+    "weather_report": "Current conditions in Evanston showcase a chilly morning with temperatures hovering in the upper 30s, accompanied by a brisk and blustery wind that adds to the coolness of the day. The atmosphere feels damp but not overwhelmingly oppressive, making it somewhat crisp as clouds blanket the sky. As we look ahead to the day, a mostly cloudy forecast is anticipated, with a high nearing the mid 40s. By the afternoon, expect temperatures to dip slightly, settling around 42 degrees as a gentle west wind sweeps through the region.\n\nThe lake can be expected to present mild wave conditions, appropriate for a short visit along the shoreline, though outdoor activities may benefit from the preparation for the chill. With the day being a typical late November scene in Illinois, opting for layers such as a warm coat, scarf, and gloves would be advisable to keep comfortable. While the weather may not inspire long outdoor excursions, it certainly allows for an invigorating stroll along the beach or a peaceful moment near the lakeside. Today is not marked by any significant holiday, but the anticipation of upcoming festivities can be felt in the air as the season shifts.",
+    "color_code": "#4B6F83",
+    "timestamp": "2024-11-23 07:09:13"
 }
