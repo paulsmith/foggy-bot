@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T03:51:00+00:00",
+            "timestamp": "2024-11-23T04:51:00+00:00",
             "temperature_f": 42.08,
             "temperature_c": 5.6,
             "humidity": 78.753376184584,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 330,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 310,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-22T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-23T00:00:00-06:00",
                 "endTime": "2024-11-23T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 39. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Cloudy, with a low around 39. Northwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston, Illinois, is currently under a blanket of clouds, creating a chilly ambiance as temperatures hover in the low 40s, complemented by a brisk northwesterly wind that feels quite gusty. The air carries a somewhat damp chill, making it feel colder than the numbers suggest. Presently, there are no signs of precipitation, but the grey skies loom overhead with an intensity that suggests a potential shift. As we look forward, tonight's forecast predicts continued cloud cover with a low around the upper 30s, as the winds taper off to a gentler 10 to 15 mph.\n\nThroughout Saturday, expect a mostly cloudy day with afternoon temperatures dipping towards the low 40s. While the air may not be quite comfortable, it does not offer any major discomfort either\u2014just that persistent chill typical of this time of year along the lake. With waves likely becoming a bit choppy due to the wind, it may not be the best day for beachcombing, but bundled-up walks along the shoreline could still be enjoyable. Dress warmly in layers to fend off the cold, and consider waterproof footwear in case of any lingering dampness from the beach. As we find ourselves in late November, these temperatures align closely with expectations for the season, marking it as a typical autumn day in the Midwest.",
-    "color_code": "#4B5B8A",
-    "timestamp": "2024-11-22 23:05:12"
+    "weather_report": "In Evanston, current conditions present a chilly scene characterized by a temperature in the low 40s, which, coupled with a brisk and blustery wind, creates a rather biting atmosphere. The air is thick with cloud cover, resulting in a muted palette across the landscape, particularly as visibility over Lake Michigan may be limited by the ongoing overcast skies. As we look ahead, the forecast calls for an overnight dip to a low around 39, with gentle northwest breezes calming slightly tomorrow. Saturday promises mostly cloudy skies with temperatures peaking near the mid 40s, creating a continued sense of coolness throughout the day.\n\nThe overall appearance is quite gloomy, with the lake\u2019s waves reflecting the choppy conditions instigated by winds gusting at times to 20 mph. While precipitation isn\u2019t expected today, the air carries a damp chill, making any outings rather uncomfortable unless dressed appropriately. Layering with a warm coat, perhaps a hat and gloves, is advisable to ward off the bite of the cold. Temperatures this time of year are typical for late November in the Midwest, keeping in line with seasonal expectations. Outdoor activities may be limited, but a stroll along the beach or visit to local cafes could provide some mild enjoyment, as long as one is prepared for the brisk air and cloudy ambiance.",
+    "color_code": "#808080",
+    "timestamp": "2024-11-23 00:06:34"
 }
