@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-23T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-23T12:00:00-06:00",
                 "endTime": "2024-11-23T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 43, with temperatures falling to around 40 in the afternoon. West southwest wind 5 to 10 mph."
+                "detailedForecast": "Cloudy. High near 43, with temperatures falling to around 40 in the afternoon. West southwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston greets the day with a chilly atmosphere, as current conditions reveal temperatures hovering in the upper 30s, complemented by a blustery wind sweeping in from the west-southwest. The sky is draped in a layer of clouds, casting a muted light over the landscape, with the breeze adding a brisk edge to the already cool air. As the day progresses, expect the temperature to only rise slightly, peaking near the low 40s before gradually falling again in the afternoon. Tonight, clouds will linger, with temperatures dipping into the mid 30s, and a gentle breeze may offer a soothing effect for some evening strolls.\n\nGiven these conditions, you'll want to bundle up in warm layers, perhaps donning a cozy coat and snug gloves during any outdoor adventures. The water nearby is likely to be choppy, as the wind creates moderate waves on the lake\u2014ideal for those who appreciate the waves\u2019 crash against the shore but not for swimming. Though there's no precipitation forecasted for the day, the cloudy skies may dampen the overall brightness, giving it a rather somber but picturesque feel. While it might be tempting to settle indoors, a brisk walk along the beach could be quite invigorating, especially with the holiday season on the horizon, bringing a festive spirit to the town.",
-    "color_code": "#2C2D2E",
-    "timestamp": "2024-11-23 11:04:37"
+    "weather_report": "In Evanston, the current conditions paint a rather chilly scene, with temperatures hovering in the upper 30s and a persistent cloud cover that adds to the brisk atmosphere. The wind is strong and blustery, creating a noticeable bite to the air as it sweeps in from the southwest. This afternoon, expect similar cloudiness with temperatures inching just a touch upward before dipping again, accompanied by gentle winds carrying a hint of warmth. As night falls, the clouds will remain, and a slight drop in temperatures to the mid-30s will set in, leading to a calm evening with only light breezes.\n\nOverall, today\u2019s weather gives off a rather gloomy vibe, with dim light reflecting off the gray waters of Lake Michigan. Wave conditions may be slightly choppy due to the blustery winds, making it less than ideal for water-based activities. With no precipitation in the forecast, the day remains dry, but the cooler temperatures dictate that layered attire is essential to stay warm and comfortable while outdoors. In this late November setting, the temperatures are about what one would expect for the season, prompting thoughts of indoor activities such as visiting local caf\u00e9s or art galleries, where one can find warmth and solace from the biting winds. As today is not a holiday, it's a typical day for engagement with community events or preparations for the upcoming festive season.",
+    "color_code": "#3A3A3B",
+    "timestamp": "2024-11-23 12:05:50"
 }
