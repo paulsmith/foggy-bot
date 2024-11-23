@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-22T18:00:00-06:00",
+                "startTime": "2024-11-22T19:00:00-06:00",
                 "endTime": "2024-11-23T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois reveal a blustery scene with temperatures hovering in the mid 40s, underscored by a somewhat damp coolness that might put a chill in the air as daylight fades. The skies are heavily cloaked in clouds, contributing to a somber mood over Lake Michigan. Throughout the evening, expect more of the same, with temperatures dipping to the upper 30s, accompanied by a northwest wind, which will be noticeable but not overpowering, ranging from gentle to brisk with potential gusts stirring up the water.\n\nLooking ahead to Saturday, conditions will remain mostly cloudy, with daytime highs flirting with the mid 40s before settling back into the low 40s by the afternoon. Wave conditions at the beach may be vigorous due to the sustained wind, making the lake appear choppy and restless. While no precipitation is forecast, it\u2019s advisable to dress warmly and perhaps add a windbreaker to combat the gusty conditions. Being late November, these temperatures are typical for the season in this northern region, so a cozy day indoors or a brisk walk along the shore would be appropriate, particularly as we approach the Thanksgiving holiday.",
-    "color_code": "#4B8BBE",
-    "timestamp": "2024-11-22 18:22:33"
+    "weather_report": "As dusk settles over Evanston, the air carries a brisk chill, hovering in the low 40s, accentuated by a fierce, howling wind from the northwest. The darkened beach presents a muted, cloudy scene that promises a night devoid of bright celestial beauty. Waves crash rhythmically against the shore, stirred up by the vigorous gusts, making for wildlife and shorebirds a rather tumultuous environment. Residents should prepare for a chilly evening with temperatures expected to dip into the high 30s, so bundling up in warm layers is advisable, perhaps with a windbreak to shield against the biting air.\n\nLooking ahead to tomorrow, expect a continuation of the gray clouds, with temperatures just peeking to about 45 before slipping in the afternoon. The wind should settle into a more manageable pace, offering a gentler experience for those venturing outdoors. This is typical early winter weather for this region, though the fierce winds today certainly shine a spotlight on its occasionally tumultuous character. Given the conditions, indoor activities may be more appealing, perhaps a cozy gathering or visiting local shops in the ever-charming downtown Evanston, as the holiday season approaches.",
+    "color_code": "#4B545A",
+    "timestamp": "2024-11-22 19:32:28"
 }
