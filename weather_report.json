@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T09:51:00+00:00",
+            "timestamp": "2024-11-23T10:51:00+00:00",
             "temperature_f": 39.92,
             "temperature_c": 4.4,
             "humidity": 79.13634713827,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 290,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 330,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-23T04:00:00-06:00",
-                "endTime": "2024-11-23T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 39. Northwest wind around 10 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2024-11-23T06:00:00-06:00",
                 "endTime": "2024-11-23T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy. High near 44, with temperatures falling to around 42 in the afternoon. West wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-23T18:00:00-06:00",
+                "endTime": "2024-11-24T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 38. Southwest wind around 5 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current temperature is hovering in the upper 30s, with a brisk and blustery wind kicking up from the northwest. The air feels rather raw as humidity adds to a damp chill, combining to make the outdoors feel quite uninviting this morning. The sky is overcast, casting a muted gray over the landscape, which diminishes visibility somewhat but reflects the tranquil yet somber character of this late November day.\n\nAs we look ahead to the forecast, expect continued cloud cover with temperatures reaching a high in the mid 40s later today. The wind will remain gentle but noticeable, and while there is no significant precipitation on the horizon, the atmosphere retains a heavy, expectant weight that might hint at the possibility of future rain. The waves on Lake Michigan are likely to be moderate, providing a soothing rhythm against the shore but not ideal conditions for any water activities. Given the brisk temperatures and raw conditions, it would be wise to dress warmly in layers, perhaps reaching for a sturdy coat and comfortable shoes suitable for walking. While today isn't marked as a holiday, those looking to enjoy the sights might consider cozying up with a hot beverage and taking a brief stroll along the beach, relishing the quietude of the season.",
-    "color_code": "#A3A48C",
-    "timestamp": "2024-11-23 05:04:46"
+    "weather_report": "Currently in Evanston, the day kicks off with a decidedly brisk atmosphere, with temperatures hovering in the chilly mid-30s and a significant wind creating a sharp edge to the air, transforming the early morning into a reminder of winter\u2019s approach. The sky is overcast, draping the landscape with a blanket of clouds, and the wind is fierce, blowing in from the northwest at nearly 30 miles per hour. Fortunately, there are no signs of",
+    "color_code": null,
+    "timestamp": "2024-11-23 06:08:24"
 }
