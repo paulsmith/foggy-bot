@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T05:51:00+00:00",
+            "timestamp": "2024-11-23T06:51:00+00:00",
             "temperature_f": 41.0,
             "temperature_c": 5,
             "humidity": 82.104692489025,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 300,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 310,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-23T01:00:00-06:00",
+                "startTime": "2024-11-23T02:00:00-06:00",
                 "endTime": "2024-11-23T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-23T06:00:00-06:00",
                 "endTime": "2024-11-23T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 45,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. West wind around 10 mph."
+                "detailedForecast": "Mostly cloudy. High near 44, with temperatures falling to around 42 in the afternoon. West wind around 10 mph."
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston are marked by a chilly atmosphere with temperatures settling in the low 40s and a comforting layer of clouds hanging overhead. The wind is notably brisk, creating a blustery feel along the shoreline. As we look ahead, tonight\u2019s forecast predicts cloudy skies continuing, with temperatures dipping to around the upper 30s. Tomorrow, the weather is expected to remain mostly cloudy, reaching a high near the mid 40s, with a gentle breeze from the west.\n\nIn terms of aesthetics, while the muted lighting and cloudy skies may not provide the most vibrant ocean views, they do create a soft, calming ambiance. Wave conditions appear moderate, with the potential for some lively ripples due to the strong winds. Thankfully, precipitation is unlikely for the upcoming period, making it suitable for outdoor activities. Given the season, these temperatures are typical for late November in the Midwest, signaling the approach of winter. For those venturing outside, layering warmly is advisable, as the interplay of cool air and wind can make it feel even chillier. Ideal activities include a brisk walk along the beach or cozying up at a local caf\u00e9 to enjoy the scenic, yet muted shoreline.",
-    "color_code": "#6B7F93",
-    "timestamp": "2024-11-23 01:05:00"
+    "weather_report": "Current weather conditions in Evanston, Illinois, paint a chilly picture. It's a cool low 40s night, with a noticeable breeze sweeping in from the northwest, creating a blustery atmosphere. Clouds blanket the sky, adding a layer of gloom that softens the edges of the urban landscape. Expect these gray clouds to linger into Saturday, with temperatures slowly inching toward the mid-40s, followed by an afternoon drop towards the low 40s. Though there are no precipitation threats in the immediate forecast, the gusty winds are likely to kick up waves on Lake Michigan, making for a restless lakefront scene.\n\nFor those contemplating outdoor activities, be sure to bundle up in warm layers, perhaps a heavy jacket and gloves, to combat the brisk winds and cool air. The November chill coupled with the seasonal cloud cover reflects typical Midwest weather, neither surprising nor particularly inviting for outdoor excursions. However, it could be a good opportunity for a cozy day indoors with warm beverages, or a brisk walk along the beach to enjoy the lingering fall atmosphere before winter fully sets in.",
+    "color_code": "#4B5C88",
+    "timestamp": "2024-11-23 02:07:11"
 }
