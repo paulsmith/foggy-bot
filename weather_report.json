@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T08:20:00+00:00",
+            "timestamp": "2024-11-24T09:51:00+00:00",
             "temperature_f": 37.94,
             "temperature_c": 3.3,
-            "humidity": 82.472737837653,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 200,
+            "humidity": 89.254284492114,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 210,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-24T04:00:00-06:00",
+                "startTime": "2024-11-24T05:00:00-06:00",
                 "endTime": "2024-11-24T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "SW",
+                "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Cloudy, with a low around 37. Southwest wind around 5 mph."
+                "detailedForecast": "Patchy fog. Cloudy, with a low around 37. South southwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a chilly picture, typical of late November, with temperatures lingering in the mid-30s and a damp atmosphere that enhances the coolness of the air. The skies are overcast, draping a gray blanket over the landscape, while a gentle yet persistent breeze whispers off Lake Michigan, giving the environment an invigorating but slightly uncomfortable feel. Visibility may be reduced due to the patchy fog anticipated overnight, which could linger into the early morning hours, making the early hours feel more isolating.\n\nLooking ahead at the forecast for the day, expect those murky conditions to ease up by mid-morning, giving way to partly sunny skies that could lift spirits and temperatures into the upper 40s. The waves on the lake remain modest, making it less than ideal for any vigorous water activities, but still inviting for those who enjoy a brisk stroll along the shore, bundled up in warm layers. A light jacket paired with a scarf will suffice to fend off the chill, particularly as a gentle southerly breeze starts to flow. While no significant precipitation is expected in the short term, the atmosphere still carries a hint of moisture that could prompt a light drizzle, especially before noon. As this is a weekend with no major holiday on the calendar, it offers a perfect opportunity for outdoor family activities or a quiet day by the water, should one wish to embrace the tranquility of the season.",
-    "color_code": "#9CA3A2",
-    "timestamp": "2024-11-24 04:05:51"
+    "weather_report": "A damp chill envelops Evanston this morning, with temperatures settling comfortably in the mid 30s and a noteworthy breeze adding a bite to the air. The day begins under a blanket of clouds and patchy fog, leaving the atmosphere feeling heavy yet still, with gentle winds whispering from the south-southwest. Wave conditions on Lake Michigan are moderate but steady, with the water reflecting the overcast skies in a muted palette. As the day unfolds, expect a transition to partly sunny skies by afternoon, bringing a promise of warmth, with highs reaching near the upper 40s\u2014a touch more inviting than the early dawn.\n\nWhile precipitation won\u2019t be a worry, visibility may remain limited into the morning due to residual fog. Dress in layers to adapt to the fluctuating temperatures, opting for warm attire that withstands the briskness of the wind. Although not typical for the end of November, the highs remind us that more temperate days can occur even as winter approaches. Ideal activities might include a brisk walk along the shoreline or simply enjoying the coziness of local cafes, as this day presents the perfect opportunity to embrace the soothing ambiance of the season. As we gather together in the spirit of the holiday season, let's remember that tomorrow is indeed a celebration, ushering in a hopeful time for family and friends.",
+    "color_code": "#5A5B6D",
+    "timestamp": "2024-11-24 05:04:40"
 }
