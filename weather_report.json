@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T19:51:00+00:00",
+            "timestamp": "2024-11-24T20:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
-            "humidity": 68.527334655366,
+            "humidity": 70.971964459347,
             "wind_speed_mph": 45.903240000000004,
             "wind_direction": 100,
             "description": "Cloudy"
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-24T15:00:00-06:00",
+                "startTime": "2024-11-24T16:00:00-06:00",
                 "endTime": "2024-11-24T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 50,
@@ -32,8 +32,8 @@
                 "windSpeed": "10 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 50. Southeast wind around 10 mph, with gusts as high as 20 mph."
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 50. Southeast wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the weather today feels quite brisk, with current temperatures lingering in the mid to high 40s. The air carries a damp chill, likely making it a bit uncomfortable for those unprepared for the cooler temperatures, especially with the blustery conditions adding to the sense of briskness. As the afternoon unfolds, a mixture of clouds and patches of sun are expected, providing a slight reprieve from the overcast ceiling that has dominated the sky. Winds will ease to a gentle breeze later on, contributing to a slightly improved sense of comfort.\n\nLooking ahead to the evening, the forecast calls for potential drizzle and scattered rain showers, which might dampen outdoor plans. Rainfall amounts are expected to be light, but with a 40% chance of precipitation, it's wise to keep an umbrella handy. Wave conditions on Lake Michigan are likely to be moderate, given the winds earlier in the day; this could be suitable for those keen on a brisk walk along the shore, although caution is advised during any water-related activities due to the weather's unpredictability. Dressing in layers is recommended, ideally including a windbreaker and a warm hat, to navigate the cooling temperatures as the day winds down. Considering this time of year, these conditions fall right in line with typical November weather for the region, where cooler temperatures start to envelop the landscape, signaling the approach of winter. \n\nAs we enjoy this quiet Saturday, the holiday season is just around the corner, with Thanksgiving freshly passed, and it\u2019s a lovely time to appreciate local traditions or simply enjoy a walk by the shore.",
-    "color_code": "#8B9B9B",
-    "timestamp": "2024-11-24 15:04:49"
+    "weather_report": "In Evanston today, the chilly air carries a damp, brisk feeling as the temperature hovers in the upper 40s, complemented by a gentle yet persistent breeze from the southeast. Overcast skies blanket the region, with the calm surface of Lake Michigan revealing slight ripples, prime indicators of the day's blustery tendencies. As we look ahead to the afternoon, expect mostly cloudy conditions with temperatures inching closer to 50 degrees. A shift in the winds will bring a light touch, with gusts potentially reaching 20 miles per hour.\n\nAs evening approaches, the chance of patchy drizzle followed by scattered showers brings a layer of gray to the already overcast sky, as temperatures dip into the upper 40s. Attire recommendations for this late November day include layers to combat the cool, clammy conditions, perhaps with a waterproof jacket on hand as the evening progresses. The current temperature is typical for this time of year along the Midwest lakes, providing that crisp seasonal charm, though the clouds and moist air may make it feel a touch more uninviting. This weekend marks an ideal time for cozy indoor activities or a brisk walk along the beach, but be prepared for a light sprinkle should you venture out.",
+    "color_code": "#4B8BBE",
+    "timestamp": "2024-11-24 16:04:57"
 }
