@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T10:51:00+00:00",
+            "timestamp": "2024-11-24T11:33:00+00:00",
             "temperature_f": 37.94,
             "temperature_c": 3.3,
             "humidity": 89.254284492114,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 190,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 180,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-24T06:00:00-06:00",
+                "startTime": "2024-11-24T07:00:00-06:00",
                 "endTime": "2024-11-24T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 15 mph",
-                "windDirection": "SSE",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
                 "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog before 9am. Partly sunny, with a high near 49. South southeast wind 5 to 15 mph."
+                "detailedForecast": "Patchy fog before 9am. Partly sunny, with a high near 49. Southeast wind 5 to 15 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Good morning from Evanston, where the day begins under cloudy skies with a chilly temperature hovering in the mid 30s, giving the air a crisp, brisk feeling for those stepping outside. Currently, a gentle breeze flows in from the south, contributing to an overall dampness as patchy fog has been lingering from the early hours. As the day unfolds, expect a gradual rise in warmth with the promise of partly sunny skies that could bring the temperature close to the upper 40s this afternoon.\n\nTonight, the clouds will prevail, and there's a likelihood of patchy drizzle and scattered rain showers following the late evening, with conditions remaining relatively mild for this time of year, as lows are predicted to hover around the upper 40s. With winds softening to a light southeast, expect a gentle rhythm to the waves along Lake Michigan, though they may grow slightly choppy with the onset of rain. As this Saturday falls well into late November, the season's chill is setting in, and today's temperatures are quite typical for the region. For those venturing outside, layering up in a warm jacket, perhaps with a water-resistant exterior, is advised to remain comfortable amid the potential for damp conditions. Take in the lovely views of the lake, but perhaps opt for indoor activities as the rain is likely to bring an end to leisurely strolls along the beachfront.",
-    "color_code": "#8A9DB1",
-    "timestamp": "2024-11-24 06:07:57"
+    "weather_report": "Current conditions in Evanston, Illinois, reveal a cool and damp atmosphere, with temperatures lingering in the mid to upper 30s. The air carries a palpable chill, compounded by a steady breeze blowing in from the south, which adds a brisk, invigorating touch to the morning. As we look ahead, today\u2019s forecast promises patchy fog giving way to partly sunny skies, with temperatures expected to rise near the high 40s by afternoon. This shift invites a welcome glimpse of light and warmth, particularly for late November.\n\nAs evening approaches, the expected drizzle and scattered rain showers may create a gloomy ambiance, with temperatures settling around the high 40s. The combination of a gentle southeast wind and sporadic gusts will stir the lake\u2019s surface, potentially leading to choppy wave conditions that surfers and avid ocean watchers may find enticing, albeit somewhat turbulent. Given these conditions, layering is advisable; a warm jacket, perhaps with a raincoat, will keep you comfortable while accommodating the day's variability. The temperature is characteristic of late November in this region, where brisk, damp days are the norm before the chill of winter sets in fully. For those keen to explore, a stroll along the beach might still be invigorating, but one should be mindful of the rain later. Today is a clear reminder of the shifting seasons, painting a typical late fall picture for Evanston\u2019s picturesque lakeside.",
+    "color_code": "#5e6e7a",
+    "timestamp": "2024-11-24 07:08:15"
 }
