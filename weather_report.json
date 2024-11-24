@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T23:51:00+00:00",
-            "temperature_f": 39.92,
-            "temperature_c": 4.4,
-            "humidity": 79.13634713827,
+            "timestamp": "2024-11-24T00:51:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 81.959440634687,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 240,
+            "wind_direction": 230,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As we look out across Evanston this evening, the temperature hovers in the upper 30s, creating a crisp chill that's accentuated by the moisture in the air. The current overcast sky casts a muted gray light, making the atmosphere feel particularly subdued, as gusts of wind sweep in from the southwest, swirling leaves and stirring up the lake beyond. Tonight, we can expect to see patchy fog roll in, coupled with some drizzle, settling into the low 30s as the evening wears on. For those venturing out, a light jacket is advisable, perhaps layered with a sweater for comfort against the damp chill. \n\nTomorrow presents a touch more brightness with areas of fog in the morning, yet slowly yielding to partly sunny skies by midday. Temperatures will climb to the low 50s, but be prepared for a slight drop in the afternoon, accompanied by a gentle breeze. The waves along the shore are subdued, inviting the occasional stroll but not necessarily inspiring a dip into the lake. Given the current season, these temperatures align with typical late November conditions in this part of the Midwest, where the air feels cooler as we approach winter. While it may not be the most enticing weather for outdoor gatherings, a cozy day indoors with a warm drink could be just the remedy for this brisk, drizzly evening.",
-    "color_code": "#7E7B7A",
-    "timestamp": "2024-11-23 19:32:45"
+    "weather_report": "Evanston is currently experiencing a chilly evening with a temperature hovering in the low 40s, complemented by a high level of moisture in the air that makes it feel slightly damp and brisk. The wind is notably gusty, whipping around at speeds that can catch you off guard, contributing to an overall sense of briskness as you navigate the cloudy surroundings. Tonight, expect patchy fog rolling in after 11 PM, which may obscure the view of the serene Lake Michigan for a period, paired with a low near the mid 30s. \n\nLooking ahead to Sunday, one can anticipate a slightly improving scene; mornings will see areas of fog and a light drizzle before giving way to partly sunny skies and a high reaching the low 50s. Although the weather brings clouds and potential drizzle, it aligns with typical late November conditions in this region, where coolness prevails but often invites a splash of sunlight. As the wave conditions on the lake will be relatively calm due to the gentle winds expected tomorrow, this may be a good time for a walk along the shore. However, layering up is highly advisable to combat the chill, especially if you're venturing outdoors in the early hours. While it\u2019s not a holiday today, those with plans for the upcoming Thanksgiving weekend may begin their preparations in the comfort of their homes, perhaps even under a cozy blanket as they enjoy the evolving weather.",
+    "color_code": "#4B4D51",
+    "timestamp": "2024-11-23 20:31:59"
 }
