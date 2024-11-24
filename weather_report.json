@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T06:51:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 85.441682739594,
-            "wind_speed_mph": 20.93832,
+            "timestamp": "2024-11-24T08:20:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 82.472737837653,
+            "wind_speed_mph": 24.964920000000003,
             "wind_direction": 200,
             "description": "Cloudy"
         },
@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-24T02:00:00-06:00",
+                "startTime": "2024-11-24T03:00:00-06:00",
                 "endTime": "2024-11-24T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 36,
+                "temperature": 37,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Cloudy, with a low around 36. Southwest wind around 5 mph, with gusts as high as 10 mph."
+                "detailedForecast": "Patchy fog. Cloudy, with a low around 37. Southwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-24T06:00:00-06:00",
                 "endTime": "2024-11-24T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 51,
+                "temperature": 49,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
                 "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog before 9am. Partly sunny. High near 51, with temperatures falling to around 49 in the afternoon. South southeast wind 5 to 15 mph."
+                "detailedForecast": "Patchy fog before 9am. Partly sunny, with a high near 49. South southeast wind 5 to 15 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston depict a chilly scene, with temperatures settled in the mid-30s, accompanied by a thick blanket of clouds that obscure the sky. The air carries a crisp bite, further intensified by a brisk breeze from the southwest, creating a raw and slightly uncomfortable atmosphere. No precipitation is anticipated at present, with only patchy fog gracing the overnight hours, likely making for a somewhat eerie silhouette along the shoreline of Lake Michigan.\n\nAs the sun rises, a shift is on the horizon for Sunday. After the morning's fog dissipates, expect a glimpse of brightness as the day warms to the low 50s. Winds will remain gentle to moderate, providing a stirring yet manageable environment. With such a cool day ahead, layering is a wise choice, ideally opting for a warm jacket and perhaps a cozy scarf to fend off the chill when outdoors, especially near the water where that breeze may feel a bit sharper.\n\nConsidering it's a weekend in late November, myriad outdoor activities might be limited, but the condition is perfect for a brisk walk along the beach, allowing one to embrace the serene beauty of the lake\u2019s wintery fa\u00e7ade. The temperature aligns well with typical late fall expectations, so while the weather may not invite long strolls without warm attire, it certainly paints a picturesque scene worthy of contemplative moments by the water.",
-    "color_code": "#4A9E7D",
-    "timestamp": "2024-11-24 02:06:20"
+    "weather_report": "Current conditions in Evanston reveal a chilly scene by the lakeshore, with temperatures in the mid-30s accompanied by a high level of moisture in the air, creating a decidedly brisk atmosphere. The wind, moving at a blustery pace, adds to the cool sensation, causing leaves to rustle and creating a crisp bite as it sweeps in from the southwest. Presently, the sky is draped in a thick veil of clouds, contributing to a somewhat gloomy exterior in the early hours.\n\nLooking ahead to the day, the forecast suggests improvement as patches of fog will give way to a partly sunny sky, with temperatures expected to rise to the upper 40s by afternoon. While the waves on Lake Michigan may provide a picturesque backdrop with slight activity, today\u2019s wind will likely keep things a bit choppy. Fortunately, there\u2019s no significant precipitation expected, which opens the door to a variety of outdoor ventures. Given the season, with winter approaching, the current cool temperatures are not unusual for this region. Attire recommendations include layers, including a warm coat and perhaps a scarf, especially if venturing near the lake where winds may accentuate the chill. Ideal daytime activities could include a brisk walk along the beach or enjoying the scenery from a cozy spot, as the transformation from fog to sun will make for an enjoyable Saturday.",
+    "color_code": "#3B3B3B",
+    "timestamp": "2024-11-24 03:04:54"
 }
