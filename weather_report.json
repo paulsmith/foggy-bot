@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-24T03:00:00-06:00",
+                "startTime": "2024-11-24T04:00:00-06:00",
                 "endTime": "2024-11-24T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly scene by the lakeshore, with temperatures in the mid-30s accompanied by a high level of moisture in the air, creating a decidedly brisk atmosphere. The wind, moving at a blustery pace, adds to the cool sensation, causing leaves to rustle and creating a crisp bite as it sweeps in from the southwest. Presently, the sky is draped in a thick veil of clouds, contributing to a somewhat gloomy exterior in the early hours.\n\nLooking ahead to the day, the forecast suggests improvement as patches of fog will give way to a partly sunny sky, with temperatures expected to rise to the upper 40s by afternoon. While the waves on Lake Michigan may provide a picturesque backdrop with slight activity, today\u2019s wind will likely keep things a bit choppy. Fortunately, there\u2019s no significant precipitation expected, which opens the door to a variety of outdoor ventures. Given the season, with winter approaching, the current cool temperatures are not unusual for this region. Attire recommendations include layers, including a warm coat and perhaps a scarf, especially if venturing near the lake where winds may accentuate the chill. Ideal daytime activities could include a brisk walk along the beach or enjoying the scenery from a cozy spot, as the transformation from fog to sun will make for an enjoyable Saturday.",
-    "color_code": "#3B3B3B",
-    "timestamp": "2024-11-24 03:04:54"
+    "weather_report": "Current conditions in Evanston paint a chilly picture, typical of late November, with temperatures lingering in the mid-30s and a damp atmosphere that enhances the coolness of the air. The skies are overcast, draping a gray blanket over the landscape, while a gentle yet persistent breeze whispers off Lake Michigan, giving the environment an invigorating but slightly uncomfortable feel. Visibility may be reduced due to the patchy fog anticipated overnight, which could linger into the early morning hours, making the early hours feel more isolating.\n\nLooking ahead at the forecast for the day, expect those murky conditions to ease up by mid-morning, giving way to partly sunny skies that could lift spirits and temperatures into the upper 40s. The waves on the lake remain modest, making it less than ideal for any vigorous water activities, but still inviting for those who enjoy a brisk stroll along the shore, bundled up in warm layers. A light jacket paired with a scarf will suffice to fend off the chill, particularly as a gentle southerly breeze starts to flow. While no significant precipitation is expected in the short term, the atmosphere still carries a hint of moisture that could prompt a light drizzle, especially before noon. As this is a weekend with no major holiday on the calendar, it offers a perfect opportunity for outdoor family activities or a quiet day by the water, should one wish to embrace the tranquility of the season.",
+    "color_code": "#9CA3A2",
+    "timestamp": "2024-11-24 04:05:51"
 }
