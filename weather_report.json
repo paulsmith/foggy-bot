@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T02:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 81.959440634687,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 220,
+            "timestamp": "2024-11-24T03:51:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 82.472737837653,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 200,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-23T22:00:00-06:00",
+                "startTime": "2024-11-23T23:00:00-06:00",
                 "endTime": "2024-11-24T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -33,7 +33,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog after 11pm. Cloudy, with a low around 36. Southwest wind around 5 mph, with gusts as high as 10 mph."
+                "detailedForecast": "Patchy fog. Cloudy, with a low around 36. Southwest wind around 5 mph, with gusts as high as 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly evening with temperatures in the mid 30s, complemented by a robust breeze that adds a bit of bite to the air. The atmosphere is thick with cloud cover, creating a gray canvas overhead as visibility begins to dip with the onset of patchy fog. Tonight, the fog will become more pronounced after 11 PM, but it remains dry, allowing for a calm yet cool night under the blanket of clouds. \n\nLooking ahead to tomorrow, early fog will give way to partly sunny skies, offering a glimpse of warmth with a high in the low 50s, though temperatures will gradually decline through the afternoon. The breeze will be light to moderate, fostering a pleasant and crisp atmosphere as the day unfolds. With calm waters typical of this season, those who venture out to the lake may find it inviting for a brisk walk along the shore, but it's wise to bundle up against the chill, especially in the morning. As we approach the end of November, these temperatures align closely with what we expect for this time of year, capturing the essence of late autumn in Illinois.",
-    "color_code": "#6B7DCE",
-    "timestamp": "2024-11-23 22:06:27"
+    "weather_report": "As the night settles over Evanston, temperatures hover around the mid 30s, contributing to a crisp and cool atmosphere. The air is thick with moisture, creating an almost still sensation by the lake as low clouds envelop the horizon. Wind from the southwest gently stirs at about five miles per hour, adding a subtle chill to the evening. Currently, it\u2019s cloudy with no precipitation expected, although patchy fog may drift in, particularly as overnight temperatures dip to slightly below freezing. \n\nLooking ahead to Sunday, residents can anticipate a chilly morning that gives way to a partly sunny afternoon, with highs reaching into the low 50s. Fog may linger until mid-morning, but as the sun breaks through, conditions will feel more pleasant, albeit mixed with a slight chill. Given the season, these temperatures are typical for late November in Illinois, offering a seasonal feel conducive to cozy indoor gatherings. However, for those venturing outdoors, layers are advisable\u2014think a warm sweater or light jacket paired with a hat to fend off the cooling breeze. The calming waters of Lake Michigan may present gentle waves, inviting a peaceful stroll along the shore or a quiet moment to breathe in the fresh, invigorating air. As this day unfolds, take advantage of the outdoors while relishing the final days of November before the holiday season truly descends upon us.",
+    "color_code": "#4B6F73",
+    "timestamp": "2024-11-23 23:05:27"
 }
