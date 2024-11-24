@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T12:51:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 92.467359016703,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 130,
+            "timestamp": "2024-11-24T13:51:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 85.561801112502,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 120,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-24T07:00:00-06:00",
+                "startTime": "2024-11-24T09:00:00-06:00",
                 "endTime": "2024-11-24T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 15 mph",
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog before 9am. Partly sunny, with a high near 49. Southeast wind 5 to 15 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 49. Southeast wind 5 to 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston paints a chilly and misty picture, with temperatures lingering in the mid-30s and a heavy fog that softens the surroundings. The air is dense and damp, offering a feeling that is noticeably brisk and cool, as gusts whisper in from the southeast at a gentle pace. As we look ahead, the forecast indicates a modest improvement, suggesting the fog will dissipate by mid-morning, giving way to partly sunny skies and a high reaching into the upper 40s. Tonight, however, expect a shift towards cloudy conditions with light drizzle possible, particularly in the evening hours.\n\nAs for wave conditions on Lake Michigan, they are likely subdued, reflecting the calm winds, making for a serene vista despite the dull light. With precipitation chances at 50% this evening, it would be prudent to carry an umbrella for any outdoor plans. Given the current season, these temperatures are typical for late November in the Midwest, where one should dress warmly, favoring layers, including a sturdy coat, gloves, and perhaps a scarf to fend off the chill. Ideal activities might include a brisk walk along the shore, taking in the muted tranquility of the lake, or perhaps enjoying a warm drink at a nearby caf\u00e9, soaking in the ambiance as the holiday season approaches.",
-    "color_code": "#4B4B4B",
-    "timestamp": "2024-11-24 08:04:41"
+    "weather_report": "The current weather in Evanston is characterized by a chilly atmosphere, with temperatures in the low 40s accompanied by a distinct dampness that makes it feel a bit colder than it is. A rather blustery wind is sweeping in from the southeast at nearly 25 miles per hour, adding a dynamic element to the foggy conditions shrouding the beach. Visibility will be somewhat limited, which, combined with the overcast skies, presents a rather muted and gray scene.\n\nAs we look ahead to the forecast for today, we can expect a modest rise in temperature, reaching into the upper 40s, with the promise of some partly sunny skies later on. This afternoon will present a softer atmosphere, though cloud cover will return this evening, bringing with it the likelihood of patchy drizzle and scattered rain showers. The chance for precipitation is hovering around 50%. Given these conditions, it would be wise to dress in layers, perhaps choosing a waterproof jacket to stay dry, especially for tonight\u2019s drizzle. Although it's a seasonal day reflecting the typical early winter chill, the forecast does provide a brief respite from this dampness in the early afternoon, allowing for some enjoyable outdoor moments, particularly for those who appreciate a brisk walk along the shoreline. As today is not a holiday, it's an ideal day for those with a bit of time off or simply looking to enjoy the local scenery and fresh air.",
+    "color_code": "#6C757D",
+    "timestamp": "2024-11-24 09:04:51"
 }
