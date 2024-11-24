@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T01:51:00+00:00",
+            "timestamp": "2024-11-24T02:51:00+00:00",
             "temperature_f": 39.02,
             "temperature_c": 3.9,
             "humidity": 81.959440634687,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 250,
+            "wind_direction": 220,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-23T21:00:00-06:00",
+                "startTime": "2024-11-23T22:00:00-06:00",
                 "endTime": "2024-11-24T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly evening characterized by a brisk breeze coming from the southwest. As temperatures remain in the mid to high 30s, the atmosphere feels noticeably cool and damp, enveloping the beach area in a layer of clouds that makes the setting dark and subdued. Tonight, patchy fog is expected to develop after 11 PM, complementing the general cloudiness and creating a somewhat atmospheric but uninviting scene. \n\nLooking to tomorrow, residents can anticipate a slightly warmer day with temperatures rising to the low 50s, especially with the promise of some sunshine after the early morning fog lifts. The wind will be gentler, making outdoor excursions more enjoyable as the day progresses. While there are no immediate concerns of precipitation, the lingering fog and cloud cover can obscure the brightening views over Lake Michigan. Dress warmly for the evening, perhaps including a light jacket and layers, and consider enjoying the clear conditions that the afternoon has in store, which could be perfect for a stroll along the shoreline or through nearby parks. As we inch toward the holiday season, with Thanksgiving just passed, the atmosphere is set to be reflective\u2014a great time for contemplative walks or casual outings with family.",
-    "color_code": "#4A4C4F",
-    "timestamp": "2024-11-23 21:18:03"
+    "weather_report": "Current conditions in Evanston present a chilly evening with temperatures in the mid 30s, complemented by a robust breeze that adds a bit of bite to the air. The atmosphere is thick with cloud cover, creating a gray canvas overhead as visibility begins to dip with the onset of patchy fog. Tonight, the fog will become more pronounced after 11 PM, but it remains dry, allowing for a calm yet cool night under the blanket of clouds. \n\nLooking ahead to tomorrow, early fog will give way to partly sunny skies, offering a glimpse of warmth with a high in the low 50s, though temperatures will gradually decline through the afternoon. The breeze will be light to moderate, fostering a pleasant and crisp atmosphere as the day unfolds. With calm waters typical of this season, those who venture out to the lake may find it inviting for a brisk walk along the shore, but it's wise to bundle up against the chill, especially in the morning. As we approach the end of November, these temperatures align closely with what we expect for this time of year, capturing the essence of late autumn in Illinois.",
+    "color_code": "#6B7DCE",
+    "timestamp": "2024-11-23 22:06:27"
 }
