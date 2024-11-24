@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T21:51:00+00:00",
+            "timestamp": "2024-11-23T23:13:00+00:00",
             "temperature_f": 41.0,
             "temperature_c": 5,
             "humidity": 79.226480114693,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 260,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 240,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-23T16:00:00-06:00",
-                "endTime": "2024-11-23T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 43, with temperatures falling to around 40 in the afternoon. West southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-23T18:00:00-06:00",
                 "endTime": "2024-11-24T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/fog/rain?size=medium",
                 "shortForecast": "Areas Of Fog",
                 "detailedForecast": "Patchy fog between 11pm and midnight, then areas of fog and patchy drizzle. Cloudy, with a low around 34. Southwest wind around 5 mph, with gusts as high as 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-11-24T06:00:00-06:00",
+                "endTime": "2024-11-24T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain/bkn?size=medium",
+                "shortForecast": "Areas Of Fog then Partly Sunny",
+                "detailedForecast": "Areas of fog and patchy drizzle before 9am. Partly sunny. High near 51, with temperatures falling to around 49 in the afternoon. South wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston depict a rather chilly and cloudy afternoon, with temperatures settling in the low 40s and a brisk, gusty wind sweeping in from the west-southwest. The atmosphere feels particularly damp, enhancing that cool edge which makes it feel even chillier than the thermometer suggests. Throughout the day, clouds will dominate the sky and, as temperatures gradually dip to around 40, the piercing wind adds to an overall brisk demeanor. \n\nLooking ahead, tonight brings potential for patchy fog and drizzle, with temperatures dropping to the mid-30s and winds calming to a light whisper from the southwest. Given these conditions, the landscape appears somber and subdued, best appreciated from the warmth of inside\u2014a cozy spot with a view of Lake Michigan would be ideal. Wave conditions may be moderate, adding an inviting charm to the otherwise cool ambiance. For those venturing out, it would be wise to dress warmly in layers, embracing the season's typical chill. As for activities, it might be a perfect evening for a quiet stroll along the lakeshore, or perhaps settling in with a good book by the window as festive preparations hint at the upcoming holiday season.",
-    "color_code": "#4B4F54",
-    "timestamp": "2024-11-23 17:04:55"
+    "weather_report": "As evening settles over Evanston, Illinois, the current scene is marked by a cool, damp atmosphere with temperatures hovering in the low 40s and a notable breeze sweeping in from the southwest. The air feels heavy and slightly clammy, creating an overall chill that might call for a warm jacket if venturing outdoors. The sky above is leaden, cloaked in clouds that suggest an impending shift to even more unsettled weather as the night progresses. \n\nLooking ahead, tonight promises increasing fog, with patchy drizzle expected to develop as the temperature dips to the mid-30s. Tomorrow's forecast brings lingering areas of fog in the early morning, giving way to brief moments of sunshine before midday. The high is anticipated to reach the lower 50s, accompanied by a gentle south wind. Given the season, these temperatures are typical for late November, but the wintry dampness may make it feel a touch cooler. \n\nThis weather makes for a rather uninviting outdoor experience, especially at the beach where rough waters may be present but not conducive to swimming or active beach outings. Instead, one might consider cozying up indoors or planning for light activities, such as a warm drink at a local caf\u00e9 or browsing nearby shops. With Thanksgiving just a day past, the spirit of the holiday lingers, inviting everyone to reflect and perhaps take a stroll to enjoy the waterfront before the festive hustle and bustle ramps up for the upcoming holiday season.",
+    "color_code": "#4B4F6D",
+    "timestamp": "2024-11-23 18:24:58"
 }
