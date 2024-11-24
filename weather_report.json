@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T23:13:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 79.226480114693,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2024-11-23T23:51:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 79.13634713827,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 240,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-23T18:00:00-06:00",
+                "startTime": "2024-11-23T19:00:00-06:00",
                 "endTime": "2024-11-24T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 34,
@@ -33,7 +33,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/fog/rain?size=medium",
                 "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Patchy fog between 11pm and midnight, then areas of fog and patchy drizzle. Cloudy, with a low around 34. Southwest wind around 5 mph, with gusts as high as 10 mph."
+                "detailedForecast": "Patchy fog between 11pm and midnight, then areas of fog and patchy drizzle. Cloudy, with a low around 34. Southwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening settles over Evanston, Illinois, the current scene is marked by a cool, damp atmosphere with temperatures hovering in the low 40s and a notable breeze sweeping in from the southwest. The air feels heavy and slightly clammy, creating an overall chill that might call for a warm jacket if venturing outdoors. The sky above is leaden, cloaked in clouds that suggest an impending shift to even more unsettled weather as the night progresses. \n\nLooking ahead, tonight promises increasing fog, with patchy drizzle expected to develop as the temperature dips to the mid-30s. Tomorrow's forecast brings lingering areas of fog in the early morning, giving way to brief moments of sunshine before midday. The high is anticipated to reach the lower 50s, accompanied by a gentle south wind. Given the season, these temperatures are typical for late November, but the wintry dampness may make it feel a touch cooler. \n\nThis weather makes for a rather uninviting outdoor experience, especially at the beach where rough waters may be present but not conducive to swimming or active beach outings. Instead, one might consider cozying up indoors or planning for light activities, such as a warm drink at a local caf\u00e9 or browsing nearby shops. With Thanksgiving just a day past, the spirit of the holiday lingers, inviting everyone to reflect and perhaps take a stroll to enjoy the waterfront before the festive hustle and bustle ramps up for the upcoming holiday season.",
-    "color_code": "#4B4F6D",
-    "timestamp": "2024-11-23 18:24:58"
+    "weather_report": "As we look out across Evanston this evening, the temperature hovers in the upper 30s, creating a crisp chill that's accentuated by the moisture in the air. The current overcast sky casts a muted gray light, making the atmosphere feel particularly subdued, as gusts of wind sweep in from the southwest, swirling leaves and stirring up the lake beyond. Tonight, we can expect to see patchy fog roll in, coupled with some drizzle, settling into the low 30s as the evening wears on. For those venturing out, a light jacket is advisable, perhaps layered with a sweater for comfort against the damp chill. \n\nTomorrow presents a touch more brightness with areas of fog in the morning, yet slowly yielding to partly sunny skies by midday. Temperatures will climb to the low 50s, but be prepared for a slight drop in the afternoon, accompanied by a gentle breeze. The waves along the shore are subdued, inviting the occasional stroll but not necessarily inspiring a dip into the lake. Given the current season, these temperatures align with typical late November conditions in this part of the Midwest, where the air feels cooler as we approach winter. While it may not be the most enticing weather for outdoor gatherings, a cozy day indoors with a warm drink could be just the remedy for this brisk, drizzly evening.",
+    "color_code": "#7E7B7A",
+    "timestamp": "2024-11-23 19:32:45"
 }
