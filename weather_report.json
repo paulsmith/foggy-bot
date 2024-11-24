@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T17:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 67.942265381454,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 130,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-24T19:51:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 68.527334655366,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 100,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-24T13:00:00-06:00",
+                "startTime": "2024-11-24T15:00:00-06:00",
                 "endTime": "2024-11-24T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 49,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 49. Southeast wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly sunny, with a high near 50. Southeast wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 40
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,50?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle between 7pm and 8pm, then patchy drizzle and scattered rain showers. Cloudy, with a low around 47. South southeast wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,40?size=medium",
+                "shortForecast": "Scattered Rain Showers",
+                "detailedForecast": "Patchy drizzle between 8pm and 10pm, then scattered rain showers. Cloudy, with a low around 47. South southeast wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a cool and overcast afternoon, with temperatures in the low 50s and a rather blustery southeast wind stirring up the atmosphere. As we look ahead to later today, expect the clouds to break slightly, offering a glimpse of sunshine, though temperatures are unlikely to rise much higher. Tonight brings the potential for patchy drizzle and scattered showers, particularly between 7 and 8 PM, accompanied by a gentle breeze shifting to the south southeast. This could lead to a moist evening, with a chance of rain lingering as temperatures dip into the upper 40s.\n\nThe day's weather creates a somewhat dreary appearance at the beach, with choppy wave conditions reflecting the gusty winds from Lake Michigan. This isn\u2019t the best day for leisurely strolls along the shore or sunbathing, but it might suit those seeking a solitary moment by the water or a chance to embrace the fresh air. For outdoor endeavors, layering will be advisable, as a light jacket should keep you comfortable. With the season\u2019s shift toward deeper winter, these conditions are typical for late November in Illinois, where the chill often accompanies the cloudiness. As November draws to a close, it\u2019s a time that whispers of cozy gatherings indoors, while the lingering holiday spirit\u2014just weeks away from December celebrations\u2014adds a hint of warmth to the quiet landscape.",
-    "color_code": "#8097A0",
-    "timestamp": "2024-11-24 13:04:39"
+    "weather_report": "In Evanston, the weather today feels quite brisk, with current temperatures lingering in the mid to high 40s. The air carries a damp chill, likely making it a bit uncomfortable for those unprepared for the cooler temperatures, especially with the blustery conditions adding to the sense of briskness. As the afternoon unfolds, a mixture of clouds and patches of sun are expected, providing a slight reprieve from the overcast ceiling that has dominated the sky. Winds will ease to a gentle breeze later on, contributing to a slightly improved sense of comfort.\n\nLooking ahead to the evening, the forecast calls for potential drizzle and scattered rain showers, which might dampen outdoor plans. Rainfall amounts are expected to be light, but with a 40% chance of precipitation, it's wise to keep an umbrella handy. Wave conditions on Lake Michigan are likely to be moderate, given the winds earlier in the day; this could be suitable for those keen on a brisk walk along the shore, although caution is advised during any water-related activities due to the weather's unpredictability. Dressing in layers is recommended, ideally including a windbreaker and a warm hat, to navigate the cooling temperatures as the day winds down. Considering this time of year, these conditions fall right in line with typical November weather for the region, where cooler temperatures start to envelop the landscape, signaling the approach of winter. \n\nAs we enjoy this quiet Saturday, the holiday season is just around the corner, with Thanksgiving freshly passed, and it\u2019s a lovely time to appreciate local traditions or simply enjoy a walk by the shore.",
+    "color_code": "#8B9B9B",
+    "timestamp": "2024-11-24 15:04:49"
 }
