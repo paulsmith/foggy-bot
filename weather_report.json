@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-25T00:00:00-06:00",
+                "startTime": "2024-11-25T01:00:00-06:00",
                 "endTime": "2024-11-25T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 40
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
                 "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers before 3am, then areas of drizzle and scattered rain showers. Cloudy, with a low around 48. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Scattered rain showers before 3am, then areas of drizzle and scattered rain showers. Cloudy, with a low around 48. South southeast wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Conditions in Evanston are currently on the chilly side, with temperatures hovering in the low 50s. The atmosphere is thick and heavy, embodying that characteristic damp chill that feels more pronounced under cloudy skies. There\u2019s a gentle breeze from the south, creating an added layer of briskness that could make outdoor conditions feel even cooler. As night stretches on, expect some scattered rain showers to emerge, potentially bringing about light drizzles that could persist into the early morning hours. \n\nLooking ahead to Monday, the day promises more of the same, with areas of drizzle lingering amidst overcast clouds throughout the morning and into the afternoon. The temperatures will gradually drop, reaching highs near the low 50s before retreating into the mid-40s as the day progresses. Water conditions along Lake Michigan may be a bit choppy but manageable, with waves responding to the gusty winds that could pick up throughout the day. Considering all this, a warm jacket and waterproof footwear would be wise attire for anyone planning to venture outdoors. While it might not be the most inviting weather for leisure activities, a brisk walk near the shoreline could still be refreshing, albeit with the need for layers to keep comfortable. This day falls outside major holiday celebrations, offering a quiet backdrop typical of late November in the Midwest.",
-    "color_code": "#4B5C68",
-    "timestamp": "2024-11-25 00:07:44"
+    "weather_report": "In Evanston, current conditions paint a rather cooler picture with temperatures settling in the low 50s and a brisk breeze whispering from the south. The air feels a touch damp, characteristic of an overnight scene where clouds cling heavily overhead. As dawn breaks, the forecast suggests a night of scattered rain showers will transition into a morning of drizzle and overcast skies, with high temperatures barely nudging into the low 50s before retreating to the upper 40s in the afternoon. It\u2019s a day best described as dreary, amplifying the chill in the air brought on by the gusty winds, which may sweep in with a bit more vigor as the day unfolds.\n\nAs for wave conditions along Lake Michigan, expect a moderate chop reflected in the stirring waters, an indication that the windy conditions will create some fluctuation. With a 40% chance of continued light spray from scattered showers throughout the day, it\u2019s prudent to don waterproof attire if venturing outdoors. The season is consistent with this area's typical late November climate, teetering on the edge of winter. Though it's not holiday season yet, the cool, misty ambiance definitely invites a cozy retreat indoors, making it more suitable for quiet leisure activities rather than outdoor adventures. Curling up with a book or enjoying a warm beverage seems like an excellent way to embrace this chilly day.",
+    "color_code": "#7F7C93",
+    "timestamp": "2024-11-25 01:05:54"
 }
