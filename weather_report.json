@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T00:51:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 77.156442416889,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 110,
+            "timestamp": "2024-11-25T01:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 76.720923803697,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 100,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-24T20:00:00-06:00",
+                "startTime": "2024-11-24T21:00:00-06:00",
                 "endTime": "2024-11-25T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 47,
+                "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,40?size=medium",
                 "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Patchy drizzle before 10pm, then scattered rain showers. Cloudy, with a low around 47. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Scattered rain showers between 11pm and 3am, then areas of drizzle and scattered rain showers. Cloudy, with a low around 48. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 40
                 },
                 "windSpeed": "5 to 20 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,30?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Patchy drizzle before 9am, then scattered rain showers. Cloudy. High near 51, with temperatures falling to around 46 in the afternoon. West southwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,30?size=medium",
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Areas of drizzle and scattered rain showers. Cloudy. High near 51, with temperatures falling to around 46 in the afternoon. West southwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As evening descends upon Evanston, the temperature sits comfortably in the upper 40s, accompanied by a dampness in the air that hints at the impending precipitation. The winds howl from the southeast at a brisk pace, creating a blustery atmosphere along the shoreline as clouds cloak the sky, lending a moody, gray tone to the scenery. Expect patchy drizzle this evening, ebbing after 10 PM, followed by scattered rain showers that could linger into the night. The low will hover around the mid 40s as the refreshing chill settles in.\n\nLooking ahead to Monday, drizzle may greet early risers before the day transitions to scattered rain showers, with temperatures peaking in the low 50s but gradually falling as the afternoon progresses. The west-southwest winds will remain lively, whipping through the area with gusts that may reach a vigorous 30 mph, so prepare for a distinct chill as you venture outdoors. Given these wet and blustery conditions, dressing in layers, including a waterproof jacket and sturdy footwear, is advisable for anyone planning to brave the elements. While the temperature may feel slightly cooler than typical for late November, it offers a stark reminder of winter's approach, making this a good day for indoor activities or perhaps a short walk if you're feeling adventurous as waves lap gently against the shore, providing a serene backdrop amidst the stormy skies.",
-    "color_code": "#3A3A3B",
-    "timestamp": "2024-11-24 20:31:32"
+    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere with temperatures in the low 50s, accompanied by a blustery wind sweeping in from the east. The air holds a damp chill that suggests a cozy evening in\u2014perfect for curling up indoors. As darkness settles, clouds blanket the sky, setting the stage for scattered showers expected later tonight. Rain will likely start to fall between 11 PM and 3 AM, with a modest chance of continued drizzle into the morning hours.\n\nLooking ahead to tomorrow, the weather will remain overcast with rain showers intermittently dotting the day, keeping conditions cool as afternoon temperatures dip to the mid 40s. The waves on Lake Michigan may be somewhat choppy, with the brisk winds adding a bit of a kick to the lake's surface. For those venturing outside, a light rain jacket and perhaps a warm sweater would be wise attire, as the season typically brings such brisk, damp conditions. While this weather is typical for late November in the Midwest, it leans more toward the uninviting end of the comfort spectrum, nudging residents to seek indoor activities rather than braving the elements. As the long holiday weekend nears its close, many might prefer to gather indoors or plan for festivities in warm, welcoming spaces.",
+    "color_code": "#4B7F8C",
+    "timestamp": "2024-11-24 21:17:14"
 }
