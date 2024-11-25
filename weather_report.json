@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T10:51:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 86.141284587185,
+            "timestamp": "2024-11-25T11:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 82.744137389344,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Cloudy"
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-25T06:00:00-06:00",
+                "startTime": "2024-11-25T07:00:00-06:00",
                 "endTime": "2024-11-25T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -30,10 +30,10 @@
                     "value": 40
                 },
                 "windSpeed": "5 to 20 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,40?size=medium",
-                "shortForecast": "Chance Drizzle then Chance Rain",
-                "detailedForecast": "A chance of drizzle before 3pm, then a chance of rain and a chance of drizzle. Cloudy. High near 51, with temperatures falling to around 45 in the afternoon. West southwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
+                "shortForecast": "Chance Rain then Patchy Drizzle",
+                "detailedForecast": "A chance of rain and patchy drizzle before 10am, then patchy drizzle and a slight chance of rain between 10am and 3pm, then a chance of rain and patchy drizzle. Cloudy. High near 51, with temperatures falling to around 45 in the afternoon. Northwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the morning unfolds under cloudy skies, with temperatures in the low 40s creating a crisp and cool atmosphere. The gentle breeze presents a stillness, making it",
-    "color_code": null,
-    "timestamp": "2024-11-25 06:09:02"
+    "weather_report": "This morning in Evanston, the air is crisp and damp, with temperatures hovering in the low 50s, creating a chill that may feel even brisker with the moisture in the atmosphere. Expect a day heavily draped in clouds, with rain likely teasing the shorelines as light drizzles and a slight chance of showers persist throughout the morning. The wind is gentle to moderate from the northwest, offering a bit of a refreshing edge as it nudges at the coolness of the day, shifting the feel slightly as temperatures dip into the mid to upper 40s by afternoon.\n\nAs evening descends, the temperatures will drop to around the upper 20s, necessitating layers for anyone venturing outdoors. The lakeside, while still, may carry a quiet charm under the cloudy canvas, although the waves will likely be calm today, offering little challenge to forlorn watercraft. With the chilly backdrop and the potential for rain, it might be best to bundle up in warm attire, including a solid jacket, perhaps even a hat to fend off the damp chill. This late November weather is typical for this region, as we approach the heart of winter, so while it's a cozy time of year for warmth indoors, those who embrace the elements might find a moment of solace in a brisk walk by the lake or a thoughtful pause at the shore, welcoming the tranquility of the season.",
+    "color_code": "#4A4E50",
+    "timestamp": "2024-11-25 07:11:13"
 }
