@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T14:51:00+00:00",
+            "timestamp": "2024-11-25T15:51:00+00:00",
             "temperature_f": 50.0,
             "temperature_c": 10,
             "humidity": 86.202442841334,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 300,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 290,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-25T10:00:00-06:00",
+                "startTime": "2024-11-25T11:00:00-06:00",
                 "endTime": "2024-11-25T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 28. West northwest wind 15 to 20 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 28. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the weather currently presents a cool and damp atmosphere, with temperatures in the low 50s under thick, swirling clouds. The air carries a briskness, complemented by a steady, gusty wind that stirs the surroundings, making it feel a touch colder as it sweeps from the northwest. Patchy drizzle is already making its presence felt, hinting at the possibility of rain persisting throughout the day, especially before 3 PM, when a slightly higher chance of precipitation arises. As the day unfolds, expect temperatures to dip to the mid 40s, creating a rather chilly environment by afternoon.\n\nThe beach's tranquil setting may appear inviting, but the clouds and persistent drizzle give it a dreary tone, making it less than ideal for outdoor leisure. The waves on Lake Michigan could turn restless with the wind's vigor, though not overly imposing for those keen on watching from a distance. Given the dampness and wind, layered clothing is prudent; a warm jacket accompanied by a hat and perhaps an umbrella would enhance comfort today. As we remain firmly in the grip of late November, these conditions fall well within the seasonal norm for this time of year in the Midwest, where chilliness reigns. With the holiday season approaching, this evening would be suited for cozy indoor activities rather than outdoor excursions.",
-    "color_code": "#4B8BBE",
-    "timestamp": "2024-11-25 10:06:08"
+    "weather_report": "In Evanston, the day is starting with a rather cool and damp ambiance, as a thick blanket of clouds looms overhead. Current temperatures sit in the low 50s, complemented by a brisk, gusty wind that adds a bite to the air. With gray skies dominating, the scene outside may feel a little gloomy, especially given the chance of intermittent drizzle throughout the day. Expect a high near 51, but don\u2019t be surprised as temperatures dip back into the mid 40s by the afternoon. \n\nAs the forecast unfolds, the likelihood of precipitation remains at 40%, with minor accumulation anticipated. Wave conditions along Lake Michigan may be stirred up by the wind, leading to choppy waters, perfect for observation but not ideal for swimming or other water activities. For those venturing outdoors, layering up is advisable; a warm coat, a scarf, and perhaps even a hat will help fend off the chill. While today's weather is typical for late November in this region\u2014characterized by cool temperatures and a decidedly wintry flair\u2014outdoor pursuits might be better suited to moments of brisk walking or enjoying the view from a cozy spot rather than extended time spent in the elements. As this is not a holiday, locals might simply enjoy a quiet weekend, perhaps gathering for a warm drink or cozying up indoors as the festive season approaches.",
+    "color_code": "#4B4F54",
+    "timestamp": "2024-11-25 11:05:12"
 }
