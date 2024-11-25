@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-25T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-25T12:00:00-06:00",
                 "endTime": "2024-11-25T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 40
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
                 "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle and a slight chance of rain before 3pm, then a chance of rain and patchy drizzle. Cloudy. High near 51, with temperatures falling to around 44 in the afternoon. Northwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Patchy drizzle and a slight chance of rain before 3pm, then a chance of rain and patchy drizzle. Cloudy. High near 51, with temperatures falling to around 44 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the day is starting with a rather cool and damp ambiance, as a thick blanket of clouds looms overhead. Current temperatures sit in the low 50s, complemented by a brisk, gusty wind that adds a bite to the air. With gray skies dominating, the scene outside may feel a little gloomy, especially given the chance of intermittent drizzle throughout the day. Expect a high near 51, but don\u2019t be surprised as temperatures dip back into the mid 40s by the afternoon. \n\nAs the forecast unfolds, the likelihood of precipitation remains at 40%, with minor accumulation anticipated. Wave conditions along Lake Michigan may be stirred up by the wind, leading to choppy waters, perfect for observation but not ideal for swimming or other water activities. For those venturing outdoors, layering up is advisable; a warm coat, a scarf, and perhaps even a hat will help fend off the chill. While today's weather is typical for late November in this region\u2014characterized by cool temperatures and a decidedly wintry flair\u2014outdoor pursuits might be better suited to moments of brisk walking or enjoying the view from a cozy spot rather than extended time spent in the elements. As this is not a holiday, locals might simply enjoy a quiet weekend, perhaps gathering for a warm drink or cozying up indoors as the festive season approaches.",
-    "color_code": "#4B4F54",
-    "timestamp": "2024-11-25 11:05:12"
+    "weather_report": "Current weather conditions in Evanston reveal a chilly atmosphere with temperatures in the low 50s, accompanied by a damp, overcast sky. Winds are gusty and blustery, enhancing the brisk feel of the day. As we look ahead, expect continued cloudiness this afternoon with a chance of patchy drizzle and rain, likely leading to a drop in temperatures to the mid 40s. The winds will persist from the northwest, bringing a sense of urgency to the day.\n\nWith the waves rippling gently along the shore, a beach outing may not offer the best conditions for leisurely enjoyment, especially with light rain potentially on the way. Dressing in layers will ensure comfort against the chilly winds and damp air; a light jacket with a water-resistant layer should suffice. Notably, as we are nearing the end of November, these temperatures are in line with the typical seasonal chill for the region. Given the current weather, it might be best suited for cozy indoor activities, perhaps visiting a local caf\u00e9 or enjoying the warmth of home while waiting for the upcoming holiday season.",
+    "color_code": "#A5A8A0",
+    "timestamp": "2024-11-25 12:06:41"
 }
