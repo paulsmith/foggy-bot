@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T01:51:00+00:00",
+            "timestamp": "2024-11-25T02:51:00+00:00",
             "temperature_f": 50.0,
             "temperature_c": 10,
             "humidity": 76.720923803697,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 100,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 120,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-24T21:00:00-06:00",
+                "startTime": "2024-11-24T22:00:00-06:00",
                 "endTime": "2024-11-25T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere with temperatures in the low 50s, accompanied by a blustery wind sweeping in from the east. The air holds a damp chill that suggests a cozy evening in\u2014perfect for curling up indoors. As darkness settles, clouds blanket the sky, setting the stage for scattered showers expected later tonight. Rain will likely start to fall between 11 PM and 3 AM, with a modest chance of continued drizzle into the morning hours.\n\nLooking ahead to tomorrow, the weather will remain overcast with rain showers intermittently dotting the day, keeping conditions cool as afternoon temperatures dip to the mid 40s. The waves on Lake Michigan may be somewhat choppy, with the brisk winds adding a bit of a kick to the lake's surface. For those venturing outside, a light rain jacket and perhaps a warm sweater would be wise attire, as the season typically brings such brisk, damp conditions. While this weather is typical for late November in the Midwest, it leans more toward the uninviting end of the comfort spectrum, nudging residents to seek indoor activities rather than braving the elements. As the long holiday weekend nears its close, many might prefer to gather indoors or plan for festivities in warm, welcoming spaces.",
-    "color_code": "#4B7F8C",
-    "timestamp": "2024-11-24 21:17:14"
+    "weather_report": "As evening descends on Evanston, the air feels cool and somewhat clammy with a temperature hovering in the low 50s. Right now, clouds blanket the sky, casting a muted backdrop as a brisk, gusty wind dances off Lake Michigan, stirring perhaps a hint of discomfort for those unprepared. The forecast reveals that scattered rain showers are likely to begin this evening, transitioning into light drizzle after midnight, with temperatures dipping to the upper 40s. \n\nAs the night unfolds into tomorrow, drizzle and intermittent showers will persist, with temperatures gradually cooling further into the afternoon. The atmosphere remains overcast, and the winds will shift to a gentler pace, but shifts of stronger gusts could come through unexpectedly. Given the diminished temperatures and higher humidity, the scene outside may feel particularly dreary. Ideal attire would include warm layers and waterproof options to stay cozy and dry while braving the elements. \n\nFor those considering outdoor activities this holiday weekend, it may be best to take a rain check, keeping in mind the persistent discomfort and damp conditions that could limit enjoyment. With Thanksgiving just behind us today, many will be looking forward to holiday festivities, albeit spent indoors to escape the drizzly chill.",
+    "color_code": "#7A9BA6",
+    "timestamp": "2024-11-24 22:06:41"
 }
