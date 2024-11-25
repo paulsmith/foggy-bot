@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T02:51:00+00:00",
+            "timestamp": "2024-11-25T03:51:00+00:00",
             "temperature_f": 50.0,
             "temperature_c": 10,
             "humidity": 76.720923803697,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 120,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 130,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-24T22:00:00-06:00",
+                "startTime": "2024-11-24T23:00:00-06:00",
                 "endTime": "2024-11-25T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -33,7 +33,7 @@
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,40?size=medium",
                 "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers between 11pm and 3am, then areas of drizzle and scattered rain showers. Cloudy, with a low around 48. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Scattered rain showers before 3am, then areas of drizzle and scattered rain showers. Cloudy, with a low around 48. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening descends on Evanston, the air feels cool and somewhat clammy with a temperature hovering in the low 50s. Right now, clouds blanket the sky, casting a muted backdrop as a brisk, gusty wind dances off Lake Michigan, stirring perhaps a hint of discomfort for those unprepared. The forecast reveals that scattered rain showers are likely to begin this evening, transitioning into light drizzle after midnight, with temperatures dipping to the upper 40s. \n\nAs the night unfolds into tomorrow, drizzle and intermittent showers will persist, with temperatures gradually cooling further into the afternoon. The atmosphere remains overcast, and the winds will shift to a gentler pace, but shifts of stronger gusts could come through unexpectedly. Given the diminished temperatures and higher humidity, the scene outside may feel particularly dreary. Ideal attire would include warm layers and waterproof options to stay cozy and dry while braving the elements. \n\nFor those considering outdoor activities this holiday weekend, it may be best to take a rain check, keeping in mind the persistent discomfort and damp conditions that could limit enjoyment. With Thanksgiving just behind us today, many will be looking forward to holiday festivities, albeit spent indoors to escape the drizzly chill.",
-    "color_code": "#7A9BA6",
-    "timestamp": "2024-11-24 22:06:41"
+    "weather_report": "In Evanston, Illinois, the evening brings a cool and somewhat damp atmosphere, with temperatures in the low 50s, complemented by a light breeze from the south southeast. The air feels slightly muggy, wrapped in a blanket of clouds that shroud the city. Currently, you can expect scattered rain showers that will persist into the early morning hours, easing into drizzle later on. The chance of precipitation stands at 40%, hinting at a night that may be filled with gentle patter against windows.\n\nLooking ahead to Monday, the forecast indicates a continuation of this overcast trend, with cloudy skies and the potential for occasional drizzle throughout the day. The mercury is expected to hover near the 50-degree mark, with a slight decline into the afternoon. A blustery wind could stir up some waves on Lake Michigan, making for a choppy shoreline. Given the cooler temperatures, dressing in layers is advisable; a light jacket paired with comfortable footwear should suffice for outdoor excursions. As we are well into late November, these temperatures are typical for this time of year in northern Illinois, embracing the season\u2019s characteristic chill. The conditions might limit outdoor activities, yet a scenic stroll along the beach or a cozy evening at a nearby caf\u00e9 would be fitting choices to enjoy the reflective mood of the evening.",
+    "color_code": "#4b4b4b",
+    "timestamp": "2024-11-24 23:05:53"
 }
