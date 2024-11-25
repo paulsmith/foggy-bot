@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-25T12:00:00-06:00",
+                "startTime": "2024-11-25T13:00:00-06:00",
                 "endTime": "2024-11-25T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston reveal a chilly atmosphere with temperatures in the low 50s, accompanied by a damp, overcast sky. Winds are gusty and blustery, enhancing the brisk feel of the day. As we look ahead, expect continued cloudiness this afternoon with a chance of patchy drizzle and rain, likely leading to a drop in temperatures to the mid 40s. The winds will persist from the northwest, bringing a sense of urgency to the day.\n\nWith the waves rippling gently along the shore, a beach outing may not offer the best conditions for leisurely enjoyment, especially with light rain potentially on the way. Dressing in layers will ensure comfort against the chilly winds and damp air; a light jacket with a water-resistant layer should suffice. Notably, as we are nearing the end of November, these temperatures are in line with the typical seasonal chill for the region. Given the current weather, it might be best suited for cozy indoor activities, perhaps visiting a local caf\u00e9 or enjoying the warmth of home while waiting for the upcoming holiday season.",
-    "color_code": "#A5A8A0",
-    "timestamp": "2024-11-25 12:06:41"
+    "weather_report": "As we find ourselves in Evanston today, the air carries a crisp coolness typical for late November, with temperatures hovering in the low 50s, accompanied by a moist chill reminiscent of the autumn season. The skies are shrouded in clouds, the ambiance punctuated by a fierce northwest wind, suggesting a potential for patchy drizzle as the afternoon unfolds. With a chance of rain that may not deliver more than a whisper of moisture, locals can expect temperatures to dip to around the mid-40s as the day progresses\u2014a reminder of the turning season.\n\nThis wintry scene, enhanced by the chilly gusts coming off Lake Michigan, lends itself to moments where warmth becomes a priority, making layered attire sensible for those venturing outside. While the beach may be beautiful in its desolate glory, the whip of the wind and the chill in the air create an environment best suited for quick walks rather than lingering strolls. As Thanksgiving approaches in just a couple of days, consider a warm drink while enjoying a brief outing\u2014ideal before retreating to the comforts of home.",
+    "color_code": "#7D8B97",
+    "timestamp": "2024-11-25 13:04:58"
 }
