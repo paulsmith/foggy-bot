@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T15:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 86.202442841334,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 290,
+            "timestamp": "2024-11-25T18:51:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 79.496094610696,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 300,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-25T13:00:00-06:00",
+                "startTime": "2024-11-25T14:00:00-06:00",
                 "endTime": "2024-11-25T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 20
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
                 "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle and a slight chance of rain before 3pm, then a chance of rain and patchy drizzle. Cloudy. High near 51, with temperatures falling to around 44 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Patchy drizzle and a slight chance of rain. Cloudy. High near 51, with temperatures falling to around 44 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 28. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "As we find ourselves in Evanston today, the air carries a crisp coolness typical for late November, with temperatures hovering in the low 50s, accompanied by a moist chill reminiscent of the autumn season. The skies are shrouded in clouds, the ambiance punctuated by a fierce northwest wind, suggesting a potential for patchy drizzle as the afternoon unfolds. With a chance of rain that may not deliver more than a whisper of moisture, locals can expect temperatures to dip to around the mid-40s as the day progresses\u2014a reminder of the turning season.\n\nThis wintry scene, enhanced by the chilly gusts coming off Lake Michigan, lends itself to moments where warmth becomes a priority, making layered attire sensible for those venturing outside. While the beach may be beautiful in its desolate glory, the whip of the wind and the chill in the air create an environment best suited for quick walks rather than lingering strolls. As Thanksgiving approaches in just a couple of days, consider a warm drink while enjoying a brief outing\u2014ideal before retreating to the comforts of home.",
-    "color_code": "#7D8B97",
-    "timestamp": "2024-11-25 13:04:58"
+    "weather_report": "In Evanston today, the weather offers a chill that feels more intense than the mid-50s temperature would suggest. With a blustery northwest wind creating a brisk atmosphere, the overcast skies lend an air of somberness to the beach view at Lake Michigan. There are signs of potential drizzle this afternoon, with a slight chance for rain adding to the dampness in the air. Highs will hover just around the low 50s before dipping to the chilly upper 20s tonight as the northwestern winds continue to howl.\n\nThe waves on the lake might be a bit unsettled, but this certainly isn't a day for swimming or beach activities. Given the cloud cover and the wind\u2019s bite, attire that includes layers\u2014a warm jacket, perhaps a woolen scarf, and sturdy shoes\u2014would be wise for those venturing outdoors. As we approach the holiday season, it's a reminder that while this is not a holiday itself, the lingering chill hints that winter is indeed around the corner. Outdoor strolls along the lakefront can be invigorating, offering a chance to appreciate nature's stark, wintry beauty, especially as the days grow shorter and the festive spirit begins to envelop the community.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-11-25 14:05:57"
 }
