@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T11:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 82.744137389344,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "timestamp": "2024-11-25T13:51:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 89.741574390528,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 350,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-25T07:00:00-06:00",
+                "startTime": "2024-11-25T09:00:00-06:00",
                 "endTime": "2024-11-25T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "5 to 20 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,40?size=medium",
                 "shortForecast": "Chance Rain then Patchy Drizzle",
-                "detailedForecast": "A chance of rain and patchy drizzle before 10am, then patchy drizzle and a slight chance of rain between 10am and 3pm, then a chance of rain and patchy drizzle. Cloudy. High near 51, with temperatures falling to around 45 in the afternoon. Northwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain and patchy drizzle before 10am, then patchy drizzle and a slight chance of rain between 10am and 3pm, then a chance of rain and patchy drizzle. Cloudy. High near 51, with temperatures falling to around 44 in the afternoon. Northwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the temperature hovers in the low 50s, creating a chill in the air alongside a persistent dampness, making it feel brisk and cool. The clouds blanket the sky, casting a muted light over the beach, which appears calm, albeit with hints of wave action gently lapping against the shore. Throughout the day, a chance of rain and patchy drizzle is expected, particularly before and after midday. As temperatures creep toward the high 40s in the afternoon, gusty northwest winds, reaching up to 20 mph, will add to the chill, elevating the need for layered clothing.\n\nTonight, skies remain mostly cloudy with the temperature dropping into the upper 20s, so it's wise to bundle up well against the brisk west-northwest winds. Given the late November timing, the conditions are typical for the season\u2014cool and overcast, perfect for winter preparation but perhaps less suited for outdoor leisure. For those venturing out, warm coats and perhaps an umbrella would be prudent, while the damp beach may not entice many for leisurely strolls. Instead, a cozy indoor activity, such as visiting local cafes or museums, might be more appealing on this gray day.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2024-11-25 08:05:13"
+    "weather_report": "A brisk November morning finds Evanston enveloped in a damp chill at just below the mid-50s, with cloudy skies casting a gray hue over the landscape. The air feels heavy, and light rain persists, whispering against the surroundings, while the northwesterly winds howl intermittently, sending a shiver through the bones. Expect a continuation of this unsettled atmosphere throughout the day with further drizzles likely until the late afternoon. The high will hover around the low 50s before taking a downward turn as the evening sets in, ushering in temperatures that will dip to the upper 20s tonight.\n\nThe overall scene is one of quiet discomfort, a stark reminder that winter is not far off. As the waves gently lap at the shore, their subdued rhythm reflects the somewhat turbulent conditions, reminiscent of the impending season. Given the chill and threat of increasing precipitation, layering up is essential\u2014think warm hats, gloves, and a weather-resistant jacket to fend off the brisk winds. Activities may be best suited for indoor settings today, perhaps a cozy caf\u00e9 or a warm food market, as outdoor adventures might be dampened by the drizzle and cool temperatures. As we approach December, this weather is typical for northwestern Illinois, though it serves as a gentle reminder that the heart of winter is closely approaching.",
+    "color_code": "#4a4c5e",
+    "timestamp": "2024-11-25 09:06:04"
 }
