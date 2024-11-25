@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T08:51:00+00:00",
+            "timestamp": "2024-11-25T10:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
-            "humidity": 79.870781661168,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 350,
-            "description": ""
+            "humidity": 86.141284587185,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-25T04:00:00-06:00",
-                "endTime": "2024-11-25T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Drizzle",
-                "detailedForecast": "A chance of drizzle. Cloudy, with a low around 48. South southeast wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2024-11-25T06:00:00-06:00",
                 "endTime": "2024-11-25T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,40?size=medium",
                 "shortForecast": "Chance Drizzle then Chance Rain",
                 "detailedForecast": "A chance of drizzle before 3pm, then a chance of rain and a chance of drizzle. Cloudy. High near 51, with temperatures falling to around 45 in the afternoon. West southwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-25T18:00:00-06:00",
+                "endTime": "2024-11-26T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 28,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 28. West northwest wind 15 to 20 mph, with gusts as high as 35 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the air carries a chill, with temperatures resting in the upper 40s and a whisper of moisture clinging to the skin. The atmosphere feels damp and somewhat heavy, clouds hanging low overhead, shadowing the landscape and dulling the morning light. Winds are brisk, coming from the north-northwest with a bit of a bite, adding a brisk edge to the already cool morning. While the beach may look inviting, the conditions are far from summery, giving way to a grey canvas over Lake Michigan that hints at impending drizzle.\n\nLooking ahead to today, the clouds promise to linger, with a chance of drizzle surfacing especially before the afternoon. A similar atmospheric blanket will keep the high temperatures hovering around the low 50s, dropping slightly as the day progresses. Wave conditions are likely to be moderate, choppy enough for a lively appearance against the shore but not enough to present any significant danger. The opportunity for precipitation stands at about 40%, with just a slight accumulation expected, not enough to substantially alter outdoor plans. Given these conditions, layered attire is recommended\u2014something warm, perhaps a wool sweater beneath a light jacket, perfect for those stepping out for a breath of fresh, crisp air. \n\nAs we approach the end of November in the Midwest, these temperatures are typical for the season, with the cool, damp mornings transitioning into chilly afternoons becoming the norm. While today's weather may not inspire lengthy outdoor ventures, brief strolls along the lake or cozy caf\u00e9 visits can provide a delightful way to embrace this somewhat dreary yet classically autumnal day in Evanston.",
-    "color_code": "#4F555A",
-    "timestamp": "2024-11-25 05:05:05"
+    "weather_report": "In Evanston, the morning unfolds under cloudy skies, with temperatures in the low 40s creating a crisp and cool atmosphere. The gentle breeze presents a stillness, making it",
+    "color_code": null,
+    "timestamp": "2024-11-25 06:09:02"
 }
