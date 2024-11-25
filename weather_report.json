@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T19:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 86.090017231195,
+            "timestamp": "2024-11-25T20:51:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 89.000869667825,
             "wind_speed_mph": 41.07132,
-            "wind_direction": 310,
+            "wind_direction": 280,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-25T15:00:00-06:00",
+                "startTime": "2024-11-25T16:00:00-06:00",
                 "endTime": "2024-11-25T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston are somewhat dreary, characterized by a chill in the air, with temperatures in the low 50s and a thick layer of mist enveloping the landscape. Wind gusts are howling from the northwest, creating a blustery and invigorating atmosphere as you gaze towards the calm waters of Lake Michigan, where gentle waves caress the shore. Unfortunately, visibility may be poor due to the fog, casting a muted light over the beach scene.\n\nAs we look ahead to this afternoon, the forecast suggests a continuation of cloudy skies with patchy drizzle and only a slight chance of rain. Highs will hover around the low 50s, likely dropping to the mid-40s later today. Tonight, conditions will remain mostly cloudy, with temperatures dipping into the upper 20s, making for a brisk evening. Given the season, these temperatures are typical for late November in the Midwest, but the dampness and wind could make it feel colder. For those planning to venture outdoors, layering up with a warm coat, gloves, and perhaps a hat would be wise to combat the chill. While it\u2019s not the most inviting day for outdoor activities, a brisk walk along the beach could be refreshing, though plans for a relaxed day at the park might be best reserved for clearer skies.",
-    "color_code": "#A2C2D4",
-    "timestamp": "2024-11-25 15:05:12"
+    "weather_report": "Evanston is currently under the spell of a murky afternoon, with temperatures lingering in the mid 40s and a persistent cloak of fog casting a veil over the scenery. The air feels damp and chilling, a precursor to the sharper bite of winter that is setting in. Stepping outside, one encounters a howling wind that brings a briskness to the otherwise muted atmosphere. While the forecast hints at patchy drizzle and even a slight chance of rain later in the day, the main story is the cloud cover, which will remain thick as we transition into evening, with the temperature dipping into the high 20s.\n\nConditions at the beach reveal gentle waves lapping against the shore, but the blustery winds may stir up slightly more vigor as the day progresses. With this mix of fog, wind, and chilliness, attire should lean towards heavy jackets, hats, and perhaps a scarf to ward off the creeping cold, preferably layered, as temperatures will continue to fluctuate. Given the late November seasonality, these conditions are typical as the region heads deeper into winter, but they still carry a certain somber beauty. For those craving outdoor activity, it may be best to plan brief excursions rather than extended stays\u2014perhaps a walk along the shoreline to enjoy the bracing air or gathering with friends in cozy indoor spaces, as the spirit of the Thanksgiving season is still in the air, although no major holidays loom immediately ahead.",
+    "color_code": "#B0B3B7",
+    "timestamp": "2024-11-25 16:05:09"
 }
