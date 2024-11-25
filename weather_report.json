@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T23:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 74.11362974689,
+            "timestamp": "2024-11-25T00:51:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 77.156442416889,
             "wind_speed_mph": 37.04472,
             "wind_direction": 110,
-            "description": "Mostly Cloudy"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-24T19:00:00-06:00",
+                "startTime": "2024-11-24T20:00:00-06:00",
                 "endTime": "2024-11-25T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 47,
@@ -33,7 +33,7 @@
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,40?size=medium",
                 "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Patchy drizzle between 8pm and 10pm, then scattered rain showers. Cloudy, with a low around 47. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Patchy drizzle before 10pm, then scattered rain showers. Cloudy, with a low around 47. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, the coastal air is cool and somewhat damp, with current temperatures settled in the low 50s. A blustery wind is stirring from the southeast, adding a bite to the evening. The sky remains mostly cloudy, with just patches of visibility to the east where Lake Michigan lies, creating a serene, albeit muted, shoreline view. As night falls, drizzle is likely to develop between 8 PM and 10 PM, with scattered showers thereafter, so residents might want to keep an umbrella handy.\n\nLooking ahead to tomorrow, expect a continuation of the dreary weather as the temperatures hover around the low 50s during the day. Mornings may start with light drizzle, giving way to scattered rain showers later, and winds will be gusty, peaking at 20 to 30 mph. This kind of weather is typical for late November in the Midwest, signaling the onset of winter chill, where layering is key. As for activities, the weather may not be conducive to more vigorous outdoor plans; however, cozying up with a warm drink at a local caf\u00e9 or catching a movie might be ideal. With Thanksgiving just behind us, this rainy stretch sets a contemplative tone as the holiday season comes into full swing.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2024-11-24 19:33:15"
+    "weather_report": "As evening descends upon Evanston, the temperature sits comfortably in the upper 40s, accompanied by a dampness in the air that hints at the impending precipitation. The winds howl from the southeast at a brisk pace, creating a blustery atmosphere along the shoreline as clouds cloak the sky, lending a moody, gray tone to the scenery. Expect patchy drizzle this evening, ebbing after 10 PM, followed by scattered rain showers that could linger into the night. The low will hover around the mid 40s as the refreshing chill settles in.\n\nLooking ahead to Monday, drizzle may greet early risers before the day transitions to scattered rain showers, with temperatures peaking in the low 50s but gradually falling as the afternoon progresses. The west-southwest winds will remain lively, whipping through the area with gusts that may reach a vigorous 30 mph, so prepare for a distinct chill as you venture outdoors. Given these wet and blustery conditions, dressing in layers, including a waterproof jacket and sturdy footwear, is advisable for anyone planning to brave the elements. While the temperature may feel slightly cooler than typical for late November, it offers a stark reminder of winter's approach, making this a good day for indoor activities or perhaps a short walk if you're feeling adventurous as waves lap gently against the shore, providing a serene backdrop amidst the stormy skies.",
+    "color_code": "#3A3A3B",
+    "timestamp": "2024-11-24 20:31:32"
 }
