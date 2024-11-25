@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T21:51:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 74.00710179304,
-            "wind_speed_mph": 45.903240000000004,
+            "timestamp": "2024-11-24T23:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 74.11362974689,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 110,
-            "description": "Cloudy"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-24T18:00:00-06:00",
+                "startTime": "2024-11-24T19:00:00-06:00",
                 "endTime": "2024-11-25T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 47,
@@ -33,7 +33,7 @@
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,40?size=medium",
                 "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Patchy drizzle between 8pm and 10pm, then scattered rain showers. Cloudy, with a low around 47. South southeast wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Patchy drizzle between 8pm and 10pm, then scattered rain showers. Cloudy, with a low around 47. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening descends on Evanston, the air carries a cool and damp chill typical of late November. Currently, temperatures linger in the upper 40s with a gentle breeze coming from the southeast, creating an atmosphere that feels more brisk than inviting. The sky is shrouded in clouds, casting a muted, gray ambiance over the shoreline as the Lake Michigan waves lap softly at the sand.\n\nLooking ahead, patchy drizzle is expected later this evening, giving way to scattered rain showers overnight, with a low hovering around 47 degrees. Tomorrow promises a similarly cloudy scenario, punctuated by morning drizzle and a slight drop in temperatures, peaking near 51 before taking a turn downward in the afternoon. Wind gusts may whip at times, particularly in the southwest, enhancing the already brisk conditions. With a 40% chance of precipitation tonight and a 30% chance tomorrow, those planning activities along the beach should prepare for possible interruptions.\n\nGiven these conditions, it\u2019s advisable to dress in layers, favoring a warm jacket and perhaps a water-resistant outer layer for those venturing outdoors. The temperature, while typical for the season, may feel uncomfortably cool coupled with the impending rain. Outdoor activities may be limited to brief excursions, perhaps a quick stroll along the beach or a visit to a local caf\u00e9 to enjoy a warm drink while watching the clouds roll over the lake. \n\nAs this is not a holiday weekend, but with the holiday season approaching, there\u2019s a sense of anticipation in the air. Evanston's shoreline may reflect a more subdued beauty, perhaps ideal for quiet contemplation as nature begins its winter slumber.",
-    "color_code": "#4B6F98",
-    "timestamp": "2024-11-24 18:23:07"
+    "weather_report": "This evening in Evanston, the coastal air is cool and somewhat damp, with current temperatures settled in the low 50s. A blustery wind is stirring from the southeast, adding a bite to the evening. The sky remains mostly cloudy, with just patches of visibility to the east where Lake Michigan lies, creating a serene, albeit muted, shoreline view. As night falls, drizzle is likely to develop between 8 PM and 10 PM, with scattered showers thereafter, so residents might want to keep an umbrella handy.\n\nLooking ahead to tomorrow, expect a continuation of the dreary weather as the temperatures hover around the low 50s during the day. Mornings may start with light drizzle, giving way to scattered rain showers later, and winds will be gusty, peaking at 20 to 30 mph. This kind of weather is typical for late November in the Midwest, signaling the onset of winter chill, where layering is key. As for activities, the weather may not be conducive to more vigorous outdoor plans; however, cozying up with a warm drink at a local caf\u00e9 or catching a movie might be ideal. With Thanksgiving just behind us, this rainy stretch sets a contemplative tone as the holiday season comes into full swing.",
+    "color_code": "#8B9DC3",
+    "timestamp": "2024-11-24 19:33:15"
 }
