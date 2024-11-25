@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T06:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 68.877362479151,
+            "timestamp": "2024-11-25T07:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 74.11362974689,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Cloudy"
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The weather in Evanston is currently cool and damp, with temperatures in the low 50s and a thick layer of clouds hanging in the sky. The atmosphere feels somewhat clammy, creating a cozy yet slightly uncomfortable backdrop as a light breeze whispers through the area, adding to the atmospheric chill. Rain showers are expected later tonight, with a likelihood of drizzle and scattered showers continuing into the early hours, further emphasizing the day\u2019s gloomy essence. As we look ahead to Monday, expect persistent drizzle and gray skies, with temperatures peaking around the low 50s before dipping slightly in the afternoon.\n\nGiven the conditions, beach activities may not be ideal today. With the chance of rain and overcast skies, it might be best to stay bundled up in a warm jacket and perhaps carry an umbrella if venturing outside. As the current season aligns with late November, these chilly temperatures are quite typical for this time of year in the Midwest, where residents are accustomed to layering up as winter approaches. While the beach may lack the vibrancy of sunnier days, a stroll along the shoreline to enjoy the sound of the waves or a quiet moment by Lake Michigan could still offer a peaceful retreat in the otherwise overcast ambiance.",
-    "color_code": "#4B6F8D",
-    "timestamp": "2024-11-25 02:07:38"
+    "weather_report": "Current conditions in Evanston, Illinois are marked by a cool and cloudy atmosphere, with temperatures lingering in the low 50s. The air carries a subtle dampness, hinting at the scattered rain showers that are expected to continue throughout the early hours of the morning, transitioning into areas of drizzle as the night deepens. A gentle breeze is whispering through the area, bringing with it the fresh scents of the lake and impending rain. \n\nLooking ahead to Monday, expect more of the same; additional drizzle and scattered showers will persist under overcast skies, with daytime temperatures barely climbing to the low 50s before falling back into the cooler realm of the mid 40s by afternoon. While possible precipitation is on the horizon, it\u2019s likely to be light, cumulatively adding only a sprinkle to the shoreline. The beach, with its gentle waves lapping at the shore, may appear serene yet lacks the vibrant appeal typically associated with sunny days. Attire should lean towards layers\u2014perhaps a light waterproof jacket suited for the damp chill, accompanied by comfortable footwear for potential wet ground. As we approach winter, these temperatures are typical for this season in the region, evoking that familiar crispness in the air. Given the conditions, indoor activities such as visiting local cafes or museums would be suited for the day, allowing residents to enjoy the warmth and coziness while Mother Nature takes her course.",
+    "color_code": "#6A6E74",
+    "timestamp": "2024-11-25 03:06:07"
 }
