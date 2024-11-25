@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T07:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 74.11362974689,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "timestamp": "2024-11-25T08:51:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 79.870781661168,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 350,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-25T02:00:00-06:00",
+                "startTime": "2024-11-25T04:00:00-06:00",
                 "endTime": "2024-11-25T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 30
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers before 3am, then areas of drizzle and scattered rain showers. Cloudy, with a low around 48. South southeast wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
+                "shortForecast": "Chance Drizzle",
+                "detailedForecast": "A chance of drizzle. Cloudy, with a low around 48. South southeast wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "5 to 20 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,30?size=medium",
-                "shortForecast": "Areas Of Drizzle",
-                "detailedForecast": "Areas of drizzle and scattered rain showers. Cloudy. High near 51, with temperatures falling to around 46 in the afternoon. West southwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,40?size=medium",
+                "shortForecast": "Chance Drizzle then Chance Rain",
+                "detailedForecast": "A chance of drizzle before 3pm, then a chance of rain and a chance of drizzle. Cloudy. High near 51, with temperatures falling to around 45 in the afternoon. West southwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois are marked by a cool and cloudy atmosphere, with temperatures lingering in the low 50s. The air carries a subtle dampness, hinting at the scattered rain showers that are expected to continue throughout the early hours of the morning, transitioning into areas of drizzle as the night deepens. A gentle breeze is whispering through the area, bringing with it the fresh scents of the lake and impending rain. \n\nLooking ahead to Monday, expect more of the same; additional drizzle and scattered showers will persist under overcast skies, with daytime temperatures barely climbing to the low 50s before falling back into the cooler realm of the mid 40s by afternoon. While possible precipitation is on the horizon, it\u2019s likely to be light, cumulatively adding only a sprinkle to the shoreline. The beach, with its gentle waves lapping at the shore, may appear serene yet lacks the vibrant appeal typically associated with sunny days. Attire should lean towards layers\u2014perhaps a light waterproof jacket suited for the damp chill, accompanied by comfortable footwear for potential wet ground. As we approach winter, these temperatures are typical for this season in the region, evoking that familiar crispness in the air. Given the conditions, indoor activities such as visiting local cafes or museums would be suited for the day, allowing residents to enjoy the warmth and coziness while Mother Nature takes her course.",
-    "color_code": "#6A6E74",
-    "timestamp": "2024-11-25 03:06:07"
+    "weather_report": "As dawn breaks over Evanston, the air carries a cool snap, with current temperatures resting in the upper 40s. The atmosphere is slightly overcast, with clouds thickening in the sky, hinting at the drizzle that may accompany the morning hours. A brisk wind from the north northwest adds a blustery chill, stirring the beach and Lake Michigan into gentle, rippling waves. While today isn't expected to bring significant rainfall, there's a chance of light drizzle, creating a muted backdrop for the day.\n\nLooking ahead, the forecast suggests that temperatures will reach a high in the low 50s, with a gradual drop in the afternoon. Expect a predominantly cloudy sky, making it feel a touch dreary as the potential for more consistent precipitation looms in the forecasts for later. This weather, reflective of late November in the Midwest, invites cozy layers\u2014light jackets and perhaps a scarf for those venturing outside. Given the light chances of rain and the cool breezes, outdoor activities might be best reserved for quick strolls along the beach rather than extended periods of play or relaxation. With Thanksgiving weekend winding down, families might consider wrapping up gatherings, making the most of the day before the holiday season truly begins.",
+    "color_code": "#4B8EBA",
+    "timestamp": "2024-11-25 04:06:13"
 }
