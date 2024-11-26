@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T05:51:00+00:00",
-            "temperature_f": 35.06,
-            "temperature_c": 1.7,
-            "humidity": 69.417414993084,
-            "wind_speed_mph": 33.01812,
+            "timestamp": "2024-11-26T06:51:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 69.291521433314,
+            "wind_speed_mph": 49.929840000000006,
             "wind_direction": 290,
-            "description": "Mostly Cloudy"
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-26T01:00:00-06:00",
+                "startTime": "2024-11-26T02:00:00-06:00",
                 "endTime": "2024-11-26T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-26T06:00:00-06:00",
                 "endTime": "2024-11-26T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 40,
+                "temperature": 39,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 40, with temperatures falling to around 37 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Sunny. High near 39, with temperatures falling to around 37 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of the morning settle over Evanston, the air carries a chill, with temperatures hovering in the mid 30s and a blustery wind sweeping in from the northwest, creating a brisk atmosphere along the lakefront. The scene this evening features mostly cloudy skies, setting a muted backdrop that reflects the sharpness of the cool air. With no precipitation expected overnight and a low creeping down to the high 20s, it feels distinctly wintery, common for this time of year in the Midwest.\n\nLooking ahead to Tuesday, the forecast reveals a promising sunny day, with temperatures rising to near 40 before gradually retreating. Winds will ease, but that familiar, refreshing bite will remain, ideal for bundling up in warm layers. The waves lapping the shore may be slightly choppy due to the residual gusts tonight, though they shouldn't pose any significant hazards. As we embrace these characteristic seasonal changes of late November, residents might consider engaging in light outdoor activities, such as a brisk walk along the lake or a visit to the nearby parks, ensuring they dress warmly to enjoy the crisp beauty of a winter's day in Evanston.",
-    "color_code": "#23272A",
-    "timestamp": "2024-11-26 01:05:44"
+    "weather_report": "Current conditions in Evanston are marked by a chilly atmosphere, with temperatures lingering in the mid-30s and a brisk, gusty wind sweeping through at nearly 50 miles per hour. This combination creates a decidedly brisk feel, typical for late November along Lake Michigan. The skies above are partly cloudy, adding to the crispness of the evening, though no precipitation is expected through the night. \n\nAs we look ahead to tomorrow, a shift to sunny skies is anticipated, with highs reaching near 40 degrees but gradually cooling to the upper 30s by afternoon. The west wind will moderate, blowing gently at 10 to 15 miles per hour. Given these conditions, layering up will be essential; a warm coat, gloves, and a hat are advisable for anyone venturing outdoors. The wave conditions at the beach will likely reflect the gusty winds, producing choppy waters, which may deter casual strolls along the shore. This time of year usually brings cool and frosty conditions, and while this chill is typical for the Midwest in late fall, enjoying brisk walks or perhaps a quick visit to nearby cafes can make for a pleasant day. As there are no holidays falling today, the tranquility of a winter's evening remains undisturbed, inviting a moment of reflection before the busyness of the upcoming holiday season.",
+    "color_code": "#2C3E50",
+    "timestamp": "2024-11-26 02:07:16"
 }
