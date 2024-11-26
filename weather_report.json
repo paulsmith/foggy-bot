@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T20:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 45.932005817368,
-            "wind_speed_mph": 53.95644000000001,
+            "timestamp": "2024-11-26T21:51:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 47.914235806308,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 240,
-            "description": "Mostly Cloudy"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-26T16:00:00-06:00",
+                "startTime": "2024-11-26T17:00:00-06:00",
                 "endTime": "2024-11-26T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the sun begins its descent over Lake Michigan, Evanston lays in mostly cloudy conditions with temperatures hovering in the upper 30s. The air feels brisk and invigorating, with a notable wind creating a rather blustery atmosphere as it sweeps across the shores. Waves gently lap against the beach, presenting calm conditions but with a hint of chill that suggests today\u2019s temperatures may drop further, especially as evening approaches. No significant precipitation is expected until later tonight, when a slight chance of snow comes into play, yet it appears that little to no accumulation will occur.\n\nLooking ahead, this afternoon offers a brief period of partly sunny skies before the clouds regroup. Temperatures should settle around the mid to upper 30s, with a gentle breeze contributing to an overall cool evening atmosphere. It would be wise to dress warmly in layers, opting for a good coat and perhaps a scarf, as this late November day in the Midwest aligns with typical seasonal norms. As the day winds down, consider enjoying a stroll along the beach or a visit to a cozy caf\u00e9, taking advantage of the peaceful lakeside views while the chance of light snow adds a touch of winter charm to the evening.",
-    "color_code": "#9BB1C3",
-    "timestamp": "2024-11-26 16:05:11"
+    "weather_report": "Current conditions in Evanston reflect a chilly and slightly blustery late afternoon, with temperatures hovering in the mid to high 30s under a cloudy sky. Wind gusts are robust, sweeping in from the west-southwest, contributing to a brisk feel as daylight fades. The forecast for later today boasts a shift to partly sunny skies, yet temperatures are expected to trend downward. Tonight, there's a modest chance of snow in the early hours, but little to no accumulation is anticipated, keeping the evening fairly quiet.\n\nDespite the chill, the beach scene might hold a certain stark beauty, with gentle waves reflecting the muted light of the encroaching evening. Attire should favor warmth, suggesting layers including a good coat, perhaps a hat and gloves, to comfortably enjoy any outdoor pursuits. Given the season and location, such temperatures are fairly standard for late November, veering towards the wintry side of comfort. Outdoor activities are best kept light, perhaps a brisk walk along the shore to relish the fresh air before settling in for the night.",
+    "color_code": "#4A4C57",
+    "timestamp": "2024-11-26 17:05:16"
 }
