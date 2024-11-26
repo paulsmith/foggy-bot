@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T18:51:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 45.605426168035,
+            "timestamp": "2024-11-26T19:51:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 44.200514666441,
             "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 230,
-            "description": "Mostly Clear"
+            "wind_direction": 240,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-26T14:00:00-06:00",
+                "startTime": "2024-11-26T15:00:00-06:00",
                 "endTime": "2024-11-26T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -33,7 +33,7 @@
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 39, with temperatures falling to around 37 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly sunny. High near 39, with temperatures falling to around 37 in the afternoon. West southwest wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Snow",
-                "detailedForecast": "A slight chance of snow between midnight and 1am, then a slight chance of rain and snow. Mostly cloudy, with a low around 33. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow between midnight and 5am. Cloudy, with a low around 33. Southwest wind 5 to 10 mph. Chance of precipitation is 20%. Little or no snow accumulation expected."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a crisp and cool atmosphere, with temperatures hovering in the mid 30s, accompanied by a light breeze that adds a refreshing bite to the air. The sky exhibits a mostly clear demeanor, making for a pleasant outdoor ambiance ideal for a stroll along the beach. As the afternoon unfolds, expect mostly sunny skies with temperatures gently falling to around the high 30s, complemented by a mild west-southwest breeze, bringing a touch of warmth to the otherwise chilly scene.\n\nTonight, the weather takes a slight turn as clouds gather, with a minor chance of some light snow or rain, particularly late at night. Conditions shift to mostly cloudy, with temperatures dipping to the low 30s. The wave conditions along the lake will likely be moderate, considering the mild wind speeds, making it suitable for those enjoying the shoreline scenery, but perhaps not ideal for wind-sensitive activities. As we are in late November, these temperatures are typical for this region during the season, embracing a wintry chill that can be expected this time of year. For those venturing out today, layering up is advisable\u2014think snug jackets and warm scarves to comfortably enjoy the crisp air while embracing the beauty of Evanston's lakeside.",
-    "color_code": "#A0C4E4",
-    "timestamp": "2024-11-26 14:06:39"
+    "weather_report": "Current weather conditions in Evanston are crisp and cool, with temperatures hovering in the mid 30s. The air is fresh, and there's a noticeable, blustery wind coming from the west-southwest at nearly 50 miles per hour, making for a brisk walk along the beach. As the afternoon unfolds, expect mostly sunny skies with a high near 39, although temperatures will dip slightly to around 37. \n\nTonight presents a slight chance of snow as clouds gather, with lows falling to about 33 degrees. The chance of precipitation is low, around 20%, with minimal snow accumulation expected. Overall, the lake appears tranquil, with calm waves lapping at the shore\u2014an inviting sight for those seeking a scenic stroll. Given these conditions, bundling up in warm layers is advisable, especially if you plan to venture outside later. This fall weather is typical for the region, reinforcing the sense of a season fully upon us as we approach the holiday season.",
+    "color_code": "#004080",
+    "timestamp": "2024-11-26 15:04:54"
 }
