@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T04:51:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 69.749692312671,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 280,
+            "timestamp": "2024-11-26T05:51:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 69.417414993084,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 290,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-26T00:00:00-06:00",
+                "startTime": "2024-11-26T01:00:00-06:00",
                 "endTime": "2024-11-26T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 29. West northwest wind around 15 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 29. West northwest wind around 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a distinctly brisk picture. With temperatures hovering in the mid-30s, a blend of cool air and moisture hangs in the atmosphere, producing a chilling effect. The scene is somewhat blustery, as winds whip through the area at a fierce pace, underscoring the chilly feel of the night. The sky is largely clear of rain but carries a blanket of mostly cloudy hues, which stifles any lingering warmth.\n\nAs we look ahead to the day, Tuesday is projected to bring sunshine with a high near 40, yet those temperatures will gradually decline throughout the afternoon. Gusty winds will accompany clear skies, though you may find it feel a bit more comfortable than the current evening chill. The wave conditions along Lake Michigan are likely to remain moderate, complementing the already lively gusts. Given the seasonal context, this weather is representative of late November, fitting snugly within expectations for temperatures and conditions typical of the Midwest. For outdoor ventures, layered attire is advisable\u2014perhaps a warm jacket, scarf, and sturdy footwear\u2014ideal for a stroll along the beach, appreciating the beauty of a wintery shoreline. As this evening unfolds into Monday, keep in mind that while it may feel nippy now, the sunlight beckons a fresh and cheerful winter day ahead.",
-    "color_code": "#4B6E98",
-    "timestamp": "2024-11-26 00:07:26"
+    "weather_report": "As the early hours of the morning settle over Evanston, the air carries a chill, with temperatures hovering in the mid 30s and a blustery wind sweeping in from the northwest, creating a brisk atmosphere along the lakefront. The scene this evening features mostly cloudy skies, setting a muted backdrop that reflects the sharpness of the cool air. With no precipitation expected overnight and a low creeping down to the high 20s, it feels distinctly wintery, common for this time of year in the Midwest.\n\nLooking ahead to Tuesday, the forecast reveals a promising sunny day, with temperatures rising to near 40 before gradually retreating. Winds will ease, but that familiar, refreshing bite will remain, ideal for bundling up in warm layers. The waves lapping the shore may be slightly choppy due to the residual gusts tonight, though they shouldn't pose any significant hazards. As we embrace these characteristic seasonal changes of late November, residents might consider engaging in light outdoor activities, such as a brisk walk along the lake or a visit to the nearby parks, ensuring they dress warmly to enjoy the crisp beauty of a winter's day in Evanston.",
+    "color_code": "#23272A",
+    "timestamp": "2024-11-26 01:05:44"
 }
