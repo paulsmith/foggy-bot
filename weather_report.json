@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T16:51:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 48.999703388163,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 240,
+            "timestamp": "2024-11-26T17:51:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 47.444227348131,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 250,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-26T12:00:00-06:00",
+                "startTime": "2024-11-26T13:00:00-06:00",
                 "endTime": "2024-11-26T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 39, with temperatures falling to around 37 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph."
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 39, with temperatures falling to around 37 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current scene is brisk and chilly, with the temperature hovering in the mid-30s and a strong wind sweeping in from the west, creating a rather blustery atmosphere. The day is marked by mostly clear skies, allowing for some sunshine to break through despite the cold, and the charming view of the beach meets a calm expanse of Lake Michigan, though the wind carries a hint of winter's approach.\n\nLooking ahead, this afternoon promises to remain sunny but slightly deceptive as temperatures are expected to dip further, reaching around the high 30s. Tonight, the forecast hints at a slight chance of light snow transitioning to rain, with mostly cloudy skies settling in and lows sticking around the low 30s. The wave conditions on the lake may be affected by the fierce winds, potentially creating choppy waters, so be cautious if you're planning any activities near the shore.\n\nGiven the brisk conditions, layered clothing is advised\u2014think warm sweaters, jackets, and perhaps a hat to shield against the wind. As we embrace the final days of November, this weather reflects the typical chill of the season in the Midwest, inviting residents to enjoy cozy, indoor pursuits. For the adventurous, a walk along the beach or a visit to a nearby caf\u00e9 could be delightful, especially while savoring the seasonal shift that the holiday season brings.",
-    "color_code": null,
-    "timestamp": "2024-11-26 12:07:10"
+    "weather_report": "Currently in Evanston, the air is crisp and cool with temperatures hovering in the mid-30s. Despite the brisk weather, conditions remain predominantly clear, allowing for glimpses of blue sky above the tranquil waters of Lake Michigan. The winds are howling from the southwest, creating a noticeable chill that calls for a light jacket if you venture outside. \n\nAs we move into the afternoon, expect the sun to shine favorably, with temperatures peaking near the upper 30s before declining slightly. Tonight brings a shift, as the skies grow cloudy with a slight chance of rain and snow late in the evening. With those clouds rolling in, it\u2019s advisable to prepare for the potential of light precipitation. Overall, the day portrays a sharp seasonal feel typical for late November in this region, where a warm scarf and a sturdy pair of boots may serve you well. Despite the cooler temperatures, the beach could be a serene spot for a brisk walk or a moment of reflection, as the still waters and shifting winds create a placid atmosphere, weighted only by the hints of winter to come.",
+    "color_code": "#A8B3C0",
+    "timestamp": "2024-11-26 13:05:03"
 }
