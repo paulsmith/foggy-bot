@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T02:51:00+00:00",
-            "temperature_f": 39.92,
-            "temperature_c": 4.4,
-            "humidity": 73.09506649282,
+            "timestamp": "2024-11-26T03:51:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 72.471548868089,
             "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 290,
+            "wind_direction": 280,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, the air feels crisp and cool as temperatures hover in the mid 30s, complemented by a blustery wind making for a biting chill. The sky remains cloudy, lending a muted appearance to the surrounding landscape. Tonight's forecast shows partly cloudy skies with temperatures dipping to the low 30s, while winds from the west-northwest are expected to maintain their gusty nature, reaching up to 30 mph.\n\nLooking ahead to tomorrow, residents can anticipate sunny skies and a high near 40, though temperatures will gradually fall by the afternoon. The wind will continue to whistle and dance at around 10 to 15 mph, contributing to an invigorating feel as late fall settles deeper into the region. Given the current chilly conditions and the absence of precipitation, outdoor activities may be best enjoyed with warm attire, such as thick jackets and gloves, to fully embrace the wintry atmosphere without discomfort. These conditions are typical for this time of year in the Midwest, inviting a reminder of the beauty and briskness that autumn brings as it transitions into winter.",
-    "color_code": "#A4C2D4",
-    "timestamp": "2024-11-25 22:06:36"
+    "weather_report": "As the twilight deepens over Evanston, current conditions are quite brisk, with a temperature settling into the chilly mid 30s and a blustery west-northwest wind whipping at nearly 54 miles per hour. The atmosphere carries a cool dampness, accentuated by a dense cloud cover, lending a somewhat gloomy yet serene quality to the lakeside scene. Looking forward tonight, expect partly cloudy skies with temperatures dipping to the low 30s, accompanied by sustained winds around 15 miles per hour, gusting up to 30 miles per hour, making for a biting evening.\n\nTomorrow promises a shift towards brighter conditions as sunny skies emerge, though temperatures will only rise to about the high 30s before sliding back down in the afternoon. With northwesterly winds gently blowing at 10 to 15 miles per hour, the overall experience outdoors will remain crisp and invigorating, marking a typical late November day in this region. Given the wave conditions along the lake, expect a slightly choppy surface, perfect for gazing at the water from a cozy spot rather than braving the cold directly. Dressing warmly in layers, possibly with a sturdy coat and scarf, will be wise for anyone stepping outside. While it's not a holiday today, the season's festive spirit is just around the corner, making it a lovely time for indoor gatherings or preparing for the upcoming celebrations.",
+    "color_code": "#1D2B5D",
+    "timestamp": "2024-11-25 23:05:45"
 }
