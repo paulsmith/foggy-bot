@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T03:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 72.471548868089,
-            "wind_speed_mph": 53.95644000000001,
+            "timestamp": "2024-11-26T04:51:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 69.749692312671,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 280,
-            "description": "Cloudy"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-25T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-26T00:00:00-06:00",
                 "endTime": "2024-11-26T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the twilight deepens over Evanston, current conditions are quite brisk, with a temperature settling into the chilly mid 30s and a blustery west-northwest wind whipping at nearly 54 miles per hour. The atmosphere carries a cool dampness, accentuated by a dense cloud cover, lending a somewhat gloomy yet serene quality to the lakeside scene. Looking forward tonight, expect partly cloudy skies with temperatures dipping to the low 30s, accompanied by sustained winds around 15 miles per hour, gusting up to 30 miles per hour, making for a biting evening.\n\nTomorrow promises a shift towards brighter conditions as sunny skies emerge, though temperatures will only rise to about the high 30s before sliding back down in the afternoon. With northwesterly winds gently blowing at 10 to 15 miles per hour, the overall experience outdoors will remain crisp and invigorating, marking a typical late November day in this region. Given the wave conditions along the lake, expect a slightly choppy surface, perfect for gazing at the water from a cozy spot rather than braving the cold directly. Dressing warmly in layers, possibly with a sturdy coat and scarf, will be wise for anyone stepping outside. While it's not a holiday today, the season's festive spirit is just around the corner, making it a lovely time for indoor gatherings or preparing for the upcoming celebrations.",
-    "color_code": "#1D2B5D",
-    "timestamp": "2024-11-25 23:05:45"
+    "weather_report": "Current conditions in Evanston paint a distinctly brisk picture. With temperatures hovering in the mid-30s, a blend of cool air and moisture hangs in the atmosphere, producing a chilling effect. The scene is somewhat blustery, as winds whip through the area at a fierce pace, underscoring the chilly feel of the night. The sky is largely clear of rain but carries a blanket of mostly cloudy hues, which stifles any lingering warmth.\n\nAs we look ahead to the day, Tuesday is projected to bring sunshine with a high near 40, yet those temperatures will gradually decline throughout the afternoon. Gusty winds will accompany clear skies, though you may find it feel a bit more comfortable than the current evening chill. The wave conditions along Lake Michigan are likely to remain moderate, complementing the already lively gusts. Given the seasonal context, this weather is representative of late November, fitting snugly within expectations for temperatures and conditions typical of the Midwest. For outdoor ventures, layered attire is advisable\u2014perhaps a warm jacket, scarf, and sturdy footwear\u2014ideal for a stroll along the beach, appreciating the beauty of a wintery shoreline. As this evening unfolds into Monday, keep in mind that while it may feel nippy now, the sunlight beckons a fresh and cheerful winter day ahead.",
+    "color_code": "#4B6E98",
+    "timestamp": "2024-11-26 00:07:26"
 }
