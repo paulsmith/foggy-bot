@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T09:51:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 71.273049090681,
+            "timestamp": "2024-11-26T10:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 71.701602990317,
             "wind_speed_mph": 37.04472,
             "wind_direction": 260,
             "description": "Clear"
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-26T05:00:00-06:00",
-                "endTime": "2024-11-26T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 29,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 29. West wind around 15 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2024-11-26T06:00:00-06:00",
                 "endTime": "2024-11-26T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 39, with temperatures falling to around 37 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-26T18:00:00-06:00",
+                "endTime": "2024-11-27T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Snow",
+                "detailedForecast": "A slight chance of snow between midnight and 1am, then a slight chance of rain and snow. Mostly cloudy, with a low around 33. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Evanston awakens to a brisk morning with current temperatures hovering in the upper 20s, creating a cold yet refreshing start to the day. The air is still, though the winds from the west are beginning to rise, hinting at a blustery day ahead. Conditions are clear, presenting a beautiful view of Lake Michigan, although the chilly breeze may require a warm jacket or layers for those venturing outdoors. Despite the delightful clarity, the temperature feels quite nippy, typical for this time of year in late November.\n\nAs we move through the day, expect bright sunshine to prevail, with high temperatures reaching into the upper 30s, before cooling to the mid to upper 30s in the afternoon. The winds will remain noticeable, transitioning to a gentle yet cool breeze. Good news for beachcombers; wave conditions should be manageable without any precipitation expected throughout the day. Be prepared for the weather with hats and mittens while enjoying outdoor activities such as a brisk walk along the lakefront or a visit to nearby parks. As the holiday season approaches, keep in mind the festive spirit that permeates this chilly backdrop, perfect for hot cocoa afterward.",
-    "color_code": "#D3D3D3",
-    "timestamp": "2024-11-26 05:04:55"
+    "weather_report": "The current weather in Evanston presents a brisk and decidedly frosty morning, with temperatures in the mid to upper 20s and a clear sky that hints at crisp visibility. However, the atmosphere feels sharper due to a formidable breeze kicking up from the west, lending an invigorating bite to the air. As the day unfolds, residents can expect plenty of sunshine, though temperatures will gradually rise to the upper 30s before settling in the afternoon around 37. A slight chance of some flurries and rainflakes may flirt with the overnight hours, under mostly cloudy conditions with lows approaching the low 30s, but significant accumulation is unlikely.\n\nThe beach scene along Lake Michigan, while refreshingly clear, may present a rather chillier aspect today, with the wind creating noticeable wave action along the shore. The potential precipitation later tonight, although minimal, adds a slight chill to the forecast. Given these conditions, dressing warmly in layers is highly advisable; a cozy winter coat, perhaps a hat and gloves, would make ventures outside more enjoyable. Despite the wintry feel, this weather is typical for late November in the Midwest, characterized by seasonal chilliness and occasional inclement weather. While outdoor activities might be limited by the cold, a brisk walk along the lake or a visit to a local caf\u00e9 could be pleasant ways to embrace the day.",
+    "color_code": "#b0c4de",
+    "timestamp": "2024-11-26 06:08:59"
 }
