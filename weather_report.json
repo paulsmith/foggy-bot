@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T15:51:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 53.454856153259,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 260,
+            "timestamp": "2024-11-26T16:51:00+00:00",
+            "temperature_f": 33.08,
+            "temperature_c": 0.6,
+            "humidity": 48.999703388163,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 240,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-26T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-26T12:00:00-06:00",
                 "endTime": "2024-11-26T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The weather in Evanston, Illinois, today presents crisp and cool conditions, characterized by a sunny vista that invites outdoor activity, even as temperatures hover in the mid 30s. With a gentle breeze sweeping in from the west, the environment feels a touch brisk, perfect for a refreshing stroll along the shoreline of Lake Michigan. As the day progresses, expect temperatures to peak near the high 30s, with a transition towards the afternoon bringing a noticeable drop.\n\nTonight, skies will cloud over, potentially delivering a slight chance of snow before the dawn breaks, as southwest winds whisper softly across the area. With lows around the mid 30s, layered attire will be recommended\u2014perhaps a warm coat complemented by a hat\u2014and as nighttime approaches, a light scarf may also be prudent. In terms of activities, the day remains ideal for those wishing to explore the stunning lakeshore or enjoy a warming beverage at a nearby caf\u00e9, taking advantage of the relatively pleasant weather. As we are not on a major holiday, the focus remains on enjoying the beauty of the season as it transitions into winter.",
-    "color_code": "#A2B4E2",
-    "timestamp": "2024-11-26 11:05:14"
+    "weather_report": "In Evanston, the current scene is brisk and chilly, with the temperature hovering in the mid-30s and a strong wind sweeping in from the west, creating a rather blustery atmosphere. The day is marked by mostly clear skies, allowing for some sunshine to break through despite the cold, and the charming view of the beach meets a calm expanse of Lake Michigan, though the wind carries a hint of winter's approach.\n\nLooking ahead, this afternoon promises to remain sunny but slightly deceptive as temperatures are expected to dip further, reaching around the high 30s. Tonight, the forecast hints at a slight chance of light snow transitioning to rain, with mostly cloudy skies settling in and lows sticking around the low 30s. The wave conditions on the lake may be affected by the fierce winds, potentially creating choppy waters, so be cautious if you're planning any activities near the shore.\n\nGiven the brisk conditions, layered clothing is advised\u2014think warm sweaters, jackets, and perhaps a hat to shield against the wind. As we embrace the final days of November, this weather reflects the typical chill of the season in the Midwest, inviting residents to enjoy cozy, indoor pursuits. For the adventurous, a walk along the beach or a visit to a nearby caf\u00e9 could be delightful, especially while savoring the seasonal shift that the holiday season brings.",
+    "color_code": null,
+    "timestamp": "2024-11-26 12:07:10"
 }
