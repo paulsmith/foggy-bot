@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T07:51:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 75.476605631193,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 260,
-            "description": ""
+            "timestamp": "2024-11-26T08:51:00+00:00",
+            "temperature_f": 28.94,
+            "temperature_c": -1.7,
+            "humidity": 74.711706970209,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 270,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-26T03:00:00-06:00",
+                "startTime": "2024-11-26T04:00:00-06:00",
                 "endTime": "2024-11-26T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "15 mph",
-                "windDirection": "WNW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 29. West northwest wind around 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly clear, with a low around 29. West wind around 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather reveals a chilly night with temperatures dipping into the low 30s, accompanied by significant winds creating a brisk atmosphere. The beach setting, viewed through the lens of a park department building towards Lake Michigan, likely embodies a stark, serene beauty under the nighttime sky, with no precipitation expected and clarity in the horizon. As we move into Tuesday, the day promises to start sunny with temperatures rising to the high 30s by afternoon, even as the west wind provides a refreshing touch.\n\nThis combination of cool air and a somewhat blustery atmosphere gives the day a spirited feel, ideal for bundled-up walks along the shoreside or a brisk run in the surrounding parks. The wave conditions in Lake Michigan may be lively, aligning with the wind that gusts up to 25 mph, hinting at a captivating sight for those brave enough to venture out. Dress in layers to combat the cold and wind; a warm coat, hat, and gloves will ensure comfort while taking in the mid-autumn ambiance. Although it is not a holiday, the upcoming days may bring festivities to the forefront, punctuating the northern Illinois landscape with a sense of seasonal cheer.",
-    "color_code": "#4a4e6d",
-    "timestamp": "2024-11-26 03:06:01"
+    "weather_report": "Current conditions in Evanston reveal a crisp and cool atmosphere, with temperatures hovering in the mid 20s and a faint chill accentuated by a blustery westerly wind. The sky remains mostly clear, setting a calm stage for the hours ahead. As we look toward the day\u2019s forecast, expect sunny skies to emerge with a high reaching into the upper 30s. Winds will moderate slightly but maintain a whispering presence at around 10 to 15 mph, ensuring that the day has a dynamic quality. The absence of precipitation adds to the pleasant outlook, though the chilly temperatures remind us that we are firmly in the grip of late fall.\n\nDespite the slight bite of the wind, the clear conditions are inviting for those looking to step outdoors. It\u2019s advisable to bundle up in warm layers\u2014perhaps a heavy coat accompanied by a beanie and gloves\u2014as temperatures will resemble the typical late November experience in this region. The lake might see some cascading waves, stirred by the wind, ideal for a brisk beach walk or enjoying the scenery from a cozy spot in the park. It\u2019s a tranquil day to appreciate the natural beauty of Lake Michigan, especially as the holiday season approaches.",
+    "color_code": "#2B2D3E",
+    "timestamp": "2024-11-26 04:06:05"
 }
