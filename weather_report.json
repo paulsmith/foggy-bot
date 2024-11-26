@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T13:51:00+00:00",
-            "temperature_f": 26.060000000000002,
-            "temperature_c": -3.3,
-            "humidity": 68.346289404261,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2024-11-26T14:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 62.990234298163,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 260,
-            "description": "Clear"
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-26T09:00:00-06:00",
+                "startTime": "2024-11-26T10:00:00-06:00",
                 "endTime": "2024-11-26T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, conditions are rather crisp, with a temperature hovering in the mid-20s and accompanied by a notable wind creating a chill in the air. However, the day ahead looks promising with a forecast promising sunshine and a high climbing into the upper 30s, falling off to about 37 degrees by afternoon. Winds will shift to a gentler pace, allowing for a more pleasant experience outside. \n\nThe beach scene offers a bright, clear view of Lake Michigan under a brilliant blue sky, making it an aesthetically pleasing day despite the cold. No significant wave activity is anticipated; conditions are expected to remain calm as the temperature rises through the afternoon. As night falls, there exists a slight chance for some light snow or a mix of rain and snow, although it's predicted to remain mostly cloudy with a low around the low 30s. For those venturing out, layered clothing is advisable to combat the chill, incorporating warm jackets, hats, and gloves. This chilly weather is characteristic of late November in the Midwest, as the region transitions into winter. Outdoor activity may be limited due to the cool temperatures, but a stroll along the beach, wrapped in cozy layers, could still be a delightful way to embrace the day's brightness.",
-    "color_code": "#00BFFF",
-    "timestamp": "2024-11-26 09:05:46"
+    "weather_report": "Evanston wakes up to temperatures in the low 30s, accompanied by a brisk breeze coming from the west. The air is crisp and invigorating, with a mostly clear sky that sets a bright, welcoming tone for the day. Residents can expect a sunny morning that will transition into a mild afternoon, where highs hover near the upper 30s. While it may feel chilly, especially with the gusty winds that can sting against the skin, the pleasant sunshine will provide some comfort.\n\nThis evening, a slight chance of rain and snow is likely just after midnight, as clouds move in, contributing to a cooler low in the mid-30s. While wave conditions on Lake Michigan are generally mild today, the breezy weather may create some charming ripples along the shoreline. Given the current season, these temperatures are typical for late November, making it a good time to bundle up for any outdoor ventures, perhaps donning a warm coat and a scarf. Ideal activities could include a brisk walk at the beach or enjoying the picturesque views by the lake as the daylight fades, all while keeping an eye on those clouds for later reports of mixed precipitation.",
+    "color_code": "#0066CC",
+    "timestamp": "2024-11-26 10:06:30"
 }
