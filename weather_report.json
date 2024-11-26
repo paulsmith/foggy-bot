@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-25T19:00:00-06:00",
+                "startTime": "2024-11-25T20:00:00-06:00",
                 "endTime": "2024-11-26T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 28,
+                "temperature": 29,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 29. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As darkness settles over Evanston, the current chill in the air brings a crisp and cool feel, with temperatures hanging in the low 40s and a noticeably blustery wind steering in from the northwest at a vigorous pace. The overcast sky adds to the somber ambiance, as the forecast promises a cloud-covered night with temperatures expected to dip to the upper 20s, leading to a decidedly chilly evening. Tomorrow, clear skies will grace the area, bringing a sunny but notably cool day with highs in the high 30s.\n\nThe beach scene reflects the windswept nature of Lake Michigan this evening, which is likely producing rough wave conditions, making it less than ideal for water activities. With no precipitation forecasted for tonight or tomorrow, outdoor plans could be on the table, but dressing warmly will be imperative. Expect layers to be essential for comfort, perhaps a sturdy jacket, hat, and gloves, as the winds may bring a bite that is unmistakably winter-like for this time of year. As we embrace the late autumn season, these temperatures align well with typical conditions for late November in the Midwest, hinting that brisk outdoor activities like a stroll along the shore or a visit to a nearby caf\u00e9 can still invite enjoyment, provided one is prepared for the chill in the air.",
-    "color_code": "#3B3B3B",
-    "timestamp": "2024-11-25 19:33:08"
+    "weather_report": "In Evanston this evening, the atmosphere is decidedly chilly, with a brisk wind whispering off the coast, creating a rather stark yet serene setting. Currently, temperatures linger in the low 40s, accompanied by overcast skies, as the air feels quite cool against the skin. The view toward Lake Michigan reveals a muted landscape; the beach is nearly deserted in the dim light, with the undulating waves reflecting the day\u2019s somber mood.\n\nAs the night progresses, the forecast anticipates a shift to partly cloudy skies, with temperatures dipping to around the upper 20s. Tomorrow promises a sunnier disposition; however, don\u2019t expect the warmth to return, as highs will only reach the low 40s, dropping throughout the afternoon. For those venturing outside, it\u2019s best to dress warmly in layers, with a sturdy jacket to fend off the cold and wind, which may gust at times, making it feel even colder. Situated in late November, these conditions align closely with the norms of the season\u2014typical for this time of year in the Midwest. The waves may churn with a noticeable vigor due to the gusty winds, presenting a rougher shoreline that\u2019s best appreciated from a distance rather than a swimming venture. If you\u2019re contemplating activities, perhaps a brisk walk to enjoy the stark beauty of a Northern Illinois winter, or simply a cozy evening indoors, would be best suited for the current ambiance.",
+    "color_code": "#2B4C8C",
+    "timestamp": "2024-11-25 20:30:52"
 }
