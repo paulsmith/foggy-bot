@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T01:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 73.206846724276,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 300,
+            "timestamp": "2024-11-26T02:51:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 73.09506649282,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 290,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-25T20:00:00-06:00",
+                "startTime": "2024-11-25T22:00:00-06:00",
                 "endTime": "2024-11-26T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 29. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Partly cloudy, with a low around 29. West northwest wind around 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current scene in Evanston is marked by a brisk chill, with temperatures resting in the low 40s and a cloud-laden sky casting a muted light over the shoreline. The wind is howling, stirring up the air with a fierce intensity, creating an edge that penetrates through typical winter gear. As the evening unfolds, the forecast suggests a transition to partly cloudy skies tonight, leading to a low in the upper 20s, accompanied by a gusty west-northwest breeze that promises to dance playfully with any loose items left outdoors.\n\nLooking ahead to Tuesday, sun-breaks will emerge as the day progresses, with temperatures hovering around the high 30s but trending downwards in the afternoon. The conditions will likely offer a clear, albeit chilly day, ideal for brisk walks along the beach, though the wind will continue to deliver its vigorous touch. The waters of Lake Michigan may see choppy waves due to the relentless gusts; those considering a visit to the beach might find the air invigorating but should dress warmly in layers and prepare for the potential chill lingering near the water. This November day stands as a temporal reminder of the season, with temperatures reflective of typical late-fall conditions in the Midwest, offering a promising backdrop for seasonal activities as the Thanksgiving holiday approaches.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2024-11-25 21:16:08"
+    "weather_report": "This evening in Evanston, the air feels crisp and cool as temperatures hover in the mid 30s, complemented by a blustery wind making for a biting chill. The sky remains cloudy, lending a muted appearance to the surrounding landscape. Tonight's forecast shows partly cloudy skies with temperatures dipping to the low 30s, while winds from the west-northwest are expected to maintain their gusty nature, reaching up to 30 mph.\n\nLooking ahead to tomorrow, residents can anticipate sunny skies and a high near 40, though temperatures will gradually fall by the afternoon. The wind will continue to whistle and dance at around 10 to 15 mph, contributing to an invigorating feel as late fall settles deeper into the region. Given the current chilly conditions and the absence of precipitation, outdoor activities may be best enjoyed with warm attire, such as thick jackets and gloves, to fully embrace the wintry atmosphere without discomfort. These conditions are typical for this time of year in the Midwest, inviting a reminder of the beauty and briskness that autumn brings as it transitions into winter.",
+    "color_code": "#A4C2D4",
+    "timestamp": "2024-11-25 22:06:36"
 }
