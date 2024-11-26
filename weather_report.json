@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T14:51:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 62.990234298163,
-            "wind_speed_mph": 33.01812,
+            "timestamp": "2024-11-26T15:51:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 53.454856153259,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 260,
             "description": "Mostly Clear"
         },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston wakes up to temperatures in the low 30s, accompanied by a brisk breeze coming from the west. The air is crisp and invigorating, with a mostly clear sky that sets a bright, welcoming tone for the day. Residents can expect a sunny morning that will transition into a mild afternoon, where highs hover near the upper 30s. While it may feel chilly, especially with the gusty winds that can sting against the skin, the pleasant sunshine will provide some comfort.\n\nThis evening, a slight chance of rain and snow is likely just after midnight, as clouds move in, contributing to a cooler low in the mid-30s. While wave conditions on Lake Michigan are generally mild today, the breezy weather may create some charming ripples along the shoreline. Given the current season, these temperatures are typical for late November, making it a good time to bundle up for any outdoor ventures, perhaps donning a warm coat and a scarf. Ideal activities could include a brisk walk at the beach or enjoying the picturesque views by the lake as the daylight fades, all while keeping an eye on those clouds for later reports of mixed precipitation.",
-    "color_code": "#0066CC",
-    "timestamp": "2024-11-26 10:06:30"
+    "weather_report": "The weather in Evanston, Illinois, today presents crisp and cool conditions, characterized by a sunny vista that invites outdoor activity, even as temperatures hover in the mid 30s. With a gentle breeze sweeping in from the west, the environment feels a touch brisk, perfect for a refreshing stroll along the shoreline of Lake Michigan. As the day progresses, expect temperatures to peak near the high 30s, with a transition towards the afternoon bringing a noticeable drop.\n\nTonight, skies will cloud over, potentially delivering a slight chance of snow before the dawn breaks, as southwest winds whisper softly across the area. With lows around the mid 30s, layered attire will be recommended\u2014perhaps a warm coat complemented by a hat\u2014and as nighttime approaches, a light scarf may also be prudent. In terms of activities, the day remains ideal for those wishing to explore the stunning lakeshore or enjoy a warming beverage at a nearby caf\u00e9, taking advantage of the relatively pleasant weather. As we are not on a major holiday, the focus remains on enjoying the beauty of the season as it transitions into winter.",
+    "color_code": "#A2B4E2",
+    "timestamp": "2024-11-26 11:05:14"
 }
