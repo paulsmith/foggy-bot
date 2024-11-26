@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T17:51:00+00:00",
-            "temperature_f": 35.06,
-            "temperature_c": 1.7,
-            "humidity": 47.444227348131,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 250,
+            "timestamp": "2024-11-26T18:51:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 45.605426168035,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 230,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-26T13:00:00-06:00",
+                "startTime": "2024-11-26T14:00:00-06:00",
                 "endTime": "2024-11-26T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Currently in Evanston, the air is crisp and cool with temperatures hovering in the mid-30s. Despite the brisk weather, conditions remain predominantly clear, allowing for glimpses of blue sky above the tranquil waters of Lake Michigan. The winds are howling from the southwest, creating a noticeable chill that calls for a light jacket if you venture outside. \n\nAs we move into the afternoon, expect the sun to shine favorably, with temperatures peaking near the upper 30s before declining slightly. Tonight brings a shift, as the skies grow cloudy with a slight chance of rain and snow late in the evening. With those clouds rolling in, it\u2019s advisable to prepare for the potential of light precipitation. Overall, the day portrays a sharp seasonal feel typical for late November in this region, where a warm scarf and a sturdy pair of boots may serve you well. Despite the cooler temperatures, the beach could be a serene spot for a brisk walk or a moment of reflection, as the still waters and shifting winds create a placid atmosphere, weighted only by the hints of winter to come.",
-    "color_code": "#A8B3C0",
-    "timestamp": "2024-11-26 13:05:03"
+    "weather_report": "Current conditions in Evanston present a crisp and cool atmosphere, with temperatures hovering in the mid 30s, accompanied by a light breeze that adds a refreshing bite to the air. The sky exhibits a mostly clear demeanor, making for a pleasant outdoor ambiance ideal for a stroll along the beach. As the afternoon unfolds, expect mostly sunny skies with temperatures gently falling to around the high 30s, complemented by a mild west-southwest breeze, bringing a touch of warmth to the otherwise chilly scene.\n\nTonight, the weather takes a slight turn as clouds gather, with a minor chance of some light snow or rain, particularly late at night. Conditions shift to mostly cloudy, with temperatures dipping to the low 30s. The wave conditions along the lake will likely be moderate, considering the mild wind speeds, making it suitable for those enjoying the shoreline scenery, but perhaps not ideal for wind-sensitive activities. As we are in late November, these temperatures are typical for this region during the season, embracing a wintry chill that can be expected this time of year. For those venturing out today, layering up is advisable\u2014think snug jackets and warm scarves to comfortably enjoy the crisp air while embracing the beauty of Evanston's lakeside.",
+    "color_code": "#A0C4E4",
+    "timestamp": "2024-11-26 14:06:39"
 }
