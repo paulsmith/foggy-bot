@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-26T19:00:00-06:00",
+                "startTime": "2024-11-26T20:00:00-06:00",
                 "endTime": "2024-11-27T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/ovc/snow,20?size=medium",
-                "shortForecast": "Cloudy then Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow between midnight and 5am. Cloudy, with a low around 33. Southwest wind 5 to 10 mph. Chance of precipitation is 20%. Little or no snow accumulation expected."
+                "shortForecast": "Cloudy then Slight Chance Snow",
+                "detailedForecast": "A slight chance of snow between 1am and 5am. Cloudy, with a low around 33. Southwest wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 20%. Little or no snow accumulation expected."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a chilly evening, with temperatures in the mid 30s giving a brisk feel to the air, enhanced by a blustery southwesterly wind. The skies are overcast, painting a gray backdrop as clouds gather. A slight chance of snow looms into the early hours, with no significant accumulation expected. As we look towards tomorrow, conditions will remain mostly cloudy with unseasonably cool temperatures peaking in the high 40s, but falling into the low 40s by afternoon.\n\nThe beach vista, though dark, offers a stark beauty typical of late November. However, the weather's chill and impending precipitation may not make for inviting outdoor conditions. Wave conditions may be moderate, making it a less than ideal night for water activities. Given the bluster and coolness, layering up is essential\u2014think warmly with jackets and perhaps a hat to fend off the wind's bite. This time of year, the temperatures are fairly typical for Evanston's late fall, adding to the seasonal atmosphere. As this evening unfolds, it\u2019s more suitable for cozy indoor pursuits than outdoor adventures, and with the festive season approaching, perhaps some holiday preparations or gatherings might fill the evening instead.",
-    "color_code": "#666669",
-    "timestamp": "2024-11-26 19:33:00"
+    "weather_report": "The evening air in Evanston is brisk and cool, with a current temperature hovering in the mid-30s and a gentle, lingering humidity that adds a bite to the chill. The wind, moving at a noticeable pace, carries a cloud cover that paints the sky in muted tones, creating a somewhat somber ambiance. As night falls, conditions remain stable heading into a night that may bring a light dusting of snow, particularly between one and five in the morning, though no significant accumulation is expected.\n\nLooking ahead to Wednesday, residents can anticipate mostly cloudy skies with temperatures peaking in the upper 40s. A light breeze will accompany the day, making it suitable for a light jacket, but the overall sensation will remain comfortably cool. The lake\u2019s waves can be expected to be modest, reflecting the calmer winds, proving more inviting for brief gazes rather than adventure on the water. As the holiday season approaches, with December just days away, the current weather feels typical for late November, setting the stage for winter activities. Those who venture out may find solace in a warm beverage, perhaps while taking a walk along the shore or enjoying the peacefulness of the beach at night.",
+    "color_code": "#4B5B8E",
+    "timestamp": "2024-11-26 20:31:52"
 }
