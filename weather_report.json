@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T22:51:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 51.970474129427,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 240,
+            "timestamp": "2024-11-27T00:51:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 56.338368351444,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 230,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-26T18:00:00-06:00",
+                "startTime": "2024-11-26T19:00:00-06:00",
                 "endTime": "2024-11-27T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston, Illinois, is currently experiencing a chilly evening, with temperatures dipping into the lower 40s. The air carries a gentle dampness, making for a crisp and cool atmosphere under overcast skies. Winds are brisk, swaying the tall grasses and ruffling the surface of Lake Michigan, where wave activity is likely moderate but manageable. As night falls, a slight chance of snow remains in the forecast, though any accumulation will be minimal. Tomorrow, conditions will remain mostly cloudy with temperatures peaking in the mid-40s before settling to a cooler close in the afternoon. \n\nGiven the chill in the air and the possibility of light snowfall, a warm jacket, perhaps layered with a sweater, would be advisable for anyone venturing outside. The scene is reminiscent of late fall in the Midwest, typical for this time of year, where a somber clarity hangs over the landscape. Ideal activities would include a cozy evening indoors or a walk on the beach, allowing for the fresh air while wrapped warmly against the chill.",
-    "color_code": "#6B7C9B",
-    "timestamp": "2024-11-26 18:22:38"
+    "weather_report": "Evanston is currently experiencing a chilly evening, with temperatures in the mid 30s giving a brisk feel to the air, enhanced by a blustery southwesterly wind. The skies are overcast, painting a gray backdrop as clouds gather. A slight chance of snow looms into the early hours, with no significant accumulation expected. As we look towards tomorrow, conditions will remain mostly cloudy with unseasonably cool temperatures peaking in the high 40s, but falling into the low 40s by afternoon.\n\nThe beach vista, though dark, offers a stark beauty typical of late November. However, the weather's chill and impending precipitation may not make for inviting outdoor conditions. Wave conditions may be moderate, making it a less than ideal night for water activities. Given the bluster and coolness, layering up is essential\u2014think warmly with jackets and perhaps a hat to fend off the wind's bite. This time of year, the temperatures are fairly typical for Evanston's late fall, adding to the seasonal atmosphere. As this evening unfolds, it\u2019s more suitable for cozy indoor pursuits than outdoor adventures, and with the festive season approaching, perhaps some holiday preparations or gatherings might fill the evening instead.",
+    "color_code": "#666669",
+    "timestamp": "2024-11-26 19:33:00"
 }
