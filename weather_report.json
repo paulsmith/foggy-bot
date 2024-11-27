@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-27T10:51:00+00:00",
+            "timestamp": "2024-11-27T12:51:00+00:00",
             "temperature_f": 35.06,
             "temperature_c": 1.7,
             "humidity": 66.374179406691,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 150,
-            "description": "Cloudy"
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 120,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-27T06:00:00-06:00",
+                "startTime": "2024-11-27T08:00:00-06:00",
                 "endTime": "2024-11-27T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "SE",
+                "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. Southeast wind around 5 mph, with gusts as high as 15 mph."
+                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. East southeast wind around 5 mph, with gusts as high as 15 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the air feels crisp and cool, with current temperatures hovering in the mid-30s, accompanied by a gentle, whispering breeze. Skies remain overcast, lending a muted quality to the morning light. The beach, usually bustling with activity, stands quiet, reflecting the calm before the predicted slight chance of rain and snow showers later today. Residents can expect a mostly cloudy day, with temperatures rising only slightly into the low 40s \u2014 a stark reminder that winter is fast approaching.\n\nForecasts indicate a transition to potentially wintry precipitation this evening, aligning with the cooling trend as night falls. A modest chance of rain mixed with snow is anticipated, particularly between 8 PM and 3 AM, as temperatures dip into the low 30s. Those venturing outdoors would find the atmosphere to be slightly chilly, making a warm coat and perhaps a scarf advisable for comfort. Wave conditions along Lake Michigan are likely to remain tame, suitable for gentle strolls along the shoreline rather than vigorous outdoor activities. Given the day and the evolving weather patterns, indoor pursuits may be a more appealing option, such as visiting local cafes or art galleries. \n\nWhile today is not marked by any major holiday or event, the season frolics on the edge between autumn and winter, reminding us of the beauty and unpredictability of the Midwestern climate.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2024-11-27 06:08:54"
+    "weather_report": "Current conditions in Evanston paint a crisp and cool picture, with temperatures hovering in the mid-30s and a gentle breeze from the southeast. The sky is largely overcast, hinting at the possibility of precipitation later in the day. As we look ahead, today's forecast suggests a high in the upper 40s, with a gradual decline in temperatures through the afternoon. Winds will shift to a light breeze, making the chill feel just a touch more pronounced. \n\nTonight\u2019s forecast brings a slight chance of rain and snow showers, particularly between the evening hours and early morning, with temperatures dipping into the low 30s. The water's surface along Lake Michigan appears calm under the cloudy skies, reflecting the stillness of the day. Considering the seasonal context, this weather is typical for late November in the Midwest, when one anticipates cool temperatures and the potential for wintery conditions. For those venturing outside, layering up will be essential to stay warm, as both the tranquility of the lake and the threat of wet weather may make for less-than-ideal outdoor activities. Perhaps a cozy evening at home or a stroll along the lakeshore, bundled up against the chill, might be the perfect way to embrace the day.",
+    "color_code": "#A3C3C3",
+    "timestamp": "2024-11-27 08:05:24"
 }
