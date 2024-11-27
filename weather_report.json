@@ -7,7 +7,7 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-27T00:51:00+00:00",
+            "timestamp": "2024-11-27T01:51:00+00:00",
             "temperature_f": 35.96,
             "temperature_c": 2.2,
             "humidity": 56.338368351444,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The evening air in Evanston is brisk and cool, with a current temperature hovering in the mid-30s and a gentle, lingering humidity that adds a bite to the chill. The wind, moving at a noticeable pace, carries a cloud cover that paints the sky in muted tones, creating a somewhat somber ambiance. As night falls, conditions remain stable heading into a night that may bring a light dusting of snow, particularly between one and five in the morning, though no significant accumulation is expected.\n\nLooking ahead to Wednesday, residents can anticipate mostly cloudy skies with temperatures peaking in the upper 40s. A light breeze will accompany the day, making it suitable for a light jacket, but the overall sensation will remain comfortably cool. The lake\u2019s waves can be expected to be modest, reflecting the calmer winds, proving more inviting for brief gazes rather than adventure on the water. As the holiday season approaches, with December just days away, the current weather feels typical for late November, setting the stage for winter activities. Those who venture out may find solace in a warm beverage, perhaps while taking a walk along the shore or enjoying the peacefulness of the beach at night.",
-    "color_code": "#4B5B8E",
-    "timestamp": "2024-11-26 20:31:52"
+    "weather_report": "Current conditions in Evanston reveal a chilly evening with temperatures hovering in the mid-30s, offering a brisk sensation enhanced by a gusty southwest breeze. The weather is predominantly cloudy, creating a dim ambiance as nightfall settles. Looking ahead, tonight brings a slight possibility of snow during the early morning hours, although any accumulation is expected to be minimal. As we transition into Wednesday, conditions will remain mostly cloudy with daytime highs peaking in the mid-40s before easing back down in the afternoon.\n\nThe atmosphere is characterized by a rather stark chill typical for late November, making it feel a bit colder than the numbers suggest due to the blustery winds. As for the lake, wave conditions will likely be moderate, reflecting the ongoing wind patterns. It\u2019s advisable to dress warmly, opting for layered clothing to stay comfortable when venturing outdoors. Given these conditions, this evening might not be suitable for outdoor activities, but indoor options or brief walks along the beach could provide some fresh air without too much discomfort. There are no significant holidays to note at this moment, but the holiday season is just around the corner, setting the stage for upcoming celebrations.",
+    "color_code": "#7C9B9D",
+    "timestamp": "2024-11-26 21:17:44"
 }
