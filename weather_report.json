@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-27T04:51:00+00:00",
+            "timestamp": "2024-11-27T05:51:00+00:00",
             "temperature_f": 37.04,
             "temperature_c": 2.8,
             "humidity": 56.498776223415,
             "wind_speed_mph": 12.0798,
-            "wind_direction": 180,
-            "description": "Cloudy"
+            "wind_direction": 210,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston finds us in a cool embrace, with temperatures lingering in the mid 30s and a gentle wind whispering in from the south. The clouds hang heavy, adding to the overcast ambiance of the night, but with only a slight chance of snow before dawn. As we look ahead to tomorrow, expect more of the same with mostly cloudy skies and high temperatures reaching into the upper 40s, dipping into the low 40s by afternoon as a light breeze continues to caress the shore.\n\nThe appearance outside is quite dreary; the beach remains calm and quiet under the cloud cover, with no significant precipitation anticipated. Wave conditions are likely to be gentle given the lull of the winds, making for a tranquil Lake Michigan experience. Dress warmly if you venture out, favoring layers suitable for the coolness\u2014perhaps a heavy coat and sturdy boots are in order. This time of year, as we embrace late November, feels typical for the season, capturing that crisp and chilly essence synonymous with a Midwestern autumn. There are certainly opportunities for cozy indoor activities like visiting a local caf\u00e9 or enjoying a film, perfect for a weekday evening when the holidays are just around the corner.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-27 00:07:33"
+    "weather_report": "Current conditions in Evanston, Illinois, reveal a cool and crisp atmosphere as the temperature rests in the mid 30s, complemented by a gentle breeze. The area is cloaked under a veil of mostly cloudy skies, which, along with the brisk winds, imparts a somewhat wintry feel to the scene. Looking ahead, the overnight hours may bring the slightest chance of snow, but any accumulation is expected to be negligible as temperatures settle near the freezing mark. By Wednesday, the weather will transition to a more moderate phase with an anticipated high in the mid 40s, the clouds remaining a prominent feature throughout the day.\n\nAs for the beach and Lake Michigan, wave conditions should generally be calm, though visitors might notice a gentle lapping against the shore under the current cloudy conditions. For those braving the elements, dressing in layers is recommended to combat the chilly air. This time of year typically brings lower temperatures, making the current setup fairly representative of late November in this region. While outdoor activities might be limited due to the brisk temperatures, it\u2019s a good time for reflective walks along the lakefront or perhaps an indoor visit to a nearby caf\u00e9 to enjoy a warm beverage.",
+    "color_code": "#4A4D75",
+    "timestamp": "2024-11-27 01:05:49"
 }
