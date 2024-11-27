@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-27T20:51:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 52.890097417346,
-            "wind_speed_mph": 24.964920000000003,
+            "timestamp": "2024-11-27T21:51:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 59.67336328297,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 30,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-27T16:00:00-06:00",
+                "startTime": "2024-11-27T17:00:00-06:00",
                 "endTime": "2024-11-27T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "ENE",
+                "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. East northeast wind around 5 mph."
+                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. Northeast wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois present a somewhat chilly and cloudy scene, with temperatures lingering in the low 40s and a brisk, blustery wind sweeping in from the northeast. The overcast sky creates a muted atmosphere, reminiscent of a typical late autumn day by the lake, where the air feels fresh yet crisp against the skin. Looking towards the horizon, one might find the waves lapping gently at the shore, suggesting moderate wave conditions that can be both invigorating and somber.\n\nAs we move through the afternoon, expect mostly cloudy skies with a high near the mid-40s, gradually dropping as the sun begins to set. Tonight could bring scattered rain showers from about 9 PM to 3 AM, with temperatures dipping to around the low 30s, so don\u2019t be surprised if the evening takes on a distinctly wintery edge. Given the potential for evening rain and the cool air, layered clothing is advisable\u2014perhaps a warm jacket and sturdy shoes, along with a hat to fend off the chill. While this time of year is generally characterized by such temperatures in this region, it might feel a bit colder with the wind and impending rain. \n\nAs for activities, a stroll along the beach could provide a refreshing experience this afternoon, though the impending showers later may deter leisurely outdoor plans. If you're a lover of cozy indoor spots, consider visiting a nearby caf\u00e9 or bookstore for a warm drink while you wait for the rain to pass. Today isn\u2019t a holiday, but with the winter season fast approaching, it\u2019s a perfect reminder of the cozy gatherings and celebrations that lie ahead.",
-    "color_code": "#A0C3D2",
-    "timestamp": "2024-11-27 16:05:06"
+    "weather_report": "Evanston is currently experiencing a blustery late afternoon with temperatures settling in the low 40s, making for a cool yet somewhat damp vibe as the air feels heavier under the overcast skies. With a gusty northeast wind adding to the chill, it's definitely a good idea to bundle up. Throughout the afternoon, expect mostly cloudy conditions as temperatures hover around 45 before dipping again, accompanied by scattered rain showers arriving later tonight between 9 PM and 3 AM. The presence of rain could bring a sense of melancholy to what is already a rather dreary end to the day.\n\nAs for the waves on Lake Michigan, expect them to be a bit choppy given the winds, so not the ideal setting for a relaxed beach outing. Tonight's forecast suggests a low around 31, rising slightly as the night progresses, so keep in mind the potential for a few wet spots. Ideal attire would include a warm coat and perhaps a waterproof layer if venturing out later. Given it\u2019s late November, these temperatures are par for the course in the Midwest, fitting within the typical cool and brisk seasonal expectations. For activities, a cozy evening in sounds preferable, perhaps enjoying some indoor leisure or planning for the upcoming holiday season as Thanksgiving is just days away.",
+    "color_code": "#4B7F99",
+    "timestamp": "2024-11-27 17:05:40"
 }
