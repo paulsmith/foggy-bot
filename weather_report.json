@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-27T05:51:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 56.498776223415,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 210,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-27T06:51:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 61.688238382189,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 260,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-27T00:00:00-06:00",
+                "startTime": "2024-11-27T02:00:00-06:00",
                 "endTime": "2024-11-27T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -30,10 +30,10 @@
                     "value": 20
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "SW",
+                "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
                 "shortForecast": "Slight Chance Snow",
-                "detailedForecast": "A slight chance of snow before 5am. Cloudy, with a low around 33. Southwest wind around 5 mph. Chance of precipitation is 20%. Little or no snow accumulation expected."
+                "detailedForecast": "A slight chance of snow before 5am. Cloudy, with a low around 33. South southwest wind around 5 mph. Chance of precipitation is 20%. Little or no snow accumulation expected."
             },
             {
                 "number": 2,
@@ -49,14 +49,14 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "SSE",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. South southeast wind around 5 mph, with gusts as high as 10 mph."
+                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. Southeast wind around 5 mph, with gusts as high as 15 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a cool and crisp atmosphere as the temperature rests in the mid 30s, complemented by a gentle breeze. The area is cloaked under a veil of mostly cloudy skies, which, along with the brisk winds, imparts a somewhat wintry feel to the scene. Looking ahead, the overnight hours may bring the slightest chance of snow, but any accumulation is expected to be negligible as temperatures settle near the freezing mark. By Wednesday, the weather will transition to a more moderate phase with an anticipated high in the mid 40s, the clouds remaining a prominent feature throughout the day.\n\nAs for the beach and Lake Michigan, wave conditions should generally be calm, though visitors might notice a gentle lapping against the shore under the current cloudy conditions. For those braving the elements, dressing in layers is recommended to combat the chilly air. This time of year typically brings lower temperatures, making the current setup fairly representative of late November in this region. While outdoor activities might be limited due to the brisk temperatures, it\u2019s a good time for reflective walks along the lakefront or perhaps an indoor visit to a nearby caf\u00e9 to enjoy a warm beverage.",
-    "color_code": "#4A4D75",
-    "timestamp": "2024-11-27 01:05:49"
+    "weather_report": "In Evanston, the current weather paints a chilly picture, with temperatures hovering in the mid 30s under a cloudy sky. The evening air carries a brisk, blustery feel, with winds whispering from the west at nearly 21 miles per hour, adding a bite to the air that feels particularly sharp as you approach Lake Michigan. As the night progresses, there's a slight chance of snow flurries before dawn, with temperatures dipping down to the low 30s; however, any accumulation is expected to be negligible.\n\nLooking ahead to Wednesday, residents can expect a mostly cloudy day, with temperatures climbing only to the mid 40s before shifting downward in the afternoon. Light winds will offer a more subdued experience, yet the overall ambiance remains cool and somewhat damp. While it may not be ideal beach weather, the chilly temps and gusty winds bring a defining feel of late autumn in the Midwest. Dress warmly in layers, with perhaps a good coat and a pair of insulated gloves for those brief jaunts outdoors. If you\u2019re brave, a stroll along the beachfront to enjoy the wintry view may provide a refreshing escape, especially as the holiday season approaches and the town begins to twinkle with seasonal lights.",
+    "color_code": "#2C3E50",
+    "timestamp": "2024-11-27 02:07:06"
 }
