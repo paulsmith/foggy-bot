@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-27T09:51:00+00:00",
+            "timestamp": "2024-11-27T10:51:00+00:00",
             "temperature_f": 35.06,
             "temperature_c": 1.7,
-            "humidity": 63.929305394195,
+            "humidity": 66.374179406691,
             "wind_speed_mph": 12.0798,
-            "wind_direction": 160,
-            "description": "Mostly Cloudy"
+            "wind_direction": 150,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-27T05:00:00-06:00",
-                "endTime": "2024-11-27T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 33,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. Low around 33, with temperatures rising to around 35 overnight. South wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2024-11-27T06:00:00-06:00",
                 "endTime": "2024-11-27T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. Southeast wind around 5 mph, with gusts as high as 15 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-27T18:00:00-06:00",
+                "endTime": "2024-11-28T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 31,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "5 to 15 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/night/snow,40?size=medium",
+                "shortForecast": "Slight Chance Rain And Snow Showers then Chance Rain And Snow Showers",
+                "detailedForecast": "A slight chance of rain and snow showers between 8pm and 10pm, then a chance of rain and snow showers between 10pm and 3am, then a slight chance of rain and snow showers. Mostly cloudy. Low around 31, with temperatures rising to around 33 overnight. North northeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current conditions are marked by a crisp chill, with temperatures resting in the mid-30s and a gentle breeze whispering from the southeast. The sky is mostly cloudy, presenting a subdued ambiance typical for this season as late autumn transitions toward winter. As we look ahead, expect mostly cloudy skies throughout the day, with high temperatures peaking near the mid-40s, then gracefully tapering off as the afternoon progresses. The light winds will keep the air feeling fresh, and while wave conditions on Lake Michigan will likely remain calm, the cool air may deter much outdoor activity.\n\nThis time of year, temperatures are fairly standard for the region, with the chill in the air calling for layered attire\u2014think warm jackets, hats, and gloves to stay comfortably insulated. While precipitation isn't in today\u2019s forecast, the dampness in the air could make for a brisk walking experience along the lakeshore. For those interested in outdoor pursuits, a stroll by the water could be invigorating despite the gray skies. However, with the approach of the winter months and the absence of any festive holiday this week, it's a perfect moment for some quiet reflection as nature prepares for the season ahead.",
-    "color_code": "#5B8FB3",
-    "timestamp": "2024-11-27 05:04:55"
+    "weather_report": "As dawn breaks over Evanston, the air feels crisp and cool, with current temperatures hovering in the mid-30s, accompanied by a gentle, whispering breeze. Skies remain overcast, lending a muted quality to the morning light. The beach, usually bustling with activity, stands quiet, reflecting the calm before the predicted slight chance of rain and snow showers later today. Residents can expect a mostly cloudy day, with temperatures rising only slightly into the low 40s \u2014 a stark reminder that winter is fast approaching.\n\nForecasts indicate a transition to potentially wintry precipitation this evening, aligning with the cooling trend as night falls. A modest chance of rain mixed with snow is anticipated, particularly between 8 PM and 3 AM, as temperatures dip into the low 30s. Those venturing outdoors would find the atmosphere to be slightly chilly, making a warm coat and perhaps a scarf advisable for comfort. Wave conditions along Lake Michigan are likely to remain tame, suitable for gentle strolls along the shoreline rather than vigorous outdoor activities. Given the day and the evolving weather patterns, indoor pursuits may be a more appealing option, such as visiting local cafes or art galleries. \n\nWhile today is not marked by any major holiday or event, the season frolics on the edge between autumn and winter, reminding us of the beauty and unpredictability of the Midwestern climate.",
+    "color_code": "#8B9DC3",
+    "timestamp": "2024-11-27 06:08:54"
 }
