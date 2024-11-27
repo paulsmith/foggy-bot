@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-27T07:51:00+00:00",
-            "temperature_f": 35.96,
-            "temperature_c": 2.2,
-            "humidity": 61.688238382189,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 190,
+            "timestamp": "2024-11-27T08:51:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 63.929305394195,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-27T02:00:00-06:00",
+                "startTime": "2024-11-27T04:00:00-06:00",
                 "endTime": "2024-11-27T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
-                "shortForecast": "Slight Chance Snow",
-                "detailedForecast": "A slight chance of snow before 5am. Cloudy, with a low around 33. South southwest wind around 5 mph. Chance of precipitation is 20%. Little or no snow accumulation expected."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. Low around 33, with temperatures rising to around 35 overnight. South southwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois reveal a crisp, cool atmosphere with temperatures firmly in the mid-30s accompanied by a light breeze. As the evening unfolds, cloud cover blankets the sky, giving it a somewhat muted appearance. Tonight, residents should be aware of a slight chance of snow, particularly before dawn, although any accumulation is expected to be minimal. The low will settle around the low 30s, while a gentle south-southwest wind whispers through the area.\n\nAs we turn to tomorrow, Wednesday brings mostly cloudy skies with a high projected near the mid-40s, tapering off to around 42 degrees by afternoon. The day will continue to feel cool, ideal for bundling up in warm layers as the wind shifts to a soft breeze. With the waters of Lake Michigan nearby, wave conditions are likely to be calm, making for a serene coastal view. This late November weather reflects typical seasonal patterns, where the chill in the air invites cozy indoor activities rather than outdoor excursions. Given the forecast and the time of year, it\u2019s a suitable day for warm beverages indoors or quick outdoor errands\u2014the kind of day where a warm coat, hat, and perhaps gloves would be recommended.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-27 03:05:57"
+    "weather_report": "Evanston's current conditions are quite chilly, with temperatures lingering in the mid 30s and a stillness in the air that underscores the fall season's grip on the region. The skies are mostly cloudy, adding a slight gloom to the landscape and keeping the shoreline of Lake Michigan under a muted light. As we move into the overnight hours, the temperature is expected to dip slightly but may rise a degree or two, with the gentle breeze from the south southwest contributing to a subtle chill in the air. \n\nLooking ahead to Wednesday, expect a predominantly cloudy day with temperatures climbing to the low 40s, then tapering off in the afternoon. The wave conditions at the beach will likely remain calm, reflecting the tranquil atmosphere. There is no precipitation in the forecast, enhancing the outdoor experience. For those venturing out, layers are recommended\u2014perhaps a warm coat paired with a scarf\u2014as the transition from cool mornings to slightly milder afternoons can be deceiving. Overall, while the weather may not be ideal for prolonged outdoor activities, brief walks along the lakefront could be enjoyable, especially with the upcoming holiday season adding a festive spirit to the air, even as it approaches.",
+    "color_code": "#6B7B86",
+    "timestamp": "2024-11-27 04:06:01"
 }
