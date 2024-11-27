@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T21:51:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 47.914235806308,
-            "wind_speed_mph": 41.07132,
+            "timestamp": "2024-11-26T22:51:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 51.970474129427,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 240,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-26T17:00:00-06:00",
-                "endTime": "2024-11-26T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 39, with temperatures falling to around 37 in the afternoon. West southwest wind around 10 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-26T18:00:00-06:00",
                 "endTime": "2024-11-27T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/ovc/snow,20?size=medium",
                 "shortForecast": "Cloudy then Slight Chance Light Snow",
                 "detailedForecast": "A slight chance of snow between midnight and 5am. Cloudy, with a low around 33. Southwest wind 5 to 10 mph. Chance of precipitation is 20%. Little or no snow accumulation expected."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2024-11-27T06:00:00-06:00",
+                "endTime": "2024-11-27T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. South southeast wind around 5 mph, with gusts as high as 10 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a chilly and slightly blustery late afternoon, with temperatures hovering in the mid to high 30s under a cloudy sky. Wind gusts are robust, sweeping in from the west-southwest, contributing to a brisk feel as daylight fades. The forecast for later today boasts a shift to partly sunny skies, yet temperatures are expected to trend downward. Tonight, there's a modest chance of snow in the early hours, but little to no accumulation is anticipated, keeping the evening fairly quiet.\n\nDespite the chill, the beach scene might hold a certain stark beauty, with gentle waves reflecting the muted light of the encroaching evening. Attire should favor warmth, suggesting layers including a good coat, perhaps a hat and gloves, to comfortably enjoy any outdoor pursuits. Given the season and location, such temperatures are fairly standard for late November, veering towards the wintry side of comfort. Outdoor activities are best kept light, perhaps a brisk walk along the shore to relish the fresh air before settling in for the night.",
-    "color_code": "#4A4C57",
-    "timestamp": "2024-11-26 17:05:16"
+    "weather_report": "Evanston, Illinois, is currently experiencing a chilly evening, with temperatures dipping into the lower 40s. The air carries a gentle dampness, making for a crisp and cool atmosphere under overcast skies. Winds are brisk, swaying the tall grasses and ruffling the surface of Lake Michigan, where wave activity is likely moderate but manageable. As night falls, a slight chance of snow remains in the forecast, though any accumulation will be minimal. Tomorrow, conditions will remain mostly cloudy with temperatures peaking in the mid-40s before settling to a cooler close in the afternoon. \n\nGiven the chill in the air and the possibility of light snowfall, a warm jacket, perhaps layered with a sweater, would be advisable for anyone venturing outside. The scene is reminiscent of late fall in the Midwest, typical for this time of year, where a somber clarity hangs over the landscape. Ideal activities would include a cozy evening indoors or a walk on the beach, allowing for the fresh air while wrapped warmly against the chill.",
+    "color_code": "#6B7C9B",
+    "timestamp": "2024-11-26 18:22:38"
 }
