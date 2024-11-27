@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-27T18:51:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 48.725352388491,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 90,
+            "timestamp": "2024-11-27T19:51:00+00:00",
+            "temperature_f": 44.06,
+            "temperature_c": 6.7,
+            "humidity": 45.031486894779,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-27T14:00:00-06:00",
+                "startTime": "2024-11-27T15:00:00-06:00",
                 "endTime": "2024-11-27T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "E",
+                "windDirection": "ENE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. East wind around 5 mph."
+                "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 42 in the afternoon. East northeast wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois reflect a chilly and cloudy afternoon, with temperatures hovering in the low 40s. A gentle breeze from the east adds a touch of coolness to the air, creating a brisk feeling that resonates with the dampness typical of late November. The clouds loom thick, casting a muted gray over the landscape, while the still waters of Lake Michigan present a tranquil scene with only a few gentle ripples.\n\nLooking ahead, the forecast indicates a continuation of mostly cloudy skies this afternoon, with temperatures expected to slightly dip as we move into the evening. The potential for scattered rain showers looms later tonight, particularly between 9 PM and 3 AM, contributing to the damp atmosphere and bringing a low down to the low 30s overnight. The chance of precipitation sits around 40%. For those out and about, layering up with a warm coat, scarf, and gloves is advisable to combat the chill. Generally, this weather aligns with what one would expect in the early winter months in the Midwest, where cooler temperatures and overcast skies frequently characterize the season. Given these conditions, a stroll along the beach may still offer a refreshing escape, but one might also enjoy cozying up indoors with a warm drink or catching up on indoor hobbies.",
-    "color_code": "#99AAB5",
-    "timestamp": "2024-11-27 14:06:13"
+    "weather_report": "Current conditions in Evanston present a chilly, murky atmosphere as temperatures hover in the low 40s, with a gentle, whispering breeze barely stirring the air. The day, under a shroud of mostly cloudy skies, lacks brightness, confirming the presence of an impending shift as precipitation is expected later this evening. As night approaches, rain showers are likely to develop, particularly between 9 PM and 3 AM, adding to the cool, enveloping feel of the night with temperatures potentially dipping to the low 30s.\n\nThe beach scene reflects an unwelcoming appearance for outdoor activities today, with wave conditions appearing relatively calm, though the rough terrain of the Lake Michigan shoreline suggests caution for those considering water activities. Given the cool and damp environment, it\u2019s advisable to dress warmly in layers, perhaps incorporating a waterproof jacket, as conditions could turn wet. Typical for late November in this region, these temperatures align with seasonal expectations, offering reminders of winter's slow approach. Evening strolls along the shoreline may be pleasant but should be executed with an awareness of the chilly air and potential rain. With no major holidays on the calendar today, the focus remains on enjoying these typical winter days while preparing for what lies ahead.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-11-27 15:05:03"
 }
