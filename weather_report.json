@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-27T08:51:00+00:00",
+            "timestamp": "2024-11-27T09:51:00+00:00",
             "temperature_f": 35.06,
             "temperature_c": 1.7,
             "humidity": 63.929305394195,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 160,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-27T04:00:00-06:00",
+                "startTime": "2024-11-27T05:00:00-06:00",
                 "endTime": "2024-11-27T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "SSW",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. Low around 33, with temperatures rising to around 35 overnight. South southwest wind around 5 mph."
+                "detailedForecast": "Cloudy. Low around 33, with temperatures rising to around 35 overnight. South wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston's current conditions are quite chilly, with temperatures lingering in the mid 30s and a stillness in the air that underscores the fall season's grip on the region. The skies are mostly cloudy, adding a slight gloom to the landscape and keeping the shoreline of Lake Michigan under a muted light. As we move into the overnight hours, the temperature is expected to dip slightly but may rise a degree or two, with the gentle breeze from the south southwest contributing to a subtle chill in the air. \n\nLooking ahead to Wednesday, expect a predominantly cloudy day with temperatures climbing to the low 40s, then tapering off in the afternoon. The wave conditions at the beach will likely remain calm, reflecting the tranquil atmosphere. There is no precipitation in the forecast, enhancing the outdoor experience. For those venturing out, layers are recommended\u2014perhaps a warm coat paired with a scarf\u2014as the transition from cool mornings to slightly milder afternoons can be deceiving. Overall, while the weather may not be ideal for prolonged outdoor activities, brief walks along the lakefront could be enjoyable, especially with the upcoming holiday season adding a festive spirit to the air, even as it approaches.",
-    "color_code": "#6B7B86",
-    "timestamp": "2024-11-27 04:06:01"
+    "weather_report": "In Evanston, Illinois, the current conditions are marked by a crisp chill, with temperatures resting in the mid-30s and a gentle breeze whispering from the southeast. The sky is mostly cloudy, presenting a subdued ambiance typical for this season as late autumn transitions toward winter. As we look ahead, expect mostly cloudy skies throughout the day, with high temperatures peaking near the mid-40s, then gracefully tapering off as the afternoon progresses. The light winds will keep the air feeling fresh, and while wave conditions on Lake Michigan will likely remain calm, the cool air may deter much outdoor activity.\n\nThis time of year, temperatures are fairly standard for the region, with the chill in the air calling for layered attire\u2014think warm jackets, hats, and gloves to stay comfortably insulated. While precipitation isn't in today\u2019s forecast, the dampness in the air could make for a brisk walking experience along the lakeshore. For those interested in outdoor pursuits, a stroll by the water could be invigorating despite the gray skies. However, with the approach of the winter months and the absence of any festive holiday this week, it's a perfect moment for some quiet reflection as nature prepares for the season ahead.",
+    "color_code": "#5B8FB3",
+    "timestamp": "2024-11-27 05:04:55"
 }
