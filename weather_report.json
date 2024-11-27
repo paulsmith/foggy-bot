@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-27T03:51:00+00:00",
-            "temperature_f": 35.96,
-            "temperature_c": 2.2,
-            "humidity": 56.338368351444,
+            "timestamp": "2024-11-27T04:51:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 56.498776223415,
             "wind_speed_mph": 12.0798,
-            "wind_direction": 220,
+            "wind_direction": 180,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-26T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-27T00:00:00-06:00",
                 "endTime": "2024-11-27T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,20?size=medium",
-                "shortForecast": "Cloudy then Slight Chance Snow",
-                "detailedForecast": "A slight chance of snow between 1am and 5am. Cloudy, with a low around 33. Southwest wind around 5 mph. Chance of precipitation is 20%. Little or no snow accumulation expected."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
+                "shortForecast": "Slight Chance Snow",
+                "detailedForecast": "A slight chance of snow before 5am. Cloudy, with a low around 33. Southwest wind around 5 mph. Chance of precipitation is 20%. Little or no snow accumulation expected."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather paints a picture of a crisp and cool evening with temperatures resting comfortably in the mid 30s. The air is filled with a sense of stillness, aside from the gentle flow of a southwest wind, as clouds dominate the sky, veiling the nighttime stars. While there is only a slight chance of snow lingering in the early hours, little to no accumulation is expected, allowing for a peaceful night ahead, though one should be prepared for the chill as temperatures drop to around freezing.\n\nLooking ahead to Wednesday, anticipate mostly cloudy skies with temperatures rising to the high 40s, gradually retreating to the low 40s by the afternoon. It\u2019s an ideal day for a cozy sweater or warm jacket, as the tranquility of the beach coupled with the breezy conditions will invite some outdoor enjoyment without much in the way of harsh elements. As the season embraces the heart of late November, temperatures are quite typical for this time of year, allowing for a range of possibilities\u2014perhaps a leisurely stroll along the lakeshore or a weekend coffee run. The inviting ambiance of Evanston's beachside beauty remains, even on this quiet night.",
-    "color_code": "#4B8BBE",
-    "timestamp": "2024-11-26 23:05:39"
+    "weather_report": "The current weather in Evanston finds us in a cool embrace, with temperatures lingering in the mid 30s and a gentle wind whispering in from the south. The clouds hang heavy, adding to the overcast ambiance of the night, but with only a slight chance of snow before dawn. As we look ahead to tomorrow, expect more of the same with mostly cloudy skies and high temperatures reaching into the upper 40s, dipping into the low 40s by afternoon as a light breeze continues to caress the shore.\n\nThe appearance outside is quite dreary; the beach remains calm and quiet under the cloud cover, with no significant precipitation anticipated. Wave conditions are likely to be gentle given the lull of the winds, making for a tranquil Lake Michigan experience. Dress warmly if you venture out, favoring layers suitable for the coolness\u2014perhaps a heavy coat and sturdy boots are in order. This time of year, as we embrace late November, feels typical for the season, capturing that crisp and chilly essence synonymous with a Midwestern autumn. There are certainly opportunities for cozy indoor activities like visiting a local caf\u00e9 or enjoying a film, perfect for a weekday evening when the holidays are just around the corner.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-11-27 00:07:33"
 }
