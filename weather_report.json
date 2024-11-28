@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T01:51:00+00:00",
+            "timestamp": "2024-11-28T02:51:00+00:00",
             "temperature_f": 37.94,
             "temperature_c": 3.3,
-            "humidity": 78.969648730007,
-            "wind_speed_mph": 37.04472,
+            "humidity": 82.472737837653,
+            "wind_speed_mph": 49.929840000000006,
             "wind_direction": 350,
             "description": "Cloudy"
         },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night settles over Evanston, a brisk, cloudy evening greets residents with temperatures in the mid to upper 30s, accompanied by a chilling north wind creating a blustery atmosphere. The forecast hints at light rain showers before dawn, yet the skies remain predominantly overcast tonight. As temperatures dip only slightly to around freezing, any potential precipitation is expected to be minimal, lingering around a fraction of an inch.\n\nLooking ahead to Thanksgiving Day, a shift in weather is anticipated, bringing clearer skies and mostly sunny conditions. Highs will hover in the mid 30s, gradually cooling to around 33 by late afternoon, with a continued northwesterly breeze keeping the air feeling crisp. With these conditions, the beachfront is likely to exhibit some wave activity, but without any significant risks. Given the season, these temperatures fall within the realm of typical late November weather in this region. Residents are advised to bundle up with warm layers\u2014perhaps a heavy jacket, scarf, and gloves\u2014to combat the chill, especially if venturing outdoors in the morning. Ideal activities may include a brisk walk along the shoreline to appreciate the raw beauty of winter by the lake, or cozy gatherings indoors, celebrating Thanksgiving alongside loved ones.",
-    "color_code": "#2e4d88",
-    "timestamp": "2024-11-27 21:17:43"
+    "weather_report": "In Evanston, Illinois, the evening is characterized by a brisk chill as temperatures settle into the low 40s, accompanied by a thick veil of clouds that masks the night sky. The atmosphere is notably blustery, with winds whipping out of the north at a strong pace, creating a sense of urgency in the air. Throughout the night, residents can expect a chance of rain showers, with conditions remaining overcast but potentially clearing somewhat. As the clock ticks forward, temperatures may dip to the low 30s, before gradually rising again overnight to around 33 degrees, mingling with that sharp wind for an added bite.\n\nThanksgiving Day promises a transition to more sunshine, presenting a canvas of blue above, even as the high hovers around the mid 30s, which is typical for this time of year in the region. Those brave enough to venture outdoors will encounter a symphony of crashing waves, a reflection of the unsettled weather pattern yet continued coastal allure. With the chill settling in, warm layers are suggested\u2014think cozy sweaters and sturdy jackets, perfect for braving the elements. Given these conditions, indoor activities might be preferable, but if one finds themselves outside, a brisk walk along the shoreline could provide a refreshing, albeit chilly, experience under the vast, open sky.",
+    "color_code": "#3B3B3B",
+    "timestamp": "2024-11-27 22:06:48"
 }
