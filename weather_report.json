@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T02:51:00+00:00",
+            "timestamp": "2024-11-28T03:51:00+00:00",
             "temperature_f": 37.94,
             "temperature_c": 3.3,
-            "humidity": 82.472737837653,
-            "wind_speed_mph": 49.929840000000006,
+            "humidity": 78.969648730007,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 350,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-27T21:00:00-06:00",
+                "startTime": "2024-11-27T23:00:00-06:00",
                 "endTime": "2024-11-28T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 31,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 30
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,20?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 3am. Mostly cloudy. Low around 31, with temperatures rising to around 33 overnight. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers before 3am. Mostly cloudy. Low around 31, with temperatures rising to around 33 overnight. North wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the evening is characterized by a brisk chill as temperatures settle into the low 40s, accompanied by a thick veil of clouds that masks the night sky. The atmosphere is notably blustery, with winds whipping out of the north at a strong pace, creating a sense of urgency in the air. Throughout the night, residents can expect a chance of rain showers, with conditions remaining overcast but potentially clearing somewhat. As the clock ticks forward, temperatures may dip to the low 30s, before gradually rising again overnight to around 33 degrees, mingling with that sharp wind for an added bite.\n\nThanksgiving Day promises a transition to more sunshine, presenting a canvas of blue above, even as the high hovers around the mid 30s, which is typical for this time of year in the region. Those brave enough to venture outdoors will encounter a symphony of crashing waves, a reflection of the unsettled weather pattern yet continued coastal allure. With the chill settling in, warm layers are suggested\u2014think cozy sweaters and sturdy jackets, perfect for braving the elements. Given these conditions, indoor activities might be preferable, but if one finds themselves outside, a brisk walk along the shoreline could provide a refreshing, albeit chilly, experience under the vast, open sky.",
-    "color_code": "#3B3B3B",
-    "timestamp": "2024-11-27 22:06:48"
+    "weather_report": "As night settles over Evanston, current conditions reveal a chilly atmosphere with temperatures dipping into the low 40s. The air feels crisp, accentuated by a brisk north wind adding an invigorating edge to the evening. Cloud cover blankets the sky, and the welling humidity gives the air a noticeably damp quality\u2014a sharp contrast to the clear, bright days of summer. Looking ahead, there\u2019s a chance of rain showers before dawn. The mercury is expected to tumble overnight, reaching a low near the freezing mark, with a slight rise as the night progresses.\n\nThanksgiving Day will greet residents with mostly sunny skies, though temperatures are projected to linger in the mid-30s throughout the afternoon, accompanied by a gentle northwest breeze that will occasionally gust up to 25 mph. While the ocean might beckon with their roiling waves, they could present an impetuous welcome as the wind churns the surface; beachcombers should exercise caution if venturing near the water. Given the cool air, layered clothing is advisable, perhaps a warm coat, a sturdy hat, and gloves. The current temperatures align with the seasonal expectations typical for late November in the Midwest, just a reminder that winter's chill is right around the corner. With the holiday upon us, perhaps gatherings with friends and family indoors might be the day\u2019s highlight, although a brisk walk along the lakeshore could also invigorate the spirit before the festivities commence.",
+    "color_code": "#6B7FBA",
+    "timestamp": "2024-11-27 23:06:05"
 }
