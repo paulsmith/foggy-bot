@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T10:51:00+00:00",
-            "temperature_f": 26.060000000000002,
-            "temperature_c": -3.3,
-            "humidity": 77.333391344726,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 340,
-            "description": "Mostly Clear"
+            "timestamp": "2024-11-28T11:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 74.51040944929,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 320,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Thanksgiving Day",
-                "startTime": "2024-11-28T06:00:00-06:00",
+                "startTime": "2024-11-28T07:00:00-06:00",
                 "endTime": "2024-11-28T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 36,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather sets a brisk tone, with temperatures hovering in the mid-20s, creating a chilling atmosphere complemented by blustery winds from the northwest. The sky remains mostly clear, offering a stark contrast to the biting cold, and while the strong winds may whip through town, visibility remains decent over the landscape leading toward Lake Michigan. As Thanksgiving approaches, today's forecast hints at a partly sunny day with highs reaching near 36 degrees, before dipping to around 32 this afternoon. Locals can expect winds to remain gentle to brisk, with occasional gusts that could elevate the chill factor even further.\n\nAs daylight breaks, the beach may appear inviting yet unwelcoming due to the cold. While precipitation is unlikely during the day, a slight chance of snow showers could greet residents later tonight, adding a wintry touch as temperatures descend closer to the low 20s. Given these conditions, it\u2019s advisable to dress warmly, opting for insulated layers, hats, and gloves for those braving the outdoors. This chilly weather is typical for late November in the Midwest, signaling a shift fully into winter, an ideal time for cozy gatherings, albeit fewer outdoor activities. However, if one fancies a stroll by the lake or enjoys crisp air and solitude, don\u2019t miss the serene beauty of Evanston\u2019s beach in this biting chill.",
-    "color_code": "#4A6E8C",
-    "timestamp": "2024-11-28 06:08:52"
+    "weather_report": "In Evanston, the morning unfolds beneath a mostly cloudy sky, with a chill in the air hinting at winter's approach. Temperatures hover in the mid 20s, accompanied by a brisk and biting northwesterly wind that adds to the cool sensation. As the day progresses, the forecast suggests partial sunshine and a high near the upper 30s, with temperatures likely dipping back into the low 30s come afternoon. This transition will bring with it a touch of clarity, but the strong gusts may leave one feeling rather brisk. \n\nTonight, a subtle chance of snow showers lingers, primarily between 9 PM and 3 AM, amidst a backdrop of scattered clouds. As for Lake Michigan, expect moderate wave action; the surf could prove entertaining for observers but best avoided by swimmers given the conditions. It\u2019s advisable to bundle up with warm layers, a sturdy coat, and perhaps a scarf to fend off the wind\u2019s chill. Seasonal temperatures are typical for late November in this region, urging indoor pursuits over outdoor explorations. With no major holidays today, this is an opportune moment for cozy indoor gatherings or catching up on reading, allowing one to stay warm while the chilly winds whip outside.",
+    "color_code": "#7d9bca",
+    "timestamp": "2024-11-28 07:11:36"
 }
