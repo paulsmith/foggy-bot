@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T04:51:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 75.51236086397,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 340,
+            "timestamp": "2024-11-28T06:01:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 78.147164261716,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly, overcast night, with temperatures lingering in the mid-30s, creating an invigorating but brisk atmosphere. The wind is fierce, whipping through the area at nearly 54 mph, generating a sense of unrest among the trees and the waves of Lake Michigan, which appear choppy. A slight chance of rain showers lingers through the night, but the forecasted lows indicate temperatures will dip to the low 30s.\n\nAs we look ahead to Thanksgiving Day, expect a transition to mostly sunny skies, providing a welcome contrast to the current cloud cover. Highs will peak near 36 degrees, though they will nudge downwards through the afternoon as a gentle northwesterly breeze continues. The wave conditions in the lake may remain tumultuous due to tonight's turbulent winds, suggesting caution for any water activities. Recommended attire for those venturing outside should include warm layers and a wind-resistant coat, particularly with the potential for gusty winds early in the day. As we traverse through the late November season in the Midwest, these temperatures align fairly well with seasonal expectations, marking a typical winter's eve. \n\nFor tomorrow, as families gather to celebrate Thanksgiving, outdoor activities such as a brisk walk along the beach could be refreshing, provided one is bundled appropriately against the brisk air. The shifting weather from cloudy to sunny could also provide a perfect backdrop for festive gatherings, but keep an eye on the conditions, especially near the water.",
-    "color_code": "#3B3B3B",
-    "timestamp": "2024-11-28 00:07:31"
+    "weather_report": "Current conditions in Evanston reveal a chilly scene with a temperature hovering in the mid 30s under overcast skies. The atmosphere is damp and takes on a piercing briskness, making it feel cooler than it is. Looking ahead to the weather forecast, residents can expect a slight chance of rain showers overnight, though the likelihood remains low. Thanksgiving Day promises mostly sunny skies, with afternoon temperatures inching down into the low 30s as a northwesterly breeze picks up. \n\nThe beach outlook is subdued; wave conditions may stir slightly with blustery winds making an appearance, but significant precipitation is not expected through the day. Attire should prioritize warmth, with layers being a good choice to combat the chilly air. Given the seasonal context\u2014late November in the Midwest\u2014the current temperatures align closely with typical expectations. The scene invites brisk walks or a contemplative moment by the lake, perhaps with a warm drink in hand, as families gather for holiday festivities, embodying the spirit of togetherness this time of year.",
+    "color_code": "#5C4D70",
+    "timestamp": "2024-11-28 01:05:54"
 }
