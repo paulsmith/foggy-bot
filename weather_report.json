@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T09:51:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 74.51040944929,
+            "timestamp": "2024-11-28T10:51:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 77.333391344726,
             "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 350,
-            "description": "Partly Cloudy"
+            "wind_direction": 340,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-28T05:00:00-06:00",
-                "endTime": "2024-11-28T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 30. North northwest wind around 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
                 "name": "Thanksgiving Day",
                 "startTime": "2024-11-28T06:00:00-06:00",
                 "endTime": "2024-11-28T18:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny. High near 36, with temperatures falling to around 32 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-28T18:00:00-06:00",
+                "endTime": "2024-11-29T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 23,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 20 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/snow?size=medium",
+                "shortForecast": "Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers between 9pm and 3am. Mostly cloudy, with a low around 23. West northwest wind 10 to 20 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a crisp and cool atmosphere, with temperatures settling in the mid-20s and a blustery north-northwest wind. The air carries a certain chill, heightened by the fierce wind gusts reaching into the 50s, making outdoor activities require thoughtful preparation. As the night unfolds, we can expect partly cloudy skies, with temperatures dipping slightly but generally remaining around the low 30s overnight. \n\nLooking ahead to Thanksgiving Day, the forecast offers the promise of partly sunny skies, a welcome sight for those gathering to give thanks, albeit with temperatures only climbing into the mid-30s and then beginning to slip down again by afternoon. Wave conditions along Lake Michigan are likely to be moderate, influenced by the wind\u2019s strength; caution is advised for any water activities. As precipitation is not on the horizon, this Thanksgiving looks to be dry, providing a pleasant backdrop for family gatherings and outdoor strolls. Given the season, these temperatures are typical for late November in the Midwest. Dressing in layers, perhaps a warm jacket along with a scarf and gloves, will ensure comfort for any planned activities, whether they involve warm meals indoors or a brisk walk along the beach as daylight begins to fade.",
-    "color_code": "#A0A4A9",
-    "timestamp": "2024-11-28 05:04:57"
+    "weather_report": "In Evanston, the current weather sets a brisk tone, with temperatures hovering in the mid-20s, creating a chilling atmosphere complemented by blustery winds from the northwest. The sky remains mostly clear, offering a stark contrast to the biting cold, and while the strong winds may whip through town, visibility remains decent over the landscape leading toward Lake Michigan. As Thanksgiving approaches, today's forecast hints at a partly sunny day with highs reaching near 36 degrees, before dipping to around 32 this afternoon. Locals can expect winds to remain gentle to brisk, with occasional gusts that could elevate the chill factor even further.\n\nAs daylight breaks, the beach may appear inviting yet unwelcoming due to the cold. While precipitation is unlikely during the day, a slight chance of snow showers could greet residents later tonight, adding a wintry touch as temperatures descend closer to the low 20s. Given these conditions, it\u2019s advisable to dress warmly, opting for insulated layers, hats, and gloves for those braving the outdoors. This chilly weather is typical for late November in the Midwest, signaling a shift fully into winter, an ideal time for cozy gatherings, albeit fewer outdoor activities. However, if one fancies a stroll by the lake or enjoys crisp air and solitude, don\u2019t miss the serene beauty of Evanston\u2019s beach in this biting chill.",
+    "color_code": "#4A6E8C",
+    "timestamp": "2024-11-28 06:08:52"
 }
