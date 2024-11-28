@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T18:51:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 60.990161458938,
-            "wind_speed_mph": 24.964920000000003,
+            "timestamp": "2024-11-28T19:37:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 60.394650155608,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 280,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Thanksgiving Day",
-                "startTime": "2024-11-28T14:00:00-06:00",
+                "startTime": "2024-11-28T15:00:00-06:00",
                 "endTime": "2024-11-28T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 32,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the day unfolds under a predominately cloudy sky, with temperatures lingering in the low 30s, creating a crisp and cool atmosphere. As the west-northwest winds pick up, boasting a blustery speed, the chilly air feels brisk against the skin, especially with gusts intensifying at times. The current conditions present a stark reminder of winter's approach, with a forecast for isolated snow showers developing later in the afternoon, adding a touch of wintry magic to the landscape. \n\nWhile the lake may offer a tranquil vista, don't expect ideal beach conditions today\u2014the waves are likely to be a bit more active, perfect for a quiet personal reflection rather than a swim. As snow showers are anticipated this evening, it might be advisable to dress warmly, layering up for the chilly night ahead. Despite the season's bite, these conditions are not unusual for this time of year in the Midwest. Given the weather, a contemplative stroll along the shoreline could be a refreshing choice, allowing for appreciation of Lake Michigan's winter character, especially as we edge closer to the festive season.",
-    "color_code": "#A0B0B6",
-    "timestamp": "2024-11-28 14:05:47"
+    "weather_report": "Cloudy skies dominate the landscape in Evanston, Illinois, as temperatures hover in the low 30s, creating a crisp chill in the air exacerbated by a brisk wind whipping in from the northwest. The persistent breeze adds a raw edge to the day, making it feel even cooler. Ahead, the weather forecast predicts isolated snow showers later this afternoon, accompanied by mostly cloudy skies. As the day progresses, temperatures are expected to dip further, with highs nearing the freezing mark before settling lower, making it an uninviting day for outdoor activities.\n\nWave conditions along the shoreline are moderate, with gentle to moderate swells rolling in, complemented by the impending snow that may add a wintry charm but requires caution for those near the water. With a chance of light snow and comfortable wind chills, it\u2019s advisable for residents to dress warmly, layering up with hats, gloves, and heavy coats, as the cold air may be biting. Typical for late November, these conditions reflect the full embrace of winter in the Midwest, as temperatures remain firmly in the seasonal norm. Given the weather, most residents might prefer to cozy up indoors today, perhaps at a local coffee shop or library, rather than venture out into the brisk air.",
+    "color_code": "#BEC6D7",
+    "timestamp": "2024-11-28 15:04:58"
 }
