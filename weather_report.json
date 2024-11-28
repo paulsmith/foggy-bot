@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T00:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 66.864121260669,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 340,
+            "timestamp": "2024-11-28T01:51:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 78.969648730007,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 350,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-27T20:00:00-06:00",
+                "startTime": "2024-11-27T21:00:00-06:00",
                 "endTime": "2024-11-28T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 31,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 40
                 },
-                "windSpeed": "5 to 15 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,20?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers between 9pm and 3am. Mostly cloudy. Low around 31, with temperatures rising to around 33 overnight. North wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers before 3am. Mostly cloudy. Low around 31, with temperatures rising to around 33 overnight. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening falls over Evanston, the air sits at a cool and damp temperature in the low 40s, accompanied by a gentle breeze swirling from the northwest. The cloudy skies cast a gray veil over the landscape, creating an atmosphere that is perhaps a bit somber but characteristically autumnal. Light rain showers are expected to transition in later tonight, meaning that a brief foray outdoors may result in some inevitable dampness. \n\nTomorrow, on Thanksgiving Day, the weather will brighten considerably as the clouds part, revealing mostly sunny skies. Highs will reach the mid-30s but will cool down as the day progresses. Wind gusts may become quite noticeable, lending a refreshing chill to the air that further emphasizes the season\u2019s transition. Given the late November timing and local geography, these conditions are very much in line with typical weather patterns for the area, albeit on the cooler side for this time of year. A warm coat, perhaps layered with a scarf, will be advisable for those venturing out, especially if enjoying the outdoors by the lake. \n\nWith the forecast for precipitation tonight, a great option would be to stay cozy indoors, perhaps enjoying a pre-Thanksgiving meal with loved ones, while tomorrow\u2019s sunny outlook invites walks along the shore or a family picnic, as the seasonal festivities draw near.",
-    "color_code": "#4A6C9C",
-    "timestamp": "2024-11-27 20:31:44"
+    "weather_report": "As night settles over Evanston, a brisk, cloudy evening greets residents with temperatures in the mid to upper 30s, accompanied by a chilling north wind creating a blustery atmosphere. The forecast hints at light rain showers before dawn, yet the skies remain predominantly overcast tonight. As temperatures dip only slightly to around freezing, any potential precipitation is expected to be minimal, lingering around a fraction of an inch.\n\nLooking ahead to Thanksgiving Day, a shift in weather is anticipated, bringing clearer skies and mostly sunny conditions. Highs will hover in the mid 30s, gradually cooling to around 33 by late afternoon, with a continued northwesterly breeze keeping the air feeling crisp. With these conditions, the beachfront is likely to exhibit some wave activity, but without any significant risks. Given the season, these temperatures fall within the realm of typical late November weather in this region. Residents are advised to bundle up with warm layers\u2014perhaps a heavy jacket, scarf, and gloves\u2014to combat the chill, especially if venturing outdoors in the morning. Ideal activities may include a brisk walk along the shoreline to appreciate the raw beauty of winter by the lake, or cozy gatherings indoors, celebrating Thanksgiving alongside loved ones.",
+    "color_code": "#2e4d88",
+    "timestamp": "2024-11-27 21:17:43"
 }
