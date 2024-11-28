@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T07:51:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 75.018440463752,
+            "timestamp": "2024-11-28T08:51:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 71.494443107146,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Mostly Cloudy"
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-28T02:00:00-06:00",
+                "startTime": "2024-11-28T04:00:00-06:00",
                 "endTime": "2024-11-28T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 30,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. Low around 30, with temperatures rising to around 32 overnight. North northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Cloudy. Low around 30, with temperatures rising to around 32 overnight. North northwest wind around 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current temperature hovers in the low 30s, delivering a brisk chill that settles into the atmosphere, where clouds blanket the night sky. The calm breeze stirs gently, adding to the perceptible coolness rather than disrupting the serene ambiance. As overnight hours progress, expect the mercury to dip slightly but rebounding to around 32 degrees as morning approaches, with a more pronounced northerly wind that promises to pick up, becoming notably blustery by dawn.  \n\nOn Thanksgiving Day, a mix of overcast and scattered clouds is anticipated, with a high nearing the mid 30s and temperatures gradually falling through the afternoon. While the wave conditions on Lake Michigan will likely present some rolling swells under the gusty winds, no precipitation is expected throughout the day, enhancing the overall crispness of the air. Attire should lean towards layers \u2013 a warm coat, hat, and perhaps gloves will maintain comfort, reflecting the seasonal chill typical for late November in the Midwest. Ideal outdoor pursuits may include brisk walks along the shore or visiting local parks, savoring the peaceful beauty of the landscape in this muted winter light, a few days post-Thanksgiving celebrations.",
-    "color_code": "#A6A1A0",
-    "timestamp": "2024-11-28 03:06:04"
+    "weather_report": "The weather in Evanston, Illinois, this early morning is quite chilly with the temperature hovering just above 30 degrees, accompanied by a layer of clouds that soften the sky\u2019s brightness. The atmosphere holds a dampness that adds to the coolness, creating a crisp feel that may warrant a warm jacket if venturing outdoors. As the sun rises, temperatures are expected to gradually climb towards mid 30s, while a gentle breeze from the northwest will pick up, bringing with it gusts that may feel brisk at times.\n\nLooking forward to Thanksgiving Day, the weather promises to remain mostly cloudy with a high near 36 in the early afternoon, followed by a gradual drop in temperatures. Winds will shift to a slightly stronger tone, creating a blustery chill that could make outdoor plans less than ideal unless cloaked in warm attire. Fortunately, precipitation seems to be absent, and wave conditions along Lake Michigan are likely moderate, suggesting that while the beach may lack morning sun, it won't present dangerous conditions for those drawn to the waterside for a contemplative stroll. Given the season, this weather pattern is typical for late November in the Midwest, encouraging indoor gatherings and warm meals as families come together for the holiday.\n\nFor those planning outdoor activities, warm clothing is advisable\u2014a heavy coat, insulated gloves, and a hat will contribute to comfort against the cold air. As everyone prepares to celebrate this festive occasion, the ambiance created by the season invites cozy activities, making it a perfect day for enjoying meals with loved ones or engaging in leisurely indoor pursuits while the clouds drift overhead.",
+    "color_code": "#7E9B9E",
+    "timestamp": "2024-11-28 04:06:10"
 }
