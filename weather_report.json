@@ -11,29 +11,29 @@
             "temperature_f": 35.06,
             "temperature_c": 1.7,
             "humidity": 78.147164261716,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 350,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-28T00:00:00-06:00",
+                "startTime": "2024-11-28T02:00:00-06:00",
                 "endTime": "2024-11-28T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 31,
+                "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 3am. Mostly cloudy. Low around 31, with temperatures rising to around 33 overnight. North northwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. Low around 30, with temperatures rising to around 32 overnight. North northwest wind 15 to 20 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 36, with temperatures falling to around 33 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. High near 36, with temperatures falling to around 32 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly scene with a temperature hovering in the mid 30s under overcast skies. The atmosphere is damp and takes on a piercing briskness, making it feel cooler than it is. Looking ahead to the weather forecast, residents can expect a slight chance of rain showers overnight, though the likelihood remains low. Thanksgiving Day promises mostly sunny skies, with afternoon temperatures inching down into the low 30s as a northwesterly breeze picks up. \n\nThe beach outlook is subdued; wave conditions may stir slightly with blustery winds making an appearance, but significant precipitation is not expected through the day. Attire should prioritize warmth, with layers being a good choice to combat the chilly air. Given the seasonal context\u2014late November in the Midwest\u2014the current temperatures align closely with typical expectations. The scene invites brisk walks or a contemplative moment by the lake, perhaps with a warm drink in hand, as families gather for holiday festivities, embodying the spirit of togetherness this time of year.",
-    "color_code": "#5C4D70",
-    "timestamp": "2024-11-28 01:05:54"
+    "weather_report": "As the clock approaches the early hours, Evanston is waking to a stark and blustery scene, where temperatures hover in the mid-30s, accompanied by a cool overcast sky. The atmosphere is thick with a damp chill, creating a sense of briskness in the air, while howling winds sweep in from the north-northwest at a vigorous pace. This weather paints a picture typical of late November in the Midwest, as winter begins to stake its claim over Lake Michigan.\n\nLooking ahead, the forecast predicts a day filled with mostly cloudy skies, with temperatures reaching a high near 36 before steadily dropping to around 32 by afternoon. Despite the significant winds expected to calm slightly, the gusts may still pack a punch, hinting at a fierce wind chill that will accentuate the day's chill. There's no significant threat of precipitation right now, but the air feels moody and heavy, likely driving locals to seek warmth indoors. For those brave enough to venture out, warm layers are essential\u2014think heavy coats, hats, and gloves to guard against the penetrating cold. While the beach may not be buzzing with activity today, an afternoon stroll along the shore could still be invigorating, provided one is mindful of the stark beauty and raw intensity of the lake during this season.",
+    "color_code": "#5D6C7E",
+    "timestamp": "2024-11-28 02:07:11"
 }
