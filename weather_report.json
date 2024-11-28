@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T17:03:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 63.258343251237,
+            "timestamp": "2024-11-28T17:51:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 60.990161458938,
             "wind_speed_mph": 41.07132,
-            "wind_direction": 310,
+            "wind_direction": 290,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Thanksgiving Day",
-                "startTime": "2024-11-28T12:00:00-06:00",
+                "startTime": "2024-11-28T13:00:00-06:00",
                 "endTime": "2024-11-28T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 33,
+                "temperature": 32,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
                 "shortForecast": "Isolated Snow Showers",
-                "detailedForecast": "Isolated snow showers after 4pm. Partly sunny. High near 33, with temperatures falling to around 31 in the afternoon. West northwest wind around 15 mph."
+                "detailedForecast": "Isolated snow showers after 4pm. Mostly cloudy. High near 32, with temperatures falling to around 30 in the afternoon. West northwest wind around 15 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-11-28T18:00:00-06:00",
                 "endTime": "2024-11-29T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 24,
+                "temperature": 22,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/snow?size=medium",
                 "shortForecast": "Intermittent Snow Showers",
-                "detailedForecast": "Intermittent snow showers. Mostly cloudy, with a low around 24. West northwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Intermittent snow showers. Cloudy. Low around 22, with temperatures rising to around 24 overnight. West northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Evanston, the current atmosphere is decidedly chilly, with temperatures hovering in the low 30s and a blustery wind adding a bite to the air. Overhead, a canopy of clouds blankets the sky, casting a muted light over the chilly scene, while the restless waters of Lake Michigan show hints of whitecaps stirred by the gusty conditions. As Thanksgiving Day unfolds, expect the air to remain brisk with a few isolated snow showers anticipated later in the afternoon. While the high is projected to reach just above freezing, the temperatures will dip in the evening, leading to a cold night with intermittent snow flurries.\n\nGiven these conditions, the beach may appear more somber than inviting, with the waves crashing against the shore\u2014a visual reminder of winter's impending grip. For those venturing outside, layered clothing is advisable: a warm coat, gloves, and perhaps a knitted hat to fend off the chill. While traditional outdoor activities may be curtailed, a scenic walk along the shore can still be a refreshing experience\u2014just be prepared for the possible light snow and brisk winds. On this notable day of gathering for Thanksgiving, many may find comfort indoors, but the beauty of the lake against a storied sky still offers a unique, albeit wintry, charm.",
-    "color_code": "#A4B8C9",
-    "timestamp": "2024-11-28 12:06:34"
+    "weather_report": "Current conditions in Evanston paint a brisk picture, with temperatures hovering in the low 30s and a chilled breeze creating a sense of winter's presence. The lakefront reveals a rough surf under a dreary, overcast sky, setting a somber tone as the landscape stretches towards Lake Michigan. With wind gusts whipping through, one might describe it as quite blustery, making it feel even cooler as the day progresses. As Thanksgiving Day unfolds, isolated snow showers are expected this afternoon, although the likelihood of significant accumulation remains modest. \n\nFor those venturing outside later today, an ensemble of warm layers is advisable to combat the biting wind and potential snowfall. Given the chilly and damp conditions, it's best to bundle up well before heading out. While the weather might not be ideal for leisurely beach strolls, indoor activities fit for the season are recommended. With Thanksgiving festivities just around the corner, this cooling stretch marks a classic late November chill that encourages cozy gatherings and warm comfort foods.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-11-28 13:04:59"
 }
