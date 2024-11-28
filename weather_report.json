@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T20:51:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 60.394650155608,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 260,
+            "timestamp": "2024-11-28T21:51:00+00:00",
+            "temperature_f": 28.94,
+            "temperature_c": -1.7,
+            "humidity": 63.112421174214,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 270,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Thanksgiving Day",
-                "startTime": "2024-11-28T16:00:00-06:00",
+                "startTime": "2024-11-28T17:00:00-06:00",
                 "endTime": "2024-11-28T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 32,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect the chill of late November, where the temperature hovers in the low 30s, lending a brisk, biting edge to the air. Overcast skies dominate, creating a muted palette along the shoreline, with a strong, gusty wind sweeping in from the west-northwest, making for a rather blustery atmosphere. As we look ahead to Thanksgiving Day, the forecast suggests isolated snow showers along with mostly cloudy skies; temperatures are expected to dip slightly in the afternoon, creating a quintessentially wintry feel. Tonight, intermittent snow showers are likely, with temperatures sinking to the low 20s, bringing a sense of frosty stillness to the area.\n\nThe lakefront may present some picturesque views with rolling waves, though they won't be welcoming for swimming or other recreational activities. Given the cold and potential for snow, it's advisable to dress warmly in layers, including a heavy coat, hats, and gloves, to fend off the chill while outside. This weather is typical for the season in the region, where the air turns crisp and bracing as we transition fully into winter. Given the backdrop of Thanksgiving, it's a fitting time for cozy indoor gatherings or leisurely walks to enjoy the quiet beauty of nature as it prepares for the winter season.",
-    "color_code": "#A4B3B0",
-    "timestamp": "2024-11-28 16:05:02"
+    "weather_report": "Current conditions in Evanston reflect a chilly evening, with temperatures in the mid-20s, accompanied by a gusty wind that adds a sharp bite. The day is closing out with a blanket of clouds shrouding the sky and intermittent snow showers expected as we move deeper into the night. The waves on Lake Michigan are likely to be wild, stirred by the bluster, creating a dramatic seascape devoid of the calm tranquility often sought on clear days. As the temperatures are typical for this time of year, the air carries a crispness that hints at the full grip of winter, but not an unwelcoming one, just a reminder of the season\u2019s presence.\n\nAs we prepare for tonight, residents should layer up, opting for warm jackets and perhaps a cozy hat to fend off the chill, especially with temperatures expected to dip further into the low 20s by morning. While outdoor activities may be limited given the weather\u2014maybe a brisk walk along the lake or enjoying the snowy landscape\u2014inside is where warmth and holiday cheer could take center stage. With Thanksgiving just past, the atmosphere might still echo with familial warmth and gratitude. Embrace the evening, whether indoors, with a mug of something warm, or by catching the sights of winter\u2019s first snowflakes dancing in the gusty breeze.",
+    "color_code": "#B0C4E5",
+    "timestamp": "2024-11-28 17:05:42"
 }
