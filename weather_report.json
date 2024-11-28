@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T15:51:00+00:00",
+            "timestamp": "2024-11-28T17:03:00+00:00",
             "temperature_f": 30.02,
             "temperature_c": -1.1,
             "humidity": 63.258343251237,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 300,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 310,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Thanksgiving Day",
-                "startTime": "2024-11-28T11:00:00-06:00",
+                "startTime": "2024-11-28T12:00:00-06:00",
                 "endTime": "2024-11-28T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -31,8 +31,8 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/snow?size=medium",
-                "shortForecast": "Partly Sunny then Isolated Snow Showers",
+                "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
+                "shortForecast": "Isolated Snow Showers",
                 "detailedForecast": "Isolated snow showers after 4pm. Partly sunny. High near 33, with temperatures falling to around 31 in the afternoon. West northwest wind around 15 mph."
             },
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly day, marked by a temperature in the low 30s and a blustery northwest wind stirring up the atmosphere. The clouds loom overhead, casting a gray pallor on the beach as intermittent snow showers are expected to sweep through later today. Looking ahead to Thanksgiving Day, residents can anticipate isolated snow showers after 4 PM, while the high will reach around 33 degrees with falling temperatures into the afternoon.\n\nThe wave conditions along Lake Michigan are likely to be moderate, creating a somewhat restless surface with waves that could offer a stark backdrop against the somber sky. As for precipitation, a light dusting from snow showers can be expected, making the landscape appear subdued yet beautiful in its winter attire. Given the brisk wind and cool temperatures, layering is advisable\u2014think warm coats, hats, and scarves to keep the chill at bay. Despite the weather, this time of year offers its own allure; the season is typical for late November in the Midwest, where crisp air and the beauty of nature's hibernation invite reflection and cozy indoor pursuits. While no major holidays coincide today, the upcoming festivities may inspire warm family gatherings, perhaps even in the comfort of home, away from the looming chill of the outdoors.",
-    "color_code": "#B0C4D8",
-    "timestamp": "2024-11-28 11:05:04"
+    "weather_report": "In Evanston, the current atmosphere is decidedly chilly, with temperatures hovering in the low 30s and a blustery wind adding a bite to the air. Overhead, a canopy of clouds blankets the sky, casting a muted light over the chilly scene, while the restless waters of Lake Michigan show hints of whitecaps stirred by the gusty conditions. As Thanksgiving Day unfolds, expect the air to remain brisk with a few isolated snow showers anticipated later in the afternoon. While the high is projected to reach just above freezing, the temperatures will dip in the evening, leading to a cold night with intermittent snow flurries.\n\nGiven these conditions, the beach may appear more somber than inviting, with the waves crashing against the shore\u2014a visual reminder of winter's impending grip. For those venturing outside, layered clothing is advisable: a warm coat, gloves, and perhaps a knitted hat to fend off the chill. While traditional outdoor activities may be curtailed, a scenic walk along the shore can still be a refreshing experience\u2014just be prepared for the possible light snow and brisk winds. On this notable day of gathering for Thanksgiving, many may find comfort indoors, but the beauty of the lake against a storied sky still offers a unique, albeit wintry, charm.",
+    "color_code": "#A4B8C9",
+    "timestamp": "2024-11-28 12:06:34"
 }
