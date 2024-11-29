@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T17:51:00+00:00",
+            "timestamp": "2024-11-29T18:51:00+00:00",
             "temperature_f": 23.0,
             "temperature_c": -5,
-            "humidity": 59.382422302313,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 260,
+            "humidity": 57.047926574722,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 270,
             "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-29T13:00:00-06:00",
+                "startTime": "2024-11-29T14:00:00-06:00",
                 "endTime": "2024-11-29T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 26,
@@ -33,7 +33,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
                 "shortForecast": "Intermittent Snow Showers",
-                "detailedForecast": "Intermittent snow showers. Cloudy. High near 26, with temperatures falling to around 24 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Intermittent snow showers. Mostly cloudy, with a high near 26. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-29T18:00:00-06:00",
                 "endTime": "2024-11-30T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 17,
+                "temperature": 14,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 17. West wind around 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly clear, with a low around 14. Wind chill values as low as 0. West wind around 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Evanston today, residents are facing a brisk scene, with temperatures hovering in the low 20s and a formidable wind that adds a bite to the air. Currently, light snow is descending, adding a soft blanket to the already cool landscape. The sky is overcast, casting a muted light over the beach, as the strong, gusty winds from the west whip across Lake Michigan, creating choppy conditions on the water. This afternoon, expect intermittent snow showers to continue, with a high near 26 degrees, only slightly above the current temperature. As evening falls, conditions will clear up, leading to a chilly night with lows dipping into the teens.\n\nGiven the chilly temperatures combined with the blustery winds, dressing warmly is essential\u2014think layers, thick coats, and insulated accessories to ward off the cold. The wave conditions today may be somewhat rough due to the winds, but those venturing out should be cautious. For outdoor enthusiasts, it's a good day for a brief winter walk along the beach or enjoying the scenic views, but be prepared for the possibility of light snow and a biting chill. As this is just after Thanksgiving, it might also evoke thoughts of holiday preparations in the coming weeks, with winter truly settling in across the region.",
-    "color_code": "#A6C2D9",
-    "timestamp": "2024-11-29 13:05:01"
+    "weather_report": "Current conditions in Evanston, Illinois, present a chilly scene, with temperatures hovering in the low 20s and a brisk, howling wind creating a biting wind chill. The light snow currently falling adds to the wintery ambiance, though the visibility may be slightly obscured due to the flurries. As we look toward the afternoon, intermittent snow showers are expected, with a high near the upper 20s, contrasted by that strong gusty wind from the west, leading to a slightly overcast sky. Tonight, the clouds will clear up, bringing colder temperatures that could drop to around the mid-teens, making for an especially cold evening.\n\nGiven the blustery conditions and the current wintry landscape, dressing warmly is essential\u2014a good thermal layer, a heavy coat, and a scarf will be necessary to combat the cold feel. The lake appears relatively calm but with some small, rolling waves stirred by the winds, making it less than ideal for outdoor activities by the shore. Nonetheless, a stroll along the beach could be invigorating for those who love the crisp winter air, while cozy indoor pursuits might be more appealing for others. This time of year is typical for the region, with the onset of winter firmly establishing its presence, warranting preparations for the colder days ahead.",
+    "color_code": "#A0B3C2",
+    "timestamp": "2024-11-29 14:05:40"
 }
