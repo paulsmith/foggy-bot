@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T20:51:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 54.354856133678,
-            "wind_speed_mph": 49.929840000000006,
+            "timestamp": "2024-11-29T21:51:00+00:00",
+            "temperature_f": 21.92,
+            "temperature_c": -5.6,
+            "humidity": 56.883597586315,
+            "wind_speed_mph": 53.95644000000001,
             "wind_direction": 280,
             "description": "Light Snow"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-29T16:00:00-06:00",
+                "startTime": "2024-11-29T17:00:00-06:00",
                 "endTime": "2024-11-29T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 26,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
                 "shortForecast": "Intermittent Snow Showers",
-                "detailedForecast": "Intermittent snow showers. Cloudy, with a high near 26. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Intermittent snow showers. Cloudy, with a high near 26. West wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston finds itself under a chilly blanket today, with temperatures hovering in the low 20s. Outside, the air has a biting crispness, where every gust from the west brings a hint of ferocity, stirring up the light snow that intermittently falls. The snow adds an ethereal softness to the otherwise stark landscape but does little to warm the scene; with a wind chill that plunges temperatures further, the day is decidedly blustery, knitting a fabric of discomfort for any unprepared souls venturing outside.\n\nAs the afternoon unfolds, expect more fleeting snow showers amid overcast skies, with highs only managing to climb into the mid-20s. Tonight, temperatures dip even further, flirting with the edge of single digits, making it essential to bundle up if you find yourself outdoors. The lake, rippling gently under the gray sky, presents moderate wave conditions, but swimming is best left for warmer days. Attire should reflect the severity of the cold: heavy coats, scarves, and warm boots are a must. In this late November moment, we are squarely deep within the grips of winter. While the beach may still lure some for brisk walks or winter photo ops, it\u2019s best suited for cozy indoor activities like sipping hot drinks by the fire, perhaps reflecting on the changing seasons as we approach the festive holiday season.",
-    "color_code": "#A4B8D0",
-    "timestamp": "2024-11-29 16:05:02"
+    "weather_report": "In Evanston, the current weather presents a biting chill as temperatures hover in the low 20s, accompanied by a brisk wind that whips across the landscape, creating a somewhat harsh atmosphere. There's light snow falling, contributing to the grey and overcast conditions typical of this time of year. As we look ahead to this afternoon, intermittent snow showers are expected to persist, but the high should climb to the mid-20s. Winds will remain blustery from the west, adding to the already significant wind chill, which may feel as low as zero throughout the evening. \n\nGiven this frigid environment, the lake may appear subdued and rough, making for sizable waves that could be harsh for any enthusiasts tempted to venture out on the water. It\u2019s advisable to dress warmly, layering up to ward off the biting cold, ideally with a heavy coat, scarf, and gloves. As winter settles in the region, temperatures are in line with seasonal averages, albeit on the cooler side. With the mood set by these conditions, outdoor plans might be comfortably shifted to cozy indoor activities\u2014perhaps enjoying a warm drink or engaging in seasonal festivities.",
+    "color_code": "#4C4C4C",
+    "timestamp": "2024-11-29 17:05:08"
 }
