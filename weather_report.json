@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T06:51:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 62.990234298163,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 260,
-            "description": "Cloudy"
+            "timestamp": "2024-11-29T08:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 54.972549379974,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 280,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-29T02:00:00-06:00",
+                "startTime": "2024-11-29T04:00:00-06:00",
                 "endTime": "2024-11-29T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 24,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "20 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
                 "shortForecast": "Intermittent Snow Showers",
-                "detailedForecast": "Intermittent snow showers. Cloudy, with a low around 24. West northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Intermittent snow showers. Cloudy, with a low around 24. West northwest wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The weather in Evanston, Illinois, at this hour is marked by a chilly 28 degrees, complemented by a blustery wind gusting from the west-northwest. As night blankets the shores of Lake Michigan, the atmosphere is thick with clouds, creating a somber yet serene ambiance. Expect intermittent snow showers to grace the area overnight, with temperatures dipping closer to the low 20s. Tomorrow, a slight reprieve from the snow is anticipated as brief flurries may precede a partly sunny afternoon, albeit with a high near the mid-20s. \n\nThe beach, while beautiful under the shroud of night, might not offer welcoming conditions for leisurely strolls. The waves are likely to be rough, stirred by the gusty winds, adding an edge to the otherwise still scene. In this wintry setting, it would be prudent to layer up\u2014think heavy coats, warm hats, and gloves to stave off the biting chill. As the days march toward December, these temperatures are a stark reminder of the season in this part of the Midwest; such cold is typical for late autumn. Given the conditions, indoor activities or cozy gatherings by the fire would make for a much more pleasant evening than braving the outdoors.",
-    "color_code": "#2B4C85",
-    "timestamp": "2024-11-29 03:05:58"
+    "weather_report": "In Evanston, the current weather paints a chilly and blustery scene. The temperature is hovering in the mid-20s, accompanied by a whistling wind that adds a sharp bite to the air. As snow flurries drift intermittently, the beach atmosphere captures a stark beauty; the rugged coastline meets the undulating waves of Lake Michigan under a cloudy sky, creating a somber yet tranquil ambiance. \n\nLooking ahead, the forecast suggests little relief, with overnight snow showers expected to persist into Friday, though the day promises some breaks of sunshine. Temperatures are anticipated to remain low, settling around the mid-20s during the day, as a robust west-northwest breeze continues to whip through the region. Wave conditions on the lake could be quite dynamic, making for a rougher shoreline, potentially impacting any outdoor plans. Dressing warmly in layers\u2014think insulated coats, gloves, and hats\u2014will be essential for comfort should you venture out. Given the season, these temperatures are not unusual, reflecting the characteristically cold and blustery conditions typical of late November in the Midwest. While outdoor activities may be limited, a cozy afternoon indoors or a stroll along the waterfront to watch the wintry dance of the waves may still offer a refreshing reprieve from the hustle and bustle.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-11-29 04:05:58"
 }
