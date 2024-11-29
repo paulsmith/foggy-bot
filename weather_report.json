@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T09:51:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 65.595209439964,
+            "timestamp": "2024-11-29T10:58:00+00:00",
+            "temperature_f": 24.08,
+            "temperature_c": -4.4,
+            "humidity": 59.540302385412,
             "wind_speed_mph": 49.929840000000006,
             "wind_direction": 280,
-            "description": "Light Snow"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-29T05:00:00-06:00",
-                "endTime": "2024-11-29T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 24,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
-                "shortForecast": "Intermittent Snow Showers",
-                "detailedForecast": "Intermittent snow showers. Cloudy, with a low around 24. West northwest wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2024-11-29T06:00:00-06:00",
                 "endTime": "2024-11-29T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/snow,20/bkn?size=medium",
                 "shortForecast": "Intermittent Snow Showers then Partly Sunny",
                 "detailedForecast": "Intermittent snow showers before noon. Partly sunny. High near 26, with temperatures falling to around 24 in the afternoon. West northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-29T18:00:00-06:00",
+                "endTime": "2024-11-30T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 17,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 17. West wind around 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current scene is painted with light snow creating a wintry chill, as temperatures hover in the low 25s, and a fierce northwest wind gusts to nearly 50 miles per hour, giving an unsettled feel to the day. Looking ahead, the forecast suggests intermittent snow showers will continue overnight, with cloudy skies and a low near 24. Tomorrow, expect a mix of snow showers tapering off by noon, yielding to a partly sunny afternoon with highs only reaching around 26, as brisk winds persist.\n\nThe appearance outdoors is certainly brisk and raw, not ideal for leisurely strolls by the beach. Lake Michigan likely churns with notable wave activity, agitated by the ongoing winds, making any water-related activities less than favorable. With temperatures typical for late November in the Midwest, it\u2019s advisable to don warm layers, including a heavy coat, gloves, and a hat, to ward off the biting chill that settles into the bones. Given the conditions, indoor pursuits such as visiting local museums or enjoying a warm caf\u00e9 may be more enticing than venturing out into the wintery landscape.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-11-29 05:04:58"
+    "weather_report": "Evanston, Illinois, is waking up to chilly conditions this morning, with temperatures hovering in the mid-20s and a rather brisk wind creating a biting chill. The atmosphere is overcast, and a howling breeze from the west is rattling through the area, making it feel even cooler. As we look ahead to the day, expect intermittent snow showers before noon, transitioning into partly sunny skies by afternoon. Those high hopes might set in at around 26 degrees, but a retreat to 24 is also on the cards as the day wears on. With gusts occasionally reaching up to 30 mph, it\u2019s advisable to secure your hat as the wind makes for a rather fierce ballet with any loose articles.\n\nThis wintery scene suggests a rugged beauty along the shores of Lake Michigan, but it also means unpleasant wave conditions on the water. Today, precipitation chances remain low at around 20 percent, yet any falling snow could make surfaces slick. Ideal attire would be layered and warm\u2014think heavy coats, hats, and gloves\u2014to combat the bitter cold and wind. For those undeterred by the chill, a brisk walk along the beach or a cozy caf\u00e9 visit could make for delightful winter activities. November is well into winter in the Midwest, and temperatures like these are completely typical, urging a hasty retreat indoors as the holidays edge closer.",
+    "color_code": "#4C4F76",
+    "timestamp": "2024-11-29 06:08:52"
 }
