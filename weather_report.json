@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T03:07:00+00:00",
+            "timestamp": "2024-11-29T03:51:00+00:00",
             "temperature_f": 28.04,
             "temperature_c": -2.2,
-            "humidity": 62.990234298163,
+            "humidity": 65.481393052415,
             "wind_speed_mph": 41.07132,
-            "wind_direction": 290,
+            "wind_direction": 280,
             "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-28T21:00:00-06:00",
+                "startTime": "2024-11-28T23:00:00-06:00",
                 "endTime": "2024-11-29T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 24,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Tonight in Evanston, the temperature dips into the mid 20s, where a brisk, biting wind stirs snow flurries across the landscape, painting the beach with a delicate layer of white. Expect cloudy skies as the winds howl from the west-northwest at a steady pace, bringing with them gusts that could make it feel even chillier. The chance for scattered snow showers lingers as we move into the early morning hours, adding an intermittent chill to the air. \n\nCome Friday, the cloud cover remains, with more chances for snow expected mainly before mid-morning. The high is again expected to hover in the mid 20s, maintaining that wintry bite, with winds continuing to dance at significant speeds. The overall scene outside might come off as bleak and somewhat uninviting, especially for planned activities. Wave conditions on Lake Michigan could be moderate given the wind, but this is certainly not the time for a casual stroll on the beach. Bundling up in thermal layers, hats, and gloves will be essential for comfort, given the season's typical chill. With the proximity to winter solstice, these temperatures align closely with what one would expect from Evanston\u2019s early winter climate, as the holiday season draws near, setting the stage for cozy indoor activities rather than outdoor ventures.",
-    "color_code": "#A6C8E1",
-    "timestamp": "2024-11-28 22:06:47"
+    "weather_report": "As the night descends upon Evanston, temperatures hover in the mid to high 20s, producing a crisp and cool atmosphere, perfect for those who relish the beauty of winter nights. A light snow dances softly in the air, set against a backdrop of cloudy skies, while gusty winds whip from the west-northwest, creating a slightly wild ambiance. The wave conditions along Lake Michigan are likely calm, though the hint of snow may obscure visibility, adding a touch of winter magic to the shoreline.\n\nLooking ahead to tomorrow, the forecast suggests a continued chance of snow and intermittent flurries throughout the morning, with temperatures peaking near 26 degrees. The wind will remain brisk, which may make it feel even chillier. As winter takes firm hold in this region, these temperatures are consistent with seasonal norms, embodying the character of late November in northern Illinois. Residents venturing outside should bundle up\u2014warm coats, hats, and gloves are essential attire. Ideal activities include enjoying a contemplative stroll along the beach or cozying up with a warm drink indoors, perfect for savoring the serene beauty of a snowy night.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-28 23:05:50"
 }
