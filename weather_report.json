@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T10:58:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 59.540302385412,
+            "timestamp": "2024-11-29T11:51:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 59.382422302313,
             "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 280,
+            "wind_direction": 270,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-29T06:00:00-06:00",
+                "startTime": "2024-11-29T07:00:00-06:00",
                 "endTime": "2024-11-29T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 26,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
                 "windSpeed": "15 to 20 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20/bkn?size=medium",
-                "shortForecast": "Intermittent Snow Showers then Partly Sunny",
-                "detailedForecast": "Intermittent snow showers before noon. Partly sunny. High near 26, with temperatures falling to around 24 in the afternoon. West northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/snow,30/bkn?size=medium",
+                "shortForecast": "Scattered Snow Showers then Partly Sunny",
+                "detailedForecast": "Scattered snow showers before noon. Partly sunny. High near 26, with temperatures falling to around 24 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. Little or no snow accumulation expected."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston, Illinois, is waking up to chilly conditions this morning, with temperatures hovering in the mid-20s and a rather brisk wind creating a biting chill. The atmosphere is overcast, and a howling breeze from the west is rattling through the area, making it feel even cooler. As we look ahead to the day, expect intermittent snow showers before noon, transitioning into partly sunny skies by afternoon. Those high hopes might set in at around 26 degrees, but a retreat to 24 is also on the cards as the day wears on. With gusts occasionally reaching up to 30 mph, it\u2019s advisable to secure your hat as the wind makes for a rather fierce ballet with any loose articles.\n\nThis wintery scene suggests a rugged beauty along the shores of Lake Michigan, but it also means unpleasant wave conditions on the water. Today, precipitation chances remain low at around 20 percent, yet any falling snow could make surfaces slick. Ideal attire would be layered and warm\u2014think heavy coats, hats, and gloves\u2014to combat the bitter cold and wind. For those undeterred by the chill, a brisk walk along the beach or a cozy caf\u00e9 visit could make for delightful winter activities. November is well into winter in the Midwest, and temperatures like these are completely typical, urging a hasty retreat indoors as the holidays edge closer.",
-    "color_code": "#4C4F76",
-    "timestamp": "2024-11-29 06:08:52"
+    "weather_report": "Current conditions in Evanston paint a frigid picture, with temperatures sitting in the low 20s, accompanied by a brisk, howling wind from the west that makes the air feel even colder. The sky is cloaked in a thick layer of clouds, casting a muted, gray light over the landscape, while the waves on Lake Michigan are restlessly lapping against the shore. As for precipitation, scattered snow showers are expected before noon, though little accumulation is anticipated.\n\nToday's forecast shows a high nearing the mid-20s, before settling back into the upper teens tonight under mostly clear skies. With gusty winds persisting throughout the day, conditions will feel particularly cold, so warm layers will be essential if venturing outside. The beach may not be the ideal spot for activities today; however, a brisk walk along the shore could be invigorating for those who are dressed appropriately. It\u2019s a typical late fall day in the Midwest, reminding us that winter is on the doorstep, but with a little preparation, there\u2019s still enjoyment to be found in the chill.",
+    "color_code": "#A9B1C9",
+    "timestamp": "2024-11-29 07:11:05"
 }
