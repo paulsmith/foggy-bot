@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T12:51:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 59.701957271846,
+            "timestamp": "2024-11-29T14:10:00+00:00",
+            "temperature_f": 21.02,
+            "temperature_c": -6.1,
+            "humidity": 64.556543796529,
             "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 270,
-            "description": "Cloudy"
+            "wind_direction": 260,
+            "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-29T08:00:00-06:00",
+                "startTime": "2024-11-29T09:00:00-06:00",
                 "endTime": "2024-11-29T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 26,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30/bkn?size=medium",
-                "shortForecast": "Scattered Snow Showers then Partly Sunny",
-                "detailedForecast": "Scattered snow showers before noon. Partly sunny. High near 26, with temperatures falling to around 24 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. Little or no snow accumulation expected."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
+                "shortForecast": "Intermittent Snow Showers",
+                "detailedForecast": "Intermittent snow showers. Cloudy. High near 26, with temperatures falling to around 24 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the air carries a distinct chill typical of late November, with the temperature hovering in the low 20s and a brisk, gusty wind whipping in from the west. The scene outside is tinged with gray, indicative of the cloudy skies overhead, setting a muted tone for the day. Waves lap against the shoreline with a gentle rhythm, though the brisk winds are likely to stir them up as the day progresses.\n\nThe forecast promises scattered snow showers until noon, gradually giving way to partly sunny intervals as the afternoon unfolds, with temperatures peaking near the mid-20s before slipping back down slightly. Precipitation chances linger at around 30%, but any accumulation is expected to be minimal. Tonight, expect a clear sky with temperatures dipping to the low teens, reinforcing the stark chill in the air. This cool weather calls for a warm coat, perhaps layered with a sweater, and sturdy footwear if you plan to venture outdoors. The inviting atmosphere of the beach might not be ideal for swimming, and activities such as brisk walks or enjoying hot beverages while taking in the winter landscape seem best suited for the day. As the year draws to a close, this day is simply marked as a regular weekday, but the spirit of the season is undeniably present in the crisp, frosty air.",
-    "color_code": "#A0B3C2",
-    "timestamp": "2024-11-29 08:05:25"
+    "weather_report": "The current weather in Evanston, Illinois, offers a wintry scene with light snow and a temperature that\u2019s teetering on the edge of the low 20s. The air feels brisk and biting, especially with the strong winds stirring from the west, creating a particularly chill in the air. As we look towards today\u2019s forecast, we can expect intermittent snow showers to continue with cloud coverage lingering overhead. Temperatures will reach a high near the mid-20s, then gradually drop into the evening as we settle down to a low of about 17, accompanied by steady breezy winds.\n\nWith the beach views revealing a calm Lake Michigan, wave conditions are likely to be gentle, though the biting cold and gusty winds make for an uninviting atmosphere outside. This is not a day for leisurely strolls along the shoreline, but rather one to bundle up warmly for any necessary outings. Given the season, this chill is typical for late November, a reminder that winter's grip is tightening. Layers such as thermal jackets, hats, and gloves are strongly advised to fend off the evening's chill. \n\nOverall, unless one has pressing business outdoors, today may be best spent indoors, perhaps curling up with a good book or enjoying the company of friends.",
+    "color_code": "#A3B5D6",
+    "timestamp": "2024-11-29 09:05:40"
 }
