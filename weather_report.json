@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T15:51:00+00:00",
+            "timestamp": "2024-11-29T17:51:00+00:00",
             "temperature_f": 23.0,
             "temperature_c": -5,
-            "humidity": 54.354856133678,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "humidity": 59.382422302313,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 260,
             "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-29T12:00:00-06:00",
+                "startTime": "2024-11-29T13:00:00-06:00",
                 "endTime": "2024-11-29T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 26,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston reveal a chilly scene, with temperatures hovering in the low 20s, accompanied by light snow that blankets the landscape. Humidity adds a touch of crispness, enhancing the cold feel as gusty winds ripple across Lake Michigan, bringing a biting chill to the air. As the day progresses, intermittent snow showers are anticipated, with cloudy skies prevailing and temperatures expected to peak just above 25 before dipping back toward 24 in the afternoon. Despite the snow, with winds steadily pushing from the west at 15 to 20 mph, the overall visibility may remain obscured, resulting in a gray, somewhat uninviting atmosphere.\n\nAs daylight wanes, the forecast promises mostly clear skies tonight, allowing for a drop to the mid-teens. The forecast temperature reflects typical late November conditions for this region, where the air remains brisk and invigorating. Given the conditions, bundling up in warm layers is advisable, combining hats, gloves, and insulated coats to combat the cold. While outdoor activities may be somewhat limited due to the chill and snow, a brisk walk along the beach could maintain a pleasant winter spirit, though care should be taken on untreated surfaces. This evening marks a typical late November scene and, being a few weeks from the winter solstice, it should remind residents of the season's character as the holidays approach.",
-    "color_code": "#A7C6DA",
-    "timestamp": "2024-11-29 12:06:36"
+    "weather_report": "In Evanston today, residents are facing a brisk scene, with temperatures hovering in the low 20s and a formidable wind that adds a bite to the air. Currently, light snow is descending, adding a soft blanket to the already cool landscape. The sky is overcast, casting a muted light over the beach, as the strong, gusty winds from the west whip across Lake Michigan, creating choppy conditions on the water. This afternoon, expect intermittent snow showers to continue, with a high near 26 degrees, only slightly above the current temperature. As evening falls, conditions will clear up, leading to a chilly night with lows dipping into the teens.\n\nGiven the chilly temperatures combined with the blustery winds, dressing warmly is essential\u2014think layers, thick coats, and insulated accessories to ward off the cold. The wave conditions today may be somewhat rough due to the winds, but those venturing out should be cautious. For outdoor enthusiasts, it's a good day for a brief winter walk along the beach or enjoying the scenic views, but be prepared for the possibility of light snow and a biting chill. As this is just after Thanksgiving, it might also evoke thoughts of holiday preparations in the coming weeks, with winter truly settling in across the region.",
+    "color_code": "#A6C2D9",
+    "timestamp": "2024-11-29 13:05:01"
 }
