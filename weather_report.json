@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T19:51:00+00:00",
+            "timestamp": "2024-11-29T20:51:00+00:00",
             "temperature_f": 23.0,
             "temperature_c": -5,
             "humidity": 54.354856133678,
-            "wind_speed_mph": 57.98304000000001,
+            "wind_speed_mph": 49.929840000000006,
             "wind_direction": 280,
             "description": "Light Snow"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-29T15:00:00-06:00",
+                "startTime": "2024-11-29T16:00:00-06:00",
                 "endTime": "2024-11-29T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 26,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather sets a chilly scene with temperatures in the low 20s and gusty winds creating a brisk feel, making it necessary to bundle up for any outdoor activities. Light snow is falling, adding a delicate layer to the landscape but contributing to the overall dreariness of the day. As we head into the afternoon, intermittent snow showers are expected to continue, though the cloud cover will keep the high around the mid-20s. The winds from the west will remain strong, adding a bluster that could turn the chill into biting wind chills, dropping temperatures further into the single digits by tonight.\n\nThe beach offers a stark view; the waves are likely gentle, but with the gusty winds, they could pick up a bit. The color of the water, muted under the cloudy sky, echoes the coldness felt around the area. Those venturing outside should wear warm layers and consider a snow-friendly activity, perhaps a brisk walk or a visit to a cozy caf\u00e9 afterward. As it's not a major holiday today, it could be a tranquil time to enjoy the onset of a Midwestern winter, punctuated by the seasonal chill that feels characteristic of this time of year in Illinois.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-11-29 15:05:04"
+    "weather_report": "Evanston finds itself under a chilly blanket today, with temperatures hovering in the low 20s. Outside, the air has a biting crispness, where every gust from the west brings a hint of ferocity, stirring up the light snow that intermittently falls. The snow adds an ethereal softness to the otherwise stark landscape but does little to warm the scene; with a wind chill that plunges temperatures further, the day is decidedly blustery, knitting a fabric of discomfort for any unprepared souls venturing outside.\n\nAs the afternoon unfolds, expect more fleeting snow showers amid overcast skies, with highs only managing to climb into the mid-20s. Tonight, temperatures dip even further, flirting with the edge of single digits, making it essential to bundle up if you find yourself outdoors. The lake, rippling gently under the gray sky, presents moderate wave conditions, but swimming is best left for warmer days. Attire should reflect the severity of the cold: heavy coats, scarves, and warm boots are a must. In this late November moment, we are squarely deep within the grips of winter. While the beach may still lure some for brisk walks or winter photo ops, it\u2019s best suited for cozy indoor activities like sipping hot drinks by the fire, perhaps reflecting on the changing seasons as we approach the festive holiday season.",
+    "color_code": "#A4B8D0",
+    "timestamp": "2024-11-29 16:05:02"
 }
