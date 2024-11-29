@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T22:51:00+00:00",
+            "timestamp": "2024-11-29T00:51:00+00:00",
             "temperature_f": 28.04,
             "temperature_c": -2.2,
             "humidity": 65.481393052415,
-            "wind_speed_mph": 41.07132,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 280,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-28T18:00:00-06:00",
+                "startTime": "2024-11-28T19:00:00-06:00",
                 "endTime": "2024-11-29T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 22,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening settles over Evanston, the air is crisp and cool, with temperatures hovering in the upper 20s, and a robust wind sweeping in from the northwest, creating a biting sensation on exposed skin. The sky remains enveloped in a thick veil of clouds, suggesting an impending shift in the weather, particularly with forecasted intermittent snow showers tonight, likely beginning later on, though spatially scattered, with a low settling around the low 20s.\n\nTomorrow, expect a morning flurry or two, giving way to a mix of sunshine and clouds as the day unfolds, with the high struggling a bit to reach the mid-20s. The winds will continue to be brisk, adding to the chill, so prepare for a blustery day along the shoreline where the waves might churn slightly, though not dangerously so. With these conditions, dressing warmly in layers is advised\u2014think insulated jackets, hats, and gloves to fend off the cold and wind. While outdoor activities may be limited by the weather, the beach will have its own stark beauty, ideal for a contemplative walk or photography against the wintery backdrop, especially since this is a routine weekday without major celebrations on the horizon.",
-    "color_code": "#A2A4B6",
-    "timestamp": "2024-11-28 18:22:36"
+    "weather_report": "As evening settles over Evanston, current conditions are quite brisk, with temperatures hovering in the upper 20s. The air carries a notable chill, intensified by a strong, gusty wind sweeping in from the northwest, creating a raw feel that cuts through layers of clothing. Skies are cloaked in cloud cover, casting a muted light over the landscape, hinting at the intermittent snow showers predicted for tonight. Expected lows will drop to about the low 20s, allowing for a slight increase in warmth overnight.\n\nTomorrow's forecast brings further snow showers, tapering off by mid-morning, followed by a mostly sunny day that should see temperatures reaching into the mid 20s. Wrap up warmly if you're heading out, as the blustery winds will accompany the chilly air, making it feel significantly cooler. The beach, with its rolling waves, presents a stark and beautiful scene, but conditions are not ideal for outdoor activities given the cold and impending precipitation. Layering up is essential, perhaps donning a thick coat, warm hat, and gloves to keep the chill at bay. Although winter is upon us, these temperatures are fairly typical for this time of year in the Midwest, reminding us of the season's stark beauty and biting cold. If you find yourself outside, consider a brisk stroll along the beach or a moment of quiet reflection by the water's edge, but be prepared for a change in weather as the night progresses.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2024-11-28 19:33:11"
 }
