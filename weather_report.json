@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T04:51:00+00:00",
+            "timestamp": "2024-11-29T05:51:00+00:00",
             "temperature_f": 28.04,
             "temperature_c": -2.2,
-            "humidity": 65.481393052415,
-            "wind_speed_mph": 28.991520000000005,
+            "humidity": 62.990234298163,
+            "wind_speed_mph": 62.00964,
             "wind_direction": 270,
             "description": "Cloudy"
         },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As we step into the early hours of the day in Evanston, a chill envelops the beach, with temperatures sliding toward the low 20s. The air feels crisp and cool, accentuated by a biting northwest breeze that adds a sharp edge to the atmosphere. The sky is cloaked in cloud cover, suggesting that the day may be a rather gloomy one, with intermittent snow showers anticipated overnight. The overall scene is subdued, with the tranquil sound of waves lapping against the shore contrasting the harsh elements of winter.\n\nLooking ahead, Friday dawns with lingering chances of snow early on, before transitioning to a mostly cloudy sky. Temperatures will struggle to reach the mid-20s, maintaining that wintry feel as gusty winds persist, swirling around at 15 to 20 mph. These conditions may make outdoor activities less appealing, but if venturing outdoors, bundled layers will be essential\u2014think warm coats, snug hats, and sturdy boots to fend against the cold. While this time of year is typical for the Midwest, with temperatures in the low 20s reflecting a true winter's embrace, opportunities for light snow create an inviting landscape, perfect for those who appreciate the quieter beauty of this season. However, for those planning outdoor excursions, a day spent indoors might be a wiser choice as we approach the holiday season.",
-    "color_code": "#4B4B8B",
-    "timestamp": "2024-11-29 00:07:29"
+    "weather_report": "Current conditions in Evanston paint a brisk picture as temperatures hover in the mid-20s, creating a crisp and cool atmosphere. The sky is cloaked in clouds, offering a dramatic backdrop as a fierce wind sweeps in from the west, raising the chill factor. The wave conditions along the shore of Lake Michigan are likely stirred up, reflecting the strong gusts and potential for intermittent snow showers overnight. \n\nAs we look forward to Friday, the weather forecast indicates a continuance of chilly conditions, with a high expected near the mid-20s. There is a slight chance of snow early, with cloudy skies prevailing throughout the day. Given the season, these temperatures are typical for late November in the Midwest, leading into winter, which suggests a cozy day indoors might be in someone's favor. For those who venture outside, layered attire is advisable to combat the cold, perhaps scarf and gloves to retain warmth against the brisk breeze. The days ahead present an opportunity to embrace indoor activities or perhaps take in the wintry scene from the comfort of home\u2014ideal for warm beverages and good company as the holiday season approaches.",
+    "color_code": "#1A1A1A",
+    "timestamp": "2024-11-29 01:05:51"
 }
