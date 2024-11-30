@@ -7,7 +7,7 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-30T03:51:00+00:00",
+            "timestamp": "2024-11-30T04:51:00+00:00",
             "temperature_f": 19.04,
             "temperature_c": -7.2,
             "humidity": 61.738556575705,
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-29T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-11-30T00:00:00-06:00",
                 "endTime": "2024-11-30T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the clock ticks past 11 PM in Evanston, the chill of late November is palpable, with temperatures dipping into the upper teens. The atmosphere is crisp and clear, a stark contrast to the howling winds that sweep through the area, momentarily rattling any exposed fixtures along the shoreline. This evening, conditions remain dry, with no signs of precipitation to dampen the mood. \n\nLooking ahead to tomorrow, the sun will grace us with its presence, warming the day slightly into the low 20s, though wind chill will make it feel a few degrees colder. The winds, while still brisk, will quiet down to a gentler pace, making outdoor ventures a bit more bearable. Given the season, this weather is typical for late fall in the Midwest, where winter's chill is just beginning to settle in. Those venturing out should bundle up; layers are advisable, with warm hats and gloves essential to fend off the cold. Despite the frigid conditions, tomorrow presents a great opportunity for brisk walks along the lakefront, where the calming sound of the waves may provide a tranquil backdrop amidst the brisk air.",
-    "color_code": "#708CA4",
-    "timestamp": "2024-11-29 23:05:08"
+    "weather_report": "Current conditions in Evanston present a sharp chill, with temperatures hovering in the low 20s. The air is brisk and clear, perfect for a quiet night by the water, though wind gusts from the west create a biting wind chill, making it feel even colder. As we look towards the forecast, overnight will bring mostly clear skies with temperatures dipping to the teens, while Saturday promises sunny but similarly frigid weather, peaking around the low to mid-20s. The beach scene is certainly wintery, with serene visibility, but no precipitation is expected, allowing for a bright and crisp day at the lakefront.\n\nGiven the chill, it's advisable to bundle up in layers, opting for warm clothing, thick coats, and perhaps a scarf to shield against the wind. Closer to the lake, wave conditions may be moderate, so while it\u2019s typically too cold for swimming, a hearty walk along the shore could be invigorating. As December approaches, these temperatures align with the expected seasonal chill for this time of year in the Midwest. While it may not be the warmest of outings, a day spent enjoying the frosty beauty of Evanston\u2019s shoreline offers a peaceful retreat from the hustle of everyday life.",
+    "color_code": "#A6C9E6",
+    "timestamp": "2024-11-30 00:06:35"
 }
