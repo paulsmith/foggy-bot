@@ -11,15 +11,15 @@
             "temperature_f": 21.92,
             "temperature_c": -5.6,
             "humidity": 54.626326662184,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 280,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-29T19:00:00-06:00",
+                "startTime": "2024-11-29T20:00:00-06:00",
                 "endTime": "2024-11-30T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening settles over Evanston, the current scene features chilly temperatures registering in the low 20s, accompanied by a pleasant crispness, making it feel quite brisk outside. The sky is predominantly draped in clouds, hinting at a mostly cloudy atmosphere with no signs of precipitation. Tonight, expect partly cloudy conditions and a drop in temperatures to around 14 degrees, bolstered by a west wind that, while gentle now, is set to strengthen, creating wind chill values that could plunge to as low as zero.\n\nLooking ahead to Saturday, a transformation in the weather is anticipated with bright, sunny skies gracing the area. The mercury is expected to peak near 23 degrees, before settling back to the low 20s in the afternoon. This is typical for a late November day in Nebraska, where such cool temperatures are par for the course. With no significant wave activity reported and the absence of precipitation, this may well be a fine opportunity for outdoor activities, especially for those with a taste for brisk walks along the shoreline or a spirited run. Ensure to dress warmly, layering up to combat the chill, and perhaps don a scarf to shield against the blustery conditions.",
-    "color_code": "#1E4B8C",
-    "timestamp": "2024-11-29 19:32:46"
+    "weather_report": "Current conditions in Evanston reveal a very chilly evening, with temperatures in the low 20s and a brisk, blustery wind sweeping in from the west at 15 to 25 mph, making it feel significantly colder. The sky is mostly cloudy, enveloping the area in a muted, grayish hue. As the night progresses, expect partly cloudy skies with a drop in temperature to around the mid-teens. Wind chill could plummet to zero, suggesting that outdoor activity will require adequate layering to stave off the biting cold.\n\nLooking ahead to tomorrow, Saturday offers a promising shift with sunshine emerging during the day, although temperatures are expected to peak in the low 20s before falling slightly in the afternoon. Wind chill values may dip as low as negative one, so maintaining warmth will be essential. As for wave conditions along Lake Michigan, the current brisk winds suggest some rough patches, but minimal precipitation is anticipated, granting a clear passage for outdoor ventures. Given the season's typical frigid character, these temperatures align closely with what one might expect in late November in this region. Those venturing out should consider donning heavy winter coats, hats, and gloves, especially if participating in outdoor activities such as walking by the beach or braving the cold for some crisp air in the evening.",
+    "color_code": "#3C2A2B",
+    "timestamp": "2024-11-29 20:29:23"
 }
