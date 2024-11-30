@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-30T05:51:00+00:00",
-            "temperature_f": 17.96,
-            "temperature_c": -7.8,
-            "humidity": 64.665972791287,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2024-11-30T06:51:00+00:00",
+            "temperature_f": 17.06,
+            "temperature_c": -8.3,
+            "humidity": 67.223404209287,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 260,
             "description": "Clear"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-30T01:00:00-06:00",
+                "startTime": "2024-11-30T02:00:00-06:00",
                 "endTime": "2024-11-30T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As we venture into the night in Evanston, the air carries a brisk chill at just below 18 degrees, augmented by a blustery wind swirling in from the west. The clear sky overhead promises a tranquil atmosphere, despite wind chill values that can dip alarmingly low, fostering a feeling of winter's grip on this lakeside community. With the temperature hovering in the upper teens, bundled up attire is essential for those who dare to step outdoors, as the biting air could easily creep in through unguarded layers.\n\nLooking towards Saturday, the morning will greet us with sunny skies and a high nearing the low 20s, though temperatures will shift downward as the day progresses. The wind will continue to dance around 10 to 15 mph, with the potential for gusts to rattle the quieter moments. Ideal for bundled-up walks along the beach or a brisk run to keep warm, the scene may be enticing for those who appreciate the stark beauty of winter along Lake Michigan. There's no expectation of precipitation, keeping the allure of a peaceful stroll intact as you bask in the November sun. The chill of the season is typical for this time of year in the Midwest, so embrace this touch of winter wonderland while it lasts and perhaps engage in some outdoor activities that celebrate the serene beauty of the lakefront.",
-    "color_code": "#1E1E1E",
-    "timestamp": "2024-11-30 01:04:55"
+    "weather_report": "Current conditions in Evanston reveal a chilly night, with temperatures hovering in the mid-teens, accompanied by a crisp breeze that adds a bite to the air as it sweeps in from the west at a vigorous pace. The evening is mostly clear, offering an unobstructed view of the starry sky, but the wind chill can plunge the feel to a bitter zero, underscoring the need for warm apparel. As we look ahead to Saturday, sunny skies will dominate the day, with temperatures making a modest climb to the low 20s before drifting down into the high teens later in the afternoon. Wind chill values may still dip as low as -1, courtesy of a steady west wind, so one should brace for a distinctly wintry feel.\n\nWhile precipitation remains absent, wave conditions on Lake Michigan might hold some intrigue, even as the beach is likely to appear calm and inviting. Warm layers are recommended, with a heavy coat, gloves, and a hat being essential for any outdoor jaunts. Given that we are deep into the heart of winter, these temperatures align with seasonal norms in this region, though the current chill might inspire thoughts of cozy indoor activities. For those adventurous enough to brave the cold, a morning stroll along the shoreline or a visit to a local caf\u00e9 could be quite enjoyable, providing a chance to appreciate the beauty of a bright winter day just around the corner.",
+    "color_code": "#1A1A1A",
+    "timestamp": "2024-11-30 02:06:14"
 }
