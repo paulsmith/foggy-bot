@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-30T00:51:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 54.626326662184,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 280,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-11-30T01:51:00+00:00",
+            "temperature_f": 21.02,
+            "temperature_c": -6.1,
+            "humidity": 56.746052390686,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 260,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a very chilly evening, with temperatures in the low 20s and a brisk, blustery wind sweeping in from the west at 15 to 25 mph, making it feel significantly colder. The sky is mostly cloudy, enveloping the area in a muted, grayish hue. As the night progresses, expect partly cloudy skies with a drop in temperature to around the mid-teens. Wind chill could plummet to zero, suggesting that outdoor activity will require adequate layering to stave off the biting cold.\n\nLooking ahead to tomorrow, Saturday offers a promising shift with sunshine emerging during the day, although temperatures are expected to peak in the low 20s before falling slightly in the afternoon. Wind chill values may dip as low as negative one, so maintaining warmth will be essential. As for wave conditions along Lake Michigan, the current brisk winds suggest some rough patches, but minimal precipitation is anticipated, granting a clear passage for outdoor ventures. Given the season's typical frigid character, these temperatures align closely with what one might expect in late November in this region. Those venturing out should consider donning heavy winter coats, hats, and gloves, especially if participating in outdoor activities such as walking by the beach or braving the cold for some crisp air in the evening.",
-    "color_code": "#3C2A2B",
-    "timestamp": "2024-11-29 20:29:23"
+    "weather_report": "As the evening sets in over Evanston, the temperature is a biting low 20s, with a notable chill carried by strong, gusty winds from the west. The air is clear, offering a crispness that makes the night feel fresh, albeit a touch frigid. Expect temperatures to dip further into the low teens tonight, with wind chills plummeting to near zero, painting an uncomfortable scene for anyone venturing outside. \n\nThe outlook for tomorrow promises a sunny start, but don't let the sunshine fool you; temperatures will hover around the low 20s, feeling even colder with those persistent winds. The lake might churn gently, presenting conditions that aren't ideal for leisurely activities, particularly given the chilly air and the likelihood of biting gusts. It's advisable to bundle up warmly if you plan to step out, as layers will be crucial in battling both the cold and the wind. This late November weather is typical for the region, wrapping up the fall season with that unmistakable chill of approaching winter. For anyone contemplating outdoor plans, perhaps a brief stroll along the shoreline or a warm drink while watching the waves might bring some comfort, though do keep in mind that this is not a night for lingering outside without proper attire.",
+    "color_code": "#3e4b8f",
+    "timestamp": "2024-11-29 21:13:50"
 }
