@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-30T09:00:00-06:00",
+                "startTime": "2024-11-30T10:00:00-06:00",
                 "endTime": "2024-11-30T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 25,
+                "temperature": 26,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/snow/bkn?size=medium",
-                "shortForecast": "Isolated Snow Showers then Partly Sunny",
-                "detailedForecast": "Isolated snow showers between 10am and noon. Partly sunny. High near 25, with temperatures falling to around 23 in the afternoon. West wind around 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 26, with temperatures falling to around 23 in the afternoon. West wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -49,14 +49,14 @@
                     "value": null
                 },
                 "windSpeed": "15 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 14. Wind chill values as low as 0. West northwest wind around 15 mph, with gusts as high as 25 mph."
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 14. Wind chill values as low as 0. West wind around 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "The current weather in Evanston is characterized by a brisk chill, with temperatures hovering in the mid-teens. A blustery west wind sends a sharp bite through the air, while the relatively high moisture content adds to a feeling of cold. With the day breaking, conditions are partly cloudy and remain quite gray, though some isolated snow showers may briefly interrupt the scene before noon. As the day advances, temperatures are expected to peak in the mid-20s before dipping back to the low teens tonight, accompanied by a wind chill that could plummet to around zero, urging residents to seek warmth.\n\nWave conditions along Lake Michigan are likely to remain moderate, offering a stark contrast to the otherwise still environment. Given the cool climate, it's advisable to dress in layers, opting for warm clothing, gloves, and a hat if venturing outdoors. The temperatures align with typical winter weather for this region, as Evanston settles into its seasonal rhythm. While outdoor activities may be limited due to the cold, brisk beach walks could invigorate those eager to embrace the Lake\u2019s winter beauty. As the year draws to a close, December festivities loom on the horizon, setting a festive tone amidst the winter chill.",
-    "color_code": "#94B3D3",
-    "timestamp": "2024-11-30 09:04:55"
+    "weather_report": "Current conditions in Evanston, Illinois, present a brisk and biting chill, with temperatures hovering in the low teens, complemented by a dampness that permeates the air. The wind, howling from the west at a vigorous pace, adds to the formidable feel of the day. Looking ahead, expect a mostly sunny afternoon as temperatures rise toward the mid-20s, yet will gradually cool to around 23. As night falls, skies will remain partly cloudy, with the cold dipping into the teens, and wind chill values plummeting potentially to zero, creating an unmistakably frosty atmosphere.\n\nThe scene at the beach portrays a tranquil yet somewhat stark beauty, with gentle waves lapping at the shore and a backdrop of muted blues and grays. While the lack of precipitation keeps the day dry and clear, cooler water temperatures may result in slightly choppy wave conditions. It's advisable to dress warmly in layers: a heavy coat, hat, and gloves are essential to combat the chill. With winter gripping the area, these temperatures are characteristic of the season. As the day winds down, outdoor activities may be best suited for those prepared for the cold, such as a brisk walk along the beach or a picturesque visit to Lake Michigan's edge\u2014ideal for taking in a moment of serene beauty amidst the wintry landscape.",
+    "color_code": "#4C8FB3",
+    "timestamp": "2024-11-30 10:05:35"
 }
