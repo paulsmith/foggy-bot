@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-30T11:51:00+00:00",
-            "temperature_f": 15.079999999999998,
-            "temperature_c": -9.4,
-            "humidity": 69.763654171476,
-            "wind_speed_mph": 37.04472,
+            "timestamp": "2024-11-30T12:51:00+00:00",
+            "temperature_f": 14.0,
+            "temperature_c": -10,
+            "humidity": 73.135752749235,
+            "wind_speed_mph": 24.964920000000003,
             "wind_direction": 250,
-            "description": "Clear"
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-30T07:00:00-06:00",
+                "startTime": "2024-11-30T08:00:00-06:00",
                 "endTime": "2024-11-30T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 25,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 25, with temperatures falling to around 23 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/day/snow/sct?size=medium",
+                "shortForecast": "Isolated Snow Showers then Mostly Sunny",
+                "detailedForecast": "Isolated snow showers between 10am and noon. Mostly sunny. High near 25, with temperatures falling to around 23 in the afternoon. West wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois, presents a brisk and chilly atmosphere, with temperatures hovering in the mid 15s, complemented by a significant wind that is quite gusty, making it feel even cooler. Conditions remain clear, granting a bright start to the day, though the cold might deter some from venturing out. As we progress into the day, expect mostly sunny skies with temperatures rising to around the mid 20s, followed by a gradual decline into the evening when it will dip to the low teens, with wind chills dropping significantly, potentially feeling like zero.\n\nWave conditions along the lake are mild, as there are no indications of precipitation; however, the breeze arranges gentle ripples across the surface. Given the chill in the air and the persistent gusts, this is an ideal day for bundled-up walks along the shore or cozy indoor activities. Attire should focus on warmth, with layered clothing, gloves, and hats highly recommended to combat the penetrating cold, particularly if you're aiming to watch the sun set over the water this evening. As we enter December, this weather aligns closely with seasonal expectations for the region, creating typical winter conditions in the Midwest, perfect for enjoying the last stretches of fall scenery before deep winter sets in.",
-    "color_code": "#A5C4D4",
-    "timestamp": "2024-11-30 07:08:40"
+    "weather_report": "Current conditions in Evanston present a brisk scene, with temperatures in the low teens and a gentle but persistent breeze giving the air a notably crisp feel. The skies above are mostly clear, offering a scattered view of bright blue with small wisps of clouds drifting by. As the day unfolds, some isolated snow showers are expected this morning, but these should taper off, giving way to a mostly sunny afternoon. Highs will climb to near the mid-20s, making for a chilly yet bright winter day, before temperatures settle again into the low teens overnight.\n\nWith a blustery wind from the west, expect wind chill factors that may sweep temperatures down to around zero, urging residents to bundle up warmly. The lake is likely to be calm given the conditions, ideal for a peaceful stroll along the shore, though the air will feel brisk. Given the winter season in the Midwest, these temperatures align with typical expectations. For outdoor plans, warm layers, hats, and gloves are a must, especially with the potential of scattered snow earlier in the day. Though today is not a recognized holiday or special occasion, the beauty of a clear winter day calls for simple pleasures like walking on the beach or enjoying hot drinks at local cafes.",
+    "color_code": "#A7C6D8",
+    "timestamp": "2024-11-30 08:04:48"
 }
