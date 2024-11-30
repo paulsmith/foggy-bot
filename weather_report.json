@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-30T12:00:00-06:00",
+                "startTime": "2024-11-30T14:00:00-06:00",
                 "endTime": "2024-11-30T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 26,
+                "temperature": 24,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 26, with temperatures falling to around 23 in the afternoon. West wind around 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 24, with temperatures falling to around 22 in the afternoon. West wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-11-30T18:00:00-06:00",
                 "endTime": "2024-12-01T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 14,
+                "temperature": 13,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 14. Wind chill values as low as 0. West wind around 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 13. Wind chill values as low as -2. West wind around 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston find a brisk chill settling over the landscape, with temperatures lingering in the low 20s, accompanied by a blustery wind creating a noticeable bite in the air. The scene is mostly cloudy, yet there is a hint of brightness as clouds begin to yield to clearer patches. As the afternoon unfolds, a transition to mostly sunny skies is anticipated, with temperatures reaching the mid-20s before slipping back into the low 20s as evening approaches. Tonight, expect partly cloudy conditions enhancing the chill, with the mercury dipping to around 14 degrees, while a fierce wind keeps wind chill values near zero.\n\nThe rolling waves of Lake Michigan might be a bit restless today, stirred up by the strong winds, creating an environment that may dissuade casual beachgoers but will appeal to those seeking the aesthetics of a winter shoreline. Given the chilly air, layering is advisable; a warm coat, insulated gloves, and a sturdy hat will help fend off the cold. With the season firmly in winter's grip, these temperatures are typical for this time of year in northern Illinois, contrasting with the mildness of autumn or the heat of summer. As it is the last day of November, those seeking outdoor activities should consider a brisk walk along the shore or perhaps enjoying a hot cup of coffee in a nearby caf\u00e9 while watching the waves, embracing the season's essence without venturing into more brutal conditions.",
-    "color_code": "#4F96A8",
-    "timestamp": "2024-11-30 13:04:39"
+    "weather_report": "As we survey the current weather in Evanston, Illinois, we find ourselves in a chilly, nearly blustery setting. The temperature hovers in the low 20s, coupled with a fresh breeze stirring from the west that adds a bite to the air, making it feel even colder. The day boasts mostly cloudy skies, contributing to a muted light across the landscape. Later on, expect a transition to sunnier conditions this afternoon, with temperatures only inching slightly higher before dipping again, setting us up for a clear, cold night, where wind chill will push the feel of the air down to sub-zero levels.\n\nWith waves gently lapping at the shore of Lake Michigan, conditions remain relatively calm, perfect for a walk along the beach, though one should be mindful of the creeping chill. With no precipitation forecasted, the day remains dry, inviting bundled-up excursions outdoors. Given the briskness of the day, layered attire is essential: a warm coat, gloves, and perhaps a hat will ensure comfort as you take advantage of the brightening skies. As we approach the first day of December, temperatures and conditions remain typical for this time of year in the Midwest, ushering in the heart of winter. Enjoying a brisk stroll along the lake or engaging in some light outdoor activities are excellent ways to embrace this quintessential winter day.",
+    "color_code": "#0066cc",
+    "timestamp": "2024-11-30 14:05:16"
 }
