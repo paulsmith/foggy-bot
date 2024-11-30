@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-29T20:00:00-06:00",
+                "startTime": "2024-11-29T22:00:00-06:00",
                 "endTime": "2024-11-30T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 14. Wind chill values as low as 0. West wind around 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 14. Wind chill values as low as 0. West wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 23, with temperatures falling to around 21 in the afternoon. Wind chill values as low as -1. West wind around 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Sunny. High near 23, with temperatures falling to around 21 in the afternoon. Wind chill values as low as -1. West wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the evening sets in over Evanston, the temperature is a biting low 20s, with a notable chill carried by strong, gusty winds from the west. The air is clear, offering a crispness that makes the night feel fresh, albeit a touch frigid. Expect temperatures to dip further into the low teens tonight, with wind chills plummeting to near zero, painting an uncomfortable scene for anyone venturing outside. \n\nThe outlook for tomorrow promises a sunny start, but don't let the sunshine fool you; temperatures will hover around the low 20s, feeling even colder with those persistent winds. The lake might churn gently, presenting conditions that aren't ideal for leisurely activities, particularly given the chilly air and the likelihood of biting gusts. It's advisable to bundle up warmly if you plan to step out, as layers will be crucial in battling both the cold and the wind. This late November weather is typical for the region, wrapping up the fall season with that unmistakable chill of approaching winter. For anyone contemplating outdoor plans, perhaps a brief stroll along the shoreline or a warm drink while watching the waves might bring some comfort, though do keep in mind that this is not a night for lingering outside without proper attire.",
-    "color_code": "#3e4b8f",
-    "timestamp": "2024-11-29 21:13:50"
+    "weather_report": "As the night settles over Evanston, the air feels brisk and sharp, with temperatures hovering in the low 20s, accompanied by a slightly biting breeze. The current weather is mostly clear, offering glimpses of the stars above, though wind gusts are fierce, creating a chilly experience. With wind chill bringing the sensation down to near zero, outdoor conditions are not particularly inviting for prolonged exposure. Waves from Lake Michigan lap quietly along the shore, their movement gentle despite the wind's insistence.\n\nLooking ahead to Saturday, expect a bright start with sunny skies, although temperatures will dip slightly into the low 20s as the day unfolds. Wind chill could plunge to minus one during peak hours, making it essential for anyone venturing outside to prepare against the cold wind. While skies remain clear providing a spacious view, the slight shiver in the air might suggest cozy indoor activities instead of beachside strolls. With it being the last days of November, conditions are typical for the season\u2014teetering on the edge of winter's embrace. So, bundle up in warm layers, perhaps a scarf and gloves, to combat the potentially uncomfortable chill and enjoy some of the early winter festivities as the holiday season approaches.",
+    "color_code": "#1E90FF",
+    "timestamp": "2024-11-29 22:06:12"
 }
