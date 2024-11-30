@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-30T19:51:00+00:00",
+            "timestamp": "2024-11-30T20:51:00+00:00",
             "temperature_f": 24.98,
             "temperature_c": -3.9,
             "humidity": 50.036828273094,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 260,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 250,
             "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-30T16:00:00-06:00",
+                "startTime": "2024-11-30T17:00:00-06:00",
                 "endTime": "2024-11-30T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 25,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather is marked by crisp and cool conditions, with temperatures hovering in the mid-20s and a gentle west wind creating a noticeably blustery atmosphere. As you gaze towards Lake Michigan, the scene reveals a partly cloudy sky, but expect brighter moments as the afternoon unfolds into sunnier intervals. Tonight, temperatures will dip to the low teens, accompanied by a sharp wind chill that could feel as frigid as -2. \n\nThe lake is relatively calm for this time of year, with mild wave action, though the chill and calmness might deter beachgoers. There's no precipitation on the horizon, making it a dry outing. Those venturing outdoors should warmly bundle up in layers, including a heavy coat, scarf, and mittens, to combat the cold. Given the season, these temperatures are typical for late November in the Midwest, setting the stage for winter activities. As the sun sets early, enjoy a brisk walk along the shore or perhaps a cozy evening indoors, ideal for reflecting on the upcoming holiday season.",
-    "color_code": "#A8C4E5",
-    "timestamp": "2024-11-30 16:04:57"
+    "weather_report": "In Evanston, the current conditions are brisk, with temperatures hovering in the mid-20s and a notable wind creating a biting chill. The sky is partly cloudy, unfolding a scenic albeit chilly landscape by Lake Michigan. As the day advances, we can expect the sun to break through, bringing a slightly warmer high near 25, complemented by a moderate westerly breeze. Tonight, clear skies will take over, with temperatures dropping into the low teens and wind chills potentially plummeting to around -2, inviting a need for warm attire.\n\nThe general appearance today is less than inviting for outdoor activities, with the cold and gusty winds making it feel much colder than it is. Wave conditions on the lake, influenced by the howling winds, may display notable turbulence, cautioning any adventurous spirits against venturing onto the water. With little prospect for precipitation, the overall outlook remains dry. It is advisable to bundle up warmly, opting for layers and perhaps a sturdy coat if heading outside. Given that this is the winter season in the Midwest, the current mid-20s temperature is typical, albeit on the colder end of the spectrum. As the day draws to a close, indoor plans like visiting local cafes or enjoying a warm meal might be the most appealing activities to consult prior to braving the chill.",
+    "color_code": "#A3C7D3",
+    "timestamp": "2024-11-30 17:04:49"
 }
