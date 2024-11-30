@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-30T08:51:00+00:00",
-            "temperature_f": 15.979999999999997,
-            "temperature_c": -8.9,
-            "humidity": 67.085045426616,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 250,
-            "description": "Clear"
+            "timestamp": "2024-11-30T10:51:00+00:00",
+            "temperature_f": 15.079999999999998,
+            "temperature_c": -9.4,
+            "humidity": 69.763654171476,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 260,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-30T05:00:00-06:00",
-                "endTime": "2024-11-30T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 17,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 17. West wind around 10 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2024-11-30T06:00:00-06:00",
                 "endTime": "2024-11-30T18:00:00-06:00",
                 "isDaytime": true,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 25, with temperatures falling to around 23 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 25, with temperatures falling to around 23 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-30T18:00:00-06:00",
+                "endTime": "2024-12-01T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 14,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 14. Wind chill values as low as 0. West northwest wind around 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Evanston wakes to chilly conditions this morning, with temperatures hovering in the mid-teens, creating a brisk atmosphere accented by a steady, howling wind. The scene outside is clear, allowing for a pristine view over Lake Michigan, though the air feels biting with the wind's ferocity. As the day unfolds, a transition is anticipated with partly cloudy skies overnight leading to a sunny Saturday. Daytime highs are expected to reach the mid-20s, offering a slight reprieve, yet temperatures will gradually fall by afternoon, where a gentle westward breeze continues to prevail.\n\nWith the absence of precipitation in the forecast, it\u2019s a perfect opportunity to embrace outdoor activities, though the biting chill may discourage prolonged outdoor adventures. Those venturing outside should bundle up, opting for layers to mitigate the cold. Hats and gloves will be essential, especially with the wind giving a sharp edge to the air. As we are in the grips of late autumn, these temperatures are characteristic of the season in this region, making it a fitting time for warm drinks and cozy gatherings indoors. Enjoy the winter landscapes, but remember that today\u2019s conditions call for warm attire and perhaps a brisk walk along the beach to savor the crisp air.",
-    "color_code": "#4D4DFF",
-    "timestamp": "2024-11-30 05:04:47"
+    "weather_report": "In Evanston this morning, temperatures are brisk, hovering in the low 15s with a blustery wind rushing in from the west. The air feels quite raw, as the wind brings an invigorating chill that may catch you off guard if you step outside\u2014be prepared for a wind chill that dips considerably lower. As the day advances, expect mostly sunny skies with temperatures rising to the high 20s but eventually back down to the mid-teens this evening, under clear and starry conditions. \n\nThe lack of precipitation today makes for a pleasant winter outing, though the gusty winds may create choppy conditions on Lake Michigan. While the waves might be riled up, it's best to avoid the shoreline if you're looking for calm and a leisurely stroll. Given the chilly atmosphere, dress warmly with layers, ensuring to include a thick jacket and a hat to fend off the cold. As we embrace this late November day, it\u2019s typical for the region, as winter slowly settles in, bringing short days and icy air. For those looking to enjoy the outdoors, a brisk walk or a brief visit to a nearby caf\u00e9 may prove delightful, though bundling up is essential to stay comfortable.",
+    "color_code": "#1A1A1A",
+    "timestamp": "2024-11-30 06:07:46"
 }
