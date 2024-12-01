@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-01T01:51:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 49.939494409841,
+            "timestamp": "2024-12-01T02:51:00+00:00",
+            "temperature_f": 21.02,
+            "temperature_c": -6.1,
+            "humidity": 51.877351806396,
             "wind_speed_mph": 33.01812,
             "wind_direction": 270,
             "description": "Mostly Clear"
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-30T20:00:00-06:00",
+                "startTime": "2024-11-30T22:00:00-06:00",
                 "endTime": "2024-12-01T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 13,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 13. Wind chill values as low as -2. West northwest wind around 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly clear, with a low around 13. Wind chill values as low as -2. West northwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 27, with temperatures falling to around 24 in the afternoon. Wind chill values as low as -2. West northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly sunny. High near 27, with temperatures falling to around 24 in the afternoon. Wind chill values as low as -2. West northwest wind 10 to 15 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current conditions present a chilly atmosphere, with temperatures around the low 20s and a rather brisk breeze whipping in from the west at a fierce pace. The mostly clear skies allow for a beautiful view of the stars, though the wind chill creates a biting sensation that can feel as low as -2 degrees. As night unfolds, temperatures are projected to dip further to around the lower teens, making it advisable to bundle up before venturing outdoors.\n\nThe forecast for tomorrow promises a sunny day with highs reaching the upper 20s. As the day progresses, temperatures will start to fall again, accompanied by a gently breezy wind that may stir up a slight chill. With no precipitation expected, it's a great opportunity to enjoy the crisp winter air. Late autumn in this region typically brings such frigid conditions, so this weather is quite typical for this time of year. For outdoor activities, consider a brisk walk along the beach or in a nearby park\u2014just remember to wear layers to combat the cold and wind.",
-    "color_code": "#A3285B",
-    "timestamp": "2024-11-30 21:25:32"
+    "weather_report": "The current weather in Evanston is decidedly brisk, with temperatures hovering in the low 20s and a sharp wind from the west that gives everything a decidedly wintry feel. It's mostly clear tonight, but the chill bites, with wind chill values plunging down to near zero. As we look ahead to Sunday, expect more of the same crisp conditions, with bright sunshine punctuating the cold, and a high that barely rises into the upper 20s. This time of year is typical for the Midwest, as the season embraces the stark beauty of winter.\n\nWith wave activity likely influenced by the strong winds, anyone near the lake should prepare for a rather choppy surface, making for less than ideal conditions for boating or fishing. There's no precipitation in sight, lending to a clear but chilly atmosphere, perfect for bundled outdoor walks. For those venturing outside, layering up is a must; think warm coats, hats, and gloves to ward off the biting cold. As we move into the weekend, these conditions provide a perfect excuse for cozy indoor activities or brief excursions outside to enjoy the fresh winter air.",
+    "color_code": null,
+    "timestamp": "2024-11-30 22:09:00"
 }
