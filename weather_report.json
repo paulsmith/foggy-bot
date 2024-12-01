@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-01T17:51:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 54.354856133678,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 290,
+            "timestamp": "2024-12-01T18:51:00+00:00",
+            "temperature_f": 24.98,
+            "temperature_c": -3.9,
+            "humidity": 52.515957329281,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 280,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-01T12:00:00-06:00",
+                "startTime": "2024-12-01T14:00:00-06:00",
                 "endTime": "2024-12-01T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 27,
+                "temperature": 28,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 27, with temperatures falling to around 25 in the afternoon. West northwest wind around 10 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Sunny. High near 28, with temperatures falling to around 25 in the afternoon. West northwest wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-01T18:00:00-06:00",
                 "endTime": "2024-12-02T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 18,
+                "temperature": 19,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 18. West northwest wind around 10 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 19. West northwest wind around 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "A crisp and cool afternoon unfolds in Evanston, where current temperatures hover in the mid-20s. The sky is mostly clear, giving way to ample sunshine, but a blustery northwest wind whips through at around 10 mph, creating a refreshingly brisk atmosphere. Tonight, the forecast calls for continued clarity with temperatures dipping into the high teens, accompanied by gentle winds that promise a chilly evening.\n\nWave conditions along Lake Michigan appear to be moderate, with a gentle surf lapping at the shore. The lack of any precipitation enhances the pleasant outdoor experience, making it an ideal time for a brisk walk or a relaxing moment by the water. Given the season, these temperatures align well with typical December weather in the Midwest, where one should bundle up warmly in layers to fully enjoy the fresh air. As the holiday season approaches, families might take advantage of this pleasant weather to partake in outdoor activities while preparing for upcoming celebrations.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2024-12-01 13:04:42"
+    "weather_report": "In Evanston today, the air is crisp and cool, with current temperatures hovering in the mid-20s. The scene is mostly clear, allowing sunlight to reflect off the glistening surface of Lake Michigan, creating a serene atmosphere at the beach. Wind gusts are howling across the shoreline at a notable speed, making it feel even chillier, especially as we head into the afternoon. While no precipitation is expected, the air is refreshingly dry, making it a pleasant day for those bundled up appropriately. \n\nLooking ahead, temperatures will peak near the upper 20s before settling back into the lower 20s tonight. The evening promises partly cloudy skies with a gentle breeze easing into the night. Given the season, these conditions are typical for early December in the Midwest, where cool air and brisk winds mark the landscape. A warm coat, perhaps accompanied by a hat and gloves, would be advisable for those venturing outdoors. The stunning clarity of the day invites a stroll along the waterfront or a brisk walk in nearby parks, capturing this fleeting beauty before winter settles in fully.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2024-12-01 14:05:26"
 }
