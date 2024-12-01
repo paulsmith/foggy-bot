@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-01T09:51:00+00:00",
-            "temperature_f": 15.079999999999998,
-            "temperature_c": -9.4,
-            "humidity": 60.666016333579,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 300,
+            "timestamp": "2024-12-01T11:51:00+00:00",
+            "temperature_f": 14.0,
+            "temperature_c": -10,
+            "humidity": 63.598371151089,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 280,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-01T06:00:00-06:00",
+                "startTime": "2024-12-01T07:00:00-06:00",
                 "endTime": "2024-12-01T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the morning greets us with a brisk chill as current conditions show a temperature lingering in the mid-teens, accompanied by a gentle, biting breeze that stirs the air from the northwest. The sky is clear, offering a serene canvas as the sun prepares to rise, casting a golden light over the landscape. With no precipitation in sight, the day ahead promises plenty of sunshine, though temperatures are expected to reach only the high twenties, dropping into the low teens tonight. The scene is wintery, with a pleasant clarity that invites a leisurely stroll along the beach, albeit with the necessity of warm attire.\n\nAs we approach this December day, weather enthusiasts should brace for somewhat seasonal temperatures, typical of this time of year, though on the cooler end of the spectrum. Given the conditions, it\u2019s a perfect time for cozy indoor activities or a brisk outdoor run, where the invigorating cold can be a refreshing experience for those well-prepared. With the waves likely to remain calm, conditions are certainly not ideal for swimming, but the striking view of Lake Michigan under a clear sky offers its own pleasures. Remember to bundle up; a warm coat, gloves, and a hat are essential to enjoy the crisp beauty of a Chicago winter day.",
-    "color_code": "#1F3F75",
-    "timestamp": "2024-12-01 06:10:14"
+    "weather_report": "The current conditions in Evanston paint a scene of crisp and cool winter air, with temperatures hovering in the low teens and a biting breeze that stirs the waters of Lake Michigan. The sky remains clear, allowing for the bright, refreshing light to illuminate the frosty landscape, ideal for morning walks along the beach, though one must be prepared for a gusty wind. As the day unfolds, expect sunny skies with temperatures rising to the high 20s, providing a pleasant welcome from the chilly start. Tonight retains the clear conditions but dips to around the upper teens, with a similar gentle breeze continuing from the west-northwest.\n\nWave conditions at the beach will likely be choppy given the blustery winds, but there is no precipitation forecasted to disrupt the day. This weather calls for warm attire: think insulated jackets, cozy hats, and perhaps a scarf to shield against the brisk air. As we\u2019re firmly in the winter season, these temperatures align with the seasonal norms for this region, where the chill is a hallmark of early December. For those looking for activities, a stroll along the shoreline or a visit to nearby parks could offer a refreshing break, while the festive atmosphere of the upcoming holidays adds a sprinkle of cheer to the chilly landscape.",
+    "color_code": "#B3C7D9",
+    "timestamp": "2024-12-01 07:09:34"
 }
