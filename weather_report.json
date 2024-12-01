@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-01T05:00:00-06:00",
-                "endTime": "2024-12-01T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 15,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 15. West northwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2024-12-01T06:00:00-06:00",
                 "endTime": "2024-12-01T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 27, with temperatures falling to around 25 in the afternoon. West northwest wind around 10 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-01T18:00:00-06:00",
+                "endTime": "2024-12-02T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 18,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 18. West northwest wind around 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a brisk scene along the beach, with temperatures hovering in the mid-teens, while clear skies provide a refreshing clarity to the atmosphere. A strong, blustery westerly wind wraps around the coast at 20 mph, contributing to the chilly feel, accentuated by the slightly damp air. As we look ahead, the daytime is forecasted to bring a shift to sunny skies and a high reaching into the upper 20s, though the temperature may dip into the mid-20s during the afternoon. This forthcoming wave of sunshine promises a brighter outlook, but be prepared for a cold day ahead as you venture outside.\n\nGiven the current weather, it\u2019s advisable to bundle up tightly; layers are key in these conditions. A thick coat, gloves, and a warm hat will help counter the biting chill of the wind. As for activities, today\u2019s weather is well-suited for a brisk stroll along the beach\u2014just be mindful of the wind chill\u2014and perhaps a warm beverage afterward to stay toasty. This December day, where we're firmly in the clutches of winter, showcases temperatures typical for the region, although the clear skies offer a beautiful contrast to the otherwise cold surroundings.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2024-12-01 05:04:50"
+    "weather_report": "In Evanston, Illinois, the morning greets us with a brisk chill as current conditions show a temperature lingering in the mid-teens, accompanied by a gentle, biting breeze that stirs the air from the northwest. The sky is clear, offering a serene canvas as the sun prepares to rise, casting a golden light over the landscape. With no precipitation in sight, the day ahead promises plenty of sunshine, though temperatures are expected to reach only the high twenties, dropping into the low teens tonight. The scene is wintery, with a pleasant clarity that invites a leisurely stroll along the beach, albeit with the necessity of warm attire.\n\nAs we approach this December day, weather enthusiasts should brace for somewhat seasonal temperatures, typical of this time of year, though on the cooler end of the spectrum. Given the conditions, it\u2019s a perfect time for cozy indoor activities or a brisk outdoor run, where the invigorating cold can be a refreshing experience for those well-prepared. With the waves likely to remain calm, conditions are certainly not ideal for swimming, but the striking view of Lake Michigan under a clear sky offers its own pleasures. Remember to bundle up; a warm coat, gloves, and a hat are essential to enjoy the crisp beauty of a Chicago winter day.",
+    "color_code": "#1F3F75",
+    "timestamp": "2024-12-01 06:10:14"
 }
