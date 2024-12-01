@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-11-30T23:51:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 57.047926574722,
+            "timestamp": "2024-12-01T01:51:00+00:00",
+            "temperature_f": 21.92,
+            "temperature_c": -5.6,
+            "humidity": 49.939494409841,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 240,
-            "description": "Partly Cloudy"
+            "wind_direction": 270,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-30T19:00:00-06:00",
+                "startTime": "2024-11-30T20:00:00-06:00",
                 "endTime": "2024-12-01T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 13,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the sun sets on Evanston, the temperature sits in the low 20s, bringing a crisp chill to the air, complemented by a light hum of wind creating a brisk atmosphere. With partly cloudy skies overhead, the evening feels invigorating yet cold, particularly as wind gusts add a sharp edge to the air, making it feel bitterly cool outdoors. Tonight, clear skies are expected, dropping to a low around the teens, which could create wind chill values close to -2, resulting in a biting cold that will require warm attire if venturing outside.\n\nTomorrow promises mostly sunny conditions with temperatures barely escaping the mid-20s, making it a typical late November day for the region. The wind will continue, though slightly lighter than today, maintaining a breezy feel that will be particularly pronounced at the shore. Expect gentle waves along Lake Michigan, though conditions won't be ideal for swimming or recreational water activities. For those heading outdoors, layered clothing and winter accessories such as hats and gloves are highly recommended to negate the chill. As we approach the festive season, outdoor strolls or quick errands in the winter air might be appealing, but be sure to dress warmly to enjoy the late autumn scenery comfortably.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-30 19:33:38"
+    "weather_report": "As the evening settles over Evanston, the temperature lingers in the lower 20s, creating a chilly atmosphere that resonates with the season. The air is brisk, with a cool clarity that accompanies a comfortably dry experience, hinting at the winter approaching fast. Under mostly clear skies, the wind whispers from the northwest at a spirited pace, lending a sharp edge to the chill, while wind chill values dip as low as -2. Tonight promises a low around 13, making it a perfect night to cozy up indoors.\n\nLooking forward to Sunday, the forecast suggests a predominantly sunny outlook, with temperatures reaching the high 20s. Winds will shift to a gentler pace, but the threat of biting cold remains with wind chill values maintaining their frosty demeanor. Waves along Lake Michigan are likely moderate, reflecting the wind's energy rather than presenting a tumultuous character, which makes this a less than ideal day for outdoor water activities. Given the seasonal conditions, layering up is advisable; a warm coat, hat, and gloves will be essential for bracing against the winter chill. No significant precipitation is expected, allowing for clear, crisp air ideal for a brisk walk along the shore or a steamy coffee break in a local caf\u00e9. Although today isn't marked by any major holidays, the impending festive season is just around the corner, encouraging exploration and a touch of holiday cheer in the air.",
+    "color_code": "#A1C4E4",
+    "timestamp": "2024-11-30 20:37:10"
 }
