@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-01T07:00:00-06:00",
+                "startTime": "2024-12-01T08:00:00-06:00",
                 "endTime": "2024-12-01T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current conditions in Evanston paint a scene of crisp and cool winter air, with temperatures hovering in the low teens and a biting breeze that stirs the waters of Lake Michigan. The sky remains clear, allowing for the bright, refreshing light to illuminate the frosty landscape, ideal for morning walks along the beach, though one must be prepared for a gusty wind. As the day unfolds, expect sunny skies with temperatures rising to the high 20s, providing a pleasant welcome from the chilly start. Tonight retains the clear conditions but dips to around the upper teens, with a similar gentle breeze continuing from the west-northwest.\n\nWave conditions at the beach will likely be choppy given the blustery winds, but there is no precipitation forecasted to disrupt the day. This weather calls for warm attire: think insulated jackets, cozy hats, and perhaps a scarf to shield against the brisk air. As we\u2019re firmly in the winter season, these temperatures align with the seasonal norms for this region, where the chill is a hallmark of early December. For those looking for activities, a stroll along the shoreline or a visit to nearby parks could offer a refreshing break, while the festive atmosphere of the upcoming holidays adds a sprinkle of cheer to the chilly landscape.",
-    "color_code": "#B3C7D9",
-    "timestamp": "2024-12-01 07:09:34"
+    "weather_report": "This morning in Evanston, the air is refreshingly brisk with temperatures in the low teens, complemented by a gentle breeze that adds a lively chill to the atmosphere. The sky is clear, casting a bright light on the winter landscape, perfect for those looking to relish a bright December day. As we move into the afternoon, expect sunny skies with temperatures climbing towards the high 20s, though a slight drop is predicted as evening approaches, settling around the low teens once more. \n\nWave conditions along Lake Michigan are moderate, making for a picturesque scene rather than ideal swimming weather. Fortunately, there\u2019s no precipitation expected, ensuring a dry, pleasant experience outdoors. For those venturing outside, layering up with a warm coat, gloves, and a scarf will provide comfort against the cool air. This weather is typical for December in the Midwest, embracing the season's chill while allowing for charming winter outings. As this is not a holiday, consider enjoying a brisk walk along the lake, savoring the serenity of winter's beauty at this time of year.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2024-12-01 08:04:49"
 }
