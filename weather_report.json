@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-01T08:51:00+00:00",
-            "temperature_f": 15.979999999999997,
-            "temperature_c": -8.9,
-            "humidity": 58.336715728604,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 280,
-            "description": ""
+            "timestamp": "2024-12-01T09:51:00+00:00",
+            "temperature_f": 15.079999999999998,
+            "temperature_c": -9.4,
+            "humidity": 60.666016333579,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 300,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-01T04:00:00-06:00",
+                "startTime": "2024-12-01T05:00:00-06:00",
                 "endTime": "2024-12-01T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 15,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a chilly scene, with temperatures hovering in the mid-teens and a brisk wind providing a sharp bite. The air feels considerably cold, accentuated by a robust breeze, making it advisable to bundle up in warm layers if venturing outdoors. The night is mostly clear, offering a glimpse of bright stars above, although the beach remains tranquil and serene, shrouded in the quiet of the evening.\n\nLooking ahead, the weather forecast promises a transition to pleasant sunshine tomorrow, with high temperatures reaching the upper 20s. Winds will remain gentle, creating a more comfortable atmosphere as the daylight unfolds. As for wave conditions, they are likely calm given the current stillness around the lake. There is no precipitation expected for the day ahead, allowing for outdoor activities to be enjoyed without the worry of getting caught in the rain. It\u2019s a fine time for a winter walk along the beach or engaging in a brisk jog, just be sure to dress warmly due to the lingering chill of the season. As we step into December, these temperatures are indeed consistent with typical winter conditions across the region.",
-    "color_code": "#2B2D30",
-    "timestamp": "2024-12-01 04:05:36"
+    "weather_report": "Current conditions in Evanston present a brisk scene along the beach, with temperatures hovering in the mid-teens, while clear skies provide a refreshing clarity to the atmosphere. A strong, blustery westerly wind wraps around the coast at 20 mph, contributing to the chilly feel, accentuated by the slightly damp air. As we look ahead, the daytime is forecasted to bring a shift to sunny skies and a high reaching into the upper 20s, though the temperature may dip into the mid-20s during the afternoon. This forthcoming wave of sunshine promises a brighter outlook, but be prepared for a cold day ahead as you venture outside.\n\nGiven the current weather, it\u2019s advisable to bundle up tightly; layers are key in these conditions. A thick coat, gloves, and a warm hat will help counter the biting chill of the wind. As for activities, today\u2019s weather is well-suited for a brisk stroll along the beach\u2014just be mindful of the wind chill\u2014and perhaps a warm beverage afterward to stay toasty. This December day, where we're firmly in the clutches of winter, showcases temperatures typical for the region, although the clear skies offer a beautiful contrast to the otherwise cold surroundings.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2024-12-01 05:04:50"
 }
