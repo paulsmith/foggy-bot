@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-01T15:51:00+00:00",
-            "temperature_f": 19.04,
-            "temperature_c": -7.2,
-            "humidity": 56.441508872653,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 300,
+            "timestamp": "2024-12-01T17:51:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 54.354856133678,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 290,
             "description": "Mostly Clear"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a crisp and cool day with temperatures hovering in the low 20s, complemented by a gentle breeze coming from the northwest. The skies are mostly clear, creating a bright and inviting atmosphere, perfect for a stroll along the beach. As we look to the afternoon, expect sunny conditions with temperatures climbing to the upper 20s, though it will cool slightly in the later hours. The wind will shift to a calmer state but will still bring some gusts, making the chill feel a touch more pronounced, especially near the lakefront.\n\nWave activity appears moderate, which is typical for this time of year. As for precipitation, there\u2019s no rain or snow in sight, allowing for a pleasant outdoor experience. Given the cool air, it's advisable to dress warmly, perhaps with layers and a windbreaker, to fully enjoy the outdoors without discomfort. Considering the time of year, this weather is somewhat typical for early December in the Midwest. With no major holidays currently, it\u2019s a perfect opportunity to enjoy winter walks or visit local cafes.",
-    "color_code": "#1D5D9B",
-    "timestamp": "2024-12-01 12:06:12"
+    "weather_report": "A crisp and cool afternoon unfolds in Evanston, where current temperatures hover in the mid-20s. The sky is mostly clear, giving way to ample sunshine, but a blustery northwest wind whips through at around 10 mph, creating a refreshingly brisk atmosphere. Tonight, the forecast calls for continued clarity with temperatures dipping into the high teens, accompanied by gentle winds that promise a chilly evening.\n\nWave conditions along Lake Michigan appear to be moderate, with a gentle surf lapping at the shore. The lack of any precipitation enhances the pleasant outdoor experience, making it an ideal time for a brisk walk or a relaxing moment by the water. Given the season, these temperatures align well with typical December weather in the Midwest, where one should bundle up warmly in layers to fully enjoy the fresh air. As the holiday season approaches, families might take advantage of this pleasant weather to partake in outdoor activities while preparing for upcoming celebrations.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2024-12-01 13:04:42"
 }
