@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-01T07:51:00+00:00",
-            "temperature_f": 17.06,
-            "temperature_c": -8.3,
-            "humidity": 55.671559520125,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2024-12-01T08:51:00+00:00",
+            "temperature_f": 15.979999999999997,
+            "temperature_c": -8.9,
+            "humidity": 58.336715728604,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 280,
-            "description": "Clear"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-01T03:00:00-06:00",
+                "startTime": "2024-12-01T04:00:00-06:00",
                 "endTime": "2024-12-01T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 15,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the current conditions present a chilly scene with temperatures in the mid-teens and a bright clarity that promises an invigorating start to the day. The air carries a sharpness typical of early December, enhanced by a brisk, howling wind that grips the shoreline. Throughout the night, the skies remained mostly clear with a slight drop in temperatures, expecting to dip to around the low teens. Today, the sun is anticipated to shine brightly, bringing a high in the upper 20s, though slightly cooler temperatures should settle in the afternoon.\n\nDespite the serene beauty of the morning, outdoor conditions may not be particularly pleasant for extended stays at the beach, particularly with gusts adding a pronounced chill. The wave activities are likely subdued given the clear conditions, making it less inviting for swimming or water sports. With no precipitation expected today, the landscape will remain dry and crisp. As such, dressing warmly is advisable\u2014layering with insulated clothing and a windproof jacket will ensure comfort against the cold snap. This weather aligns well with the seasonal norms for this time of year in the Chicago area, where such brisk temperatures are standard as winter draws near. For those feeling adventurous, a brisk walk along the beach to enjoy the breathtaking views of Lake Michigan may provide a rejuvenating escape.",
-    "color_code": "#F0F8FF",
-    "timestamp": "2024-12-01 03:05:06"
+    "weather_report": "Current conditions in Evanston reflect a chilly scene, with temperatures hovering in the mid-teens and a brisk wind providing a sharp bite. The air feels considerably cold, accentuated by a robust breeze, making it advisable to bundle up in warm layers if venturing outdoors. The night is mostly clear, offering a glimpse of bright stars above, although the beach remains tranquil and serene, shrouded in the quiet of the evening.\n\nLooking ahead, the weather forecast promises a transition to pleasant sunshine tomorrow, with high temperatures reaching the upper 20s. Winds will remain gentle, creating a more comfortable atmosphere as the daylight unfolds. As for wave conditions, they are likely calm given the current stillness around the lake. There is no precipitation expected for the day ahead, allowing for outdoor activities to be enjoyed without the worry of getting caught in the rain. It\u2019s a fine time for a winter walk along the beach or engaging in a brisk jog, just be sure to dress warmly due to the lingering chill of the season. As we step into December, these temperatures are indeed consistent with typical winter conditions across the region.",
+    "color_code": "#2B2D30",
+    "timestamp": "2024-12-01 04:05:36"
 }
