@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-01T03:51:00+00:00",
-            "temperature_f": 19.939999999999998,
-            "temperature_c": -6.7,
-            "humidity": 54.313842740533,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 260,
-            "description": "Mostly Clear"
+            "timestamp": "2024-12-01T04:51:00+00:00",
+            "temperature_f": 19.04,
+            "temperature_c": -7.2,
+            "humidity": 53.726736646471,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 280,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-30T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-01T00:00:00-06:00",
                 "endTime": "2024-12-01T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 13,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 27, with temperatures falling to around 24 in the afternoon. Wind chill values as low as -2. West northwest wind 10 to 15 mph."
+                "detailedForecast": "Mostly sunny. High near 27, with temperatures falling to around 24 in the afternoon. Wind chill values as low as -2. West northwest wind around 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "Evanston is experiencing crisp and cool conditions this evening, with the temperature in the low 20s and mostly clear skies. The air carries a briskness as a fierce wind sweeps from the west-northwest at nearly 30 miles per hour, causing wind chills to dip as low as -2. Tonight, expect the chill to deepen, with temperatures falling to the low teens as nighttime settles in. Tomorrow promises mostly sunny skies with temperatures reaching the upper 20s, though it\u2019s anticipated that the cold will linger in the afternoon.\n\nThe beach, under the moonlight, has an expansive, tranquil beauty, unmarred by precipitation. The scene is certainly more pleasant than unpleasant, though anyone venturing outside will require warm clothing to fend off the biting cold. Waves on Lake Michigan will likely reflect the brisk winds\u2014a reminder of winter's approach. This time of year typically sees temperatures in the seasonally low range, so the current chill aligns with expectations for late November.\n\nFor those looking to embrace the season, bundled outdoor activities like brisk walks along the shoreline or simply enjoying the scenery may suit the day. Remember to dress warmly\u2014layers, insulated jackets, and hats are highly recommended. Though today isn't a holiday, the festive spirit of the season is palpable, with the joy of celebrations on the horizon.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2024-11-30 23:05:19"
+    "weather_report": "As night falls over Evanston, temperatures hover in the low 20s, creating a fiercely chilly atmosphere. The wind howls out of the northwest, amplifying the cold with wind chill values plunging to -2, making it prudent to stay bundled up if venturing outside. The night sky is mostly clear, promising a serene view of the stars, though those embarking on an evening walk may find the brisk air invigorating yet biting. \n\nLooking ahead to Sunday, the forecast suggests a shift to brighter, more pleasant conditions as the sun breaks through for much of the day. Expect temperatures to edge towards the upper 20s but watch for a gradual decline in the afternoon. Wave conditions along Lake Michigan should remain calm, perfect for leisurely outings along the shore, though water enthusiasts should remain cautious of the breezy gusts that could elevate wave activity. Given the seasonal chill typical of early December in this region, clothing should prioritize warmth\u2014think heavy jackets, scarves, and gloves. While multiple festive holidays are on the horizon, today is a quiet lead-up period, making it a fine day for a brisk stroll or cozying up with a warm drink at home.",
+    "color_code": "#3b3b3b",
+    "timestamp": "2024-12-01 00:06:46"
 }
