@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-01T10:00:00-06:00",
+                "startTime": "2024-12-01T11:00:00-06:00",
                 "endTime": "2024-12-01T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois this morning, the air is notably crisp and cool with a temperature hovering in the mid-teens, complemented by a fierce northwesterly wind that lends a chill to the day. Currently, the skies are mostly clear, setting a pleasant scene despite the cold. As the day progresses, expect sunny conditions with temperatures rising to the high 20s before gently settling back down to the low 20s in the late afternoon. The wind will shift slightly, becoming a soothing breeze which should enhance the sunshine's warmth, creating a far more welcoming atmosphere.\n\nWhile no precipitation is in sight, wave conditions along Lake Michigan may be a bit lively with the wind's persistence, ideal for watching from the comfort of a warm jacket. Given the chill, it\u2019s advisable to bundle up with layers\u2014think cozy sweaters, insulated coats, and perhaps a scarf to fend off the cool gusts. Generally, these temperatures for early December are typical for the region, marking a proper start to winter. For those inclined to enjoy the outdoors, today presents an opportunity for a brisk walk along the beach or at a local park, soaking in the serenity of the season as the year draws to a close.",
-    "color_code": "#A3C7D5",
-    "timestamp": "2024-12-01 10:05:16"
+    "weather_report": "This morning in Evanston, temperatures cling to the mid-teens in Fahrenheit, with a brisk, biting chill in the air complemented by a fierce west-northwest wind sweeping across the beach. The day starts mostly clear, offering breathtaking views over Lake Michigan, with only a few scattered clouds. Despite the cold, the sun shines brightly, promising a sunny day ahead as temperatures rise to nearly the high 20s. As the afternoon unfolds, the warmth of the sun will provide a brief reprieve from the chill, but stepping outside will still be an invigorating experience.\n\nWhile no precipitation is expected today, the crisp coastal air is refreshing and invigorating, making for a slightly cool atmosphere that invites layered attire. A warm coat, gloves, and a hat are essential, especially if venturing near the lake where the winds can be more biting. The waves, gentle today, will lap at the shore but rise slightly with the day\u2019s winds, perfect for a soothing walk along the beach. This seasonal weather fits the December schedule, presenting typical chill for the region as winter settles in. As this Saturday progresses, locals could enjoy brisk walks in the park, leisurely coffee outings, or simply relish the tranquil beauty of a sunny winter day by the lake.",
+    "color_code": "#A7C7DB",
+    "timestamp": "2024-12-01 11:04:58"
 }
