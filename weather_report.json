@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-02T16:08:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 74.57090359541,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 280,
-            "description": "Cloudy"
+            "timestamp": "2024-12-02T17:51:00+00:00",
+            "temperature_f": 24.08,
+            "temperature_c": -4.4,
+            "humidity": 68.103793287624,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 310,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-02T12:00:00-06:00",
+                "startTime": "2024-12-02T13:00:00-06:00",
                 "endTime": "2024-12-02T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Partly sunny. High near 30, with temperatures falling to around 26 in the afternoon. Northwest wind around 15 mph."
+                "detailedForecast": "A chance of snow showers. Partly sunny. High near 30, with temperatures falling to around 26 in the afternoon. Northwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 22. Northwest wind 10 to 15 mph."
+                "detailedForecast": "Mostly clear, with a low around 22. Northwest wind around 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the midday scene is characterized by cool temperatures lingering in the low 20s, coupled with a breezy wind from the northwest that adds a decidedly brisk edge to the atmosphere. The sky is overcast, casting a muted light over the beach, where the gentle lapping of Lake Michigan's waves creates a soothing backdrop. While you may catch a glimpse of sun later, the temperature is set to rise slightly, maxing out around the upper 20s this afternoon before retreating back down at night. \n\nConditions are not particularly inviting for outdoor enjoyment; however, the crisp air is invigorating for a brisk walk along the waterfront or perhaps a quick beach clean-up with a few friends. Moderate wind may warrant a light jacket, especially alongside thicker layers to ensure warmth. The lack of precipitation is a silver lining, providing an opportunity to embrace the outdoors, albeit briefly. For those relishing the season, it feels like a typical chilly December day in the Midwest, with holiday cheer just around the corner.",
-    "color_code": "#A9B3BB",
-    "timestamp": "2024-12-02 12:07:02"
+    "weather_report": "In Evanston, the current chill gives the air a crisp and cool feeling, with temperatures lingering in the mid-20s and a gusty northwest wind that adds a bite to the day. The clouds overhead paint a rather gray canvas, with mostly cloudy skies prevailing, hinting at potential snow showers this afternoon. The temperature will creep closer to the high 20s but is likely to drop a bit as the day progresses. Tonight promises clearer skies with temperatures settling into the low 20s, maintaining that brisk atmosphere.\n\nThe beach appears quiet, offering gentle but noticeable wave action, perfect for a reflective stroll rather than swimming. While no precipitation is currently affecting the area, the forecast suggests a chance of snow later, making it a wise choice to dress warmly in layers. A warm coat, hat, and gloves will be essential on this winter afternoon. As we embrace early December, these conditions are typical for the season in this part of the Midwest, beckoning one to sip hot cocoa while admiring the lakefront. With a potential holiday spirit in the air as the season unfolds, enjoy an afternoon walk along the shoreline or curl up with a good book indoors.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-02 13:04:54"
 }
