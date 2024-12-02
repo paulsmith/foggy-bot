@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-02T19:51:00+00:00",
+            "timestamp": "2024-12-02T20:51:00+00:00",
             "temperature_f": 24.08,
             "temperature_c": -4.4,
-            "humidity": 64.963705220538,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 280,
+            "humidity": 61.953298718645,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 320,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-02T15:00:00-06:00",
+                "startTime": "2024-12-02T16:00:00-06:00",
                 "endTime": "2024-12-02T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "NW",
+                "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
                 "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers before 5pm. Partly sunny. High near 27, with temperatures falling to around 24 in the afternoon. Northwest wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "A slight chance of snow showers before 5pm. Partly sunny. High near 27, with temperatures falling to around 24 in the afternoon. West northwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly scene by Lake Michigan, where the air is brisk and slightly moody with temperatures hovering in the mid-20s, complemented by a stillness in the atmosphere. The sky is mostly cloudy, allowing for occasional glimpses of sunlight, though a light haze blankets the view. As the day progresses, there's a slight chance for snow showers this afternoon before 5 PM, with temperatures expected to peak around the upper 20s. Tonight, the forecast calls for a cool evening settling into the upper teens, with a continued northwest breeze providing a sharp bite to the air.\n\nThe waves along the shore are likely mild, given the wind is relatively calm, promoting a serene, reflective atmosphere rather than tumultuous seas. Despite the brisk chill, which would likely feel uncomfortable without layers, suitable attire would include a warm coat, perhaps a knitted scarf, and sturdy boots, ideal for a walk along the beach. This time of year, temperatures are characteristic of a Chicago winter, signaling that residents should ready themselves for the colder months ahead. While indoor activities may take precedence, a brief walk along the shoreline could offer a refreshing escape, so long as one is mindful of the potential flurries later in the day.",
-    "color_code": "#A0B4C4",
-    "timestamp": "2024-12-02 15:05:08"
+    "weather_report": "Current conditions in Evanston reveal a briskly chilly atmosphere, with the temperature hovering in the low 20s and a noticeable bluster from the northwest. The skies are mostly cloudy, though there\u2019s a promise of partial sunshine later in the day. Residents can expect a slight chance of snow flurries before 5 PM, adding a quiet touch to the evening. The lake is likely displaying gentle waves, perfect for a calming sight but not inviting for a splash. \n\nAs we move into the evening, the temperature is predicted to dip into the upper teens, necessitating warm layers for anyone desiring a stroll along the shore. Given the typical seasonal chill of early December in the Midwest, this weather is well within expected ranges. For those searching for activities, a cozy evening indoors with festive preparations is preferable, rather than outdoor excursions. With no major holidays approaching in the immediate timeframe, it remains a simple December day along Lake Michigan, wrapped in serene beauty.",
+    "color_code": "#A1A1A1",
+    "timestamp": "2024-12-02 16:05:11"
 }
