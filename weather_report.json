@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-02T10:51:00+00:00",
+            "timestamp": "2024-12-02T11:51:00+00:00",
             "temperature_f": 14.0,
             "temperature_c": -10,
-            "humidity": 79.968355478689,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "humidity": 83.930474591449,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 250,
             "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-02T06:00:00-06:00",
+                "startTime": "2024-12-02T07:00:00-06:00",
                 "endTime": "2024-12-02T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 15 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
                 "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers. Mostly cloudy. High near 30, with temperatures falling to around 27 in the afternoon. West northwest wind 5 to 15 mph."
+                "detailedForecast": "A slight chance of snow showers. Partly sunny. High near 30, with temperatures falling to around 27 in the afternoon. West northwest wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather paints a cold but calm picture with temperatures lingering in the low teens, bundled under a comforting layer of cloud cover. With the wind whispering barely a gust, it feels slightly chillier, making for a brisk morning perfect for those bundled up in warm winter attire. As the day unfolds, a slight chance of snow showers could dust the area, but the skies remain mostly cloudy. The forecast suggests a high near the upper 20s, gradually falling in the afternoon, accompanied by a gentle northwest breeze stoking the chill.\n\nDespite the subdued temperatures typical for early December, there\u2019s an inviting stillness to the beach scene, though its muted hues may not scream \"vacation.\" The lake's surface is likely calm, lending itself to reflective moments rather than an energetic splash. It's a good day for a warm winter coat, perhaps accessorized with a scarf and gloves, as outdoor activities might best be limited to a brisk walk or a peaceful outing with a hot drink in hand. With the holidays approaching, this day isn't marked by festivities, allowing for a quiet reprieve before the seasonal celebrations kick in.",
-    "color_code": "#505050",
-    "timestamp": "2024-12-02 06:09:08"
+    "weather_report": "As dawn breaks over Evanston, the temperature hovers in the low teens, bringing a crisp chill to the air. With a gentle breeze from the northwest, the conditions feel biting yet brisk, making it essential to bundle up for any outdoor endeavors. The sky, currently partly cloudy, offers fleeting glimpses of sunlight, though a slight chance of snow showers looms on the horizon. Waves lap gently against the shore of Lake Michigan, creating a serene, if cool, atmosphere.\n\nLooking ahead, the day promises partly sunny skies, with highs nearing the upper 20s, and a comfortable decline in temperatures by afternoon. Tonight, the sky is expected to clear, dropping to a low in the low 20s, complemented by continued breezy conditions. Given the current season and region, these temperatures are typical for early December, ideal for enjoying festive activities or cozying up with a warm drink. Dress warmly with layers, perhaps incorporating a scarf and gloves, and consider engaging in a brisk walk along the beach or visiting a local caf\u00e9 to savor the season's heartwarming flavors.",
+    "color_code": "#A9B6B0",
+    "timestamp": "2024-12-02 07:12:32"
 }
