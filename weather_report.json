@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-02T01:51:00+00:00",
-            "temperature_f": 21.02,
-            "temperature_c": -6.1,
-            "humidity": 62.018638304668,
+            "timestamp": "2024-12-02T02:51:00+00:00",
+            "temperature_f": 19.04,
+            "temperature_c": -7.2,
+            "humidity": 67.475023343641,
             "wind_speed_mph": 20.93832,
-            "wind_direction": 310,
+            "wind_direction": 340,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-01T20:00:00-06:00",
+                "startTime": "2024-12-01T22:00:00-06:00",
                 "endTime": "2024-12-02T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 19,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 19. West northwest wind around 10 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 19. West northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
                 "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers. Partly sunny, with a high near 30. West northwest wind 10 to 15 mph."
+                "detailedForecast": "A slight chance of snow showers. Mostly cloudy, with a high near 30. West northwest wind 10 to 15 mph."
             }
         ]
     },
-    "weather_report": "Evanston\u2019s current weather presents a crisp, chilly evening with temperatures resting in the low 20s and a gentle breeze stirring from the northwest. The clear skies offer an expansive view of the darkening Lake Michigan, while the atmosphere remains pleasantly cool, ideal for a brisk evening stroll along the beach. As the night wears on, the temperature is expected to drop slightly, settling around 19 degrees, accompanied by more subdued winds that may gust occasionally.\n\nLooking ahead, tomorrow's forecast suggests the possibility of light snow showers amidst partly sunny skies with a high reaching into the upper 20s. Wave conditions will likely be calm, making it a standard late fall day around the lakeshore. Given the chill, cozy layers are advised\u2014perhaps a warm coat, scarf, and gloves if venturing outside. While today might not coincide with a major holiday, the season itself reflects the festive spirit approaching the winter season, making it an opportune time for indoor gatherings or holiday preparations. Overall, the conditions invite a tranquil evening under the stars, with tomorrow promising a taste of winter\u2019s playful embrace.",
-    "color_code": "#1E1E1E",
-    "timestamp": "2024-12-01 21:20:21"
+    "weather_report": "Current conditions in Evanston reflect a crisp and cool evening, with a temperature hovering in the low 20s. The air carries a gentle breeze from the west-northwest, adding a fresh bite typical of early December. Tonight\u2019s skies are mostly cloudy, and with temperatures expected to drop near 19, it's a night best enjoyed wrapped in a warm coat, perhaps layered beneath a sweater, complemented by a cozy scarf and gloves to fend off the chill.\n\nLooking ahead to tomorrow, there\u2019s a slight chance of snow showers, so if venturing outdoors, it\u2019s wise to dress for the possibility of flurries. Temperatures will rise to the upper 20s, but the light winds will continue to lend a brisk feel to the day. The lake is likely to have some gentle waves as the winds stir the waters of Lake Michigan, perfect for a quiet stroll along the shore, although one should prepare for the uncertainty of any icy patches that might linger. As we remain deep in winter, these conditions are typical for this time of year, making for a scene that captures the essence of a Midwestern December evening.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2024-12-01 22:06:48"
 }
