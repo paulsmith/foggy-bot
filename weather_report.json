@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-02T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-02T12:00:00-06:00",
                 "endTime": "2024-12-02T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Partly sunny. High near 30, with temperatures falling to around 26 in the afternoon. Northwest wind 10 to 15 mph."
+                "detailedForecast": "A chance of snow showers. Partly sunny. High near 30, with temperatures falling to around 26 in the afternoon. Northwest wind around 15 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a brisk, overcast day with temperatures hovering in the low 20s, accompanied by a chilly breeze sweeping in from the northwest at a rather energetic pace. The air carries a distinct bite, and the clouds above cast a dreary shadow on the landscape, though hints of sun may peek through as the day progresses. A chance of snow showers looms, especially as temperatures are expected to reach near the high 20s before dipping again in the afternoon. For the evening, skies will clear somewhat, leading to a low that remains just above the freezing mark.\n\nThe beach, while appealing in its tranquil demeanor, may present some challenges for outdoor activities today. The waves are gentle, a soothing presence against the shore, but the cool temperatures and potential for passing flurries might deter casual beachgoers. Layering is recommended; consider a warm coat, perhaps a scarf and gloves, to stay comfortable against the brisk air. Overall, one might deem today pleasant for those who appreciate the quiet beauty of winter, while others may find it uninviting. As for outdoor activities, a brisk walk along the waterfront could be invigorating, but be prepared for quickly changing conditions. Notably, today is not marked by any significant holiday, maintaining a routine atmosphere in the community.",
-    "color_code": "#A9B1B3",
-    "timestamp": "2024-12-02 11:05:07"
+    "weather_report": "In Evanston, the midday scene is characterized by cool temperatures lingering in the low 20s, coupled with a breezy wind from the northwest that adds a decidedly brisk edge to the atmosphere. The sky is overcast, casting a muted light over the beach, where the gentle lapping of Lake Michigan's waves creates a soothing backdrop. While you may catch a glimpse of sun later, the temperature is set to rise slightly, maxing out around the upper 20s this afternoon before retreating back down at night. \n\nConditions are not particularly inviting for outdoor enjoyment; however, the crisp air is invigorating for a brisk walk along the waterfront or perhaps a quick beach clean-up with a few friends. Moderate wind may warrant a light jacket, especially alongside thicker layers to ensure warmth. The lack of precipitation is a silver lining, providing an opportunity to embrace the outdoors, albeit briefly. For those relishing the season, it feels like a typical chilly December day in the Midwest, with holiday cheer just around the corner.",
+    "color_code": "#A9B3BB",
+    "timestamp": "2024-12-02 12:07:02"
 }
