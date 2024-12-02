@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-02T05:51:00+00:00",
+            "timestamp": "2024-12-02T06:51:00+00:00",
             "temperature_f": 15.979999999999997,
             "temperature_c": -8.9,
             "humidity": 73.352369508984,
-            "wind_speed_mph": 20.93832,
+            "wind_speed_mph": 16.91172,
             "wind_direction": 300,
-            "description": "Mostly Clear"
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-02T01:00:00-06:00",
+                "startTime": "2024-12-02T02:00:00-06:00",
                 "endTime": "2024-12-02T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 19,
+                "temperature": 18,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 19. West northwest wind 5 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 18. West northwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
                 "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers. Mostly cloudy, with a high near 30. West northwest wind 5 to 15 mph."
+                "detailedForecast": "A slight chance of snow showers. Mostly cloudy. High near 30, with temperatures falling to around 27 in the afternoon. West northwest wind 5 to 15 mph."
             }
         ]
     },
-    "weather_report": "Tonight in Evanston, the temperature settles into the low 20s, complemented by a light northwesterly breeze. The skies are mostly clear, casting a serene view over Lake Michigan, albeit with a chill that reminds us of winter\u2019s arrival. As we look toward tomorrow, a shift is anticipated. Monday may greet residents with mostly cloudy skies, a touch of snow shower potential, and temperatures reaching into the high 20s. While the day may start with a slight murkiness, expect a typical late autumn atmosphere with a windswept crispness in the air.\n\nOverall, the scene captures the essence of winter in Evanston: bracing and brisk, ideal for those donned in cozy layers\u2014definitely a day for hats and scarves. With minimal wave activity on the lake under the peaceful conditions of tonight, it's a good night for a quiet stroll along the shore, although daytime activities may lead one toward indoor pursuits as the forecast hints at the possibility of flurries. As the holiday season approaches, keep an eye on those upcoming festivities, as the chill in the air suggests winter celebrations are just around the corner.",
-    "color_code": "#2B2BDA",
-    "timestamp": "2024-12-02 01:06:07"
+    "weather_report": "Current conditions in Evanston reveal a chilly night, with temperatures hovering in the mid teens, enveloped in a blanket of cloud cover. A gentle yet brisk wind from the northwest adds a stark bite to the air, making it feel even cooler as dusk deepens. The beach scene is somber\u2014still and quiet, present only to the long streets and the waters of Lake Michigan, reflecting eerily against the night sky. As we look ahead to tomorrow, a slight chance of snow showers threatens what promises to be a mostly cloudy day. With highs reaching the upper 20s, the temperatures will drop slightly in the afternoon. Those venturing out will find it advisable to dress in warm layers to stave off the chill, especially considering the gusty winds that may emanate from the west.\n\nThe weather during this late fall season is typical for the area, with temperatures leaning towards the colder end of the spectrum. As the weekend unfolds, festive spirits will soon be summoned with the arrival of the holidays, though today does not stand out for any particular celebration. For outdoor enthusiasts, this might not be ideal for extended fun by the lake, but cozying up in a local caf\u00e9 with a warm beverage or enjoying a quick stroll around may suffice for those wishing to savor the atmosphere.",
+    "color_code": null,
+    "timestamp": "2024-12-02 02:07:43"
 }
