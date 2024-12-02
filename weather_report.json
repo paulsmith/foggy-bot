@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-02T13:51:00+00:00",
-            "temperature_f": 19.04,
-            "temperature_c": -7.2,
-            "humidity": 80.3939494827,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 260,
+            "timestamp": "2024-12-02T14:51:00+00:00",
+            "temperature_f": 21.02,
+            "temperature_c": -6.1,
+            "humidity": 73.892872173734,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 290,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-02T09:00:00-06:00",
+                "startTime": "2024-12-02T10:00:00-06:00",
                 "endTime": "2024-12-02T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "WNW",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
-                "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers. Partly sunny. High near 30, with temperatures falling to around 27 in the afternoon. West northwest wind 10 to 15 mph."
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 30, with temperatures falling to around 26 in the afternoon. Northwest wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the air is brisk and biting, typical for this time of year. Current conditions include a temperature in the low 20s with a steady, gentle breeze from the northwest. The cloud cover hangs thick, giving the day a muted, grayish hue. Despite the chill, the forecast for today suggests a slight chance of snow flurries, making the air feel even more invigorating. As temperatures rise toward the upper 20s this afternoon, expect partly sunny breaks to offer fleeting warmth amid the coolness.\n\nThe waters of Lake Michigan are likely calm, providing a serene backdrop, though wave activity may pick up slightly with the gentle winds. As for attire, residents are advised to bundle up in layers and don warm accessories to ward off the cold. Given that December is fully upon us, today's temperatures align closely with seasonal expectations. Such chilly days are ideal for cozy indoor gatherings or perhaps a brisk walk along the lakefront to savor the crisp air and winter scenery.",
-    "color_code": "#A8CBA0",
-    "timestamp": "2024-12-02 09:06:36"
+    "weather_report": "Current conditions in Evanston present a chilly scene with temperatures lingering in the low 20s, accompanied by a persistent overcast sky. A brisk northwest wind adds to the winter bite, creating a raw atmosphere that feels more frigid than the thermometer indicates. Residents may notice some minor wave activity along Lake Michigan, but no significant precipitation is expected to disturb the day. The forecast predicts a chance of snow showers, yet this seems more of a fleeting possibility rather than a certainty, leaving primarily cloudy skies to dominate the landscape.\n\nAs temperatures reach a high in the upper 20s today, the overall ambiance is one of chilly stillness, typical for early December in this region. With such brisk temperatures, warm clothing is a must; attire should include layers, a heavy coat, gloves, and a hat to ward off the cold. This is a day best suited for cozy indoor activities\u2014perhaps visiting a local caf\u00e9 or enjoying some festive shopping, as the holiday season nears and community spirit thrives. As we embrace the season, remember the warmth of community gatherings while staying snug against the winter's embrace.",
+    "color_code": "#A0C4E0",
+    "timestamp": "2024-12-02 10:06:15"
 }
