@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-02T20:51:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 61.953298718645,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2024-12-02T21:51:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 64.820717512787,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 320,
             "description": "Mostly Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-02T16:00:00-06:00",
+                "startTime": "2024-12-02T17:00:00-06:00",
                 "endTime": "2024-12-02T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
-                "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers before 5pm. Partly sunny. High near 27, with temperatures falling to around 24 in the afternoon. West northwest wind around 10 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 27, with temperatures falling to around 24 in the afternoon. West northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a briskly chilly atmosphere, with the temperature hovering in the low 20s and a noticeable bluster from the northwest. The skies are mostly cloudy, though there\u2019s a promise of partial sunshine later in the day. Residents can expect a slight chance of snow flurries before 5 PM, adding a quiet touch to the evening. The lake is likely displaying gentle waves, perfect for a calming sight but not inviting for a splash. \n\nAs we move into the evening, the temperature is predicted to dip into the upper teens, necessitating warm layers for anyone desiring a stroll along the shore. Given the typical seasonal chill of early December in the Midwest, this weather is well within expected ranges. For those searching for activities, a cozy evening indoors with festive preparations is preferable, rather than outdoor excursions. With no major holidays approaching in the immediate timeframe, it remains a simple December day along Lake Michigan, wrapped in serene beauty.",
-    "color_code": "#A1A1A1",
-    "timestamp": "2024-12-02 16:05:11"
+    "weather_report": "The current weather in Evanston paints a scene of chilly temperatures and a brisk breeze, with the mercury hovering in the low 20s. The air carries a touch of moisture, creating a crisp environment punctuated by a robust wind, adding to that distinct winter feel. As the afternoon progresses, the skies are expected to partially clear, bringing a brief interlude of sunshine, though temperatures will slightly dip, settling around the 24-degree mark. Tonight, expect a drop further into the teens with scattered clouds overhead, while the winds remain a steady companion, gusting now and then.\n\nDespite the cool, somewhat dreary atmosphere, the beach environment boasts a certain rugged beauty, though the lake\u2019s surface reflects the muted tones of the sky without any precipitation on the horizon. The waves may be influenced by the gusty conditions, creating a bit of a churn, but no significant activity is anticipated. With winter fully upon us, it\u2019s wise to dress warmly in layers if venturing outdoors, perhaps donning a heavy coat and accessories to fend off the cold. Given the season\u2014early December\u2014these temperatures are typical for the region, reinforcing that unmistakable winter ambiance. Ideal activities might include a brisk walk along the lakefront to enjoy the fresh air or cozying up indoors with a warm drink, savoring the hearth\u2019s warmth as the season embraces us.",
+    "color_code": "#4B3C32",
+    "timestamp": "2024-12-02 17:06:27"
 }
