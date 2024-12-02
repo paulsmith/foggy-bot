@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-02T03:51:00+00:00",
+            "timestamp": "2024-12-02T04:51:00+00:00",
             "temperature_f": 17.06,
             "temperature_c": -8.3,
             "humidity": 70.001211999313,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 310,
-            "description": "Mostly Clear"
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 280,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-01T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-02T00:00:00-06:00",
                 "endTime": "2024-12-02T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 19,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 19. West northwest wind around 10 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 19. West northwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "5 to 15 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
                 "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers. Mostly cloudy, with a high near 30. West northwest wind 10 to 15 mph."
+                "detailedForecast": "A slight chance of snow showers. Mostly cloudy, with a high near 30. West northwest wind 5 to 15 mph."
             }
         ]
     },
-    "weather_report": "As we find ourselves in the heart of a chilly December night in Evanston, the air is notably crisp with the temperature lingering in the low 20s, accompanied by a comforting cloak of moisture that softens the bite of the cold. A gentle breeze whispers from the west-northwest, making this evening feel a touch more brisk as the sky maintains a mostly clear demeanor, offering glimpses of celestial light. \n\nLooking ahead, we anticipate a transition into mostly cloudy skies overnight with temperatures dipping slightly; projected to settle near 19 degrees. Tomorrow's forecast holds a hint of possible snow showers, adding a whimsical note to what will otherwise be a predominantly overcast day, with highs approaching the upper 20s. While the beaches along Lake Michigan will not see much in the way of wave action, the tranquil surface could serve as a serene sight as winter settles in. Given the temperature and expected conditions, it's advisable to dress warmly with layers, including scarves and gloves, to enjoy any brief outdoor excursions. Though today isn't a holiday celebration, the seasonal chill certainly sets a festive tone leading into the upcoming week.",
-    "color_code": "#A7A1A0",
-    "timestamp": "2024-12-01 23:06:01"
+    "weather_report": "As the clock strikes midnight in Evanston, temperatures dip into the low 20s, enveloping the area in a crisp chill. The current conditions reveal a stillness in the air, punctuated by a gentle breeze drifting from the west-northwest. Tonight's sky is mostly cloudy, though any chance of snow appears minimal, allowing for breaks in the clouds amid the evening haze. Looking ahead, the day promises a high in the upper 20s, with overcast skies prevailing and a slight chance of snow showers adding an element of unpredictability. \n\nThe beach reflects this winter atmosphere, characterized by the tranquil sound of gentle waves lapping against the shore\u2014a reminder that the lake remains a constant, even in the chill of December. With the season firmly in its grip, temperatures are typical for this time of year, suggesting that residents should bundle up with winter attire\u2014heavy coats, scarves, and gloves to ward off the biting cold. While outdoor activities may be limited, a contemplative walk along the beach could offer a serene escape or a chance to witness the shifting nature of the lake in winter. Though there's no major holiday on the horizon, the festive spirit of the season adds a unique charm to this time of year.",
+    "color_code": "#2A2A2A",
+    "timestamp": "2024-12-02 00:07:47"
 }
