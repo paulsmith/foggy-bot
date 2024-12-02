@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-02T14:51:00+00:00",
-            "temperature_f": 21.02,
-            "temperature_c": -6.1,
-            "humidity": 73.892872173734,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 290,
+            "timestamp": "2024-12-02T16:08:00+00:00",
+            "temperature_f": 21.92,
+            "temperature_c": -5.6,
+            "humidity": 74.57090359541,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 280,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-02T10:00:00-06:00",
+                "startTime": "2024-12-02T11:00:00-06:00",
                 "endTime": "2024-12-02T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -33,7 +33,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 30, with temperatures falling to around 26 in the afternoon. Northwest wind 10 to 15 mph."
+                "detailedForecast": "A chance of snow showers. Partly sunny. High near 30, with temperatures falling to around 26 in the afternoon. Northwest wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly scene with temperatures lingering in the low 20s, accompanied by a persistent overcast sky. A brisk northwest wind adds to the winter bite, creating a raw atmosphere that feels more frigid than the thermometer indicates. Residents may notice some minor wave activity along Lake Michigan, but no significant precipitation is expected to disturb the day. The forecast predicts a chance of snow showers, yet this seems more of a fleeting possibility rather than a certainty, leaving primarily cloudy skies to dominate the landscape.\n\nAs temperatures reach a high in the upper 20s today, the overall ambiance is one of chilly stillness, typical for early December in this region. With such brisk temperatures, warm clothing is a must; attire should include layers, a heavy coat, gloves, and a hat to ward off the cold. This is a day best suited for cozy indoor activities\u2014perhaps visiting a local caf\u00e9 or enjoying some festive shopping, as the holiday season nears and community spirit thrives. As we embrace the season, remember the warmth of community gatherings while staying snug against the winter's embrace.",
-    "color_code": "#A0C4E0",
-    "timestamp": "2024-12-02 10:06:15"
+    "weather_report": "Current conditions in Evanston reflect a brisk, overcast day with temperatures hovering in the low 20s, accompanied by a chilly breeze sweeping in from the northwest at a rather energetic pace. The air carries a distinct bite, and the clouds above cast a dreary shadow on the landscape, though hints of sun may peek through as the day progresses. A chance of snow showers looms, especially as temperatures are expected to reach near the high 20s before dipping again in the afternoon. For the evening, skies will clear somewhat, leading to a low that remains just above the freezing mark.\n\nThe beach, while appealing in its tranquil demeanor, may present some challenges for outdoor activities today. The waves are gentle, a soothing presence against the shore, but the cool temperatures and potential for passing flurries might deter casual beachgoers. Layering is recommended; consider a warm coat, perhaps a scarf and gloves, to stay comfortable against the brisk air. Overall, one might deem today pleasant for those who appreciate the quiet beauty of winter, while others may find it uninviting. As for outdoor activities, a brisk walk along the waterfront could be invigorating, but be prepared for quickly changing conditions. Notably, today is not marked by any significant holiday, maintaining a routine atmosphere in the community.",
+    "color_code": "#A9B1B3",
+    "timestamp": "2024-12-02 11:05:07"
 }
