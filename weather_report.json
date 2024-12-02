@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-02T11:51:00+00:00",
-            "temperature_f": 14.0,
-            "temperature_c": -10,
-            "humidity": 83.930474591449,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 250,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-12-02T12:51:00+00:00",
+            "temperature_f": 15.079999999999998,
+            "temperature_c": -9.4,
+            "humidity": 80.060659578115,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 260,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the temperature hovers in the low teens, bringing a crisp chill to the air. With a gentle breeze from the northwest, the conditions feel biting yet brisk, making it essential to bundle up for any outdoor endeavors. The sky, currently partly cloudy, offers fleeting glimpses of sunlight, though a slight chance of snow showers looms on the horizon. Waves lap gently against the shore of Lake Michigan, creating a serene, if cool, atmosphere.\n\nLooking ahead, the day promises partly sunny skies, with highs nearing the upper 20s, and a comfortable decline in temperatures by afternoon. Tonight, the sky is expected to clear, dropping to a low in the low 20s, complemented by continued breezy conditions. Given the current season and region, these temperatures are typical for early December, ideal for enjoying festive activities or cozying up with a warm drink. Dress warmly with layers, perhaps incorporating a scarf and gloves, and consider engaging in a brisk walk along the beach or visiting a local caf\u00e9 to savor the season's heartwarming flavors.",
-    "color_code": "#A9B6B0",
-    "timestamp": "2024-12-02 07:12:32"
+    "weather_report": "Current conditions in Evanston, Illinois reveal a brisk, chilly morning with temperatures in the mid-teens, accompanied by a substantial degree of cloud cover that lends a muted quality to the day. The wind is blowing in from the west-northwest at a vigorous pace, creating a biting chill that cuts through the air. As we look ahead, today offers the possibility of a few fleeting snow showers, but overall, the sun may peek through the clouds as temperatures attempt to rise towards the high 20s. Tonight, the skies are expected to clear, with a low dipping into the low 20s, maintaining the cool, crisp atmosphere that is characteristic of this season.\n\nWhile the beach at this time of year may not beckon sunbathers, the gentle waves lapping at the shore present a serene winter coastal scene, albeit with cooler water temperatures making swimming uninviting. Considering the weather and the current chill, it's advisable to dress warmly\u2014layers of clothing, a good winter coat, and perhaps a hat to shield against the wind are recommended. This weather is typical for early December, reflecting the transitional phase into winter in the Midwest. Suggested activities include a brisk walk along the shoreline to enjoy the wintry beauty or a quiet moment by the water observing nature's quietude. There are no major holidays or events today, but the spirits of the season are surely beginning to stir as the days inch closer to the festive season.",
+    "color_code": "#A9C0C4",
+    "timestamp": "2024-12-02 08:05:20"
 }
