@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-02T09:51:00+00:00",
+            "timestamp": "2024-12-02T10:51:00+00:00",
             "temperature_f": 14.0,
             "temperature_c": -10,
             "humidity": 79.968355478689,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 240,
-            "description": "Mostly Clear"
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-02T04:00:00-06:00",
-                "endTime": "2024-12-02T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 18,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 18. West northwest wind 5 to 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2024-12-02T06:00:00-06:00",
                 "endTime": "2024-12-02T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
                 "shortForecast": "Slight Chance Snow Showers",
                 "detailedForecast": "A slight chance of snow showers. Mostly cloudy. High near 30, with temperatures falling to around 27 in the afternoon. West northwest wind 5 to 15 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-02T18:00:00-06:00",
+                "endTime": "2024-12-03T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 22,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 22. Northwest wind 10 to 15 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a crisp and cool atmosphere, with temperatures hovering in the low 20s and a gentle breeze whispering from the west-northwest. The skies are mostly clear, offering a tranquil view of Lake Michigan, though clouds will gradually make their way in overnight as a low of around 18 is expected. Tomorrow, prepare for a shift in conditions with a slight chance of snow showers, as an approaching system brings mostly cloudy skies. The anticipated high will reach near 30, cooling to around 27 in the afternoon, accompanied by a gentle to moderate wind.\n\nWhile the beach may radiate a stark beauty tonight, the presence of chilly air and the potential for snow tomorrow casts a somber tone, perhaps revealing an invitation to stay indoors with a warm beverage. The lake is calm, which may appeal to those looking for a serene walk along the shore, though it might feel decidedly brisk. It's advisable to dress warmly in layers to combat the seasonal chill, considering the typical winter weather for this time of year in the Midwest. While there aren't any significant holiday markers today, the seasonal atmosphere may prompt a cozy evening indoors, preparing for a busy holiday season ahead.",
-    "color_code": "#0A0A0A",
-    "timestamp": "2024-12-02 05:04:58"
+    "weather_report": "In Evanston, the current weather paints a cold but calm picture with temperatures lingering in the low teens, bundled under a comforting layer of cloud cover. With the wind whispering barely a gust, it feels slightly chillier, making for a brisk morning perfect for those bundled up in warm winter attire. As the day unfolds, a slight chance of snow showers could dust the area, but the skies remain mostly cloudy. The forecast suggests a high near the upper 20s, gradually falling in the afternoon, accompanied by a gentle northwest breeze stoking the chill.\n\nDespite the subdued temperatures typical for early December, there\u2019s an inviting stillness to the beach scene, though its muted hues may not scream \"vacation.\" The lake's surface is likely calm, lending itself to reflective moments rather than an energetic splash. It's a good day for a warm winter coat, perhaps accessorized with a scarf and gloves, as outdoor activities might best be limited to a brisk walk or a peaceful outing with a hot drink in hand. With the holidays approaching, this day isn't marked by festivities, allowing for a quiet reprieve before the seasonal celebrations kick in.",
+    "color_code": "#505050",
+    "timestamp": "2024-12-02 06:09:08"
 }
