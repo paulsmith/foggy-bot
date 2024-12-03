@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T07:51:00+00:00",
-            "temperature_f": 19.939999999999998,
-            "temperature_c": -6.7,
-            "humidity": 77.36335219786,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 270,
+            "timestamp": "2024-12-03T08:51:00+00:00",
+            "temperature_f": 19.04,
+            "temperature_c": -7.2,
+            "humidity": 80.3939494827,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 260,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-03T03:00:00-06:00",
+                "startTime": "2024-12-03T04:00:00-06:00",
                 "endTime": "2024-12-03T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 18,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 18. West northwest wind around 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 18. West northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn approaches in Evanston, the current temperature hovers in the low 20s, accompanied by a brisk, blustery wind from the west. The air feels quite chilly, with a mix of moisture that underscores the winter chill. Skies are mostly clear now, but a shift toward mostly cloudy conditions is expected overnight, bringing a low around 18 degrees. Tomorrow promises a slight warming trend as we anticipate partly sunny skies, with temperatures peaking in the low 30s before falling again in the afternoon.\n\nToday, the atmosphere may appear a bit dreary as cloud cover increases. The lake will likely present moderate wave conditions, perfect for observing the seasonal turmoil of Lake Michigan. There\u2019s no precipitation anticipated, allowing for a dry day, albeit quite chilly. For those venturing outside, layered clothing is advisable to fend off the cold and wind. A winter coat, gloves, and perhaps a warm hat will make for a more comfortable outing. Given the season, these temperatures are typical for early December in the Midwest, where winter has firmly established its grip. Suggested activities might include a brisk walk along the beach or enjoying the serene beauty of the lakefront, taking in the quietude that only a winter morning can provide.",
-    "color_code": "#142C3D",
-    "timestamp": "2024-12-03 03:05:54"
+    "weather_report": "In Evanston, the early morning atmosphere is decidedly crisp and cool, with temperatures lingering in the low 20s, accompanied by a gentle, west-northwest wind that adds a chill to the air. The beach, a stark expanse under a mostly clear sky, suggests a tranquil yet invigorating setting, perfect for early risers. As we transition into the day, expect partly sunny conditions with a high reaching into the low 30s. The winds will pick up slightly, delivering brief gusts, but overall, it should be a pleasant winter day\u2014a refreshing embrace of nature as light dances on the shimmering waters of Lake Michigan.\n\nWhile no significant precipitation is on the horizon, the absence of snow or rain only adds to the clarity of the day. For those contemplating outdoor activities, the conditions are ideal for a brisk walk along the shoreline or a playful romp at a nearby park. A warm layer or heavy jacket is recommended to fend off the morning chill, especially with that breezy demeanor in play. As the holiday season approaches, this Sunday is also a quiet day, devoid of major festivities yet perfect for some personal reflection before the upcoming celebrations.",
+    "color_code": "#b0c4de",
+    "timestamp": "2024-12-03 04:06:14"
 }
