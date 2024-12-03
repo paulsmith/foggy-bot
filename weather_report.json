@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T18:51:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 60.394650155608,
-            "wind_speed_mph": 45.903240000000004,
+            "timestamp": "2024-12-03T19:51:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 56.013892454347,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 230,
             "description": "Mostly Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-03T14:00:00-06:00",
+                "startTime": "2024-12-03T15:00:00-06:00",
                 "endTime": "2024-12-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 31, with temperatures falling to around 28 in the afternoon. Southwest wind around 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 31, with temperatures falling to around 27 in the afternoon. Southwest wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-03T18:00:00-06:00",
                 "endTime": "2024-12-04T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 26,
+                "temperature": 25,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 26, with temperatures rising to around 28 overnight. South southwest wind 15 to 20 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Mostly cloudy. Low around 25, with temperatures rising to around 27 overnight. South southwest wind 15 to 20 mph, with gusts as high as 35 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois present a brisk, wintry day, with temperatures hovering in the low 30s and a lively breeze stirring from the southwest. The air feels crisp and invigorating, with mostly cloudy skies casting a muted glow over the landscape. The wind is quite blustery today, making the chill just sharp enough to warrant some thoughtful layering.\n\nAs we look ahead to this afternoon, expect a brief moment of brightness as the clouds give way to mostly sunny skies, with temperatures peaking near the low 30s before gradually dipping to around 28. Tonight, the overcast will return, with a low temperature in the mid 20s and a steady, stronger wind developing in the evening, gusting up to 35 mph. Despite the chill, there is no precipitation in sight for today, allowing for clear enjoyment of the stunning Lake Michigan views.\n\nWith it being early December, these chilly conditions are quintessential for this time of year in the Midwest. Dress warmly in layers, including a hat and gloves, to stay comfortable if venturing outdoors. The beach may be too cold for swimming, but brisk walks along the shore could be invigorating. Birdwatchers might still catch glimpses of local wildlife, and for those who prefer indoor activities, cozy caf\u00e9 visits can round out the day perfectly.",
-    "color_code": "#C4D6E7",
-    "timestamp": "2024-12-03 14:06:20"
+    "weather_report": "Current conditions in Evanston, Illinois present a brisk and chilly afternoon, with temperatures hovering in the low 30s and a blustery wind sweeping from the southwest, making it feel even colder. The sky is mostly cloudy, offering only a hint of sunshine, which may struggle to break through the thick cloud cover. Looking ahead, the weather will remain mostly cloudy into the evening, with temperatures dipping to around 25 degrees and a strengthening breeze that could gust up to 35 mph. \n\nThe open waters of Lake Michigan display gentle waves, though the wind may give rise to a bit of chop along the shore. There is no significant precipitation in sight, allowing for a clearer view across the lake, though the chill in the air suggests layers will be essential. Considering the time of year, these temperatures feel fairly typical for early December in the Midwest. For those venturing outside, a warm coat, scarf, and gloves are advisable to combat the biting cold. Activities could include a brisk walk along the beach or a visit to a cozy local caf\u00e9, especially as we head into the holiday season.",
+    "color_code": "#A5B5D8",
+    "timestamp": "2024-12-03 15:05:07"
 }
