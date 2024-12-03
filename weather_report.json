@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T15:51:00+00:00",
-            "temperature_f": 26.060000000000002,
-            "temperature_c": -3.3,
-            "humidity": 71.049271208777,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 260,
+            "timestamp": "2024-12-03T16:51:00+00:00",
+            "temperature_f": 28.94,
+            "temperature_c": -1.7,
+            "humidity": 63.112421174214,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 250,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-03T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-03T12:00:00-06:00",
                 "endTime": "2024-12-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the atmosphere is brisk and clear with patches of blue sky cast against a chilly backdrop. Currently, temperatures hover in the mid-20s, making the air crisp, while a blustery southwest wind adds a bite to the day, gusting with a fierceness that reminds one of winter's presence. Although the sun manages to break through, casting a bright sheen on Lake Michigan, the overall landscape reflects a subdued palette typical of this season.\n\nLooking ahead, today will generally remain mostly sunny but expect temperatures to peak around the low 30s before dipping back down as the afternoon progresses. A shift to mostly cloudy conditions is expected tonight, with the mercury slipping towards the mid-20s, though a slight increase in warmth is anticipated as nighttime temperatures rise. Given the absence of precipitation in the forecast, conditions remain dry, with only the gentle rolling of waves breaking upon the shore\u2014a serene spectacle rather than a wavy one. In terms of attire, dressing in layers is advisable; a warm coat, hat, and gloves are recommended to combat the chill. As the season unfolds, these temperatures align closely with what one would expect for early December in northern Illinois, reinforcing the need for warm, comfortable indoor activities or brief sojourns outdoors to enjoy the winter's fresh air. With no holidays on the immediate horizon, the day offers a chance for a quiet walk along the beach or a peaceful moment at a local caf\u00e9, embracing the tranquil yet sharp beauty of winter along Lake Michigan.",
-    "color_code": "#A9C0D0",
-    "timestamp": "2024-12-03 11:05:25"
+    "weather_report": "In Evanston, the current weather reflects a crisp and cool December day, with temperatures in the upper 20s and a noticeable wind creating a blustery atmosphere. The sky is mostly clear, making for a charming backdrop against the blue waters of Lake Michigan. As we look ahead, the forecast indicates a high near 31 this afternoon, accompanied by a gentle southwesterly breeze that will ramp up in intensity as the day progresses, reaching gusts of up to 25 mph. This evening, expect more cloud cover with temperatures dipping to the mid-20s, accompanied by a continued brisk wind, contributing to a brisk, wintry environment.\n\nDespite the chilly air, the lake appears to have gentle wave conditions, suitable for a peaceful stroll along the shore rather than water-based activities. There's no precipitation in sight today, allowing for clear and unobstructed outdoor experiences. As we embrace the winter season, the temperatures are consistent with this time of year, making bundling up essential. Layered attire, including a warm coat, gloves, and perhaps a hat, is recommended to combat the cold. Given these conditions, a walk along the beach or a visit to the nearby parks could be a delightful way to enjoy the fresh air and scenic views, even if the day isn\u2019t marked by major festivities or celebrations.",
+    "color_code": "#A9C3D2",
+    "timestamp": "2024-12-03 12:06:52"
 }
