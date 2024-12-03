@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T01:51:00+00:00",
-            "temperature_f": 21.02,
-            "temperature_c": -6.1,
-            "humidity": 73.892872173734,
+            "timestamp": "2024-12-03T02:51:00+00:00",
+            "temperature_f": 19.939999999999998,
+            "temperature_c": -6.7,
+            "humidity": 77.36335219786,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 270,
+            "wind_direction": 260,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-02T20:00:00-06:00",
+                "startTime": "2024-12-02T22:00:00-06:00",
                 "endTime": "2024-12-03T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 19,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "NW",
+                "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 19. Northwest wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly cloudy, with a low around 19. West northwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Tonight in Evanston, we're experiencing a chilly scene with temperatures dipping into the low 20s. The air carries a brisk touch from the west as gusty winds sweep through, creating a refreshing atmosphere that feels quite invigorating\u2014as if the lake breeze has decided to join the evening chill. With clear skies and a mostly bright outlook, it\u2019s an ideal time for a cozy gathering indoors, perhaps with warm drinks, as the gentle dancing of streetlights reflecting on the water hints at a serene winter ambiance.\n\nLooking ahead to Tuesday, the sun is expected to rise over the horizon, offering a promise of a bright, mostly sunny day. While temperatures will reach into the low 30s, a slight cooling in the afternoon may make it feel a bit brisk again. As the wind eases slightly, the day presents a chance for those eager to enjoy the outdoors to take a leisurely stroll along the shoreline, as the scenery is bound to be picturesque and invigorating. Given the season, these temperatures reflect typical winter conditions\u2014cold but bearable\u2014and the only precipitation is likely to remain absent, which allows for outdoor activities without the worry of getting damp. Expect a pleasant day for those who dress warmly and embrace the crispness that winter in Evanston has to offer.",
-    "color_code": "#5B5D8D",
-    "timestamp": "2024-12-02 21:20:23"
+    "weather_report": "As night settles over Evanston, the temperature is hovering in the low 20s, making for a brisk, invigorating atmosphere. With a gentle breeze flowing from the west-northwest at about 10 mph, occasional gusts stir the air, creating a slight chill that reminds us of the season. The night\u2019s sky remains mostly clear, allowing for a peaceful and tranquil view, with minimal cloud cover enhancing the visibility of the stars. Wave conditions on Lake Michigan may be moderate, hinting at some movement in the water, though no precipitation is expected this evening.\n\nLooking ahead to tomorrow, residents can anticipate mostly sunny conditions with daytime highs reaching into the mid-30s. While the temperatures will dip to around 30 degrees in the afternoon, the light winds and bright sky should make for a pleasant winter day. This weather is typical for early December in the Midwest\u2014cold yet bearable, perfect for winter activities. For those venturing outside, it would be wise to bundle up in warm layers, perhaps donning a cozy coat, hat, and gloves, to fully enjoy the brisk air. Given the seasonal chill, a stroll along the shoreline or a casual visit to local shops would be delightful choices for the day, allowing for enjoyment of both the beautiful winter landscape and the community spirit typical of this time of year.",
+    "color_code": "#1E2A78",
+    "timestamp": "2024-12-02 22:06:42"
 }
