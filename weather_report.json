@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T03:51:00+00:00",
-            "temperature_f": 19.939999999999998,
-            "temperature_c": -6.7,
-            "humidity": 77.36335219786,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 260,
+            "timestamp": "2024-12-03T04:51:00+00:00",
+            "temperature_f": 21.02,
+            "temperature_c": -6.1,
+            "humidity": 73.892872173734,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 280,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-02T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-03T00:00:00-06:00",
                 "endTime": "2024-12-03T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 19,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, conditions are rather brisk this evening, with a temperature sitting in the upper teens, punctuated by a noticeable chill carried on a brisk breeze from the west. The atmosphere is mostly clear, contributing to a crisp feel that washes over the beach area, where the waves of Lake Michigan can be expected to be quite calm due to the lack of significant wind action at the moment. As you venture outside, you may find the setting pleasant for a short stroll, but a warm coat, perhaps layered with a scarf and gloves, will be essential to combat the cold air nipping at your skin.\n\nLooking ahead to tomorrow, the weather is set to improve slightly as daybreak brings mostly sunny skies and temperatures expected to rise into the low 30s, though they might settle around 30 degrees by afternoon. Winds will be lighter, offering a gentler touch than today\u2019s gusty conditions. Although there are no signs of precipitation, the cool, clear weather invites activities such as a brisk walk along the shore or a visit to local shops. With no major holidays approaching in the days ahead, it\u2019s a fine opportunity to enjoy a quiet day outdoors before the holiday bustle begins.",
-    "color_code": "#1E1E1E",
-    "timestamp": "2024-12-02 23:05:50"
+    "weather_report": "In Evanston tonight, the air is crisp and cool, with temperatures dipping into the low 20s, while a gentle breeze from the west-northwest adds a touch of chill to the atmosphere. The only sounds are likely the whispers of the wind and the occasional rustle of leaves\u2014a stark contrast to the vibrant summer months. Currently, the sky is mostly clear, offering a window to the stars over Lake Michigan. \n\nTomorrow's forecast shows a shift to mostly sunny conditions with a projected high in the low 30s, which might feel a bit warmer as the day progresses. Expect a slight drop in temperatures into the afternoon, accompanied by a light breeze of 10 to 15 miles per hour. With no precipitation in sight, the day should be quite pleasant, though it lacks the warmth of late autumn. As we\u2019re immersed in the chill of winter, these temperatures are typical for this time of year in the Midwest. Considering the weather, it\u2019s advisable to don layers and a warm coat if venturing outside, particularly if you plan to enjoy a brisk walk along the beach. The waves may be mild, but the chilly air calls for a cozy evening indoors or perhaps a quiet stroll under the stars.",
+    "color_code": "#4B6F79",
+    "timestamp": "2024-12-03 00:07:41"
 }
