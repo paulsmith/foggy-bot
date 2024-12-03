@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T08:51:00+00:00",
+            "timestamp": "2024-12-03T09:51:00+00:00",
             "temperature_f": 19.04,
             "temperature_c": -7.2,
             "humidity": 80.3939494827,
-            "wind_speed_mph": 28.991520000000005,
+            "wind_speed_mph": 24.964920000000003,
             "wind_direction": 260,
-            "description": "Mostly Clear"
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-03T04:00:00-06:00",
+                "startTime": "2024-12-03T05:00:00-06:00",
                 "endTime": "2024-12-03T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 18,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the early morning atmosphere is decidedly crisp and cool, with temperatures lingering in the low 20s, accompanied by a gentle, west-northwest wind that adds a chill to the air. The beach, a stark expanse under a mostly clear sky, suggests a tranquil yet invigorating setting, perfect for early risers. As we transition into the day, expect partly sunny conditions with a high reaching into the low 30s. The winds will pick up slightly, delivering brief gusts, but overall, it should be a pleasant winter day\u2014a refreshing embrace of nature as light dances on the shimmering waters of Lake Michigan.\n\nWhile no significant precipitation is on the horizon, the absence of snow or rain only adds to the clarity of the day. For those contemplating outdoor activities, the conditions are ideal for a brisk walk along the shoreline or a playful romp at a nearby park. A warm layer or heavy jacket is recommended to fend off the morning chill, especially with that breezy demeanor in play. As the holiday season approaches, this Sunday is also a quiet day, devoid of major festivities yet perfect for some personal reflection before the upcoming celebrations.",
-    "color_code": "#b0c4de",
-    "timestamp": "2024-12-03 04:06:14"
+    "weather_report": "Evanston is waking up to a chilly December morning with temperatures hovering in the mid-teens. The air feels crisp, with substantial wind that adds a bite to the current conditions, making it feel notably colder. As for visibility, the day is expected to remain partly cloudy, casting a subtle brightness over the landscape, although the chilly breeze from the west-northwest might deter those unprepared for the cold.\n\nLooking ahead, the day promises to bring partly sunny skies with a high in the low 30s. Wind gusts could heighten as the afternoon unfolds, making it feel brisk and invigorating, perhaps ideal for bundled-up outings rather than lingering outdoors without proper attire. While there\u2019s no expected precipitation, the cool winter air suggests that the lake will remain quite still, presenting gentle wave conditions along the shore. Given the seasonal chill, warm layers are necessary, including hats and gloves to keep warm when stepping outside. Overall, it\u2019s a typical winter day for Evanston, and those who embrace the crispness might enjoy a brisk walk along the beach or a warm cup of coffee at a local caf\u00e9 while watching the clouds drift by.",
+    "color_code": "#A6AFA5",
+    "timestamp": "2024-12-03 05:05:01"
 }
