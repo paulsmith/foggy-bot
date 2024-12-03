@@ -7,7 +7,7 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T04:51:00+00:00",
+            "timestamp": "2024-12-03T05:51:00+00:00",
             "temperature_f": 21.02,
             "temperature_c": -6.1,
             "humidity": 73.892872173734,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston tonight, the air is crisp and cool, with temperatures dipping into the low 20s, while a gentle breeze from the west-northwest adds a touch of chill to the atmosphere. The only sounds are likely the whispers of the wind and the occasional rustle of leaves\u2014a stark contrast to the vibrant summer months. Currently, the sky is mostly clear, offering a window to the stars over Lake Michigan. \n\nTomorrow's forecast shows a shift to mostly sunny conditions with a projected high in the low 30s, which might feel a bit warmer as the day progresses. Expect a slight drop in temperatures into the afternoon, accompanied by a light breeze of 10 to 15 miles per hour. With no precipitation in sight, the day should be quite pleasant, though it lacks the warmth of late autumn. As we\u2019re immersed in the chill of winter, these temperatures are typical for this time of year in the Midwest. Considering the weather, it\u2019s advisable to don layers and a warm coat if venturing outside, particularly if you plan to enjoy a brisk walk along the beach. The waves may be mild, but the chilly air calls for a cozy evening indoors or perhaps a quiet stroll under the stars.",
-    "color_code": "#4B6F79",
-    "timestamp": "2024-12-03 00:07:41"
+    "weather_report": "In Evanston, Illinois, current conditions reveal a chilly night with temperatures hovering in the low 20s, complemented by a blustery breeze. Although the skies are mostly clear, the refreshing coolness and the sharp gusts lend a brisk feel to the air, urging passersby to layer up for warmth. As the forecast unfolds into Tuesday, residents can expect an invitation into the day with mostly sunny skies and a rise in temperatures peaking near the mid-30s. The winds will continue to blow, albeit with a gentler touch, creating a pleasant backdrop for outdoor activities.\n\nAt the beach, the waves are likely moderate given the gusty conditions; thus, it could be an exhilarating time for those who brave the chill. There\u2019s no precipitation expected, making for a dry outing. However, it would be wise to bundle up in warmly layered clothing, possibly donning a sturdy coat and hat, to fend off the wintry bite. While we are well into December and the air feels typical for this time of year in the Midwest, the bright sunshine may encourage a brisk walk along the shoreline or a casual stroll through local parks, allowing residents to embrace the serene beauty of a winter\u2019s day without too harsh a chill.",
+    "color_code": "#005B96",
+    "timestamp": "2024-12-03 01:05:46"
 }
