@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T06:51:00+00:00",
+            "timestamp": "2024-12-03T07:51:00+00:00",
             "temperature_f": 19.939999999999998,
             "temperature_c": -6.7,
             "humidity": 77.36335219786,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 280,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 270,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-03T02:00:00-06:00",
+                "startTime": "2024-12-03T03:00:00-06:00",
                 "endTime": "2024-12-03T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 18,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 18. West northwest wind around 10 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 18. West northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly scene, with temperatures hovering in the mid-20s and a brisk breeze stirring around the beach. The sky is mostly clear, allowing a few scattered stars to twinkle overhead. Tonight promises to remain partly cloudy, dipping to the low 20s as the winds gently shift from the west-northwest. Tomorrow brings a touch of warmth, with highs expected to reach the low 30s, though that may feel cooler due to persistent gusts. \n\nWave conditions along Lake Michigan are likely to be moderate, influenced by the wind's current strength, creating a slightly choppy surface. While no precipitation is anticipated, the chill in the air suggests dressing warmly for outdoor ventures. Layering up with a sturdy coat, hat, and gloves will be key for comfort. Given the seasonal context, these temperatures align with early December norms, presenting an inviting opportunity to enjoy the brisk air along the shores, perhaps with a brisk walk or a contemplative moment by the lake.",
-    "color_code": "#2C3E50",
-    "timestamp": "2024-12-03 02:07:13"
+    "weather_report": "As dawn approaches in Evanston, the current temperature hovers in the low 20s, accompanied by a brisk, blustery wind from the west. The air feels quite chilly, with a mix of moisture that underscores the winter chill. Skies are mostly clear now, but a shift toward mostly cloudy conditions is expected overnight, bringing a low around 18 degrees. Tomorrow promises a slight warming trend as we anticipate partly sunny skies, with temperatures peaking in the low 30s before falling again in the afternoon.\n\nToday, the atmosphere may appear a bit dreary as cloud cover increases. The lake will likely present moderate wave conditions, perfect for observing the seasonal turmoil of Lake Michigan. There\u2019s no precipitation anticipated, allowing for a dry day, albeit quite chilly. For those venturing outside, layered clothing is advisable to fend off the cold and wind. A winter coat, gloves, and perhaps a warm hat will make for a more comfortable outing. Given the season, these temperatures are typical for early December in the Midwest, where winter has firmly established its grip. Suggested activities might include a brisk walk along the beach or enjoying the serene beauty of the lakefront, taking in the quietude that only a winter morning can provide.",
+    "color_code": "#142C3D",
+    "timestamp": "2024-12-03 03:05:54"
 }
