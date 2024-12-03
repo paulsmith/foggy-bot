@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T14:51:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 81.26087529295,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 250,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-03T15:51:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 71.049271208777,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 260,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-03T10:00:00-06:00",
+                "startTime": "2024-12-03T11:00:00-06:00",
                 "endTime": "2024-12-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "WSW",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 31, with temperatures falling to around 28 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly sunny. High near 31, with temperatures falling to around 28 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, current conditions present a chilly scene with the temperature hovering just above 20 degrees, complemented by a brisk, howling wind from the west that adds to the bite in the air. The sky remains mostly cloudy, giving an indication of the winter season's starkness, making it feel a bit dreary despite the beauty of Lake Michigan in the distance. As we look ahead, the day promises a transition to mostly sunny skies with a high near the low 30s, though temperatures will begin to dip as the afternoon progresses, creating a contrast between the early warmth of sunshine and the coolness of the season. Tonight, expect the clouds to thicken again as temperatures settle around 26 degrees, accompanied by a gusty southwest wind that may stir up the lake.\n\nWave conditions on the lake might be moderate, which could be inviting for some brisk beachside walks, though caution is advised if venturing closer to the water. There\u2019s no precipitation forecasted now or later today, making it a dry day to enjoy outdoor activities if bundled properly. Given the chill, dressing warmly in layers, with hats and gloves, is recommended to stay comfortable during any outdoor excursions. The temperatures are typical for early December in this region, perfectly fitting for the transition to winter. Ideal activities might include visiting local cafes or enjoying a winter stroll, soaking in the holiday preparations around town, even as we head into a new week, with no major holidays looming just yet.",
-    "color_code": "#A7C2D5",
-    "timestamp": "2024-12-03 10:06:13"
+    "weather_report": "In Evanston, Illinois, the atmosphere is brisk and clear with patches of blue sky cast against a chilly backdrop. Currently, temperatures hover in the mid-20s, making the air crisp, while a blustery southwest wind adds a bite to the day, gusting with a fierceness that reminds one of winter's presence. Although the sun manages to break through, casting a bright sheen on Lake Michigan, the overall landscape reflects a subdued palette typical of this season.\n\nLooking ahead, today will generally remain mostly sunny but expect temperatures to peak around the low 30s before dipping back down as the afternoon progresses. A shift to mostly cloudy conditions is expected tonight, with the mercury slipping towards the mid-20s, though a slight increase in warmth is anticipated as nighttime temperatures rise. Given the absence of precipitation in the forecast, conditions remain dry, with only the gentle rolling of waves breaking upon the shore\u2014a serene spectacle rather than a wavy one. In terms of attire, dressing in layers is advisable; a warm coat, hat, and gloves are recommended to combat the chill. As the season unfolds, these temperatures align closely with what one would expect for early December in northern Illinois, reinforcing the need for warm, comfortable indoor activities or brief sojourns outdoors to enjoy the winter's fresh air. With no holidays on the immediate horizon, the day offers a chance for a quiet walk along the beach or a peaceful moment at a local caf\u00e9, embracing the tranquil yet sharp beauty of winter along Lake Michigan.",
+    "color_code": "#A9C0D0",
+    "timestamp": "2024-12-03 11:05:25"
 }
