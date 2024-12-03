@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T11:51:00+00:00",
+            "timestamp": "2024-12-03T12:51:00+00:00",
             "temperature_f": 19.04,
             "temperature_c": -7.2,
             "humidity": 80.3939494827,
-            "wind_speed_mph": 28.991520000000005,
+            "wind_speed_mph": 24.964920000000003,
             "wind_direction": 260,
-            "description": "Mostly Clear"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, current conditions reveal a brisk morning chill at around the mid-teen temperatures, accompanied by a noticeable moisture in the air that makes the atmosphere feel quite crisp. Winds are howling from the west-southwest at a lively pace, adding to the invigorating feel of the day. With mostly clear skies now, the forecast for today indicates a change with partly sunny intervals, promising a high in the low 30s. Residents can expect temperatures to gradually drop to near 29 by afternoon, alongside gusty winds that could pick up speed as the day progresses.\n\nThe wave conditions along Lake Michigan appear slightly stirred, consistent with the blustery winds. Fortunately, there is no precipitation on the horizon, allowing for a pleasant yet cool day outdoors. Dressing warmly is advised; layers are crucial to stay comfortable against both the chill and the breeze. Given this December weekend, typical seasonal activities like a brisk walk along the shoreline or a visit to local cafes for soup or hot beverages could be particularly enjoyable. There are no holidays to celebrate today, but the wintry conditions certainly evoke the spirit of the season as we approach the festive days ahead.",
-    "color_code": "#7E9CC4",
-    "timestamp": "2024-12-03 07:11:47"
+    "weather_report": "The current weather in Evanston, Illinois is a brisk 19 degrees, with a damp chill that makes the air feel quite frigid. The scenery features a gray sky, as clouds dominate the horizon, offering little promise for sunshine just yet. Winds are currently howling in from the west, providing a noticeable bite as they sweep across the beach and toward Lake Michigan, stirring up the water but not quite intense enough to create tumultuous waves. It\u2019s a day where the potential for light flurries lingers in the air, but no significant precipitation is expected.\n\nAs we look ahead to the day's forecast, we can anticipate a shift toward partly sunny skies with temperatures inching up into the low 30s. A gentle to moderate breeze will continue throughout the day, perhaps making it feel slightly cooler than the actual reading. Tonight, expect mostly cloudy conditions with temperatures rising very slowly, settling around the mid-20s. All in all, dressing warmly is essential today; bundle up in layers, don a cozy hat, and don\u2019t dare to forget gloves before heading out. Given the brisk chill in the air, outdoor activities might be limited, but a walk along the pier could still be invigorating for those bundled up against the cold, perhaps with a warm beverage in hand.\n\nThis day is just a normal winter Sunday, making it an ideal opportunity to catch up on indoor activities or brief excursions at the lake for those who appreciate the stark beauty of a cold, cloudy winter's day.",
+    "color_code": "#5A6E8C",
+    "timestamp": "2024-12-03 08:05:23"
 }
