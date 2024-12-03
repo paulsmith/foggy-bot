@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T19:51:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 56.013892454347,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 230,
+            "timestamp": "2024-12-03T21:08:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 60.112478635772,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 220,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-03T15:00:00-06:00",
+                "startTime": "2024-12-03T16:00:00-06:00",
                 "endTime": "2024-12-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois present a brisk and chilly afternoon, with temperatures hovering in the low 30s and a blustery wind sweeping from the southwest, making it feel even colder. The sky is mostly cloudy, offering only a hint of sunshine, which may struggle to break through the thick cloud cover. Looking ahead, the weather will remain mostly cloudy into the evening, with temperatures dipping to around 25 degrees and a strengthening breeze that could gust up to 35 mph. \n\nThe open waters of Lake Michigan display gentle waves, though the wind may give rise to a bit of chop along the shore. There is no significant precipitation in sight, allowing for a clearer view across the lake, though the chill in the air suggests layers will be essential. Considering the time of year, these temperatures feel fairly typical for early December in the Midwest. For those venturing outside, a warm coat, scarf, and gloves are advisable to combat the biting cold. Activities could include a brisk walk along the beach or a visit to a cozy local caf\u00e9, especially as we head into the holiday season.",
-    "color_code": "#A5B5D8",
-    "timestamp": "2024-12-03 15:05:07"
+    "weather_report": "Evanston is experiencing the chill of early December, with temperatures in the mid-20s and a lively breeze whipping in from the southwest, creating a brisk and chilly environment. The clouds hang overhead, lending a muted tone to the scene, yet despite the grayness, there\u2019s a certain stillness to the beach, with waves gently lapping at the shore. As the day progresses, temperatures are expected to edge up slightly at sunset, but not enough to warrant any discomfort in winter attire. This afternoon's partly sunny forecast offers a brief respite from the current cloud cover, although the fresh air is invigorating, perfect for a seasonal stroll along the water's edge.\n\nNo precipitation is expected today, allowing for outdoor plans to proceed without concern for rain or snow. Those heading out should dress warmly\u2014layers are advisable to combat the cool and gusty winds. The conditions are typical for early winter in this region, where December often ushers in cold weather and brisk winds. This is a great time to enjoy the serenity of the beach, take in the beauty of the season, or perhaps catch up on some reading in a park. While it\u2019s not a holiday today, it\u2019s a fitting day to appreciate the calmness of nature as the community prepares for the upcoming celebrations.",
+    "color_code": "#A0B0C8",
+    "timestamp": "2024-12-03 16:05:19"
 }
