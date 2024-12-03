@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-03T00:51:00+00:00",
+            "timestamp": "2024-12-03T01:51:00+00:00",
             "temperature_f": 21.02,
             "temperature_c": -6.1,
             "humidity": 73.892872173734,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 260,
-            "description": "Clear"
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 270,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-02T19:00:00-06:00",
+                "startTime": "2024-12-02T20:00:00-06:00",
                 "endTime": "2024-12-03T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 19,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night falls over Evanston, the air carries a crisp chill, with temperatures settling in the low 20s. The atmosphere is calm and clear, offering a peaceful invitation for outdoor enthusiasts, though a gentle breeze rustles through the area, adding a brisk touch to the cool evening. There are no signs of precipitation, ensuring a dry and comfortable environment for those who might venture out. The beach, reflecting the tranquility of Lake Michigan, sets a serene scene beneath the starry sky.\n\nLooking ahead, the weather is expected to shift towards a more pleasant day on Tuesday, with mostly sunny skies prevailing and temperatures climbing to the low 30s. The anticipated gentle winds will provide a refreshing feel, making for a nice stroll or short outdoor activity as the day progresses. Given the season, the current chill is typical for early December in this region, encouraging layers and warm attire to maximize comfort while enjoying the seasonal beauty. On this quiet evening, those interested in a tranquil outing might consider a leisurely walk along the beach to appreciate the serenity, but for those staying inside, a cozy evening by the fire may be equally rewarding.",
-    "color_code": "#2B2D30",
-    "timestamp": "2024-12-02 20:32:34"
+    "weather_report": "Tonight in Evanston, we're experiencing a chilly scene with temperatures dipping into the low 20s. The air carries a brisk touch from the west as gusty winds sweep through, creating a refreshing atmosphere that feels quite invigorating\u2014as if the lake breeze has decided to join the evening chill. With clear skies and a mostly bright outlook, it\u2019s an ideal time for a cozy gathering indoors, perhaps with warm drinks, as the gentle dancing of streetlights reflecting on the water hints at a serene winter ambiance.\n\nLooking ahead to Tuesday, the sun is expected to rise over the horizon, offering a promise of a bright, mostly sunny day. While temperatures will reach into the low 30s, a slight cooling in the afternoon may make it feel a bit brisk again. As the wind eases slightly, the day presents a chance for those eager to enjoy the outdoors to take a leisurely stroll along the shoreline, as the scenery is bound to be picturesque and invigorating. Given the season, these temperatures reflect typical winter conditions\u2014cold but bearable\u2014and the only precipitation is likely to remain absent, which allows for outdoor activities without the worry of getting damp. Expect a pleasant day for those who dress warmly and embrace the crispness that winter in Evanston has to offer.",
+    "color_code": "#5B5D8D",
+    "timestamp": "2024-12-02 21:20:23"
 }
