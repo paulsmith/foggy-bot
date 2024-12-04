@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T16:51:00+00:00",
+            "timestamp": "2024-12-04T17:51:00+00:00",
             "temperature_f": 35.96,
             "temperature_c": 2.2,
-            "humidity": 64.047406372007,
-            "wind_speed_mph": 66.03624,
-            "wind_direction": 250,
-            "description": "Mostly Cloudy"
+            "humidity": 66.983960134777,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 260,
+            "description": "Cloudy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As of this afternoon, Evanston, Illinois, is experiencing cool, blustery conditions with temperatures in the mid 30s. The day is mostly cloudy, and the air carries a biting chill, driven by fierce winds that sweep across the shoreline. Expect scattered rain and occasional snow showers as the afternoon progresses, with temperatures likely dipping toward the low 30s. Given a 50% chance of precipitation, it\u2019s prudent to prepare for a mix of rain and snow, but little to no accumulation is expected.\n\nAs evening approaches, the temperature will drop significantly, creating an atmosphere that feels sharper and more severe, with wind chill values plunging to the negatives. Scattered snow showers will linger, adding to the cold and cloudy ambiance, and gusty winds will persist throughout the night, making for a wild, wintry feel. Those venturing outdoors should don warm layers, including a heavy coat, gloves, and a hat to combat the cold. Given that we are in early December, the current temperatures align well with typical seasonal expectations, though the fierce winds may lend an edge of discomfort. With these conditions, it\u2019s best to engage in indoor activities today, perhaps cozying up with a good book or catching up on holiday preparations, as outdoor ventures may be less than inviting.",
-    "color_code": "#A7B1C9",
-    "timestamp": "2024-12-04 12:07:14"
+    "weather_report": "Current conditions in Evanston are characterized by a chilly and brisk atmosphere, with temperatures in the mid-30s and a gusty wind whipping in from the west, creating a notably biting wind chill. The sky is overcast, a blanket of clouds shading the landscape, and the air has a raw edge to it, making it feel quite cool. As we look ahead to the afternoon forecast, scattered rain and snow showers are expected to sweep through after 3 PM, with temperatures barely rising to the high 30s before sinking back into the low 30s. The winds will remain strong, with gusts potentially reaching up to 50 mph, reminiscent of a winter storm's ferocity, yet little to no accumulation of snow is anticipated.\n\nGiven these conditions, outdoor activities may be limited. Those braving the elements should dress warmly, layering with thermal attire, a heavy winter coat, and accessories like hats and gloves to fend off the chill. The wave conditions on Lake Michigan could be somewhat tumultuous given the powerful winds, but the precipitation will likely be light, potentially creating a serene setting for a brief, brisk walk along the shore rather than a leisurely beach outing. It's a day that calls for resilience against the cold, evocative of early winter in the Midwest, where temperatures are typical for December, but the strong winds add a sense of urgency to finding warmth and shelter. With no major holiday to note on this December day, it's simply a moment to appreciate the quiet, chilly beauty that Evanston's beach offers in the wake of the season.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-04 13:06:22"
 }
