@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T19:51:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 61.958017064999,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 240,
-            "description": "Cloudy"
+            "timestamp": "2024-12-04T21:51:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 66.864121260669,
+            "wind_speed_mph": 70.86816,
+            "wind_direction": 230,
+            "description": "Mostly Cloudy and Windy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-04T16:00:00-06:00",
+                "startTime": "2024-12-04T17:00:00-06:00",
                 "endTime": "2024-12-04T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 37,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 30
                 },
-                "windSpeed": "25 to 30 mph",
+                "windSpeed": "30 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/snow,60?size=medium",
-                "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. West wind 25 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,30?size=medium",
+                "shortForecast": "Scattered Snow Showers",
+                "detailedForecast": "Scattered snow showers. Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. West wind around 30 mph, with gusts as high as 50 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the sun begins to dip this afternoon in Evanston, the air is brisk with temperatures in the mid to upper 30s, creating a chill that permeates the atmosphere. The scene is shrouded in clouds, with blustery conditions and winds whipping at about 25 to 30 miles per hour, with gusts potentially reaching up to 50. Residents may spot a few snow showers develop, adding to the wintery tableau, though any real accumulation is expected to be minimal. Tonight, temperatures will plunge to the low teens, accompanied by wind chills that may sink as low as -5, making it feel decidedly frigid. \n\nGiven the current season, temperatures are typical for December in the Midwest, but the combination of wind and impending precipitation lends an edge to the day, making it feel quite raw. It's best to bundle up in warm winter gear\u2014think heavy coats, gloves, and perhaps a scarf to fend off the biting wind. As for activities, it might be a good opportunity to cozy up indoors, perhaps at a local caf\u00e9, as outdoor jaunts could prove uncomfortable in such weather. With the holiday season just weeks away, the wintry landscape could inspire festive cheer, even if the conditions are not ideal for outdoor enjoyment.",
-    "color_code": "#A6A4A1",
-    "timestamp": "2024-12-04 16:05:20"
+    "weather_report": "Current weather conditions in Evanston reveal a chilly and blustery atmosphere with temperatures hovering in the upper 30s, creating a crisp and cool environment. As the day unfolds, residents can expect scattered snow showers this afternoon, with overcast skies and the temperatures dipping further to the mid 30s. A fierce west wind is at play, gusting up to 50 miles per hour, emphasizing the cold feel of the day, and contributing to noticeable wind chill values falling into the single digits by nightfall.\n\nThe evening will bring more scattered snow showers, tapering off before dawn, with temperatures sinking to around the low teens. Accumulation from these flurries is expected to be minimal. Given the wintry conditions, the beach may appear less inviting, and the rough waters of Lake Michigan will likely reflect the tumultuous winds, potentially creating hazardous conditions for any ventures near the shore. As for attire, layering is crucial; individuals should opt for warm jackets, hats, and gloves to stave off the biting cold. This weather does align with typical early December temperatures for the region, reminding us that winter is firmly upon us. While indoor activities might be more appealing today, a brisk walk, bundled up well, could still be refreshing. Notably, while December holiday cheer is near, today itself is not marked by any significant celebrations.",
+    "color_code": "#6A5ACD",
+    "timestamp": "2024-12-04 17:05:38"
 }
