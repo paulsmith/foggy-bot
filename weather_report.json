@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-04T00:00:00-06:00",
+                "startTime": "2024-12-04T02:00:00-06:00",
                 "endTime": "2024-12-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 23,
@@ -51,12 +51,12 @@
                 "windSpeed": "20 to 25 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/wind_bkn/snow,50?size=medium",
-                "shortForecast": "Mostly Cloudy then Scattered Snow Showers",
-                "detailedForecast": "Scattered snow showers after 2pm. Mostly cloudy. High near 38, with temperatures falling to around 32 in the afternoon. West southwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
+                "shortForecast": "Mostly Cloudy then Scattered Rain And Snow Showers",
+                "detailedForecast": "Scattered rain and snow showers after 3pm. Mostly cloudy. High near 38, with temperatures falling to around 34 in the afternoon. West southwest wind 20 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather presents a chilly scene with temperatures lingering in the mid-20s, accompanied by a brisk, gusty wind that adds a biting edge to the air. Conditions are cloudy, wrapping the landscape in a gray veil as the night deepens, creating a somber yet tranquil atmosphere along the beach. As the early morning hours unfold, temperatures are expected to dip slightly before nudging upward to the high 20s overnight, with a shift to more blustery winds from the south-southwest.\n\nLooking ahead to Wednesday, a mix of clouds and the threat of scattered snow showers later in the afternoon moves into the forecast, bringing a 50% chance of precipitation. As temperatures peak near the high 30s early in the day, a notable drop to the low 30s is expected by afternoon, driven by strong gusts of wind that could reach up to 45 mph. The dare of possible flurries captures the winter vibe but promises little accumulation, leaving a brisk chill in the air. Given these conditions, bundling up in warm layers, including a good winter coat, hat, and gloves would be advisable for any outdoor ventures. This chill, typical for early December in this region, signifies the deep embrace of winter, heralding a season where outdoor activities shift toward the more reserved pleasures of cozy indoor gatherings or brisk strolls by the lake. \n\nHex Code:",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-12-04 01:06:00"
+    "weather_report": "Current conditions in Evanston present a chilly, blustery scene with temperatures in the mid-20s, gray skies overhead, and a sharp wind howling from the south. Humidity contributes to a slightly biting chill that solidifies the evening\u2019s atmosphere. As the city moves into the overnight hours, temperatures are expected to rise a tad, settling around the mid-20s with gusty winds shifting to the southwest, maintaining a fierce edge.\n\nLooking ahead to Wednesday, the day promises scattered rain and snow showers, particularly in the afternoon. With a high near the upper 30s, transitioning into the mid-30s later on, residents can expect predominantly cloudy skies. The winds will remain robust, gusting up to 50 mph, creating a highly unstable environment, especially near the lake. The chances of precipitation are sitting at about 50%, but little to no snow accumulation is anticipated. The rawness of the day coupled with cloud cover makes for a rather unpleasant appearance, especially by the water's edge, where wave conditions may turn rough due to the strong winds. Dressing warmly in sturdy layers is advisable, with a weatherproof jacket and sturdy footwear to contend with slushier conditions that rain and melting snow may bring.\n\nConsidering we are in December, these temperatures align fairly well with the typical chilly climes of the Midwest, especially near Lake Michigan, where the lake effect can enhance the cold feel. While the beachfront may not invite outdoor activities, the cozy interiors of local cafes and shops could beckon residents to seek warmth and comfort indoors. A few stretches of the shoreline might tempt the adventurous to take on a brisk, invigorating walk, but caution is advised given the wind and potential for mixed precipitation. No significant holidays are in immediate view, but the festive season is palpable, encouraging thoughts of gatherings and celebrations on the horizon.",
+    "color_code": "#6c6f76",
+    "timestamp": "2024-12-04 02:07:14"
 }
