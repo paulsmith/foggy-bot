@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T05:51:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 77.148605229547,
+            "timestamp": "2024-12-04T07:51:00+00:00",
+            "temperature_f": 24.98,
+            "temperature_c": -3.9,
+            "humidity": 74.306858307595,
             "wind_speed_mph": 62.00964,
             "wind_direction": 190,
             "description": "Cloudy"
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly, blustery scene with temperatures in the mid-20s, gray skies overhead, and a sharp wind howling from the south. Humidity contributes to a slightly biting chill that solidifies the evening\u2019s atmosphere. As the city moves into the overnight hours, temperatures are expected to rise a tad, settling around the mid-20s with gusty winds shifting to the southwest, maintaining a fierce edge.\n\nLooking ahead to Wednesday, the day promises scattered rain and snow showers, particularly in the afternoon. With a high near the upper 30s, transitioning into the mid-30s later on, residents can expect predominantly cloudy skies. The winds will remain robust, gusting up to 50 mph, creating a highly unstable environment, especially near the lake. The chances of precipitation are sitting at about 50%, but little to no snow accumulation is anticipated. The rawness of the day coupled with cloud cover makes for a rather unpleasant appearance, especially by the water's edge, where wave conditions may turn rough due to the strong winds. Dressing warmly in sturdy layers is advisable, with a weatherproof jacket and sturdy footwear to contend with slushier conditions that rain and melting snow may bring.\n\nConsidering we are in December, these temperatures align fairly well with the typical chilly climes of the Midwest, especially near Lake Michigan, where the lake effect can enhance the cold feel. While the beachfront may not invite outdoor activities, the cozy interiors of local cafes and shops could beckon residents to seek warmth and comfort indoors. A few stretches of the shoreline might tempt the adventurous to take on a brisk, invigorating walk, but caution is advised given the wind and potential for mixed precipitation. No significant holidays are in immediate view, but the festive season is palpable, encouraging thoughts of gatherings and celebrations on the horizon.",
-    "color_code": "#6c6f76",
-    "timestamp": "2024-12-04 02:07:14"
+    "weather_report": "In Evanston, the current conditions reveal a wintry chill, with temperatures lingering in the mid 20s, accompanied by a substantial wind creating a brisk feel that makes stepping outdoors a biting experience. The sky is cloaked in clouds, casting a dim light, and the gusty winds are quite fierce, cascading from the south-southwest, making the beach appear rugged and windswept. As we look ahead to the forecast, the weather promises a transition through the night into a mostly cloudy morning, with the low teetering around the low 20s, progressively rising as temperatures inch towards the mid 20s. \n\nOn Wednesday, expect scattered rain and snow showers rolling in around mid-afternoon, signaling a high near the upper 30s before dipping back toward the mid 30s later in the day, with another round of strong winds expected to whip through at 20 to 25 mph and possible gusts reaching up to 50 mph. Currently, precipitation appears minimal, but with a 50% chance as the day unfolds, it's prudent to have an umbrella at the ready. Given the season, winter here is decidedly robust, making layered attire essential\u2014think a snug winter coat, thick gloves, and a warm hat. With the chill in the air and the impending snow showers, it may not be the most inviting day for outdoor activities, making indoor pursuits like visiting a local caf\u00e9 or museum a more agreeable option.",
+    "color_code": "#4A4B5A",
+    "timestamp": "2024-12-04 03:06:09"
 }
