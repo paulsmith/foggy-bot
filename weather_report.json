@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T00:51:00+00:00",
+            "timestamp": "2024-12-04T01:51:00+00:00",
             "temperature_f": 24.08,
             "temperature_c": -4.4,
             "humidity": 74.213581792551,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 190,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening falls on Evanston, temperatures linger in the low 20s, creating a chilly atmosphere under a blanket of clouds. The air feels cold and a bit damp, giving an edgy bite to the breeze as it stirs softly through the park. Tonight, expect predominantly cloudy skies, with temperatures poised to rise slightly as the night progresses, accompanied by a gusty south-southwest wind picking up to 15-20 mph, with potential gusts reaching up to 40 mph. The conditions will remain brisk but bearable, typical for early December in this region.\n\nLooking ahead to Wednesday, the weather will bring scattered snow showers in the afternoon, with temperatures peaking in the upper 30s before sliding back into the low 30s. The winds will be strong, adding a wild chill to the air as we anticipate a 50% chance of snow\u2014but little accumulation is expected. Given these conditions, it may be best to dress warmly, layering up in insulated clothing and windbreakers. While beach walks might not be inviting, the charm of the holiday season makes indoor activities like visiting local cafes or shops more appealing as winter sets in.",
-    "color_code": "#4A4E8D",
-    "timestamp": "2024-12-03 19:33:18"
+    "weather_report": "As night settles over Evanston, conditions are chilly, with a current temperature in the low 20s. The air carries a brisk chill, accentuated by fierce gusts making their presence known along the shoreline. Clouds blanket the sky, rendering visibility limited, while the scene is defined by a muted palette of evening tones. Looking ahead, the forecast promises a transition tonight to mostly cloudy skies with temperatures edging up slightly, hovering around the mid-20s. \n\nTomorrow, scattered snow showers are set to make an appearance after 2 PM, with the mercury reaching near 38 before settling back into the low 30s by afternoon. Winds will shift to a blustery west-southwest, adding to the chilliness. Given these conditions, it's advisable to bundle up warmly if venturing outdoors. The waves on Lake Michigan may be somewhat lively, stirred by strong winds, though minimal snow accumulation is expected. While outdoor activities are limited tonight, tomorrow\u2019s weather could bring a wintery walk or the chance to enjoy the enchanting allure of falling flakes, reminding us that the season is firmly upon us in this part of the Midwest.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-03 20:32:31"
 }
