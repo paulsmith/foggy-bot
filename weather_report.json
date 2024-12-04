@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T04:51:00+00:00",
+            "timestamp": "2024-12-04T05:51:00+00:00",
             "temperature_f": 24.08,
             "temperature_c": -4.4,
-            "humidity": 74.213581792551,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "humidity": 77.148605229547,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 190,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current conditions in Evanston, Illinois, feature a cool and crisp atmosphere, with temperatures dipping into the low 20s and a persistent cloudiness that blankets the night sky. As we move into the overnight period, expect mostly cloudy skies with temperatures gradually rising to the mid-20s due to a south-southwest wind that will pick up to a brisk pace, gusting upwards of 35 mph. This will create a noticeable chill in the air, an invitation for cozy indoor activities rather than outdoor ventures.\n\nOn Wednesday, scattered snow showers are slated to begin in the afternoon, casting a predominantly cloudy backdrop for much of the day. Temperatures will peak near the high 30s before settling back into the low 30s as the chill sets in, complemented by a strong westerly wind that could reach gusts of 45 mph, making it feel noticeably colder. With a 50% chance of precipitation, light snow is anticipated, but accumulation is expected to be minimal. The beach, while still picturesque, will likely be too windy and cold for leisure activities, making warm attire essential. Consider bundling up with layers, including a thick coat, gloves, and a hat to battle the chill and wind.\n\nGiven that it is December in the Midwest, these conditions are quite typical for the season, hovering around the expected temperatures for this time of year. The inviting charm of the beach may be best appreciated from the warmth of your home, perhaps while enjoying a hot beverage and watching the snowflakes drift down. As the holiday season approaches, this cozy scene is perfect for embracing winter's quiet beauty.",
-    "color_code": "#3b3b3b",
-    "timestamp": "2024-12-04 00:07:53"
+    "weather_report": "In Evanston, Illinois, the current weather presents a chilly scene with temperatures lingering in the mid-20s, accompanied by a brisk, gusty wind that adds a biting edge to the air. Conditions are cloudy, wrapping the landscape in a gray veil as the night deepens, creating a somber yet tranquil atmosphere along the beach. As the early morning hours unfold, temperatures are expected to dip slightly before nudging upward to the high 20s overnight, with a shift to more blustery winds from the south-southwest.\n\nLooking ahead to Wednesday, a mix of clouds and the threat of scattered snow showers later in the afternoon moves into the forecast, bringing a 50% chance of precipitation. As temperatures peak near the high 30s early in the day, a notable drop to the low 30s is expected by afternoon, driven by strong gusts of wind that could reach up to 45 mph. The dare of possible flurries captures the winter vibe but promises little accumulation, leaving a brisk chill in the air. Given these conditions, bundling up in warm layers, including a good winter coat, hat, and gloves would be advisable for any outdoor ventures. This chill, typical for early December in this region, signifies the deep embrace of winter, heralding a season where outdoor activities shift toward the more reserved pleasures of cozy indoor gatherings or brisk strolls by the lake. \n\nHex Code:",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-04 01:06:00"
 }
