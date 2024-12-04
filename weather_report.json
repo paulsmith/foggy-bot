@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T17:51:00+00:00",
-            "temperature_f": 35.96,
-            "temperature_c": 2.2,
-            "humidity": 66.983960134777,
-            "wind_speed_mph": 53.95644000000001,
+            "timestamp": "2024-12-04T18:51:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 59.241798916954,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 260,
             "description": "Cloudy"
         },
@@ -19,21 +19,21 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-04T12:00:00-06:00",
+                "startTime": "2024-12-04T14:00:00-06:00",
                 "endTime": "2024-12-04T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 38,
+                "temperature": 37,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 60
                 },
-                "windSpeed": "20 to 25 mph",
+                "windSpeed": "20 to 30 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/snow,50?size=medium",
-                "shortForecast": "Scattered Rain And Snow Showers",
-                "detailedForecast": "Scattered rain and snow showers after 3pm. Cloudy. High near 38, with temperatures falling to around 34 in the afternoon. West wind 20 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
+                "icon": "https://api.weather.gov/icons/land/day/snow,60?size=medium",
+                "shortForecast": "Chance Rain And Snow Showers",
+                "detailedForecast": "A chance of rain and snow showers after 3pm. Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. West wind 20 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "20 to 30 mph",
+                "windSpeed": "25 to 30 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30/wind_bkn?size=medium",
-                "shortForecast": "Scattered Snow Showers then Mostly Cloudy",
-                "detailedForecast": "Scattered snow showers before 10pm. Mostly cloudy, with a low around 14. Wind chill values as low as -4. West northwest wind 20 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/snow?size=medium",
+                "shortForecast": "Scattered Snow Showers",
+                "detailedForecast": "Scattered snow showers before 5am. Mostly cloudy, with a low around 14. Wind chill values as low as -5. West northwest wind 25 to 30 mph, with gusts as high as 55 mph. Chance of precipitation is 30%. Little or no snow accumulation expected."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston are characterized by a chilly and brisk atmosphere, with temperatures in the mid-30s and a gusty wind whipping in from the west, creating a notably biting wind chill. The sky is overcast, a blanket of clouds shading the landscape, and the air has a raw edge to it, making it feel quite cool. As we look ahead to the afternoon forecast, scattered rain and snow showers are expected to sweep through after 3 PM, with temperatures barely rising to the high 30s before sinking back into the low 30s. The winds will remain strong, with gusts potentially reaching up to 50 mph, reminiscent of a winter storm's ferocity, yet little to no accumulation of snow is anticipated.\n\nGiven these conditions, outdoor activities may be limited. Those braving the elements should dress warmly, layering with thermal attire, a heavy winter coat, and accessories like hats and gloves to fend off the chill. The wave conditions on Lake Michigan could be somewhat tumultuous given the powerful winds, but the precipitation will likely be light, potentially creating a serene setting for a brief, brisk walk along the shore rather than a leisurely beach outing. It's a day that calls for resilience against the cold, evocative of early winter in the Midwest, where temperatures are typical for December, but the strong winds add a sense of urgency to finding warmth and shelter. With no major holiday to note on this December day, it's simply a moment to appreciate the quiet, chilly beauty that Evanston's beach offers in the wake of the season.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-12-04 13:06:22"
+    "weather_report": "Current conditions in Evanston present a decidedly chilly scene, with temperatures hovering in the mid-30s and a fierce westerly wind creating a biting chill that draws one's mind to winter warmth. The sky is a blanket of gray, cloaking the landscape in a cloudy haze that only accentuates the brisk atmosphere. As the afternoon progresses, there's a 60% chance of rain and snow showers, adding to the wintry mix expected before day\u2019s end. Wind gusts may reach an unsettling 50 mph, further contributing to an uninviting feel along the shoreline of Lake Michigan.\n\nLooking ahead, tonight promises scattered snow showers, with temperatures plunging to the low teens and wind chills dipping ominously as low as -5. The wave conditions along the beach will likely be moderate, but the fierce winds may whip up the waters, creating an ominous surf. For those venturing outdoors, layering with warm attire is essential; think thick coats, hats, scarves, and insulated footwear to combat the biting cold. Given the time of year, these temperatures are typical for early December in the Midwest, where winter is now firmly established. Although not ideal for outdoor activities, the late afternoon offers a moment to appreciate the stark beauty of a Michigan winter landscape, perhaps with a brisk walk along the shore or a cozy afternoon spent indoors.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2024-12-04 14:06:14"
 }
