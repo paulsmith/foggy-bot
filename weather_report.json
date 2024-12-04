@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T01:51:00+00:00",
+            "timestamp": "2024-12-04T02:18:00+00:00",
             "temperature_f": 24.08,
             "temperature_c": -4.4,
             "humidity": 74.213581792551,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 190,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 200,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-03T19:00:00-06:00",
+                "startTime": "2024-12-03T21:00:00-06:00",
                 "endTime": "2024-12-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 23,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "20 mph",
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 23, with temperatures rising to around 26 overnight. South southwest wind 15 to 20 mph, with gusts as high as 40 mph."
+                "detailedForecast": "Mostly cloudy. Low around 23, with temperatures rising to around 26 overnight. South southwest wind around 20 mph, with gusts as high as 40 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night settles over Evanston, conditions are chilly, with a current temperature in the low 20s. The air carries a brisk chill, accentuated by fierce gusts making their presence known along the shoreline. Clouds blanket the sky, rendering visibility limited, while the scene is defined by a muted palette of evening tones. Looking ahead, the forecast promises a transition tonight to mostly cloudy skies with temperatures edging up slightly, hovering around the mid-20s. \n\nTomorrow, scattered snow showers are set to make an appearance after 2 PM, with the mercury reaching near 38 before settling back into the low 30s by afternoon. Winds will shift to a blustery west-southwest, adding to the chilliness. Given these conditions, it's advisable to bundle up warmly if venturing outdoors. The waves on Lake Michigan may be somewhat lively, stirred by strong winds, though minimal snow accumulation is expected. While outdoor activities are limited tonight, tomorrow\u2019s weather could bring a wintery walk or the chance to enjoy the enchanting allure of falling flakes, reminding us that the season is firmly upon us in this part of the Midwest.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-03 20:32:31"
+    "weather_report": "As evening settles over Evanston, current conditions reveal a chilly and cloudy atmosphere, with temperatures in the low 20s brushed by a fierce, swirling breeze. The gusty winds, coming from the southwest, add a biting edge to the air, giving the scene a brisk, wintry feel typical for this time of year. Tonight, expect mostly cloudy skies with temperatures hovering around the low 20s before slightly rising to settle near 26 by morning\u2014a stark reminder of the season.\n\nLooking ahead to Wednesday, scattered snow showers are anticipated after 2 PM, indicating the likelihood of a wintry mix that busy locals should prepare for. Temperatures will climb to the high 30s but will drop back into the low 30s by afternoon as a blustery wind from the west southwest, gusting to near 45 mph, adds another layer of chill to the day. As the waves lap along Lake Michigan, conditions will likely be rough but not particularly inviting for outdoor activities, suggesting that layered clothing is advisable for anyone venturing outside. Given the overall atmosphere\u2014a blend of biting cold and cloud cover\u2014the day may not be ideal for outdoor excursions, so consider cozying up indoors with a warm drink.",
+    "color_code": "#4B8EE8",
+    "timestamp": "2024-12-03 21:19:15"
 }
