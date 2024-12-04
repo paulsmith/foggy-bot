@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T09:51:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 71.701602990317,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 190,
+            "timestamp": "2024-12-04T10:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 71.273049090681,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-04T05:00:00-06:00",
-                "endTime": "2024-12-04T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 23,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 23, with temperatures rising to around 26 overnight. South southwest wind around 20 mph, with gusts as high as 35 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2024-12-04T06:00:00-06:00",
                 "endTime": "2024-12-04T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_bkn/snow,50?size=medium",
                 "shortForecast": "Mostly Cloudy then Scattered Rain And Snow Showers",
                 "detailedForecast": "Scattered rain and snow showers after 3pm. Mostly cloudy. High near 38, with temperatures falling to around 34 in the afternoon. West southwest wind 20 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-04T18:00:00-06:00",
+                "endTime": "2024-12-05T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 14,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "20 to 30 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/wind_bkn?size=medium",
+                "shortForecast": "Scattered Snow Showers then Mostly Cloudy",
+                "detailedForecast": "Scattered snow showers before 10pm. Mostly cloudy, with a low around 14. Wind chill values as low as -4. West northwest wind 20 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a crisp and cool atmosphere with temperatures in the mid 20s, accompanied by a notable gusty wind that adds a biting edge to the air. The skies are mostly cloudy, and as daybreak approaches, the temperature is set to rise slightly, aiming for a low around the mid 20s during the overnight hours. Looking ahead, Wednesday's forecast indicates scattered rain and snow showers in the afternoon, with a high nearing the upper 30s. Winds will remain formidable, blowing from the west-southwest at 20 to 25 mph, possibly gusting even higher, which could create rough patches along the lake.\n\nAs for outdoor appeal, while the frosty ambience might discourage leisurely beach walks, the lively scene could attract those who embrace the chill, perhaps bundled in warm attire. The vigorous winds suggest that wave conditions on Lake Michigan might be quite lively, though little to no snow accumulation is expected. Given the winter season, temperatures are generally typical for early December in this region, falling into the expected range for the time of year. Those venturing outside should dress warmly, opting for layers and windproof jackets. For activities, consider indoor options or brief outdoor excursions that allow you to enjoy the raw beauty of winter along the lakeshore. The community is abuzz with anticipation as the holiday season approaches, making this a perfect time for festive preparations or cozy indoor gatherings.",
-    "color_code": "#4B5E99",
-    "timestamp": "2024-12-04 05:05:10"
+    "weather_report": "Current conditions in Evanston present a chilly scene with the temperature resting in the upper 20s. The air is damp and has a slightly biting quality, characteristic of a cloudy December morning. As the day progresses, residents can expect scattered rain and snow showers to move in after mid-afternoon, with the high reaching into the upper 30s before settling back into the low 30s. A brisk wind from the west-southwest will add a fierce chill, with gusts possibly reaching up to 50 mph, heightening the sense of a wintry day.\n\nAs night approaches, temperatures will dive into the mid-teens, making for a decidedly cold evening; wind chill values may feel even more frigid, dipping below zero. Precipitation chances remain modest, with light accumulations of snow possible before 10 PM. Those venturing outside should dress warmly in layers, including a sturdy coat, gloves, or mittens, and a hat, to fend off the biting cold. Given it's December in the Midwest, the current temperatures align with what one might expect for this time of year, although the upcoming conditions could dampen any outdoor holiday preparations. With blustery conditions and the likelihood of showers, it's perhaps better suited for cozy indoor activities than for a stroll by the beach or park this evening.",
+    "color_code": "#4A4E69",
+    "timestamp": "2024-12-04 06:08:58"
 }
