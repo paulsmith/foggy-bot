@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T15:51:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 66.73918795736,
-            "wind_speed_mph": 57.98304000000001,
+            "timestamp": "2024-12-04T16:51:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 64.047406372007,
+            "wind_speed_mph": 66.03624,
             "wind_direction": 250,
-            "description": "Partly Cloudy"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-04T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-04T12:00:00-06:00",
                 "endTime": "2024-12-04T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 38,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "20 to 25 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn/snow,50?size=medium",
-                "shortForecast": "Mostly Cloudy then Scattered Rain And Snow Showers",
-                "detailedForecast": "Scattered rain and snow showers after 3pm. Mostly cloudy. High near 38, with temperatures falling to around 34 in the afternoon. West wind 20 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
+                "icon": "https://api.weather.gov/icons/land/day/snow,50?size=medium",
+                "shortForecast": "Scattered Rain And Snow Showers",
+                "detailedForecast": "Scattered rain and snow showers after 3pm. Cloudy. High near 38, with temperatures falling to around 34 in the afternoon. West wind 20 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather presents a chilly scene, with temperatures in the mid 30s paired with a brisk and gusty wind, creating a distinctly crisp atmosphere. While partly cloudy skies dominate now, the day anticipates scattered rain and snow showers later, particularly after 3 PM, with an overall high struggling to reach the upper 30s. Wind gusts may whip around at speeds up to 50 mph, heightening the chill and bringing wind chill values down to the low single digits by tonight, when temperatures will drop to around 14, making it feel like an icy -4.\n\nVisually, the beach appears gray and moody under overcast skies, suggesting an unpleasant experience for those outdoors. The wave conditions along Lake Michigan could be somewhat choppy due to the strong winds, and with these precipitation forecasts, it may be wise to stay indoors for comfort. For the brave souls venturing out, layered attire is essential; a warm coat, gloves, and a hat are recommended to combat the biting cold. Amidst the winter season, these temperatures align with typical expectations for early December in the Midwest. While outdoor activities may be limited today, indoor pursuits or cozy gatherings would certainly be more inviting during this blustery day as we edge closer to the festive holiday season.",
-    "color_code": "#A8B0B3",
-    "timestamp": "2024-12-04 11:05:19"
+    "weather_report": "As of this afternoon, Evanston, Illinois, is experiencing cool, blustery conditions with temperatures in the mid 30s. The day is mostly cloudy, and the air carries a biting chill, driven by fierce winds that sweep across the shoreline. Expect scattered rain and occasional snow showers as the afternoon progresses, with temperatures likely dipping toward the low 30s. Given a 50% chance of precipitation, it\u2019s prudent to prepare for a mix of rain and snow, but little to no accumulation is expected.\n\nAs evening approaches, the temperature will drop significantly, creating an atmosphere that feels sharper and more severe, with wind chill values plunging to the negatives. Scattered snow showers will linger, adding to the cold and cloudy ambiance, and gusty winds will persist throughout the night, making for a wild, wintry feel. Those venturing outdoors should don warm layers, including a heavy coat, gloves, and a hat to combat the cold. Given that we are in early December, the current temperatures align well with typical seasonal expectations, though the fierce winds may lend an edge of discomfort. With these conditions, it\u2019s best to engage in indoor activities today, perhaps cozying up with a good book or catching up on holiday preparations, as outdoor ventures may be less than inviting.",
+    "color_code": "#A7B1C9",
+    "timestamp": "2024-12-04 12:07:14"
 }
