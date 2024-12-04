@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-04T14:00:00-06:00",
+                "startTime": "2024-12-04T16:00:00-06:00",
                 "endTime": "2024-12-04T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 37,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "20 to 30 mph",
+                "windSpeed": "25 to 30 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/snow,60?size=medium",
-                "shortForecast": "Chance Rain And Snow Showers",
-                "detailedForecast": "A chance of rain and snow showers after 3pm. Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. West wind 20 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers. Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. West wind 25 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the day greets us with a chill, where temperatures hover in the mid-30s, accentuated by a brisk wind that sweeps in from the west, lending a fierce edge to the atmosphere. The sky is overcast, presenting a thick blanket of clouds overhead, hinting at the potential for rain and snow showers later in the afternoon. As the day progresses, temperatures are expected to drop further, accompanied by gusts that could reach up to 50 miles per hour, making it feel much colder, possibly dipping into single digits with wind chill.\n\nFor this evening, scattered snow showers are anticipated, but little accumulation is predicted. The overall appearance outside is rather bleak, with the gray sky reflecting off the lake's surface in muted tones. Those venturing out should bundle up warmly, perhaps opting for insulated layers, a heavy coat, and a warm hat to combat the biting chill. Beach activities are not advisable given the wind and the looming precipitation; instead, a cozy afternoon indoors would be more appropriate, perhaps accompanied by a warm drink. This report comes on an ordinary December day, not marked by any special holiday, but it certainly captures the heart of a typical winter in this part of the Midwest, where such frigid conditions are to be expected in early December.",
-    "color_code": "#A9B3C1",
-    "timestamp": "2024-12-04 15:05:14"
+    "weather_report": "As the sun begins to dip this afternoon in Evanston, the air is brisk with temperatures in the mid to upper 30s, creating a chill that permeates the atmosphere. The scene is shrouded in clouds, with blustery conditions and winds whipping at about 25 to 30 miles per hour, with gusts potentially reaching up to 50. Residents may spot a few snow showers develop, adding to the wintery tableau, though any real accumulation is expected to be minimal. Tonight, temperatures will plunge to the low teens, accompanied by wind chills that may sink as low as -5, making it feel decidedly frigid. \n\nGiven the current season, temperatures are typical for December in the Midwest, but the combination of wind and impending precipitation lends an edge to the day, making it feel quite raw. It's best to bundle up in warm winter gear\u2014think heavy coats, gloves, and perhaps a scarf to fend off the biting wind. As for activities, it might be a good opportunity to cozy up indoors, perhaps at a local caf\u00e9, as outdoor jaunts could prove uncomfortable in such weather. With the holiday season just weeks away, the wintry landscape could inspire festive cheer, even if the conditions are not ideal for outdoor enjoyment.",
+    "color_code": "#A6A4A1",
+    "timestamp": "2024-12-04 16:05:20"
 }
