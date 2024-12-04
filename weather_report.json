@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T13:51:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 74.620485532806,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 210,
-            "description": "Mostly Clear"
+            "timestamp": "2024-12-04T14:51:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 72.137811402908,
+            "wind_speed_mph": 70.86816,
+            "wind_direction": 230,
+            "description": "Partly Cloudy and Windy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-04T09:00:00-06:00",
+                "startTime": "2024-12-04T10:00:00-06:00",
                 "endTime": "2024-12-04T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 38,
@@ -30,10 +30,10 @@
                     "value": 50
                 },
                 "windSpeed": "20 to 25 mph",
-                "windDirection": "WSW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/wind_bkn/snow,50?size=medium",
                 "shortForecast": "Mostly Cloudy then Scattered Rain And Snow Showers",
-                "detailedForecast": "Scattered rain and snow showers after 3pm. Mostly cloudy. High near 38, with temperatures falling to around 34 in the afternoon. West southwest wind 20 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
+                "detailedForecast": "Scattered rain and snow showers after 3pm. Mostly cloudy. High near 38, with temperatures falling to around 34 in the afternoon. West wind 20 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 50%. Little or no snow accumulation expected."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a brisk, cold morning with temperatures hovering in the upper 20s. A gentle breeze from the west southwest stirs through the air, making the atmosphere feel notably chillier. Despite the bite in the air, the day starts with a mostly clear sky, revealing the tranquil waters of Lake Michigan. However, as we move into the afternoon, expect a shift as scattered rain and snow showers are forecasted to emerge, likely starting after 3 PM. The high today will reach into the upper 30s, but the temperature is expected to dip later, with gusty winds possibly enhancing the chill, creating wind chill values that could plummet to around -4 tonight.\n\nGiven the forecast, it's advisable to dress warmly, layering up in insulated coats, scarves, and gloves to combat both the cold and the impending moisture. While waves on the lake could exhibit a bit of a chop due to the wind, the new snow accumulation expected to be minimal means that major disruptions are unlikely for outdoor plans. Seasonal temperatures remain consistent for early December, so consider this a typical chilly day in the Midwest as we approach the heart of winter. If you're looking for an outdoor activity this morning, a walk along the beach or in nearby parks could be invigorating, though later in the day might be better suited for cozy indoor pursuits as the weather shifts.",
-    "color_code": "#A1C1D0",
-    "timestamp": "2024-12-04 09:05:39"
+    "weather_report": "In Evanston, Illinois, the current weather presents a brisk and wintry scene, with temperatures hovering in the low 30s and a notable, howling wind that adds a biting chill to the air. Although the sky is partly cloudy, the cold penetrates through a humidity level that keeps the atmosphere feeling quite damp and chilly. As the day progresses, scattered rain and snow showers are expected, swirling in after 3 PM, while a high near the upper 30s will only provide a brief respite before temperatures begin to dip again in the afternoon.\n\nThis evening, the forecast predicts scattered snow showers before 10 PM, transitioning into a mostly cloudy night with lows around 14. Wind chill could plunge to an uncomfortable -4 degrees, underlining the need for warm and wind-resistant clothing. The lake's surface might show some wave activity as gusts reach up to 50 mph, making conditions less than inviting for outdoor pursuits. For those venturing out, layering up with hats, gloves, and heavier coats is essential to combat the formidable chill. Given that we are in early December, these temperatures feel about typical for this time of year, embracing a true northern winter atmosphere. As we brace for the festive season, indoors may be where most will want to be, enjoying warm drinks while snowflakes dance outside.",
+    "color_code": "#AAB8D5",
+    "timestamp": "2024-12-04 10:06:20"
 }
