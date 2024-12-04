@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T07:51:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 74.306858307595,
-            "wind_speed_mph": 62.00964,
+            "timestamp": "2024-12-04T08:51:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 74.418167408784,
+            "wind_speed_mph": 53.95644000000001,
             "wind_direction": 190,
-            "description": "Cloudy"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-04T02:00:00-06:00",
+                "startTime": "2024-12-04T04:00:00-06:00",
                 "endTime": "2024-12-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 23,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions reveal a wintry chill, with temperatures lingering in the mid 20s, accompanied by a substantial wind creating a brisk feel that makes stepping outdoors a biting experience. The sky is cloaked in clouds, casting a dim light, and the gusty winds are quite fierce, cascading from the south-southwest, making the beach appear rugged and windswept. As we look ahead to the forecast, the weather promises a transition through the night into a mostly cloudy morning, with the low teetering around the low 20s, progressively rising as temperatures inch towards the mid 20s. \n\nOn Wednesday, expect scattered rain and snow showers rolling in around mid-afternoon, signaling a high near the upper 30s before dipping back toward the mid 30s later in the day, with another round of strong winds expected to whip through at 20 to 25 mph and possible gusts reaching up to 50 mph. Currently, precipitation appears minimal, but with a 50% chance as the day unfolds, it's prudent to have an umbrella at the ready. Given the season, winter here is decidedly robust, making layered attire essential\u2014think a snug winter coat, thick gloves, and a warm hat. With the chill in the air and the impending snow showers, it may not be the most inviting day for outdoor activities, making indoor pursuits like visiting a local caf\u00e9 or museum a more agreeable option.",
-    "color_code": "#4A4B5A",
-    "timestamp": "2024-12-04 03:06:09"
+    "weather_report": "Evanston, Illinois, awakes to a chilly scene with temperatures lingering in the mid 20s, accompanied by a damp, somewhat biting breeze that gives the air a brisk feel. The sky remains mostly cloudy, obscuring the early morning sun, as gusts howl through the area at over 50 miles per hour, creating a wild atmosphere reminiscent of mid-winter. The beach, a serene yet stark vista this time of year, reflects the muted colors of dawn, where the approaching waves could hint at the stormy weather to come. Today\u2019s forecast suggests a transition, with the possibility of scattered rain and snow showers later in the afternoon. The high will peak just shy of the upper 30s, falling to around 34 as the day closes, bringing with it the stark reality of December in Illinois; winter is here to stay.\n\nGiven these conditions, it would be wise to dress warmly\u2014layers and wind-resistant outerwear are essential to ward off the chill. While wave conditions at the shore may rise with the gusty winds, it is advisable to reconsider any outdoor activities later in the day, particularly with precipitation on the horizon. This time of year typically sees such temperatures, but the persistent winds can make it feel significantly colder. As we are in the early days of December, while not a major holiday, significant celebrations are just around the corner, making this a fine time to prepare for the festivities ahead.",
+    "color_code": "#4B4C4D",
+    "timestamp": "2024-12-04 04:06:13"
 }
