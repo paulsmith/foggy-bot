@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T08:51:00+00:00",
-            "temperature_f": 26.060000000000002,
-            "temperature_c": -3.3,
-            "humidity": 74.418167408784,
-            "wind_speed_mph": 53.95644000000001,
+            "timestamp": "2024-12-04T09:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 71.701602990317,
+            "wind_speed_mph": 49.929840000000006,
             "wind_direction": 190,
             "description": "Mostly Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-04T04:00:00-06:00",
+                "startTime": "2024-12-04T05:00:00-06:00",
                 "endTime": "2024-12-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 23,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston, Illinois, awakes to a chilly scene with temperatures lingering in the mid 20s, accompanied by a damp, somewhat biting breeze that gives the air a brisk feel. The sky remains mostly cloudy, obscuring the early morning sun, as gusts howl through the area at over 50 miles per hour, creating a wild atmosphere reminiscent of mid-winter. The beach, a serene yet stark vista this time of year, reflects the muted colors of dawn, where the approaching waves could hint at the stormy weather to come. Today\u2019s forecast suggests a transition, with the possibility of scattered rain and snow showers later in the afternoon. The high will peak just shy of the upper 30s, falling to around 34 as the day closes, bringing with it the stark reality of December in Illinois; winter is here to stay.\n\nGiven these conditions, it would be wise to dress warmly\u2014layers and wind-resistant outerwear are essential to ward off the chill. While wave conditions at the shore may rise with the gusty winds, it is advisable to reconsider any outdoor activities later in the day, particularly with precipitation on the horizon. This time of year typically sees such temperatures, but the persistent winds can make it feel significantly colder. As we are in the early days of December, while not a major holiday, significant celebrations are just around the corner, making this a fine time to prepare for the festivities ahead.",
-    "color_code": "#4B4C4D",
-    "timestamp": "2024-12-04 04:06:13"
+    "weather_report": "Current conditions in Evanston, Illinois, reveal a crisp and cool atmosphere with temperatures in the mid 20s, accompanied by a notable gusty wind that adds a biting edge to the air. The skies are mostly cloudy, and as daybreak approaches, the temperature is set to rise slightly, aiming for a low around the mid 20s during the overnight hours. Looking ahead, Wednesday's forecast indicates scattered rain and snow showers in the afternoon, with a high nearing the upper 30s. Winds will remain formidable, blowing from the west-southwest at 20 to 25 mph, possibly gusting even higher, which could create rough patches along the lake.\n\nAs for outdoor appeal, while the frosty ambience might discourage leisurely beach walks, the lively scene could attract those who embrace the chill, perhaps bundled in warm attire. The vigorous winds suggest that wave conditions on Lake Michigan might be quite lively, though little to no snow accumulation is expected. Given the winter season, temperatures are generally typical for early December in this region, falling into the expected range for the time of year. Those venturing outside should dress warmly, opting for layers and windproof jackets. For activities, consider indoor options or brief outdoor excursions that allow you to enjoy the raw beauty of winter along the lakeshore. The community is abuzz with anticipation as the holiday season approaches, making this a perfect time for festive preparations or cozy indoor gatherings.",
+    "color_code": "#4B5E99",
+    "timestamp": "2024-12-04 05:05:10"
 }
