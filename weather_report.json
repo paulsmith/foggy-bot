@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T22:51:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 69.749692312671,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 240,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-05T00:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 42.344179814631,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-04T18:00:00-06:00",
+                "startTime": "2024-12-04T19:00:00-06:00",
                 "endTime": "2024-12-05T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -33,7 +33,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,30/snow?size=medium",
                 "shortForecast": "Scattered Snow Showers",
-                "detailedForecast": "Scattered snow showers before 5am. Mostly cloudy, with a low around 14. Wind chill values as low as -5. West northwest wind 25 to 30 mph, with gusts as high as 55 mph. Chance of precipitation is 30%. Little or no snow accumulation expected."
+                "detailedForecast": "Scattered snow showers before 5am. Mostly cloudy, with a low around 14. Wind chill values as low as -5. West northwest wind 25 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 30%. Little or no snow accumulation expected."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening settles over Evanston, current conditions reveal a brisk chill enveloping the city, with temperatures hovering in the mid 30s and a mostly cloudy sky. The atmosphere carries a noticeable bite, accentuated by a fierce wind sweeping in from the west northwest at considerable speeds. Tonight\u2019s forecast points to scattered snow showers developing before dawn, with a low dipping to around 14 degrees, compounded by wind chill values plummeting to as low as -5. While the chance of precipitation is only 30%, the wild gusts may create a dramatic scene along the beach, with waves likely rising in response.\n\nTomorrow promises little improvement, with mostly sunny skies but persistent cold, as temperatures struggle to reach the high 20s. Wind chill will continue to render it feel even colder, dipping into the negative range at times. Given these conditions, it\u2019s advisable to don heavy winter attire\u2014think thick coats, hats, scarves, and gloves\u2014to shield against the biting cold. The current temperature reflects typical December weather for this region, anchoring us firmly in the heart of winter. While outdoor activities may be limited, bundled walks along Lake Michigan could provide a bracing experience, allowing you to witness the raw beauty of nature in these chilly days leading up to the holiday season.",
-    "color_code": "#0077be",
-    "timestamp": "2024-12-04 18:23:41"
+    "weather_report": "Evanston is currently experiencing a brisk evening with temperatures settling in the mid-20s, complemented by a refreshing feeling in the air, perfect for those who enjoy a chilly ambiance. The scene is mostly clear, offering a glimpse of the vast night sky against the backdrop of Lake Michigan, although the calmness of the evening will soon give way to more tumultuous weather. \n\nTonight, residents can expect scattered snow showers before dawn, as clouds gather overhead. With a low dipping into the low teens, the wind will pick up significantly\u2014howling at 25 to 30 miles per hour from the west-northwest, bringing wind chill values that could feel as frigid as -5 degrees. As for wave conditions on the lake, anticipate some agitation due to these winds, possibly creating rougher waters. A light dusting of snow is expected, but accumulations will be minimal. Those venturing out should bundle up with warm layers, including hats and gloves, to fend off the brisk chill. Given that it's early December, this weather aligns with the typical chill of the season, though the impending wind may intensify the experience for outdoor enthusiasts. Ideal activities might include a cozy night in or perhaps a brisk walk along the shoreline, while keeping an eye on the evolving weather.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-04 19:33:37"
 }
