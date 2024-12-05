@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T21:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 66.864121260669,
-            "wind_speed_mph": 70.86816,
-            "wind_direction": 230,
-            "description": "Mostly Cloudy and Windy"
+            "timestamp": "2024-12-04T22:51:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 69.749692312671,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 240,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-04T17:00:00-06:00",
-                "endTime": "2024-12-04T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 37,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "30 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30?size=medium",
-                "shortForecast": "Scattered Snow Showers",
-                "detailedForecast": "Scattered snow showers. Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. West wind around 30 mph, with gusts as high as 50 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-04T18:00:00-06:00",
                 "endTime": "2024-12-05T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow,30/snow?size=medium",
                 "shortForecast": "Scattered Snow Showers",
                 "detailedForecast": "Scattered snow showers before 5am. Mostly cloudy, with a low around 14. Wind chill values as low as -5. West northwest wind 25 to 30 mph, with gusts as high as 55 mph. Chance of precipitation is 30%. Little or no snow accumulation expected."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2024-12-05T06:00:00-06:00",
+                "endTime": "2024-12-05T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 28,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 to 25 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 28. Wind chill values as low as -3. Northwest wind 15 to 25 mph, with gusts as high as 40 mph."
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston reveal a chilly and blustery atmosphere with temperatures hovering in the upper 30s, creating a crisp and cool environment. As the day unfolds, residents can expect scattered snow showers this afternoon, with overcast skies and the temperatures dipping further to the mid 30s. A fierce west wind is at play, gusting up to 50 miles per hour, emphasizing the cold feel of the day, and contributing to noticeable wind chill values falling into the single digits by nightfall.\n\nThe evening will bring more scattered snow showers, tapering off before dawn, with temperatures sinking to around the low teens. Accumulation from these flurries is expected to be minimal. Given the wintry conditions, the beach may appear less inviting, and the rough waters of Lake Michigan will likely reflect the tumultuous winds, potentially creating hazardous conditions for any ventures near the shore. As for attire, layering is crucial; individuals should opt for warm jackets, hats, and gloves to stave off the biting cold. This weather does align with typical early December temperatures for the region, reminding us that winter is firmly upon us. While indoor activities might be more appealing today, a brisk walk, bundled up well, could still be refreshing. Notably, while December holiday cheer is near, today itself is not marked by any significant celebrations.",
-    "color_code": "#6A5ACD",
-    "timestamp": "2024-12-04 17:05:38"
+    "weather_report": "As evening settles over Evanston, current conditions reveal a brisk chill enveloping the city, with temperatures hovering in the mid 30s and a mostly cloudy sky. The atmosphere carries a noticeable bite, accentuated by a fierce wind sweeping in from the west northwest at considerable speeds. Tonight\u2019s forecast points to scattered snow showers developing before dawn, with a low dipping to around 14 degrees, compounded by wind chill values plummeting to as low as -5. While the chance of precipitation is only 30%, the wild gusts may create a dramatic scene along the beach, with waves likely rising in response.\n\nTomorrow promises little improvement, with mostly sunny skies but persistent cold, as temperatures struggle to reach the high 20s. Wind chill will continue to render it feel even colder, dipping into the negative range at times. Given these conditions, it\u2019s advisable to don heavy winter attire\u2014think thick coats, hats, scarves, and gloves\u2014to shield against the biting cold. The current temperature reflects typical December weather for this region, anchoring us firmly in the heart of winter. While outdoor activities may be limited, bundled walks along Lake Michigan could provide a bracing experience, allowing you to witness the raw beauty of nature in these chilly days leading up to the holiday season.",
+    "color_code": "#0077be",
+    "timestamp": "2024-12-04 18:23:41"
 }
