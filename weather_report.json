@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T00:51:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 42.344179814631,
+            "timestamp": "2024-12-05T01:51:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 43.755441609042,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Mostly Clear"
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-04T20:00:00-06:00",
+                "startTime": "2024-12-04T21:00:00-06:00",
                 "endTime": "2024-12-05T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 50
                 },
                 "windSpeed": "20 to 30 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,40?size=medium",
                 "shortForecast": "Occasional Very Light Snow",
-                "detailedForecast": "Occasional snow and isolated snow showers. Mostly cloudy, with a low around 14. Wind chill values as low as -5. West northwest wind 20 to 30 mph, with gusts as high as 55 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "Occasional snow and scattered snow showers. Mostly cloudy, with a low around 14. Wind chill values as low as -5. West northwest wind 20 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow/sct?size=medium",
-                "shortForecast": "Isolated Snow Showers then Mostly Sunny",
-                "detailedForecast": "Isolated snow showers before 9am. Mostly sunny, with a high near 28. Wind chill values as low as -3. Northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/sct?size=medium",
+                "shortForecast": "Occasional Very Light Snow then Mostly Sunny",
+                "detailedForecast": "Occasional snow and isolated snow showers before 9am. Mostly sunny, with a high near 28. Wind chill values as low as -3. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a chilly evening with a temperature hovering in the upper 20s, under mostly clear skies. The atmosphere is brisk, making it feel particularly crisp and cool outside, ideal for bundled winter attire. As darkness descends, the weather is set to shift; tonight brings a chance of occasional snow flurries, accompanied by overcast conditions and a drop to around 14 degrees. The biting wind from the northwest is expected to pick up, leading to wind chill values plummeting to as low as -5, an indicator of the fierce winter conditions ahead.\n\nLooking forward to Thursday, isolated snow showers may grace the area early in the day, before giving way to bright, sunny intervals. With a forecasted high also in the upper 20s, it's a day to dress warmly, especially given the chance of gusty winds reaching up to 20 mph. Those heading outdoors should be mindful of the potential for snow accumulation and chilly air, well-suited for indoor activities or brief exposure if fully prepared.\n\nAs the waves from Lake Michigan crash against the shore, they may be tumultuous, reflecting the wind\u2019s intensity. Overall, these wintry conditions are quite typical for early December in this region, suggesting a season where snow and cold are expected rather than surprising. Remember to don your warmest layers, as winter is unmistakably here, bringing both challenges and the charm of the season.",
-    "color_code": "#2F2F2F",
-    "timestamp": "2024-12-04 20:32:46"
+    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere with temperatures hovering in the mid-20s, presenting a crisp and cool feel, perfect for bundling up. As the evening progresses, residents can expect occasional snow showers transitioning into more scattered flurries, with temperatures dipping to around the low teens. Winds are predicted to pick up considerably, becoming quite gusty, and wind chill values may fall to about -5, making it advisable to wrap up warmly. \n\nLooking ahead, Thursday morning will bring occasional snow before the sun breaks through, leading to slightly brighter conditions by afternoon. Despite the onset of winter weather, daytime temperatures will remain in the high 20s, which is typical for early December in this region. The brisk winds may create rough wave conditions along Lake Michigan, making any beach visits feel frigid. For those brave enough to venture outdoors tonight or during the day tomorrow, layered clothing, including warm hats and gloves, is highly recommended. Given the evolving weather, cozy indoor activities may be a better choice for this December evening.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2024-12-04 21:19:28"
 }
