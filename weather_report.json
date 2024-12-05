@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T15:51:00+00:00",
-            "temperature_f": 19.04,
-            "temperature_c": -7.2,
-            "humidity": 53.726736646471,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 300,
+            "timestamp": "2024-12-05T17:51:00+00:00",
+            "temperature_f": 24.08,
+            "temperature_c": -4.4,
+            "humidity": 49.888896066596,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Mostly Clear"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As we step into the afternoon in Evanston, the prevailing conditions are brisk and clear, with the temperature hovering in the low 20s, kissed by a cool breeze that whips across the landscape at speeds that could rattle even the most seasoned of winter dwellers. The atmosphere is dry, making the chilly temperatures feel fresher but undeniably crisp. The scene along the shoreline is immaculate, with the sun gracing the waves of Lake Michigan, revealing a vibrant blue that contrasts sharply against the sandy beaches and rocky pier. Wave activity is moderate, ideal for those who appreciate the rhythmic lapping and splashing of water, though caution is advisable if venturing too close to the water\u2019s edge.\n\nLooking ahead, the weather remains promising for the rest of the day, with temperatures destined to climb slightly before settling into the high teens tonight. The forecast indicates partly cloudy skies as evening approaches, accompanied by a gentle breeze transitioning to a more robust gust, perfect for those who enjoy a bracing stroll or a cycle along the lakefront. Attire should lean towards warm layers, perhaps a heavy coat and a knit cap to fend off the chill, particularly as gusty winds could take the edge off even the warmest of outfitting. This December day is far from unusual for the region; it fits snugly into our seasonal expectations with temperatures reflective of typical winter in the Midwest. While it may not be the ideal conditions for sunbathing or picnicking, those with an adventurous spirit will find plenty of enjoyment in seasonal activities today, perhaps a brisk walk to observe the tranquil beauty of winter's embrace by the lake.",
-    "color_code": "#2196F3",
-    "timestamp": "2024-12-05 12:06:17"
+    "weather_report": "This afternoon in Evanston, the weather presents a pleasantly cool scene, with the temperature hovering in the mid 20s, a crisp chill in the air that hints at the essence of winter. The skies are mostly clear, offering a bright sun that lifts spirits even as the cold persists. As we progress into the afternoon, temperatures are expected to rise slightly, but don't expect much more than the upper 20s, accompanied by a brisk northwest wind blowing at a robust pace, creating a refreshing bite that may encourage layering up if you decide to venture outside. \n\nTonight, the weather will transition to partly cloudy skies, with lows dipping into the teens, emphasizing the unmistakably wintry feel of December in the Midwest. Conditions at the beach will be marked by moderate wave activity in Lake Michigan, creating a picturesque, if not a little frosty, view of the shoreline. For attire, consider bundling up with a warm coat, gloves, and perhaps a knitted hat, perfect for enjoying an invigorating walk along the water\u2019s edge. This time of year typically brings such chilly conditions to the region, and while it may be too bracing for all outdoor activities, a brisk walk or simply soaking in the serene winter landscape might just be the perfect remedy for a midweek day.",
+    "color_code": "#8D9DC2",
+    "timestamp": "2024-12-05 13:04:34"
 }
