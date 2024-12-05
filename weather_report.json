@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T08:51:00+00:00",
-            "temperature_f": 12.920000000000002,
-            "temperature_c": -10.6,
-            "humidity": 55.483094166842,
-            "wind_speed_mph": 66.03624,
-            "wind_direction": 290,
+            "timestamp": "2024-12-05T09:51:00+00:00",
+            "temperature_f": 12.020000000000003,
+            "temperature_c": -11.1,
+            "humidity": 55.33994658487,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-05T04:00:00-06:00",
+                "startTime": "2024-12-05T05:00:00-06:00",
                 "endTime": "2024-12-05T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently gripped in the chill of early December, with temperatures hovering in the low teens. The atmosphere is brisk, accompanied by a blustery wind that cuts through the air, making it feel much colder than it is. Under clear skies, there's a certain starkness to the landscape, with the beach extending into the dark waters of Lake Michigan. However, this frigid display is a fleeting moment as we turn our attention to a forecast that promises occasional snow showers overnight, giving way to a mix of sun and clouds during the day. Daytime highs will creep into the upper 20s, but the persistent wind chill will certainly remind residents of winter's presence, with wind gusts bringing sharp, uncomfortable sensations.\n\nFor those contemplating outdoor activities, it's advisable to bundle up thoroughly; heavy coats, scarves, and warm hats are essential to brave the elements. Wave conditions along the lake may become choppy with the boost from the wind, potentially making for a dramatic scene but not ideal for leisurely strolls along the beach. While the holidays are still a few weeks away, today reminds us of the season's touch, conjuring thoughts of winter festivities and cozy gatherings indoors.",
-    "color_code": "#A3C1E4",
-    "timestamp": "2024-12-05 04:06:20"
+    "weather_report": "Current conditions in Evanston reveal a stark, crisp chill as the thermometer hovers in the low teens. The air is refreshing, with a dry quality that contributes to a clear view towards the serene expanse of Lake Michigan, though it\u2019s overwrought with the remnants of a long-standing winter. This early morning will give way to occasional snow showers overnight, with a low hovering around the mid-teens, and a biting wind from the northwest, making the wind chill feel more like several degrees below zero.\n\nAs the day unfolds, snow showers will intermittently present themselves before transitioning to mostly sunny skies by afternoon. Expect temperatures to reach the high 20s, falling into the mid-20s as the sun lowers. The forecast warns of a blustery day, with winds gusting aggressively \u2014 a reminder that the season's harsh grip remains firmly in place. Wave conditions along the lake could be moderate, lending some movement but still far from ideal for boating or swimming. Given the chill and potential for snow, dressing warmly is imperative; think layers, with insulated outerwear, scarves, and sturdy footwear.\n\nThis winter depiction is typically cold for this time of year in the Midwest, reflecting the realities of December in Illinois. Residents might find the briskness invigorating, but outdoor activities will be best suited for the determined. A brisk walk along the shore could be refreshing if bundled correctly, while cozy indoor pursuits are likely to be more appealing on such a wintry day. Today is an ordinary day, without major holiday celebrations, but the festive spirit of the approaching winter holidays is undoubtedly in the air.",
+    "color_code": "#5C5E7D",
+    "timestamp": "2024-12-05 05:05:11"
 }
