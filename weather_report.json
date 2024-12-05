@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T11:51:00+00:00",
-            "temperature_f": 12.020000000000003,
-            "temperature_c": -11.1,
-            "humidity": 57.731663579781,
-            "wind_speed_mph": 66.03624,
+            "timestamp": "2024-12-05T13:51:00+00:00",
+            "temperature_f": 12.920000000000002,
+            "temperature_c": -10.6,
+            "humidity": 58.358440198654,
+            "wind_speed_mph": 62.00964,
             "wind_direction": 300,
             "description": "Mostly Clear"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-05T08:00:00-06:00",
+                "startTime": "2024-12-05T09:00:00-06:00",
                 "endTime": "2024-12-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 to 25 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow/sct?size=medium",
-                "shortForecast": "Occasional Snow Showers then Mostly Sunny",
-                "detailedForecast": "Occasional snow showers before noon. Mostly sunny. High near 29, with temperatures falling to around 26 in the afternoon. Wind chill values as low as 0. Northwest wind 15 to 20 mph, with gusts as high as 40 mph."
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 29, with temperatures falling to around 26 in the afternoon. Northwest wind 15 to 25 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the morning brings a stark chill, with temperatures hovering in the low teens, showcasing a brisk and biting air that feels even colder with the aggressive gusts sweeping in from the northwest. The sky is primarily clear, allowing sunlight to break through but hinting at the occasional snow flurry that may flutter down before noon. While those preparing for the day might find the scene to be beautiful in its starkness, the fierce winds create a jarring atmosphere, making it feel quite inhospitable for long outdoor ventures.\n\nAs the day unfolds, expect occasional scattered snow showers giving way to a mostly sunny sky, with temperatures reaching a high around the upper 20s. The lake, complemented by blustery winds and moderate wave conditions, makes this a day more suited for indoor activities. A wind chill dipping close to zero will likely urge residents to bundle up. Wear insulated clothing, a warm hat, and gloves if venturing outside. This is typical December weather in the Midwest, reflecting the deep chill associated with this season. Given the conditions, it might be best to enjoy cozy indoor pastimes such as reading by the fire or perhaps visiting local shops, keeping warm while watching the winter wonderland transform outside.",
-    "color_code": "#A5B0B7",
-    "timestamp": "2024-12-05 08:05:26"
+    "weather_report": "A raw chill hangs in the air over Evanston this morning as temperatures hover in the low teens, accompanied by a brisk breeze that brings a biting edge to the otherwise mostly clear skies. As the day progresses, residents can expect a welcome warm-up, with sunny conditions promising to lift the high to a near-mid 20s by afternoon, even as a fierce northwesterly wind occasionally gusts, whipping across the lake and churning the waters into frothy waves. Tonight, the temperature will settle around the mid-teens under partly cloudy skies, maintaining that brisk feel as winds subside slightly but still dance at a gentle to moderate pace.\n\nThe scene at Lake Michigan is marked by lively wave conditions, a testament to yesterday's churning weather pattern. Without any precipitation in sight, the day\u2019s clear skies provide an inviting atmosphere, perfect for bundled-up outdoor activities. With proper attire\u2014think insulated jackets, hats, and gloves\u2014those seeking fresh air can enjoy brisk walks along the shoreline or revel in a scenic view of the expansive lake. Given the seasonal chill typically felt in December, these temperatures align fairly well with expectations for early winter in this region. Overall, today is one to experience the invigorating freshness of winter while savoring the beauty of the outdoors.",
+    "color_code": "#0083BF",
+    "timestamp": "2024-12-05 09:05:38"
 }
