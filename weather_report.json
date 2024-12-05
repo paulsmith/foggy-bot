@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T18:51:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 48.380673355481,
-            "wind_speed_mph": 49.929840000000006,
+            "timestamp": "2024-12-05T19:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 48.172406424169,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 300,
             "description": "Mostly Clear"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-05T14:00:00-06:00",
+                "startTime": "2024-12-05T15:00:00-06:00",
                 "endTime": "2024-12-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 28,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 28, with temperatures falling to around 26 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. High near 28, with temperatures falling to around 26 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, current conditions paint a brisk and lively scene by the lake, where temperatures hover in the mid-20s, casting an invigorating chill across the landscape. With a mix of clear skies, this afternoon promises sunny patches, even as temperatures dip slightly as the day progresses. Winds gust fiercely from the northwest, creating a blustery atmosphere that adds a crisp bite to the air. Tonight, expect partly cloudy skies and temperatures dropping further into the mid-teens, accompanied by a gentle breeze that will continue to remind us of the winter chill.\n\nAs for wave conditions, the lake exhibits a moderate chop, indicative of those sustained breezes, which may appeal to avid surfers or those drawn to bracing coastal views. There will be no precipitation to dampen the day, allowing for outdoor enjoyment without the worry of getting wet. It\u2019s advisable to dress warmly in layers, featuring a sturdy winter coat, gloves, and perhaps a wool hat to ward off the cold. Given the time of year, these temperatures are fairly typical for early December in the Midwest, embodying the essence of the season. Whether it's a brisk walk along the beach, a moment of reflective solitude by the shore, or simply enjoying the fresh air, the outdoor conditions invite those to embrace the wintry charm of Evanston.",
-    "color_code": "#A9C1D9",
-    "timestamp": "2024-12-05 14:06:16"
+    "weather_report": "As we look at the current weather in Evanston, the air is quite cold and the sky is adorned with scattered clouds, offering a mostly clear view of the day. Temperatures hover in the mid-20s, creating a crisp and cool atmosphere enhanced by a fierce wind from the northwest at about 45 mph, causing a biting chill as it bites at exposed skin. This afternoon, expect a shift as cloud cover increases, with temperatures dipping slightly and a high near the upper 20s. Tonight brings a transition to partly cloudy skies with a low settling into the mid-teens, accompanied by a gentler breeze.\n\nWhile no precipitation is in sight, the wave conditions on Lake Michigan likely show some choppy surfaces due to the strong winds disrupting the water's calm, inviting caution for those considering activities on the shore. For those venturing outdoors, layering with insulated clothing and windbreakers is recommended, as the combination of cold air and vigorous gusts can lead to an uncomfortably frigid experience. The current temperatures are typical for early December in this region, suggesting winter is well underway. If you're contemplating the great outdoors, a stroll along the beach or a brisk walk in nearby parks could be invigorating, just be prepared for the chill. This day finds itself nestled in the heart of the holiday season, with festive cheer around the corner, adding a touch of warmth to the prevailing cold.",
+    "color_code": "#A0B0B3",
+    "timestamp": "2024-12-05 15:05:15"
 }
