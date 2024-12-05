@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T10:51:00+00:00",
+            "timestamp": "2024-12-05T11:51:00+00:00",
             "temperature_f": 12.020000000000003,
             "temperature_c": -11.1,
             "humidity": 57.731663579781,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Clear"
+            "wind_speed_mph": 66.03624,
+            "wind_direction": 300,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-05T06:00:00-06:00",
+                "startTime": "2024-12-05T07:00:00-06:00",
                 "endTime": "2024-12-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -33,7 +33,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow/sct?size=medium",
                 "shortForecast": "Occasional Snow Showers then Mostly Sunny",
-                "detailedForecast": "Occasional snow showers before noon. Mostly sunny. High near 29, with temperatures falling to around 26 in the afternoon. Wind chill values as low as -4. Northwest wind 15 to 20 mph, with gusts as high as 40 mph."
+                "detailedForecast": "Occasional snow showers before noon. Mostly sunny. High near 29, with temperatures falling to around 26 in the afternoon. Wind chill values as low as -3. Northwest wind 15 to 20 mph, with gusts as high as 40 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the current conditions reveal a chilly scene, with temperatures hovering in the low teens. The air is crisp and dry, complemented by a clear sky that promises bright sunshine later in the day. However, despite the clarity, the wind adds a biting edge, particularly with wind chill values plummeting as low as -4. Waves on Lake Michigan are likely to be stirred up, creating a restless surf in conjunction with the expected gusty winds reaching up to 20 mph.\n\nLooking ahead, occasional snow showers are anticipated early in the day, giving way to mostly sunny conditions by afternoon. The high temperature will glide up to the upper 20s, with a gradual decline towards the 16-degree mark tonight. Outdoor plans may require some adjustments; bundled layers will be essential for warmth, especially with the windy conditions that will make outdoor excursions feel even colder. Given the current season, these temperatures are typical for early December in this region, lending a wintry charm to the landscape. Suggestions for activities might include a brisk walk along the shore or enjoying the local cafes, as long as visitors are prepared for the chill.",
-    "color_code": "#B9C8D4",
-    "timestamp": "2024-12-05 06:08:55"
+    "weather_report": "The current conditions in Evanston present a rather bracing snapshot of winter's grip, with temperatures falling into the low teens. The air feels sharp, accentuated by a fierce wind that sweeps across the landscape, stirring up a brisk chill that demands attention. It's mostly clear at this hour, allowing glimpses of a brightening sky, but the reality remains that with wind gusts shaking the trees and the promise of occasional snow showers before noon, this morning carries a sense of wintry urgency.\n\nAs the day unfolds, residents can expect a gradual warming trend, albeit still within the mid to upper 20s. While the afternoon may bring some respite from the biting cold, the wind chill could plummet to a bone-numbing -3. Tonight, temperatures will dip further, settling around 16 under partly cloudy skies. Those venturing outdoors should consider layering up; hats and gloves will be essential as the breezy conditions deepen the cold's bite. With wave conditions on Lake Michigan likely to be choppy, water activities are best avoided, but a brisk walk by the shoreline could invigorate the spirit. Though not a holiday today, the season itself is undeniably festive, making it a fine opportunity to enjoy the beauty of winter\u2014perhaps a warm drink after a spirited stroll along the beach.",
+    "color_code": "#BFE8DB",
+    "timestamp": "2024-12-05 07:12:03"
 }
