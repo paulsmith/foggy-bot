@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T03:26:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 71.132633959784,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2024-12-05T03:44:00+00:00",
+            "temperature_f": 19.939999999999998,
+            "temperature_c": -6.7,
+            "humidity": 73.778348268757,
+            "wind_speed_mph": 78.92136,
+            "wind_direction": 320,
             "description": "Light Snow and Fog/Mist"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, the temperature hovers just below freezing in the low 20s, accompanied by light snow and a sweeping blanket of fog. The air feels sharp and cold, with a distinctly brisk ambiance enhanced by the dampness that clings to the skin. Looking ahead, the forecast predicts a continuing embrace of winter tonight, with more snow and scattered flurries expected. As temperatures plunge to the mid-teens, wind chill will bite, potentially dipping as low as -5, driven by a howling northwesterly wind gusting aggressively at times.\n\nThough the icy air may deter most outdoor adventures, it might appeal to those keen on experiencing a true winter atmosphere. However, for any planned activities, bundling up with layers including a sturdy coat, gloves, and a thick scarf is essential. The beach, while looking serene under the foggy twilight, is likely too tentative for swimming, with wave conditions reflecting the winter's chill. This night marks an ordinary day without any major holidays approaching, making it perfect for cozing up indoors with a warm beverage rather than engaging with the elements outside.",
-    "color_code": "#4B4C52",
-    "timestamp": "2024-12-04 22:07:01"
+    "weather_report": "Current conditions in Evanston present a chilly scene with light snow accompanying thick fog, creating a somewhat subdued atmosphere. The temperature hovers in the low 20s, and the brisk winds create an uncomfortable bite, leading to a wind chill that drops to a frigid single digit. Despite the twinkling snowflakes, the view across Lake Michigan remains obscured by the mist, leaving the beach looking less inviting during this late evening hour.\n\nLooking ahead, tonight's forecast brings an increase in snow activity with scattered snow showers expected. The temperatures will dip further into the teens, accompanied by blustery northwest winds that could reach up to 45 mph. With a 50% chance of precipitation, additional accumulation is forecasted \u2014 though minimal. Tomorrow, expect a brief respite from the snow, with the day starting partly cloudy and then transitioning to mostly sunny skies, but the slice of warmth is short-lived with afternoon highs only reaching the high 20s. Overall, today's atmosphere is best described as unpleasant for outdoor activities, but cozy indoors with a warm drink or next to the fireplace.\n\nGiven these wintry conditions, bundled layers are essential, including a warm coat, hat, and gloves to shield against the chill. The seasonality aligns with December in the Midwest, where such temperatures are typical, though tonight's wind and conditions elevate the cold feel. As tomorrow unfolds, it might be best to keep activities indoors or, if venturing outside, to enjoy brief walks while adequately prepared against the elements.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-04 23:06:10"
 }
