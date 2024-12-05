@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T09:51:00+00:00",
+            "timestamp": "2024-12-05T10:51:00+00:00",
             "temperature_f": 12.020000000000003,
             "temperature_c": -11.1,
-            "humidity": 55.33994658487,
+            "humidity": 57.731663579781,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Clear"
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-05T05:00:00-06:00",
-                "endTime": "2024-12-05T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 14,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow?size=medium",
-                "shortForecast": "Occasional Snow Showers",
-                "detailedForecast": "Occasional snow showers. Partly cloudy, with a low around 14. Wind chill values as low as -4. West northwest wind around 20 mph, with gusts as high as 40 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2024-12-05T06:00:00-06:00",
                 "endTime": "2024-12-05T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/snow/sct?size=medium",
                 "shortForecast": "Occasional Snow Showers then Mostly Sunny",
                 "detailedForecast": "Occasional snow showers before noon. Mostly sunny. High near 29, with temperatures falling to around 26 in the afternoon. Wind chill values as low as -4. Northwest wind 15 to 20 mph, with gusts as high as 40 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-05T18:00:00-06:00",
+                "endTime": "2024-12-06T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 16,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 16. West northwest wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a stark, crisp chill as the thermometer hovers in the low teens. The air is refreshing, with a dry quality that contributes to a clear view towards the serene expanse of Lake Michigan, though it\u2019s overwrought with the remnants of a long-standing winter. This early morning will give way to occasional snow showers overnight, with a low hovering around the mid-teens, and a biting wind from the northwest, making the wind chill feel more like several degrees below zero.\n\nAs the day unfolds, snow showers will intermittently present themselves before transitioning to mostly sunny skies by afternoon. Expect temperatures to reach the high 20s, falling into the mid-20s as the sun lowers. The forecast warns of a blustery day, with winds gusting aggressively \u2014 a reminder that the season's harsh grip remains firmly in place. Wave conditions along the lake could be moderate, lending some movement but still far from ideal for boating or swimming. Given the chill and potential for snow, dressing warmly is imperative; think layers, with insulated outerwear, scarves, and sturdy footwear.\n\nThis winter depiction is typically cold for this time of year in the Midwest, reflecting the realities of December in Illinois. Residents might find the briskness invigorating, but outdoor activities will be best suited for the determined. A brisk walk along the shore could be refreshing if bundled correctly, while cozy indoor pursuits are likely to be more appealing on such a wintry day. Today is an ordinary day, without major holiday celebrations, but the festive spirit of the approaching winter holidays is undoubtedly in the air.",
-    "color_code": "#5C5E7D",
-    "timestamp": "2024-12-05 05:05:11"
+    "weather_report": "As dawn breaks over Evanston, the current conditions reveal a chilly scene, with temperatures hovering in the low teens. The air is crisp and dry, complemented by a clear sky that promises bright sunshine later in the day. However, despite the clarity, the wind adds a biting edge, particularly with wind chill values plummeting as low as -4. Waves on Lake Michigan are likely to be stirred up, creating a restless surf in conjunction with the expected gusty winds reaching up to 20 mph.\n\nLooking ahead, occasional snow showers are anticipated early in the day, giving way to mostly sunny conditions by afternoon. The high temperature will glide up to the upper 20s, with a gradual decline towards the 16-degree mark tonight. Outdoor plans may require some adjustments; bundled layers will be essential for warmth, especially with the windy conditions that will make outdoor excursions feel even colder. Given the current season, these temperatures are typical for early December in this region, lending a wintry charm to the landscape. Suggestions for activities might include a brisk walk along the shore or enjoying the local cafes, as long as visitors are prepared for the chill.",
+    "color_code": "#B9C8D4",
+    "timestamp": "2024-12-05 06:08:55"
 }
