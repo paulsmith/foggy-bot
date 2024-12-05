@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-05T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-05T12:00:00-06:00",
                 "endTime": "2024-12-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 25 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 29, with temperatures falling to around 26 in the afternoon. Northwest wind 15 to 25 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Sunny. High near 29, with temperatures falling to around 26 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Conditions in Evanston, Illinois, feature a chilly winter feel, with temperatures lingering in the mid 10s. The air is crisp and slightly biting due to a ferocious breeze sweeping in from the northwest at notable speeds, bringing a refreshing chill that could make for a brisk outing. The beach scene reveals clear skies, contributing to a pleasant appearance, though the wind churns up notable wave action on Lake Michigan, suggesting caution for any water activities.\n\nToday's forecast promises sunny intervals, but temperatures are expected to climb only into the upper 20s, falling back to the mid-teens tonight under partly cloudy skies. With no precipitation expected, it remains a dry day, ideal for bundled outdoor adventures. Recommended attire includes heavy winter coats, scarves, and sturdy footwear, particularly if venturing near the shoreline where sand meets the winter waves. Given the season, these temperatures are typical for early December in this region, embodying the heart of winter. Those looking to enjoy the outdoors should consider brisk walks or a visit to local parks, making the most of the clear yet brisk day.",
-    "color_code": "#4682B4",
-    "timestamp": "2024-12-05 11:05:15"
+    "weather_report": "As we step into the afternoon in Evanston, the prevailing conditions are brisk and clear, with the temperature hovering in the low 20s, kissed by a cool breeze that whips across the landscape at speeds that could rattle even the most seasoned of winter dwellers. The atmosphere is dry, making the chilly temperatures feel fresher but undeniably crisp. The scene along the shoreline is immaculate, with the sun gracing the waves of Lake Michigan, revealing a vibrant blue that contrasts sharply against the sandy beaches and rocky pier. Wave activity is moderate, ideal for those who appreciate the rhythmic lapping and splashing of water, though caution is advisable if venturing too close to the water\u2019s edge.\n\nLooking ahead, the weather remains promising for the rest of the day, with temperatures destined to climb slightly before settling into the high teens tonight. The forecast indicates partly cloudy skies as evening approaches, accompanied by a gentle breeze transitioning to a more robust gust, perfect for those who enjoy a bracing stroll or a cycle along the lakefront. Attire should lean towards warm layers, perhaps a heavy coat and a knit cap to fend off the chill, particularly as gusty winds could take the edge off even the warmest of outfitting. This December day is far from unusual for the region; it fits snugly into our seasonal expectations with temperatures reflective of typical winter in the Midwest. While it may not be the ideal conditions for sunbathing or picnicking, those with an adventurous spirit will find plenty of enjoyment in seasonal activities today, perhaps a brisk walk to observe the tranquil beauty of winter's embrace by the lake.",
+    "color_code": "#2196F3",
+    "timestamp": "2024-12-05 12:06:17"
 }
