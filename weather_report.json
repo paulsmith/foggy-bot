@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T17:51:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 49.888896066596,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2024-12-05T18:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 48.380673355481,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 300,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-05T12:00:00-06:00",
+                "startTime": "2024-12-05T14:00:00-06:00",
                 "endTime": "2024-12-05T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 29,
+                "temperature": 28,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 29, with temperatures falling to around 26 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Sunny. High near 28, with temperatures falling to around 26 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This afternoon in Evanston, the weather presents a pleasantly cool scene, with the temperature hovering in the mid 20s, a crisp chill in the air that hints at the essence of winter. The skies are mostly clear, offering a bright sun that lifts spirits even as the cold persists. As we progress into the afternoon, temperatures are expected to rise slightly, but don't expect much more than the upper 20s, accompanied by a brisk northwest wind blowing at a robust pace, creating a refreshing bite that may encourage layering up if you decide to venture outside. \n\nTonight, the weather will transition to partly cloudy skies, with lows dipping into the teens, emphasizing the unmistakably wintry feel of December in the Midwest. Conditions at the beach will be marked by moderate wave activity in Lake Michigan, creating a picturesque, if not a little frosty, view of the shoreline. For attire, consider bundling up with a warm coat, gloves, and perhaps a knitted hat, perfect for enjoying an invigorating walk along the water\u2019s edge. This time of year typically brings such chilly conditions to the region, and while it may be too bracing for all outdoor activities, a brisk walk or simply soaking in the serene winter landscape might just be the perfect remedy for a midweek day.",
-    "color_code": "#8D9DC2",
-    "timestamp": "2024-12-05 13:04:34"
+    "weather_report": "In Evanston, current conditions paint a brisk and lively scene by the lake, where temperatures hover in the mid-20s, casting an invigorating chill across the landscape. With a mix of clear skies, this afternoon promises sunny patches, even as temperatures dip slightly as the day progresses. Winds gust fiercely from the northwest, creating a blustery atmosphere that adds a crisp bite to the air. Tonight, expect partly cloudy skies and temperatures dropping further into the mid-teens, accompanied by a gentle breeze that will continue to remind us of the winter chill.\n\nAs for wave conditions, the lake exhibits a moderate chop, indicative of those sustained breezes, which may appeal to avid surfers or those drawn to bracing coastal views. There will be no precipitation to dampen the day, allowing for outdoor enjoyment without the worry of getting wet. It\u2019s advisable to dress warmly in layers, featuring a sturdy winter coat, gloves, and perhaps a wool hat to ward off the cold. Given the time of year, these temperatures are fairly typical for early December in the Midwest, embodying the essence of the season. Whether it's a brisk walk along the beach, a moment of reflective solitude by the shore, or simply enjoying the fresh air, the outdoor conditions invite those to embrace the wintry charm of Evanston.",
+    "color_code": "#A9C1D9",
+    "timestamp": "2024-12-05 14:06:16"
 }
