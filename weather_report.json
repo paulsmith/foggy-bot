@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T06:51:00+00:00",
-            "temperature_f": 14.0,
-            "temperature_c": -10,
-            "humidity": 52.912017488595,
+            "timestamp": "2024-12-05T07:51:00+00:00",
+            "temperature_f": 12.920000000000002,
+            "temperature_c": -10.6,
+            "humidity": 55.483094166842,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Mostly Clear"
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly, brisk atmosphere with temperatures hovering in the low teens, presenting a distinctly wintry feel characteristic of December. The sky is mostly clear, illuminated by a faint early morning light, though the air carries a biting edge that might encourage one to bundle up. Tonight, occasional snow showers are likely, accompanied by strong northwesterly winds that will bring wind chill values plummeting to around -4, making it important to dress warmly in layers, perhaps with a durable winter coat, gloves, and a hat.\n\nAs we step into Thursday, expect more snow showers in the morning transitioning to mostly sunny skies, though the temperatures are predicted to rise only slightly to the upper 20s, before settling back in the chilly mid-20s by the afternoon. Wave conditions on Lake Michigan might reflect a bit of agitation from the winds, making it less inviting for recreational activities but certainly picturesque. Given the seasonal chill and the scattered snow, today\u2019s landscape offers a wintry charm perfect for cozy indoor pursuits or brisk walks along the shore, reminding everyone of the serene beauty that winter in Evanston can provide.",
-    "color_code": "#1c4f9d",
-    "timestamp": "2024-12-05 02:07:11"
+    "weather_report": "In Evanston, Illinois, current conditions reveal a chilly night with temperatures in the upper teens and clear skies, offering a serene view of Lake Michigan. The air is crisp, inviting a contemplative stroll along the waterfront, although a blustery northwest wind stirs, creating a sense of chill that notably enhances the feel of cold. As the night progresses, occasional snow showers are anticipated, introducing a blanket of white that may cloak the landscape, complemented by gusty winds that could make it feel even colder.\n\nLooking ahead to Thursday, the morning may reveal scattered snow showers, transitioning into mostly sunny skies by midday. Temperatures are expected to inch up to the upper 20s, though they will drop slightly in the afternoon. The wave conditions will likely be moderate, presenting a picturesque backdrop of rolling waves against the shore. For those brave enough to venture outside, dressing warmly in layers, including insulated jackets and hats, will be essential for comfort. As we remain in the grip of winter, these conditions are typical for early December in the Midwest, scoring easily on the chilly side of the comfort spectrum. Seasonal activities like a brisk walk highlighted by the beauty of winter can still make for an enjoyable day, even as the holiday season approaches with cheer in the air.",
+    "color_code": "#2B2D34",
+    "timestamp": "2024-12-05 03:06:14"
 }
