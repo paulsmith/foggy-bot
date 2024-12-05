@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T01:51:00+00:00",
-            "temperature_f": 26.060000000000002,
-            "temperature_c": -3.3,
-            "humidity": 43.755441609042,
+            "timestamp": "2024-12-05T03:26:00+00:00",
+            "temperature_f": 21.92,
+            "temperature_c": -5.6,
+            "humidity": 71.132633959784,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Partly Cloudy"
+            "description": "Light Snow and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-04T21:00:00-06:00",
+                "startTime": "2024-12-04T22:00:00-06:00",
                 "endTime": "2024-12-05T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere with temperatures hovering in the mid-20s, presenting a crisp and cool feel, perfect for bundling up. As the evening progresses, residents can expect occasional snow showers transitioning into more scattered flurries, with temperatures dipping to around the low teens. Winds are predicted to pick up considerably, becoming quite gusty, and wind chill values may fall to about -5, making it advisable to wrap up warmly. \n\nLooking ahead, Thursday morning will bring occasional snow before the sun breaks through, leading to slightly brighter conditions by afternoon. Despite the onset of winter weather, daytime temperatures will remain in the high 20s, which is typical for early December in this region. The brisk winds may create rough wave conditions along Lake Michigan, making any beach visits feel frigid. For those brave enough to venture outdoors tonight or during the day tomorrow, layered clothing, including warm hats and gloves, is highly recommended. Given the evolving weather, cozy indoor activities may be a better choice for this December evening.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2024-12-04 21:19:28"
+    "weather_report": "This evening in Evanston, the temperature hovers just below freezing in the low 20s, accompanied by light snow and a sweeping blanket of fog. The air feels sharp and cold, with a distinctly brisk ambiance enhanced by the dampness that clings to the skin. Looking ahead, the forecast predicts a continuing embrace of winter tonight, with more snow and scattered flurries expected. As temperatures plunge to the mid-teens, wind chill will bite, potentially dipping as low as -5, driven by a howling northwesterly wind gusting aggressively at times.\n\nThough the icy air may deter most outdoor adventures, it might appeal to those keen on experiencing a true winter atmosphere. However, for any planned activities, bundling up with layers including a sturdy coat, gloves, and a thick scarf is essential. The beach, while looking serene under the foggy twilight, is likely too tentative for swimming, with wave conditions reflecting the winter's chill. This night marks an ordinary day without any major holidays approaching, making it perfect for cozing up indoors with a warm beverage rather than engaging with the elements outside.",
+    "color_code": "#4B4C52",
+    "timestamp": "2024-12-04 22:07:01"
 }
