@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-05T07:00:00-06:00",
+                "startTime": "2024-12-05T08:00:00-06:00",
                 "endTime": "2024-12-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -33,7 +33,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow/sct?size=medium",
                 "shortForecast": "Occasional Snow Showers then Mostly Sunny",
-                "detailedForecast": "Occasional snow showers before noon. Mostly sunny. High near 29, with temperatures falling to around 26 in the afternoon. Wind chill values as low as -3. Northwest wind 15 to 20 mph, with gusts as high as 40 mph."
+                "detailedForecast": "Occasional snow showers before noon. Mostly sunny. High near 29, with temperatures falling to around 26 in the afternoon. Wind chill values as low as 0. Northwest wind 15 to 20 mph, with gusts as high as 40 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current conditions in Evanston present a rather bracing snapshot of winter's grip, with temperatures falling into the low teens. The air feels sharp, accentuated by a fierce wind that sweeps across the landscape, stirring up a brisk chill that demands attention. It's mostly clear at this hour, allowing glimpses of a brightening sky, but the reality remains that with wind gusts shaking the trees and the promise of occasional snow showers before noon, this morning carries a sense of wintry urgency.\n\nAs the day unfolds, residents can expect a gradual warming trend, albeit still within the mid to upper 20s. While the afternoon may bring some respite from the biting cold, the wind chill could plummet to a bone-numbing -3. Tonight, temperatures will dip further, settling around 16 under partly cloudy skies. Those venturing outdoors should consider layering up; hats and gloves will be essential as the breezy conditions deepen the cold's bite. With wave conditions on Lake Michigan likely to be choppy, water activities are best avoided, but a brisk walk by the shoreline could invigorate the spirit. Though not a holiday today, the season itself is undeniably festive, making it a fine opportunity to enjoy the beauty of winter\u2014perhaps a warm drink after a spirited stroll along the beach.",
-    "color_code": "#BFE8DB",
-    "timestamp": "2024-12-05 07:12:03"
+    "weather_report": "In Evanston, the morning brings a stark chill, with temperatures hovering in the low teens, showcasing a brisk and biting air that feels even colder with the aggressive gusts sweeping in from the northwest. The sky is primarily clear, allowing sunlight to break through but hinting at the occasional snow flurry that may flutter down before noon. While those preparing for the day might find the scene to be beautiful in its starkness, the fierce winds create a jarring atmosphere, making it feel quite inhospitable for long outdoor ventures.\n\nAs the day unfolds, expect occasional scattered snow showers giving way to a mostly sunny sky, with temperatures reaching a high around the upper 20s. The lake, complemented by blustery winds and moderate wave conditions, makes this a day more suited for indoor activities. A wind chill dipping close to zero will likely urge residents to bundle up. Wear insulated clothing, a warm hat, and gloves if venturing outside. This is typical December weather in the Midwest, reflecting the deep chill associated with this season. Given the conditions, it might be best to enjoy cozy indoor pastimes such as reading by the fire or perhaps visiting local shops, keeping warm while watching the winter wonderland transform outside.",
+    "color_code": "#A5B0B7",
+    "timestamp": "2024-12-05 08:05:26"
 }
