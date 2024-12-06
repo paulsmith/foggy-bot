@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-06T17:51:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 42.344179814631,
-            "wind_speed_mph": 41.07132,
+            "timestamp": "2024-12-06T18:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 46.09675930015,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 240,
-            "description": "Mostly Cloudy"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-06T13:00:00-06:00",
+                "startTime": "2024-12-06T14:00:00-06:00",
                 "endTime": "2024-12-06T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-06T18:00:00-06:00",
                 "endTime": "2024-12-07T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 24,
+                "temperature": 26,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 24. West southwest wind around 10 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 26. West southwest wind around 10 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As we take a moment to appreciate the current weather in Evanston, Illinois, the scene reflects a chilly atmosphere with temperatures hovering in the upper 20s, amplifying the coolness of the day. The air carries a brisk, gusty wind from the west-southwest, lending a dynamic edge to the landscape. The sky displays a mostly cloudy demeanor, contributing to an impression of muted colors along the lakefront. While there\u2019s no immediate threat of precipitation, the wave conditions may be slightly choppy, making activities like boating less than ideal.\n\nLooking ahead, the forecast suggests a transition into mostly sunny skies this afternoon, with a high near the low 30s, before dipping to the mid-20s overnight. As the clouds part slightly, one might catch glimpses of winter's subtle beauty. With gusty winds expected to continue, layered attire is advisable to stay comfortable. Residents and visitors might find solace in indoor pursuits or a brisk walk to enjoy the serene winter landscape, especially as the holiday season approaches. As the day unfolds in December, temperatures are decidedly typical for this time of year in the Midwest, reminding us that winter\u2019s chill is firmly settled in.",
-    "color_code": "#B0C4D0",
-    "timestamp": "2024-12-06 13:04:58"
+    "weather_report": "Current conditions in Evanston reveal a chilly and blustery scene along Lake Michigan, with temperatures hovering in the mid-20s and a strong wind stirring the air. The clouds hang low, casting a muted gray over the beach, creating an atmosphere that feels distinctly wintery. As we look towards the afternoon, expect a transition to mostly sunny skies, though temperatures will only slightly rise, ultimately reaching the low 30s. Tonight will descend back into mostly cloudy weather with temperatures dropping to the mid-20s once again, and gusty winds will persist.\n\nGiven the conditions, dressing warmly is essential\u2014think layers, with a thick coat, hat, and gloves to combat the biting chill. As for the wave conditions, the brisk wind may stir up some movement on the water, making it less than ideal for a leisurely stroll along the shore. Though there\u2019s no immediate threat of precipitation today, the cloud cover can still bring a sense of dampness to the air. This December day in North Shore Illinois is right on the money for winter, reminding us of the season\u2019s typical bite. For those looking to embrace the outdoors, a brisk walk could be invigorating if dressed appropriately, centering on the beauty of the Lake Michigan shoreline as the seasons turn.",
+    "color_code": "#A7B2C5",
+    "timestamp": "2024-12-06 14:06:11"
 }
