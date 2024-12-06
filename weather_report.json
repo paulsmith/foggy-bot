@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-06T08:51:00+00:00",
-            "temperature_f": 17.06,
-            "temperature_c": -8.3,
-            "humidity": 70.001211999313,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 230,
+            "timestamp": "2024-12-06T09:51:00+00:00",
+            "temperature_f": 15.979999999999997,
+            "temperature_c": -8.9,
+            "humidity": 73.352369508984,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 240,
             "description": "Mostly Clear"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn approaches in Evanston, current conditions reveal a chilly atmosphere with temperatures nestled in the mid to high teens, complemented by a gentle breeze from the west. The dry, mostly clear sky allows for a hint of moonlight to illuminate the serene landscape, creating a tranquil setting by Lake Michigan. As we look ahead to the day, expect mostly sunny skies with temperatures rising into the high 20s by afternoon, reminiscent of a typical early December day in the Midwest where the crisp air kisses the skin.\n\nWaves along the lakeshore may be a bit brisk, but no significant precipitation is anticipated, ensuring a pleasant duration for any outdoor activities. Dressing warmly in layers, perhaps with a cozy hat and gloves, would be advisable to navigate the refreshing chill. This calm winter morning invites opportunities for a leisurely stroll along the shoreline or a brisk walk through the nearby parks, attending to the natural beauty that winter has to offer. As this is not a holiday, it seems poised to be a perfect day for some peaceful reflection in nature before the holiday season draws near.",
-    "color_code": "#A7B8D9",
-    "timestamp": "2024-12-06 04:06:13"
+    "weather_report": "Current conditions in Evanston paint a picture of a chilly and blustery morning, with temperatures lingering in the mid teens and a strong, gusty wind sweeping across the landscape. The air feels crisp, and the sky remains mostly clear, promising a bright, albeit cold, day ahead. As we look forward, the forecast suggests that temperatures will rise to the high twenties by afternoon, making for a more pleasant experience, though a gentle breeze will persist, adding a bit of an edge to the chill.\n\nWave conditions on Lake Michigan are likely to be moderate, typical for this time of year, with no precipitation expected, keeping the shoreline clear and inviting for winter walks. Dress warmly if you're heading out, layering with hats and gloves to protect against the biting cold and wind. Reflecting the wintry season in this part of the world, today's temperatures are consistent with December expectations, presenting a quintessential northwestern Illinois winter day. Activities like brisk walks along the beach or simply enjoying the clear skies will make for a satisfying way to embrace the wintry landscape, untouched by the holiday hustle just around the corner.",
+    "color_code": "#2E2E2E",
+    "timestamp": "2024-12-06 05:05:00"
 }
