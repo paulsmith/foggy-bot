@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-06T19:51:00+00:00",
-            "temperature_f": 28.94,
-            "temperature_c": -1.7,
-            "humidity": 44.60435137242,
+            "timestamp": "2024-12-06T21:51:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 41.153125681742,
             "wind_speed_mph": 37.04472,
             "wind_direction": 230,
             "description": "Mostly Cloudy"
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-06T16:00:00-06:00",
+                "startTime": "2024-12-06T17:00:00-06:00",
                 "endTime": "2024-12-06T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 31, with temperatures falling to around 29 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly sunny. High near 31, with temperatures falling to around 29 in the afternoon. West southwest wind around 10 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reflect a chilly and slightly blustery winter afternoon. With temperatures hovering in the upper 20s and a mostly cloudy sky, the air carries a crispness that signals a typical December day in the Midwest. Although the wind is howling from the west-southwest, gusting fiercely at times, there\u2019s no immediate threat of significant precipitation, leaving the shore of Lake Michigan tranquil yet somewhat somber.\n\nAs we look ahead, the weather will shift towards a sunnier disposition this afternoon with expected highs near 30 degrees. Tonight, temperatures will dip into the mid-20s under partly cloudy skies and light winds. Overall, the day presents a blend of chilly weather that\u2019s generally typical for this time of year. Attire recommendations lean towards warm layers, including a sturdy coat, hats, and gloves to ward off the cold. While the beach might not be a hotspot for extensive outdoor activities today, a brisk walk along the shore could be invigorating, provided you\u2019re prepared for the biting wind. Embrace the winter landscape\u2014indeed, it\u2019s a fine day for enjoying hot beverages or settling indoors with a good book by the fireside.",
-    "color_code": "#A0C4E1",
-    "timestamp": "2024-12-06 16:05:13"
+    "weather_report": "Current conditions in Evanston reveal a chilly scene, with temperatures hovering in the low 30s, lending a crisp texture to the air. The daylight fades into mostly cloudy skies, casting a muted light over the shoreline at Lake Michigan. Blustery winds whip through the area at an energetic pace, an invigorating reminder of winter's approach. There appears to be no precipitation, offering a clear opportunity for outdoor enjoyment, albeit bundled up against the cold.\n\nAs we transition into the evening, expect temperatures to dip into the mid-20s, maintaining breezy conditions as the wind sways but seems to carry away any lingering moisture. Though today's weather is typical for early December in this part of the Midwest, the scene offers a beautiful, albeit brisk, backdrop for activities like a walk along the beach or a visit to nearby parks, perfect for savoring the seasonal chill. Don your warmest layers, and consider a hat and gloves if venturing outside, as the atmosphere invites for a brisk yet pleasant winter outing.",
+    "color_code": "#3D5B91",
+    "timestamp": "2024-12-06 17:05:11"
 }
