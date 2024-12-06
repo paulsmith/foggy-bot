@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-05T21:00:00-06:00",
+                "startTime": "2024-12-05T22:00:00-06:00",
                 "endTime": "2024-12-06T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 16,
@@ -33,7 +33,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 16. West wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly cloudy, with a low around 16. West wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a crisp and cool atmosphere, with temperatures in the low 20s and a blustery wind sweeping from the west at a notable speed. The partly cloudy sky casts a muted light, creating a serene yet somewhat stark scene, particularly along the beach as it stretches towards the quiet waters of Lake Michigan. Tonight, expect a further drop in temperature, sinking to around the mid-teens, accompanied by a gentle west wind which may create a slightly chillier feel. \n\nLooking ahead to Friday, the forecast predicts mostly sunny skies with temperatures climbing to a pleasant high near the low 30s, making for an inviting day as the wind eases to a light breeze. As we embrace the early December season, this temperature trend remains typical for the region, although the wind adds an extra bite to the air. Given these conditions, it's advisable to bundle up in layers and consider a warm coat, gloves, and a hat if venturing outdoors. With the waves likely on the calmer side, it could be a pleasant opportunity for a brisk winter walk or a moment to enjoy the serene beauty of the lake, although activities might be limited after sunset, especially under these colder temperatures.",
-    "color_code": "#2E2A31",
-    "timestamp": "2024-12-05 21:19:02"
+    "weather_report": "In Evanston, the evening ushers in a crisp and cool atmosphere, currently hovering in the low 20s. The partly cloudy skies allow for a glimpse of stars amid the brisk winds blowing in from the west at a lively pace, creating a refreshing chill that invigorates the senses. As the night progresses, temperatures are expected to dip further to around 16 degrees, with gentle breezes continuing their dance along the shore, ideal for bundling up and enjoying a quiet night stroll along Lake Michigan.\n\nLooking ahead to Friday, the weather promises a transition to sunnier skies with the temperatures rising into the low 30s. The clear daylight will spark a more inviting aura, though those venturing out will still feel the brisk chill\u2014perfect for outdoor activities that embrace winter\u2019s spirit, like visiting the local parks for a peaceful walk or jogging along the scenic lakefront. Wave conditions are likely to remain moderate, with no major precipitation expected in the immediate forecast. It\u2019s advisable to don layers for warmth and perhaps a cozy hat as you head out into the invigorating winter air. As we progress through December, residents can anticipate typical seasonal chills that characterize this time of year in the Midwest, with winter celebrations and holidays just around the corner.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2024-12-05 22:06:55"
 }
