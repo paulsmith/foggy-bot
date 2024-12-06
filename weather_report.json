@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-06T18:51:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 46.09675930015,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 240,
-            "description": "Cloudy"
+            "timestamp": "2024-12-06T19:51:00+00:00",
+            "temperature_f": 28.94,
+            "temperature_c": -1.7,
+            "humidity": 44.60435137242,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 230,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly and blustery scene along Lake Michigan, with temperatures hovering in the mid-20s and a strong wind stirring the air. The clouds hang low, casting a muted gray over the beach, creating an atmosphere that feels distinctly wintery. As we look towards the afternoon, expect a transition to mostly sunny skies, though temperatures will only slightly rise, ultimately reaching the low 30s. Tonight will descend back into mostly cloudy weather with temperatures dropping to the mid-20s once again, and gusty winds will persist.\n\nGiven the conditions, dressing warmly is essential\u2014think layers, with a thick coat, hat, and gloves to combat the biting chill. As for the wave conditions, the brisk wind may stir up some movement on the water, making it less than ideal for a leisurely stroll along the shore. Though there\u2019s no immediate threat of precipitation today, the cloud cover can still bring a sense of dampness to the air. This December day in North Shore Illinois is right on the money for winter, reminding us of the season\u2019s typical bite. For those looking to embrace the outdoors, a brisk walk could be invigorating if dressed appropriately, centering on the beauty of the Lake Michigan shoreline as the seasons turn.",
-    "color_code": "#A7B2C5",
-    "timestamp": "2024-12-06 14:06:11"
+    "weather_report": "As the afternoon unfolds in Evanston, the weather brings a crisp chill with temperatures hovering in the upper 20s. The air feels distinctly invigorating, complemented by a gusty breeze sweeping in from the west-southwest. Clouds linger overhead, creating a mostly cloudy sky that adds a subtle gray hue to the landscape but allows for snippets of sunshine to break through intermittently. The wind\u2019s spirited dance across Lake Michigan raises the water into gentle yet animated waves, perfect for those who appreciate the invigorating sound and sight of nature at play.\n\nLooking ahead, the atmosphere will remain fairly stable, with temperatures expected to inch slightly higher this afternoon, reaching near 31, before settling back down to about 26 tonight. With the winds becoming more gentle, creating a less blustery feel, the evening offers a more serene opportunity for an evening stroll along the shore if you\u2019re bundled adequately against the cool air. No precipitation is anticipated, making this a favorable day for outdoor activities, be it a walk on the beach, enjoying the fresh air, or just gazing at the picturesque lakefront scenery. As we embrace early December, these temperatures are typical for this season, wrapping us in the familiar chill of winter while ushering in the holiday spirit with the sights and sounds of the shoreline.",
+    "color_code": "#A5B8C4",
+    "timestamp": "2024-12-06 15:05:09"
 }
