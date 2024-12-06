@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-06T15:51:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 56.883597586315,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 220,
-            "description": "Mostly Clear"
+            "timestamp": "2024-12-06T17:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 42.344179814631,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 240,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-06T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-06T13:00:00-06:00",
                 "endTime": "2024-12-06T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 24. West southwest wind 5 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly cloudy, with a low around 24. West southwest wind around 10 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather brings a blend of chilly air and a mostly clear sky, creating a crisp atmosphere as temperatures hover in the low 20s. The strong winds howling from the west-southwest add a bit of bite to the air, reminding residents that winter is firmly in charge. As the day unfolds, expect a transition to mostly sunny skies, with temperatures peaking near the low 30s before settling back into the mid 20s this evening. The wind will ease, providing a bit more comfort for any outdoor activities.\n\nThe beach looks inviting under the clear skies, although the wind will stir up the waves along Lake Michigan. Precipitation is not on the agenda today, making it a fine time for a stroll along the shoreline to appreciate the serene beauty of the water. Given the chilly temperatures, layered clothing is advised\u2014think warm jackets, scarves, and perhaps hats to fend off the cold as you enjoy the outdoors. Despite the seasonal chill, conditions remain typical for early December in the Midwest, making it an opportune day for winter walks or simply to savor a quiet moment by the lake before the holidays approach.",
-    "color_code": "#A0C4E2",
-    "timestamp": "2024-12-06 11:05:40"
+    "weather_report": "As we take a moment to appreciate the current weather in Evanston, Illinois, the scene reflects a chilly atmosphere with temperatures hovering in the upper 20s, amplifying the coolness of the day. The air carries a brisk, gusty wind from the west-southwest, lending a dynamic edge to the landscape. The sky displays a mostly cloudy demeanor, contributing to an impression of muted colors along the lakefront. While there\u2019s no immediate threat of precipitation, the wave conditions may be slightly choppy, making activities like boating less than ideal.\n\nLooking ahead, the forecast suggests a transition into mostly sunny skies this afternoon, with a high near the low 30s, before dipping to the mid-20s overnight. As the clouds part slightly, one might catch glimpses of winter's subtle beauty. With gusty winds expected to continue, layered attire is advisable to stay comfortable. Residents and visitors might find solace in indoor pursuits or a brisk walk to enjoy the serene winter landscape, especially as the holiday season approaches. As the day unfolds in December, temperatures are decidedly typical for this time of year in the Midwest, reminding us that winter\u2019s chill is firmly settled in.",
+    "color_code": "#B0C4D0",
+    "timestamp": "2024-12-06 13:04:58"
 }
