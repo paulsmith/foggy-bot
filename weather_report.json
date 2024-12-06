@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-06T06:51:00+00:00",
+            "timestamp": "2024-12-06T07:51:00+00:00",
             "temperature_f": 17.96,
             "temperature_c": -7.8,
             "humidity": 67.338102313471,
-            "wind_speed_mph": 24.964920000000003,
+            "wind_speed_mph": 16.91172,
             "wind_direction": 250,
             "description": "Partly Cloudy"
         },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois, paints a chilly picture with temperatures hovering in the mid teens. The air feels quite brisk, with a steady, fierce breeze sweeping in from the west, lending an invigorating touch to the evening. Conditions remain partly cloudy, allowing occasional glimpses of the star-strewn sky, but no precipitation is forecasted for now. \n\nLooking ahead to tomorrow, the promise of a brighter day unfolds, as mostly sunny skies will take center stage, with temperatures expected to climb to the low 30s. The wind is predicted to back off a touch, becoming a gentler breeze, which will make the outdoor atmosphere feel a bit more inviting for those venturing outside. Given the seasonal context, these temperatures are indeed typical for early December in this region. Attire recommendations would lean towards layering up\u2014think warm coats, hats, and gloves\u2014and perhaps a sturdy pair of boots if you're planning to brave the beach or nearby parks tomorrow. With the sunny forecast and a crisp feel in the air, it\u2019s an ideal time for a brisk walk or an adventurous outing.",
-    "color_code": "#1C3F74",
-    "timestamp": "2024-12-06 02:06:59"
+    "weather_report": "Evanston is currently experiencing a chilly night, with temperatures hovering in the mid to upper teens, accompanied by a gentle breeze from the west. The atmosphere feels quite crisp, with a noticeable bite to the air that encourages bundling up if venturing outside. Though the sky is partly cloudy, it offers glimpses of stars twinkling through the clouds, presenting a serene yet stark winter tableau by the lake.\n\nAs we look ahead to the day, Friday promises to turn brighter with mostly sunny skies prevailing. Temperatures will climb notably, reaching into the low 30s, as a brisk west-southwest wind stirs the air. While there's no precipitation expected, the conditions may generate some gentle waves on Lake Michigan, perfect for an invigorating winter stroll along the beach. Recommended attire would include warm layers\u2014sweaters and jackets\u2014along with a scarf and gloves to guard against the chill. Despite the winter season, the forecasted temperatures align reasonably with what one would expect in early December, making it a good day for outdoor enthusiasts to explore local parks or simply enjoy the scenic beauty of the lakeshore.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-06 03:05:51"
 }
