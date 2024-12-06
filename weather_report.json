@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-06T00:51:00+00:00",
-            "temperature_f": 26.060000000000002,
-            "temperature_c": -3.3,
-            "humidity": 52.268502688551,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 290,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-06T01:51:00+00:00",
+            "temperature_f": 24.08,
+            "temperature_c": -4.4,
+            "humidity": 56.755572735001,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 280,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-05T19:00:00-06:00",
+                "startTime": "2024-12-05T21:00:00-06:00",
                 "endTime": "2024-12-06T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 16,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "WNW",
+                "windSpeed": "10 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 16. West northwest wind 10 to 15 mph."
+                "detailedForecast": "Partly cloudy, with a low around 16. West wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly evening as the temperature hovers in the low 20s, accompanied by a notable wind that creates a bristling chill in the air. The sky is mostly cloudy, casting a muted glow over the beach as it reaches towards Lake Michigan. For the rest of tonight, expect a partly cloudy night with temperatures dipping to the mid-teens and a gentle breeze from the west-northwest that may bring a slight warmth to the otherwise cold conditions. Tomorrow promises a brighter day, with mostly sunny skies and temperatures climbing into the low 30s, though the wind will pick up again, bringing gusts that could stir the waters of the lake.\n\nTonight's beach scene presents a somewhat stark beauty, with wave conditions likely remaining moderate given the present wind. While precipitation isn\u2019t in the forecast, the crispness of the evening might deter some from a stroll along the shoreline. Dressing warmly with layers and a sturdy coat is advisable, perhaps complemented by a cozy hat and gloves to fend off the biting cold. In this season, such temperatures can feel typical for early December in Illinois, signaling that winter is well underway. This suggests the ideal opportunity to savor indoor activities, enjoy a nice warm drink, or perhaps plan ahead for a brisk walk on a sunnier day tomorrow, highlighting the charm of Evanston's beautiful lakefront, even in these wintry conditions.",
-    "color_code": "#2F2D29",
-    "timestamp": "2024-12-05 20:32:06"
+    "weather_report": "Current conditions in Evanston present a crisp and cool atmosphere, with temperatures in the low 20s and a blustery wind sweeping from the west at a notable speed. The partly cloudy sky casts a muted light, creating a serene yet somewhat stark scene, particularly along the beach as it stretches towards the quiet waters of Lake Michigan. Tonight, expect a further drop in temperature, sinking to around the mid-teens, accompanied by a gentle west wind which may create a slightly chillier feel. \n\nLooking ahead to Friday, the forecast predicts mostly sunny skies with temperatures climbing to a pleasant high near the low 30s, making for an inviting day as the wind eases to a light breeze. As we embrace the early December season, this temperature trend remains typical for the region, although the wind adds an extra bite to the air. Given these conditions, it's advisable to bundle up in layers and consider a warm coat, gloves, and a hat if venturing outdoors. With the waves likely on the calmer side, it could be a pleasant opportunity for a brisk winter walk or a moment to enjoy the serene beauty of the lake, although activities might be limited after sunset, especially under these colder temperatures.",
+    "color_code": "#2E2A31",
+    "timestamp": "2024-12-05 21:19:02"
 }
