@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-06T14:51:00+00:00",
-            "temperature_f": 19.04,
-            "temperature_c": -7.2,
-            "humidity": 64.289719305684,
-            "wind_speed_mph": 41.07132,
+            "timestamp": "2024-12-06T15:51:00+00:00",
+            "temperature_f": 21.92,
+            "temperature_c": -5.6,
+            "humidity": 56.883597586315,
+            "wind_speed_mph": 49.929840000000006,
             "wind_direction": 220,
             "description": "Mostly Clear"
         },
@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-06T09:00:00-06:00",
+                "startTime": "2024-12-06T11:00:00-06:00",
                 "endTime": "2024-12-06T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 30,
+                "temperature": 31,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 30, with temperatures falling to around 28 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly sunny. High near 31, with temperatures falling to around 29 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 to 15 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 24. West southwest wind 5 to 10 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly cloudy, with a low around 24. West southwest wind 5 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the sun rises over Evanston, the air carries a distinct chill, with current temperatures hovering in the low 20s, accompanied by brisk winds that add a notable bite to the atmosphere. The sky remains mostly clear, revealing a serene outlook, while the waves of Lake Michigan breathe gently along the beach, hinting at a backdrop ripe for contemplation or a brisk stroll. With no immediate precipitation expected, the day promises to progress pleasantly, transitioning into partly cloudy skies as it cools into the mid-20s by nightfall. \n\nConditions remain typically seasonal for early December, reflecting the sharpness and crispness one associates with the Great Lakes region this time of year. A winter coat, perhaps layered with a warm scarf and gloves, will ensure comfort against the gusty breezes. It could be a good day for those who savor outdoor activities \u2014 a walk by the shore or a cozy gathering in a local caf\u00e9 might be just the ticket, allowing one to appreciate the stark beauty of the landscape without the encumbrance of wet weather. While today is not marked by any notable holidays, the approaching festive season adds a layer of cheer to the chill in the air.",
-    "color_code": "#B2C2CE",
-    "timestamp": "2024-12-06 10:06:09"
+    "weather_report": "In Evanston, the current weather brings a blend of chilly air and a mostly clear sky, creating a crisp atmosphere as temperatures hover in the low 20s. The strong winds howling from the west-southwest add a bit of bite to the air, reminding residents that winter is firmly in charge. As the day unfolds, expect a transition to mostly sunny skies, with temperatures peaking near the low 30s before settling back into the mid 20s this evening. The wind will ease, providing a bit more comfort for any outdoor activities.\n\nThe beach looks inviting under the clear skies, although the wind will stir up the waves along Lake Michigan. Precipitation is not on the agenda today, making it a fine time for a stroll along the shoreline to appreciate the serene beauty of the water. Given the chilly temperatures, layered clothing is advised\u2014think warm jackets, scarves, and perhaps hats to fend off the cold as you enjoy the outdoors. Despite the seasonal chill, conditions remain typical for early December in the Midwest, making it an opportune day for winter walks or simply to savor a quiet moment by the lake before the holidays approach.",
+    "color_code": "#A0C4E2",
+    "timestamp": "2024-12-06 11:05:40"
 }
