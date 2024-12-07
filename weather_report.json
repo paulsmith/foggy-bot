@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-07T15:51:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 51.345458829976,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 220,
+            "timestamp": "2024-12-07T17:51:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 42.531025506731,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 210,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-07T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-07T13:00:00-06:00",
                 "endTime": "2024-12-07T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "20 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 44. Southwest wind 15 to 20 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 44. Southwest wind around 20 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -49,14 +49,14 @@
                     "value": null
                 },
                 "windSpeed": "10 to 20 mph",
-                "windDirection": "WSW",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 36. West southwest wind 10 to 20 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Partly cloudy, with a low around 36. Southwest wind 10 to 20 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing brisk conditions, with temperatures in the mid 30s accompanied by a noticeable breeze that has a fierce nature, creating a shivering chill as one steps outside. The sky is predominantly overcast, rendering the daylight a muted gray, but there's no immediate threat of precipitation. The rest of the day is expected to see a gradual warming to a high in the low 40s, with winds calming slightly yet still likely to present a noticeable gustiness.\n\nAs evening approaches, the skies will shift to a partly cloudy embrace, housing a low temperature around the mid 30s. Residents can expect mild wave activity from Lake Michigan, though it should remain manageable. For those venturing outdoors, layered attire is advisable \u2014 a warm coat, gloves, and a scarf would keep the chill at bay, especially in this season, as temperatures are typically colder in December. While it may not be the most inviting day for outdoor recreation, a brisk walk along the beach or an impromptu visit to a local caf\u00e9 could be refreshing. \n\nWith no significant holidays on the horizon today, it\u2019s a perfect time for those looking to enjoy winter's early presence.",
-    "color_code": "#B0C4D6",
-    "timestamp": "2024-12-07 11:04:49"
+    "weather_report": "Current conditions in Evanston reveal a fresh, brisk atmosphere, characterized by a temperature in the low 40s with a notable, gusty wind sweeping in from the southwest. The skies are mostly cloudy, lending a somewhat muted tone to the day, though visibility remains clear enough to appreciate the beauty of the shoreline and Lake Michigan. This afternoon, expect the clouds to persist, with temperatures rising only slightly, peaking near the mid 40s. Evening will bring partly cloudy skies and a gradual cool down towards the upper 30s, as the wind continues to whisper and sway, calming from its midday vigor.\n\nWave conditions along the lake are likely to be moderate, influenced by the blustery winds, making it a less than ideal time for those looking to venture onto the water. As for attire, it's advisable to dress warmly in layers\u2014perhaps a sturdy coat paired with a scarf and hat\u2014to fend off the chill. Given that it\u2019s early December, these temperatures align with seasonal norms, reflecting the advancing winter season. Suitable activities this afternoon may include a brisk walk along the beach while enjoying the crisp air or a cozy retreat to a local caf\u00e9 to warm up, as the day brings no significant precipitation.",
+    "color_code": null,
+    "timestamp": "2024-12-07 13:04:52"
 }
