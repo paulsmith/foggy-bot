@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-07T01:51:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 42.683581875572,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 230,
+            "timestamp": "2024-12-07T02:51:00+00:00",
+            "temperature_f": 28.94,
+            "temperature_c": -1.7,
+            "humidity": 46.429635374189,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 240,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-06T20:00:00-06:00",
+                "startTime": "2024-12-06T22:00:00-06:00",
                 "endTime": "2024-12-07T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 26,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 26. West southwest wind 5 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 26. West southwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the night is marked by crisp, cool temperatures sitting in the low 30s, creating a biting chill enhanced by a fierce wind from the west-southwest. The skies are mostly clear, providing a rare moment of tranquility before clouds roll in later. As the evening settles, the forecast indicates a shift towards a cloudy night, with temperatures dipping to the mid 20s, while a gentle breeze prevails.\n\nLooking ahead to Saturday, expect mostly cloudy skies with temperatures rising to the low 40s. The southwest winds will increase, delivering gusts that could reach up to 35 miles per hour, resulting in a brisk and potentially blustery day. The lake, being a prominent feature in Evanston, may experience heightened wave activity due to the wind, making it less inviting for those hoping for a calm day by the water. Given the cool feel in the air, it\u2019s advisable to bundle up in warm layers, including a sturdy coat, gloves, and a hat, especially if you're planning to enjoy the outdoors. While this weather is typical for December in the Midwest, it has its own beauty, inviting residents to enjoy cozy indoor activities or brisk walks, perhaps even with a thermos of hot cocoa in hand.",
-    "color_code": "#A8C7E1",
-    "timestamp": "2024-12-06 21:17:52"
+    "weather_report": "As of now in Evanston, temperatures hover in the upper 20s, creating a crisp and cool atmosphere, with a formidable wind making its presence known as it sweeps in from the west-southwest at a vigorous pace. Tonight, expect cloudy skies settling in as temperatures dip to around the mid-20s, accompanied by a gentler breeze that should offer a brief respite from today's gusts. Tomorrow will usher in mostly cloudy conditions with a high nearing the low 40s, bringing with it a breezy southwest wind that will stir up the air again, reminding us of winter's grip.\n\nDespite the chill and the wild winds, the beach maintains a serene charm, although wave conditions are likely to be more robust with the strong gusts affecting the shoreline. Fortunately, there is no anticipated precipitation to dampen the evening or the day ahead, allowing for a pleasant appearance, albeit a bit raw. Dressing warmly is essential; layers including a good winter coat, hat, and gloves will serve you well, providing comfort against the biting cold that this season typically brings. In perspective, these temperatures are characteristic of early December in this region, marking a familiar shift as we embrace winter's embrace. Given the conditions, a leisurely walk along the beach might be revitalizing, though it may be wise to keep it brief due to the cold, or perhaps venture indoors to warm up with a cozy drink as the festive season approaches.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2024-12-06 22:06:19"
 }
