@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-07T08:56:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 57.3471522885,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 230,
+            "timestamp": "2024-12-07T09:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 54.972549379974,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 220,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-07T04:00:00-06:00",
-                "endTime": "2024-12-07T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 26,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 26. Southwest wind 5 to 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2024-12-07T06:00:00-06:00",
                 "endTime": "2024-12-07T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny, with a high near 44. Southwest wind 10 to 20 mph, with gusts as high as 35 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-07T18:00:00-06:00",
+                "endTime": "2024-12-08T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 20 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 36. West southwest wind 10 to 20 mph, with gusts as high as 35 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions are particularly brisk, with temperatures hovering in the mid 20s, making it feel quite chilly outdoors. The air carries a slight moisture, giving a somewhat crisp feel as the southwest wind whips at 25 mph, presenting a challenging atmosphere for those venturing outside. The sky is largely draped in clouds, creating a subdued ambiance by the beach. Today\u2019s forecast looks to bring partly sunny skies and a modest warming trend, climbing into the low 40s as the day progresses. This quiet transition from a rather stern morning will be complemented by a gentle to breezy southwest wind, likely causing occasional gusts that add to the atmospheric dynamics.\n\nDespite the brisk conditions, the beach presents a tranquil scene for morning reflections; however, with waves stirred by the wind, it wouldn\u2019t be ideal for swimming. For outdoor activities, a warm coat will be necessary due to the biting chill, paired with gloves and a hat to fend off the cold air. The temperature, having settled into below-average ranges typical for December in this region, suggests that winter is firmly upon us, and there's no precipitation expected today, allowing for clear explorations if dressed appropriately. With no major holidays approaching immediately, this weekend could be an excellent time for a brisk stroll by the lakeshore or a visit to nearby coffee shops to warm up.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2024-12-07 05:04:50"
+    "weather_report": "As dawn breaks over Evanston, residents are met with a chilly scene, where temperatures linger in the mid-20s, accompanied by a bracing breeze that sends a tingle through the air. The skies are mostly cloudy, creating a somewhat muted ambiance, and the wind is certainly noticeable, swirling from the southwest at a brisk pace. While the temperature feels cool, the humidity adds a touch of crispness, making outdoor conditions feel refreshingly sharp yet manageable.\n\nLooking ahead, today's weather promises some brightness, transitioning to partly sunny conditions that will warm the high to around the mid-40s. The winds will shift to a gentler breeze, although gusts might still catch you off guard. Nightfall will usher in partly cloudy skies with temperatures dropping to a low in the mid-30s, ensuring a cool evening ahead. With no precipitation expected throughout the day, water sports might not be on the agenda just yet, but the waves of Lake Michigan will likely be calm, creating a serene setting for a stroll along the shoreline. Attire recommendations include layered clothing, perhaps a light jacket or sweater, to navigate the day's varied temperatures comfortably. Given that we're in early December, this chill is quite typical for the season in the region, urging everyone to embrace the winter atmosphere. A walk by the beach seems particularly inviting today, perfect for gathering thoughts or enjoying the quiet beauty of nature as the world wakes up.",
+    "color_code": "#2D3E50",
+    "timestamp": "2024-12-07 06:08:05"
 }
