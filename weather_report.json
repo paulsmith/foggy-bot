@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-07T05:51:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 50.360490713057,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 210,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-12-07T06:51:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 54.833072865634,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 230,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-07T00:00:00-06:00",
+                "startTime": "2024-12-07T02:00:00-06:00",
                 "endTime": "2024-12-07T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 26,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 26. West southwest wind 5 to 10 mph."
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 26. Southwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-07T06:00:00-06:00",
                 "endTime": "2024-12-07T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 43,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -51,12 +51,12 @@
                 "windSpeed": "10 to 20 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 43. Southwest wind 10 to 20 mph, with gusts as high as 35 mph."
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 44. Southwest wind 10 to 20 mph, with gusts as high as 35 mph."
             }
         ]
     },
-    "weather_report": "Evanston's current weather presents a brisk evening with temperatures hovering in the upper 20s, complemented by a gentle breeze that brings a chill to the air. The atmosphere is partly cloudy, setting a serene scene along the lakeshore. As night progresses, expect clouds to thicken, with overnight lows maintaining a steady chill, supported by light winds from the west-southwest. By Saturday, the weather shifts slightly with a forecast high in the low 40s and increasing cloud cover, as a more blustery southwesterly wind could stir up the lake.\n\nFor those venturing outdoors, the current conditions might feel slightly biting; hence, layering should be on the agenda. A warm coat, hat, and gloves will enhance comfort during brisk walks by Lake Michigan. While waves will be manageable under the somewhat cloudy conditions, any outdoor activities should keep in mind the chilly forecast as we transition to a new day. Though there are no immediate precipitation concerns, the cloud cover may lend a gray tone to the horizon, a reminder of the winter season upon us. As the calendar pushes forward into December, the temperatures are typical for this time of year in the Midwest.",
-    "color_code": "#5B99E1",
-    "timestamp": "2024-12-07 01:05:11"
+    "weather_report": "Current conditions in Evanston are marked by a brisk chill, as temperatures linger in the mid 20s with a notable wind that adds a bite to the air. The scene is mostly clear, though the beach area may be shadowed under a veil of clouds intermittently throughout the night. As for the wind, it\u2019s quite gusty, creating a sharp contrast against the otherwise still surroundings. There\u2019s no precipitation expected, ensuring a dry environment for those considering a stroll by the lake.\n\nLooking ahead to Saturday, residents can anticipate a gradual warming with a high reaching into the mid 40s, as the sun attempts to break through. The day will likely feel pleasant and cool for outdoor activities, ideal for enjoying a walk along the shore or taking in the sights of the Chicago skyline from a distance. As winter settles deeper into the season, these temperatures are consistent with what\u2019s typical for early December in the region. For optimal comfort, dressing in layered attire, including a warm coat and sturdy shoes, is advised to contend with both the cool temperatures and the blustery wind that could gust up to 35 mph. While this day doesn\u2019t coincide with any major holiday, the early December atmosphere may still lend itself to festive preparations in the air.",
+    "color_code": "#7C9CD8",
+    "timestamp": "2024-12-07 02:06:30"
 }
