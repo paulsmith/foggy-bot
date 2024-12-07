@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-07T12:51:00+00:00",
+            "timestamp": "2024-12-07T13:51:00+00:00",
             "temperature_f": 24.98,
             "temperature_c": -3.9,
             "humidity": 62.570785623356,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 200,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 210,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-07T07:00:00-06:00",
+                "startTime": "2024-12-07T08:00:00-06:00",
                 "endTime": "2024-12-07T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -32,8 +32,8 @@
                 "windSpeed": "10 to 20 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 44. Southwest wind 10 to 20 mph, with gusts as high as 35 mph."
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 44. Southwest wind 10 to 20 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather paints a chilly scene with temperatures hovering in the mid-20s, combined with a brisk, gusty wind sweeping in from the southwest. Under mostly cloudy skies, the atmosphere feels crisp yet biting, urging one to bundle up against the freshness that permeates the air. As the day unfolds, expect a transition to partly sunny skies, with highs reaching into the low 40s and winds maintaining their spirited nature, gusting up to 35 mph, which will keep the wind chill noticeably lower. Tonight, temperatures will drop to the mid-30s as clouds linger, creating a cool evening.\n\nThe waves along Lake Michigan may be slightly choppy due to the wind, but there\u2019s no precipitation expected today, allowing for clarity in the surroundings despite the chilly air. Recommended attire would include warmer layers, perhaps a good winter coat, a hat, and gloves to fend off the bite of the cold. Given that we're deep into December, these temperatures are typical for this time of year in the Midwest, where winter's grip often brings such brisk conditions. Ideal outdoor activities may include a brisk walk along the shoreline, enjoying the scenic views of the lake, or perhaps a cozy afternoon at a nearby caf\u00e9, appreciating the charm of Evanston as the holiday season approaches.",
-    "color_code": "#C4D6E9",
-    "timestamp": "2024-12-07 08:04:58"
+    "weather_report": "This morning in Evanston, the air feels crisp and cool as temperatures hover in the mid-20s, accompanied by a gentle wind from the southwest that adds a refreshing touch to the atmosphere. Currently, the sky is mostly cloudy, setting a somewhat muted tone, but those clouds will slowly break apart as the day progresses. By the afternoon, expect a high nearing the mid-40s with a light to moderate breeze that could stir up some rolling waves along the shoreline. \n\nFor today's adventures, dressing in layers would be wise; consider a warm jacket with a cozy sweater underneath. While the absence of precipitation keeps things dry and manageable, evenings will bring a gentle chill with temperatures dropping into the upper 30s. Despite the transitional weather typical for early December in the Midwest, it\u2019s a fine day for a brisk walk by the beach or perhaps enjoying the views of Lake Michigan while wrapped up in warm attire. As a reminder, we\u2019re just a week away from celebrating the holiday season, which adds a touch of festivity to the fall atmosphere.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2024-12-07 09:04:50"
 }
