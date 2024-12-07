@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-07T13:51:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 62.570785623356,
-            "wind_speed_mph": 20.93832,
+            "timestamp": "2024-12-07T14:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 57.804431374469,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 210,
             "description": "Mostly Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-07T08:00:00-06:00",
+                "startTime": "2024-12-07T10:00:00-06:00",
                 "endTime": "2024-12-07T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 44. Southwest wind 10 to 20 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 44. Southwest wind 15 to 20 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the air feels crisp and cool as temperatures hover in the mid-20s, accompanied by a gentle wind from the southwest that adds a refreshing touch to the atmosphere. Currently, the sky is mostly cloudy, setting a somewhat muted tone, but those clouds will slowly break apart as the day progresses. By the afternoon, expect a high nearing the mid-40s with a light to moderate breeze that could stir up some rolling waves along the shoreline. \n\nFor today's adventures, dressing in layers would be wise; consider a warm jacket with a cozy sweater underneath. While the absence of precipitation keeps things dry and manageable, evenings will bring a gentle chill with temperatures dropping into the upper 30s. Despite the transitional weather typical for early December in the Midwest, it\u2019s a fine day for a brisk walk by the beach or perhaps enjoying the views of Lake Michigan while wrapped up in warm attire. As a reminder, we\u2019re just a week away from celebrating the holiday season, which adds a touch of festivity to the fall atmosphere.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2024-12-07 09:04:50"
+    "weather_report": "Evanston, Illinois, is currently experiencing a chilly day marked by mostly cloudy skies and a brisk wind, making the air feel refreshingly crisp. The temperature hovers in the mid 20s, complemented by a strong, gusty breeze that could make it feel even colder. With no precipitation in sight, visibility is clear, allowing for a view across the beach towards Lake Michigan, where the water's gentle ripples reflect the muted tones of the overcast sky.\n\nAs we look to the forecast for later today and into tonight, expect the temperature to climb toward the low 40s with a gradual decrease in cloud cover. Winds will lessen slightly but remain quite breezy from the southwest, keeping it feeling a bit chilly. It\u2019s advisable to dress warmly with layers and perhaps wear a windbreaker to shield against the cool gusts. For those contemplating outdoor activities, the late afternoon may present better opportunities for a stroll by the lakeshore or enjoying the serenity at the park, though anticipate a brisk feel in the air suitable for brisk walking or light jogging, especially as the sun begins to set and temperatures drop again into the evening.",
+    "color_code": "#8DA1B1",
+    "timestamp": "2024-12-07 10:05:22"
 }
