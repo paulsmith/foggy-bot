@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-07T17:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 42.531025506731,
+            "timestamp": "2024-12-07T18:51:00+00:00",
+            "temperature_f": 44.06,
+            "temperature_c": 6.7,
+            "humidity": 41.126162176546,
             "wind_speed_mph": 62.00964,
-            "wind_direction": 210,
+            "wind_direction": 220,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-07T13:00:00-06:00",
+                "startTime": "2024-12-07T14:00:00-06:00",
                 "endTime": "2024-12-07T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 44,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -32,8 +32,8 @@
                 "windSpeed": "20 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 44. Southwest wind around 20 mph, with gusts as high as 35 mph."
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 46, with temperatures falling to around 43 in the afternoon. Southwest wind around 20 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a fresh, brisk atmosphere, characterized by a temperature in the low 40s with a notable, gusty wind sweeping in from the southwest. The skies are mostly cloudy, lending a somewhat muted tone to the day, though visibility remains clear enough to appreciate the beauty of the shoreline and Lake Michigan. This afternoon, expect the clouds to persist, with temperatures rising only slightly, peaking near the mid 40s. Evening will bring partly cloudy skies and a gradual cool down towards the upper 30s, as the wind continues to whisper and sway, calming from its midday vigor.\n\nWave conditions along the lake are likely to be moderate, influenced by the blustery winds, making it a less than ideal time for those looking to venture onto the water. As for attire, it's advisable to dress warmly in layers\u2014perhaps a sturdy coat paired with a scarf and hat\u2014to fend off the chill. Given that it\u2019s early December, these temperatures align with seasonal norms, reflecting the advancing winter season. Suitable activities this afternoon may include a brisk walk along the beach while enjoying the crisp air or a cozy retreat to a local caf\u00e9 to warm up, as the day brings no significant precipitation.",
-    "color_code": null,
-    "timestamp": "2024-12-07 13:04:52"
+    "weather_report": "In Evanston, Illinois, the current weather offers a cool, breezy ambiance with temperatures hugging the low 40s and conditions feeling quite crisp. As we look toward the afternoon, expect partly sunny skies with a high approaching the mid 40s, though temperatures may dip back into the low 40s as the day progresses. A brisk southwest wind adds a bit of chill, gusting fiercely at times, lending an invigorating quality to the air. \n\nThe day is mostly clear, with no precipitation on the horizon. The waves on Lake Michigan are moderate, making for a soothing backdrop. In terms of attire, it\u2019s wise to don layers with a hearty jacket and perhaps a scarf to ward off the cool breezes. Overall, while winter is just around the corner, these temperatures are typical for early December in this region. This afternoon presents an idyllic opportunity for a bracing walk along the beach or time spent in the nearby parks, relishing the fresh air and engaging with nature before the chill of winter sets in.",
+    "color_code": "#A7C6D7",
+    "timestamp": "2024-12-07 14:05:49"
 }
