@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-07T14:51:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 57.804431374469,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 210,
+            "timestamp": "2024-12-07T15:51:00+00:00",
+            "temperature_f": 33.08,
+            "temperature_c": 0.6,
+            "humidity": 51.345458829976,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 220,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-07T10:00:00-06:00",
+                "startTime": "2024-12-07T11:00:00-06:00",
                 "endTime": "2024-12-07T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston, Illinois, is currently experiencing a chilly day marked by mostly cloudy skies and a brisk wind, making the air feel refreshingly crisp. The temperature hovers in the mid 20s, complemented by a strong, gusty breeze that could make it feel even colder. With no precipitation in sight, visibility is clear, allowing for a view across the beach towards Lake Michigan, where the water's gentle ripples reflect the muted tones of the overcast sky.\n\nAs we look to the forecast for later today and into tonight, expect the temperature to climb toward the low 40s with a gradual decrease in cloud cover. Winds will lessen slightly but remain quite breezy from the southwest, keeping it feeling a bit chilly. It\u2019s advisable to dress warmly with layers and perhaps wear a windbreaker to shield against the cool gusts. For those contemplating outdoor activities, the late afternoon may present better opportunities for a stroll by the lakeshore or enjoying the serenity at the park, though anticipate a brisk feel in the air suitable for brisk walking or light jogging, especially as the sun begins to set and temperatures drop again into the evening.",
-    "color_code": "#8DA1B1",
-    "timestamp": "2024-12-07 10:05:22"
+    "weather_report": "Evanston is currently experiencing brisk conditions, with temperatures in the mid 30s accompanied by a noticeable breeze that has a fierce nature, creating a shivering chill as one steps outside. The sky is predominantly overcast, rendering the daylight a muted gray, but there's no immediate threat of precipitation. The rest of the day is expected to see a gradual warming to a high in the low 40s, with winds calming slightly yet still likely to present a noticeable gustiness.\n\nAs evening approaches, the skies will shift to a partly cloudy embrace, housing a low temperature around the mid 30s. Residents can expect mild wave activity from Lake Michigan, though it should remain manageable. For those venturing outdoors, layered attire is advisable \u2014 a warm coat, gloves, and a scarf would keep the chill at bay, especially in this season, as temperatures are typically colder in December. While it may not be the most inviting day for outdoor recreation, a brisk walk along the beach or an impromptu visit to a local caf\u00e9 could be refreshing. \n\nWith no significant holidays on the horizon today, it\u2019s a perfect time for those looking to enjoy winter's early presence.",
+    "color_code": "#B0C4D6",
+    "timestamp": "2024-12-07 11:04:49"
 }
