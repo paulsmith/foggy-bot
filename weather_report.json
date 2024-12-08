@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-08T13:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 72.471548868089,
+            "timestamp": "2024-12-08T14:51:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 64.951166789497,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 230,
+            "wind_direction": 250,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-08T09:00:00-06:00",
+                "startTime": "2024-12-08T10:00:00-06:00",
                 "endTime": "2024-12-08T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston are marked by a crisp and cool atmosphere, with temperatures settling in the low 40s and a gentle breeze whispering in from the southwest at about 5 to 10 mph. The day promises a beautiful transition to sunnier weather, with temperatures expected to peak in the mid 50s before gradually falling into a cloudy night. A chance of drizzle is likely after 8 PM, as the sky shifts to mostly cloudy, but initial outings today should be both pleasant and inviting, offering great clarity across the landscape toward Lake Michigan.\n\nAs for the water, conditions appear fairly calm with minimal wave action, ideal for leisurely strolls along the beach. When heading outdoors, it's wise to bundle up in layers \u2014 perhaps a light jacket and comfortable shoes \u2014 to enjoy the fresh air as you embrace the changing seasons. Given that we are deep into December, these temperatures mirror what one might expect, striking a balance between the remnants of autumn and the onset of winter. With a calm day and the promise of drier afternoon air, now is a perfect opportunity for a winter walk by the water, or to indulge in cozy indoor activities as the evening approaches, especially while we gear up for the holiday season just around the corner.",
-    "color_code": "#3C92C6",
-    "timestamp": "2024-12-08 09:04:43"
+    "weather_report": "Current conditions in Evanston, Illinois, reveal a chilly, somewhat blustery day with a temperature in the low 40s. The humidity adds a chill in the air, making it feel cooler as gusts whip in from the west. Today\u2019s forecast predicts a transition to sunny skies as temperatures rise to the high 50s before tapering off. However, tonight brings the potential for drizzle, as clouds gather again; temperatures will hover around the low 40s, slightly warming overnight. The lakefront is likely serene yet brisk, with gentle wave conditions reflecting the chill in the air.\n\nFor those venturing outdoors, a warm jacket and possibly a hat would be prudent against the cool breeze. While the day appears favorable for a stroll along the beach or in one of the local parks, it\u2019s best to be prepared for the evening's chance of drizzle. Given the season, such temperatures are typical for December in the Midwest, presenting a seasonally appropriate coolness. Enjoying the tranquil views of the lakefront, perhaps with a hot drink in hand, could provide a peaceful escape before the weekend. As the day unfolds, it\u2019s also noteworthy that this time of year draws close to the winter holidays, filling the air with a sense of festive anticipation.",
+    "color_code": "#2C3E50",
+    "timestamp": "2024-12-08 10:05:35"
 }
