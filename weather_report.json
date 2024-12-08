@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-08T14:51:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 64.951166789497,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 250,
+            "timestamp": "2024-12-08T15:51:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 60.371423103123,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 240,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-08T10:00:00-06:00",
+                "startTime": "2024-12-08T11:00:00-06:00",
                 "endTime": "2024-12-08T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "SSW",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 53, with temperatures falling to around 50 in the afternoon. South southwest wind 5 to 10 mph."
+                "detailedForecast": "Sunny. High near 53, with temperatures falling to around 50 in the afternoon. South wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a chilly, somewhat blustery day with a temperature in the low 40s. The humidity adds a chill in the air, making it feel cooler as gusts whip in from the west. Today\u2019s forecast predicts a transition to sunny skies as temperatures rise to the high 50s before tapering off. However, tonight brings the potential for drizzle, as clouds gather again; temperatures will hover around the low 40s, slightly warming overnight. The lakefront is likely serene yet brisk, with gentle wave conditions reflecting the chill in the air.\n\nFor those venturing outdoors, a warm jacket and possibly a hat would be prudent against the cool breeze. While the day appears favorable for a stroll along the beach or in one of the local parks, it\u2019s best to be prepared for the evening's chance of drizzle. Given the season, such temperatures are typical for December in the Midwest, presenting a seasonally appropriate coolness. Enjoying the tranquil views of the lakefront, perhaps with a hot drink in hand, could provide a peaceful escape before the weekend. As the day unfolds, it\u2019s also noteworthy that this time of year draws close to the winter holidays, filling the air with a sense of festive anticipation.",
-    "color_code": "#2C3E50",
-    "timestamp": "2024-12-08 10:05:35"
+    "weather_report": "Current conditions in Evanston, Illinois, reveal a brisk and invigorating atmosphere, with temperatures wandering in the mid 40s and a gentle, yet noticeable breeze brushing across the landscape. The sky displays a mostly cloudy demeanor, casting a soft, muted light over the sandy beach and shimmering waters of Lake Michigan, where the waves likely lap patiently at the shore, presenting a soothing scene. As the day unfolds, expect a switch to sunnier skies, reaching for a high in the low 50s before tapering off to the upper 40s later in the afternoon. \n\nWith a chance of light drizzle trickling in after 8 PM, you may want to keep an umbrella handy as the temperatures dip into the low 40s tonight. Dress warmly in layers to fend off the chill from the encroaching evening and wind gusts, which may make their presence felt by adding a hint of briskness to your outing. This time of year typically ushers in colder weather in Illinois, making today\u2019s temperatures comparatively mild for early December. Given these conditions, a leisurely stroll along the beach could be a delightful way to enjoy the scenery, though sunset views may inspire just a moment of quiet reflection as the day winds down.",
+    "color_code": "#A4B9D9",
+    "timestamp": "2024-12-08 11:04:44"
 }
