@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-08T09:51:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 64.366395426096,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 230,
+            "timestamp": "2024-12-08T10:51:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 67.105479906029,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 250,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-08T05:00:00-06:00",
-                "endTime": "2024-12-08T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 37,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 37, with temperatures rising to around 40 overnight. West southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2024-12-08T06:00:00-06:00",
                 "endTime": "2024-12-08T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 53, with temperatures falling to around 50 in the afternoon. South southwest wind 5 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-08T18:00:00-06:00",
+                "endTime": "2024-12-09T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
+                "shortForecast": "Chance Drizzle",
+                "detailedForecast": "A chance of drizzle after 8pm. Mostly cloudy. Low around 42, with temperatures rising to around 45 overnight. South southwest wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston this morning, current conditions present a brisk atmosphere with temperatures in the low 40s, paired with a gentle, cool breeze. The skies are mostly clear, creating an inviting eastern view towards Lake Michigan, though the chill in the air reminds us that winter is firmly in place. As we look forward to the day, expect the weather to shift to partly cloudy skies overnight, with a low settling around 37, while a light breeze from the west-southwest offers a touch of comfort. Sunday will greet us with mostly sunny skies, warming up to the low 50s in the afternoon, though temperatures will dip again later in the day.\n\nOverall, while today may feel a bit nippy, it\u2019s a pleasant winter day, especially for those who enjoy the crisp freshness of the season. With the winds stirring the lake, wave conditions are likely to be moderate but manageable\u2014ideal for viewing but not quite the weather for a swim. As for attire, layering is recommended to stay warm, possibly reaching for a heavy coat, scarf, and gloves. Given that it\u2019s December, these temperatures are typical for this time of year along the Midwest shoreline. Whether it's a brisk stroll along the beach or simply savoring a warm drink in the light of the sun later in the day, it\u2019s a perfect opportunity to enjoy the beauty of winter in Evanston.",
-    "color_code": "#A8B8C7",
-    "timestamp": "2024-12-08 05:04:39"
+    "weather_report": "Current conditions in Evanston reveal a cool and crisp atmosphere, with temperatures hovering in the low 40s and a noticeable breeze that brings a blustery touch to the air. The sky is mostly clear, allowing for a glimpse of early morning light, while the gentle rolling waves of Lake Michigan contrast against the rigid shoreline. As we move into today, the forecast predicts a transition to mostly sunny skies, with temperatures rising to the high 50s before dipping back down in the afternoon. However, tonight brings a chance of drizzle after 8 PM, accompanied by clouds and a slight rise in overnight temperatures to around the mid 40s.\n\nWhile today's daylight offers pleasant conditions for a brisk walk along the beach or a leisurely stroll through a nearby park, those planning outdoor activities should prepare for the possibility of rain later in the evening. Dressing in layers is advisable, with a light jacket to fend off the chill, especially as the day winds down. Overall, the temperature remains typical for this winter season, where an early touch of winter coolness prevails in the Midwest. Amid the inviting daylight, the day is a fine opportunity to enjoy the sights of the shoreline or visit local cafes, even as the season's chill begins to set in.",
+    "color_code": "#A3B1C3",
+    "timestamp": "2024-12-08 06:08:12"
 }
