@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-08T15:51:00+00:00",
-            "temperature_f": 46.04,
-            "temperature_c": 7.8,
-            "humidity": 60.371423103123,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 240,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-08T17:51:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 54.110084017545,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 170,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-08T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-08T13:00:00-06:00",
                 "endTime": "2024-12-08T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 53, with temperatures falling to around 50 in the afternoon. South wind 5 to 10 mph."
+                "detailedForecast": "Sunny. High near 53, with temperatures falling to around 49 in the afternoon. South wind around 10 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-08T18:00:00-06:00",
                 "endTime": "2024-12-09T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 42,
+                "temperature": 45,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Drizzle",
-                "detailedForecast": "A chance of drizzle after 8pm. Mostly cloudy. Low around 42, with temperatures rising to around 45 overnight. South southwest wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,30?size=medium",
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Areas of drizzle after 8pm. Mostly cloudy, with a low around 45. South southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a brisk and invigorating atmosphere, with temperatures wandering in the mid 40s and a gentle, yet noticeable breeze brushing across the landscape. The sky displays a mostly cloudy demeanor, casting a soft, muted light over the sandy beach and shimmering waters of Lake Michigan, where the waves likely lap patiently at the shore, presenting a soothing scene. As the day unfolds, expect a switch to sunnier skies, reaching for a high in the low 50s before tapering off to the upper 40s later in the afternoon. \n\nWith a chance of light drizzle trickling in after 8 PM, you may want to keep an umbrella handy as the temperatures dip into the low 40s tonight. Dress warmly in layers to fend off the chill from the encroaching evening and wind gusts, which may make their presence felt by adding a hint of briskness to your outing. This time of year typically ushers in colder weather in Illinois, making today\u2019s temperatures comparatively mild for early December. Given these conditions, a leisurely stroll along the beach could be a delightful way to enjoy the scenery, though sunset views may inspire just a moment of quiet reflection as the day winds down.",
-    "color_code": "#A4B9D9",
-    "timestamp": "2024-12-08 11:04:44"
+    "weather_report": "Current conditions in Evanston reveal a somewhat chilly yet manageable day, with temperatures in the low 50s and a gentle breeze offering a crisp feel. The sky is dotted with clouds, revealing patches of blue, creating a partly cloudy backdrop. Looking ahead, this afternoon promises sunshine with highs expected to hover near the mid-50s, although temperatures will gradually dip to around the upper 40s. Tonight, a shift in conditions brings areas of drizzle after 8 PM, accompanied by mostly cloudy skies and lows around the mid-40s. The chance of precipitation stands modest at 30%, and while total expected rainfall won\u2019t be significant, it could bring a dampened atmosphere.\n\nWith Lake Michigan just a stone's throw away, wave conditions should be calm, ideal for strolling along the shore or enjoying the fresh lake breeze. However, prepare for the possibility of light rain later, so it would be wise to carry an umbrella. For the season, this temperature is fairly typical for early December in the Midwest, marking a notable shift as we move deeper into winter. Dressing in layers will offer versatility to navigate the cool, dry air \u2013 a light jacket complemented by a warmer middle layer should suffice. Given the time of year and the evening drizzle forecast, the beach might not draw large crowds, but if one seeks adventure, northern shores always beckon with splendid views and the serene sound of gentle waves.",
+    "color_code": "#A7B2B5",
+    "timestamp": "2024-12-08 13:04:39"
 }
