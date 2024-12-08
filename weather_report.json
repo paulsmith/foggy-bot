@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-08T02:51:00+00:00",
+            "timestamp": "2024-12-08T03:51:00+00:00",
             "temperature_f": 44.96,
             "temperature_c": 7.2,
-            "humidity": 53.191916466365,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 220,
+            "humidity": 55.585563066252,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 230,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-07T22:00:00-06:00",
+                "startTime": "2024-12-07T23:00:00-06:00",
                 "endTime": "2024-12-08T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -33,7 +33,7 @@
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 37, with temperatures rising to around 40 overnight. West southwest wind 10 to 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Partly cloudy. Low around 37, with temperatures rising to around 40 overnight. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a rather brisk scene, with temperatures in the low 40s and a gently rising trend expected overnight. The air feels cool and somewhat refreshing, ideal for those who enjoy the briskness of late fall evenings. Winds are noticeably strong, creating a wild atmosphere along the coast of Lake Michigan, especially as they whip across open spaces. The sky is mostly cloudy, allowing some light to filter through but ultimately giving way to a muted palette typical of early winter.\n\nLooking ahead, tonight promises to be partly cloudy, with temperatures dipping to the mid to high 30s before warming slightly later in the night. Tomorrow, a sunny respite is expected, ushering in a pleasant day with highs nearing the mid 50s. This gradual transition hints at more seasonal light, though winds may remain spirited. Given the wave conditions along the lakefront, expect choppy surf as those gusty winds continue, which could make for an enjoyable sight for those viewing from the shore. As we move deeper into December, these temperatures fall within a typical range for the season, invoking opportunities for cozy attire\u2014perhaps a warm jacket and sturdy footwear would be just right. For those inclined to venture out, tomorrow\u2019s forecast allows for outdoor strolls or a warm cup of coffee while watching the lake dance under the sun.",
-    "color_code": "#3B3B3B",
-    "timestamp": "2024-12-07 22:06:11"
+    "weather_report": "As we settle into the evening in Evanston, the current conditions offer a crisp and cool atmosphere, with temperatures lingering in the mid 40s. The sky is mostly cloudy, casting a muted light across the landscape, while a fierce wind from the southwest adds a brisk edge, making it feel more invigorating than uncomfortably cold. Fortunately, precipitation is not anticipated tonight, providing a sense of calm as we transition into the early hours. \n\nLooking ahead to tomorrow, Sunday brings mostly sunny skies, ideal for those seeking a respite from the indoor confines. Temperatures will rise to the low 50s before settling back into the mid 40s by afternoon, accompanied by a gentle breeze that should keep the air feeling fresh. It's a good time to break out light jackets and perhaps a cozy scarf, balancing comfort with the brightening scenery. As we embrace this wintry season, these temperatures are typical for early December, inviting outdoor enthusiasts to enjoy leisurely strolls along the beach or through local parks, possibly catching glimpses of the serene Lake Michigan.",
+    "color_code": "#34495E",
+    "timestamp": "2024-12-07 23:05:32"
 }
