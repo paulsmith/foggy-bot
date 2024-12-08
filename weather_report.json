@@ -11,15 +11,15 @@
             "temperature_f": 46.94,
             "temperature_c": 8.3,
             "humidity": 45.500362277602,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 210,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-07T19:00:00-06:00",
+                "startTime": "2024-12-07T20:00:00-06:00",
                 "endTime": "2024-12-08T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 20 mph",
-                "windDirection": "SW",
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 37, with temperatures rising to around 39 overnight. Southwest wind 10 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Partly cloudy. Low around 37, with temperatures rising to around 39 overnight. West southwest wind 10 to 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is experiencing a chilly evening with temperatures lingering in the mid to high 40s, accompanied by a gentle, breezy wind carrying a sense of crispness from the southwest. The sky remains partly cloudy, adding a touch of mystery to the twilight hours at Lake Michigan. Tonight, expect temperatures to fall to the high 30s, with a slight rise overnight as warmer air begins to move in. For Sunday, the forecast is bright and mostly sunny, promising a mild day with highs pushing near 50 degrees before cooling off later.\n\nThe beach view may have a mix of inviting and uninviting elements, as the wind creates a lively atmosphere, while the water remains relatively calm. No precipitation is on the horizon, making outdoor activities more appealing. As the evening progresses, a light jacket or sweater would be advisable for those venturing outside. Given that we're in early December, these temperatures are fairly typical for the season in this region, reflecting the transition toward winter. Whether it's a refreshing walk along the shoreline or a relaxed gathering indoors, today\u2019s conditions can cater to both tranquil reflections and social engagements, while the upcoming holidays bring an anticipatory spirit to the community.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2024-12-07 19:33:15"
+    "weather_report": "In Evanston, the current weather presents a crisp evening with temperatures in the mid to high 40s, wrapped in a partly cloudy sky. The atmosphere is pleasantly dry, making for a comfortable outdoor experience despite dipping into the low 30s overnight. As you gaze towards Lake Michigan, the night might seem serene, with the stillness underscored by the gentle rustle of leaves. However, a shift looms on the horizon as forecasted winds pick up from the west southwest at 10 to 15 mph, bringing cooler air into play for the coming day.\n\nTomorrow, anticipate a mostly sunny day with highs nearing 50, transitioning to a cooler afternoon. It\u2019s expected to remain mainly dry, with no significant precipitation in the forecast. Those hoping to enjoy the lakeshore may find it rewarding, though with the onset of brisk winds, layering is advisable\u2014think light jackets or sweaters to stave off the chill. For those determined to embrace the outdoors, a stroll along the beach or a visit to nearby parks could be delightful, especially as the daylight offers clarity and warmth. With the holiday season approaching, it's a perfect moment to enjoy the beauty of nature before winter fully sets in.",
+    "color_code": "#8B9DC3",
+    "timestamp": "2024-12-07 20:34:09"
 }
