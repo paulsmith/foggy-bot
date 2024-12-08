@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-08T10:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 67.105479906029,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 250,
-            "description": "Mostly Clear"
+            "timestamp": "2024-12-08T11:51:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 69.975265868835,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 240,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-08T06:00:00-06:00",
+                "startTime": "2024-12-08T07:00:00-06:00",
                 "endTime": "2024-12-08T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 53, with temperatures falling to around 50 in the afternoon. South southwest wind 5 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 53, with temperatures falling to around 50 in the afternoon. South southwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a cool and crisp atmosphere, with temperatures hovering in the low 40s and a noticeable breeze that brings a blustery touch to the air. The sky is mostly clear, allowing for a glimpse of early morning light, while the gentle rolling waves of Lake Michigan contrast against the rigid shoreline. As we move into today, the forecast predicts a transition to mostly sunny skies, with temperatures rising to the high 50s before dipping back down in the afternoon. However, tonight brings a chance of drizzle after 8 PM, accompanied by clouds and a slight rise in overnight temperatures to around the mid 40s.\n\nWhile today's daylight offers pleasant conditions for a brisk walk along the beach or a leisurely stroll through a nearby park, those planning outdoor activities should prepare for the possibility of rain later in the evening. Dressing in layers is advisable, with a light jacket to fend off the chill, especially as the day winds down. Overall, the temperature remains typical for this winter season, where an early touch of winter coolness prevails in the Midwest. Amid the inviting daylight, the day is a fine opportunity to enjoy the sights of the shoreline or visit local cafes, even as the season's chill begins to set in.",
-    "color_code": "#A3B1C3",
-    "timestamp": "2024-12-08 06:08:12"
+    "weather_report": "The current conditions in Evanston, Illinois present a brisk and slightly overcast scene, with the temperature hovering in the low 40s and a notable bluster from the southwest. As morning unfolds, the air feels crisp and cool, setting a refreshingly invigorating tone as one gazes out toward the calm waters of Lake Michigan. However, the beach may not entice many for a swim, as the wave conditions remain gentle, suggesting a tranquil surface rather than the playful ripples of summer. \n\nLooking ahead, the forecast predicts a transition to sunnier skies as the day progresses, with a high nearing the mid 50s. Some drizzle may wash in after dusk, but for now, you can relish the partial clarity offered by the sun peeking through. Given these conditions, cozy layers will ensure comfort; a light jacket and perhaps a scarf should suffice. While the temperature is typical for early December, the potential for light rainfall later in the evening reminds us that seasonal shifts are well underway. As the day unfolds, consider a stroll along the shoreline or a visit to nearby parks to embrace the beauty of a winter\u2019s day in Evanston.",
+    "color_code": "#A3B5C0",
+    "timestamp": "2024-12-08 07:09:32"
 }
