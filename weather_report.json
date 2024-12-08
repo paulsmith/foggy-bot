@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-08T01:51:00+00:00",
-            "temperature_f": 46.04,
-            "temperature_c": 7.8,
-            "humidity": 49.210777733825,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2024-12-08T02:51:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 53.191916466365,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 220,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-07T21:00:00-06:00",
+                "startTime": "2024-12-07T22:00:00-06:00",
                 "endTime": "2024-12-08T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 37, with temperatures rising to around 39 overnight. West southwest wind 10 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Partly cloudy. Low around 37, with temperatures rising to around 40 overnight. West southwest wind 10 to 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-08T06:00:00-06:00",
                 "endTime": "2024-12-08T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 50,
+                "temperature": 53,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -49,14 +49,14 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "SW",
+                "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 50, with temperatures falling to around 45 in the afternoon. Southwest wind 5 to 10 mph."
+                "detailedForecast": "Mostly sunny. High near 53, with temperatures falling to around 47 in the afternoon. South southwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the evening unfolds in Evanston, the air carries a crisp coolness, typical of early December, with temperatures in the mid 40s. Currently, the conditions are mostly cloudy, lending a somewhat muted appearance to the beach scene as onlookers peer toward the calm waters of Lake Michigan. Tonight, the skies will transition to partially cloudy, expected to dip to the upper 30s, with a gentle west-southwest breeze picking up in strength around 10 to 20 mph and gusts potentially hitting 30 mph. The atmosphere remains dry and pleasant, perfect for a nightly stroll along the lakefront, benefiting from the brisk yet refreshing air.\n\nLooking forward to Sunday, the forecast promises mostly sunny skies with temperatures peaking near 50 before gradually falling. This is typical for the season, where the chill of late autumn overlaps with the onset of winter. While the waves are mild\u2014ideal for spotting the occasional waterfowl\u2014the absence of precipitation ensures a dry environment for outdoor activities. Attire should lean towards layers: a warm sweater or light jacket paired with appropriate footwear to navigate the cooling temperatures. Given the pleasant conditions, a leisurely walk on the beach or a visit to one of the local parks would be a fitting way to enjoy this seasonally appropriate weather.",
-    "color_code": "#4B6F79",
-    "timestamp": "2024-12-07 21:20:20"
+    "weather_report": "Current conditions in Evanston present a rather brisk scene, with temperatures in the low 40s and a gently rising trend expected overnight. The air feels cool and somewhat refreshing, ideal for those who enjoy the briskness of late fall evenings. Winds are noticeably strong, creating a wild atmosphere along the coast of Lake Michigan, especially as they whip across open spaces. The sky is mostly cloudy, allowing some light to filter through but ultimately giving way to a muted palette typical of early winter.\n\nLooking ahead, tonight promises to be partly cloudy, with temperatures dipping to the mid to high 30s before warming slightly later in the night. Tomorrow, a sunny respite is expected, ushering in a pleasant day with highs nearing the mid 50s. This gradual transition hints at more seasonal light, though winds may remain spirited. Given the wave conditions along the lakefront, expect choppy surf as those gusty winds continue, which could make for an enjoyable sight for those viewing from the shore. As we move deeper into December, these temperatures fall within a typical range for the season, invoking opportunities for cozy attire\u2014perhaps a warm jacket and sturdy footwear would be just right. For those inclined to venture out, tomorrow\u2019s forecast allows for outdoor strolls or a warm cup of coffee while watching the lake dance under the sun.",
+    "color_code": "#3B3B3B",
+    "timestamp": "2024-12-07 22:06:11"
 }
