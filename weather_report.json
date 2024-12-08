@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-08T18:51:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 52.131989560281,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 200,
-            "description": "Mostly Clear"
+            "timestamp": "2024-12-08T19:51:00+00:00",
+            "temperature_f": 53.96,
+            "temperature_c": 12.2,
+            "humidity": 52.639568918667,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 190,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-08T14:00:00-06:00",
+                "startTime": "2024-12-08T15:00:00-06:00",
                 "endTime": "2024-12-08T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -33,7 +33,7 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 53, with temperatures falling to around 49 in the afternoon. South wind around 10 mph."
+                "detailedForecast": "Sunny. High near 53, with temperatures falling to around 49 in the afternoon. South wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions present a cool and brisk scene with temperatures in the low 50s and a noticeable breeze stirring up the air, making it feel refreshing yet slightly chilly. The day is mostly clear, inviting glimpses of sunshine, although the forecast predicts a shift later on, with clouds rolling in and a chance of drizzle later this evening. In terms of wave conditions, the waters of Lake Michigan may be slightly choppy due to the gusty winds but remain inviting for a peaceful stroll along the beach.\n\nAs for attire, a light jacket or sweater is advisable to fend off the cooler afternoon air, especially if venturing out later when temperatures are expected to dip to the mid 40s. This December weather aligns with typical seasonal temperatures, providing that crisp, wintry feel, just perfect for enjoying a walk along the shoreline or engaging in light outdoor activities as we embrace the full swing of the holiday season. While today isn\u2019t a major holiday, the atmosphere is buoyed by the festive spirit that often accompanies this time of year, setting the stage for enjoyable outings in the refreshing winter air.",
-    "color_code": "#A5C8E0",
-    "timestamp": "2024-12-08 14:05:45"
+    "weather_report": "The current weather in Evanston paints a vivid picture of a brisk December afternoon. With temperatures hovering in the low 50s, the atmosphere feels refreshingly cool, complemented by a steady, gusty breeze that lends a slightly invigorating chill to the air. Visibility is clear, ideal for gazing upon the tranquil waters of Lake Michigan. As we look ahead, the forecast indicates that conditions will remain sunny through the day, but temperatures are expected to drop slightly to the upper 40s. Tonight, we can expect increasing cloudiness along with areas of drizzle developing after 8 PM, introducing a 30% chance of light precipitation as the temperature settles around the mid-40s.\n\nGiven this blend of factors, the beach scene is likely to be less crowded and more inviting for a brisk stroll or some peaceful reflection by the shore. Wave activity is expected to remain moderate, making it a serene spot for quiet contemplation, though perhaps not ideal for any vigorous water sports. Attire-wise, layering will be essential to ensure comfort against the chillier breezes, with perhaps a light waterproof jacket as evening approaches. This weather is typical for this time of year in this region, reminding us all that winter is indeed settling in. As the sun sets on this December day, take advantage of the fresh outdoor air before the expected drizzle invites one indoors.",
+    "color_code": "#005C99",
+    "timestamp": "2024-12-08 15:04:40"
 }
