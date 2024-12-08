@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-07T22:51:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 42.243734228587,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-08T00:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 45.500362277602,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 210,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-07T18:00:00-06:00",
+                "startTime": "2024-12-07T19:00:00-06:00",
                 "endTime": "2024-12-08T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 36,
+                "temperature": 37,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 36. Southwest wind 10 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Partly cloudy. Low around 37, with temperatures rising to around 39 overnight. Southwest wind 10 to 20 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the evening settles over Evanston, the air carries a cool crispness, with current temperatures hovering in the upper 40s, inviting a mild chill that makes one keenly aware of winter's approach. The sky presents a tapestry of mostly cloudy hues, hinting at the potential for a starry night ahead, yet visibility remains quite clear. There\u2019s a notable stillness in the atmosphere at this hour, free of any blustery winds, which adds to the tranquil beauty of inland views toward Lake Michigan.\n\nTonight\u2019s forecast calls for partly cloudy skies, and as temperatures dip to around the mid-30s, those venturing outside should consider layering up for warmth. The southwest winds are expected to stir up a gentle breeze, reaching 10 to 20 miles per hour, which could make the chill feel a bit sharper. As the night progresses, wave conditions along the shore could range from calm to slightly choppy, but no precipitation is anticipated, allowing for a peaceful outdoor experience. With the season well into its wintry grip, this evening's temperatures align closely with what we've come to expect during December in this region. For those looking to enjoy a crisp walk by the water or perhaps a quiet gathering with friends, tonight\u2019s conditions promise a lovely backdrop, despite the cooling temperatures signaling the depth of winter's embrace.",
-    "color_code": "#2C3E50",
-    "timestamp": "2024-12-07 18:25:56"
+    "weather_report": "Evanston is experiencing a chilly evening with temperatures lingering in the mid to high 40s, accompanied by a gentle, breezy wind carrying a sense of crispness from the southwest. The sky remains partly cloudy, adding a touch of mystery to the twilight hours at Lake Michigan. Tonight, expect temperatures to fall to the high 30s, with a slight rise overnight as warmer air begins to move in. For Sunday, the forecast is bright and mostly sunny, promising a mild day with highs pushing near 50 degrees before cooling off later.\n\nThe beach view may have a mix of inviting and uninviting elements, as the wind creates a lively atmosphere, while the water remains relatively calm. No precipitation is on the horizon, making outdoor activities more appealing. As the evening progresses, a light jacket or sweater would be advisable for those venturing outside. Given that we're in early December, these temperatures are fairly typical for the season in this region, reflecting the transition toward winter. Whether it's a refreshing walk along the shoreline or a relaxed gathering indoors, today\u2019s conditions can cater to both tranquil reflections and social engagements, while the upcoming holidays bring an anticipatory spirit to the community.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2024-12-07 19:33:15"
 }
