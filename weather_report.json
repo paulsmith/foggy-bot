@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T11:51:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 86.141284587185,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 230,
-            "description": "Cloudy"
+            "timestamp": "2024-12-09T12:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 83.104539551896,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 240,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-09T07:00:00-06:00",
+                "startTime": "2024-12-09T08:00:00-06:00",
                 "endTime": "2024-12-09T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 50,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 50, with temperatures falling to around 48 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 50, with temperatures falling to around 48 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the current conditions paint a brisk picture of a gray day. The temperature hovers in the upper 40s, accompanied by a thick blanket of cloud cover that drapes the landscape, creating an atmosphere both serene and somewhat somber. With winds whispering across the lakeshore at a stout pace, a chill in the air is unmistakable, leaving it feeling decidedly nippy for early December. \n\nToday's forecast offers a slight reprieve from the gloom, promising a partly sunny afternoon with highs reaching near 50 degrees, although temperatures will dip slightly as the day progresses. The skies may remain largely overcast, but the introduction of sun breaks could offer a glimmer of brightness. Tonight, expect the clouds to thicken again, with temperatures settling into the low 30s. Given the conditions, dress in layers to stay warm, perhaps donning a cozy jacket and a scarf to fend off the chill. \n\nAs we move into the waves and ski of Lake Michigan, the surf may not be especially inviting for swimming; the waters, stirred by a moderate breeze, lend themselves to a brisk walk along the shore or a moment of reflection at the water's edge instead. It\u2019s a pleasing day for those looking to embrace the tranquil beauty of an Illinois winter by enjoying a stroll or simply taking in the changing scenery. While there are no major holidays today, it\u2019s a reminder that the festive season is right around the corner.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-09 07:13:13"
+    "weather_report": "In Evanston, this morning brings a cool and blustery atmosphere. The current temperature sits in the mid 40s, coupled with a gentle overcast that shrouds the horizon, lending a chilly edge to the air. The wind is quite lively, gusting near 50 miles per hour, adding a fierce enthusiasm to the conditions. As the day progresses, expect mostly sunny skies, shifting to slightly cooler temperatures in the afternoon, with highs around 50 degrees. \n\nWhile wave conditions are likely moderate due to the stirring winds, no immediate precipitation is in the forecast, keeping the beach views free from wet interruptions. Attire for today should lean towards warmth; consider layered clothing to accommodate fluctuating temperatures and favor a windproof jacket. During this time of year, such conditions reflect typical late autumn weather for the region, encompassing the cool air and brisk winds that define the season. This Saturday presents opportunities for outdoor activities along the lakeshore, such as brisk walks or light jogging, perfect for observing the serene beauty of Lake Michigan as the clouds gradually drift away.",
+    "color_code": "#A1C3D6",
+    "timestamp": "2024-12-09 08:05:58"
 }
