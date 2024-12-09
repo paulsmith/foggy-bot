@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T15:51:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 65.200583476966,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 280,
-            "description": "Mostly Clear"
+            "timestamp": "2024-12-09T16:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 58.088232736586,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 260,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-09T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-09T12:00:00-06:00",
                 "endTime": "2024-12-09T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 51,
+                "temperature": 52,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 51, with temperatures falling to around 46 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly sunny. High near 52, with temperatures falling to around 46 in the afternoon. West southwest wind around 10 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 30, with temperatures rising to around 32 overnight. West wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly cloudy. Low around 30, with temperatures rising to around 32 overnight. West wind around 10 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As we look out over Evanston's serene shoreline, the current conditions reveal a crisp and cool afternoon. The temperature hovers in the low 40s, complemented by a gentle breeze whispering off Lake Michigan. The sky is mostly clear, allowing the sun to cast a bright light over the landscape, perfect for those who appreciate the beauty of a winter's day. Looking ahead, today promises partly sunny skies, with temperatures peaking around the low 50s, before trending downwards in the afternoon. Tonight, expect mostly cloudy conditions and a drop to the low 30s, with light winds providing a steady backdrop to the evening.\n\nThe wave conditions on the lake appear calm, making it a fine time for a late autumn stroll along the beach. However, the brisk temperatures call for layers\u2014consider donning a warm coat and perhaps a scarf to stave off the cooling breeze. While today may not be a national holiday, it offers a fine opportunity for residents to wrap up in their warmest attire and savor the changing season.  Enjoy the peaceful scenery of Lake Michigan as we embrace this typical December chill in charming Illinois.",
-    "color_code": "#00A8E1",
-    "timestamp": "2024-12-09 11:05:17"
+    "weather_report": "Current conditions in Evanston reveal a crisp and cool day, with temperatures lingering in the high 40s and a gentle breeze that stirs the air at about 33 miles per hour. The sky is mostly cloudy, casting a muted light over the landscape, which gives a calm ambiance by the lake. As we look ahead, the forecast for this afternoon anticipates a shift to partly sunny skies, with temperatures expected to peak near the low 50s before tapering off to the mid-40s. Tonight, expect a deepening cloud cover and temperatures dropping to around the low 30s, providing a chill that will settle in as father winter draws near.\n\nThere is no precipitation in sight today, making it a fine day for a variety of outdoor activities, though waves may be minimal given the calmer conditions this afternoon. As for attire, layers are advisable\u2014perhaps a warm jacket with a scarf to shield against the evening chill. The current temperatures align closely with the season, reflecting typical December weather in this region, as we brace for the heart of winter. While today may not herald any major holidays, the upcoming festive season invites one to consider enjoying a brisk walk along the lakefront or visiting local shops adorned for the holidays.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2024-12-09 12:07:09"
 }
