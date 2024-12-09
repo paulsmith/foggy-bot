@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T09:51:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 92.842632704448,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 230,
-            "description": "Cloudy"
+            "timestamp": "2024-12-09T10:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 92.815182297916,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 220,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-09T05:00:00-06:00",
-                "endTime": "2024-12-09T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. Low around 45, with temperatures rising to around 48 overnight. Southwest wind around 10 mph, with gusts as high as 20 mph. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2024-12-09T06:00:00-06:00",
                 "endTime": "2024-12-09T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny. High near 50, with temperatures falling to around 48 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-09T18:00:00-06:00",
+                "endTime": "2024-12-10T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 30,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. Low around 30, with temperatures rising to around 32 overnight. West wind around 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a chilly morning, with temperatures in the mid to high 40s, accompanied by a damp coolness that makes for an uncomfortably humid atmosphere at this hour. The day begins under a blanket of clouds, with wind gusts stirring from the southwest, adding a brisk edge to the otherwise muted scenery near Lake Michigan. As we look ahead to today, expect partly sunny intervals to emerge by afternoon, though temperatures are poised to peak at around 50 before gradually waning. \n\nWaves along the shore may be lively due to the sustained winds, making this a time better suited for a cozy indoor activity rather than a seaside stroll. Light precipitation is anticipated, but nothing more than a trace, which might serve to keep the air feeling fresh, though possibly damp. It's advisable to dress warmly in layered clothing to combat the coolness, perhaps with a light jacket or sweater for later when temperatures dip again. Given that it is December\u2014typically a time for winter's chill to firmly establish itself\u2014these conditions are quite standard for the season in this region, although today might feel slightly more brisk due to the wind. As for activities, consider a warm cup of coffee or tea at a local caf\u00e9, a leisurely visit to nearby shops, or simply curling up at home with a good book\u2014perfect weather for indoor interests on this gray December day.",
-    "color_code": "#A8A8A8",
-    "timestamp": "2024-12-09 05:05:11"
+    "weather_report": "In Evanston, this morning presents a brisk start with temperatures hovering in the mid 40s, bringing a refreshing coolness to the air, paired with a thick blanket of clouds that casts a grayish hue over the landscape. With the wind howling from the west-southwest at 41 miles per hour, the conditions feel particularly brisk, pushing the chill closer to the skin. The beach view offers a dramatic scene, one that feels both wild and invigorating, but the prominent cloud cover does little to invite outdoor relaxation.\n\nAs the day unfolds, expect partial sunshine to break through the clouds, but temperatures will only reach up to near 50, before settling back down to the low 30s tonight. With a forecast of mostly cloudy skies in the evening and a rising temperature overnight, the air will likely remain crisp. Wave conditions may be somewhat aggressive due to the strong winds, making it less than ideal for beach outings, while boaters should exercise caution given the gale-like breezes. There\u2019s no precipitation on the horizon, allowing for dry conditions throughout the day.\n\nFor those venturing out, warm layers are essential to combat the cool temperatures, complemented by a wind-resistant jacket against the fierce gusts. While not officially a holiday, it\u2019s a peaceful Saturday that invites the possibility of indoor activities, such as visiting a local caf\u00e9 or exploring nearby shops. With the winter season approaching and temperatures in the expected range for this time of year, it's a reminder of the invigorating chill that characterizes this part of the year in the Midwest.",
+    "color_code": "#6B8EAD",
+    "timestamp": "2024-12-09 06:09:15"
 }
