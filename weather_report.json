@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T16:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 58.088232736586,
-            "wind_speed_mph": 33.01812,
+            "timestamp": "2024-12-09T19:51:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 44.333875492396,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 260,
             "description": "Mostly Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-09T14:00:00-06:00",
+                "startTime": "2024-12-09T15:00:00-06:00",
                 "endTime": "2024-12-09T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 52,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "WSW",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 52, with temperatures falling to around 47 in the afternoon. West southwest wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly cloudy. High near 52, with temperatures falling to around 47 in the afternoon. Southwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the atmosphere today is decidedly bracing, with temperatures in the high 40s and a blustery wind from the west that makes the air feel even cooler. The current conditions are dominated by a mostly cloudy sky, creating a somewhat subdued, yet uniquely tranquil ambiance by the shores of Lake Michigan. As the afternoon unfolds, expect a high near 52, followed by a gradual drop in temperature, inviting a brisk feeling against the skin. There is no precipitation expected today, allowing for unimpeded views of the water, albeit with a gentle lapping rather than the more tumultuous waves of summer.\n\nAs the evening approaches, the forecast indicates a noticeable chill, with temperatures dipping to the low 30s and a continued breeze that could amplify the sense of cold. A light jacket or sweater would be advisable to maintain comfort during outdoor excursions. Given the seasonal context\u2014early December in the Midwest\u2014these temperatures are typical for this time of year. Enjoying a walk along the beach or a leisurely stroll through local parks would be fitting activities for this cool day, allowing residents to embrace the quiet beauty of winter\u2019s onset as the holiday season draws near.",
-    "color_code": "#A3B3CC",
-    "timestamp": "2024-12-09 14:06:16"
+    "weather_report": "In Evanston, Illinois, the current weather paints a crisp and cool picture, with temperatures hovering in the low 50s accompanied by a gentle breeze sweeping from the southwest. The sky is mostly cloudy, contributing to a rather muted atmosphere, but with no immediate signs of precipitation, outdoor activities can still beckon. As the afternoon unfolds, expect temperatures to dip slightly, settling around the mid to upper 40s while the wind remains brisk, offering bursts of refreshing air.\n\nTonight, the clouds will stay put, and temperatures are forecasted to plummet to the low 30s, making it a chilly evening ideal for cozy indoor gatherings. The anticipated westward winds could become a bit more gusty, urging anyone outside to bundle up against the potential evening chill. Given the season, these conditions are typical for early December around the Great Lakes, where winter begins to assert itself. For those who choose to venture out, layering up in warm attire will be key, especially as evening approaches. While there may not be perfect beach weather, the coastal view might inspire a brisk walk or a moment of tranquility by the lakeside, taking advantage of the serene winter landscape.",
+    "color_code": "#A3B2B5",
+    "timestamp": "2024-12-09 15:05:21"
 }
