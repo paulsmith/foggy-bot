@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T00:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 65.824827442761,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 180,
-            "description": "Clear"
+            "timestamp": "2024-12-09T01:51:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 71.204369375173,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 190,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-08T19:00:00-06:00",
+                "startTime": "2024-12-08T21:00:00-06:00",
                 "endTime": "2024-12-09T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 45,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
-                "windSpeed": "10 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,30?size=medium",
-                "shortForecast": "Areas Of Drizzle",
-                "detailedForecast": "Areas of drizzle after 8pm. Mostly cloudy, with a low around 45. South southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain then Chance Drizzle",
+                "detailedForecast": "A slight chance of rain between 11pm and midnight, then a chance of drizzle and a slight chance of rain between midnight and 5am. Cloudy. Low around 46, with temperatures rising to around 48 overnight. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the evening temperatures hover in the low 50s, creating a pleasantly cool atmosphere, though the gentle chill is enhanced by a notable breeze from the south. The skies remain clear at the moment, offering an unobstructed view of the night stars, but there is a shift expected as areas of drizzle are forecasted to develop after 8 PM. With the temperature anticipated to dip to around the mid 40s overnight, this slight downturn will make for a brisk outing if you find yourself outside. \n\nFor the day ahead, anticipate partly sunny skies, with temperatures peaking at around the low 50s before falling slightly in the afternoon. Winds will remain notably breezy, allowing for that fresh, invigorating feeling typical of this time of year along the shores of Lake Michigan. As the season settles into winter, the current temperatures are fairly representative of December's character, though they may feel a bit chillier when factoring in the wind. For those planning to venture outdoors, a warm jacket and perhaps a hat would offer comfort against the cool air and potential drizzle later on. A stroll along the beach could still be enjoyable, especially to appreciate the onset of winter's embrace before the rain sets in.",
-    "color_code": "#333333",
-    "timestamp": "2024-12-08 20:33:28"
+    "weather_report": "This evening in Evanston, the weather feels decidedly cool and damp, with a brisk breeze making the temperature feel a bit chillier. Currently, the air is noticeably cooler, sitting in the low 50s, and while mostly clear, the clouds are beginning to blanket the sky as the night deepens. The wind is howling from the southwest, creating a blustery atmosphere that may dissuade late-night strolls along the beach.\n\nAs we look toward the overnight hours, expect a slight chance of rain mixed with drizzle, primarily between midnight and dawn. The temperature is projected to dip to the mid-40s, with winds maintaining their strength, gusting upward of 25 miles per hour. Following this cool front, Monday is anticipated to bring partly sunny skies, though temperatures will only reach the low 50s before slipping back into the upper 40s by afternoon. \n\nWith conditions leaning toward the damp and breezy, a light jacket is advisable for outdoor endeavors, particularly those near the waterfront where the winds can feel more intense. Given this wintry season, these temperatures are somewhat typical for early December in the Midwest, marking the transition into the heart of winter. A cozy indoor activity like visiting a local caf\u00e9 or enjoying a warm beverage would be perfect, allowing residents to savor the rich, seasonal aromas while sheltering from the night's chill.",
+    "color_code": "#4B8BFF",
+    "timestamp": "2024-12-08 21:20:44"
 }
