@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T05:10:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 76.720923803697,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 200,
+            "timestamp": "2024-12-09T06:15:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 89.091584214285,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 210,
             "description": "Light Drizzle"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-09T00:00:00-06:00",
+                "startTime": "2024-12-09T01:00:00-06:00",
                 "endTime": "2024-12-09T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, paint a picture of a drizzly, unsettled night with temperatures lingering in the low 50s. The air is thick with moisture, making it feel relatively cool and damp. Wind gusts are brisk, ruffling leaves and creating an energetic atmosphere along the lakeshore. As we look ahead to the day, cloud cover will dominate the sky, with a potential for more light drizzle and a slight chance of rain preceding dawn. Daytime temperatures will peak in the low 50s before settling back into the upper 40s by afternoon, and those southwest breezes will persist.\n\nFor those contemplating outdoor activities, the weather may not be particularly inviting; the beach will be quiet, perhaps best suited for a brisk walk or contemplation near the water, where wave conditions can be moderate to choppy with the ongoing winds. Recommended attire includes a light rain jacket and layers to ward off the chill, making it essential for comfort throughout the day. While this time of year typically signals the onset of deeper winter temperatures, tonight\u2019s conditions may feel a touch warmer than usual. As it is December 9th, with no major holidays celebrated today, it\u2019s a good time to prepare for the festive season ahead.",
-    "color_code": "#4B3D3D",
-    "timestamp": "2024-12-09 00:07:48"
+    "weather_report": "Currently in Evanston, the temperature rests in the upper 40s, complimented by a persistent drizzle that adds a somber note to the evening atmosphere. The air carries a chill, intensified by a brisk wind from the southwest, creating a damp and slightly uncomfortable sensation for those outdoors. As night deepens, the clouds will linger, but a slight chance of rain will taper off before dawn, allowing temperatures to hover around the mid 40s.\n\nLooking ahead to Monday, the day promises a transition to partly sunny conditions, with temperatures peaking near the low 50s. A gentle breeze will transform into a more noticeable flow, perfect for a refreshing stroll, albeit under the watchful gaze of a cooler sky. The waves on Lake Michigan may pick up a bit, making it a suitable backdrop for a contemplative moment by the shore. With the current season firmly in the grips of winter, these temperatures remain true to character for this time of year. While outdoor adventures may be limited, a cozy caf\u00e9 visit or a brisk walk through town could be quite enjoyable, especially as the forecast hints at brighter moments ahead.",
+    "color_code": "#2B3D7A",
+    "timestamp": "2024-12-09 01:06:09"
 }
