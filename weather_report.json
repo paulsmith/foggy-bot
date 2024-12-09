@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T03:51:00+00:00",
+            "timestamp": "2024-12-09T05:10:00+00:00",
             "temperature_f": 50.0,
             "temperature_c": 10,
-            "humidity": 74.11362974689,
-            "wind_speed_mph": 33.01812,
+            "humidity": 76.720923803697,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 200,
-            "description": "Cloudy"
+            "description": "Light Drizzle"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-08T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-09T00:00:00-06:00",
                 "endTime": "2024-12-09T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -32,8 +32,8 @@
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain then Chance Drizzle",
-                "detailedForecast": "A slight chance of rain before midnight, then a chance of drizzle and a slight chance of rain between midnight and 5am. Cloudy. Low around 46, with temperatures rising to around 48 overnight. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "shortForecast": "Chance Drizzle",
+                "detailedForecast": "A chance of drizzle and a slight chance of rain before 5am. Cloudy. Low around 46, with temperatures rising to around 48 overnight. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night envelops Evanston, temperatures sit comfortably in the low 50s, accompanied by a moist chill and overcast skies that impart a grayish stillness to the atmosphere. Wind gusts sweep in from the southwest, briskly rustling leaves and adding a distinct edge to the air. Tonight's forecast hints at a slight chance of rain before dawn, with drizzles possible, yet any substantial precipitation remains minimal. \n\nLooking ahead to Monday, residents can expect a shift to partially sunny conditions, peaking around the low 50s before slipping back into the afternoon chill. The beach by Lake Michigan, while not inviting for swimming, offers a serene retreat for those wishing to stroll along the shoreline. With gusty winds and cool, gray skies, it's a day better suited for light layers\u2014perhaps a warm sweater and a light jacket would suffice. This time of year is typical for the region, as the sharpness of winter begins to encroach, reminding locals that the holiday season is just around the corner, enriched by the spirit of community and festivity.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-12-08 23:06:02"
+    "weather_report": "Current conditions in Evanston, Illinois, paint a picture of a drizzly, unsettled night with temperatures lingering in the low 50s. The air is thick with moisture, making it feel relatively cool and damp. Wind gusts are brisk, ruffling leaves and creating an energetic atmosphere along the lakeshore. As we look ahead to the day, cloud cover will dominate the sky, with a potential for more light drizzle and a slight chance of rain preceding dawn. Daytime temperatures will peak in the low 50s before settling back into the upper 40s by afternoon, and those southwest breezes will persist.\n\nFor those contemplating outdoor activities, the weather may not be particularly inviting; the beach will be quiet, perhaps best suited for a brisk walk or contemplation near the water, where wave conditions can be moderate to choppy with the ongoing winds. Recommended attire includes a light rain jacket and layers to ward off the chill, making it essential for comfort throughout the day. While this time of year typically signals the onset of deeper winter temperatures, tonight\u2019s conditions may feel a touch warmer than usual. As it is December 9th, with no major holidays celebrated today, it\u2019s a good time to prepare for the festive season ahead.",
+    "color_code": "#4B3D3D",
+    "timestamp": "2024-12-09 00:07:48"
 }
