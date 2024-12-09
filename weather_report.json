@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-09T13:00:00-06:00",
+                "startTime": "2024-12-09T14:00:00-06:00",
                 "endTime": "2024-12-09T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 52,
@@ -32,8 +32,8 @@
                 "windSpeed": "10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 52, with temperatures falling to around 46 in the afternoon. West southwest wind around 10 mph, with gusts as high as 20 mph."
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. High near 52, with temperatures falling to around 47 in the afternoon. West southwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-09T18:00:00-06:00",
                 "endTime": "2024-12-10T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 30,
+                "temperature": 31,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 30, with temperatures rising to around 32 overnight. West wind around 10 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 31. West wind around 10 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a brisk and unsettled atmosphere, with temperatures hovering in the upper 40s. The air carries a comforting chill, characteristic of December, as heavy clouds blanket the sky. With gusty winds pushing through at about 33 miles per hour, outdoor activity requires a layer to ward off the cool breeze. As we look ahead, expect a transition to partly sunny skies this afternoon, peaking near the low 50s, before temperatures dip later to a low in the low 30s by nightfall.\n\nDespite the veil of clouds, the day has a fresh undertone that could be deemed invigorating for outdoor enthusiasts. However, the wave conditions on Lake Michigan may feel lively with the wind, inviting those who are prepared for such a bracing encounter. Precipitation is not on the horizon, allowing for dry conditions throughout the day. Ideal attire for enjoying this weather would involve a warm coat and possibly a scarf, making a brisk walk along the beach a delightful option amidst the seasonal beauty. Given that it\u2019s December, temperatures are, as expected, markedly lower than the preceding months, fitting comfortably into the winter narrative of the Great Lakes region.",
-    "color_code": "#A4B4C9",
-    "timestamp": "2024-12-09 13:04:53"
+    "weather_report": "In Evanston, the atmosphere today is decidedly bracing, with temperatures in the high 40s and a blustery wind from the west that makes the air feel even cooler. The current conditions are dominated by a mostly cloudy sky, creating a somewhat subdued, yet uniquely tranquil ambiance by the shores of Lake Michigan. As the afternoon unfolds, expect a high near 52, followed by a gradual drop in temperature, inviting a brisk feeling against the skin. There is no precipitation expected today, allowing for unimpeded views of the water, albeit with a gentle lapping rather than the more tumultuous waves of summer.\n\nAs the evening approaches, the forecast indicates a noticeable chill, with temperatures dipping to the low 30s and a continued breeze that could amplify the sense of cold. A light jacket or sweater would be advisable to maintain comfort during outdoor excursions. Given the seasonal context\u2014early December in the Midwest\u2014these temperatures are typical for this time of year. Enjoying a walk along the beach or a leisurely stroll through local parks would be fitting activities for this cool day, allowing residents to embrace the quiet beauty of winter\u2019s onset as the holiday season draws near.",
+    "color_code": "#A3B3CC",
+    "timestamp": "2024-12-09 14:06:16"
 }
