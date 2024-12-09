@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T13:51:00+00:00",
-            "temperature_f": 44.06,
-            "temperature_c": 6.7,
-            "humidity": 76.177698516495,
+            "timestamp": "2024-12-09T15:51:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 65.200583476966,
             "wind_speed_mph": 41.07132,
-            "wind_direction": 260,
+            "wind_direction": 280,
             "description": "Mostly Clear"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the scene at the lakeshore is marked by a brisk chill, with temperatures in the low 40s and a biting wind gustING fiercely off Lake Michigan. The air carries a freshness that makes simple outdoor tasks invigorating but also underscores a need for warmth. Skies are mostly clear, providing a canvas of blue that brightens the day and hints at sunlight trying to break through, yet the day holds the promise of partly sunny conditions later. As the forecast unfolds, highs will creep up to around the low 50s, only to dip back down toward the mid-30s tonight, with a gentle west-southwest breeze expected.\n\nWhile there are no forecasts for rain, the cooler air feels particularly crisp and invigorating, making it a fine day for a brisk walk along the beach or to enjoy the lakeside scenery. Those venturing out should prepare with layered clothing to navigate shifting temperatures effectively; a warm jacket, perhaps a scarf, and closed-toe shoes ought to be suitable for today's conditions. Given the date, you're left with a non-holiday Saturday that sets the stage for winter festivities just around the corner\u2014ideal for outdoor activities or cozy gatherings with friends.",
-    "color_code": "#A5C0D1",
-    "timestamp": "2024-12-09 10:06:25"
+    "weather_report": "As we look out over Evanston's serene shoreline, the current conditions reveal a crisp and cool afternoon. The temperature hovers in the low 40s, complemented by a gentle breeze whispering off Lake Michigan. The sky is mostly clear, allowing the sun to cast a bright light over the landscape, perfect for those who appreciate the beauty of a winter's day. Looking ahead, today promises partly sunny skies, with temperatures peaking around the low 50s, before trending downwards in the afternoon. Tonight, expect mostly cloudy conditions and a drop to the low 30s, with light winds providing a steady backdrop to the evening.\n\nThe wave conditions on the lake appear calm, making it a fine time for a late autumn stroll along the beach. However, the brisk temperatures call for layers\u2014consider donning a warm coat and perhaps a scarf to stave off the cooling breeze. While today may not be a national holiday, it offers a fine opportunity for residents to wrap up in their warmest attire and savor the changing season.  Enjoy the peaceful scenery of Lake Michigan as we embrace this typical December chill in charming Illinois.",
+    "color_code": "#00A8E1",
+    "timestamp": "2024-12-09 11:05:17"
 }
