@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T19:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 44.333875492396,
+            "timestamp": "2024-12-09T20:51:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 45.831685952681,
             "wind_speed_mph": 37.04472,
-            "wind_direction": 260,
+            "wind_direction": 230,
             "description": "Mostly Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather paints a crisp and cool picture, with temperatures hovering in the low 50s accompanied by a gentle breeze sweeping from the southwest. The sky is mostly cloudy, contributing to a rather muted atmosphere, but with no immediate signs of precipitation, outdoor activities can still beckon. As the afternoon unfolds, expect temperatures to dip slightly, settling around the mid to upper 40s while the wind remains brisk, offering bursts of refreshing air.\n\nTonight, the clouds will stay put, and temperatures are forecasted to plummet to the low 30s, making it a chilly evening ideal for cozy indoor gatherings. The anticipated westward winds could become a bit more gusty, urging anyone outside to bundle up against the potential evening chill. Given the season, these conditions are typical for early December around the Great Lakes, where winter begins to assert itself. For those who choose to venture out, layering up in warm attire will be key, especially as evening approaches. While there may not be perfect beach weather, the coastal view might inspire a brisk walk or a moment of tranquility by the lakeside, taking advantage of the serene winter landscape.",
-    "color_code": "#A3B2B5",
-    "timestamp": "2024-12-09 15:05:21"
+    "weather_report": "As we look out over Evanston today, the current conditions reveal a chilly but manageable day, with temperatures hovering in the low 50s. The air carries a crispness, enhanced by a notable breeze that, while brisk, contributes to a refreshing atmosphere near the lakeshore. Overhead, the sky is mostly cloudy, casting a muted light but providing no precipitation, keeping the day dry for outdoor activities. \n\nThis afternoon, expect much of the same, with temperatures gradually declining to the mid to upper 40s as the sun settles. The westward winds will continue at a steady pace, gusting prominently, which could make for a lively atmosphere by the water, given the added movement of the waves. As evening approaches and the temperatures dip closer to the low 30s, a warm jacket will be essential when heading out. Conditions are typical for a December in this region, encapsulating the essence of a crisp winter day. With no significant holidays around, outdoor enthusiasts might indulge in a peaceful winter walk along the shore or enjoy the beach from the comfort of a cozy caf\u00e9 with a warm drink in hand.",
+    "color_code": "#2D4B8C",
+    "timestamp": "2024-12-09 16:05:18"
 }
