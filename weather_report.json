@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T09:14:00+00:00",
+            "timestamp": "2024-12-09T09:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
             "humidity": 92.842632704448,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 210,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 230,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-09T04:00:00-06:00",
+                "startTime": "2024-12-09T05:00:00-06:00",
                 "endTime": "2024-12-09T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 45,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Chance Drizzle",
-                "detailedForecast": "A chance of drizzle before 5am. Cloudy. Low around 45, with temperatures rising to around 48 overnight. Southwest wind around 10 mph, with gusts as high as 20 mph. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. Low around 45, with temperatures rising to around 48 overnight. Southwest wind around 10 mph, with gusts as high as 20 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chill in the air, holding steady in the mid 40s with a blanket of clouds overhead, creating a dreary ambiance. The air feels overly damp, pulling the chill deeper into one's bones, while a gusty southwest breeze is stirring up quite a movement along the shoreline. As the morning progresses, there\u2019s a chance of light drizzle tapering off before dawn, with minimal accumulation expected, just enough to dampen the streets briefly but likely not enough to keep folks indoors.\n\nAs we look to Monday, the forecast offers a glimpse of brightness with partly sunny skies, though temperatures will only reach the high 40s, cooling off in the afternoon. It promises to be a quite brisk day, characterized by breezy conditions that will elevate the chill factor. For those keen on outdoor activities, a sturdy jacket is essential to ward off the cold, along with perhaps a knit cap, especially by the lake, where wave conditions may stir a bit in the presence of the wind. Though today isn't marked by any major holidays, it sets the stage for a quintessential mid-December day in the Midwest\u2014cool, cloudy, and inviting for a warm beverage and perhaps a peaceful stroll along the waterfront as nature transitions into winter.",
-    "color_code": "#2E3A4E",
-    "timestamp": "2024-12-09 04:06:20"
+    "weather_report": "Current conditions in Evanston reflect a chilly morning, with temperatures in the mid to high 40s, accompanied by a damp coolness that makes for an uncomfortably humid atmosphere at this hour. The day begins under a blanket of clouds, with wind gusts stirring from the southwest, adding a brisk edge to the otherwise muted scenery near Lake Michigan. As we look ahead to today, expect partly sunny intervals to emerge by afternoon, though temperatures are poised to peak at around 50 before gradually waning. \n\nWaves along the shore may be lively due to the sustained winds, making this a time better suited for a cozy indoor activity rather than a seaside stroll. Light precipitation is anticipated, but nothing more than a trace, which might serve to keep the air feeling fresh, though possibly damp. It's advisable to dress warmly in layered clothing to combat the coolness, perhaps with a light jacket or sweater for later when temperatures dip again. Given that it is December\u2014typically a time for winter's chill to firmly establish itself\u2014these conditions are quite standard for the season in this region, although today might feel slightly more brisk due to the wind. As for activities, consider a warm cup of coffee or tea at a local caf\u00e9, a leisurely visit to nearby shops, or simply curling up at home with a good book\u2014perfect weather for indoor interests on this gray December day.",
+    "color_code": "#A8A8A8",
+    "timestamp": "2024-12-09 05:05:11"
 }
