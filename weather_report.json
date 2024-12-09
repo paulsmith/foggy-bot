@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T02:51:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 77.156442416889,
-            "wind_speed_mph": 45.903240000000004,
+            "timestamp": "2024-12-09T03:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 74.11362974689,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 200,
-            "description": "Mostly Cloudy"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-08T22:00:00-06:00",
+                "startTime": "2024-12-08T23:00:00-06:00",
                 "endTime": "2024-12-09T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -33,7 +33,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Light Rain then Chance Drizzle",
-                "detailedForecast": "A slight chance of rain between 11pm and midnight, then a chance of drizzle and a slight chance of rain between midnight and 5am. Cloudy. Low around 46, with temperatures rising to around 48 overnight. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of rain before midnight, then a chance of drizzle and a slight chance of rain between midnight and 5am. Cloudy. Low around 46, with temperatures rising to around 48 overnight. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night settles over Evanston, the temperature is dipping into the low 50s, enveloping the area in a crisp, cool embrace. The air feels slightly humid, with a gentle breeze adding a whisper of chill. Looking east toward Lake Michigan, the scene is painted by mostly cloudy skies, obscuring the starry backdrop, while waves gently lap at the shore, hinting at a restive night ahead. A slight chance of rain looms late, but it seems little more than a drizzle, hardly dampening the overall atmosphere.\n\nTomorrow promises partly sunny skies for the day, with temperatures peaking in the low 50s before sliding back into the high 40s by the afternoon. Wind gusts from the southwest will keep the air feeling fresh, making it a pleasantly cool day for those who venture outdoors. Given the season, these temperatures fit within the typical range for December in the Midwest\u2014cool but not extreme. As for attire, a light jacket or sweater would be advisable, paired with comfortable shoes for a stroll along the beach or through local parks. Activities may include a casual walk admiring the changing shoreline or simply enjoying a hot drink outside, wrapped in the cozy charm of an early winter evening.",
-    "color_code": "#4B79C7",
-    "timestamp": "2024-12-08 22:06:53"
+    "weather_report": "As night envelops Evanston, temperatures sit comfortably in the low 50s, accompanied by a moist chill and overcast skies that impart a grayish stillness to the atmosphere. Wind gusts sweep in from the southwest, briskly rustling leaves and adding a distinct edge to the air. Tonight's forecast hints at a slight chance of rain before dawn, with drizzles possible, yet any substantial precipitation remains minimal. \n\nLooking ahead to Monday, residents can expect a shift to partially sunny conditions, peaking around the low 50s before slipping back into the afternoon chill. The beach by Lake Michigan, while not inviting for swimming, offers a serene retreat for those wishing to stroll along the shoreline. With gusty winds and cool, gray skies, it's a day better suited for light layers\u2014perhaps a warm sweater and a light jacket would suffice. This time of year is typical for the region, as the sharpness of winter begins to encroach, reminding locals that the holiday season is just around the corner, enriched by the spirit of community and festivity.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-12-08 23:06:02"
 }
