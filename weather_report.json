@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-10T11:51:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 75.12545198507,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 280,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-12-10T14:51:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 72.255157554836,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 290,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-10T09:00:00-06:00",
+                "startTime": "2024-12-10T10:00:00-06:00",
                 "endTime": "2024-12-10T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 36,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is waking up to a chilly December morning with temperatures hovering in the low 30s. The air carries a briskness, with a fierce breeze sweeping in from the west-northwest, lending the atmosphere an unmistakably wintry feel. Though the clouds hang heavily above, threatening to coat the day in gray, the defining feature of the current weather is its refreshing sharpness, making for a distinctly invigorating experience outdoors. As we look ahead, today's forecast suggests clouds will linger, with temperatures peaking near the mid-30s before dipping toward evening, where they could settle around the upper 20s. Blustery winds will continue at a steady pace, making it feel even colder than it is.\n\nAs for activities, this type of weather might not beckon outdoor adventures by the lake, but a stroll along the beach enveloped in a cozy scarf could offer a bit of tranquility. It's advisable to dress warmly, opting for layered clothing and perhaps a windproof jacket to combat the chill. With precipitation not in the immediate forecast, it\u2019s a dry day ahead, but the skies remain cloudy, setting a somber tone that might not tempt passersby to linger. The feel of the beach today is one of solemn beauty, perfect for a reflective moment, though the water's edge may be too bracing for most. Overall, while the temperature is typical for a mid-December day in this region, the fierce winds and cloud cover add an edge of discomfort, making one yearn for warmer seasons ahead.",
-    "color_code": "#A3B7E0",
-    "timestamp": "2024-12-10 09:05:43"
+    "weather_report": "Evanston is waking up to a decidedly chilly morning with temperatures in the low 30s and a brisk, howling wind sending shivers through the air. The clouds loom overhead, shrouding the sky in a gray haze, but thankfully, conditions remain dry with no precipitation expected today. As the day unfolds, expect the high to hover near the mid 30s, giving way to a slightly more comfortable afternoon as temperatures settle around 34 degrees. Tonight, temperatures will dip further into the upper 20s, complemented by a gentle night breeze.\n\nThe chilly air and overcast skies impart an uninviting atmosphere for outdoor activities, making it best to bundle up in warm layers, including a sturdy coat, scarves, and gloves. The winds are sure to kick up some waves along the shoreline, hinting at a subdued ocean with roiling waters that suit no recreational swimming. Given the seasonal shift towards winter and the current forecasts, today's temperatures reflect a typical day for early December in this region, where the cold crispness reaffirms the approaching holidays. As we sit on the brink of the festive season, it's a fine time to cozy up indoors with a warm beverage or perhaps take a brisk walk along the shoreline to brace against the chill.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-10 10:06:22"
 }
