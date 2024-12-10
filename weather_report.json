@@ -7,7 +7,7 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-10T01:51:00+00:00",
+            "timestamp": "2024-12-10T02:51:00+00:00",
             "temperature_f": 48.02,
             "temperature_c": 8.9,
             "humidity": 45.675073063872,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As night descends upon Evanston, Illinois, the air is decidedly crisp with a temperature nestled comfortably in the mid to high 40s. The scene presents itself under a blanket of cloud cover, offering a somber yet serene ambiance by the lakeshore. A gusty breeze dances around, whipping at nearly 33 miles per hour, adding a brisk edge to the evening air and encouraging residents to stay bundled up if venturing outside. While the current conditions lack the charm of clear skies, they do set a dramatic backdrop for the gentle lapping of Lake Michigan, its waves likely stirring just enough to catch the eye.\n\nLooking ahead, tonight\u2019s forecast calls for mostly cloudy skies with temperatures dipping towards the low 30s, though they may rise slightly as we transition into the early hours of Tuesday. Tomorrow promises more of the same, with the high reaching into the mid-30s before falling again in the afternoon. While winter's chill grips the region, the forecast suggests no precipitation to dampen spirits, making for dry and somewhat bleak outdoor conditions. Given this weather, wearing layered clothing\u2014a warm coat, scarf, and perhaps gloves\u2014would be advisable for any nighttime stroll or early morning jaunt. This chilly December evening, typical for the season, invites cozy indoor activities or perhaps a contemplative walk along the shore to appreciate the stark beauty of winter's approach.",
-    "color_code": "#2f2f2f",
-    "timestamp": "2024-12-09 21:20:17"
+    "weather_report": "Currently in Evanston, conditions are distinctly brisk, with temperatures in the upper 40s and a notable cloud cover that lends a somewhat grey tone to the evening sky. The wind is quite vigorous, presenting a strong push from the southwest that adds a chill to the air, making it feel cooler than the thermometer suggests. As we look ahead, tonight will remain mostly cloudy, with temperatures expected to dip to the low 30s before gently rising again as the night progresses. Tomorrow, expect similar cloudiness with daytime highs only reaching into the mid 30s. Overall, it feels rather chilly, typical for early December.\n\nFor outdoor enthusiasts, today\u2019s beach scene may be uninviting due to the cooler air and hearty winds, while wave conditions are likely moderate\u2014a mix that could create some surf. As for attire, layering with warm clothing is highly recommended; a thick coat, hats, and scarves will provide comfort against the chill. Though today is not a holiday, this December evening carries the promise of winter's embrace, leaving plenty of opportunities for light outdoor activities when the weather allows.",
+    "color_code": "#4B4F57",
+    "timestamp": "2024-12-09 22:06:44"
 }
