@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-10T03:51:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 47.567077130119,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 250,
+            "timestamp": "2024-12-10T04:51:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 51.267550652162,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 260,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-09T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-10T00:00:00-06:00",
                 "endTime": "2024-12-10T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 32, with temperatures rising to around 34 overnight. West northwest wind 10 to 15 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. Low around 32, with temperatures rising to around 34 overnight. West northwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 36, with temperatures falling to around 33 in the afternoon. West northwest wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly cloudy. High near 36, with temperatures falling to around 33 in the afternoon. West northwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "As night settles over Evanston, the air is crisp and cool, with a temperature hovering in the mid 40s. The sky is cloaked in clouds, contributing to a somewhat muted and subdued ambiance along the shoreline. Winds are howling from the west-northwest at a vigorous pace, creating a bracing atmosphere typical of this time of year. Currently, there\u2019s no precipitation to report, allowing for a relatively dry evening, although the temperatures are set to dip to the low 30s overnight.\n\nLooking ahead to the morrow, expect a continuation of mostly cloudy skies with temperatures struggling to reach the mid 30s, taking a slight downward turn into the afternoon. Wind gusts might add a blustery chill to the day, urging residents to dress warmly. As we are well into December, these conditions are fitting for the season in the Midwest, feeling rather characteristically wintery. The lakefront could be a challenging place for casual strolls due to the wind and cooler temps, but perhaps a brisk walk during daylight hours might invigorate the spirit. With no holidays on the immediate horizon, the focus turns to the cozy comforts of home or perhaps a quiet evening by the fire.",
-    "color_code": "#254EAA",
-    "timestamp": "2024-12-09 23:05:55"
+    "weather_report": "In Evanston, the night brings with it a cool and crisp ambiance, with the temperature lingering in the low 40s, accompanied by a brisk breeze that makes it feel more invigorating. The skies are overcast, setting a subdued tone as nighttime descends, while wind gusts whip through at a spirited pace, creating a blustery atmosphere along the shore. As we look towards the morrow, expect a mostly cloudy day ahead with temperatures peaking in the mid 30s by afternoon; these conditions will likely keep things feeling chilly, especially with a light, persistent wind.\n\nWave conditions at Lake Michigan could be slightly choppy given the winds, so care should be taken for waterfront strolls or any outdoor activities around the beach. There\u2019s no significant precipitation expected overnight or throughout Tuesday, making it a dry but brisk outing. As you venture out, layering up with a good coat and perhaps a scarf or hat would be a sensible choice, as the cool air might nip at exposed skin. \n\nGiven that we are in December in the Midwest, these temperatures align closely with seasonal norms, reflecting a typical chill for this time of year. While outdoor recreational activities might be limited due to the coolness, a cozy day indoors with warm beverages or preparations for the upcoming holidays could be just the right way to enjoy this wintry weather.",
+    "color_code": "#7B9DCE",
+    "timestamp": "2024-12-10 00:07:38"
 }
