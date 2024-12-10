@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-10T08:00:00-06:00",
+                "startTime": "2024-12-10T09:00:00-06:00",
                 "endTime": "2024-12-10T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 36,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the morning unfolds with a chilly and brisk atmosphere, as temperatures hover in the mid 30s, complemented by a gusty west-northwest wind that sharpens the bite of the air. The skies are partly cloudy, but the prevailing clouds imply that sunshine might be a fleeting companion today. As the day progresses, expect a high near 36 degrees, with temperatures gradually dropping to around 34 in the afternoon, providing a stark reminder of winter\u2019s approach. Tonight brings mostly cloudy skies and a low dipping into the mid 20s, where the winds may whip about with gusts up to 20 miles per hour.\n\nWave conditions are relatively calm along the shoreline of Lake Michigan, suitable for a casual stroll, but the cool temperatures may dissuade prolonged outdoor activities without proper attire. Given the chill in the air and evening's descent into colder temps, a warm coat, gloves, and perhaps a knitted hat would make for comfortable attire. This season in Evanston typically brings such brisk conditions, reinforcing that today's weather aligns well with winter expectations. While it might not be the ideal day for outdoor adventures, those bundled up could enjoy a brisk walk along the beach or a visit to one of the local cafes for a warm drink as the day closes.",
-    "color_code": "#A9B6B9",
-    "timestamp": "2024-12-10 08:05:33"
+    "weather_report": "Evanston is waking up to a chilly December morning with temperatures hovering in the low 30s. The air carries a briskness, with a fierce breeze sweeping in from the west-northwest, lending the atmosphere an unmistakably wintry feel. Though the clouds hang heavily above, threatening to coat the day in gray, the defining feature of the current weather is its refreshing sharpness, making for a distinctly invigorating experience outdoors. As we look ahead, today's forecast suggests clouds will linger, with temperatures peaking near the mid-30s before dipping toward evening, where they could settle around the upper 20s. Blustery winds will continue at a steady pace, making it feel even colder than it is.\n\nAs for activities, this type of weather might not beckon outdoor adventures by the lake, but a stroll along the beach enveloped in a cozy scarf could offer a bit of tranquility. It's advisable to dress warmly, opting for layered clothing and perhaps a windproof jacket to combat the chill. With precipitation not in the immediate forecast, it\u2019s a dry day ahead, but the skies remain cloudy, setting a somber tone that might not tempt passersby to linger. The feel of the beach today is one of solemn beauty, perfect for a reflective moment, though the water's edge may be too bracing for most. Overall, while the temperature is typical for a mid-December day in this region, the fierce winds and cloud cover add an edge of discomfort, making one yearn for warmer seasons ahead.",
+    "color_code": "#A3B7E0",
+    "timestamp": "2024-12-10 09:05:43"
 }
