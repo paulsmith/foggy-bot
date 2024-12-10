@@ -7,41 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-10T09:51:00+00:00",
-            "temperature_f": 35.06,
-            "temperature_c": 1.7,
-            "humidity": 69.417414993084,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 300,
+            "timestamp": "2024-12-10T10:51:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 72.46851624886,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 280,
             "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-10T04:00:00-06:00",
-                "endTime": "2024-12-10T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 31, with temperatures rising to around 34 overnight. West northwest wind around 10 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2024-12-10T06:00:00-06:00",
                 "endTime": "2024-12-10T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 33,
+                "temperature": 36,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 33. West northwest wind around 10 mph."
+                "detailedForecast": "Mostly cloudy. High near 36, with temperatures falling to around 34 in the afternoon. West northwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-10T18:00:00-06:00",
+                "endTime": "2024-12-11T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 26,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 26. West northwest wind around 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a crisp and cool morning, with temperatures nestled in the mid-30s and a gentle breeze coming in from the northwest. The skies are partly cloudy, suggesting a mix of sun and clouds throughout the day, though the overnight forecast indicates mostly cloudy skies with temperatures slowly rising to around 34 degrees. As for the waves on Lake Michigan, expect them to be relatively calm due to the lighter winds expected later.\n\nLooking ahead, the day will remain mostly cloudy with a high reaching into the low 30s, complemented by a gentle breeze. While there\u2019s no significant precipitation expected, the overall appearance may feel somewhat dreary and gray. It\u2019s advisable to dress warmly, perhaps in layers, with a good coat, gloves, and a hat to fend off the chill. Despite the cool atmosphere, the season is typical for December in this region, with temperatures aligning comfortably within expected ranges.\n\nThis gray day offers a perfect setting for indoor activities\u2014perhaps visiting local museums or enjoying a cozy caf\u00e9. For those feeling adventurous, a brisk walk along the lakefront could be refreshing, with the soothing sounds of the water providing a peaceful backdrop. Given the present conditions, it\u2019s best to plan accordingly and enjoy the charm of Evanston in wintertime.",
-    "color_code": "#4D5B8D",
-    "timestamp": "2024-12-10 05:05:02"
+    "weather_report": "In Evanston, the morning brings a crisp, cool atmosphere with temperatures lingering in the mid-30s, complemented by a breezy west-northwest wind that adds a bite to the air. The skies are partly cloudy, with a grayish hue signaling a whisper of the day's lingering chill. Currently, there is no precipitation, providing a clear outlook for those venturing out early. As the day unfolds, expect conditions to remain mostly cloudy, with temperatures expected to hover around the mid-30s in the afternoon, gradually descending toward the low 30s tonight.\n\nThe day has a somewhat drab feel typical of early winter in the Midwest, characterized by the chill of Lake Michigan that can be felt in the air, though it allows for a peaceful serenity along the shore. To withstand the coolness and gusty winds, layered clothing is advisable\u2014think warm jackets, scarves, and perhaps a knit hat. As for activities, while outdoor adventures might be limited by the brisk conditions, a walk along the beach or a visit to a local caf\u00e9 could provide a cozy escape from the winter air. Today is simply a day like any other, with no significant holidays or events on the horizon, making it a normal, quiet Sunday in December.",
+    "color_code": "#A9B3C2",
+    "timestamp": "2024-12-10 06:09:00"
 }
