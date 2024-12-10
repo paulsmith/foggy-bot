@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-10T00:00:00-06:00",
+                "startTime": "2024-12-10T01:00:00-06:00",
                 "endTime": "2024-12-10T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the night brings with it a cool and crisp ambiance, with the temperature lingering in the low 40s, accompanied by a brisk breeze that makes it feel more invigorating. The skies are overcast, setting a subdued tone as nighttime descends, while wind gusts whip through at a spirited pace, creating a blustery atmosphere along the shore. As we look towards the morrow, expect a mostly cloudy day ahead with temperatures peaking in the mid 30s by afternoon; these conditions will likely keep things feeling chilly, especially with a light, persistent wind.\n\nWave conditions at Lake Michigan could be slightly choppy given the winds, so care should be taken for waterfront strolls or any outdoor activities around the beach. There\u2019s no significant precipitation expected overnight or throughout Tuesday, making it a dry but brisk outing. As you venture out, layering up with a good coat and perhaps a scarf or hat would be a sensible choice, as the cool air might nip at exposed skin. \n\nGiven that we are in December in the Midwest, these temperatures align closely with seasonal norms, reflecting a typical chill for this time of year. While outdoor recreational activities might be limited due to the coolness, a cozy day indoors with warm beverages or preparations for the upcoming holidays could be just the right way to enjoy this wintry weather.",
-    "color_code": "#7B9DCE",
-    "timestamp": "2024-12-10 00:07:38"
+    "weather_report": "Current conditions in Evanston portray a chilly and blustery night, with temperatures hovering in the low 40s, accompanied by a biting wind that brings a raw edge to the air. The sky is blanketed in clouds, casting a muted glow over the landscape and limiting visibility toward the vast expanse of Lake Michigan. There's a noticeable chill in the air that might encourage you to bundle up more than usual as you step outside. \n\nLooking ahead to the day, the forecast suggests that although Tuesday will begin mostly cloudy, temperatures will only rise slightly, peaking around the mid 30s before tapering off in the afternoon. The wind will remain gentle, a stark contrast to the current gusty conditions, creating a scenario that feels both subdued and crisp. Wave conditions by the lake may be moderately choppy, potentially making for a rougher sailing experience for any adventurers braving the waters. Given the cool and cloudy forecast, it would be wise to don layers for warmth and perhaps a waterproof jacket if venturing outdoors. With December well underway, the seasonal chill is to be expected, though the current temperatures may feel a touch colder than typical for this time of year. As we settle into winter, outdoor activities may be limited, making indoor pursuits or cozy gatherings a preferable choice for leisure.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2024-12-10 01:05:57"
 }
