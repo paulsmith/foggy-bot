@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-10T07:51:00+00:00",
+            "timestamp": "2024-12-10T08:51:00+00:00",
             "temperature_f": 37.04,
             "temperature_c": 2.8,
             "humidity": 64.18845034177,
-            "wind_speed_mph": 33.01812,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 290,
             "description": "Mostly Cloudy"
         },
@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-10T03:00:00-06:00",
+                "startTime": "2024-12-10T04:00:00-06:00",
                 "endTime": "2024-12-10T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 32,
+                "temperature": 31,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. Low around 32, with temperatures rising to around 34 overnight. West northwest wind around 10 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. Low around 31, with temperatures rising to around 34 overnight. West northwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-10T06:00:00-06:00",
                 "endTime": "2024-12-10T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 36,
+                "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 36, with temperatures falling to around 33 in the afternoon. West northwest wind around 10 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 33. West northwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a chilly picture as temperatures hover in the mid 30s, combined with a blustery wind sweeping in from the west northwest. The sky is predominantly cloudy, lending a somewhat gloomy ambiance to the scene. As for precipitation, no rain or snow is anticipated at this hour, allowing for drier air to prevail. \n\nLooking ahead to Tuesday, expect mostly cloudy skies to dominate, with high temperatures struggling to reach the mid 30s before settling back into the low 30s by afternoon. Winds will remain gentle, but may kick up at times, creating a brisk atmosphere that might feel even colder. Dress warmly if venturing outside; layers, hats, and gloves will be wise companions given the season's chilly character. Though typical for December in this part of the world, the weather may deter outdoor activities like walks along the beach or park visits. Instead, consider indoor options such as a cozy caf\u00e9 or visiting local shops as the holidays approach, and embrace the tranquility of the winter season.",
-    "color_code": "#6B7C9A",
-    "timestamp": "2024-12-10 03:06:18"
+    "weather_report": "Current conditions in Evanston present a chilly scene as temperatures linger in the mid-30s, complemented by a brisk northwest breeze that brings a certain bite to the air. A blanket of mostly cloudy skies contributes to a rather gray atmosphere, giving the beach a serene yet stark appearance against the dark waters of Lake Michigan. As we move into the day, expect the weather to remain mostly overcast with temperatures edging slightly lower, peaking only in the low 30s. Gusty winds will persist throughout the day, further heightening the chilly feel.\n\nWith no significant precipitation anticipated and waves appearing relatively calm, outdoor activities may be limited to brisk walks or enjoying the winter landscape from the comfort of a warm caf\u00e9. Attire should encompass warm layers, including a reliable coat, gloves, and a hat to fend off the chill. Given that this is December, temperatures align closely with seasonal expectations, resonating with the wintry vibe typical for the region. So, while the day offers no festive distractions like holidays or elections, it provides a quiet canvas for contemplation amidst the quiet beauty of a winter's embrace.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2024-12-10 04:06:26"
 }
