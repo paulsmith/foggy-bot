@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-10T15:00:00-06:00",
+                "startTime": "2024-12-10T16:00:00-06:00",
                 "endTime": "2024-12-10T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 36,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-10T18:00:00-06:00",
                 "endTime": "2024-12-11T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 26,
+                "temperature": 27,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 26. West northwest wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 27. West northwest wind around 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "In Evanston today, the weather presents a chilly scene, with current temperatures hovering in the mid-30s under a blanket of cloud cover, creating an impression of a muted winter palette. The brisk winds from the northwest add a touch of bite to the air, making it feel significantly colder, especially by the lakeshore where the waves may be feeling a bit tumultuous. The overcast sky suggests that the sunlight is hiding, contributing to a somber yet serene ambiance. \n\nAs the afternoon unfolds, expect temperatures to edge closer to 36 degrees before dipping again, settling to around 26 tonight. Gentle breezes will persist, fostering a mildly blustery atmosphere as gusts reach up to 20 mph in the evening. With no precipitation expected today, conditions remain clear of rain or snow, which might allow for a brisk walk along the beach or a chilly jog through the nearby parks. However, given the current seasonal chill, it's wise to dress warmly\u2014layers will be your best friend, along with a sturdy coat, hat, and gloves. Though winter is setting in, the temperatures are typical for this time of year, keeping this classic Chicago December feeling just right for cozy indoor activities or brisk outdoor endeavors.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-10 15:05:05"
+    "weather_report": "As evening approaches in Evanston, the temperature hovers in the low 30s, giving the air a chilly bite amidst the cloudy skies. With a blustery wind sweeping in from the west-northwest, it feels colder than the thermometer might suggest, the wind carrying the promise of winter. Forecasters anticipate a high of near 36 degrees this afternoon, with temperatures gradually easing down to the upper 20s tonight, maintaining that brisk, wintry feel.\n\nThe waves on Lake Michigan reflect the day's overcast ambiance, likely presenting a gentle swell without any significant precipitation to disrupt the view. Conditions appear pleasant yet brisk, ideal for a quick stroll along the beach wrapped in warm attire. Given the current season, these temperatures are typical for December in this region, reminding residents of the colder months ahead. Although outdoor activities might be limited due to the chill, those willing to embrace winter could find solace in a quiet moment by the lake as nature settles into its wintry rhythm.",
+    "color_code": "#3a4d9c",
+    "timestamp": "2024-12-10 16:05:16"
 }
