@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-10T06:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 59.394790553823,
+            "timestamp": "2024-12-10T07:51:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 64.18845034177,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 280,
+            "wind_direction": 290,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-10T02:00:00-06:00",
+                "startTime": "2024-12-10T03:00:00-06:00",
                 "endTime": "2024-12-10T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the air feels brisk and cool this early morning, with a current temperature in the low 40s and a noticeable chill brought on by gusty winds from the west-northwest. The sky hangs heavily with clouds, creating a moody atmosphere that hints at a somewhat dreary day ahead. As we look to the forecast, temperatures are expected to hover around the mid 30s later today, with a relentless overcast that will keep spirits grounded. The wind, though not fierce, will bring a chill as it lingers around 10 mph, making for a blustery experience when outdoors.\n\nAs for the lake, wave conditions may be mildly stirred, but precipitation isn\u2019t expected in the coming hours; rather, we can anticipate an absence of sun\u2014certainly no opportunity for warmth or brightness. Attire should lean toward layers; a warm coat, perhaps a hat to shield against the cold winds, and sturdy footwear to tackle any slippery spots. It\u2019s a day typical for early December in this region, where the temperature is comfortably cool but indicative of the frigid months to come. Opportunities for outdoors are slim, though a brisk walk along the lakeshore or a visit to local caf\u00e9s may serve as a pleasant escape from the chilly air. Enjoy the quiet of a winter\u2019s night as the holiday season approaches, with major celebrations just around the corner.",
-    "color_code": "#6B758E",
-    "timestamp": "2024-12-10 02:07:22"
+    "weather_report": "Current conditions in Evanston paint a chilly picture as temperatures hover in the mid 30s, combined with a blustery wind sweeping in from the west northwest. The sky is predominantly cloudy, lending a somewhat gloomy ambiance to the scene. As for precipitation, no rain or snow is anticipated at this hour, allowing for drier air to prevail. \n\nLooking ahead to Tuesday, expect mostly cloudy skies to dominate, with high temperatures struggling to reach the mid 30s before settling back into the low 30s by afternoon. Winds will remain gentle, but may kick up at times, creating a brisk atmosphere that might feel even colder. Dress warmly if venturing outside; layers, hats, and gloves will be wise companions given the season's chilly character. Though typical for December in this part of the world, the weather may deter outdoor activities like walks along the beach or park visits. Instead, consider indoor options such as a cozy caf\u00e9 or visiting local shops as the holidays approach, and embrace the tranquility of the winter season.",
+    "color_code": "#6B7C9A",
+    "timestamp": "2024-12-10 03:06:18"
 }
