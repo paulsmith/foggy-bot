@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-10T22:51:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 65.988878729131,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 300,
+            "timestamp": "2024-12-11T00:31:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 66.356061349778,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 270,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-10T18:00:00-06:00",
+                "startTime": "2024-12-10T19:00:00-06:00",
                 "endTime": "2024-12-11T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing chilly and blustery conditions, with the temperature hovering in the low 30s and a hefty breeze whipping across the area, making it feel even colder. The sky is cloaked in cloud cover, adding a somber tone to the landscape, particularly as nightfall approaches. As for the forecast, expect mostly cloudy skies to continue tonight, with temperatures dipping to the upper 20s, accompanied by a gentler wind, though gusts may still stir the air.\n\nTomorrow, residents can anticipate a chance of snow showers developing after noon, with temperatures struggling to reach the low 30s before falling back to the low 20s in the afternoon. This means light snow accumulation is possible, but nothing significant is expected. The current seasonal temperature is typical for December in this region, painting a quintessentially Wintry scene at the lakefront, where the waves may be choppy due to the gusty winds. Given these conditions, it\u2019s advisable to bundle up in warm layers and possibly don waterproof attire\u2014some mittens and a thick scarf would be wise as outdoor activities will come with a brisk bite in the air, making it a perfect day for cozy indoor pursuits or enjoying the winter landscapes from the warmth of indoors.",
-    "color_code": "#4B7F9A",
-    "timestamp": "2024-12-10 18:23:25"
+    "weather_report": "As dusk settles over Evanston, the current temperature hovers in the low 30s, creating a crisp and cool atmosphere accentuated by a piercing 41 mph wind from the west, which transforms the shoreline into a windswept expanse. With overcast skies prevailing, the clouds cast a muted pallor over the landscape, leaving one to anticipate the potential for snow showers tomorrow, as a brief frostnip in the air suggests fleeting winter joy. \n\nLooking ahead, tonight's low will descend to around 27 degrees, with a gentle shift of wind to about 10 mph, making for an uncomfortable chill, particularly if one ventures outdoors without appropriate layers. Tomorrow will bring the possibility of snow after noon, with temperatures struggling to reach the mid-30s before falling into the low 20s, accompanied by gusty winds that may reach up to 40 mph\u2014enough to stir up brisk waves along Lake Michigan's shores, though serious wave action is less likely in the evening darkness. This time of year, such temperatures align neatly with the seasonal chill expected in the Midwest. It\u2019s advisable to bundle up in warm layers, including hats and gloves, as you take in the bracing air and prepare for what the lakefront has to offer. While it may not be the most inviting evening for recreational activities, a quick stroll along the beach could be invigorating, embracing the quietude of an early winter night.",
+    "color_code": "#3B3B3B",
+    "timestamp": "2024-12-10 19:33:21"
 }
