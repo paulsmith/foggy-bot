@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T00:51:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 66.356061349778,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 270,
+            "timestamp": "2024-12-11T02:12:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 63.258343251237,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 300,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly and brisk evening, with temperatures hovering in the low 30s. The air is thickened by a light cloud cover, creating a wintry atmosphere accentuated by a fierce westerly wind sweeping across Lake Michigan. As night falls, the scene at the beach remains somewhat somber yet captivating, inviting contemplative moments by the shoreline. Tonight, expect the possibility of snow showers, primarily before midnight, with temperatures dipping further to around 27 degrees. \n\nLooking ahead to Wednesday, conditions will remain mostly cloudy, with a high near 31 in the morning but expected to drop to the low 20s by afternoon. Frequent gusts can be anticipated, further invigorating the chilly air, as new snow accumulation may reach less than half an inch\u2014a fitting capstone to this December day. The atmosphere calls for layered attire: warm coats, hats, and gloves to stave off the biting chill. Given the wintry conditions and the time of year, outdoor festivities may be limited, leaving indoor pursuits or cozy gatherings as prudent choices. As we embrace the holiday season, stay warm and find joy in the winter's embrace.",
-    "color_code": "#B2B2C6",
-    "timestamp": "2024-12-10 20:32:18"
+    "weather_report": "Current conditions in Evanston paint a picture of a chilly, blustery evening with temperatures hovering in the low 30s. The air carries a dampness that adds to the coolness, making it feel even more brisk. The sky is overcast, casting a gloomy hue over the shoreline, where tufts of wind whip across the beach as gusts approach a fierce intensity. Tonight, residents can expect a chance of snow showers as the temperature dips to around 27, accompanied by a more manageable northwest wind.\n\nAs we look to Wednesday, snow is likely after the morning hours, with the high reaching only into the low 30s before temperatures slide into the lower 20s later in the day. The winds will remain busy, potentially impacting visibility along the lakefront as clouds hang thick. While the precipitation may not accumulate to significant levels, the evening air will carry a sharp chill typical for this time of the year in the Midwest. For those venturing outside, layered clothing, a warm hat, and gloves are recommended to ward off the wintery bite. The conditions may not be inviting for extended outdoor pursuits, but a brisk walk or a short visit to admire the winter scenery could offer a refreshing experience in this weather.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-10 21:18:52"
 }
