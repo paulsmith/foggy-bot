@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T18:51:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 55.743846259967,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 260,
-            "description": ""
+            "timestamp": "2024-12-11T19:51:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 63.379362708216,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Light Snow"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As we look out over the beach in Evanston this chilly afternoon, temperatures hover in the low 30s, creating a brisk atmosphere, enhanced by gusty winds whispering off Lake Michigan. Currently, there\u2019s a mix of weather: the sky is partly sunny with clouds gathering heralding a chance of snow showers later in the day. The piercing wind adds a bite, making it feel much colder, akin to the depths of winter, as wind chills dip to near -10 later tonight. Residents should prepare for scattered snow showers prior to evening, with only a light dusting expected.\n\nDespite the gray skies, the lake remains relatively calm, with gentle waves lapping against the shore, but the blustery conditions can stir up a bit more chaos. It\u2019s a good day for heavy coats, warm hats, and gloves, as you venture out, especially with chilling wind gusts that could reach 40 mph. This time of year is typical for the region\u2014winter's grip firmly asserts itself as we approach the depths of December. If you\u2019re inclined to embrace the outdoors, a brisk walk along the lakefront may invigorate the spirit, but be sure to dress in layers to fend off the cold. With the holidays just around the corner, a little winter cheer can easily be found in community parks, albeit amidst the cold setting.",
-    "color_code": "#A0B2C3",
-    "timestamp": "2024-12-11 14:06:20"
+    "weather_report": "Evanston's winter afternoon greets residents with a chill in the air as the temperature hovers just above freezing. With light snow falling and a blanket of gray clouds overhead, the scenery carries a somewhat muted, wintry tone. Current conditions include a brisk, gusty wind that adds to the overall crispness, creating a biting feel that suggests it\u2019s prudent to bundle up. The anticipated high for the day is around the low 30s, but temperatures will begin a downward trend, giving way to evening lows near the mid-single digits, where wind chill will dig even deeper, potentially feeling as frigid as -13 degrees.\n\nWhile the chance of snow showers persists into the afternoon, it\u2019s expected to taper off by nightfall, with scattered flurries lingering just before 11 PM. The beach may appear serene, but wave conditions are likely to be choppy, owing to the strong winds gusting to 40 mph. For those venturing outdoors, this is not quite the ideal winter weather for leisurely strolls along the shore; instead, dressing in layers of warm clothing, complete with hats and gloves, is highly advisable as the weather is far from welcoming. In this season, temperatures and conditions are typical for December in the Midwest, embodying the quintessential wintry landscape. Ideal activities today would be cozying up indoors, perhaps enjoying a warm drink or engaging in festive holiday preparations as the season of gatherings approaches.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-11 15:05:14"
 }
