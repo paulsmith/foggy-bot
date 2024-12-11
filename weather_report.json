@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T05:51:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 60.394650155608,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 270,
-            "description": ""
+            "timestamp": "2024-12-11T07:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 62.990234298163,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 290,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-11T01:00:00-06:00",
+                "startTime": "2024-12-11T03:00:00-06:00",
                 "endTime": "2024-12-11T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -41,22 +41,22 @@
                 "startTime": "2024-12-11T06:00:00-06:00",
                 "endTime": "2024-12-11T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 31,
+                "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 50
                 },
                 "windSpeed": "10 to 20 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/snow/snow,60?size=medium",
-                "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers after 7am. Mostly cloudy. High near 31, with temperatures falling to around 21 in the afternoon. West northwest wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,50?size=medium",
+                "shortForecast": "Scattered Snow Showers",
+                "detailedForecast": "Scattered snow showers after 8am. Cloudy. High near 30, with temperatures falling to around 24 in the afternoon. West northwest wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "As of the early hours in Evanston, temperatures are hovering in the low 30s, accompanied by a brisk, howling wind that cuts through the air. The atmosphere feels quite raw and chilly, typical for this time of year, with cloud cover casting a gray veil over the landscape. Current conditions suggest a stark winter chill, and with this level of wind, it can feel even colder than the thermometer indicates. The lakefront is quiet, likely obscured by the murky night, but the potential for snow showers looms on the horizon, as a 60% chance for flurries emerges with the dawn. \n\nExpect mainly cloudy skies throughout Wednesday, with temperatures peaking near the low 30s before dipping significantly in the afternoon. Winds will remain gusty, escalating from the west northwest, which may lead to fairly choppy conditions on the lake. If venturing outside today, layering up is advisable\u2014think warm coats, hats, and scarves, as the wind chill will be a notable factor. While the day might feel uninviting for long outdoor activities, brief jaunts along the shore or to enjoy the sight of snowflakes may offer a gentle touch of winter\u2019s charm during this otherwise quiet December day.",
-    "color_code": "#3B3B3B",
-    "timestamp": "2024-12-11 01:05:57"
+    "weather_report": "The current conditions in Evanston, Illinois, present a brisk and chilly scene, with temperatures dipping into the upper 20s. The air carries a cool moisture, creating a distinctly frosty feel, amplified further by a strong, gusty wind whipping in from the west. The day is mostly cloudy, veiling any starlight, with potential for scattered snow showers by the morning hours, which will contribute to a rather gray, overcast ambiance as the day unfolds.\n\nLooking ahead, the weather forecast indicates a continuation of this wintry chill, with temperatures struggling to reach the low 30s before dropping through the afternoon. A brisk northwest wind could make it feel even chillier, so expect wind gusts that might catch unprepared passersby off guard. For those considering outdoor activities, it\u2019s advisable to dress warmly in layers and don a sturdy coat, perhaps accessorized with a warm hat and gloves, to ward off the projected cold. The waters of Lake Michigan, while intriguing, will likely be choppy with increased wave action due to the wind, discouraging casual strolls along the shoreline. It\u2019s the perfect day for a cozy indoor activity, perhaps curling up with a favorite book or seeking comfort in a warm caf\u00e9 as the next snowflakes may begin to fall.",
+    "color_code": "#2D2E52",
+    "timestamp": "2024-12-11 03:06:00"
 }
