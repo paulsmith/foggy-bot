@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T17:23:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 66.356061349778,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 250,
+            "timestamp": "2024-12-11T17:58:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 60.67424203712,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 280,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, showcase a wintry scene with temperatures hovering in the low 30s. The air feels cold, invigorated by a blustery wind that sweeps across the beach, curling through tree branches and carrying the scent of fresh snow. Overhead, a thick blanket of clouds casts a muted light over the landscape, creating a stark contrast against the steel-grey waters of Lake Michigan, where gentle waves lap at the shore. \n\nAs the day progresses, expect a chance of snow showers, with the mercury dipping later in the afternoon to near 22 degrees. With gusty winds continuing to howl at 15 to 25 miles per hour, it\u2019s advisable to bundle up in warm layers, emphasizing hats, gloves, and insulated coats to stave off the biting chill, which may feel as frigid as -14 with the wind chill. The chance of new snow accumulation could lead to about an inch later on, adding to the wintery atmosphere. This weather reflects a typical December day for the region, where such cold and snow are seasonally expected. For those keen on outdoor activities, consider a brisk walk along the shore, though be mindful of the cold and perhaps save more strenuous endeavors for another day.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-12-11 12:07:19"
+    "weather_report": "In Evanston, the current weather presents a brisk scene, with temperatures hovering in the low 30s, creating a distinctly wintry atmosphere. The air carries a chill, accentuated by a blustery wind swirling in from the west-northwest at a fierce pace, making outdoor conditions feel significantly colder. The sky is dominated by clouds, with a forecasted chance of snow showers later today. As the afternoon progresses, expect temperatures to drop further, approaching the low 20s, while gusts may reach up to 40 mph, promising a blustery end to the day.\n\nLooking ahead, the evening will bring scattered snow showers, transitioning to clearer skies by late night, with temperatures dipping dangerously close to the single digits. Wind chill could exacerbate the cold, with values feeling like -14. Given the biting conditions, it's advisable to bundle up in warm layers, perhaps a heavy coat, insulated gloves, and a hat to shield against the penetrating cold. Wave conditions on Lake Michigan are likely to be choppy due to the strong winds, though mainly calm at the moment. The coastal scene may appear strikingly beautiful but quite inhospitable for outdoor activities; hence, this is a perfect time to cozy up indoors with warm drinks, or prepare for a brisk winter walk if suitably attired. With winter firmly in grip and the holiday season approaching, this weather summons a sense of cozy gatherings indoors as we approach winter festivities.",
+    "color_code": "#A9B7B0",
+    "timestamp": "2024-12-11 13:04:59"
 }
