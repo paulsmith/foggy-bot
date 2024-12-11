@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-10T20:00:00-06:00",
+                "startTime": "2024-12-10T22:00:00-06:00",
                 "endTime": "2024-12-11T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a picture of a chilly, blustery evening with temperatures hovering in the low 30s. The air carries a dampness that adds to the coolness, making it feel even more brisk. The sky is overcast, casting a gloomy hue over the shoreline, where tufts of wind whip across the beach as gusts approach a fierce intensity. Tonight, residents can expect a chance of snow showers as the temperature dips to around 27, accompanied by a more manageable northwest wind.\n\nAs we look to Wednesday, snow is likely after the morning hours, with the high reaching only into the low 30s before temperatures slide into the lower 20s later in the day. The winds will remain busy, potentially impacting visibility along the lakefront as clouds hang thick. While the precipitation may not accumulate to significant levels, the evening air will carry a sharp chill typical for this time of the year in the Midwest. For those venturing outside, layered clothing, a warm hat, and gloves are recommended to ward off the wintery bite. The conditions may not be inviting for extended outdoor pursuits, but a brisk walk or a short visit to admire the winter scenery could offer a refreshing experience in this weather.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-10 21:18:52"
+    "weather_report": "In Evanston, the current scene is marked by a chilly atmosphere with temperatures hovering in the low 30s, accompanied by a blustery wind that adds a bite to the air. The sky is cloaked in clouds, casting a gray hue over the landscape as night settles in. This evening calls for a chance of snow showers before midnight, with temperatures dipping to the upper 20s. Tomorrow, residents can expect continued chances of snow in the morning, as colder air filters in, pushing highs to just around the low 30s by afternoon. The shifting winds will be brisk, particularly in the later hours, creating a setting that may feel invigorating but also brisk and wintry.\n\nGiven the conditions, it's advisable to bundle up, opting for warm layers, perhaps a wool hat and gloves, to stave off the chill. The evening's blustery conditions may stir up small waves on Lake Michigan, likely making for an impressive sight along the shore, but perhaps not ideal for boating or leisurely strolls by the water. As we inch closer to the holiday season, with festive gatherings looming on the horizon, it\u2019s a perfect time to enjoy indoor activities or cozy up with loved ones by the fire, rather than venturing outdoors in this frosty milieu.",
+    "color_code": "#4B7F99",
+    "timestamp": "2024-12-10 22:06:53"
 }
