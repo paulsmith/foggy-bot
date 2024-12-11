@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T21:10:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": null,
+            "timestamp": "2024-12-11T21:51:00+00:00",
+            "temperature_f": 24.98,
+            "temperature_c": -3.9,
+            "humidity": 41.815635910165,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-11T16:00:00-06:00",
+                "startTime": "2024-12-11T17:00:00-06:00",
                 "endTime": "2024-12-11T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 31,
+                "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
                 "shortForecast": "Isolated Snow Showers",
-                "detailedForecast": "Isolated snow showers. Mostly sunny. High near 31, with temperatures falling to around 22 in the afternoon. West northwest wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New snow accumulation of less than one inch possible."
+                "detailedForecast": "Isolated snow showers. Mostly sunny. High near 33, with temperatures falling to around 25 in the afternoon. West northwest wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current conditions in Evanston reveal a brisk and cold atmosphere, with temperatures hovering in the mid-20s and a mostly cloudy sky casting a muted light over Lake Michigan. Despite the chill, the air remains fresh and invigorating, ideal for a quick walk along the beach\u2014though one should expect the feeling of the temperature to drop significantly as the wind picks up in the afternoon, promising gusty conditions that could sweep across the shoreline.\n\nLooking ahead, isolated snow showers are forecasted for the afternoon, transitioning to scattered snow flurries as night falls. Temperatures will gradually decline, dipping into the single digits while wind chills could plummet to a biting -13 degrees. The chance of any significant snowfall remains low, with only minor accumulations expected. As the evening approaches, the scene may grow more wintry, emphasizing a stark contrast to the day\u2019s slightly sunlit hours. For those planning outdoor activities, dressing in layers, including a warm coat, gloves, and a hat will be essential to ward off the cold. Given the seasonal character of December in the Midwest, these temperatures are typical of winter, heralding the arrival of more frigid days ahead. Enjoying a warm beverage indoors may be a more inviting option this evening, though a late stroll along the beach could provide a solitary moment of reflection as the snow begins to dance in the frigid air.",
-    "color_code": "#A3B9C8",
-    "timestamp": "2024-12-11 16:05:23"
+    "weather_report": "In Evanston, current conditions display a brisk but mostly clear outlook, with temperatures hovering in the mid-20s. As the sun sets and the day nears its end, a chill permeates the air, preparing the scene for a colder night, leading to potential snow showers and wind gusts that could stir up Lake Michigan's calm surface. This afternoon's forecast hints at isolated snow showers, with a high reaching near the low 30s before temperatures dip into the single digits tonight. \n\nThe appearance is decidedly wintry, offering a contemplative atmosphere\u2014perfect for cozy evenings indoors rather than outdoor explorations. With a hint of precipitation in the forecast, keeping dry is key, particularly as nighttime temperatures plummet, making it feel even cooler outside. Dressing in warm layers and donning a wind-resistant jacket is essential to combat the biting chill and gusty winds. Given that December brings both a festive spirit and inching snowfall, it's a reminder of the season's characteristic temperatures in this northern region. Consider enjoying intimate gatherings or curling up with a good book at home rather than venturing out into the winter air tonight.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2024-12-11 17:05:42"
 }
