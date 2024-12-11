@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T12:51:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 68.586280864385,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 230,
+            "timestamp": "2024-12-11T14:59:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 68.823797236386,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 240,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-11T08:00:00-06:00",
+                "startTime": "2024-12-11T10:00:00-06:00",
                 "endTime": "2024-12-11T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 30,
+                "temperature": 31,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 70
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "15 to 25 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,50?size=medium",
-                "shortForecast": "Scattered Snow Showers",
-                "detailedForecast": "Scattered snow showers. Cloudy. High near 30, with temperatures falling to around 24 in the afternoon. West northwest wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,70?size=medium",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers. Cloudy. High near 31, with temperatures falling to around 22 in the afternoon. West northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
                 "windSpeed": "15 to 25 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20/cold?size=medium",
-                "shortForecast": "Intermittent Snow Showers then Mostly Clear",
-                "detailedForecast": "Intermittent snow showers before 11pm. Mostly clear, with a low around 4. Wind chill values as low as -14. West northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/cold?size=medium",
+                "shortForecast": "Scattered Snow Showers then Mostly Clear",
+                "detailedForecast": "Scattered snow showers before 11pm. Mostly clear, with a low around 4. Wind chill values as low as -14. West northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "Conditions in Evanston are fittingly brisk for December, with a temperature resting in the upper 20s and a damp chill accentuated by a fierce breeze skimming from the west-southwest. The skies are overcast, offering a muted light that casts a grayish hue across the beach and Lake Michigan. As the day progresses, temperatures are expected to peak around the low 30s before dipping again into the mid-20s in the afternoon, accompanied by gusty winds reaching up to 40 mph, making the air feel significantly colder, with wind chill values plummeting near zero as night approaches.\n\nToday, scattered snow showers are on the agenda, particularly in the early afternoon, with a modest chance of light accumulation. The beach will likely not see significant wave action due to the prevailing wind direction and strength, which may stir the water somewhat but not enough to create notable surf. A warm coat, hat, and gloves will be necessary attire for anyone planning to venture outdoors, as conditions will feel uncomfortably cold, especially during the gusts. With winter solstice just around the corner, these temperatures are entirely expected for this time of year in the Great Lakes region. Ideal activities today might include visiting a cozy caf\u00e9 or indulging in some winter shopping, while outdoor enthusiasts should consider bundling up for a brisk walk along the shoreline to witness the winter scenery, despite the chilling air.",
-    "color_code": "#B0C4D8",
-    "timestamp": "2024-12-11 08:05:37"
+    "weather_report": "Evanston is currently experiencing chilly conditions with temperatures in the low 30s. The air carries a briskness that makes it feel even cooler, particularly with strong winds howling from the west-northwest at nearly 40 miles per hour, causing any outdoor venture to feel quite biting. The sky is overcast, shrouded in clouds that lend an almost somber tone to the landscape, and the beach view towards Lake Michigan reflects a gray, tranquil surface with gentle wave activity\u2014a fickle charm amidst the winter chill.\n\nLater today, expect a chance of snow showers with a high temperature barely reaching above freezing, followed by a notable drop in the afternoon as temperatures will feel more like the low teens due to the wind chill. Conditions may linger in a snow-filled haze, while tonight promises a clearer sky, although the mercury will plunge to around 4 degrees, prompting layered attire. For those braving the outdoors, it\u2019s advisable to dress warmly in heavy coats and insulated gear, ideally thick hats and gloves, to counteract the fierce winds and biting cold. While not ideal for long outdoor excursions, those who appreciate the beauty of winter might find elevated spirits wandering along the snowy shores, savoring the stark, wintry charm, especially as the holiday season approaches.",
+    "color_code": "#A8B3B0",
+    "timestamp": "2024-12-11 10:06:17"
 }
