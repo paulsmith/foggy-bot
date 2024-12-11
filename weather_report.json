@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T04:51:00+00:00",
+            "timestamp": "2024-12-11T05:51:00+00:00",
             "temperature_f": 30.02,
             "temperature_c": -1.1,
             "humidity": 60.394650155608,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 290,
-            "description": "Cloudy"
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 270,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-11T00:00:00-06:00",
+                "startTime": "2024-12-11T01:00:00-06:00",
                 "endTime": "2024-12-11T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "WNW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 27. West northwest wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 27. West wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the temperature rests in the low 30s, creating a brisk atmosphere under a cloudy sky. A fierce wind from the west-northwest adds a biting chill, making it feel noticeably colder. Overnight, expect the weather to remain mostly cloudy with temperatures dropping to the upper 20s. Wednesday holds a promising chance for snow showers as the day progresses, with highs peaking near 31 before falling into the low 20s by afternoon. Windy conditions will persist, with gusts possibly reaching 40 mph, resulting in an unsettled feel throughout the day.\n\nAs for the shoreline, wave conditions will likely be rough due to the blustery winds, making it less than ideal for outdoor pursuits typically enjoyed along Lake Michigan. The wintry chill suggests that layered clothing is essential; a warm coat, gloves, and a hat are encouraged to counteract the cold and wind. With the winter season fully underway, these temperatures are consistent with what one would expect for December in this region. While outdoor activity may be limited, those interested in wintertime fun could consider visiting local cafes or participating in indoor holiday events, with the festive season just around the corner.",
-    "color_code": "#A6A6A6",
-    "timestamp": "2024-12-11 00:08:11"
+    "weather_report": "As of the early hours in Evanston, temperatures are hovering in the low 30s, accompanied by a brisk, howling wind that cuts through the air. The atmosphere feels quite raw and chilly, typical for this time of year, with cloud cover casting a gray veil over the landscape. Current conditions suggest a stark winter chill, and with this level of wind, it can feel even colder than the thermometer indicates. The lakefront is quiet, likely obscured by the murky night, but the potential for snow showers looms on the horizon, as a 60% chance for flurries emerges with the dawn. \n\nExpect mainly cloudy skies throughout Wednesday, with temperatures peaking near the low 30s before dipping significantly in the afternoon. Winds will remain gusty, escalating from the west northwest, which may lead to fairly choppy conditions on the lake. If venturing outside today, layering up is advisable\u2014think warm coats, hats, and scarves, as the wind chill will be a notable factor. While the day might feel uninviting for long outdoor activities, brief jaunts along the shore or to enjoy the sight of snowflakes may offer a gentle touch of winter\u2019s charm during this otherwise quiet December day.",
+    "color_code": "#3B3B3B",
+    "timestamp": "2024-12-11 01:05:57"
 }
