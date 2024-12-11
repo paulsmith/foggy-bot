@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T11:51:00+00:00",
+            "timestamp": "2024-12-11T12:51:00+00:00",
             "temperature_f": 28.04,
             "temperature_c": -2.2,
-            "humidity": 65.481393052415,
+            "humidity": 68.586280864385,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 240,
+            "wind_direction": 230,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-11T07:00:00-06:00",
+                "startTime": "2024-12-11T08:00:00-06:00",
                 "endTime": "2024-12-11T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -33,7 +33,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,50?size=medium",
                 "shortForecast": "Scattered Snow Showers",
-                "detailedForecast": "Scattered snow showers after 8am. Cloudy. High near 30, with temperatures falling to around 24 in the afternoon. West northwest wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+                "detailedForecast": "Scattered snow showers. Cloudy. High near 30, with temperatures falling to around 24 in the afternoon. West northwest wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the morning begins with a biting chill, as the temperature hovers in the mid 20s, accompanied by a bracing wind that adds to the crispness of the day, making it feel even colder. The sky above remains dominated by thick, gray clouds, casting a gloomy yet serene pallor over the beach vista toward Lake Michigan. Scattered snow showers are expected to roll in after eight this morning, with a high later near 30 degrees before temperatures retreat to about 24 in the afternoon. Winds from the west-northwest will be brisk, creating robust gusts that could reach 40 miles per hour. \n\nThe weather is decidedly wintry and somewhat unpleasant, particularly for those unprepared for the fierce wind chill values that could plunge to a frosty -14 tonight. Lake conditions may also become choppy as the day progresses, though snow accumulation is predicted to be minimal. Given these conditions, dressing in layers with a warm coat, hat, gloves, and sturdy boots is advisable. The chill in the air serves as a reminder of the season\u2019s grip, making it clear that December is firmly upon us, a time when such temperatures are decidedly typical for the region. While outdoor activities may be limited by the cold, those who brave the elements might enjoy winter walks along the lakeshore or engaging in winter sports, but it\u2019s wise to heed the wind and snow for safety.",
-    "color_code": "#A5A8A9",
-    "timestamp": "2024-12-11 07:12:14"
+    "weather_report": "Conditions in Evanston are fittingly brisk for December, with a temperature resting in the upper 20s and a damp chill accentuated by a fierce breeze skimming from the west-southwest. The skies are overcast, offering a muted light that casts a grayish hue across the beach and Lake Michigan. As the day progresses, temperatures are expected to peak around the low 30s before dipping again into the mid-20s in the afternoon, accompanied by gusty winds reaching up to 40 mph, making the air feel significantly colder, with wind chill values plummeting near zero as night approaches.\n\nToday, scattered snow showers are on the agenda, particularly in the early afternoon, with a modest chance of light accumulation. The beach will likely not see significant wave action due to the prevailing wind direction and strength, which may stir the water somewhat but not enough to create notable surf. A warm coat, hat, and gloves will be necessary attire for anyone planning to venture outdoors, as conditions will feel uncomfortably cold, especially during the gusts. With winter solstice just around the corner, these temperatures are entirely expected for this time of year in the Great Lakes region. Ideal activities today might include visiting a cozy caf\u00e9 or indulging in some winter shopping, while outdoor enthusiasts should consider bundling up for a brisk walk along the shoreline to witness the winter scenery, despite the chilling air.",
+    "color_code": "#B0C4D8",
+    "timestamp": "2024-12-11 08:05:37"
 }
