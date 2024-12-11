@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T15:51:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 68.823797236386,
-            "wind_speed_mph": 53.95644000000001,
+            "timestamp": "2024-12-11T17:23:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 66.356061349778,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 250,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-11T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-11T12:00:00-06:00",
                 "endTime": "2024-12-11T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -31,7 +31,7 @@
                 },
                 "windSpeed": "15 to 25 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,70?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
                 "shortForecast": "Chance Snow Showers",
                 "detailedForecast": "A chance of snow showers. Cloudy. High near 31, with temperatures falling to around 22 in the afternoon. West northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
             },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston reflect a blustery chill, with temperatures hovering in the low 30s and a fierce wind adding to the bite of the air. It's a cloudy scene, the kind that evokes a sense of somber beauty, as wave activity along Lake Michigan picks up in response to the wind's howl. As the day progresses, a chance of snow showers looms, with a forecasted high barely reaching into the low 30s before a drop to around 22 in the afternoon. Expect about an inch of new snow, adding a wintry sparkle to the atmosphere, albeit with a wind chill that could feel as low as -14 later tonight.\n\nIn this winter setting, bundled attire is a must\u2014think insulated coats, warm hats, and thick gloves. The chilly conditions align well with this time of year, being decidedly typical for December in the Midwest. With gusty winds and scattered snow expected, outdoor activities may be limited, but it could be an ideal moment for cozy indoor pursuits or a brisk walk if you're well-prepared for the elements. Today is not a holiday, and with the impending winter scenery, it captures the essence of the season perfectly.",
-    "color_code": "#A9B3C1",
-    "timestamp": "2024-12-11 11:05:08"
+    "weather_report": "Current conditions in Evanston, Illinois, showcase a wintry scene with temperatures hovering in the low 30s. The air feels cold, invigorated by a blustery wind that sweeps across the beach, curling through tree branches and carrying the scent of fresh snow. Overhead, a thick blanket of clouds casts a muted light over the landscape, creating a stark contrast against the steel-grey waters of Lake Michigan, where gentle waves lap at the shore. \n\nAs the day progresses, expect a chance of snow showers, with the mercury dipping later in the afternoon to near 22 degrees. With gusty winds continuing to howl at 15 to 25 miles per hour, it\u2019s advisable to bundle up in warm layers, emphasizing hats, gloves, and insulated coats to stave off the biting chill, which may feel as frigid as -14 with the wind chill. The chance of new snow accumulation could lead to about an inch later on, adding to the wintery atmosphere. This weather reflects a typical December day for the region, where such cold and snow are seasonally expected. For those keen on outdoor activities, consider a brisk walk along the shore, though be mindful of the cold and perhaps save more strenuous endeavors for another day.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-11 12:07:19"
 }
