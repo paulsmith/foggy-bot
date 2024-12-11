@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T02:12:00+00:00",
+            "timestamp": "2024-12-11T03:51:00+00:00",
             "temperature_f": 30.02,
             "temperature_c": -1.1,
-            "humidity": 63.258343251237,
-            "wind_speed_mph": 37.04472,
+            "humidity": 60.394650155608,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 300,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-10T22:00:00-06:00",
+                "startTime": "2024-12-10T23:00:00-06:00",
                 "endTime": "2024-12-11T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "WNW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/snow/bkn?size=medium",
                 "shortForecast": "Chance Snow Showers then Mostly Cloudy",
-                "detailedForecast": "A chance of snow showers before midnight. Mostly cloudy, with a low around 27. West northwest wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "A chance of snow showers before midnight. Mostly cloudy, with a low around 27. West wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current scene is marked by a chilly atmosphere with temperatures hovering in the low 30s, accompanied by a blustery wind that adds a bite to the air. The sky is cloaked in clouds, casting a gray hue over the landscape as night settles in. This evening calls for a chance of snow showers before midnight, with temperatures dipping to the upper 20s. Tomorrow, residents can expect continued chances of snow in the morning, as colder air filters in, pushing highs to just around the low 30s by afternoon. The shifting winds will be brisk, particularly in the later hours, creating a setting that may feel invigorating but also brisk and wintry.\n\nGiven the conditions, it's advisable to bundle up, opting for warm layers, perhaps a wool hat and gloves, to stave off the chill. The evening's blustery conditions may stir up small waves on Lake Michigan, likely making for an impressive sight along the shore, but perhaps not ideal for boating or leisurely strolls by the water. As we inch closer to the holiday season, with festive gatherings looming on the horizon, it\u2019s a perfect time to enjoy indoor activities or cozy up with loved ones by the fire, rather than venturing outdoors in this frosty milieu.",
-    "color_code": "#4B7F99",
-    "timestamp": "2024-12-10 22:06:53"
+    "weather_report": "In Evanston, the night air is sharp and biting, with temperatures nestled in the low 30s and a steady, howling wind creating a pronounced chill. The cloudy sky shrouds visibility, casting an almost gray hue over the beach that stretches towards Lake Michigan. As we look ahead, tonight holds the potential for a few snow showers, especially before the clock strikes midnight. With the wind dialing down somewhat to a gentler breeze, residents can expect a low at around 27 degrees, accompanied by gusts that may still catch you off guard.\n\nThe forecast for Wednesday presents a similar narrative; snow may return as day breaks, although accumulation is projected to be minimal. High temperatures are expected to hover near 31 degrees, but by afternoon, a noticeable drop will leave us feeling even chillier, with temperatures retreating into the low 20s. While there's a decent chance for precipitation, the wave conditions on Lake Michigan are likely to remain manageable, perfect for those who appreciate the serenity of a winter beach scene. Dressing in warm layers is advisable; think winter coats, hats, and sturdy footwear to stay cozy against the brisk, invigorating air. Despite being firmly in the winter season, these temperatures are quite typical for December in this region. Vertical movements on the shore may be limited, but a brisk walk to relish the tranquil beauty of the lake under these cloudy skies could be quite refreshing.",
+    "color_code": "#B2C4E0",
+    "timestamp": "2024-12-10 23:05:53"
 }
