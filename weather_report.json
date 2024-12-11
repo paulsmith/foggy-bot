@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T17:58:00+00:00",
+            "timestamp": "2024-12-11T18:51:00+00:00",
             "temperature_f": 32.0,
             "temperature_c": 0,
-            "humidity": 60.67424203712,
+            "humidity": 55.743846259967,
             "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 280,
-            "description": "Cloudy"
+            "wind_direction": 260,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-11T12:00:00-06:00",
+                "startTime": "2024-12-11T14:00:00-06:00",
                 "endTime": "2024-12-11T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 70
                 },
-                "windSpeed": "15 to 25 mph",
+                "windSpeed": "20 to 25 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Cloudy. High near 31, with temperatures falling to around 22 in the afternoon. West northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+                "detailedForecast": "A chance of snow showers. Partly sunny. High near 31, with temperatures falling to around 22 in the afternoon. West northwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-12-11T18:00:00-06:00",
                 "endTime": "2024-12-12T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 4,
+                "temperature": 5,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "15 to 25 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30/cold?size=medium",
-                "shortForecast": "Scattered Snow Showers then Mostly Clear",
-                "detailedForecast": "Scattered snow showers before 11pm. Mostly clear, with a low around 4. Wind chill values as low as -14. West northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/cold?size=medium",
+                "shortForecast": "Scattered Snow Showers then Partly Cloudy",
+                "detailedForecast": "Scattered snow showers before 11pm. Partly cloudy, with a low around 5. Wind chill values as low as -13. West northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather presents a brisk scene, with temperatures hovering in the low 30s, creating a distinctly wintry atmosphere. The air carries a chill, accentuated by a blustery wind swirling in from the west-northwest at a fierce pace, making outdoor conditions feel significantly colder. The sky is dominated by clouds, with a forecasted chance of snow showers later today. As the afternoon progresses, expect temperatures to drop further, approaching the low 20s, while gusts may reach up to 40 mph, promising a blustery end to the day.\n\nLooking ahead, the evening will bring scattered snow showers, transitioning to clearer skies by late night, with temperatures dipping dangerously close to the single digits. Wind chill could exacerbate the cold, with values feeling like -14. Given the biting conditions, it's advisable to bundle up in warm layers, perhaps a heavy coat, insulated gloves, and a hat to shield against the penetrating cold. Wave conditions on Lake Michigan are likely to be choppy due to the strong winds, though mainly calm at the moment. The coastal scene may appear strikingly beautiful but quite inhospitable for outdoor activities; hence, this is a perfect time to cozy up indoors with warm drinks, or prepare for a brisk winter walk if suitably attired. With winter firmly in grip and the holiday season approaching, this weather summons a sense of cozy gatherings indoors as we approach winter festivities.",
-    "color_code": "#A9B7B0",
-    "timestamp": "2024-12-11 13:04:59"
+    "weather_report": "As we look out over the beach in Evanston this chilly afternoon, temperatures hover in the low 30s, creating a brisk atmosphere, enhanced by gusty winds whispering off Lake Michigan. Currently, there\u2019s a mix of weather: the sky is partly sunny with clouds gathering heralding a chance of snow showers later in the day. The piercing wind adds a bite, making it feel much colder, akin to the depths of winter, as wind chills dip to near -10 later tonight. Residents should prepare for scattered snow showers prior to evening, with only a light dusting expected.\n\nDespite the gray skies, the lake remains relatively calm, with gentle waves lapping against the shore, but the blustery conditions can stir up a bit more chaos. It\u2019s a good day for heavy coats, warm hats, and gloves, as you venture out, especially with chilling wind gusts that could reach 40 mph. This time of year is typical for the region\u2014winter's grip firmly asserts itself as we approach the depths of December. If you\u2019re inclined to embrace the outdoors, a brisk walk along the lakefront may invigorate the spirit, but be sure to dress in layers to fend off the cold. With the holidays just around the corner, a little winter cheer can easily be found in community parks, albeit amidst the cold setting.",
+    "color_code": "#A0B2C3",
+    "timestamp": "2024-12-11 14:06:20"
 }
