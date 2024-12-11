@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T19:51:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 63.379362708216,
+            "timestamp": "2024-12-11T21:10:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Light Snow"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-11T14:00:00-06:00",
+                "startTime": "2024-12-11T16:00:00-06:00",
                 "endTime": "2024-12-11T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 20
                 },
-                "windSpeed": "20 to 25 mph",
+                "windSpeed": "25 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
-                "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Partly sunny. High near 31, with temperatures falling to around 22 in the afternoon. West northwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
+                "shortForecast": "Isolated Snow Showers",
+                "detailedForecast": "Isolated snow showers. Mostly sunny. High near 31, with temperatures falling to around 22 in the afternoon. West northwest wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston's winter afternoon greets residents with a chill in the air as the temperature hovers just above freezing. With light snow falling and a blanket of gray clouds overhead, the scenery carries a somewhat muted, wintry tone. Current conditions include a brisk, gusty wind that adds to the overall crispness, creating a biting feel that suggests it\u2019s prudent to bundle up. The anticipated high for the day is around the low 30s, but temperatures will begin a downward trend, giving way to evening lows near the mid-single digits, where wind chill will dig even deeper, potentially feeling as frigid as -13 degrees.\n\nWhile the chance of snow showers persists into the afternoon, it\u2019s expected to taper off by nightfall, with scattered flurries lingering just before 11 PM. The beach may appear serene, but wave conditions are likely to be choppy, owing to the strong winds gusting to 40 mph. For those venturing outdoors, this is not quite the ideal winter weather for leisurely strolls along the shore; instead, dressing in layers of warm clothing, complete with hats and gloves, is highly advisable as the weather is far from welcoming. In this season, temperatures and conditions are typical for December in the Midwest, embodying the quintessential wintry landscape. Ideal activities today would be cozying up indoors, perhaps enjoying a warm drink or engaging in festive holiday preparations as the season of gatherings approaches.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-12-11 15:05:14"
+    "weather_report": "The current conditions in Evanston reveal a brisk and cold atmosphere, with temperatures hovering in the mid-20s and a mostly cloudy sky casting a muted light over Lake Michigan. Despite the chill, the air remains fresh and invigorating, ideal for a quick walk along the beach\u2014though one should expect the feeling of the temperature to drop significantly as the wind picks up in the afternoon, promising gusty conditions that could sweep across the shoreline.\n\nLooking ahead, isolated snow showers are forecasted for the afternoon, transitioning to scattered snow flurries as night falls. Temperatures will gradually decline, dipping into the single digits while wind chills could plummet to a biting -13 degrees. The chance of any significant snowfall remains low, with only minor accumulations expected. As the evening approaches, the scene may grow more wintry, emphasizing a stark contrast to the day\u2019s slightly sunlit hours. For those planning outdoor activities, dressing in layers, including a warm coat, gloves, and a hat will be essential to ward off the cold. Given the seasonal character of December in the Midwest, these temperatures are typical of winter, heralding the arrival of more frigid days ahead. Enjoying a warm beverage indoors may be a more inviting option this evening, though a late stroll along the beach could provide a solitary moment of reflection as the snow begins to dance in the frigid air.",
+    "color_code": "#A3B9C8",
+    "timestamp": "2024-12-11 16:05:23"
 }
