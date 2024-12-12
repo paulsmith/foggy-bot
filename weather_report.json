@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T19:51:00+00:00",
-            "temperature_f": 12.920000000000002,
-            "temperature_c": -10.6,
-            "humidity": 43.671166860074,
+            "timestamp": "2024-12-12T20:51:00+00:00",
+            "temperature_f": 14.0,
+            "temperature_c": -10,
+            "humidity": 43.861814530032,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 250,
-            "description": "Cloudy"
+            "wind_direction": 280,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-12T14:00:00-06:00",
+                "startTime": "2024-12-12T16:00:00-06:00",
                 "endTime": "2024-12-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 16,
@@ -33,7 +33,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 16. Wind chill values as low as 0. West wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 16. West wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, paint a quintessential winter scene, with temperatures in the low teens and a brisk west wind creating a notable chill in the air. Clouds blanket the sky, lending a muted ambiance to the day, where the mix of brisk winds and the crisp air has a decidedly biting edge. As we move into the afternoon, expect mostly cloudy skies with a slight uptick in temperatures, reaching toward the mid-teens but feeling significantly colder due to wind chill factors, dropping to near zero. Tonight, partly cloudy conditions prevail as temperatures dip to the single digits, reinforcing the frosty nature of the season.\n\nThe lakefront is in quiet repose, with gentle waves lapping against the shore, creating an atmosphere that is serene yet marked by the chill of winter. While there\u2019s no precipitation forecasted today, the overall vibe is decidedly wintry and somewhat dreary, urging residents to bundle up with warm layers, perhaps a heavy coat, gloves, and a hat against the relentless wind. Given the time of year, this cold snap is typical for mid-December in the Midwest, where outdoor activities might not be ideal unless one is prepared for sub-zero wind chills. It's a day more suited for indoor pursuits, but if you\u2019re venturing out, a brisk walk along the beach can invigorate the spirit. As this is not a holiday or special observance, there's a certain stillness in the air that evinces the quietude of winter.",
-    "color_code": "#A0B2C5",
-    "timestamp": "2024-12-12 15:05:14"
+    "weather_report": "In Evanston, the current conditions are marked by a biting chill, as temperatures rest firmly in the low teens. A brisk westerly breeze adds an extra layer of crispness to the air, contributing to wind chill values that make it feel even colder. The day appears mostly cloudy, casting a muted light that softens the landscape, with the beach and Lake Michigan offering a tranquil yet stark view. Fortunately, there are no signs of precipitation and the waves are relatively gentle, though they might churn slightly with the wind\u2019s steadiness.\n\nLooking ahead, tonight will bring a low in the single digits, ensuring that warmth is essential as temperatures dive further. As we move toward the evening, the sky is expected to clear somewhat, allowing for a glimpse of stars\u2014an invitation for those who bundle up to enjoy a stroll along the beach or a quiet moment by the water. Given these winter conditions, warm layers, gloves, and a sturdy hat will prove necessary to stay comfortable outside. As a reminder, December in this region often offers such brisk days, so today's weather aligns with typical seasonal expectations. For those feeling adventurous, the cool, invigorating air provides an excellent opportunity for brisk walks or perhaps even some winter photography to capture the serene beauty of the waterfront.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2024-12-12 16:05:23"
 }
