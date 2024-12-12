@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T10:51:00+00:00",
+            "timestamp": "2024-12-12T11:51:00+00:00",
             "temperature_f": 5.0,
             "temperature_c": -15,
             "humidity": 56.631484335982,
-            "wind_speed_mph": 41.07132,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 260,
             "description": "Clear"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-12T06:00:00-06:00",
+                "startTime": "2024-12-12T07:00:00-06:00",
                 "endTime": "2024-12-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 16,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the air feels bitterly cold with temperatures hovering in the low single digits, accompanied by a formidable west wind that is whipping through the area. Currently, conditions are clear, but the chill is intensified by a hefty wind, creating an atmosphere that is not for the faint of heart. Looking ahead, the weather is expected to warm slightly throughout the day, reaching the mid-teens while maintaining mostly sunny skies, though wind chill could dip to dangerously low levels.\n\nAs night falls, expect clear skies and a low around mid-single digits, with an increase in temperatures overnight. No precipitation is on the horizon, making for a dry day and evening, but the angry, choppy waters of Lake Michigan could make for some turbulent waves, reflective of the blustery conditions. Given the frigid temperatures, layering is essential\u2014opt for insulated coats, hats, and gloves if venturing outside. The day, while typical for mid-December, demands caution, particularly for those unaccustomed to the bracing cold. It's ideal weather for a brisk walk along the beach to observe the surf or enjoy the serene beauty of winter's grip on the landscape, but be wary of the biting wind. Today is not a holiday, but the festive season is approaching, a reminder that warmth can come not only from the weather but also from community spirit.",
-    "color_code": "#A3C8E5",
-    "timestamp": "2024-12-12 06:09:06"
+    "weather_report": "In Evanston, the current scene is marked by a brisk chill, with temperatures in the low single digits and a fierce wind whipping off Lake Michigan, enhancing the cold to a biting degree. Conditions are clear, allowing for an unobstructed view of the waterfront, though it may not encourage many outdoor activities. As we move through the day, a transition to slightly warmer air is expected, reaching the mid-teens, albeit coupled with wind chill values dropping as low as -15. This raw weather isn\u2019t conducive to beach frolics, with surf conditions likely choppy and uninviting. The wind will remain notable, blowing in from the west at a brisk pace, making the air feel even colder.\n\nAs the sun sets, temperatures will drop again into the single digits, so dressing warmly is essential; layering is recommended to shield against the elements, with hats and gloves a must for those venturing outdoors. We find ourselves firmly in winter, and today's temperatures are typical of this time of year in the Midwest, but with the added wind, it feels particularly frigid. With no precipitation in sight, opportunities for outdoor enjoyment might be slim, but if adventure calls, a brisk walk along the lake could invigorate. As we approach the holiday season, there's a special charm in the wintry landscape that can still be appreciated, even if the weather isn\u2019t particularly inviting.",
+    "color_code": "#A1C6EA",
+    "timestamp": "2024-12-12 07:12:12"
 }
