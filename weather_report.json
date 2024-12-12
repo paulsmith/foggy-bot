@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T14:51:00+00:00",
-            "temperature_f": 6.080000000000002,
-            "temperature_c": -14.4,
-            "humidity": 53.90757450661,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 280,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-12T15:51:00+00:00",
+            "temperature_f": 6.979999999999997,
+            "temperature_c": -13.9,
+            "humidity": 54.527718646081,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 250,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-12T10:00:00-06:00",
+                "startTime": "2024-12-12T11:00:00-06:00",
                 "endTime": "2024-12-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 16,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 16. Wind chill values as low as -5. West wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly sunny, with a high near 16. Wind chill values as low as -3. West wind around 10 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston wakes up to a brisk, chilly morning with temperatures hovering in the mid-single digits, paired with a stiff breeze that makes the air feel even colder. Currently, the sky is mostly cloudy, providing a rather muted palette over Lake Michigan, though the clouds seem to be breaking slightly to allow some light through. The wave conditions are moderate, with waters reflecting the gray sky; while there isn't a threat of precipitation today, the conditions demand a hearty winter coat, gloves, and perhaps a scarf for those venturing outdoors.\n\nAs we look ahead to today's weather, expect a shift towards partly sunny skies with a high nearing the mid-teens as the day progresses. Winds should remain gentle and relatively calm this afternoon, easing slightly from their current gusty state, which means a more comfortable experience, though the wind chill will linger to remind us of winter's grip. Evening plans can proceed under clear stars, though temperatures will dip to the low teens overnight. Given the winter season, these conditions are typical for this time of year, making for a quintessential Chicago winter day. Ideal activities include bundled-up strolls along the beach, perhaps some hot cocoa at a nearby caf\u00e9, or simply enjoying the tranquility that comes with a winter afternoon by the lake.",
-    "color_code": "#A0B0B5",
-    "timestamp": "2024-12-12 10:06:26"
+    "weather_report": "Evanston is experiencing a chilly day, with current temperatures hovering in the low single digits and a brisk wind creating a biting wind chill. The scene outside offers a dim and cloudy ambiance, dominated by gray skies that reflect the coolness in the air. Wave conditions on Lake Michigan are moderate, with gentle ripples forming along the shore, hinting at the wind's influence. As we look forward to the day, a transition to partly sunny skies is anticipated, with temperatures nudging up toward the mid-teens, but wind chills may persist at uncomfortable levels.\n\nIdeal attire for today would lean towards layered clothing, perhaps a heavy coat, gloves, and a warm hat to ward off the chill, especially with this substantial breeze weaving its way through the area. Given that we are in mid-December, today's temperatures are typical for this season in the Midwest, where winter's grip is steadfast. People may want to consider indoor activities such as visiting local shops or enjoying a cozy meal indoors, as outdoor pursuits would likely be brisk and invigorating, but not particularly pleasant. Overall, while the cold may deter some, those embracing the season could find beauty in the serene, albeit chilly, scene by the lake.",
+    "color_code": "#A9B5C6",
+    "timestamp": "2024-12-12 11:05:14"
 }
