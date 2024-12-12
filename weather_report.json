@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T18:51:00+00:00",
+            "timestamp": "2024-12-12T19:51:00+00:00",
             "temperature_f": 12.920000000000002,
             "temperature_c": -10.6,
             "humidity": 43.671166860074,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 240,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 250,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a brisk and blustery scene, with temperatures holding steady in the low teens. The atmosphere is marked by a layer of clouds overhead, contributing to a chilly yet invigorating outdoor environment. Moving into the afternoon, expect mostly cloudy skies with a slight increase in temperature, peaking around the mid-teens. However, wind chill could make it feel as frigid as zero, with gusty winds from the west adding to the bite of the cold.\n\nAs the light wanes this evening, temperatures will dip further to the low single digits, complemented by a potentially brisk northwest breeze. The lake, though calm in appearance, may churn slightly with gentle waves, suggesting appropriate conditions for bundled visitors enjoying the landscape. Precipitation is absent in the immediate forecast, so the day will remain dry, though the crisp air provides a refreshing element typical for this season in the Midwest. Given these conditions, layered clothing is recommended\u2014warm sweaters or jackets, along with hats and gloves for those brave enough to venture outdoors. While the weather might not invite leisurely strolls along the beach, it is ideal for brisk walks or cozy gatherings indoors, perhaps with a warm beverage, as we head into the heart of winter.",
-    "color_code": "#A1A0A3",
-    "timestamp": "2024-12-12 14:06:16"
+    "weather_report": "Current conditions in Evanston, Illinois, paint a quintessential winter scene, with temperatures in the low teens and a brisk west wind creating a notable chill in the air. Clouds blanket the sky, lending a muted ambiance to the day, where the mix of brisk winds and the crisp air has a decidedly biting edge. As we move into the afternoon, expect mostly cloudy skies with a slight uptick in temperatures, reaching toward the mid-teens but feeling significantly colder due to wind chill factors, dropping to near zero. Tonight, partly cloudy conditions prevail as temperatures dip to the single digits, reinforcing the frosty nature of the season.\n\nThe lakefront is in quiet repose, with gentle waves lapping against the shore, creating an atmosphere that is serene yet marked by the chill of winter. While there\u2019s no precipitation forecasted today, the overall vibe is decidedly wintry and somewhat dreary, urging residents to bundle up with warm layers, perhaps a heavy coat, gloves, and a hat against the relentless wind. Given the time of year, this cold snap is typical for mid-December in the Midwest, where outdoor activities might not be ideal unless one is prepared for sub-zero wind chills. It's a day more suited for indoor pursuits, but if you\u2019re venturing out, a brisk walk along the beach can invigorate the spirit. As this is not a holiday or special observance, there's a certain stillness in the air that evinces the quietude of winter.",
+    "color_code": "#A0B2C5",
+    "timestamp": "2024-12-12 15:05:14"
 }
