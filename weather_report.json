@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T12:51:00+00:00",
-            "temperature_f": 3.919999999999998,
-            "temperature_c": -15.6,
-            "humidity": 59.508506355341,
-            "wind_speed_mph": 41.07132,
+            "timestamp": "2024-12-12T13:51:00+00:00",
+            "temperature_f": 5.0,
+            "temperature_c": -15,
+            "humidity": 56.631484335982,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 260,
-            "description": "Mostly Clear"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-12T08:00:00-06:00",
+                "startTime": "2024-12-12T09:00:00-06:00",
                 "endTime": "2024-12-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 16,
@@ -33,7 +33,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 16. Wind chill values as low as -13. West wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly sunny, with a high near 16. Wind chill values as low as -8. West wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston are quite fierce, with a temperature hovering in the low single digits and a brisk wind creating a biting chill that makes it feel considerably colder. The skies are mostly clear, offering a rare glimpse of tranquility amidst the winter's grip. Today\u2019s forecast suggests a slight improvement as the temperature is expected to climb into the mid-teens. Conditions will remain largely clear as the evening sets in, with a low around 9 degrees. While the wind will ease slightly, making for a less frantic atmosphere, wind chill values are still projected to plummet as low as -13 during the day.\n\nThe view of Lake Michigan reveals wave conditions behaving relatively gently today, despite the ongoing chill; it\u2019s a far cry from the summer's vibrant activity. There\u2019s no precipitation anticipated, allowing for a stillness that may make one think of braver souls venturing out for a brisk walk along the shoreline, bundled against the cold. With the season's chill firmly in place, recommend dressing warmly in layers, ideally with a heavy coat, gloves, and a hat, to fend off the sharpness of the air. Given the holiday season, with festivities all around, indoor activities may be more appealing; however, a quick winter stroll could also provide a refreshing perspective on the beauty of a winter lakefront, particularly as the sun makes its low descent this afternoon.",
-    "color_code": "#A8CFC4",
-    "timestamp": "2024-12-12 08:05:25"
+    "weather_report": "As the sun rises over Evanston, the air carries a brisk chill with temperatures hovering in the low single digits. The day begins mostly cloudy, but expect some breaks of blue sky as we move toward the afternoon when conditions will shift to partly sunny. Despite the promise of some sun, wind chill will be a significant factor, with values dipping as low as -8 due to a fierce breeze coming from the west, adding an extra bite to the already chilly atmosphere. This is typical for December in this region, where the winter chill can feel particularly penetrating.\n\nThe waves along Lake Michigan are likely elevated with this gusty wind, making for a brisk shoreline\u2014a picturesque view, yet too raw for leisurely outdoor strolls without proper attire. For those venturing out, layering is essential, with recommended attire including a warm winter coat, gloves, and a hat to shield against the cold. Today's high will struggle to reach the mid-teens as we slide into the evening, where temperatures will settle around the low single digits with mostly clear skies. There's no precipitation in sight, which is fortunate, allowing for outdoor activities if one is adequately bundled up. While it may not be the most inviting day for beach fun, cozy indoor activities or holiday preparations may offer a more comfortable alternative, especially as the festive season approaches.",
+    "color_code": "#D7E8F3",
+    "timestamp": "2024-12-12 09:05:51"
 }
