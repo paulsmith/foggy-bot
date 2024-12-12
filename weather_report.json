@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T02:51:00+00:00",
-            "temperature_f": 17.06,
-            "temperature_c": -8.3,
-            "humidity": 53.408724232472,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-12-12T03:51:00+00:00",
+            "temperature_f": 15.079999999999998,
+            "temperature_c": -9.4,
+            "humidity": 48.381404244842,
+            "wind_speed_mph": 70.86816,
+            "wind_direction": 280,
+            "description": "Clear and Windy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-11T22:00:00-06:00",
+                "startTime": "2024-12-11T23:00:00-06:00",
                 "endTime": "2024-12-12T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 5,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow/cold?size=medium",
-                "shortForecast": "Scattered Snow Showers then Mostly Clear",
-                "detailedForecast": "Scattered snow showers before 11pm. Mostly clear, with a low around 5. Wind chill values as low as -13. West northwest wind 15 to 20 mph, with gusts as high as 40 mph."
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 5. Wind chill values as low as -13. West northwest wind 15 to 20 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a chilly picture, with temperatures hovering in the low teens, keeping it crisp and cool as night envelops the city. The eerie stillness of the beach contrasts sharply with the promise of snow showers anticipated later tonight before the skies clear, plunging temperatures down to around 5 degrees. Wind chill values are set to take a significant dip, possibly sinking as low as -13, due to a steady shift of gusty northwesterly winds reaching 15 to 20 mph, enticing a bleak yet serene atmosphere along the lakeshore.\n\nTomorrow, expect mostly sunny skies with temperatures barely scraping the mid-teens. However, wind chill will likely keep actual feelings of warmth at bay, so dress warmly if venturing outside. With the robust northern winds and low temperatures typical for a December evening in this region, this is a time for bundled coats, hats, and gloves if tackling outdoor activities. The Lake Michigan waves will remain calm in this cold, but finding an inviting moment outdoors might prove challenging unless one is prepared with the right winter apparel. Enjoying a quiet walk along the shoreline or appreciating the beauty of winter\u2019s grasp might just be the tranquil antidote to the upcoming season\u2019s hustle and bustle.",
-    "color_code": "#4B8BBE",
-    "timestamp": "2024-12-11 22:06:44"
+    "weather_report": "In Evanston, the current conditions are decidedly frigid, with the temperature hovering just above the mid-teens. The air is brisk, accentuated by a fierce, howling wind that brings a definite bite, making it feel significantly colder. Tonight, expect mostly clear skies; however, temperatures will dive to around 5 degrees, with wind chills plummeting as low as -13 due to the strong northwest winds. This Thursday promises to be sunny but chilly, with a high around 15, and wind chills potentially hitting -14.\n\nOverall, the landscape will likely appear stark yet serene under the starlit skies tonight, the palette of the lakeshore morphing into a muted winter scene. Wave conditions on Lake Michigan could be lively due to these winds, though no precipitation is predicted in the near term. Given the cold and biting winds, dressing warmly is essential\u2014think heavy coats, hats, and gloves. This time of year is characteristically wintry for the Midwest, with temperatures reflecting the typical seasonal chill. For those inclined to brave the cold, a stroll along the beach could be invigorating, while indoors, cozy activities like reading by the fireplace may be more appealing as the holidays approach.",
+    "color_code": "#1a1a1a",
+    "timestamp": "2024-12-11 23:06:07"
 }
