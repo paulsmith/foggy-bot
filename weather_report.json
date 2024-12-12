@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T15:51:00+00:00",
-            "temperature_f": 6.979999999999997,
-            "temperature_c": -13.9,
-            "humidity": 54.527718646081,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 250,
-            "description": "Cloudy"
+            "timestamp": "2024-12-12T16:51:00+00:00",
+            "temperature_f": 8.96,
+            "temperature_c": -12.8,
+            "humidity": 52.079916530894,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 240,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-12T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-12T12:00:00-06:00",
                 "endTime": "2024-12-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 16,
@@ -33,7 +33,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 16. Wind chill values as low as -3. West wind around 10 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly sunny, with a high near 16. Wind chill values as low as -2. West wind around 10 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is experiencing a chilly day, with current temperatures hovering in the low single digits and a brisk wind creating a biting wind chill. The scene outside offers a dim and cloudy ambiance, dominated by gray skies that reflect the coolness in the air. Wave conditions on Lake Michigan are moderate, with gentle ripples forming along the shore, hinting at the wind's influence. As we look forward to the day, a transition to partly sunny skies is anticipated, with temperatures nudging up toward the mid-teens, but wind chills may persist at uncomfortable levels.\n\nIdeal attire for today would lean towards layered clothing, perhaps a heavy coat, gloves, and a warm hat to ward off the chill, especially with this substantial breeze weaving its way through the area. Given that we are in mid-December, today's temperatures are typical for this season in the Midwest, where winter's grip is steadfast. People may want to consider indoor activities such as visiting local shops or enjoying a cozy meal indoors, as outdoor pursuits would likely be brisk and invigorating, but not particularly pleasant. Overall, while the cold may deter some, those embracing the season could find beauty in the serene, albeit chilly, scene by the lake.",
-    "color_code": "#A9B5C6",
-    "timestamp": "2024-12-12 11:05:14"
+    "weather_report": "Current conditions in Evanston, Illinois reveal a chilly afternoon with temperatures hovering in the upper single digits. The air is crisp and cool, with a blustery wind sweeping in from the west, causing wind chill values to dip into the negative. The visibility is good, although the sky presents a mostly cloudy appearance that adds a somber tone to the otherwise serene lakefront view. The beach is relatively calm at the moment, with gentle waves lapping at the shore, though they could pick up slightly given the forecasted wind this afternoon.\n\nLooking ahead, the weather is expected to transition to a partially sunny afternoon, with temperatures climbing into the mid-teens. As night falls, conditions will clear up somewhat, leading to lows around 9 degrees but slightly rising overnight. There is no precipitation in sight, making it a dry day overall. Those venturing outdoors will want to bundle up, perhaps donning insulated jackets, hats, and gloves to ward off the cold and brisk winds. Given that it is December, these temperatures are quite typical for this time of year in the Midwest. As for activities, it\u2019s a good opportunity for a brisk walk along the lakefront, though be prepared for the nippy breeze. This is a standard weekday in December, devoid of any major holidays or events on the calendar.",
+    "color_code": "#A7B2B9",
+    "timestamp": "2024-12-12 12:07:15"
 }
