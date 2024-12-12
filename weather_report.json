@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T02:27:00+00:00",
-            "temperature_f": 19.04,
-            "temperature_c": -7.2,
-            "humidity": 51.129242375027,
+            "timestamp": "2024-12-12T02:51:00+00:00",
+            "temperature_f": 17.06,
+            "temperature_c": -8.3,
+            "humidity": 53.408724232472,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-11T20:00:00-06:00",
+                "startTime": "2024-12-11T22:00:00-06:00",
                 "endTime": "2024-12-12T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 5,
@@ -32,8 +32,8 @@
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/snow/cold?size=medium",
-                "shortForecast": "Scattered Snow Showers then Partly Cloudy",
-                "detailedForecast": "Scattered snow showers before 11pm. Partly cloudy, with a low around 5. Wind chill values as low as -13. West northwest wind 15 to 20 mph, with gusts as high as 40 mph."
+                "shortForecast": "Scattered Snow Showers then Mostly Clear",
+                "detailedForecast": "Scattered snow showers before 11pm. Mostly clear, with a low around 5. Wind chill values as low as -13. West northwest wind 15 to 20 mph, with gusts as high as 40 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly, overcast night with temperatures in the low 20s. The air feels crisp, with a touch of bite from the cool winds, making it a fitting evening for a warm drink indoors. As we look ahead, scattered snow showers may grace the area before 11 PM, transitioning the night into a partly cloudy scene with an expected low temperature around 5 degrees. Wind chills could make it feel as low as -13, accompanied by a blustery west northwest wind, which will grow stronger throughout the night.\n\nTomorrow promises a mostly sunny day, but temperatures will barely climb into the mid-teens, accompanied by wind chills that could dip down to -14. This weather is representative of a typical December in the Midwest, where frigid conditions are the norm, and people are advised to bundle up in heavy winter attire. With the cold and potential for flurries, it would be wise to choose activities that keep you warm, such as enjoying a cozy evening indoors or perhaps taking a brisk, bundled walk along the shoreline, though the beach may be less appealing in such nippy weather.",
-    "color_code": "#2A2D30",
-    "timestamp": "2024-12-11 21:19:25"
+    "weather_report": "Current conditions in Evanston paint a chilly picture, with temperatures hovering in the low teens, keeping it crisp and cool as night envelops the city. The eerie stillness of the beach contrasts sharply with the promise of snow showers anticipated later tonight before the skies clear, plunging temperatures down to around 5 degrees. Wind chill values are set to take a significant dip, possibly sinking as low as -13, due to a steady shift of gusty northwesterly winds reaching 15 to 20 mph, enticing a bleak yet serene atmosphere along the lakeshore.\n\nTomorrow, expect mostly sunny skies with temperatures barely scraping the mid-teens. However, wind chill will likely keep actual feelings of warmth at bay, so dress warmly if venturing outside. With the robust northern winds and low temperatures typical for a December evening in this region, this is a time for bundled coats, hats, and gloves if tackling outdoor activities. The Lake Michigan waves will remain calm in this cold, but finding an inviting moment outdoors might prove challenging unless one is prepared with the right winter apparel. Enjoying a quiet walk along the shoreline or appreciating the beauty of winter\u2019s grasp might just be the tranquil antidote to the upcoming season\u2019s hustle and bustle.",
+    "color_code": "#4B8BBE",
+    "timestamp": "2024-12-11 22:06:44"
 }
