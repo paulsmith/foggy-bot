@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T06:51:00+00:00",
-            "temperature_f": 8.96,
-            "temperature_c": -12.8,
-            "humidity": 49.868797788925,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 270,
-            "description": ""
+            "timestamp": "2024-12-12T08:51:00+00:00",
+            "temperature_f": 6.080000000000002,
+            "temperature_c": -14.4,
+            "humidity": 56.803070576933,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 290,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-12T02:00:00-06:00",
+                "startTime": "2024-12-12T04:00:00-06:00",
                 "endTime": "2024-12-12T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 5,
+                "temperature": 4,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 5. Wind chill values as low as -13. West northwest wind 15 to 20 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Mostly clear, with a low around 4. Wind chill values as low as -14. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-12T06:00:00-06:00",
                 "endTime": "2024-12-12T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 15,
+                "temperature": 16,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 15. Wind chill values as low as -14. West wind 10 to 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly sunny, with a high near 16. Wind chill values as low as -15. West wind 10 to 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions are perched on the edge of winter's chill, with temperatures hovering in the upper single digits and a fierce wind cascading from the west, making for an uncomfortably cold atmosphere. With a wind chill dipping to 13 degrees below zero, the night carries a biting edge that's best suited for snug indoors. The beach, viewed from the parks department, remains a stark tableau against the quiet darkness, with no snow or rain interrupting the stillness\u2014a crystal clarity that suggests dry conditions for now.\n\nLooking ahead to the day, Thursday promises more of that winter chill with expected highs only reaching the mid-teens. The sunshine may provide a fleeting warmth, but with wind chill values again plunging to minus 14, thin layers of clothing will do little to stave off the cold. The waves of Lake Michigan may churn vigorously given the high winds, but for most, beach activities will likely be replaced by the warmth of a cozy caf\u00e9, or a brisk walk wrapped in multiple layers. While this day isn't marked by any major holiday, it\u2019s the kind of winter weather that urges reflection, perhaps a preparation for the festive spirit awaiting in just a few weeks.",
-    "color_code": "#005f7f",
-    "timestamp": "2024-12-12 02:07:11"
+    "weather_report": "In Evanston, Illinois, the prevailing conditions are decidedly chilly, with frost in the air and a biting wind whistling down from the northwest. Currently, temperatures hover in the low single digits, accompanied by a dash of humidity that makes the bitter cold feel even harsher. As night settles in, visibility is clear, unlikely to hold any threat of precipitation. The forecast for the day ahead promises mostly sunny skies, though temperatures are predicted to rise only into the mid-teens \u2014 a stark contrast to the freezing chill that will emerge in the morning, when wind chill values will plummet to dangerous lows.\n\nWith the landscape demure and still under the cloak of night, this wintry scene is better suited for warm layers, with hats and gloves strongly advised. Despite the cold, the beach could still attract those eager for solitude or winter walks along the shore \u2014 perhaps even some joggers braving the elements to savor the invigorating embrace of winter air. As the holiday season approaches, with festivities soon to unfold, the delightful spirit of the season brings a warmth that contrasts sharply with the current temperature.",
+    "color_code": "#A7B7B7",
+    "timestamp": "2024-12-12 04:06:14"
 }
