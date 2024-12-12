@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T08:51:00+00:00",
+            "timestamp": "2024-12-12T09:51:00+00:00",
             "temperature_f": 6.080000000000002,
             "temperature_c": -14.4,
             "humidity": 56.803070576933,
-            "wind_speed_mph": 62.00964,
+            "wind_speed_mph": 53.95644000000001,
             "wind_direction": 290,
             "description": "Clear"
         },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the prevailing conditions are decidedly chilly, with frost in the air and a biting wind whistling down from the northwest. Currently, temperatures hover in the low single digits, accompanied by a dash of humidity that makes the bitter cold feel even harsher. As night settles in, visibility is clear, unlikely to hold any threat of precipitation. The forecast for the day ahead promises mostly sunny skies, though temperatures are predicted to rise only into the mid-teens \u2014 a stark contrast to the freezing chill that will emerge in the morning, when wind chill values will plummet to dangerous lows.\n\nWith the landscape demure and still under the cloak of night, this wintry scene is better suited for warm layers, with hats and gloves strongly advised. Despite the cold, the beach could still attract those eager for solitude or winter walks along the shore \u2014 perhaps even some joggers braving the elements to savor the invigorating embrace of winter air. As the holiday season approaches, with festivities soon to unfold, the delightful spirit of the season brings a warmth that contrasts sharply with the current temperature.",
-    "color_code": "#A7B7B7",
-    "timestamp": "2024-12-12 04:06:14"
+    "weather_report": "Evanston is bracing for a significant chill this morning, with current temperatures hovering in the mid single digits. The air feels biting, exacerbated by a fierce wind sweeping in from the northwest at over 50 miles per hour, creating a wind chill that plunges to the double-digit negatives, making it feel more like -14 degrees. The sky is clear, providing an unimpeded view of the cold winter night, but this only intensifies the starkness of the landscape as the beach lies still, a testament to the frigid conditions.\n\nAs the day unfolds, expect mostly sunny skies, with temperatures gradually rising to a high in the mid-teens, yet the biting wind will continue to keep the wind chill in extreme territory. Waves on Lake Michigan are likely to be rough and choppy given the sustained gusts, painting a tumultuous picture of the lake's surface. For those braving the outdoors today, warm layers are essential; a heavy coat, gloves, and a hat are necessary to combat the cold. Given that we\u2019re in the thick of winter, these temperatures are typical for this time of year in the Midwest. The outdoor environment may seem uninviting today, yet for the adventurous, a brisk walk along the lakefront could be invigorating\u2014just be sure to dress appropriately.",
+    "color_code": null,
+    "timestamp": "2024-12-12 05:05:09"
 }
