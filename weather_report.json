@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T16:51:00+00:00",
-            "temperature_f": 8.96,
-            "temperature_c": -12.8,
-            "humidity": 52.079916530894,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 240,
+            "timestamp": "2024-12-12T17:51:00+00:00",
+            "temperature_f": 12.020000000000003,
+            "temperature_c": -11.1,
+            "humidity": 45.441033005853,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 250,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-12T12:00:00-06:00",
+                "startTime": "2024-12-12T13:00:00-06:00",
                 "endTime": "2024-12-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 16,
@@ -32,8 +32,8 @@
                 "windSpeed": "10 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 16. Wind chill values as low as -2. West wind around 10 mph, with gusts as high as 25 mph."
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 16. Wind chill values as low as -1. West wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -51,12 +51,12 @@
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear. Low around 9, with temperatures rising to around 11 overnight. Wind chill values as low as -1. Northwest wind 5 to 10 mph."
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 9. Wind chill values as low as -2. Northwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois reveal a chilly afternoon with temperatures hovering in the upper single digits. The air is crisp and cool, with a blustery wind sweeping in from the west, causing wind chill values to dip into the negative. The visibility is good, although the sky presents a mostly cloudy appearance that adds a somber tone to the otherwise serene lakefront view. The beach is relatively calm at the moment, with gentle waves lapping at the shore, though they could pick up slightly given the forecasted wind this afternoon.\n\nLooking ahead, the weather is expected to transition to a partially sunny afternoon, with temperatures climbing into the mid-teens. As night falls, conditions will clear up somewhat, leading to lows around 9 degrees but slightly rising overnight. There is no precipitation in sight, making it a dry day overall. Those venturing outdoors will want to bundle up, perhaps donning insulated jackets, hats, and gloves to ward off the cold and brisk winds. Given that it is December, these temperatures are quite typical for this time of year in the Midwest. As for activities, it\u2019s a good opportunity for a brisk walk along the lakefront, though be prepared for the nippy breeze. This is a standard weekday in December, devoid of any major holidays or events on the calendar.",
-    "color_code": "#A7B2B9",
-    "timestamp": "2024-12-12 12:07:15"
+    "weather_report": "In Evanston, Illinois, today's conditions are a stark reminder of winter\u2019s grip, with temperatures hovering in the low teens amidst a mostly cloudy sky. A gusty west wind whips through the area, creating significant wind chill that feels far colder, while the lakefront presents a chilly view of Lake Michigan's muted colors beneath a leaden sky. While there is no precipitation expected this afternoon, the overall atmosphere remains brisk and nippy, perfect for bundling up but less inviting for extended outdoor activities.\n\nLooking ahead, the forecast indicates a slight warming trend this afternoon with a high approaching the mid-teens, though wind chill will persist, maintaining that sharp edge. As daylight wanes, expect partly cloudy skies and a drop in temperatures to around the single digits, further enhancing the wintry feel. Given the current season, these frigid temperatures are typical for mid-December in the Midwest, where the bite of winter firmly sets in. For those venturing outside, warm layers, including insulated coats, hats, and gloves are essential to stay comfortable against the fierce winds. Some may choose to brave the beach for a brisk walk along the shore or to engage in some winter photography, but most will likely prefer indoor activities as the holiday season approaches.",
+    "color_code": "#A9B3C1",
+    "timestamp": "2024-12-12 13:04:52"
 }
