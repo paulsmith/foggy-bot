@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T01:51:00+00:00",
+            "timestamp": "2024-12-12T02:27:00+00:00",
             "temperature_f": 19.04,
             "temperature_c": -7.2,
-            "humidity": 58.796720119013,
-            "wind_speed_mph": 70.86816,
-            "wind_direction": 270,
-            "description": "Mostly Cloudy and Windy"
+            "humidity": 51.129242375027,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-11T19:00:00-06:00",
+                "startTime": "2024-12-11T20:00:00-06:00",
                 "endTime": "2024-12-12T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 5,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
-                "windSpeed": "15 to 25 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20/cold?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow/cold?size=medium",
                 "shortForecast": "Scattered Snow Showers then Partly Cloudy",
-                "detailedForecast": "Scattered snow showers before 11pm. Partly cloudy, with a low around 5. Wind chill values as low as -13. West northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Scattered snow showers before 11pm. Partly cloudy, with a low around 5. Wind chill values as low as -13. West northwest wind 15 to 20 mph, with gusts as high as 40 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening descends upon Evanston, the air is bracingly cold, with temperatures hovering in the low teens while a stiff wind from the west creates a biting chill, driving wind chill values down to as low as -13 degrees. The skies remain mostly cloudy, casting a rather somber glow over the beach, where the icy waters of Lake Michigan churn restlessly under the influence of the gusty conditions. Current reports indicate that while the winds are fierce, the chance of snow is slight, with only scattered showers expected earlier in the evening.\n\nLooking ahead to tomorrow, residents can anticipate a frosty morning followed by mostly sunny skies and a high around 15 degrees. Wind chill conditions will still make it feel much colder, so all outdoor placards urge preparedness against the cold. Given the biting chill, dressing warmly in layered clothing is essential if you plan to venture outside, especially while enjoying the stark beauty of winter in this lakeside community. The current weather is not unusual for a December night in this region, capturing the characteristic chill of Midwestern winters.\n\nFor those looking for indoor activities, a visit to local cafes or cozy shops could provide warmth and comfort, while outdoor enthusiasts might find a brisk walk along the shoreline invigorating yet brisk. Whether you opt for indoor warmth or a chilly outdoor excursion, make sure to bundle up and embrace the seasonal splendor of the North Shore on this ordinary yet wintry evening.",
-    "color_code": "#5B8CBE",
-    "timestamp": "2024-12-11 20:32:16"
+    "weather_report": "Current conditions in Evanston present a chilly, overcast night with temperatures in the low 20s. The air feels crisp, with a touch of bite from the cool winds, making it a fitting evening for a warm drink indoors. As we look ahead, scattered snow showers may grace the area before 11 PM, transitioning the night into a partly cloudy scene with an expected low temperature around 5 degrees. Wind chills could make it feel as low as -13, accompanied by a blustery west northwest wind, which will grow stronger throughout the night.\n\nTomorrow promises a mostly sunny day, but temperatures will barely climb into the mid-teens, accompanied by wind chills that could dip down to -14. This weather is representative of a typical December in the Midwest, where frigid conditions are the norm, and people are advised to bundle up in heavy winter attire. With the cold and potential for flurries, it would be wise to choose activities that keep you warm, such as enjoying a cozy evening indoors or perhaps taking a brisk, bundled walk along the shoreline, though the beach may be less appealing in such nippy weather.",
+    "color_code": "#2A2D30",
+    "timestamp": "2024-12-11 21:19:25"
 }
