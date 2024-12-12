@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T05:51:00+00:00",
-            "temperature_f": 10.940000000000001,
-            "temperature_c": -11.7,
-            "humidity": 50.205219545071,
-            "wind_speed_mph": 66.03624,
-            "wind_direction": 280,
-            "description": "Clear"
+            "timestamp": "2024-12-12T06:51:00+00:00",
+            "temperature_f": 8.96,
+            "temperature_c": -12.8,
+            "humidity": 49.868797788925,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 270,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-12T01:00:00-06:00",
+                "startTime": "2024-12-12T02:00:00-06:00",
                 "endTime": "2024-12-12T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 5,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Currently in Evanston, the temperature hovers in the low teens, creating a crisp and cool atmosphere, accented by a clear night sky. With winds howling from the west northwest, gusts reach fierce speeds, and the wind chill bites even deeper, diving to potentially -13 degrees overnight. As we gaze into the early hours of Thursday, expect mostly sunny conditions but with highs only in the mid-teens, maintaining that sharp chill. \n\nThe beach reflects a stark, serene beauty under the moonlight, but the winter air commands respect. The waves on Lake Michigan, while not mentioned directly, are likely tempered as the wind ebbs and flows, offering a quiet power against the shore. Expect no precipitation, though the air feels dry and biting, suitable for bundling up in winter layers. With the season at mid-December, these temperatures fall right in line with typical winter conditions for this region. While the weather might not be inviting for outdoor activities, a walk on the beach, clad in warm winter attire, could provide a moment of tranquility amidst the brisk air, perfect for seasonal reflection or a brief adventure under the stars.",
-    "color_code": "#1F1F2D",
-    "timestamp": "2024-12-12 01:05:58"
+    "weather_report": "In Evanston, the current conditions are perched on the edge of winter's chill, with temperatures hovering in the upper single digits and a fierce wind cascading from the west, making for an uncomfortably cold atmosphere. With a wind chill dipping to 13 degrees below zero, the night carries a biting edge that's best suited for snug indoors. The beach, viewed from the parks department, remains a stark tableau against the quiet darkness, with no snow or rain interrupting the stillness\u2014a crystal clarity that suggests dry conditions for now.\n\nLooking ahead to the day, Thursday promises more of that winter chill with expected highs only reaching the mid-teens. The sunshine may provide a fleeting warmth, but with wind chill values again plunging to minus 14, thin layers of clothing will do little to stave off the cold. The waves of Lake Michigan may churn vigorously given the high winds, but for most, beach activities will likely be replaced by the warmth of a cozy caf\u00e9, or a brisk walk wrapped in multiple layers. While this day isn't marked by any major holiday, it\u2019s the kind of winter weather that urges reflection, perhaps a preparation for the festive spirit awaiting in just a few weeks.",
+    "color_code": "#005f7f",
+    "timestamp": "2024-12-12 02:07:11"
 }
