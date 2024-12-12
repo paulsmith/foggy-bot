@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T09:51:00+00:00",
-            "temperature_f": 6.080000000000002,
-            "temperature_c": -14.4,
-            "humidity": 56.803070576933,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 290,
+            "timestamp": "2024-12-12T10:51:00+00:00",
+            "temperature_f": 5.0,
+            "temperature_c": -15,
+            "humidity": 56.631484335982,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 260,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-12T04:00:00-06:00",
-                "endTime": "2024-12-12T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 4,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 to 20 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 4. Wind chill values as low as -14. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2024-12-12T06:00:00-06:00",
                 "endTime": "2024-12-12T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 16. Wind chill values as low as -15. West wind 10 to 15 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-12T18:00:00-06:00",
+                "endTime": "2024-12-13T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 9,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear. Low around 9, with temperatures rising to around 11 overnight. Wind chill values as low as -1. Northwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "Evanston is bracing for a significant chill this morning, with current temperatures hovering in the mid single digits. The air feels biting, exacerbated by a fierce wind sweeping in from the northwest at over 50 miles per hour, creating a wind chill that plunges to the double-digit negatives, making it feel more like -14 degrees. The sky is clear, providing an unimpeded view of the cold winter night, but this only intensifies the starkness of the landscape as the beach lies still, a testament to the frigid conditions.\n\nAs the day unfolds, expect mostly sunny skies, with temperatures gradually rising to a high in the mid-teens, yet the biting wind will continue to keep the wind chill in extreme territory. Waves on Lake Michigan are likely to be rough and choppy given the sustained gusts, painting a tumultuous picture of the lake's surface. For those braving the outdoors today, warm layers are essential; a heavy coat, gloves, and a hat are necessary to combat the cold. Given that we\u2019re in the thick of winter, these temperatures are typical for this time of year in the Midwest. The outdoor environment may seem uninviting today, yet for the adventurous, a brisk walk along the lakefront could be invigorating\u2014just be sure to dress appropriately.",
-    "color_code": null,
-    "timestamp": "2024-12-12 05:05:09"
+    "weather_report": "This morning in Evanston, the air feels bitterly cold with temperatures hovering in the low single digits, accompanied by a formidable west wind that is whipping through the area. Currently, conditions are clear, but the chill is intensified by a hefty wind, creating an atmosphere that is not for the faint of heart. Looking ahead, the weather is expected to warm slightly throughout the day, reaching the mid-teens while maintaining mostly sunny skies, though wind chill could dip to dangerously low levels.\n\nAs night falls, expect clear skies and a low around mid-single digits, with an increase in temperatures overnight. No precipitation is on the horizon, making for a dry day and evening, but the angry, choppy waters of Lake Michigan could make for some turbulent waves, reflective of the blustery conditions. Given the frigid temperatures, layering is essential\u2014opt for insulated coats, hats, and gloves if venturing outside. The day, while typical for mid-December, demands caution, particularly for those unaccustomed to the bracing cold. It's ideal weather for a brisk walk along the beach to observe the surf or enjoy the serene beauty of winter's grip on the landscape, but be wary of the biting wind. Today is not a holiday, but the festive season is approaching, a reminder that warmth can come not only from the weather but also from community spirit.",
+    "color_code": "#A3C8E5",
+    "timestamp": "2024-12-12 06:09:06"
 }
