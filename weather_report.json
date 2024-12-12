@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T13:51:00+00:00",
-            "temperature_f": 5.0,
-            "temperature_c": -15,
-            "humidity": 56.631484335982,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 260,
+            "timestamp": "2024-12-12T14:51:00+00:00",
+            "temperature_f": 6.080000000000002,
+            "temperature_c": -14.4,
+            "humidity": 53.90757450661,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 280,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-12T09:00:00-06:00",
+                "startTime": "2024-12-12T10:00:00-06:00",
                 "endTime": "2024-12-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 16,
@@ -33,7 +33,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 16. Wind chill values as low as -8. West wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly sunny, with a high near 16. Wind chill values as low as -5. West wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the sun rises over Evanston, the air carries a brisk chill with temperatures hovering in the low single digits. The day begins mostly cloudy, but expect some breaks of blue sky as we move toward the afternoon when conditions will shift to partly sunny. Despite the promise of some sun, wind chill will be a significant factor, with values dipping as low as -8 due to a fierce breeze coming from the west, adding an extra bite to the already chilly atmosphere. This is typical for December in this region, where the winter chill can feel particularly penetrating.\n\nThe waves along Lake Michigan are likely elevated with this gusty wind, making for a brisk shoreline\u2014a picturesque view, yet too raw for leisurely outdoor strolls without proper attire. For those venturing out, layering is essential, with recommended attire including a warm winter coat, gloves, and a hat to shield against the cold. Today's high will struggle to reach the mid-teens as we slide into the evening, where temperatures will settle around the low single digits with mostly clear skies. There's no precipitation in sight, which is fortunate, allowing for outdoor activities if one is adequately bundled up. While it may not be the most inviting day for beach fun, cozy indoor activities or holiday preparations may offer a more comfortable alternative, especially as the festive season approaches.",
-    "color_code": "#D7E8F3",
-    "timestamp": "2024-12-12 09:05:51"
+    "weather_report": "Evanston wakes up to a brisk, chilly morning with temperatures hovering in the mid-single digits, paired with a stiff breeze that makes the air feel even colder. Currently, the sky is mostly cloudy, providing a rather muted palette over Lake Michigan, though the clouds seem to be breaking slightly to allow some light through. The wave conditions are moderate, with waters reflecting the gray sky; while there isn't a threat of precipitation today, the conditions demand a hearty winter coat, gloves, and perhaps a scarf for those venturing outdoors.\n\nAs we look ahead to today's weather, expect a shift towards partly sunny skies with a high nearing the mid-teens as the day progresses. Winds should remain gentle and relatively calm this afternoon, easing slightly from their current gusty state, which means a more comfortable experience, though the wind chill will linger to remind us of winter's grip. Evening plans can proceed under clear stars, though temperatures will dip to the low teens overnight. Given the winter season, these conditions are typical for this time of year, making for a quintessential Chicago winter day. Ideal activities include bundled-up strolls along the beach, perhaps some hot cocoa at a nearby caf\u00e9, or simply enjoying the tranquility that comes with a winter afternoon by the lake.",
+    "color_code": "#A0B0B5",
+    "timestamp": "2024-12-12 10:06:26"
 }
