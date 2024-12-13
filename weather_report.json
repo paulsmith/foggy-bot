@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T19:51:00+00:00",
+            "timestamp": "2024-12-13T20:51:00+00:00",
             "temperature_f": 26.060000000000002,
             "temperature_c": -3.3,
             "humidity": 59.82770391257,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 60,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 80,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-13T14:00:00-06:00",
+                "startTime": "2024-12-13T16:00:00-06:00",
                 "endTime": "2024-12-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "ESE",
+                "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 29. East southeast wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly sunny, with a high near 29. East wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois reveal a crisp and cool atmosphere, with temperatures hovering in the mid 20s, provided an invigorating freshness on this mostly cloudy day. The wind is notably gusty, sweeping in from the east-southeast, contributing to a brisk shoreline experience that could make extended outdoor activities less inviting. As we look ahead to the afternoon, expect a shift towards partly sunny skies, with a high near 29 degrees and a gentle easterly breeze keeping the air feeling lively. The temperature will dip slightly tonight to around 26, with a chance of rising to 28 overnight, further emphasizing the coolness of this mid-December day.\n\nThe beach scene suggests serene wave conditions, with the waters of Lake Michigan reflecting the subdued light of the overcast sky, creating a calm yet dramatic coastal view. As for precipitation, no rain or snow is anticipated, so the day remains dry, perfect for bundled outdoor strolls or brief engagements along the beach front. Given the wintry chill of this season, layering up in warm attire\u2014think thick coats, hats, and mittens\u2014is advisable for those venturing outside. Although the cold may deter some classic outdoor winter activities, a brisk walk by the lakeshore remains an enchanting way to soak in the beauty of the season. As we glide through December, these conditions are typical for the region, embodying the essence of winter in the Midwest, where the charm of the colder months can be enjoyed, albeit with care.",
-    "color_code": "#A3C1E0",
-    "timestamp": "2024-12-13 15:04:58"
+    "weather_report": "This afternoon in Evanston, conditions remain brisk with a temperature hovering in the mid-20s, accompanied by a gentle chill in the air from an eastward breeze. The clouds are predominately overcast, creating a subdued atmosphere, though hints of sunlight peek through occasionally, adding a touch of brightness to the predominantly gray landscape. Wave activity on Lake Michigan is moderate, with gentle lapping at the shore, reflecting the restless nature of the water stirred up by the wind.\n\nAs we look ahead, tonight will see the mercury dip slightly, settling around the mid-20s before rising again overnight. The persistent cloud cover suggests a continuation of the same celestial drama, absent of any significant precipitation. For those venturing outdoors, a layered approach to attire is advisable\u2014a warm jacket complemented by a hat and scarf will ensure comfort against the fresh evening air. Given that we're in December here in the Midwest, these chilly temperatures are typical for this time of year. With holiday gatherings approaching, it\u2019s a splendid time to enjoy local festivities or a brisk walk along the lakeshore, embracing the season\u2019s spirit amidst the winter landscape.",
+    "color_code": "#A8B2C1",
+    "timestamp": "2024-12-13 16:05:08"
 }
