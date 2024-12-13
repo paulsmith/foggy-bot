@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T15:51:00+00:00",
-            "temperature_f": 15.979999999999997,
-            "temperature_c": -8.9,
-            "humidity": 64.397829998077,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 330,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-13T16:51:00+00:00",
+            "temperature_f": 19.04,
+            "temperature_c": -7.2,
+            "humidity": 61.738556575705,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 10,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-13T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-13T12:00:00-06:00",
                 "endTime": "2024-12-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 27, with temperatures rising to around 29 overnight. East southeast wind around 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly cloudy. Low around 27, with temperatures rising to around 29 overnight. East southeast wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the air remains crisp and cool amid mostly cloudy skies with current temperatures hovering in the mid-teen range. The breezy conditions, with a substantial wind chill factor due to gusts, may accentuate the chill even further. As we look ahead, the day promises a pleasant shift towards partly sunny conditions with highs near the frosty high 20s, allowing for a somewhat more welcoming atmosphere as the sun breaks through later in the afternoon. Although tonight will see a blanket of clouds reemerge, temperatures are expected to rise slightly, settling around the high 20s.\n\nDespite the lack of substantial precipitation, wave conditions along Lake Michigan may swell with the brisk winds likely whipping up the waters, which could lead to stirring waves at the shore. Attire should include warm layers, perhaps a comfortable winter coat, scarf, and gloves to maintain warmth against the gusts. This winter day feels characteristic of this time of year in the Midwest, striking a balance between the cold and the slight hints of sunny optimism ahead. It's a fine day for a brisk walk along the shoreline or indulging in warm beverages while contemplating the winter landscape, though staying close to indoor shelters could be more enjoyable given the current chill.",
-    "color_code": "#C4D6E1",
-    "timestamp": "2024-12-13 11:05:10"
+    "weather_report": "Current conditions in Evanston exude a crisp and cool ambiance, with temperatures lingering in the mid-20s. The air carries a brisk quality, accentuated by gusty winds from the east, pushing their way across the shoreline. The sky is overcast, projecting a blanket of clouds that obscure the sun, contributing to a generally gloomy outlook, yet with enhanced visibility towards the lake. As we look to the afternoon, conditions promise a slight improvement, with the possibility of some sunshine breaking through the cloud cover, leading to a high near 30. Tonight, the mercury will hover around the upper 20s as the clouds continue their presence, with winds remaining sustained from the east and gusts potentially reaching up to 25 mph.\n\nWave conditions today could be slightly choppy due to the sustained winds, making it less ideal for leisurely activities on the water. Overall, the day presents options for bundled outdoor enjoyment\u2014perhaps a brisk walk along the beach to relish the fresh lake air or a contemplative moment by the shore. Given the season, with winter firmly holding its ground across the region, temperatures fall within the expected range for December\u2014definitely on the chilly side. It would be wise to don layers, including a warm coat, scarf, and gloves, to fend off the cool breeze. This could be a quiet day to reflect alongside Lake Michigan, with potential preparations for the upcoming holidays starting to take shape in the community.",
+    "color_code": "#6C7C9A",
+    "timestamp": "2024-12-13 12:06:56"
 }
