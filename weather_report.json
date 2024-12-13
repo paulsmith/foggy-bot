@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T05:51:00+00:00",
-            "temperature_f": 10.940000000000001,
-            "temperature_c": -11.7,
-            "humidity": 52.859895519768,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 330,
+            "timestamp": "2024-12-13T06:51:00+00:00",
+            "temperature_f": 10.04,
+            "temperature_c": -12.2,
+            "humidity": 57.424957993691,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 350,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-13T00:00:00-06:00",
+                "startTime": "2024-12-13T02:00:00-06:00",
                 "endTime": "2024-12-13T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 10,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 10. Wind chill values as low as -1. North northwest wind 5 to 10 mph."
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 10. Wind chill values as low as 0. North northwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-13T06:00:00-06:00",
                 "endTime": "2024-12-13T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 30,
+                "temperature": 29,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "NNE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 30. North northeast wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly sunny, with a high near 29. Wind chill values as low as 0. North northeast wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a frigid scene, with temperatures hovering around the low teens, accompanied by a gentle breeze from the north-northwest. Despite the cold, the air feels crisp and clear, ideal for those bundled up against the elements. As we move into the overnight hours, expect partly cloudy skies and a low near ten, with wind chill values potentially dipping into the negatives\u2014a reminder that winter is in full swing. Tomorrow brings a promise of partly sunny weather, with temperatures climbing to near 30 in the afternoon. \n\nAlthough wave conditions may be moderate along the shores of Lake Michigan, the absence of precipitation allows for a serene waterfront view, albeit capped by chilly air. Recommended attire for the day calls for heavy winter clothing\u2014think warm layers, a sturdy coat, gloves, and perhaps even a scarf, as the combination of temperatures and wind may lead to a biting chill. With the season firmly in winter's grasp, these temperatures are typical for the region, perhaps even leaning toward the chilly side for mid-December. While outdoor activities might seem limited tonight, the brisk weather could entice adventurous spirits to engage in winter walks, especially with a cozy holiday spirit in the air as we approach the Christmas season.",
-    "color_code": "#1A1A1A",
-    "timestamp": "2024-12-13 01:05:56"
+    "weather_report": "The current weather in Evanston, Illinois, is notably frigid, with temperatures hovering in the low teens. The conditions are clear, offering a pristine view of the night sky as the north-northwest wind whips fiercely, creating a biting chill that may leave those venturing outdoors feeling the sharpness of winter. The beach, typically bustling in warmer months, lies dormant under the cold, with no rain or snow expected to dampen the evening. Tomorrow promises a brief respite from the bitter cold, with partly sunny skies and temperatures rising to the high 20s; however, the wind will continue to maintain a brisk atmosphere, reminding residents that winter is firmly upon them.\n\nGiven the severe cold, bundled layers will be essential for anyone heading outside, particularly during the overnight period when wind chill could dip dangerously low. Although the conditions are decidedly wintery, adventurous spirits might enjoy a brisk walk along the beach, where the rugged beauty of Lake Michigan can be appreciated, albeit in a very different light than summer's warmth. Today might not be earmarked as a celebratory occasion, but as we move into the holiday season, the festive air will soon emerge.",
+    "color_code": "#001F3F",
+    "timestamp": "2024-12-13 02:07:11"
 }
