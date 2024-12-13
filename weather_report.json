@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T09:51:00+00:00",
-            "temperature_f": 6.080000000000002,
-            "temperature_c": -14.4,
-            "humidity": 62.475730574515,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 350,
-            "description": "Clear"
+            "timestamp": "2024-12-13T10:51:00+00:00",
+            "temperature_f": 5.0,
+            "temperature_c": -15,
+            "humidity": 65.632582986568,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 340,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-13T05:00:00-06:00",
-                "endTime": "2024-12-13T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 10,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 10. Wind chill values as low as -1. North wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2024-12-13T06:00:00-06:00",
                 "endTime": "2024-12-13T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny, with a high near 29. Wind chill values as low as 0. Northeast wind 5 to 10 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-13T18:00:00-06:00",
+                "endTime": "2024-12-14T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "ESE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. Low around 27, with temperatures rising to around 29 overnight. East southeast wind around 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a brisk and biting atmosphere, with temperatures hovering in the low single digits and a fierce wind creating an added chill. This morning, the air is clear, but the sight of the beach, illuminated only by artificial lights against the backdrop of Lake Michigan, is stark and desolate. Wave action along the shoreline might be unsettled, whipped into a frothy chatter by that howling breeze, but no precipitation is expected to dampen the crispness of the day.\n\nAs we look ahead, the forecast hints at partly cloudy skies later, with temperatures climbing to the upper 20s this Friday, complemented by a gentle northeast wind. This will create a slightly more inviting atmosphere, though wind chill may continue to linger near the freezing mark. Dress warmly, layering insulated clothing to fend off the cold, especially if venturing outdoors. In winter-swept Evanston, these temperatures are typical for December, as the season firmly establishes its grip. As the tranquility of a winter day envelops the town, consider a brisk walk along the beach or a cozy afternoon in a local caf\u00e9, savoring warm beverages to counter the chilly air. There's no major holiday today, but the spirit of the season can be felt as community members prepare for upcoming festivities.",
-    "color_code": "#003366",
-    "timestamp": "2024-12-13 05:05:09"
+    "weather_report": "The morning in Evanston, Illinois, greets us with a bracing chill, temperatures hovering in the low single digits, complemented by a breezy gust that will liven your senses. Residents may notice a glint of frost on surfaces, as the clear sky allows for a crisp start to the day. These conditions are shaping up to give way to partly sunny skies, promising a slight warming as temperatures inch toward the upper 20s by midday. Though wind chill will still tug at exposed skin, making it feel as though it's near zero, the northeast breeze whispers gently and offers most a refreshing touch amidst the winter landscape.\n\nAs the day progresses, expect a gradual transition to mostly cloudy skies this evening, with temperatures maintaining a steady course into the low 30s overnight. The waves on Lake Michigan are predicted to remain fairly calm, perfect for contemplative walks along the shoreline or simply enjoying the serene winter scene. Precipitation does not seem to be a concern today; however, as the season unfolds, layers become essential attire, making cozy hats, gloves, and insulated jackets necessary to fend off the cold. This time of year is quintessentially winter for the Midwest, with temperatures aligning quite typically for December. Engage with the outdoors by taking brisk walks, embracing this chilly snapshot before the winter solstice, or perhaps visiting local cafes to warm up with a hot drink.",
+    "color_code": "#4B7F98",
+    "timestamp": "2024-12-13 06:08:45"
 }
