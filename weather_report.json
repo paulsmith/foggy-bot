@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T11:51:00+00:00",
-            "temperature_f": 5.0,
-            "temperature_c": -15,
-            "humidity": 62.319124968751,
-            "wind_speed_mph": 24.964920000000003,
+            "timestamp": "2024-12-13T13:31:00+00:00",
+            "temperature_f": 6.080000000000002,
+            "temperature_c": -14.4,
+            "humidity": 62.475730574515,
+            "wind_speed_mph": 20.93832,
             "wind_direction": 340,
-            "description": "Clear"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-13T07:00:00-06:00",
+                "startTime": "2024-12-13T08:00:00-06:00",
                 "endTime": "2024-12-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "NE",
+                "windDirection": "ENE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 29. Wind chill values as low as 0. Northeast wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly sunny, with a high near 29. East northeast wind 5 to 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois reveal a cold and brisk morning, with temperatures hovering in the low single digits and a noticeable, biting wind that adds to the chill. The clear skies offer a contrast to the chill in the air, making it feel particularly crisp and invigorating for anyone venturing outdoors. As the day progresses, expect a shift in the weather with a forecast promising partly sunny skies and a high in the upper 20s. Tonight, clouds will gather more significantly, with temperatures notably rising to around 27 by morning. \n\nWhile wave conditions on Lake Michigan appear relatively calm, be cautious of the wind gusts that will enhance the chill factor throughout the day. With no precipitation expected, it will be a dry day despite the cool temperatures. Dress warmly, favoring layers that include a sturdy coat, scarf, and hat to ward off the chill. Given the current season, these temperatures are typical for mid-December in the Midwest, so outdoor activities might be limited. However, a stroll along the beach could still be refreshing, especially for those who revel in the winter air.",
-    "color_code": "#A0C3D6",
-    "timestamp": "2024-12-13 07:11:36"
+    "weather_report": "A brisk morning in Evanston reveals the temperature holding just above the frigid mark, with a chill that cuts through the air. The coastal scene is draped in a shroud of mostly cloudy skies, reflecting the fierce wind sweeping in from the northwest, creating a blustery atmosphere. As the day unfolds, anticipation builds for a transition to partly sunny conditions with a high expected to reach the upper 20s. Tonight promises to remain mostly cloudy, accompanied by a gentle rise in temperature. Although no precipitation is forecasted, the air carries the hint of winter\u2019s touch.\n\nGiven these conditions, winter attire is recommended\u2014think layers: a warm coat, hat, and scarf to fend off the chill, along with sturdy boots for comfort. The current weather feels distinctly seasonal, typical for this time of year in the Midwest. Despite the cold, the serene beauty of a winter beach day invites outdoor activities; a brisk walk along the shore could invigorate the senses, while the sound of gentle waves lapping against the shore offers a soothing backdrop. However, be advised that wave conditions are likely calm, a pleasant lure for those seeking a quiet moment by the lake.",
+    "color_code": "#A4B8C4",
+    "timestamp": "2024-12-13 08:05:30"
 }
