@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T16:51:00+00:00",
-            "temperature_f": 19.04,
-            "temperature_c": -7.2,
-            "humidity": 61.738556575705,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 10,
-            "description": "Cloudy"
+            "timestamp": "2024-12-13T17:51:00+00:00",
+            "temperature_f": 24.08,
+            "temperature_c": -4.4,
+            "humidity": 59.540302385412,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": null,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-13T12:00:00-06:00",
+                "startTime": "2024-12-13T13:00:00-06:00",
                 "endTime": "2024-12-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "E",
+                "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 29. East wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly sunny, with a high near 29. East southeast wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston exude a crisp and cool ambiance, with temperatures lingering in the mid-20s. The air carries a brisk quality, accentuated by gusty winds from the east, pushing their way across the shoreline. The sky is overcast, projecting a blanket of clouds that obscure the sun, contributing to a generally gloomy outlook, yet with enhanced visibility towards the lake. As we look to the afternoon, conditions promise a slight improvement, with the possibility of some sunshine breaking through the cloud cover, leading to a high near 30. Tonight, the mercury will hover around the upper 20s as the clouds continue their presence, with winds remaining sustained from the east and gusts potentially reaching up to 25 mph.\n\nWave conditions today could be slightly choppy due to the sustained winds, making it less ideal for leisurely activities on the water. Overall, the day presents options for bundled outdoor enjoyment\u2014perhaps a brisk walk along the beach to relish the fresh lake air or a contemplative moment by the shore. Given the season, with winter firmly holding its ground across the region, temperatures fall within the expected range for December\u2014definitely on the chilly side. It would be wise to don layers, including a warm coat, scarf, and gloves, to fend off the cool breeze. This could be a quiet day to reflect alongside Lake Michigan, with potential preparations for the upcoming holidays starting to take shape in the community.",
-    "color_code": "#6C7C9A",
-    "timestamp": "2024-12-13 12:06:56"
+    "weather_report": "As we check in on Evanston, the current temperature holds in the mid 20s, offering a brisk chill that underscores the season's grip. The scene out by Lake Michigan is mostly cloudy, casting a solemn yet inviting ambiance over the shoreline. Wind gusts are stirring up a bit, making for a blustery atmosphere that will keep even the hardiest of souls feeling on the cool side. Fortunately, precipitation is absent, allowing for a clear view of the tranquil waters lapping against the shore.\n\nLooking ahead to later today, expect a slight lift in temperature, reaching toward the high 20s under partly sunny skies. Winds will shift to a gentler breeze from the east-southeast, promising a more pleasant feel despite the cool air. As evening approaches, temperatures are forecasted to rise again, settling around the comfortable mid 20s. Given the winter season in this region, such chill is typical, inviting warm layers to keep cozy. For those looking to embrace the outdoors, bundled walks along the beach or casual stargazing could be delightful options, soaking in the calm beauty of this December day.",
+    "color_code": "#A5C8E0",
+    "timestamp": "2024-12-13 13:04:52"
 }
