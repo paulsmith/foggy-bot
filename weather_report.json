@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T04:51:00+00:00",
-            "temperature_f": 12.920000000000002,
-            "temperature_c": -10.6,
-            "humidity": 45.99312786406,
+            "timestamp": "2024-12-13T05:51:00+00:00",
+            "temperature_f": 10.940000000000001,
+            "temperature_c": -11.7,
+            "humidity": 52.859895519768,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 320,
-            "description": "Mostly Clear"
+            "wind_direction": 330,
+            "description": "Clear"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston presents a chill in the air tonight, as temperatures hover in the low teens, perfectly capturing the essence of a crisp winter evening. The air feels brisk with a gentle wind whispering off Lake Michigan, suggesting a cozy indoor night is in order. Looking ahead to tomorrow, residents can expect partly sunny skies with temperatures climbing to the high 20s, a welcome change though still decidedly brisk. As for wave conditions, the lake appears calm tonight, foreshadowing a peaceful morning ideal for quiet reflection rather than vigorous aquatic activities. \n\nThough precipitation seems absent from the immediate forecast, the cold air invites the wrapping of warm layers: think insulated jackets and hats to stave off the winter chill. Given that today is a regular day in December, the festive season's approach brings a gentle excitement without the high stakes of holiday traffic. For those brave souls, a stroll along the beach might be invigorating, enjoying the peaceful solitude of winter's embrace as the lake\u2019s surface mirrors the moonlight. However, rest assured, for the faint-hearted, a warm beverage at home could be the much more appealing choice tonight.",
-    "color_code": "#002A5C",
-    "timestamp": "2024-12-13 00:07:36"
+    "weather_report": "Current conditions in Evanston reveal a frigid scene, with temperatures hovering around the low teens, accompanied by a gentle breeze from the north-northwest. Despite the cold, the air feels crisp and clear, ideal for those bundled up against the elements. As we move into the overnight hours, expect partly cloudy skies and a low near ten, with wind chill values potentially dipping into the negatives\u2014a reminder that winter is in full swing. Tomorrow brings a promise of partly sunny weather, with temperatures climbing to near 30 in the afternoon. \n\nAlthough wave conditions may be moderate along the shores of Lake Michigan, the absence of precipitation allows for a serene waterfront view, albeit capped by chilly air. Recommended attire for the day calls for heavy winter clothing\u2014think warm layers, a sturdy coat, gloves, and perhaps even a scarf, as the combination of temperatures and wind may lead to a biting chill. With the season firmly in winter's grasp, these temperatures are typical for the region, perhaps even leaning toward the chilly side for mid-December. While outdoor activities might seem limited tonight, the brisk weather could entice adventurous spirits to engage in winter walks, especially with a cozy holiday spirit in the air as we approach the Christmas season.",
+    "color_code": "#1A1A1A",
+    "timestamp": "2024-12-13 01:05:56"
 }
