@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T13:31:00+00:00",
-            "temperature_f": 6.080000000000002,
-            "temperature_c": -14.4,
-            "humidity": 62.475730574515,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 340,
+            "timestamp": "2024-12-13T13:51:00+00:00",
+            "temperature_f": 6.979999999999997,
+            "temperature_c": -13.9,
+            "humidity": 59.973149767698,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 330,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-13T08:00:00-06:00",
+                "startTime": "2024-12-13T09:00:00-06:00",
                 "endTime": "2024-12-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "A brisk morning in Evanston reveals the temperature holding just above the frigid mark, with a chill that cuts through the air. The coastal scene is draped in a shroud of mostly cloudy skies, reflecting the fierce wind sweeping in from the northwest, creating a blustery atmosphere. As the day unfolds, anticipation builds for a transition to partly sunny conditions with a high expected to reach the upper 20s. Tonight promises to remain mostly cloudy, accompanied by a gentle rise in temperature. Although no precipitation is forecasted, the air carries the hint of winter\u2019s touch.\n\nGiven these conditions, winter attire is recommended\u2014think layers: a warm coat, hat, and scarf to fend off the chill, along with sturdy boots for comfort. The current weather feels distinctly seasonal, typical for this time of year in the Midwest. Despite the cold, the serene beauty of a winter beach day invites outdoor activities; a brisk walk along the shore could invigorate the senses, while the sound of gentle waves lapping against the shore offers a soothing backdrop. However, be advised that wave conditions are likely calm, a pleasant lure for those seeking a quiet moment by the lake.",
-    "color_code": "#A4B8C4",
-    "timestamp": "2024-12-13 08:05:30"
+    "weather_report": "In Evanston, the current winter conditions present a chilly scene, with temperatures hovering in the low single digits and a gentle breeze stirring against the backdrop of a mostly cloudy sky. As we move through the day, expect a transition toward partly sunny skies, with a high nearing the upper 20s. The warming trend should be accompanied by a light east-northeast wind that may gain a bit of vigor throughout the afternoon, lending a crispness to an otherwise pleasant winter day. \n\nThe beach, while tranquil, will exhibit calm wave conditions, making it a serene spot for a brisk stroll, though potential activity opportunities are limited given the season's chill. There\u2019s no anticipated precipitation to dampen outdoor plans, and as temperatures rise slightly overnight to around 27, layering up is highly recommended. A warm coat, scarf, and hat are essential for comfort against the brisk air. While the ambiance is undeniably winter, today\u2019s conditions are characteristic for this time of year in the Midwest. With holiday spirit lingering just around the corner, it's an ideal day to embrace the beauty of the season by enjoying a quiet walk along the shores of Lake Michigan, marveling at the serene clarity that winter brings.",
+    "color_code": "#A2B8E8",
+    "timestamp": "2024-12-13 09:05:35"
 }
