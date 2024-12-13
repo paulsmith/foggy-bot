@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T14:51:00+00:00",
-            "temperature_f": 10.940000000000001,
-            "temperature_c": -11.7,
-            "humidity": 60.564285428015,
+            "timestamp": "2024-12-13T15:51:00+00:00",
+            "temperature_f": 15.979999999999997,
+            "temperature_c": -8.9,
+            "humidity": 64.397829998077,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 340,
+            "wind_direction": 330,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-13T10:00:00-06:00",
+                "startTime": "2024-12-13T11:00:00-06:00",
                 "endTime": "2024-12-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 29. East wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly sunny, with a high near 29. East wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather reflects a chilly morning as temperatures hover in the low 10s, complemented by partly cloudy skies that lend a somewhat moody ambiance to the lakeshore. A brisk wind from the northwest adds a touch of bite to the air, creating a fresh, crisp scene by the water\u2019s edge. There\u2019s an absence of precipitation presently, making for dry conditions despite the chill.\n\nAs we look ahead to the rest of the day, expect a slight warm-up with temperatures climbing to the upper 20s, accompanied by the promise of some sunshine peeking through the clouds. The breeze will transition to a gentler flow from the east, helping to moderate the cold somewhat but potentially feeling quite gusty at times. Wave conditions on Lake Michigan should remain relatively calm, suitable for a stroll along the beach but not quite inviting for any water-based activities. Given the coolness of the region and the time of year, dressing in layered attire will be essential\u2014think warm jackets, scarves, and perhaps a hat to shield from the wind. This reflects the typical December chill of the area, where temperatures can often dip much lower.\n\nOptions for enjoying the day include a scenic walk along the beach or a leisurely visit to local shops and caf\u00e9s. Given that today is just a regular mid-December day, it's an excellent time to appreciate the quiet beauty of winter by the lake before the hustle and bustle of the upcoming holidays ramps up.",
-    "color_code": "#A1B0C1",
-    "timestamp": "2024-12-13 10:06:42"
+    "weather_report": "In Evanston, the air remains crisp and cool amid mostly cloudy skies with current temperatures hovering in the mid-teen range. The breezy conditions, with a substantial wind chill factor due to gusts, may accentuate the chill even further. As we look ahead, the day promises a pleasant shift towards partly sunny conditions with highs near the frosty high 20s, allowing for a somewhat more welcoming atmosphere as the sun breaks through later in the afternoon. Although tonight will see a blanket of clouds reemerge, temperatures are expected to rise slightly, settling around the high 20s.\n\nDespite the lack of substantial precipitation, wave conditions along Lake Michigan may swell with the brisk winds likely whipping up the waters, which could lead to stirring waves at the shore. Attire should include warm layers, perhaps a comfortable winter coat, scarf, and gloves to maintain warmth against the gusts. This winter day feels characteristic of this time of year in the Midwest, striking a balance between the cold and the slight hints of sunny optimism ahead. It's a fine day for a brisk walk along the shoreline or indulging in warm beverages while contemplating the winter landscape, though staying close to indoor shelters could be more enjoyable given the current chill.",
+    "color_code": "#C4D6E1",
+    "timestamp": "2024-12-13 11:05:10"
 }
