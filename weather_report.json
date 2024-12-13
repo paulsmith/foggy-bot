@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T17:51:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 59.540302385412,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": null,
+            "timestamp": "2024-12-13T18:51:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 57.055298794353,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 80,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-13T13:00:00-06:00",
+                "startTime": "2024-12-13T14:00:00-06:00",
                 "endTime": "2024-12-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-13T18:00:00-06:00",
                 "endTime": "2024-12-14T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 27,
+                "temperature": 26,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 27, with temperatures rising to around 29 overnight. East southeast wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly cloudy. Low around 26, with temperatures rising to around 28 overnight. East southeast wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As we check in on Evanston, the current temperature holds in the mid 20s, offering a brisk chill that underscores the season's grip. The scene out by Lake Michigan is mostly cloudy, casting a solemn yet inviting ambiance over the shoreline. Wind gusts are stirring up a bit, making for a blustery atmosphere that will keep even the hardiest of souls feeling on the cool side. Fortunately, precipitation is absent, allowing for a clear view of the tranquil waters lapping against the shore.\n\nLooking ahead to later today, expect a slight lift in temperature, reaching toward the high 20s under partly sunny skies. Winds will shift to a gentler breeze from the east-southeast, promising a more pleasant feel despite the cool air. As evening approaches, temperatures are forecasted to rise again, settling around the comfortable mid 20s. Given the winter season in this region, such chill is typical, inviting warm layers to keep cozy. For those looking to embrace the outdoors, bundled walks along the beach or casual stargazing could be delightful options, soaking in the calm beauty of this December day.",
-    "color_code": "#A5C8E0",
-    "timestamp": "2024-12-13 13:04:52"
+    "weather_report": "Current conditions in Evanston reveal a brisk, cool ambiance with temperatures in the mid-20s, accompanied by mostly cloudy skies. The winds are quite gusty, drawing from the east-southeast at around 30 miles an hour, creating a wind chill that intensifies the coolness of the day. As we look ahead, expect a shift toward partly sunny skies this afternoon, with temperatures peaking just below freezing. Tonight, the clouds will thicken slightly, and temperatures will hover in the mid-20s, rising to near 28 degrees by morning.\n\nThe beach scene reflects chilly, yet captivating weather with a somewhat harsh, yet invigorating feel. The waves are mild, caressing the shore with gentle rhythms, but the escalating wind might produce a bit of chop on Lake Michigan. While the potential for precipitation today remains low, the overcast may lend a slightly gloomy appearance to outdoor activities. Given these conditions, dressing warmly in layers is recommended, perhaps with a windproof jacket to combat the brisk breeze. This time of year, temperatures are typical for December in the Midwest, showcasing the seasonal chill that defines the region. Ideal pursuits for today include brisk walks along the shore, taking in the fresh air, or perhaps enjoying a warm drink in one of Evanston's inviting cafes.",
+    "color_code": "#7D9C9F",
+    "timestamp": "2024-12-13 14:06:12"
 }
