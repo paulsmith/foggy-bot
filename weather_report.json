@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T02:51:00+00:00",
+            "timestamp": "2024-12-13T03:51:00+00:00",
             "temperature_f": 15.079999999999998,
             "temperature_c": -9.4,
             "humidity": 44.051784784827,
-            "wind_speed_mph": 24.964920000000003,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 300,
             "description": "Cloudy"
         },
@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-12T21:00:00-06:00",
+                "startTime": "2024-12-12T23:00:00-06:00",
                 "endTime": "2024-12-13T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 9,
+                "temperature": 10,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "NW",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 9. Wind chill values as low as -2. Northwest wind 5 to 10 mph."
+                "detailedForecast": "Partly cloudy, with a low around 10. Wind chill values as low as -1. North northwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions present a chilly scene with temperatures just above 15 degrees accompanied by a brisk wind. The air feels sharp and cutting, as the wind whispers from the northwest at a notable pace, making for a rather brisk evening. The sky is cloaked in clouds, offering a muted appearance to the surroundings, further contributing to the winter chill. Tonight, the forecast suggests things will drop even lower, settling around 9 degrees, with wind chill driving the feels-like temperature down to -2. \n\nLooking ahead to Friday, the weather will provide a welcome shift as partly sunny skies emerge, showcasing a high reaching the low 30s. This will be a stark contrast to the current scene, providing more livable temperatures, albeit still on the cool side, with a gentle breeze out of the northeast. The waters of Lake Michigan will likely be moderately choppy, but no significant precipitation is expected. As for attire, layering is essential: a warm coat, hat, and gloves are a must for tonight\u2019s frigid air, while tomorrow might allow for a lighter jacket as the day brightens. Given that it\u2019s the second week of December, these temperatures are fitting for the region, but they remind us of the striking chill typical of a Midwestern winter. Outdoor activities should be limited as the cold sets in, but if you're brave enough, a brisk walk by the beach could invigorate your spirit as the season unfolds.",
-    "color_code": "#333333",
-    "timestamp": "2024-12-12 22:06:44"
+    "weather_report": "As the night deepens over Evanston, the air carries a biting chill with temperatures hovering in the low teens, creating a crisp and cool atmosphere ideal for bundling up. The clear but cold conditions remain unmarred by any precipitation, allowing for an unbroken view of the night sky, though the wind howls fiercely, reminding us of winter's breath. In the coming hours, expect partly cloudy skies with temperatures dipping to around ten degrees, accompanied by a gentle breeze from the north-northwest.\n\nTomorrow, a hint of warmth returns, bringing partly sunny skies and highs in the upper 20s, though it still feels quite brisk with the wind likely to create noticeable chill across any exposed skin. Wave conditions on Lake Michigan tonight are likely modest; however, as winds remain strong, it\u2019s wise to anticipate some choppy waters for anyone considering a late-night stroll along the shore. It\u2019s a good night to curl up indoors with a warm drink rather than provocatively venturing outside; however, outdoor enthusiasts may find tomorrow more inviting for brisk walks or enjoying the winter landscape. As we drift toward the holiday season, the chill in the air reminds us that the festive spirit is just around the corner.",
+    "color_code": "#303F5B",
+    "timestamp": "2024-12-12 23:05:51"
 }
