@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T03:51:00+00:00",
-            "temperature_f": 15.079999999999998,
-            "temperature_c": -9.4,
-            "humidity": 44.051784784827,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 300,
-            "description": "Cloudy"
+            "timestamp": "2024-12-13T04:51:00+00:00",
+            "temperature_f": 12.920000000000002,
+            "temperature_c": -10.6,
+            "humidity": 45.99312786406,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 320,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-12T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-13T00:00:00-06:00",
                 "endTime": "2024-12-13T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 10,
@@ -49,14 +49,14 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "NE",
+                "windDirection": "NNE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 30. Northeast wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly sunny, with a high near 30. North northeast wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "As the night deepens over Evanston, the air carries a biting chill with temperatures hovering in the low teens, creating a crisp and cool atmosphere ideal for bundling up. The clear but cold conditions remain unmarred by any precipitation, allowing for an unbroken view of the night sky, though the wind howls fiercely, reminding us of winter's breath. In the coming hours, expect partly cloudy skies with temperatures dipping to around ten degrees, accompanied by a gentle breeze from the north-northwest.\n\nTomorrow, a hint of warmth returns, bringing partly sunny skies and highs in the upper 20s, though it still feels quite brisk with the wind likely to create noticeable chill across any exposed skin. Wave conditions on Lake Michigan tonight are likely modest; however, as winds remain strong, it\u2019s wise to anticipate some choppy waters for anyone considering a late-night stroll along the shore. It\u2019s a good night to curl up indoors with a warm drink rather than provocatively venturing outside; however, outdoor enthusiasts may find tomorrow more inviting for brisk walks or enjoying the winter landscape. As we drift toward the holiday season, the chill in the air reminds us that the festive spirit is just around the corner.",
-    "color_code": "#303F5B",
-    "timestamp": "2024-12-12 23:05:51"
+    "weather_report": "Evanston presents a chill in the air tonight, as temperatures hover in the low teens, perfectly capturing the essence of a crisp winter evening. The air feels brisk with a gentle wind whispering off Lake Michigan, suggesting a cozy indoor night is in order. Looking ahead to tomorrow, residents can expect partly sunny skies with temperatures climbing to the high 20s, a welcome change though still decidedly brisk. As for wave conditions, the lake appears calm tonight, foreshadowing a peaceful morning ideal for quiet reflection rather than vigorous aquatic activities. \n\nThough precipitation seems absent from the immediate forecast, the cold air invites the wrapping of warm layers: think insulated jackets and hats to stave off the winter chill. Given that today is a regular day in December, the festive season's approach brings a gentle excitement without the high stakes of holiday traffic. For those brave souls, a stroll along the beach might be invigorating, enjoying the peaceful solitude of winter's embrace as the lake\u2019s surface mirrors the moonlight. However, rest assured, for the faint-hearted, a warm beverage at home could be the much more appealing choice tonight.",
+    "color_code": "#002A5C",
+    "timestamp": "2024-12-13 00:07:36"
 }
