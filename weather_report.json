@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T11:51:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 71.701602990317,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 110,
-            "description": ""
+            "timestamp": "2024-12-14T12:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 68.586280864385,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 100,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-14T07:00:00-06:00",
+                "startTime": "2024-12-14T08:00:00-06:00",
                 "endTime": "2024-12-14T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the morning air carries a chill, typical for this time of year, hovering in the mid 20s with a gusty breeze whipping in from the east-southeast. The biting cold is complemented by a dampness that makes the atmosphere feel even brisker, and dark clouds loom overhead, signaling the possibility of mixed precipitation as the day unfolds. As the forecast suggests, temperatures are expected to rise throughout the day, peaking near the upper 30s, setting the scene for a damp but nonetheless typical winter day by Lake Michigan.\n\nThe anticipated weather means it would be wise to dress warmly, with layers to fend off the chill and perhaps a waterproof outer layer to stay dry as rain and patchy drizzle are likely to set in through the afternoon and into the evening. The waves on the lake are choppy, reflecting the blustery conditions, which may not be ideal for outdoor activities by the water but could make for a captivating view from a cozy caf\u00e9 or your home. Given the lack of major holidays today, it might be best to embrace indoor activities such as visiting local museums or enjoying a warm meal at a nearby restaurant as the rain moves in.",
-    "color_code": "#B0C4D9",
-    "timestamp": "2024-12-14 07:09:06"
+    "weather_report": "In Evanston this morning, temperatures hover in the mid 20s, giving a distinct chill to the air. The atmosphere is damp and slightly overcast, with clouds blanketing the sky, casting a muted light over the shoreline. Winds are quite brisk, creating a sharp edge to the cold, a reminder that winter is firmly in place. As the day progresses, expect a notable shift; a mix of rain and sleet is likely to arrive after mid-afternoon, accompanied by a rising temperature that should reach into the upper 30s. The southeast winds will continue to howl, making it feel even cooler and bringing on a 100% likelihood of precipitation as the night falls.\n\nThough this weather might not present the most inviting scene along the beach, it does lend itself to a cozy indoor day. Given the forecasted rainfall, layers are advised for any time outside\u2014a water-resistant jacket coupled with warm clothing underneath will provide comfort against the impending chill. The wave action along the shore is moderate but worth noting; there could be some whitecaps, indicative of a choppy Lake Michigan, though not severe enough to warrant caution for the overall beach safety. \n\nThis time of year, temperatures are typical for December in the Midwest, where the landscape transforms into a tranquil, wintry tableau. With a holiday season nearing, many may find solace in indoor activities, like visiting local shops or enjoying a warm beverage at a caf\u00e9, as holiday cheer begins to decorate the streets of Evanston.",
+    "color_code": "#AAB8C1",
+    "timestamp": "2024-12-14 08:04:45"
 }
