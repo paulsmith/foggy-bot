@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T05:51:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 65.595209439964,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 100,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-14T06:51:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 65.223838384227,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 110,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-14T00:00:00-06:00",
+                "startTime": "2024-12-14T02:00:00-06:00",
                 "endTime": "2024-12-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently enveloped in a chilly embrace as temperatures hover in the mid-20s, making for a crisp and cool night. The air feels rather blustery, with strong winds whipping in from the east, stirring the waters of Lake Michigan into a frothy commotion. Conditions are mostly cloudy, imparting a muted glow to the skyline, and this visual haze is likely to linger as the evening progresses. \n\nLooking ahead to Saturday, expect more than just a cold breeze; rain is on the horizon, likely to move in by the afternoon. The high will barely scrape the upper 30s, accompanied by a continued fierce wind that may kick up to 30 mph. As we transition from this invigorating night into a potentially soggy day, the prospect of precipitation should encourage a shift in attire\u2014best to layer up and keep a raincoat handy, as well as sturdy footwear for possibly slushy conditions. For those eying outdoor activities, be cautious: the elements may not cooperate with extensive plans, but an invigorating walk along the shoreline could still bring a refreshing vitality to the day ahead. With no major holidays on the immediate horizon, this Saturday marks a straightforward winter day\u2014a reminder of the season\u2019s chill and a chance to embrace the cozy warmth of the indoors.",
-    "color_code": "#4A90E2",
-    "timestamp": "2024-12-14 01:04:51"
+    "weather_report": "The weather in Evanston, Illinois, is decidedly brisk tonight, with temperatures resting in the mid 20s under a canopy of clouds. A gusty wind from the east-southeast adds a biting chill, making it feel even cooler. As the night unfolds, the forecast predicts a slight rise in temperature to around the upper 20s, with winds remaining blustery, potentially reaching gusts of 30 mph. \n\nLooking ahead to Saturday, the day is expected to begin under cloudy skies, setting the stage for a probable shift to rain later in the afternoon, particularly after 3 PM. With temperatures climbing to the upper 30s, conditions will remain relatively gloomy, and the chance of precipitation stands at 60%. Those planning to venture outdoors should prepare for wet weather; the lake waves may be choppy, reflecting the wind's strong presence. Dressing in layers, along with a waterproof jacket and footwear, will help combat the cool air and anticipate rain. As December progresses, the temperatures align with the season's typical chill here in the Midwest, where the onset of winter is marked by such conditions. Given the dreary outlook, indoor activities like visiting local cafes or warming up at home may be more appealing than braving the blustery beach on a December weekend.",
+    "color_code": "#7B9CB3",
+    "timestamp": "2024-12-14 02:06:12"
 }
