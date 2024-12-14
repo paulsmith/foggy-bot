@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T17:51:00+00:00",
-            "temperature_f": 35.96,
-            "temperature_c": 2.2,
-            "humidity": 56.338368351444,
+            "timestamp": "2024-12-14T18:51:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 56.498776223415,
             "wind_speed_mph": 37.04472,
-            "wind_direction": 130,
+            "wind_direction": 100,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-14T13:00:00-06:00",
+                "startTime": "2024-12-14T14:00:00-06:00",
                 "endTime": "2024-12-14T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-14T18:00:00-06:00",
                 "endTime": "2024-12-15T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 38,
+                "temperature": 37,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain before midnight, then rain and patchy drizzle between midnight and 3am, then rain likely and patchy drizzle and patchy fog. Cloudy. Low around 38, with temperatures rising to around 40 overnight. Southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain before midnight, then rain and patchy fog between midnight and 3am, then widespread drizzle and areas of fog. Cloudy. Low around 37, with temperatures rising to around 39 overnight. Southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "Under the leaden skies of Evanston, the air feels crisp and cool, with temperatures currently straddling the mid-30s. A notable breeze from the southeast adds a brisk chill, making the afternoon feel quite blustery as the weather transitions. As we look ahead, rain is poised to arrive after 3 PM, heralding a wet evening with temperatures inching up towards the upper 30s. Tonight, a steady rain is expected to blanket the area before midnight, accompanied by patchy drizzle and fog, making for a rather dreary atmosphere.\n\nGiven the impending precipitation and the choppy waters of Lake Michigan, conditions at the beach are far from inviting. The waves are restless, matching the turbulent skies. The atmosphere could be described as unpleasant, particularly for outdoor activities. Attire should lean towards warmth and water-resistance\u2014think heavy jackets or raincoats, and don\u2019t forget to wear sturdy footwear, as the ground is likely to become slick. Temperatures this time of year are typical for mid-December, fitting within the expectations for this region. With certainly no festive atmosphere today, those hoping for outdoor recreational pursuits may instead find solace indoors, perhaps by cozying up with a book or enjoying a warm beverage. As this day unfolds, it\u2019s a time to prepare for a chilly, wet evening ahead.",
-    "color_code": "#A9B8B7",
-    "timestamp": "2024-12-14 13:05:03"
+    "weather_report": "In Evanston, Illinois, the current weather is chilly and overcast, with temperatures sitting in the mid-30s and a fierce breeze sweeping in from the southeast. The atmosphere feels damp and brisk, setting a rather dreary tone for the afternoon. As we look ahead, rain is expected to arrive after 3 PM, with clouds thickening and temperatures struggling to rise above the upper 30s. The chance of precipitation is significant, and the winds will remain gusty, further complicating outdoor plans.\n\nThe beach scene reveals choppy waters and a muted sky, suggesting that wave conditions may be a bit tumultuous, especially with the approaching rainfall. Given the circumstance, it's prudent to dress warmly in layers, and perhaps to bring an umbrella if venturing outdoors, as the rainfall tonight could be steady, accompanied by areas of fog. This time of year typically sees temperatures in the mid-30s to low 40s, making today's chilliness rather typical for December in the Midwest. Outdoor activities may be limited, with options better suited for staying cozy indoors or engaging in brief outings to enjoy the brisk air, while keeping an eye on the incoming rain.",
+    "color_code": null,
+    "timestamp": "2024-12-14 14:05:29"
 }
