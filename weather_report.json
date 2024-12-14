@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T18:51:00+00:00",
+            "timestamp": "2024-12-14T19:51:00+00:00",
             "temperature_f": 37.04,
             "temperature_c": 2.8,
             "humidity": 56.498776223415,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 100,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather is chilly and overcast, with temperatures sitting in the mid-30s and a fierce breeze sweeping in from the southeast. The atmosphere feels damp and brisk, setting a rather dreary tone for the afternoon. As we look ahead, rain is expected to arrive after 3 PM, with clouds thickening and temperatures struggling to rise above the upper 30s. The chance of precipitation is significant, and the winds will remain gusty, further complicating outdoor plans.\n\nThe beach scene reveals choppy waters and a muted sky, suggesting that wave conditions may be a bit tumultuous, especially with the approaching rainfall. Given the circumstance, it's prudent to dress warmly in layers, and perhaps to bring an umbrella if venturing outdoors, as the rainfall tonight could be steady, accompanied by areas of fog. This time of year typically sees temperatures in the mid-30s to low 40s, making today's chilliness rather typical for December in the Midwest. Outdoor activities may be limited, with options better suited for staying cozy indoors or engaging in brief outings to enjoy the brisk air, while keeping an eye on the incoming rain.",
-    "color_code": null,
-    "timestamp": "2024-12-14 14:05:29"
+    "weather_report": "In Evanston, Illinois, the current conditions reveal a crisp and cool atmosphere, with temperatures hovering in the mid 30s and a gray, cloudy sky casting a solemn mood over the beach. As the afternoon progresses, rain is set to arrive after 3 PM, accompanied by a southeast breeze that will become noticeable at 15 mph, intermittently gusting up to 30 mph. The outlook for this evening suggests a steady rainfall before midnight, transitioning to drizzles and patchy fog overnight, raising temperatures slightly towards 39 degrees\u2014a damp and cloudy night ahead.\n\nWith the looming rain and the beach's wild, restless waves, the outlook is decidedly uninviting for outdoor activities. The combination of dampness and chill might make it wise to layer up, donning a waterproof jacket and sturdy footwear to navigate the wet elements comfortably. Given that we\u2019re well into December, these temperatures are typical for this time of year in the Midwest, marking the turn into winter. While it may not be the ideal day for a stroll by the lakeside, perhaps consider a cozy afternoon indoors with a warm drink instead.",
+    "color_code": "#8B9BC6",
+    "timestamp": "2024-12-14 15:04:52"
 }
