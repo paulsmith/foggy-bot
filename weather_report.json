@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T09:51:00+00:00",
+            "timestamp": "2024-12-14T10:51:00+00:00",
             "temperature_f": 26.96,
             "temperature_c": -2.8,
-            "humidity": 65.851373117086,
-            "wind_speed_mph": 41.07132,
+            "humidity": 68.455685141767,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 110,
-            "description": ""
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-14T05:00:00-06:00",
-                "endTime": "2024-12-14T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "ESE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 28. East southeast wind around 20 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2024-12-14T06:00:00-06:00",
                 "endTime": "2024-12-14T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/ovc/sleet,80?size=medium",
                 "shortForecast": "Cloudy then Slight Chance Sleet",
                 "detailedForecast": "A slight chance of sleet and rain and snow after 3pm. Cloudy, with a high near 39. East southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-14T18:00:00-06:00",
+                "endTime": "2024-12-15T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain before midnight, then rain and patchy drizzle between midnight and 3am, then rain likely and patchy drizzle and patchy fog. Cloudy. Low around 38, with temperatures rising to around 40 overnight. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the temperatures hover in the cool mid-20s, with a biting breeze sweeping in from the east-southeast. The air feels crisp and sharp, dominated by a strong wind that whips across the beach, making it ideal to bundle up warmly before stepping outside. At this early hour, the scene is mostly obscured under a blanket of clouds, hinting at the precipitation expected later in the day. \n\nLooking ahead, expect a gloomy Saturday with cloudy skies and a high pushing toward the upper 30s. The chance of mix precipitation starts to increase after 3 PM, with sleet and rain anticipated to glide in as the day progresses\u2014so do not forget the umbrella. Waves may be somewhat choppy along the lake as the winds remain robust throughout the day, maintaining a lively rhythm upon the shore. This wintry weather, reminiscent of typical Chicago winters, calls for winter coats, gloves, and hats. Outdoor activities may be curtailed by the chill and potential for rain, making indoor pursuits more appealing, such as visiting local cafes or attending indoor events with family and friends. While today's weather lacks the cheer of sunshine, it embodies the raw beauty of a Midwestern winter day.",
-    "color_code": "#2C3E50",
-    "timestamp": "2024-12-14 05:04:43"
+    "weather_report": "The current weather in Evanston, Illinois, presents a chilly and overcast morning with temperatures hovering in the mid-20s. The brisk breeze from the east-southeast is quite pronounced, creating conditions that feel noticeably cooler. As you look toward Lake Michigan, the clouds gather, hinting at the precipitation expected later today. \n\nThe forecast promises a cloudy day with a high near the upper 30s, accompanied by a significant chance of rain and sleet beginning in the afternoon. Tonight, the temperature is set to rise slightly, with rain and patchy drizzle likely continuing. Wave conditions along the lake may become rough, with the gusty winds driving a choppy surface. It's advisable to wear a warm, waterproof coat and sturdy footwear if venturing outdoors, due to the impending rain and cool temperatures typical for December in this region. While the weather may not encourage outdoor activities, a cozy day indoors with a good book or a warm beverage may be the perfect alternative as we head closer to the holiday season.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-14 06:07:49"
 }
