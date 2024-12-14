@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T13:51:00+00:00",
-            "temperature_f": 28.94,
-            "temperature_c": -1.7,
-            "humidity": 68.694547915021,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2024-12-14T14:51:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 63.523890978545,
+            "wind_speed_mph": 49.929840000000006,
             "wind_direction": 100,
             "description": "Mostly Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-14T09:00:00-06:00",
+                "startTime": "2024-12-14T10:00:00-06:00",
                 "endTime": "2024-12-14T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a chilly picture, with temperatures hovering in the mid 20s, under mostly cloudy skies. A fierce breeze gusts from the east, creating a crisp atmosphere that might make a stroll along the beach feel brisk. As we look ahead, today\u2019s forecast suggests a significant shift, as a slight chance of sleet and rain develops later in the afternoon. The clouds will thicken and temperatures are expected to reach the upper 30s, accompanied by a steady breeze and gusty conditions. This evening, rain is almost certain, likely transforming into patchy drizzle and fog, with temperatures holding steady around 40 degrees.\n\nWith the anticipated rain, it\u2019s advisable to bundle up with a warm coat, perhaps a sturdy umbrella for later, and suitable footwear for potentially muddy paths. The overall vibe outside is decidedly wintry, typical for mid-December in this part of Illinois, with current chill consistent with the season's character. For those contemplating outdoor activities, the morning may offer a brisk walk along the beach, though as the day unfolds, cozy indoor pursuits could be more inviting.",
-    "color_code": "#A52B2D",
-    "timestamp": "2024-12-14 09:04:55"
+    "weather_report": "Evanston, Illinois is currently enveloped in a chilly embrace with temperatures hovering in the low 30s. The air feels particularly brisk, under the pressure of a gusty east-southeast wind that stirs the lake into gentle waves, making it a striking yet somewhat austere day by Lake Michigan. The sky carries a blanket of clouds, hinting at the promise of precipitation later in the day. A slight chance of sleet and rain transitions into a more assured deluge as evening approaches, with temperatures expected to rise into the upper 30s.\n\nToday\u2019s weather exhibits an unmistakable bite, as the conditions trend toward the grim, especially with the impending rain that will likely saturate the region overnight. Those venturing out should be prepared for damp and overcast conditions, dressed warmly with waterproof layers to fend off the swirling moisture in the air. As the waves lap against the shore, they seem to echo the forecast's potential for significant rainfall\u2014up to half an inch could accumulate by morning. For those in the area, outdoor activities may be best confined to indoor pursuits, with the holiday season setting an increasingly festive tone that draws many indoors.",
+    "color_code": "#B5C0C7",
+    "timestamp": "2024-12-14 10:05:19"
 }
