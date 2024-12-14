@@ -13,13 +13,13 @@
             "humidity": 65.595209439964,
             "wind_speed_mph": 33.01812,
             "wind_direction": 110,
-            "description": "Partly Cloudy"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-13T20:00:00-06:00",
+                "startTime": "2024-12-13T22:00:00-06:00",
                 "endTime": "2024-12-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the evening air carries a chill, as the temperature hovers in the mid-20s. The atmosphere is partly cloudy, offering a stark contrast to the previous bright days of summer. A blustery wind from the southeast adds a biting edge to the coolness, making it feel decidedly brisk. Given these conditions, the waves on Lake Michigan might display a lively rhythm, stirred by those gusts, making for a picturesque scene against the darkening sky.\n\nLooking ahead, the forecast for tomorrow indicates a shift in the weather, with rain likely to commence in the afternoon. As we transition from tonight's mostly cloudy skies to a dreary, overcast Saturday, temperatures are expected to climb slightly into the upper 30s. This heralds the first hints of winter's wet embrace, with a 60% chance of precipitation predicted, likely resulting in a light drizzle. For those venturing outside, layering will be essential to combat the cool, moist air. A warm coat, perhaps paired with a hat and gloves, strikes a sensible balance for outdoor activities while contemplating the changing seasons. Saturday will not present ideal conditions for recreational outings, but a cozy day indoors might be perfect for enjoying seasonal festivities as the holidays approach, with Christmas just around the corner.",
-    "color_code": "#2F4D7F",
-    "timestamp": "2024-12-13 21:15:30"
+    "weather_report": "As the chill of December settles over Evanston, the current temperatures hover just above 25 degrees with a noticeable wind adding to the wintery bite. The air carries a crisp coolness, making it feel quite brisk outdoors. The beach, stark and windswept, offers a haunting beauty as the waves dance restlessly along Lake Michigan. Tonight, expect mostly cloudy skies and a low around the upper 20s, accompanied by an increasingly breezy east-southeast wind, which may make it feel even colder. \n\nMoving into Saturday, a shift in conditions approaches, bringing with it a likelihood of rain by the afternoon as temperatures rise toward the high 30s. Gusts of wind will continue, creating a raw, blustery atmosphere that may deter outdoor plans. For those braving the elements, layering is essential; a warm coat, gloves, and a hat are highly recommended to ward off the chill. This time of year is typical for the region, where the landscape reveals itself in stark contrasts as nature inches towards the heart of winter. With the advent of precipitation expected later, spending time outdoors may require adjustments, particularly as the holiday season nears, prompting many to seek shelter in cozy indoor settings rather than face the elements.",
+    "color_code": "#303030",
+    "timestamp": "2024-12-13 22:06:13"
 }
