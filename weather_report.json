@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T00:51:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 65.851373117086,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 100,
-            "description": "Cloudy"
+            "timestamp": "2024-12-14T01:51:00+00:00",
+            "temperature_f": 24.98,
+            "temperature_c": -3.9,
+            "humidity": 65.595209439964,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 110,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-13T19:00:00-06:00",
+                "startTime": "2024-12-13T20:00:00-06:00",
                 "endTime": "2024-12-14T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 26,
+                "temperature": 27,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 26, with temperatures rising to around 28 overnight. East southeast wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 27. East southeast wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the evening paints a brisk scene along Lake Michigan, with the temperature hovering in the mid-20s. The air is notably invigorating, carrying a biting chill that is accentuated by a fierce east-southeast wind, creating an atmosphere that feels quite raw for a December night. While cloud cover blankets the sky, the waning daylight offers a muted, overcast hue, contributing to a rather somber but serene appearance at the beach.\n\nLooking ahead to Saturday, expect a continuation of this cloudy demeanor with rainfall likely to begin after the afternoon. The forecast calls for a high in the upper 30s, but as temperatures rise slightly overnight, the day will transition to a wetter environment. Wave conditions along the lake may be somewhat tumultuous due to the strong winds gusting up to 30 miles per hour, making for a turbulent surface\u2014a reminder of winter's dominance. Recommended attire for venturing outdoors includes warm layers, a sturdy windbreaker, and perhaps a waterproof jacket as precipitation approaches. Given the current season, these chilly temperatures are not out of place for mid-December, capturing the essence of a Midwest winter. Considering the conditions, outdoor activities may best be reserved for brief intervals, focusing on cozy indoor pursuits or preparations for upcoming holiday festivities.",
-    "color_code": "#2C2C2C",
-    "timestamp": "2024-12-13 19:32:57"
+    "weather_report": "This evening in Evanston brings crisp and cool conditions as the temperature hovers in the mid 20s. The air feels quite brisk, under partly cloudy skies, with a blustery wind tearing from the southeast. As night progresses, temperatures are expected to dip moderately, settling around the upper 20s, accompanied by a sustained breeze that may lead to wind chills. \n\nLooking ahead to Saturday, rain is forecasted to move in during the afternoon, with increased cloud cover and temperatures rising to a high in the upper 30s. The southeast winds will continue to be notable, gusting at times, which could increase the feeling of chill through the day. Given the likelihood of precipitation, and the beach view marred by a prevailing grayness, the landscape may appear dreary and damp. Wave conditions along Lake Michigan could become somewhat choppy, particularly with the incoming gusty breezes. As for attire, dressing in layers is recommended to mitigate the cold, with waterproof outerwear advisable for the upcoming rain. \n\nIn this season, temperatures are generally aligning with typical weather patterns for December in the Midwest, where frigid air tends to dominate. While the forecast for Saturday calls for wet weather, the evening's current chill may prompt locals to consider cozy indoor activities or perhaps a warm drink while looking out over the lake as twilight deepens.",
+    "color_code": "#5C6CFF",
+    "timestamp": "2024-12-13 20:30:30"
 }
