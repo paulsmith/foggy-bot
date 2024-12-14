@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T03:51:00+00:00",
+            "timestamp": "2024-12-14T04:51:00+00:00",
             "temperature_f": 24.98,
             "temperature_c": -3.9,
             "humidity": 68.214331190713,
-            "wind_speed_mph": 28.991520000000005,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 110,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-13T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-14T00:00:00-06:00",
                 "endTime": "2024-12-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 27. East southeast wind around 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 27. East southeast wind 15 to 20 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "15 to 20 mph",
-                "windDirection": "SE",
+                "windSpeed": "20 mph",
+                "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/ovc/rain,60?size=medium",
                 "shortForecast": "Cloudy then Rain Likely",
-                "detailedForecast": "Rain likely after 3pm. Cloudy, with a high near 38. Southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain likely after 3pm. Cloudy, with a high near 38. East southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As of this evening, Evanston is experiencing a decidedly chilly atmosphere with temperatures hovering in the low 30s, accompanied by a notable blow stirring up the air. The mostly cloudy skies create a muted ambiance, while the winds whistle in from the east-southeast with a certain gustiness that may feel bracing on exposed skin. Tonight's conditions will likely remain similar, with a low creeping up to the high 20s, setting the stage for an overcast, somewhat dreary outlook as we move into Saturday.\n\nLooking ahead, there is a likelihood of rain stretching into the late afternoon hours tomorrow, with temperatures expected to rise to the upper 30s. The east-southeast winds will keep briskly whirling around the area, contributing to a feeling of dampness. Given the prevailing cloud cover and the potential for precipitation, the scene may appear less than inviting. Ocean waves are likely to echo with a distant roar, but such conditions are rather common for this time of year as we transition fully into winter in the Midwest. It would be wise to dress warmly, favoring layers that can provide some insulation from the chill and wind, and perhaps reach for water-resistant outerwear in anticipation of those rain showers. \n\nThis chilly spell is typical for mid-December in this region, and while the evening may not inspire outdoor activity, tomorrow offers the promise of cozy pursuits indoors, perhaps with a warm drink in hand or holiday preparations underway. With nary a holiday in sight just yet, we prepare for the festive season in earnest.",
-    "color_code": "#2d2d2d",
-    "timestamp": "2024-12-13 23:05:20"
+    "weather_report": "As darkness envelops Evanston, the icy breath of winter is palpable, with temperatures hovering in the mid-20s and a chilling breeze sweeping in at a fierce pace. The air feels crisp and biting, evoking the unmistakable essence of a December night along the shores of Lake Michigan. Currently, it is mostly cloudy, creating a moody atmosphere as the waves crash gently onto the beach, stirred by robust winds from the east-southeast.\n\nLooking ahead, the weather is expected to remain predominantly overcast overnight, with temperatures nudging up slightly to the upper 20s. As Saturday unfolds, residents can anticipate a dreary day marked by a 60% chance of rain in the afternoon, as clouds linger and the temperature struggles to reach a high near 38 degrees. The combination of dampness and blustery winds will contribute to a decidedly uninviting outdoor experience. As the waves churn millpond-like beneath the darkened sky, it may be wise to bundle up in warm layers and waterproof attire if venturing outside. With such chilly conditions typical for this time of year in the Midwest, those seeking outdoor activities may want to reconsider, shifting their plans to cozy indoor pursuits instead, whether that be warming up with a cup of coffee or catching up on holiday shopping as the calendar inches closer to Christmas.",
+    "color_code": "#1E3F50",
+    "timestamp": "2024-12-14 00:06:40"
 }
