@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T14:51:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 63.523890978545,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 100,
+            "timestamp": "2024-12-14T15:51:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 58.674467584996,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-14T10:00:00-06:00",
+                "startTime": "2024-12-14T11:00:00-06:00",
                 "endTime": "2024-12-14T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "20 mph",
                 "windDirection": "ESE",
-                "icon": "https://api.weather.gov/icons/land/day/ovc/sleet,80?size=medium",
-                "shortForecast": "Cloudy then Slight Chance Sleet",
-                "detailedForecast": "A slight chance of sleet and rain and snow after 3pm. Cloudy, with a high near 39. East southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain,80?size=medium",
+                "shortForecast": "Cloudy then Rain",
+                "detailedForecast": "Rain after 3pm. Cloudy, with a high near 39. East southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston, Illinois is currently enveloped in a chilly embrace with temperatures hovering in the low 30s. The air feels particularly brisk, under the pressure of a gusty east-southeast wind that stirs the lake into gentle waves, making it a striking yet somewhat austere day by Lake Michigan. The sky carries a blanket of clouds, hinting at the promise of precipitation later in the day. A slight chance of sleet and rain transitions into a more assured deluge as evening approaches, with temperatures expected to rise into the upper 30s.\n\nToday\u2019s weather exhibits an unmistakable bite, as the conditions trend toward the grim, especially with the impending rain that will likely saturate the region overnight. Those venturing out should be prepared for damp and overcast conditions, dressed warmly with waterproof layers to fend off the swirling moisture in the air. As the waves lap against the shore, they seem to echo the forecast's potential for significant rainfall\u2014up to half an inch could accumulate by morning. For those in the area, outdoor activities may be best confined to indoor pursuits, with the holiday season setting an increasingly festive tone that draws many indoors.",
-    "color_code": "#B5C0C7",
-    "timestamp": "2024-12-14 10:05:19"
+    "weather_report": "In Evanston, Illinois, the current weather presents a chilly scene with a temperature hovering in the mid-30s, accompanied by a cloud-covered sky that lends a somber quality to the day. The atmosphere feels crisp, yet the impending rain adds a layer of dampness that could make stepping outside feel less inviting. As we look toward the afternoon, a steady drizzle is expected, likely picking up after 3 PM, when temperatures are projected to rise towards the high 30s. This evening will see a continuation of rain, thickening into a potentially foggy night as temps rise again, creating a stickiness in the air as gusty southeastern winds whip through at speeds reminiscent of a brisk walk.\n\nThe beaches may showcase interesting wave conditions with surf creating moderate swells, though it\u2019s not likely to be a day for swimming or sunbathing. As far as attire is concerned, a warm rain jacket and waterproof boots would be prudent choices for those venturing out, given the 100% chance of precipitation forecasted and the ever-shifting Lake Michigan breezes. This December day aligns with typical expectations for the season in this region, but the wet chill may drive many towards indoor activities. For those willing to brave the elements, a leisurely stroll along the shore could be refreshing, but plan for warmer drinks and cozy gatherings indoors if you prefer to stay dry.",
+    "color_code": "#B0C4D9",
+    "timestamp": "2024-12-14 11:04:54"
 }
