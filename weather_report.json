@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T02:51:00+00:00",
+            "timestamp": "2024-12-14T03:51:00+00:00",
             "temperature_f": 24.98,
             "temperature_c": -3.9,
-            "humidity": 65.595209439964,
-            "wind_speed_mph": 33.01812,
+            "humidity": 68.214331190713,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 110,
-            "description": ""
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-13T22:00:00-06:00",
+                "startTime": "2024-12-13T23:00:00-06:00",
                 "endTime": "2024-12-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the chill of December settles over Evanston, the current temperatures hover just above 25 degrees with a noticeable wind adding to the wintery bite. The air carries a crisp coolness, making it feel quite brisk outdoors. The beach, stark and windswept, offers a haunting beauty as the waves dance restlessly along Lake Michigan. Tonight, expect mostly cloudy skies and a low around the upper 20s, accompanied by an increasingly breezy east-southeast wind, which may make it feel even colder. \n\nMoving into Saturday, a shift in conditions approaches, bringing with it a likelihood of rain by the afternoon as temperatures rise toward the high 30s. Gusts of wind will continue, creating a raw, blustery atmosphere that may deter outdoor plans. For those braving the elements, layering is essential; a warm coat, gloves, and a hat are highly recommended to ward off the chill. This time of year is typical for the region, where the landscape reveals itself in stark contrasts as nature inches towards the heart of winter. With the advent of precipitation expected later, spending time outdoors may require adjustments, particularly as the holiday season nears, prompting many to seek shelter in cozy indoor settings rather than face the elements.",
-    "color_code": "#303030",
-    "timestamp": "2024-12-13 22:06:13"
+    "weather_report": "As of this evening, Evanston is experiencing a decidedly chilly atmosphere with temperatures hovering in the low 30s, accompanied by a notable blow stirring up the air. The mostly cloudy skies create a muted ambiance, while the winds whistle in from the east-southeast with a certain gustiness that may feel bracing on exposed skin. Tonight's conditions will likely remain similar, with a low creeping up to the high 20s, setting the stage for an overcast, somewhat dreary outlook as we move into Saturday.\n\nLooking ahead, there is a likelihood of rain stretching into the late afternoon hours tomorrow, with temperatures expected to rise to the upper 30s. The east-southeast winds will keep briskly whirling around the area, contributing to a feeling of dampness. Given the prevailing cloud cover and the potential for precipitation, the scene may appear less than inviting. Ocean waves are likely to echo with a distant roar, but such conditions are rather common for this time of year as we transition fully into winter in the Midwest. It would be wise to dress warmly, favoring layers that can provide some insulation from the chill and wind, and perhaps reach for water-resistant outerwear in anticipation of those rain showers. \n\nThis chilly spell is typical for mid-December in this region, and while the evening may not inspire outdoor activity, tomorrow offers the promise of cozy pursuits indoors, perhaps with a warm drink in hand or holiday preparations underway. With nary a holiday in sight just yet, we prepare for the festive season in earnest.",
+    "color_code": "#2d2d2d",
+    "timestamp": "2024-12-13 23:05:20"
 }
