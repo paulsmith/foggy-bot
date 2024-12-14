@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T04:51:00+00:00",
+            "timestamp": "2024-12-14T05:51:00+00:00",
             "temperature_f": 24.98,
             "temperature_c": -3.9,
-            "humidity": 68.214331190713,
+            "humidity": 65.595209439964,
             "wind_speed_mph": 37.04472,
-            "wind_direction": 110,
+            "wind_direction": 100,
             "description": "Mostly Cloudy"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As darkness envelops Evanston, the icy breath of winter is palpable, with temperatures hovering in the mid-20s and a chilling breeze sweeping in at a fierce pace. The air feels crisp and biting, evoking the unmistakable essence of a December night along the shores of Lake Michigan. Currently, it is mostly cloudy, creating a moody atmosphere as the waves crash gently onto the beach, stirred by robust winds from the east-southeast.\n\nLooking ahead, the weather is expected to remain predominantly overcast overnight, with temperatures nudging up slightly to the upper 20s. As Saturday unfolds, residents can anticipate a dreary day marked by a 60% chance of rain in the afternoon, as clouds linger and the temperature struggles to reach a high near 38 degrees. The combination of dampness and blustery winds will contribute to a decidedly uninviting outdoor experience. As the waves churn millpond-like beneath the darkened sky, it may be wise to bundle up in warm layers and waterproof attire if venturing outside. With such chilly conditions typical for this time of year in the Midwest, those seeking outdoor activities may want to reconsider, shifting their plans to cozy indoor pursuits instead, whether that be warming up with a cup of coffee or catching up on holiday shopping as the calendar inches closer to Christmas.",
-    "color_code": "#1E3F50",
-    "timestamp": "2024-12-14 00:06:40"
+    "weather_report": "Evanston is currently enveloped in a chilly embrace as temperatures hover in the mid-20s, making for a crisp and cool night. The air feels rather blustery, with strong winds whipping in from the east, stirring the waters of Lake Michigan into a frothy commotion. Conditions are mostly cloudy, imparting a muted glow to the skyline, and this visual haze is likely to linger as the evening progresses. \n\nLooking ahead to Saturday, expect more than just a cold breeze; rain is on the horizon, likely to move in by the afternoon. The high will barely scrape the upper 30s, accompanied by a continued fierce wind that may kick up to 30 mph. As we transition from this invigorating night into a potentially soggy day, the prospect of precipitation should encourage a shift in attire\u2014best to layer up and keep a raincoat handy, as well as sturdy footwear for possibly slushy conditions. For those eying outdoor activities, be cautious: the elements may not cooperate with extensive plans, but an invigorating walk along the shoreline could still bring a refreshing vitality to the day ahead. With no major holidays on the immediate horizon, this Saturday marks a straightforward winter day\u2014a reminder of the season\u2019s chill and a chance to embrace the cozy warmth of the indoors.",
+    "color_code": "#4A90E2",
+    "timestamp": "2024-12-14 01:04:51"
 }
