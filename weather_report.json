@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T19:51:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 56.498776223415,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2024-12-14T20:51:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 57.059644110367,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 100,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-14T14:00:00-06:00",
+                "startTime": "2024-12-14T16:00:00-06:00",
                 "endTime": "2024-12-14T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -33,7 +33,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/rain,80?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain after 3pm. Cloudy, with a high near 39. Southeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain. Cloudy, with a high near 39. Southeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current conditions reveal a crisp and cool atmosphere, with temperatures hovering in the mid 30s and a gray, cloudy sky casting a solemn mood over the beach. As the afternoon progresses, rain is set to arrive after 3 PM, accompanied by a southeast breeze that will become noticeable at 15 mph, intermittently gusting up to 30 mph. The outlook for this evening suggests a steady rainfall before midnight, transitioning to drizzles and patchy fog overnight, raising temperatures slightly towards 39 degrees\u2014a damp and cloudy night ahead.\n\nWith the looming rain and the beach's wild, restless waves, the outlook is decidedly uninviting for outdoor activities. The combination of dampness and chill might make it wise to layer up, donning a waterproof jacket and sturdy footwear to navigate the wet elements comfortably. Given that we\u2019re well into December, these temperatures are typical for this time of year in the Midwest, marking the turn into winter. While it may not be the ideal day for a stroll by the lakeside, perhaps consider a cozy afternoon indoors with a warm drink instead.",
-    "color_code": "#8B9BC6",
-    "timestamp": "2024-12-14 15:04:52"
+    "weather_report": "In Evanston, Illinois, the current conditions present a chilly scene with temperatures hovering in the mid-30s, accompanied by a blustery wind that stirs up the lake\u2019s surface, creating a roiling effect on waters that reflect the overcast skies. As rain sets in this afternoon, the prospect of drizzly conditions and patchy fog looms large, leading to a definitive forecast of wet weather, with the chance of significant rainfall peaking at 100% tonight. The cold, damp air may feel more uncomfortable due to the wind's bite, making it advisable to bundle up.\n\nGiven the continuing presence of rain and gusty winds, activities outdoors might be best avoided unless one is prepared for less-than-ideal weather. A visit to a museum or a cozy caf\u00e9 would suit this grey December day, typical for this time of year in the Midwest. For those venturing outside, waterproof attire is essential, along with a warm layer to fend off the chill. In this season, temperatures are in line with expectations for mid-December, where cold and damp frequently accompany cloudy skies in Evanston.",
+    "color_code": "#B0C4D8",
+    "timestamp": "2024-12-14 16:04:57"
 }
