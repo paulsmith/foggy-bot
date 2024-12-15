@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T21:51:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 61.958017064999,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 110,
-            "description": "Light Sleet and Rain"
+            "timestamp": "2024-12-14T23:51:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 75.51236086397,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 100,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-14T17:00:00-06:00",
-                "endTime": "2024-12-14T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,80?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy, with a high near 39. Southeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-14T18:00:00-06:00",
                 "endTime": "2024-12-15T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain before midnight, then rain and patchy fog between midnight and 3am, then widespread drizzle and areas of fog. Cloudy. Low around 37, with temperatures rising to around 39 overnight. Southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-12-15T06:00:00-06:00",
+                "endTime": "2024-12-15T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain?size=medium",
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Areas of drizzle and areas of fog before 3pm. Cloudy, with a high near 43. South wind 5 to 10 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "Evanston, Illinois is experiencing quite a wintry evening, with temperatures lingering in the mid-30s, accompanied by light sleet and rain creating a rather dreary atmosphere. The air feels brisk, with a blustery wind adding to the chill as gusts whip around at nearly 46 miles per hour. This stormy weather is expected to persist throughout the night, transitioning from rain to patchy fog as temperatures hover around the high 30s. The forecast predicts an unusually high likelihood of continued precipitation, with rainfall totals potentially reaching up to half an inch, making for a soggy landscape along Lake Michigan.\n\nThe scene outside appears quite uninviting, with the sky cloaked in clouds, limiting visibility and casting a gloomy pall over the beach area. The waves on the lake are likely moderate, influenced by the strong winds, making it an unfavorable time for activities by the water. As for attire, residents and visitors alike are best advised to bundle up in warm, waterproof clothing: think heavy coats, scarves, and sturdy shoes to navigate the slippery terrain. While not ideal for outdoor excursions, cozy indoor activities may be more suitable for this chilly December day. As we approach the holiday season, the mood might still dare to remain festive despite the unpleasantness outside, encouraging folks to find warmth in their homes and communities.",
-    "color_code": "#8B9A5B",
-    "timestamp": "2024-12-14 17:05:00"
+    "weather_report": "Evanston is currently enveloped in a chilly drizzle, with temperatures in the mid 30s, creating a damp atmosphere that might leave one feeling rather raw outdoors. The southeast winds are brisk, lending a blustery edge to the prevailing conditions. As night approaches, rain is expected to intensify before tapering off into widespread drizzle and fog. The temperatures will rise slightly overnight, settling into the upper 30s, but it will remain predominantly cloudy, keeping any chance of star-gazing at bay.\n\nTomorrow, the skies are set to remain overcast, with lingering drizzle and fog likely until the afternoon. Daytime highs will reach into the low 40s, which is typical for this time of year in the Midwest. Wave conditions on Lake Michigan may be stirred up due to the persistent winds, providing a choppy surface rather than the usual tranquil view. It would be wise for those venturing outdoors to dress warmly, opting for waterproof outer layers to combat the chill and potential for rain. Activities such as cozying up with a hot drink or enjoying the company of friends indoors could be more fulfilling given the weather. No major holidays mark this evening, but the tranquility of a rainy night might just lend itself to a reflective mood.",
+    "color_code": "#5B5C76",
+    "timestamp": "2024-12-14 18:25:34"
 }
