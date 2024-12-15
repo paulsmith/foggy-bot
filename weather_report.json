@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T10:21:00+00:00",
+            "timestamp": "2024-12-15T10:51:00+00:00",
             "temperature_f": 39.92,
             "temperature_c": 4.4,
             "humidity": 96.555499312154,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 150,
-            "description": "Light Drizzle and Fog/Mist"
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 160,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-15T05:00:00-06:00",
-                "endTime": "2024-12-15T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 37,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
-                "shortForecast": "Areas Of Drizzle",
-                "detailedForecast": "Areas of drizzle and patchy fog. Cloudy. Low around 37, with temperatures rising to around 40 overnight. South southeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2024-12-15T06:00:00-06:00",
                 "endTime": "2024-12-15T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,30/rain?size=medium",
                 "shortForecast": "Areas Of Drizzle then Areas Of Fog",
                 "detailedForecast": "Areas of drizzle and areas of fog before 7am, then areas of fog and patchy drizzle. Cloudy, with a high near 43. South wind 5 to 10 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-15T18:00:00-06:00",
+                "endTime": "2024-12-16T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 40,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/fog/rain_showers,40?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog before 1am, then patchy fog and a slight chance of rain showers between 1am and 2am, then a chance of rain showers and patchy fog. Cloudy. Low around 40, with temperatures rising to around 42 overnight. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "In Evanston, the weather brings a distinctly chilly atmosphere this morning, with temperatures in the mid 30s making for a cool and damp day ahead. Light drizzle continues to fall, accompanied by swirling fog that blankets the lakeshore, contributing to a misty, atmospheric scene. As we look to the forecast, expect similar conditions to persist throughout the day, with overcast skies prevailing and temperatures nudging their way up to the low 40s by afternoon. A gentle breeze from the south will provide slight relief from the chill, although the dampness may make it feel chillier than it actually is.\n\nThe beach may not present ideal conditions for a leisurely stroll due to the ongoing precipitation and reduced visibility, but for those who don warm clothing, a brisk walk along the shore could still be invigorating. Swimmers and boaters should be mindful of the wave conditions, which could be moderate given the wind\u2019s strength, though the lake\u2019s surface will be tempered by the current drizzle. Layering is recommended\u2014think warm coats, hats, and perhaps waterproof footwear\u2014to brace against the cool moisture. Overall, despite the dreary weather, it captures the true essence of a winter morning by Lake Michigan, with the season\u2019s characteristic chill felt in every breath.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-12-15 05:04:59"
+    "weather_report": "This morning in Evanston, conditions remain on the chilly side with a temperature settling in the low 40s, accompanied by a thick blanket of fog that casts a cold, damp veil over the beach and harbor area. The southerly breeze has kicked up to a mild level, adding a biting chill that may not be pleasant for long stretches outdoors. As the day progresses, expect areas of fog and patchy drizzle to persist, yielding a cloudy atmosphere with a high topping out near the mid 40s. The forecast suggests a modest chance of precipitation, with drizzle remaining a possibility throughout the day.\n\nWith temperatures hovering around the seasonal norms for mid-December in the Midwest, this damp chill may feel a bit uninviting, particularly for outdoor activities. Wave conditions in the lake could be moderate given the winds, inviting cautious exploration for those keen on braving the shore. Recommended attire includes a warm coat, perhaps layered with a scarf and gloves, to shield against the cool, moist air. Despite the dreary weather, options like visiting local caf\u00e9s or museums, or taking a brisk walk along the shore edge, may provide some reprieve. Today is the 15th of December, a time often reserved for holiday preparations, adding a sense of warmth amidst the cool skies.",
+    "color_code": "#6B7D9A",
+    "timestamp": "2024-12-15 06:08:13"
 }
