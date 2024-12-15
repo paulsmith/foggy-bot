@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T21:31:00+00:00",
+            "timestamp": "2024-12-15T21:51:00+00:00",
             "temperature_f": 44.06,
             "temperature_c": 6.7,
-            "humidity": 92.692530298592,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 180,
+            "humidity": 95.953424201417,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 170,
             "description": "Fog/Mist"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current atmosphere is marked by a cool and damp chill, typical of mid-December. With temperatures resting in the low 40s and fog enveloping the area, visibility is limited, adding to the eerie calm. Winds from the south whisper gently, hinting at a slight shift as conditions remain crisper than one might expect during this time of year. The beach presents a still and serene vista, with the waters of Lake Michigan reflecting the muted light.\n\nLooking ahead, the forecast suggests the day will remain overcast, with a possible high nearing 43. Tonight, the possibility of patchy fog persists, alongside a chance of light rain after 2 AM. Overnight lows will hover around 42, with temperatures gradually rising. While thresholds for significant rainfall are low, expect the air to feel damp and a bit heavier due to increasing moisture levels. Therefore, it may be best to wear layers, including a warm jacket and a water-resistant outer layer, for added comfort as you venture out. The seasonality is reflective of typical winter conditions in this region, with the cool air reminding us of the approaching holidays and quiet seasonal introspection. \n\nStrolling along the beach might still be enjoyable for those who appreciate the solitude and beauty of winter's embrace, though the weather tempers outdoor activity. Given the clinging dampness and low evening temperatures, indoor pursuits such as visiting local cafes or enjoying a warm meal with friends might be more appealing this evening.",
-    "color_code": "#A9A8A7",
-    "timestamp": "2024-12-15 16:04:57"
+    "weather_report": "Currently in Evanston, temperatures linger in the low 40s, characterized by foggy conditions that envelop the area. A brisk, gentle breeze from the south adds a chill to the damp air, creating a slightly clammy atmosphere overall. As evening approaches, clouds are expected to gather more densely, with a possibility of light rainfall and continued fog into the night. Temperatures may rise slightly after dark, potentially reaching the mid 40s.\n\nGiven the conditions, the beach scene appears somewhat muted and gray, lacking the usual vibrancy of day with visibility hampered by mist. Wave conditions on Lake Michigan are likely to be moderate, influenced by the wind but not severe. For those venturing outside, layering is recommended, including a warm jacket and perhaps a scarf to combat the chill. As we are deep in December, this weather is quite typical for the season in this region, where cold and dampness are to be expected. Evening outdoor activities may be dampened by the uninviting weather, but cozying up indoors with warm drinks while enjoying a movie or visiting local shops could serve as pleasant alternatives during this foggy December evening.",
+    "color_code": "#4A4C50",
+    "timestamp": "2024-12-15 17:04:55"
 }
