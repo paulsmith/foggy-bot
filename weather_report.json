@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T01:51:00+00:00",
+            "timestamp": "2024-12-15T02:51:00+00:00",
             "temperature_f": 35.96,
             "temperature_c": 2.2,
-            "humidity": 89.16280483489,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 110,
+            "humidity": 92.431808462521,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 100,
             "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-14T21:00:00-06:00",
+                "startTime": "2024-12-14T22:00:00-06:00",
                 "endTime": "2024-12-15T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,90?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain before midnight, then rain and patchy fog between midnight and 3am, then widespread drizzle and areas of fog. Cloudy. Low around 37, with temperatures rising to around 40 overnight. Southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain before midnight, then rain and areas of fog between midnight and 4am, then areas of fog and a chance of rain between 4am and 5am, then areas of drizzle and areas of fog. Cloudy. Low around 37, with temperatures rising to around 40 overnight. Southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Currently in Evanston, the air is chilly and damp, with a temperature in the mid-30s and a gentle mist adding to the cool atmosphere. A light rain is falling while a breeze carries a hint of fog over the beach, creating a somewhat melancholic yet peaceful scene. This evening, expect more rain and patchy fog until the early hours, accompanied by a steady increase in temperature as we move into the low 40s overnight. The wind will pick up a bit, gusting from the southeast, further enhancing the damp, crisp conditions.\n\nTomorrow, a cloudy sky will persist with occasional drizzle through the afternoon, maintaining that overcast feel. With a high near the low 40s, though still chilly, it\u2019s a good idea to dress warmly with layers and waterproof attire. The beach, while scenic, may not beckon for leisurely walks due to the rain and breeze. However, tomorrow\u2019s conditions could be suitable for indoor activities such as cozying up at a local caf\u00e9 with a warm beverage or visiting a nearby museum to escape the chill. As it is mid-December, these conditions are typical for this time of year in Illinois, a reminder of winter\u2019s firm grip on the region.",
-    "color_code": "#A2A9B1",
-    "timestamp": "2024-12-14 21:20:30"
+    "weather_report": "Current conditions in Evanston, Illinois, present a dreary scene, with temperatures hovering in the mid 30s and a persistent light rain accompanied by fog and mist, creating a somber ambiance. The air is heavy with moisture, making it feel chilly and a bit uncomfortable outside. Winds are howling from the southeast, intensifying the dampness and potentially leading to rough wave conditions along Lake Michigan.\n\nAs we look toward the forecast, expect a continuation of rain this evening before midnight, transitioning into drizzle and fog through the early morning. The temperatures are anticipated to rise slightly overnight, reaching the low 40s, still falling within the typical chill of December in this region. Saturday will bring areas of drizzle and fog lingering until the afternoon, with overcast skies and a high near 43, but with a lowered chance of additional precipitation.\n\nGiven these conditions, it would be wise to dress warmly in layers, opting for waterproof attire to stay dry amidst the rain and humidity. The beaches may not be the ideal destination for outdoor activities, but a cozy day indoors with a good book or movie beckons, as the upcoming holiday festivities loom. Keep an eye out for gusty winds and the potential for turbulent waters if venturing anywhere close to the lake.",
+    "color_code": "#2E2D2D",
+    "timestamp": "2024-12-14 22:06:29"
 }
