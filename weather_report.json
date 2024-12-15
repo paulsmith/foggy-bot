@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T23:51:00+00:00",
+            "timestamp": "2024-12-15T00:51:00+00:00",
             "temperature_f": 37.04,
             "temperature_c": 2.8,
-            "humidity": 75.51236086397,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 100,
+            "humidity": 78.320613177263,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 130,
             "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-14T18:00:00-06:00",
+                "startTime": "2024-12-14T19:00:00-06:00",
                 "endTime": "2024-12-15T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently enveloped in a chilly drizzle, with temperatures in the mid 30s, creating a damp atmosphere that might leave one feeling rather raw outdoors. The southeast winds are brisk, lending a blustery edge to the prevailing conditions. As night approaches, rain is expected to intensify before tapering off into widespread drizzle and fog. The temperatures will rise slightly overnight, settling into the upper 30s, but it will remain predominantly cloudy, keeping any chance of star-gazing at bay.\n\nTomorrow, the skies are set to remain overcast, with lingering drizzle and fog likely until the afternoon. Daytime highs will reach into the low 40s, which is typical for this time of year in the Midwest. Wave conditions on Lake Michigan may be stirred up due to the persistent winds, providing a choppy surface rather than the usual tranquil view. It would be wise for those venturing outdoors to dress warmly, opting for waterproof outer layers to combat the chill and potential for rain. Activities such as cozying up with a hot drink or enjoying the company of friends indoors could be more fulfilling given the weather. No major holidays mark this evening, but the tranquility of a rainy night might just lend itself to a reflective mood.",
-    "color_code": "#5B5C76",
-    "timestamp": "2024-12-14 18:25:34"
+    "weather_report": "Current conditions in Evanston reflect a chilly, damp evening with temperatures hovering in the mid-30s, accompanied by a steady, fierce wind from the southeast. Light rain creates a somber atmosphere, adding a layer of gloom as the light diminishes. The weather forecast suggests continued rain through the night, with patches of fog likely to settle in, making visibility uncertain. As temperatures gradually rise to the high 30s overnight, the chill in the air will persist, combining with moisture to create a rather uncomfortable feel outdoors.\n\nWith tomorrow's forecast bringing cloudy skies and lingering drizzle, the high will only reach around the low 40s. Wave conditions along Lake Michigan may be somewhat choppy, influenced by the gusty winds that could whip up a spray. Given the dampness and cool temperatures typical for mid-December in this region, residents are advised to don warm, waterproof attire if venturing outside. While this evening's weather is hardly ideal for outdoor activities, tomorrow's drizzly conditions might still allow for a brisk walk along the lakeshore, albeit with an umbrella at hand. As we approach the year's end, the chill certainly fits the seasonal pattern, albeit a reminder of the winter months ahead.",
+    "color_code": "#6B8E98",
+    "timestamp": "2024-12-14 19:33:17"
 }
