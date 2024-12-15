@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T08:09:00+00:00",
+            "timestamp": "2024-12-15T08:51:00+00:00",
             "temperature_f": 39.02,
             "temperature_c": 3.9,
-            "humidity": 95.862962320942,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 110,
+            "humidity": 100,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 130,
             "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-15T03:00:00-06:00",
+                "startTime": "2024-12-15T04:00:00-06:00",
                 "endTime": "2024-12-15T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 50
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
-                "shortForecast": "Widespread Drizzle",
-                "detailedForecast": "Widespread drizzle and patchy fog. Cloudy. Low around 37, with temperatures rising to around 40 overnight. Southeast wind 10 to 15 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Areas of drizzle and patchy fog. Cloudy. Low around 37, with temperatures rising to around 40 overnight. South southeast wind 10 to 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain,30/rain?size=medium",
                 "shortForecast": "Areas Of Drizzle then Areas Of Fog",
-                "detailedForecast": "Areas of drizzle and areas of fog before 7am, then areas of fog and a chance of drizzle. Cloudy, with a high near 43. South wind 5 to 10 mph. Chance of precipitation is 30%."
+                "detailedForecast": "Areas of drizzle and areas of fog before 7am, then areas of fog and patchy drizzle. Cloudy, with a high near 43. South wind 5 to 10 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the clock ticks past three in the morning, Evanston wakes to a damp and dreary scene where light drizzle and fog cast a veil over the landscape. With temperatures lingering in the mid-30s, the air is chill and damp, creating a penetrative coolness that wraps around those venturing outside like a heavy blanket. The gentle but persistent breeze from the southeast whispers through the trees, adding a layer of chill to the already somber atmosphere.\n\nLooking ahead to the day, expect widespread drizzle and patchy fog to continue, with cloudy skies dominating the forecast. Slight warming will nudge temperatures toward the low 40s, though that won't bring much cheer as the day remains shrouded in cloud cover. A light breeze will complement the moist conditions, mingling with sporadic areas of fog that may obscure the view over Lake Michigan. Given these conditions, it\u2019s advisable to dress warmly with layers\u2014perhaps a waterproof jacket\u2014and sturdy footwear if walking near water, as surfaces may be slippery. Underfoot, the waves will likely be moderately stirred, due to the winds, creating an unpredictable shoreline. While today's weather lacks invitation, it is certainly a time for quiet reflection or snug indoor activities, as the seasonal chill and dampness are very much in line with a mid-December day in the Midwest.",
-    "color_code": "#4B8B99",
-    "timestamp": "2024-12-15 03:05:07"
+    "weather_report": "In Evanston, the current scene is marked by cool temperatures hovering in the mid 30s, accompanied by a blanket of dense fog and light drizzle that shrouds the familiar landscape. The air feels brisk and a bit damp, with a gentle breeze whispering off Lake Michigan, contributing to an overall murky and unsettled ambiance that may leave residents yearning for clearer skies. As we look ahead, the forecast indicates that the drizzle and fog will persist throughout the day, with cloudy skies and a high approaching the low 40s, making it a day best spent indoors. \n\nWith wave conditions likely to be calm at the beach due to the minimal wind, it may not be an ideal moment for boating or outdoor activities. Light raingear is recommended for anyone braving the elements, along with warm layers to fend off the chill as temperatures slowly rise throughout the night. While the day itself does not fall on a notable holiday, the cozy atmosphere may inspire some to enjoy the soft glow of holiday lights as winter unfolds. Given the season, these temperatures align with what one might expect in mid-December, set against a backdrop of winter routines and preparations for the festivities ahead.",
+    "color_code": "#5C5D6C",
+    "timestamp": "2024-12-15 04:05:05"
 }
