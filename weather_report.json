@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T10:51:00+00:00",
-            "temperature_f": 39.92,
-            "temperature_c": 4.4,
-            "humidity": 96.555499312154,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 160,
+            "timestamp": "2024-12-15T11:56:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 95.898856650027,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 150,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-15T06:00:00-06:00",
+                "startTime": "2024-12-15T07:00:00-06:00",
                 "endTime": "2024-12-15T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain?size=medium",
-                "shortForecast": "Areas Of Drizzle then Areas Of Fog",
-                "detailedForecast": "Areas of drizzle and areas of fog before 7am, then areas of fog and patchy drizzle. Cloudy, with a high near 43. South wind 5 to 10 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog and patchy drizzle. Cloudy, with a high near 43. South wind 5 to 10 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, conditions remain on the chilly side with a temperature settling in the low 40s, accompanied by a thick blanket of fog that casts a cold, damp veil over the beach and harbor area. The southerly breeze has kicked up to a mild level, adding a biting chill that may not be pleasant for long stretches outdoors. As the day progresses, expect areas of fog and patchy drizzle to persist, yielding a cloudy atmosphere with a high topping out near the mid 40s. The forecast suggests a modest chance of precipitation, with drizzle remaining a possibility throughout the day.\n\nWith temperatures hovering around the seasonal norms for mid-December in the Midwest, this damp chill may feel a bit uninviting, particularly for outdoor activities. Wave conditions in the lake could be moderate given the winds, inviting cautious exploration for those keen on braving the shore. Recommended attire includes a warm coat, perhaps layered with a scarf and gloves, to shield against the cool, moist air. Despite the dreary weather, options like visiting local caf\u00e9s or museums, or taking a brisk walk along the shore edge, may provide some reprieve. Today is the 15th of December, a time often reserved for holiday preparations, adding a sense of warmth amidst the cool skies.",
-    "color_code": "#6B7D9A",
-    "timestamp": "2024-12-15 06:08:13"
+    "weather_report": "Evanston is waking up to some decidedly dreary weather this morning, with temperatures hovering in the low 40s and a persistent mist giving the landscape a muted, foggy appearance. The air feels damp and heavy, making for an uncomfortably chilly ambience, particularly with the breeze whispering in from the south at around 20 miles per hour. As the day unfolds, expect areas of fog and patchy drizzle to linger, with a likely high near the mid-40s. Tonight, conditions will remain overcast, with the possibility of light rain showers and more fog, as temperatures settle around the low 40s, possibly rising later in the night.\n\nGiven these conditions, the water of Lake Michigan may be choppy but should not be excessively turbulent. The patchy fog significantly reduces visibility, creating an uninviting tableau for outdoor excursions. For those venturing outside, layered clothing is advised to combat the chill and dampness, favoring a light waterproof jacket to stave off any unexpected drizzles. While the season mandates a certain coolness, today's weather feels unusually bleak, aligning with the atmospheric trends of mid-December. Any outdoor activities should preferably be kept light, perhaps a stroll along the shore for those with a taste for the eerie beauty of a fog-laden landscape, but keep an eye on the darkening skies.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2024-12-15 07:09:17"
 }
