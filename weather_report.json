@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T13:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 95.898856650027,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 130,
+            "timestamp": "2024-12-15T15:17:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 95.918240233481,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 200,
             "description": "Fog"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-15T09:00:00-06:00",
+                "startTime": "2024-12-15T10:00:00-06:00",
                 "endTime": "2024-12-15T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -33,7 +33,7 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/rain?size=medium",
                 "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog and patchy drizzle. Cloudy, with a high near 43. South wind 5 to 10 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Areas of fog and a slight chance of drizzle. Cloudy, with a high near 43. South wind 5 to 10 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a chilly scene with temperatures dipping into the low 40s. The air carries a persistent dampness, creating an atmosphere that feels heavy and cool, complemented by a gentle breeze whispering off Lake Michigan. Fog envelops the area, shrouding the beach and shoreline, reducing visibility and lending a somewhat eerie ambiance to the landscape. Today, expect the fog to persist with patches of drizzle possible throughout the day. The forecast indicates a high nearing 43, with a light south wind providing a subtle warmth while gusts could reach up to 20 mph at times.\n\nAs night approaches, patchy fog may shift into light showers, contributing to the damp feeling in the air. With temperatures likely to rise overnight to around 42, it remains a distinctly cool season in the region. Given these conditions, attire should lean toward warmer layers\u2014think heavy jackets and waterproof gear to fend off the mist. Wave conditions at the beach could be mild but may look a bit choppy with the building wind and slight rain predicted, making this an unattractive time for most water activities. However, those seeking a wintry stroll along the beach or wishing to embrace the moody fog might find it refreshing. With no significant holiday or event on this December day, the cooler, quiet environment could offer a unique experience for reflective outings or photographers keen on capturing the serene beauty of winter's embrace by the shore.",
-    "color_code": "#7D7D7D",
-    "timestamp": "2024-12-15 09:04:56"
+    "weather_report": "In Evanston, a dense fog cloaks the landscape, wrapping the beach in a wintry embrace with current temperatures hovering in the low 40s. The air is thick and cool, lending a chill that makes the conditions feel slightly damp. A gentle breeze whispers from the south at around 10 mph, creating an eerie stillness as visibility is greatly reduced along the shoreline. \n\nToday\u2019s forecast suggests the fog may persist, with a slight chance of drizzle adding to the misty ambiance. As we move into the evening, expect more patchy fog and a chance of light rain showers, especially after midnight. Tonight's temperatures will drift down to the upper 30s, with winds picking up slightly, gusting to 20 mph. Given the overall dreary conditions, it\u2019s advisable to dress warmly, perhaps with a waterproof jacket or a cozy sweater, as the weather feels far from inviting. This time of year typically brings cool temperatures in the region, aligning with this season's patterns. Despite the damp chill, it may be a good day for a peaceful stroll along the beach\u2014though the picturesque view might be obscured, the fog offers a unique tranquility that some might find appealing.",
+    "color_code": "#848B6A",
+    "timestamp": "2024-12-15 10:05:26"
 }
