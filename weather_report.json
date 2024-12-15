@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T11:56:00+00:00",
+            "timestamp": "2024-12-15T13:25:00+00:00",
             "temperature_f": 41.0,
             "temperature_c": 5,
             "humidity": 95.898856650027,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 150,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 160,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-15T07:00:00-06:00",
+                "startTime": "2024-12-15T08:00:00-06:00",
                 "endTime": "2024-12-15T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is waking up to some decidedly dreary weather this morning, with temperatures hovering in the low 40s and a persistent mist giving the landscape a muted, foggy appearance. The air feels damp and heavy, making for an uncomfortably chilly ambience, particularly with the breeze whispering in from the south at around 20 miles per hour. As the day unfolds, expect areas of fog and patchy drizzle to linger, with a likely high near the mid-40s. Tonight, conditions will remain overcast, with the possibility of light rain showers and more fog, as temperatures settle around the low 40s, possibly rising later in the night.\n\nGiven these conditions, the water of Lake Michigan may be choppy but should not be excessively turbulent. The patchy fog significantly reduces visibility, creating an uninviting tableau for outdoor excursions. For those venturing outside, layered clothing is advised to combat the chill and dampness, favoring a light waterproof jacket to stave off any unexpected drizzles. While the season mandates a certain coolness, today's weather feels unusually bleak, aligning with the atmospheric trends of mid-December. Any outdoor activities should preferably be kept light, perhaps a stroll along the shore for those with a taste for the eerie beauty of a fog-laden landscape, but keep an eye on the darkening skies.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2024-12-15 07:09:17"
+    "weather_report": "Evanston, Illinois, is currently shrouded in a thick veil of fog and mist, with temperatures lingering in the low 40s, contributing to a damp and chilly atmosphere. The light, whispering breeze from the south at about 12 miles per hour carries a hint of drizzle, and visibility is significantly reduced. As the day unfolds, expect cloudy skies with temperatures climbing slightly to around the mid-40s, leaving a damp chill in the air that may feel even cooler. Conditions will remain murky, with the possibility of additional patchy drizzle and fog persisting into the night, where temperatures might stabilize in the low 40s as the winds pick up slightly.\n\nGiven today\u2019s dreary and damp conditions, beach visits might not be appealing, and outdoor activities could be limited. A warm, waterproof jacket and sturdy shoes would be advised for anyone venturing out, as the moist air adds a layer of discomfort. While it is not particularly harsh for mid-December in this region, the cold, clammy feel makes for a day best spent indoors, perhaps enjoying a cozy read by the window or exploring local cafes. Today is December 15, but it's not a major holiday; however, the holiday spirit is undoubtedly in the air as we approach the festivities.",
+    "color_code": "#A3A9A0",
+    "timestamp": "2024-12-15 08:04:46"
 }
