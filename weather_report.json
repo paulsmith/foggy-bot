@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T15:17:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 95.918240233481,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 200,
+            "timestamp": "2024-12-15T16:19:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 96.601586728182,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 220,
             "description": "Fog"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-15T10:00:00-06:00",
+                "startTime": "2024-12-15T11:00:00-06:00",
                 "endTime": "2024-12-15T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/fog?size=medium",
                 "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog and a slight chance of drizzle. Cloudy, with a high near 43. South wind 5 to 10 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Areas of fog. Cloudy, with a high near 43. South wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, a dense fog cloaks the landscape, wrapping the beach in a wintry embrace with current temperatures hovering in the low 40s. The air is thick and cool, lending a chill that makes the conditions feel slightly damp. A gentle breeze whispers from the south at around 10 mph, creating an eerie stillness as visibility is greatly reduced along the shoreline. \n\nToday\u2019s forecast suggests the fog may persist, with a slight chance of drizzle adding to the misty ambiance. As we move into the evening, expect more patchy fog and a chance of light rain showers, especially after midnight. Tonight's temperatures will drift down to the upper 30s, with winds picking up slightly, gusting to 20 mph. Given the overall dreary conditions, it\u2019s advisable to dress warmly, perhaps with a waterproof jacket or a cozy sweater, as the weather feels far from inviting. This time of year typically brings cool temperatures in the region, aligning with this season's patterns. Despite the damp chill, it may be a good day for a peaceful stroll along the beach\u2014though the picturesque view might be obscured, the fog offers a unique tranquility that some might find appealing.",
-    "color_code": "#848B6A",
-    "timestamp": "2024-12-15 10:05:26"
+    "weather_report": "In Evanston, Illinois, currently, the weather is characterized by a damp chill with temperatures resting in the low 40s. The persistent fog enshrouds the area, creating a muted atmosphere, while a gentle breeze whispers in from the south. Despite the coolness, the day unfolds with a cloudy veil, and while areas of fog are present, there's a slight chance of rain showers later on, particularly after midnight.\n\nAs we move through the day, expect to experience an uninviting yet typical winter\u2019s chill for this part of the country. The conditions are not ideal for outdoor pursuits; the softness of the sandy beach may appear more inviting than the biting cool air would suggest. However, if you choose to venture out, be prepared for the brisk conditions and potential for light rain. Dress warmly, perhaps in layers, to navigate the lethargic chill. As for the waves, they will likely appear low and gentle, offering a serene, albeit foggy view of Lake Michigan that might pique the interest of solitary walkers or contemplative souls drawn to the water\u2019s edge. Remember, while it's a quiet day and not a recognized holiday, the upcoming celebrations soon may spark joy in the community spirit.",
+    "color_code": "#B0C4D3",
+    "timestamp": "2024-12-15 11:04:46"
 }
