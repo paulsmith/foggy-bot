@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T17:35:00+00:00",
+            "timestamp": "2024-12-15T17:51:00+00:00",
             "temperature_f": 44.06,
             "temperature_c": 6.7,
-            "humidity": 95.953424201417,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 150,
-            "description": ""
+            "humidity": 92.692530298592,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-15T12:00:00-06:00",
+                "startTime": "2024-12-15T13:00:00-06:00",
                 "endTime": "2024-12-15T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "S",
+                "windSpeed": "5 mph",
+                "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/fog?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Cloudy, with a high near 43. South wind 5 to 10 mph."
+                "detailedForecast": "Patchy fog. Cloudy, with a high near 43. South southwest wind around 5 mph, with gusts as high as 10 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 40
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/fog/rain_showers,40?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog before 1am, then patchy fog and a slight chance of rain showers between 1am and 2am, then a chance of rain showers and patchy fog. Cloudy. Low around 40, with temperatures rising to around 42 overnight. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%."
+                "detailedForecast": "Patchy fog before 1am, then patchy fog and a slight chance of rain showers between 1am and 2am, then a chance of rain showers and patchy fog. Cloudy. Low around 40, with temperatures rising to around 42 overnight. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather presents a cool, somewhat dreary picture, with temperatures in the low 40s and a strong blanket of fog hanging in the air. The gentle breeze from the south, coupled with the dampness, makes it feel quite crisp. As the day progresses, expect more of the same, with clouds enveloping the skies and the potential for rain showers developing later this evening. Currently, the conditions are less than ideal for outdoor activities, with wave action on the lake appearing mild, though the fog may obscure visibility.\n\nTonight, as the temperature dips to around 40, with a slow rise after midnight, it's advisable to wear a light jacket or layered clothing to stay comfortable. Given the damp atmosphere and upcoming chance of rain, it may be best to plan indoor activities or an early evening stroll along the beach to enjoy the moody ambiance. Today is not marked by any significant holidays, setting a tranquil pace before the festivities of the upcoming weeks.",
+    "weather_report": "The current weather in Evanston, Illinois, presents a damp and muted atmosphere, with temperatures hovering in the low 40s and a persistent fog enveloping the landscape. The stillness in the air is palpable, creating a hauntingly serene beach scene along Lake Michigan. As we look ahead, expect a continuation of patchy fog throughout the day, with overcast skies casting a somber yet calming light. This afternoon, temperatures may reach near 43, accompanied by gentle winds from the south, which could pick up slightly later on.\n\nAs night descends, anticipate more fog and a slight potential for rain showers late into the early hours. With overnight lows around 40, you might feel a bit of a chill, particularly with the moisture in the air. It would be wise to stay bundled up; a warm jacket and possibly an umbrella could serve you well, especially with the forecast hinting at a 40% chance of precipitation. Given the seasonal chill of mid-December in this part of the world, these conditions are typical, holding true to the wintry mood and the holiday spirit hanging in the air. If venturing out, consider taking a walk along the beach to savor the stillness of the foggy shores, though the wave conditions are expected to be mild, offering a peaceful respite rather than tumultuous surf.",
     "color_code": "#A0A0A0",
-    "timestamp": "2024-12-15 12:06:10"
+    "timestamp": "2024-12-15 13:04:45"
 }
