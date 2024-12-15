@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T08:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 100,
+            "timestamp": "2024-12-15T10:21:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 96.555499312154,
             "wind_speed_mph": 20.93832,
-            "wind_direction": 130,
+            "wind_direction": 150,
             "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-15T04:00:00-06:00",
+                "startTime": "2024-12-15T05:00:00-06:00",
                 "endTime": "2024-12-15T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 40
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
                 "shortForecast": "Areas Of Drizzle",
-                "detailedForecast": "Areas of drizzle and patchy fog. Cloudy. Low around 37, with temperatures rising to around 40 overnight. South southeast wind 10 to 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Areas of drizzle and patchy fog. Cloudy. Low around 37, with temperatures rising to around 40 overnight. South southeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current scene is marked by cool temperatures hovering in the mid 30s, accompanied by a blanket of dense fog and light drizzle that shrouds the familiar landscape. The air feels brisk and a bit damp, with a gentle breeze whispering off Lake Michigan, contributing to an overall murky and unsettled ambiance that may leave residents yearning for clearer skies. As we look ahead, the forecast indicates that the drizzle and fog will persist throughout the day, with cloudy skies and a high approaching the low 40s, making it a day best spent indoors. \n\nWith wave conditions likely to be calm at the beach due to the minimal wind, it may not be an ideal moment for boating or outdoor activities. Light raingear is recommended for anyone braving the elements, along with warm layers to fend off the chill as temperatures slowly rise throughout the night. While the day itself does not fall on a notable holiday, the cozy atmosphere may inspire some to enjoy the soft glow of holiday lights as winter unfolds. Given the season, these temperatures align with what one might expect in mid-December, set against a backdrop of winter routines and preparations for the festivities ahead.",
-    "color_code": "#5C5D6C",
-    "timestamp": "2024-12-15 04:05:05"
+    "weather_report": "In Evanston, the weather brings a distinctly chilly atmosphere this morning, with temperatures in the mid 30s making for a cool and damp day ahead. Light drizzle continues to fall, accompanied by swirling fog that blankets the lakeshore, contributing to a misty, atmospheric scene. As we look to the forecast, expect similar conditions to persist throughout the day, with overcast skies prevailing and temperatures nudging their way up to the low 40s by afternoon. A gentle breeze from the south will provide slight relief from the chill, although the dampness may make it feel chillier than it actually is.\n\nThe beach may not present ideal conditions for a leisurely stroll due to the ongoing precipitation and reduced visibility, but for those who don warm clothing, a brisk walk along the shore could still be invigorating. Swimmers and boaters should be mindful of the wave conditions, which could be moderate given the wind\u2019s strength, though the lake\u2019s surface will be tempered by the current drizzle. Layering is recommended\u2014think warm coats, hats, and perhaps waterproof footwear\u2014to brace against the cool moisture. Overall, despite the dreary weather, it captures the true essence of a winter morning by Lake Michigan, with the season\u2019s characteristic chill felt in every breath.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-12-15 05:04:59"
 }
