@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-16T08:36:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 100,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 140,
-            "description": "Light Drizzle and Fog"
+            "timestamp": "2024-12-16T09:21:00+00:00",
+            "temperature_f": 44.06,
+            "temperature_c": 6.7,
+            "humidity": 95.953424201417,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 180,
+            "description": "Drizzle and Fog"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-16T03:00:00-06:00",
+                "startTime": "2024-12-16T04:00:00-06:00",
                 "endTime": "2024-12-16T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 20
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 4am, then patchy fog and a slight chance of rain showers. Cloudy. Low around 39, with temperatures rising to around 42 overnight. South wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and a slight chance of rain showers. Cloudy. Low around 39, with temperatures rising to around 42 overnight. South wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a rather bleak scene, as light drizzle and dense fog envelop the area. With temperatures in the low 40s and blustery winds from the southeast, the atmosphere feels damp and chilly, creating a distinctly wintry environment just shy of the official start of winter. Visibility is limited, and the forecast for the day indicates an ongoing chance of rain showers, especially before dawn, followed by intermittent fog and potentially more drizzle as temperatures hover around the high 30s overnight.\n\nAs we look ahead to the day, expect cloudy skies with a high reaching near 50 in the afternoon, but temperatures will tend to drop back into the low 40s. While there remains a slight chance of rain, the overall wave conditions on Lake Michigan are likely calm due to the moderating winds, although occasional gusts could add some degree of chop. Given today\u2019s chilly temperatures and moist air, dressing warmly with layers and waterproof outerwear is advisable for anyone venturing out. Although it's not a holiday today, the atmosphere may discourage outdoor festivities, making it a good day to enjoy cozy indoor activities or perhaps explore local cafes while watching the fog roll over the lake.",
-    "color_code": "#8B8B7A",
-    "timestamp": "2024-12-16 03:06:27"
+    "weather_report": "In Evanston, the current weather presents a rather murky scene, with temperatures in the low 40s, accompanied by a moist chill that clings to the air. A gentle breeze flows in from the south at around 12 miles per hour, adding a slight edge to the damp conditions, while persistent drizzle creates a soft curtain of gray across the landscape. The visibility is significantly reduced, making for a somewhat dreary atmosphere along the shoreline.\n\nAs we move into the day, expect the visibility to remain limited with areas of fog lingering and a slight chance of rain showers. Clouds will dominate the sky, keeping temperatures steady, peaking in the high 40s before slipping back into the low 40s by the afternoon. With the wave conditions likely moderate from the ongoing drizzle and the gentle winds, those looking to venture out might find the environment rather uninviting. Recommended attire would include a waterproof jacket and perhaps a warm layer beneath, to combat the damp chill in the air. \n\nConsidering it's mid-December, these conditions align with the typical chill of the season here in the Midwest, embodying that classic wintry feel. Outdoor activities may be limited, but the cozy respite of cafes or art galleries would offer a warm reprieve from the weather. Today is also a non-holiday Saturday, providing a chance for locals to enjoy a subdued weekend while staying dry and warm indoors.",
+    "color_code": "#7E9EBC",
+    "timestamp": "2024-12-16 04:06:26"
 }
