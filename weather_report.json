@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-16T03:51:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 91.984495702735,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 170,
+            "timestamp": "2024-12-16T05:40:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 92.658542027292,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 190,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-15T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-16T00:00:00-06:00",
                 "endTime": "2024-12-16T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain/rain,50?size=medium",
-                "shortForecast": "Patchy Drizzle then Areas Of Fog",
-                "detailedForecast": "Patchy drizzle and patchy fog before midnight, then areas of fog and patchy drizzle between midnight and 2am, then areas of fog and a chance of rain. Cloudy. Low around 42, with temperatures rising to around 44 overnight. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog and patchy drizzle before 2am, then areas of fog and a chance of rain. Cloudy. Low around 42, with temperatures rising to around 44 overnight. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,40/bkn?size=medium",
                 "shortForecast": "Areas Of Fog then Mostly Cloudy",
-                "detailedForecast": "Areas of fog and a chance of rain before 11am. Mostly cloudy. High near 52, with temperatures falling to around 44 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Areas of fog and a chance of rain before 11am. Mostly cloudy. High near 52, with temperatures falling to around 44 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, the evening is marked by a cool dampness as temperatures rest comfortably in the low 40s, surrounded by a shroud of clouds that lends the scene a moody, contemplative air. The brisk breeze from the south is quite noticeable, moving with a spirited intensity that could make for a rather blustery outing if one steps outside. As night falls, areas of fog are anticipated, mingling with possible patchy drizzle, creating an environment that evokes the quiet charm of a winter evening beside Lake Michigan. \n\nLooking ahead to Monday, early risers can expect lingering fog and a chance of rain before the sun takes center stage. The day may start overcast, but there's promise of a gradual shift as temperatures move upwards, peaking near the lower 50s, only to drop again in the afternoon. While rain showers are expected to remain light, they could further contribute to the chilly atmosphere. Given the season, these temperatures are typical for December in the Midwest, encapsulating that crisp, wintry feel. Layering up is advisable\u2014think warm sweaters and perhaps a waterproof jacket for those venturing outside, particularly for a stroll along the beach or a quick visit to local parks. While a brisk walk by the water may appeal to the more adventurous, those preferring to stay warm can find solace indoors, perhaps with a comforting hot drink in hand.",
-    "color_code": "#8B9DC8",
-    "timestamp": "2024-12-15 23:06:09"
+    "weather_report": "In Evanston, Illinois, the current weather presents a chilly night view, characterized by a balmy temperature in the low 40s and a thick blanket of fog lurking in the darkness. With winds howling at nearly 40 miles per hour, the air carries an unmistakable chill, making the waterfront scene one of quiet stillness. Early morning forecasts predict areas of fog and a chance of rain, giving way to a day punctuated by mostly cloudy skies and temperatures rising slightly before settling back to the mid-40s in the afternoon. While the winds will remain notable, shifting to a gentle southwest breeze, the chance for light rainfall lingers through the morning.\n\nThe atmosphere remains decidedly wintry, typical for this mid-December period, adrift with potential drizzle that could lend a moody undertone to the coastline. With the lake likely choppy from the brisk winds, conditions may not be ideal for water activities. As the day unfolds, it may be best to don layers, opting for a warm coat to counter the dampness, perhaps paired with a hat and gloves to brace against the persistent wind. This day invites a cozy retreat indoors\u2014ideal for a warm cup of coffee or tea\u2014rather than trifling with the bustling atmosphere outside. With winter holidays on the horizon, this Saturday evening finds the community reflecting on the seasonal festivities, embracing the chilly charm of the season\u2019s embrace.",
+    "color_code": "#5A5D69",
+    "timestamp": "2024-12-16 00:07:47"
 }
