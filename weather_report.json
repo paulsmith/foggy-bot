@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-16T13:51:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 96.659876800572,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 180,
-            "description": "Light Drizzle and Fog/Mist"
+            "timestamp": "2024-12-16T15:25:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 96.022450441781,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 220,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-16T09:00:00-06:00",
+                "startTime": "2024-12-16T10:00:00-06:00",
                 "endTime": "2024-12-16T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 50,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/ovc?size=medium",
-                "shortForecast": "Areas Of Fog then Cloudy",
-                "detailedForecast": "Areas of fog before 11am. Cloudy. High near 50, with temperatures falling to around 43 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Areas Of Fog then Mostly Cloudy",
+                "detailedForecast": "Areas of fog before 11am. Mostly cloudy. High near 50, with temperatures falling to around 43 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather paints a rather dreary picture with temperatures hovering in the mid-40s and a thick blanket of fog enveloping the area, making the shoreline appear nearly ethereal. The light drizzle adds a melancholy touch, as the winds whip in from the south, creating a brisk atmosphere. Despite these chilly conditions, with a dampness permeating the air, it feels much chillier than the thermometer suggests. As we move through the day, we can expect the cloud cover to persist, with areas of fog lingering until mid-morning. A slight rise in temperature is anticipated to peak near the 50-degree mark before settling back into the low 40s this afternoon. \n\nThe roughness of the waves could pick up slightly in response to the brisk winds, which may reach gusty levels later in the day. As the evening sets in, cloudy skies will dominate, with temperatures slipping into the low 30s overnight. Given the wet and cool conditions, it is advisable to don a waterproof jacket, closed-toe shoes, and perhaps a warm hat to stave off the chill. Despite the weather's dreary demeanor, this day is not marked by any significant holiday, leaving it a quiet opportunity for a reflective walk along the water's edge, perhaps accompanied by the soothing sound of waves against the shore, inviting a serene moment with nature, albeit under gray, overcast skies.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-12-16 09:06:13"
+    "weather_report": "Current weather conditions in Evanston feel distinctly chilly, with temperatures in the low 50s and a thick layer of fog shrouding the beach. The air is damp and cool, leading to an atmosphere that's a touch dreary. Winds are brisk, coming from the west-southwest, creating a slightly blustery feel as they whip across the shoreline. Today's forecast suggests that the fog will linger until mid-morning, so visibility may be limited. Expect mostly cloudy skies, with highs reaching near 50 degrees before a drop in temperatures during the afternoon. As the day progresses, it seems likely that a gentle rain may pass through, adding to the dampness felt in the air earlier.\n\nWave conditions on Lake Michigan appear modest today; the surface may be smooth, but with the wind's gusts, caution is advised for any water activities. With the forecast indicating a rise in temperature overnight to the mid-30s, it\u2019s recommended to dress warmly in layers if venturing outside, perhaps including a coat and a scarf to fend off the chill. As we find ourselves deep in December, these temperatures are somewhat typical for this time of year in the Midwest. Though activities may be limited, a short stroll along the beach could still be refreshing, particularly with the peaceful ambiance created by the fog and the gentle sound of waves lapping at the shore.",
+    "color_code": "#5B5C54",
+    "timestamp": "2024-12-16 10:06:19"
 }
