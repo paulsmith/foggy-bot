@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-15T20:00:00-06:00",
+                "startTime": "2024-12-15T22:00:00-06:00",
                 "endTime": "2024-12-16T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -32,8 +32,8 @@
                 "windSpeed": "10 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/rain/rain,50?size=medium",
-                "shortForecast": "Patchy Drizzle then Chance Rain",
-                "detailedForecast": "Patchy drizzle and patchy fog before 2am, then patchy fog and a slight chance of rain between 2am and 3am, then a chance of rain and patchy fog. Cloudy. Low around 42, with temperatures rising to around 44 overnight. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "shortForecast": "Patchy Drizzle then Areas Of Fog",
+                "detailedForecast": "Patchy drizzle and patchy fog before midnight, then areas of fog and patchy drizzle between midnight and 2am, then areas of fog and a chance of rain. Cloudy. Low around 42, with temperatures rising to around 44 overnight. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -51,12 +51,12 @@
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,40/bkn?size=medium",
-                "shortForecast": "Chance Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain and patchy fog before 8am, then patchy fog and a slight chance of rain between 8am and 11am. Mostly cloudy. High near 52, with temperatures falling to around 44 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "shortForecast": "Areas Of Fog then Mostly Cloudy",
+                "detailedForecast": "Areas of fog and a chance of rain before 11am. Mostly cloudy. High near 52, with temperatures falling to around 44 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, the current outdoor conditions are marked by a chilly feel with temperatures in the low 40s and a gentle mist of light drizzle adding a damp chill to the air. The sky is overcast, creating a rather gray and uninviting atmosphere that might deter leisurely strolls along the beach. As night approaches, temperatures are expected to dip further, bringing patchy fog and a potential for light rain overnight, with environments getting slightly warmer as the morning rises into the mid-40s. \n\nThe wave conditions in Lake Michigan are relatively calm, although in the presence of a gentle breeze that may pick up slightly overnight. The likelihood of rain tomorrow morning also suggests you should check the weather before planning any outdoor activities. Given the dampness and chill, wearing layers and a waterproof jacket is advisable, along with comfortable footwear if venturing outside. This time of year, the temperatures are fairly typical for December in Northern Illinois, adding to the seasonal charm, albeit with a damp, less than pleasant twist. For those looking to stay active, finding indoor activities like visiting local caf\u00e9s or cultural spots might be the best approach, especially on this otherwise dreary evening in December.",
-    "color_code": "#6D6E6E",
-    "timestamp": "2024-12-15 21:20:46"
+    "weather_report": "As the evening unfolds in Evanston, Illinois, temperatures hover in the low 40s, accompanied by a gentle embrace of moisture in the air, creating a chill that feels slightly raw. The wind whispers off Lake Michigan, adding a brisk current to the atmosphere while light drizzle intermittently graces the shore. Tonight, expect patchy drizzle and fog to persist, intermingled with the promise of rain that could arrive overnight, with temperatures rising slightly to around the mid-40s. \n\nTomorrow\u2019s forecast anticipates areas of fog, giving way to a mostly cloudy day, with temperatures peaking near the low 50s before retreating again. The winds will be more pronounced, shifting southwest with gusts that could whip up to near 35 mph. Overall, conditions may appear a bit dreary and uninviting, with the prospect of light waves that could gently lap at the shore, though not ideal for those seeking sun-kissed beach fun. For those venturing outside, layered clothing is advised to counter the chill, with perhaps a light rain jacket if you plan to head out after dark. Given the season, this climate is on the cooler side of typical for mid-December, a reminder of the winter chill settling in as the holidays approach. It's best to enjoy cozy indoor activities this evening, perhaps curling up with a good book or enjoying a warm beverage while watching the fog roll over the lake.",
+    "color_code": "#A0A4A8",
+    "timestamp": "2024-12-15 22:06:46"
 }
