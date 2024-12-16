@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-16T17:20:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 92.875368778185,
-            "wind_speed_mph": 33.01812,
+            "timestamp": "2024-12-16T17:51:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 89.22963410269,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 210,
-            "description": ""
+            "description": "Cloudy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, conditions are currently chilly, with temperatures in the low 50s accompanied by a dampness that makes the air feel quite raw. The atmosphere is dominated by overcast skies, lending a somber hue to the landscape, while a brisk wind from the west-southwest adds a sharp bite to the chilly air, making it feel even cooler. As the day progresses, expect the clouds to linger, with temperatures gradually falling to the low 40s by the afternoon, and blustery gusts could reach up to 25 miles per hour, enhancing that sense of chill. \n\nTonight, you can anticipate a low settling around freezing, followed by a slight rise in temperature as the night deepens, with winds continuing to blow steadily. With no precipitation in sight, the lack of rain offers relief from the otherwise damp conditions. Given these elements, a warm jacket, perhaps layered with a sweater or scarf, is advisable for anyone venturing outside. As we move through December, such temperatures are typical for the region, generally aligning with seasonal expectations. For those considering outdoor activities, a brisk walk along the beach could be refreshing, but the cold and wind may deter leisurely beach outings. Decorate your evening plans with a warm drink indoors, perhaps watching the lake\u2019s tranquil waves rolling against the rocky shore.",
-    "color_code": "#B0C4D9",
-    "timestamp": "2024-12-16 12:07:07"
+    "weather_report": "Evanston, Illinois, is currently experiencing a chill in the air, with cloudy skies obscuring the sun and ushering in the season's briskness. The temperature hovers in the low 50s, accompanied by a persistent dampness that makes the day feel cooler than it is. A strong, gusty wind is whipping across the shore, lending a wild edge to the atmosphere and creating potentially choppy waves on Lake Michigan. As we move through the afternoon, expect mostly cloudy conditions, bringing temperatures down to around the low 40s. Tonight, the clouds will likely remain in place, with a low settling into the low 30s, then gradually rising overnight.\n\nThe scene at the beach is likely to be somewhat dreary, with few people braving the elements\u2014a stark contrast to the vibrant summer days that are long past. The shoreline may see some wave action, though it is not anticipated to be significant. As for precipitation, there are no major storms anticipated, so the chance of rain or snow seems minimal at this time. For those venturing outdoors, layering up with warm clothing is a must\u2014opt for a good coat, sturdy boots, and perhaps a scarf to fend off the wind. Given the December chill, activities could include a brisk walk along the beach or enjoying a cozy cup of coffee at a nearby caf\u00e9, while holiday gatherings are just around the corner, adding a hint of warmth to the winter chill.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-16 13:05:04"
 }
