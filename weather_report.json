@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-16T17:51:00+00:00",
+            "timestamp": "2024-12-16T19:38:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
-            "humidity": 89.22963410269,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 210,
+            "humidity": 85.680481185637,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 240,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-16T12:00:00-06:00",
+                "startTime": "2024-12-16T14:00:00-06:00",
                 "endTime": "2024-12-16T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 50,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston, Illinois, is currently experiencing a chill in the air, with cloudy skies obscuring the sun and ushering in the season's briskness. The temperature hovers in the low 50s, accompanied by a persistent dampness that makes the day feel cooler than it is. A strong, gusty wind is whipping across the shore, lending a wild edge to the atmosphere and creating potentially choppy waves on Lake Michigan. As we move through the afternoon, expect mostly cloudy conditions, bringing temperatures down to around the low 40s. Tonight, the clouds will likely remain in place, with a low settling into the low 30s, then gradually rising overnight.\n\nThe scene at the beach is likely to be somewhat dreary, with few people braving the elements\u2014a stark contrast to the vibrant summer days that are long past. The shoreline may see some wave action, though it is not anticipated to be significant. As for precipitation, there are no major storms anticipated, so the chance of rain or snow seems minimal at this time. For those venturing outdoors, layering up with warm clothing is a must\u2014opt for a good coat, sturdy boots, and perhaps a scarf to fend off the wind. Given the December chill, activities could include a brisk walk along the beach or enjoying a cozy cup of coffee at a nearby caf\u00e9, while holiday gatherings are just around the corner, adding a hint of warmth to the winter chill.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-16 13:05:04"
+    "weather_report": "Current conditions in Evanston reveal a chilly afternoon marked by cloudy skies and a fierce breeze sweeping off Lake Michigan. The temperature hovers in the low 50s, while the air feels damp, creating a rather brisk atmosphere. As the day progresses, expect temperatures to cool further, dropping to the mid 40s, accompanied by a persistent west-southwest wind that may gust up to 25 mph. For tonight, the cloudy skies will remain, with temperatures settling around the freezing mark and a slight rise overnight.\n\nThe beach appears rather tranquil today, but the wave conditions, given the strong winds, could be choppy. There is no immediate precipitation expected, which keeps outdoor activities feasible, albeit chilly. As for attire, dressing in layers is recommended to fend off the biting wind. With the holiday season approaching, this afternoon is an opportune time for brisk walks along the shoreline or cozy gatherings indoors. Overall, while pleasantness may be somewhat limited due to the weather, the beauty of the lakeshore remains a delightful backdrop for winter activities.",
+    "color_code": "#A1A8B7",
+    "timestamp": "2024-12-16 14:06:08"
 }
