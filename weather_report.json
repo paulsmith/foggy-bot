@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-16T15:25:00+00:00",
+            "timestamp": "2024-12-16T16:07:00+00:00",
             "temperature_f": 48.02,
             "temperature_c": 8.9,
             "humidity": 96.022450441781,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 220,
+            "wind_direction": 240,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-16T10:00:00-06:00",
+                "startTime": "2024-12-16T11:00:00-06:00",
                 "endTime": "2024-12-16T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 50,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Areas Of Fog then Mostly Cloudy",
-                "detailedForecast": "Areas of fog before 11am. Mostly cloudy. High near 50, with temperatures falling to around 43 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. High near 50, with temperatures falling to around 43 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston feel distinctly chilly, with temperatures in the low 50s and a thick layer of fog shrouding the beach. The air is damp and cool, leading to an atmosphere that's a touch dreary. Winds are brisk, coming from the west-southwest, creating a slightly blustery feel as they whip across the shoreline. Today's forecast suggests that the fog will linger until mid-morning, so visibility may be limited. Expect mostly cloudy skies, with highs reaching near 50 degrees before a drop in temperatures during the afternoon. As the day progresses, it seems likely that a gentle rain may pass through, adding to the dampness felt in the air earlier.\n\nWave conditions on Lake Michigan appear modest today; the surface may be smooth, but with the wind's gusts, caution is advised for any water activities. With the forecast indicating a rise in temperature overnight to the mid-30s, it\u2019s recommended to dress warmly in layers if venturing outside, perhaps including a coat and a scarf to fend off the chill. As we find ourselves deep in December, these temperatures are somewhat typical for this time of year in the Midwest. Though activities may be limited, a short stroll along the beach could still be refreshing, particularly with the peaceful ambiance created by the fog and the gentle sound of waves lapping at the shore.",
-    "color_code": "#5B5C54",
-    "timestamp": "2024-12-16 10:06:19"
+    "weather_report": "In Evanston, Illinois, the current scene is characterized by a chilly atmosphere, wrapped in fog and mist, with temperatures lingering in the low 40s. The air feels damp and crisp, a reminder of the season's encroaching cold, as a moderate, gusty wind sweeps from the west-southwest, adding a bit of a biting chill to the air. As the day unfolds, forecasters predict mostly cloudy skies, with a high reaching near 50 before settling back into the mid-30s during the evening. Occasional light rain may add to the overall dampness, but significant precipitation is minimal, making the day feel more dreary than wet.\n\nGiven these conditions, the beach may appear somber and uninviting, with calm waves reflecting the muted, overcast sky. For those venturing outside, layering clothing appropriately is recommended to fend off the chill: a warm jacket, perhaps with a scarf, will ensure comfort against the brisk breezes. While this weather is typical for mid-December in the Midwest, it may not be ideal for outdoor activities. However, for those willing to brave the elements, a brisk walk along the shoreline could provide a serene escape, though indoor endeavors would certainly be more pleasurable today. As the weekend unfolds, the cold and dampness serve as a gentle reminder of winter's imminent arrival.",
+    "color_code": "#7C9CD2",
+    "timestamp": "2024-12-16 11:05:13"
 }
