@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-16T20:23:00+00:00",
+            "timestamp": "2024-12-16T20:51:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
-            "humidity": 86.141284587185,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 250,
-            "description": "Mostly Cloudy"
+            "humidity": 79.870781661168,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 260,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-16T15:00:00-06:00",
+                "startTime": "2024-12-16T16:00:00-06:00",
                 "endTime": "2024-12-16T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 52,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "15 mph",
-                "windDirection": "WSW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 52, with temperatures falling to around 44 in the afternoon. West southwest wind around 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly cloudy. High near 52, with temperatures falling to around 44 in the afternoon. West wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly scene, with temperatures in the low 50s and a distinct overcast sky. A blustery wind from the west is making the air feel brisk, accentuating the dampness typical of a December day by Lake Michigan. The beach appears calm, with only gentle ripples breaking the water's surface, reflecting the gray skies above and offering a somber yet serene view. No precipitation is noted, allowing for a clear but chilly atmosphere.\n\nThe forecast indicates a continuation of mostly cloudy skies throughout the afternoon, with temperatures dropping back into the mid 40s, accompanied by a steady breeze expectant of gusts. Tonight, the low will retreat to the mid 30s, so layering is essential for comfort if venturing outdoors. This weather is consistent with the season in this part of the Midwest, where December chills define the landscape. For those seeking fresh air, bundled-up walks along the lakefront could provide a refreshing outlet, as long as they are prepared for the cool, blustery conditions. With no holidays in observance today, the serene allure of the lakeside can serve as a momentary escape into nature for the community.",
-    "color_code": "#A9B0B3",
-    "timestamp": "2024-12-16 15:05:08"
+    "weather_report": "Currently in Evanston, the air is brisk and somewhat damp, with temperatures hovering in the upper 40s, and a substantial wind sweeping in at a blustery pace from the west, making it feel noticeably cooler. The sky is draped in thick clouds, casting a muted gray over the environment, complementing the chill of the day. As we look ahead, the weather will remain mostly cloudy, with a high today reaching into the low 50s before dipping to the low 30s tonight. Winds will remain steady but should ease slightly, creating a somewhat calmer atmosphere in the evening.\n\nFor those heading outdoors, it's best to dress warmly, as the damp chill combines with the wind to create an uncomfortable bite. As for water conditions on Lake Michigan, expect moderate waves, making it less than ideal for swimming or water sports. Given the calendar, today may find people preferring indoor activities or cozy gatherings, especially with the season's chill intensifying as winter approaches. Without a significant holiday on the horizon, the focus today will likely be on enjoying seasonal pastimes while staying bundled up.",
+    "color_code": "#8B8B8B",
+    "timestamp": "2024-12-16 16:05:16"
 }
