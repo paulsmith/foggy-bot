@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-16T06:30:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 100,
+            "timestamp": "2024-12-16T07:35:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 96.601586728182,
             "wind_speed_mph": 37.04472,
-            "wind_direction": 180,
-            "description": "Fog"
+            "wind_direction": 150,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-16T01:00:00-06:00",
+                "startTime": "2024-12-16T02:00:00-06:00",
                 "endTime": "2024-12-16T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 41,
@@ -33,7 +33,7 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
                 "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog and patchy drizzle before 2am, then areas of fog and a chance of rain. Cloudy, with a low around 41. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Areas of fog and a chance of rain. Cloudy, with a low around 41. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 20
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40/ovc?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/ovc?size=medium",
                 "shortForecast": "Areas Of Fog then Cloudy",
-                "detailedForecast": "Areas of fog and a chance of rain before 11am. Cloudy. High near 50, with temperatures falling to around 43 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Areas of fog and a chance of rain before 11am. Cloudy. High near 50, with temperatures falling to around 43 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly scene, with temperatures resting in the low 40s and an oppressive blanket of fog shrouding the area. The air is thick, contributing to a rather gloomy atmosphere along the beach. The wind is howling at a brisk pace, making it feel even cooler and stirring the waters of Lake Michigan. The ongoing fog and the high chance of light rain in the forecast suggest limited visibility, so outdoor activities may be hampered by these damp and dreary conditions.\n\nAs we look ahead to Monday, expect continued cloudy skies and areas of fog with temperatures expected to peak in the high 40s before they gradually decline in the afternoon. Gusty winds from the southwest will make their presence known, pushing through at around 10 to 15 mph and creating choppy wave conditions on the lake. Dress warmly in layers, perhaps with a waterproof layer handy, as light rain may dampen the day ahead. Given these conditions, it might be best to stay indoors, enjoying a cozy cup of coffee or catching up on reading, rather than venturing out to the beach.",
-    "color_code": "#A1A1A1",
-    "timestamp": "2024-12-16 01:06:07"
+    "weather_report": "Currently in Evanston, it's a chilly and damp night, with temperatures lingering in the low 40s. The air is heavy with fog and mist, making visibility quite poor as winds blow from the south at a brisk pace. As we look ahead to the day, a continuation of these murky conditions is expected. Areas of fog will linger overnight, accompanied by a chance of rain that might add a touch more moisture to the already saturated ground. The forecast suggests a cloudy Monday with highs reaching into the upper 40s, before cooling back down throughout the afternoon.\n\nIn terms of aesthetic appeal, the scene is likely to feel quite dreary, with the combination of mist and clouds giving a muted appearance to what should be a vibrant beach view. The waves on Lake Michigan are expected to be moderate but likely choppy due to the winds, which could be rough for small craft. Given the conditions, an umbrella or a light raincoat would be wise to carry, along with warm clothing to fend off the chill. This weather is typical for mid-December in the Midwest, where the temperatures reflect the onset of winter\u2019s embrace. While outdoor activities might be limited, it could still be a good opportunity for a brisk walk along the beach\u2014just be prepared for getting a bit damp.",
+    "color_code": "#757B7C",
+    "timestamp": "2024-12-16 02:07:56"
 }
