@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-16T02:51:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 92.658542027292,
+            "timestamp": "2024-12-16T03:51:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 91.984495702735,
             "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 180,
-            "description": "Light Drizzle"
+            "wind_direction": 170,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-15T22:00:00-06:00",
+                "startTime": "2024-12-15T23:00:00-06:00",
                 "endTime": "2024-12-16T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the evening unfolds in Evanston, Illinois, temperatures hover in the low 40s, accompanied by a gentle embrace of moisture in the air, creating a chill that feels slightly raw. The wind whispers off Lake Michigan, adding a brisk current to the atmosphere while light drizzle intermittently graces the shore. Tonight, expect patchy drizzle and fog to persist, intermingled with the promise of rain that could arrive overnight, with temperatures rising slightly to around the mid-40s. \n\nTomorrow\u2019s forecast anticipates areas of fog, giving way to a mostly cloudy day, with temperatures peaking near the low 50s before retreating again. The winds will be more pronounced, shifting southwest with gusts that could whip up to near 35 mph. Overall, conditions may appear a bit dreary and uninviting, with the prospect of light waves that could gently lap at the shore, though not ideal for those seeking sun-kissed beach fun. For those venturing outside, layered clothing is advised to counter the chill, with perhaps a light rain jacket if you plan to head out after dark. Given the season, this climate is on the cooler side of typical for mid-December, a reminder of the winter chill settling in as the holidays approach. It's best to enjoy cozy indoor activities this evening, perhaps curling up with a good book or enjoying a warm beverage while watching the fog roll over the lake.",
-    "color_code": "#A0A4A8",
-    "timestamp": "2024-12-15 22:06:46"
+    "weather_report": "In Evanston, the evening is marked by a cool dampness as temperatures rest comfortably in the low 40s, surrounded by a shroud of clouds that lends the scene a moody, contemplative air. The brisk breeze from the south is quite noticeable, moving with a spirited intensity that could make for a rather blustery outing if one steps outside. As night falls, areas of fog are anticipated, mingling with possible patchy drizzle, creating an environment that evokes the quiet charm of a winter evening beside Lake Michigan. \n\nLooking ahead to Monday, early risers can expect lingering fog and a chance of rain before the sun takes center stage. The day may start overcast, but there's promise of a gradual shift as temperatures move upwards, peaking near the lower 50s, only to drop again in the afternoon. While rain showers are expected to remain light, they could further contribute to the chilly atmosphere. Given the season, these temperatures are typical for December in the Midwest, encapsulating that crisp, wintry feel. Layering up is advisable\u2014think warm sweaters and perhaps a waterproof jacket for those venturing outside, particularly for a stroll along the beach or a quick visit to local parks. While a brisk walk by the water may appeal to the more adventurous, those preferring to stay warm can find solace indoors, perhaps with a comforting hot drink in hand.",
+    "color_code": "#8B9DC8",
+    "timestamp": "2024-12-15 23:06:09"
 }
