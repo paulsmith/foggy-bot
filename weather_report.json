@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-17T04:51:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 82.472737837653,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 240,
+            "timestamp": "2024-12-17T05:51:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 81.812485552844,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 250,
             "description": "Clear"
         },
         "forecast": [
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a brisk atmosphere with temperatures hovering in the mid-30s and a notable chill in the air, accentuated by gusty winds sweeping in from the west. The skies boast a clear view, though the evening forecasts indicate a shift to overcast as we transition into the overnight hours, with lows dipping to around the low 30s. The winds will continue, remaining notably blustery, and will likely cause that cold to bite a bit more as you venture outdoors.\n\nAs for the day ahead, expect partly sunny skies in the morning, giving way to clouds by afternoon while temperatures peak near 40 degrees before decreasing slightly later in the day. Given this winter setting, the weather is seasonally typical \u2014 cool and crisp with a touch of bluster. As for activities, it might be a good day for a brisk walk along the beach, but with waves likely churning up along the shore, staying closer to the park's edge is advisable. Dress warmly, with layers to fend off the chill, especially if you plan on being outside during those breezy spells.",
-    "color_code": "#4A8C99",
-    "timestamp": "2024-12-17 00:07:34"
+    "weather_report": "As the clock approaches the early hours of December 17th in Evanston, Illinois, the air carries a crisp and cool feel, with current temperatures hovering in the mid 30s. The calmness of the night is punctuated by a gentle breeze, although it can occasionally turn gusty, reflecting the wintry atmosphere typical for this season. With the clear sky overhead, it is a peaceful, albeit chilly, evening along Lake Michigan.\n\nLooking ahead to the day, expect mostly cloudy skies overnight giving way to a partly sunny Tuesday. Daytime highs will rise to the low 40s, tapering off to the upper 30s in the afternoon. This shift brings a blend of cool and slightly overcast weather befitting the early winter scene, where brisk winds may add a bite to the air. Given the absence of precipitation and the relatively calm lake conditions, this day could be perfect for bundled-up strolls along the shoreline or a visit to the local parks. As we embrace this chilly December day, dress warmly with layers, including a heavy coat, gloves, and a hat to ward off the cool breezes.",
+    "color_code": "#3C3C3E",
+    "timestamp": "2024-12-17 01:05:54"
 }
