@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-16T20:00:00-06:00",
+                "startTime": "2024-12-16T21:00:00-06:00",
                 "endTime": "2024-12-17T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 34,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening descends on Evanston, the atmosphere is brisk, with temperatures hovering in the mid-30s, a typical chill for mid-December in this lakeside community. The air feels particularly refreshing, enhanced by a gusty wind that sweeps in from the west, reminding one of winter's firm grip. Currently, the skies are partly cloudy, offering a glimpse of stars amidst the clouds, but no rain or snow is expected to dampen the mood. \n\nLooking ahead to tomorrow, conditions will remain partly sunny with high temperatures barely reaching the upper 30s before retreating as the day wears on. Winds will calm down slightly, shifting to a more gentle breeze. With a thin layer of clouds and a cooling forecast, attire should lean towards warm layers, perhaps a sturdy coat, scarf, and gloves. For those in the area, the increasingly cozy evening invites indoor activities, while the daytime promises a brisk but invigorating atmosphere, perfect for a stroll along the shore or a visit to one of the local cafes to savor a warm drink. Given that today is neither a holiday nor a significant event, there\u2019s openness to seize the day with leisurely winter pursuits.",
-    "color_code": "#4A4E5A",
-    "timestamp": "2024-12-16 20:32:13"
+    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere, with temperatures hovering in the mid to high 30s. The air carries a briskness, stirred by a fierce wind sweeping in from the west, creating a sharp bite particularly along the lakeshore. With skies partly cloudy, visibility remains reasonably clear, but as night descends, the beach presents a tranquil yet stark scene. Wave activity is likely amplified by the wind, suggesting a lively lakefront that could be both beautiful and tumultuous at times.\n\nThe forecast for tonight hints at more of the same: partly cloudy skies and cooling temperatures dipping further down towards freezing. The winds will mellow slightly, making for a less blustery experience, though still brisk enough to need a warm layer when stepping outdoors. In this cold season, the current temperatures are quite typical for mid-December in this region, which is known for its frigid climate. Given these conditions, cozy attire is advisable\u2014think heavy coats, warm scarves, and perhaps a hat to keep the cold at bay. For those longing to embrace the outdoors, a stroll along the beach could provide a serene escape, though one should be cautious of the wind and chill. As a reminder, this evening does not mark a holiday, but the spirit of the season is certainly in the air, inviting reflective moments before the festivities commence in just a few days.",
+    "color_code": "#3A3A3F",
+    "timestamp": "2024-12-16 21:18:35"
 }
