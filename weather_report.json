@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-17T03:51:00+00:00",
+            "timestamp": "2024-12-17T04:51:00+00:00",
             "temperature_f": 37.94,
             "temperature_c": 3.3,
-            "humidity": 85.496461459529,
-            "wind_speed_mph": 53.95644000000001,
+            "humidity": 82.472737837653,
+            "wind_speed_mph": 49.929840000000006,
             "wind_direction": 240,
-            "description": "Mostly Clear"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-16T23:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-17T00:00:00-06:00",
                 "endTime": "2024-12-17T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 34,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 34. West wind 10 to 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 34. West wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -49,14 +49,14 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "WSW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 40, with temperatures falling to around 38 in the afternoon. West southwest wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly sunny. High near 40, with temperatures falling to around 38 in the afternoon. West wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "The weather in Evanston, Illinois, presents a cool and slightly brisk evening, with temperatures settled in the mid-30s, complemented by a notable bluster from the west, reminiscent of an eager winter wind. As you step outside, you'll feel the chill wrapping around you, making it advisable to bundle up in warm layers for comfort. The night sky is mostly clear, offering a fine view of the stars, though the air is imbued with that unmistakable winter freshness, perfect for a quiet stroll along the lakeshore.\n\nLooking ahead to tomorrow, expect partly sunny skies with temperatures creeping up to the lower 40s but then dipping back down in the afternoon. The day will carry a gentler breeze, transitioning from today\u2019s robust gusts to a milder whisper, lending itself well to leisurely activities. With no significant precipitation anticipated, it remains a fine day for outdoor fun\u2014perhaps a brisk walk or a visit to one of the local parks. \n\nThis December day is nothing out of the ordinary for the season, reflecting the characteristic chill of winter in the Midwest. So don your warmest attire, grab a warm drink, and enjoy the quiet beauty that winter brings to Lake Michigan.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2024-12-16 23:05:46"
+    "weather_report": "Current conditions in Evanston reveal a brisk atmosphere with temperatures hovering in the mid-30s and a notable chill in the air, accentuated by gusty winds sweeping in from the west. The skies boast a clear view, though the evening forecasts indicate a shift to overcast as we transition into the overnight hours, with lows dipping to around the low 30s. The winds will continue, remaining notably blustery, and will likely cause that cold to bite a bit more as you venture outdoors.\n\nAs for the day ahead, expect partly sunny skies in the morning, giving way to clouds by afternoon while temperatures peak near 40 degrees before decreasing slightly later in the day. Given this winter setting, the weather is seasonally typical \u2014 cool and crisp with a touch of bluster. As for activities, it might be a good day for a brisk walk along the beach, but with waves likely churning up along the shore, staying closer to the park's edge is advisable. Dress warmly, with layers to fend off the chill, especially if you plan on being outside during those breezy spells.",
+    "color_code": "#4A8C99",
+    "timestamp": "2024-12-17 00:07:34"
 }
