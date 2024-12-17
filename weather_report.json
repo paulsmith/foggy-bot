@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-17T00:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 79.226480114693,
-            "wind_speed_mph": 57.98304000000001,
+            "timestamp": "2024-12-17T01:51:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 82.614624284648,
+            "wind_speed_mph": 53.95644000000001,
             "wind_direction": 240,
-            "description": "Cloudy"
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-16T19:00:00-06:00",
+                "startTime": "2024-12-16T20:00:00-06:00",
                 "endTime": "2024-12-17T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 34,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 34. West wind 10 to 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 34. West wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, the coastal air feels crisp and cool under cloudy skies, with a temperature settling into the low 40s. Currently, a strong and gusty wind sweeps in from the west, creating a blustery atmosphere that combines with the chill, making it feel even colder. As we look ahead to tonight, expect mostly cloudy conditions, with temperatures dipping to the mid-30s and the wind easing slightly, though still enough to give a notable chill.\n\nFor Tuesday, the forecast offers a glimmer of brightness with partly sunny skies, although temperatures will remain on the cooler side, peaking near 40 degrees and drifting lower into the afternoon. With gusts calming down to a gentle breeze, the day will have the potential to feel more pleasant than today. Wave conditions on the lakeshore may be stirred up by the lingering winds, making it less than ideal for any laid-back beach activities. Recommend dressing in warm layers if venturing outdoors, ideally a wind-resistant jacket to combat the chill. As the region embraces the early winter season, these temperatures fall right in line with expectations\u2014typical for this time of year. Given the forecast and conditions, outdoor activities may be limited, but a brisk walk along the beach can be invigorating for those who appreciate the shoreline's winter beauty.",
-    "color_code": "#2B3A3A",
-    "timestamp": "2024-12-16 19:33:11"
+    "weather_report": "As evening descends on Evanston, the atmosphere is brisk, with temperatures hovering in the mid-30s, a typical chill for mid-December in this lakeside community. The air feels particularly refreshing, enhanced by a gusty wind that sweeps in from the west, reminding one of winter's firm grip. Currently, the skies are partly cloudy, offering a glimpse of stars amidst the clouds, but no rain or snow is expected to dampen the mood. \n\nLooking ahead to tomorrow, conditions will remain partly sunny with high temperatures barely reaching the upper 30s before retreating as the day wears on. Winds will calm down slightly, shifting to a more gentle breeze. With a thin layer of clouds and a cooling forecast, attire should lean towards warm layers, perhaps a sturdy coat, scarf, and gloves. For those in the area, the increasingly cozy evening invites indoor activities, while the daytime promises a brisk but invigorating atmosphere, perfect for a stroll along the shore or a visit to one of the local cafes to savor a warm drink. Given that today is neither a holiday nor a significant event, there\u2019s openness to seize the day with leisurely winter pursuits.",
+    "color_code": "#4A4E5A",
+    "timestamp": "2024-12-16 20:32:13"
 }
