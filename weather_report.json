@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-17T18:51:00+00:00",
+            "timestamp": "2024-12-17T19:51:00+00:00",
             "temperature_f": 37.94,
             "temperature_c": 3.3,
             "humidity": 69.749692312671,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 290,
-            "description": "Mostly Cloudy"
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 260,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-17T14:00:00-06:00",
+                "startTime": "2024-12-17T15:00:00-06:00",
                 "endTime": "2024-12-17T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 39. West wind 5 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 39. West wind around 5 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-17T18:00:00-06:00",
                 "endTime": "2024-12-18T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 32,
+                "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/ovc/snow,70?size=medium",
                 "shortForecast": "Cloudy then Snow Likely",
-                "detailedForecast": "Snow likely after midnight. Cloudy, with a low around 32. West northwest wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+                "detailedForecast": "Snow likely after midnight. Cloudy, with a low around 33. West northwest wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston today, current conditions are a brisk mix of cool temperatures and a subtle dampness in the air, with readings resting in the mid-30s. It's a day where the clouds reign over the sky, creating a milky, subdued light that may feel dreary. As the afternoon progresses, expect an increase in temperature, peaking near the high 30s, but winds from the west will bring only a gentle breeze, making it feel slightly colder than the thermometer suggests. \n\nAs night approaches, snow is likely to blanket the area after midnight, with a 70% chance of light accumulation. A calm wind from the west-northwest, gusting occasionally, will create that familiar wintry atmosphere. Given the cooling temperatures and potential for snow, dressing warmly with layers is advisable, ideally including a heavy coat, scarf, and gloves. Despite the chill, the scenery by the lake offers a serene winter charm. For those seeking outdoor activities, consider a peaceful walk along the lakeshore or enjoying the muted beauty of the landscape, but be mindful of the impending snow later in the evening.",
-    "color_code": "#A0B8D1",
-    "timestamp": "2024-12-17 14:05:56"
+    "weather_report": "In Evanston today, we find ourselves enveloped in a chill that speaks to the heart of winter. Current conditions reveal a temperature settling in the mid-to-high 30s, paired with a noticeable bluster that stirs the air. The beach scene looks overcast and dreary, suggesting a somewhat gloomy day as the clouds gather overhead. Wave conditions are likely calm along the shoreline, but with the potential for some roughness later, particularly with incoming precipitation expected after midnight.\n\nAs we move into the afternoon, the forecast indicates mostly cloudy skies, with temperatures reaching just shy of 40 degrees. Tonight, snow is likely to blanket the area, arriving with a chance of accumulating less than half an inch. With winds softly blowing from the west-northwest, layering up is advisable for those venturing outside, as the chilly air can be biting. A warm coat, perhaps a hat and gloves, would certainly make for a more comfortable outing. \n\nGiven that it\u2019s December, the current conditions align with typical winter weather for this region, though the chill might feel sharper than norm due to the wind chill factor. While outdoor activities may be curtailed by the low temperatures and impending snow, cozying up indoors with a good book or enjoying a warm drink could be the perfect remedy for a winter day like today.",
+    "color_code": "#A3C1C1",
+    "timestamp": "2024-12-17 15:04:55"
 }
