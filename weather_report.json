@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-17T09:51:00+00:00",
-            "temperature_f": 35.96,
-            "temperature_c": 2.2,
-            "humidity": 75.407684600098,
+            "timestamp": "2024-12-17T10:51:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 78.147164261716,
             "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 280,
+            "wind_direction": 260,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-17T05:00:00-06:00",
-                "endTime": "2024-12-17T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 34. West wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2024-12-17T06:00:00-06:00",
                 "endTime": "2024-12-17T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
                 "detailedForecast": "Cloudy, with a high near 39. West wind 5 to 10 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-17T18:00:00-06:00",
+                "endTime": "2024-12-18T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 32,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "0 to 5 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,70?size=medium",
+                "shortForecast": "Cloudy then Snow Likely",
+                "detailedForecast": "Snow likely after midnight. Cloudy, with a low around 32. Northwest wind 0 to 5 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks in Evanston, the air carries a crisp chill with temperatures resting in the mid-30s. The atmosphere is dense with a thick layer of clouds overhead, lending a gloomy yet tranquil feel to the winter morning. Wind gusts are fierce, whipping from the west, creating a biting sensation that underscores the cool conditions. Lake Michigan's waves may reflect this brisk energy, likely making for a somewhat tumultuous surface.\n\nLooking ahead to the day, temperatures are expected to rise only slightly, peaking in the upper 30s, while the skies remain largely overcast. Winds will shift to a gentler breeze, allowing for a bit more comfort despite the lingering chill. No precipitation is anticipated, making it a dry day overall, albeit far from inviting. With the current seasonal temperatures typical of December in the Midwest, it suggests a classic winter ambiance.\n\nGiven these conditions, layering is essential; an insulated jacket along with a hat and gloves would provide much-needed warmth while outdoors. The weather might deter long outings but offers an opportunity for serene walks along the lakefront, where the striking interplay of waves can be an inspiration for those willing to brave the cold. Today, residents are reminded to enjoy the calm before the holiday bustle reaches its peak.",
-    "color_code": "#A5A3A1",
-    "timestamp": "2024-12-17 05:05:12"
+    "weather_report": "Evanston wakes up to a chilly morning, with temperatures resting in the mid-30s and a gentle breeze stirring from the west. The sky is overcast, casting a gray hue across the lakefront as clouds obscure what may usually be a bright and inviting shoreline. Expect the weather today to maintain this cloudy demeanor, with temperatures inching upward to the upper 30s later in the day. Winds will shift to a light westward direction, creating a more soothing atmosphere compared to the howling gusts felt earlier. As night approaches, prepare for snow, likely after midnight, with a moderate chance of precipitation.\n\nGiven these conditions, it would be wise to don warm layers\u2014perhaps a cozy coat, a woolen hat, and sturdy boots\u2014as the chill lingers, particularly with the added potential for snow accumulation. Typical for this time of year in the Midwest, such winter weather can often feel biting and brisk. Any thoughts of outdoor activities should be tempered by the impending snowfall, perhaps favoring indoor pursuits such as visiting local cafes or taking in a museum exhibit. Today, as we approach the festive holiday season, the atmosphere resonates with a tranquil winter beauty, though one best appreciated from the warmth of indoors.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-17 06:08:58"
 }
