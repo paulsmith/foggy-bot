@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-17T10:51:00+00:00",
+            "timestamp": "2024-12-17T11:51:00+00:00",
             "temperature_f": 35.06,
             "temperature_c": 1.7,
-            "humidity": 78.147164261716,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 260,
+            "humidity": 75.319972812856,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 280,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-17T06:00:00-06:00",
+                "startTime": "2024-12-17T07:00:00-06:00",
                 "endTime": "2024-12-17T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston wakes up to a chilly morning, with temperatures resting in the mid-30s and a gentle breeze stirring from the west. The sky is overcast, casting a gray hue across the lakefront as clouds obscure what may usually be a bright and inviting shoreline. Expect the weather today to maintain this cloudy demeanor, with temperatures inching upward to the upper 30s later in the day. Winds will shift to a light westward direction, creating a more soothing atmosphere compared to the howling gusts felt earlier. As night approaches, prepare for snow, likely after midnight, with a moderate chance of precipitation.\n\nGiven these conditions, it would be wise to don warm layers\u2014perhaps a cozy coat, a woolen hat, and sturdy boots\u2014as the chill lingers, particularly with the added potential for snow accumulation. Typical for this time of year in the Midwest, such winter weather can often feel biting and brisk. Any thoughts of outdoor activities should be tempered by the impending snowfall, perhaps favoring indoor pursuits such as visiting local cafes or taking in a museum exhibit. Today, as we approach the festive holiday season, the atmosphere resonates with a tranquil winter beauty, though one best appreciated from the warmth of indoors.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-17 06:08:58"
+    "weather_report": "Evanston is waking up to a chilly and cloudy morning, with temperatures hovering in the mid 30s, creating a brisk atmosphere that feels notably colder with the strong southwestern winds that are gusting fiercely around 40 miles per hour. As the day unfolds, much of the sky will remain overcast, contributing to a somewhat gloomy landscape\u2014a typical winter scene along the Chicago shoreline. Looking ahead, the weather forecast indicates a high nearing 40 this afternoon, accompanied by a gentler breeze, although conditions will quickly shift tonight as snow is expected to blanket the area after midnight, with a substantial chance of precipitation giving way to new accumulation of less than an inch.\n\nIn this wintry setting, the waves on Lake Michigan will likely be gentle, lacking the tumult that comes with warmer seasons, but the beach may not beckon many to its shores under such cloudy skies. Attire suited for the day should be warm, including heavy coats, hats, and gloves, perfect for guarding against the cold and wind chill. The present temperature falls firmly within the seasonal norm for mid-December in this region, marking a typical day as the holiday season approaches. While outdoor activities might be limited due to the chilly and overcast conditions, a walk along the lakefront could be invigorating for those bundled up adequately. As we move closer to the winter solstice, a quiet weekend afternoon might allow for reflections on the season, even as hustle and bustle hints at the holidays just around the corner.",
+    "color_code": "#A9B4C0",
+    "timestamp": "2024-12-17 07:12:14"
 }
