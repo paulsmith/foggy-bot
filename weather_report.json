@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-18T15:51:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 69.291521433314,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 330,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-12-18T16:51:00+00:00",
+            "temperature_f": 33.08,
+            "temperature_c": 0.6,
+            "humidity": 71.831978021114,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 310,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-18T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-18T12:00:00-06:00",
                 "endTime": "2024-12-18T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -32,8 +32,8 @@
                 "windSpeed": "15 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 35, with temperatures falling to around 32 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph."
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 35, with temperatures falling to around 32 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "0 to 15 mph",
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 26. West northwest wind 0 to 15 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 26. West northwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "Currently in Evanston, temperatures hover in the mid-30s, presenting a crisp and cool atmosphere noted by a blustery northwest wind. The skies are partly cloudy, casting a muted light over Lake Michigan, creating an overall somewhat gloomy yet tranquil scene. Residents can expect mostly cloudy conditions for the day, with temperatures forecasted to flirt around the freezing mark, dipping slightly as the afternoon progresses. Winds will shift to a gentler pace later in the day, ranging from light to breezy, allowing for a more comfortable feel as evening approaches.\n\nWave conditions along the shore will likely be moderate, with the chilly temperatures and recent winds creating a somewhat lively atmosphere on the water. Thankfully, precipitation isn\u2019t on the agenda today, meaning that outdoor plans shouldn\u2019t be washed away. To warmly embrace the chilly climate, it would be prudent to dress in layers, opting for warm outerwear and accessories like hats and gloves, particularly if venturing outdoors or along the beach. This time of year typically sees such wintry temperatures in the Midwest, which aligns with seasonal expectations. Given the conditions, a stroll along the shoreline or a winter bike ride could be quite pleasant as long as one is suitably dressed for the elements, allowing you to appreciate the quiet beauty of a winter's day by Lake Michigan.",
-    "color_code": "#A6B2B8",
-    "timestamp": "2024-12-18 11:05:17"
+    "weather_report": "Current conditions in Evanston reveal a chilly and damp atmosphere, with temperatures in the mid 30s and a stout breeze whispering off Lake Michigan. The sky overhead is mostly clouded, casting a gray pallor over the beach and hinting at a visually muted day. As we look ahead, the forecast calls for a slight reprieve this afternoon with partly sunny conditions, though temperatures will soon dip back to around freezing. Wind gusts may reach up to 25 mph, suggesting a brisk walk might call for extra layers. \n\nOverall, today's weather feels characteristically wintry for mid-December, fitting snugly within the seasonal norm for this time of year. Wave conditions along the shore will likely be modest, as the winds bring a gentle rippling to the lake's surface. With no precipitation expected, those brave enough to venture outside can expect a refreshing, if not slightly biting, experience. A warm jacket, perhaps a hat, would be advisable for any outdoor ventures, whether it's a stroll along the beach or a visit to nearby parks. As the holiday season approaches, this dreary yet defining winter weather reminds us that Chicago's lakefront holds a certain beauty beneath its somber clouds.",
+    "color_code": "#A7B2D3",
+    "timestamp": "2024-12-18 12:07:08"
 }
