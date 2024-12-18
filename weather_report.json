@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-18T00:51:00+00:00",
-            "temperature_f": 35.06,
-            "temperature_c": 1.7,
-            "humidity": 81.663801872323,
+            "timestamp": "2024-12-18T01:51:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 85.253168149775,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Cloudy"
@@ -19,21 +19,21 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-17T19:00:00-06:00",
+                "startTime": "2024-12-17T21:00:00-06:00",
                 "endTime": "2024-12-18T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 33,
+                "temperature": 32,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 60
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,70?size=medium",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,60?size=medium",
                 "shortForecast": "Cloudy then Snow Likely",
-                "detailedForecast": "Snow likely after midnight. Cloudy, with a low around 33. West northwest wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "Snow likely after midnight. Cloudy, with a low around 32. Northwest wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "5 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30/bkn?size=medium",
-                "shortForecast": "Chance Snow then Partly Sunny",
-                "detailedForecast": "A chance of snow before 8am. Partly sunny. High near 34, with temperatures falling to around 31 in the afternoon. Northwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Snow then Partly Sunny",
+                "detailedForecast": "A slight chance of snow before 8am. Partly sunny. High near 34, with temperatures falling to around 31 in the afternoon. Northwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As evening settles over Evanston, the air is crisp and cool with a temperature hovering in the mid-30s, complementing the thick overcast skies. Conditions are calm for the moment, though winter is making its presence felt. With snow forecasted to begin after midnight, there\u2019s an anticipatory chill in the breeze, stirring the lake's surface just enough to whisper of the coming precipitation. This evening's outlook is marked by clouds and the likelihood of light snowfall, with just a hint of wind forecasted to pick up, bringing an occasional gust.\n\nTomorrow promises a continuation of wintry conditions with a chance of morning flurries, giving way to a partly sunny afternoon but with temperatures continuing to dip, reaching around the low 30s. For those considering outdoor activities, layers will be essential: a warm coat, scarf, gloves, and a sturdy hat would serve well against the chill. While the waves along the lake may be slightly undulating, they are nothing fierce, inviting solitary walks but perhaps not much in the way of boating or leisurely beach outings. Notably, as we approach the festive season, the ambiance could transform into a winter wonderland, perfect for capturing the spirit of the holidays through local decor and light displays.",
-    "color_code": "#6B7F92",
-    "timestamp": "2024-12-17 20:30:24"
+    "weather_report": "Current conditions in Evanston reveal a chilly and damp atmosphere, with temperatures hovering in the mid-30s and a heavy layer of clouds obscuring the skies. With calm winds currently in play, the shoreline along Lake Michigan presents a serene yet brisk view. As night falls, moisture in the air foreshadows the likelihood of snow emerging after midnight, with temperatures expected to dip slightly, settling around the low 30s. Wind gusts are anticipated to pick up later, adding a slight bite to the cold.\n\nLooking ahead to Wednesday, residents might catch a glimpse of sunshine, albeit fleeting, with a slight chance of early morning snow. Temperatures will lower further into the low 30s throughout the day, accompanied by a gentle to brisk northwesterly breeze. The combination of overcast skies and occasional snow could make for a gloomy yet picturesque winter scene. Those venturing outdoors should don warm layers, including hats and gloves, to withstand the chilly air, making for a cozy indoor day unless a brisk walk by the lake calls. This week's forecast embodies the essence of a typical Chicago winter, where cold, damp air prevails as the season approaches its peak.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-17 21:14:13"
 }
