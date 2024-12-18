@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-18T09:21:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 88.423674328272,
+            "timestamp": "2024-12-18T10:34:00+00:00",
+            "temperature_f": 33.08,
+            "temperature_c": 0.6,
+            "humidity": 88.378831552409,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 320,
+            "wind_direction": 330,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-18T04:00:00-06:00",
+                "startTime": "2024-12-18T05:00:00-06:00",
                 "endTime": "2024-12-18T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 32,
+                "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 60
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,80?size=medium",
-                "shortForecast": "Light Snow",
-                "detailedForecast": "Snow. Cloudy, with a low around 32. North northwest wind around 5 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,60?size=medium",
+                "shortForecast": "Light Snow Likely",
+                "detailedForecast": "Snow likely. Cloudy, with a low around 33. North northwest wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a chill that is characteristic of mid-December, with temperatures hovering in the low 30s and a dampness in the air that makes it feel even cooler. The wind is quite gusty, stirring the atmosphere and adding a bite to the already cloudy expanse overhead. As the day progresses, expect snow to blanket the area overnight, likely dusting the beach and the nearby parks. Tomorrow, the chance of morning snow lingers, although the temperature will inch ever so slightly up to the mid-30s, presenting a landscape that might seem dreary for outdoor excursions.\n\nDespite the wet conditions, the sight of Lake Michigan can still hold its own kind of beauty. However, the wave conditions are likely to reflect the gusty winds, making it a less than ideal time for boating or fishing. Those venturing outside should bundle up in warm layers\u2014perhaps a heavy coat, gloves, and a scarf\u2014to combat the chill effectively. With the holidays approaching, this weather sets a fitting backdrop for enjoying cozy indoor activities. While outdoor adventures might be curtailed by the weather, consider embracing the season with a warm drink while watching the snow fall, reflecting the warmth of the community spirit during this festive time of year.",
-    "color_code": "#4A6E8E",
-    "timestamp": "2024-12-18 04:05:54"
+    "weather_report": "This morning in Evanston, the air carries a chill, with temperatures resting in the low 30s and a brisk northwesterly wind stirring at about 25 miles per hour. The sky hangs heavy with clouds, setting a gloomy yet serene atmosphere as snow is likely to drape the area overnight. Today will see a chance of light snow before 8 a.m., and though the high is projected to reach just above freezing, the temperature will dip further by the afternoon. \n\nAs for the beach scene, the waves will remain subdued but may carry a crisp bite, while snow flurries may lightly dust the shoreline, creating a stark contrast against the winter landscape. Given the cool and overcast conditions, it\u2019s advisable to don warm layers, perhaps a heavy coat, gloves, and a scarf, to stave off the chill. In terms of activities, this is a day better suited for indoor pursuits or a brisk walk along the waterfront, where one can admire the stark beauty of winter on Lake Michigan. \n\nWith the upcoming festive season in mind, this chilly December day calls for warm drinks and cozy gatherings. While it's not a holiday today, keep your spirits bright with the holiday season just around the corner.",
+    "color_code": "#A9B0E5",
+    "timestamp": "2024-12-18 05:05:14"
 }
