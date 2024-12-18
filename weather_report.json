@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-18T13:51:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 85.003898179532,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 320,
+            "timestamp": "2024-12-18T14:51:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 75.018440463752,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 330,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-18T08:00:00-06:00",
+                "startTime": "2024-12-18T10:00:00-06:00",
                 "endTime": "2024-12-18T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 35, with temperatures falling to around 32 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly cloudy. High near 35, with temperatures falling to around 32 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly, crisp atmosphere, as temperatures hover in the low 30s. The air feels relatively damp, contributing to a distinct winter bite that penetrates even the most layered clothing. A brisk wind sweeps in from the northwest, creating a blustery sensation that may ruffle the feathers of even the stoutest souls brave enough to venture outdoors. The sky, mostly clear with some cloud cover, looks inviting yet carries the bite of the season.\n\nAs we move through the day, expect mostly cloudy skies with temperatures peaking near the mid-30s before tapering off in the afternoon. Winds will lighten somewhat but may still carry a bit of a chill, reinforcing the need for warm attire. Evening temperatures will drop further into the mid-20s, inviting residents to cozy up indoors. Fortunately, precipitation isn\u2019t expected, allowing for dry conditions throughout the day, which will be particularly pleasant given the chill. The lake may show slightly choppy waves, making for a picturesque view but perhaps not ideal for water activities. For those looking to enjoy the outdoors, a brisk walk along the shoreline or a visit to a local caf\u00e9 could provide a refreshing escape, even if one must bundle up for warmth. With the holiday season drawing near, this time of year evokes a certain festive spirit, perfect for enjoying seasonal festivities.",
-    "color_code": "#5F8B8B",
-    "timestamp": "2024-12-18 09:05:30"
+    "weather_report": "In Evanston, the morning begins under mostly clear skies with a crisp and cool temperature settling in the low 30s. A brisk wind is stirring, creating an invigorating atmosphere by the shoreline of Lake Michigan, which could feel quite refreshing. The day ahead promises to be mostly cloudy, with temperatures only inching upward to the high 30s before nestling back into the low 30s by afternoon. Gusts from the northwest are anticipated, contributing to a somewhat chillier feel. This weather is typical for mid-December in the Midwest, where winter sets in with its characteristic bite.\n\nAs for the lake, expect some moderately choppy conditions, making it less than ideal for leisurely pursuits on the water. With no precipitation on the horizon for the day, the grey clouds should provide an understated backdrop for outdoor activities. Dress warmly in layers to combat the cool air, with a sturdy jacket and perhaps a scarf to ward off the chill. The conditions encourage a brisk walk along the beach or maybe a cozy visit to a nearby caf\u00e9 for a hot beverage. While the day may not be bright, it offers the chance to embrace winter's tranquility ahead of the festive season, with the winter solstice just around the corner.",
+    "color_code": "#A0C4E4",
+    "timestamp": "2024-12-18 10:06:11"
 }
