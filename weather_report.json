@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-18T19:35:00+00:00",
+            "timestamp": "2024-12-18T19:51:00+00:00",
             "temperature_f": 32.0,
             "temperature_c": 0,
             "humidity": 65.988878729131,
-            "wind_speed_mph": 49.929840000000006,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 310,
-            "description": ""
+            "description": "Cloudy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, conditions are quite chilly today, with temperatures hovering in the low 30s and a brisk, gusty wind sweeping down from the northwest. The day is partially sunny at the moment, although cloud cover is expected to increase throughout the afternoon. A high near 35 is anticipated, with the temperature settling back into the low 30s as evening approaches. Fortunately, there\u2019s no precipitation in the forecast, and the waves on Lake Michigan appear relatively calm, contributing to a serene winter scene along the beach.\n\nAs we approach tonight, the chill will deepen, dropping to around 26 degrees under mostly cloudy skies with lighter winds. Given these brisk conditions, it\u2019s advisable to dress warmly; layers, a good winter coat, gloves, and perhaps a hat will make your outdoor time more pleasant. While these temperatures are typical for a Chicago winter, the windy nature of the day adds a biting edge, making it a perfect occasion for indoor activities or a brisk walk to enjoy the frosty beauty of the season. With the holidays fast approaching, it may be a lovely time to take a stroll along the shore or enjoy a warm drink at a nearby caf\u00e9, soaking in the festive atmosphere and the quiet charm of winter.",
-    "color_code": "#A1C3D0",
-    "timestamp": "2024-12-18 14:06:15"
+    "weather_report": "In Evanston, the current weather paints a chilly yet bracing scene, with temperatures settling in the mid 30s, under a blanket of cloud cover. A strong northwest wind howls at nearly 40 miles per hour, giving the air a crisp bite that hints at the winter season's grip. This afternoon, you can expect a few breaks of sunshine, lifting spirits as the high seeks to reach the upper 30s, before slipping back down as the day progresses. Tonight brings a shift to mostly cloudy skies with temperatures dipping towards the mid 20s, accompanied by a gentler west northwest breeze.\n\nCurrently, there are no signs of precipitation, leaving the day free of any wet interruptions, although the motion of the water reveals choppy conditions on Lake Michigan, hinting at stirring waves along the shore. The ambiance outside can be described as invigorating; the robust cold air might just spur a brisk walk or a chance to admire the lake's restless beauty. Given the conditions, layered attire is advisable to fend off the chill, especially with the wind factor in play. This temperature is quite typical for this time of year in the Midwest, representing the heart of winter. As we edge closer to the holiday season, the invitation to enjoy outdoor activities remains, perhaps visiting the coast for a hearty breath of fresh air or taking in a seasonal gathering nearby as the year wraps up.",
+    "color_code": "#A2B2C6",
+    "timestamp": "2024-12-18 15:05:08"
 }
