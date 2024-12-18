@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-18T04:51:00+00:00",
+            "timestamp": "2024-12-18T05:51:00+00:00",
             "temperature_f": 33.98,
             "temperature_c": 1.1,
             "humidity": 85.253168149775,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 240,
-            "description": "Mostly Cloudy"
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 290,
+            "description": "Cloudy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, paint a scene characteristic of a chilly December night, currently hovering in the mid-30s, where a brisk breeze stirs the air. The shore lies mostly calm, the cloud cover veiling any clear view of the stars, suggesting a shift towards precipitation as rain and snow are poised to arrive overnight. Expect a low around freezing, with winds softly whispering from the northwest. The morning will likely greet residents with a chance of snow, although the forecast suggests only a dusting, while the afternoon promises a slight break in the clouds before temperatures drop further.\n\nAs the forecast unfolds, conditions are anything but inviting for outdoor activities. The beach may appear deserted as the waves roll silently; the lakefront reflecting the somber ambiance of a winter evening. For those venturing outside, layering is key\u2014a warm coat, hat, and gloves will help fend off the chill that evening brings. As we are deep into the winter season, these temperatures are quite typical for this time of year in the Midwest. With the hustle of the holiday season just days away, it may be best to stay cozy indoors or engage in light holiday preparations instead of braving the cold.",
-    "color_code": "#A6CED4",
-    "timestamp": "2024-12-18 00:07:21"
+    "weather_report": "In Evanston, the current atmosphere is quite brisk, with temperatures hovering in the low 30s and a moist chill in the air. The conditions are marked by a blustery northwest wind, stirring up the surroundings and imparting a distinctly wintry feel to your late-night stroll. The cloudy skies hold the promise of impending precipitation, as a mix of rain and snow is expected overnight, with a substantial chance that flurries will dust the landscape before dawn.\n\nLooking ahead to Wednesday, expect a continuation of the cold weather, with a slight chance of snow early on, followed by a transition to partly sunny skies later in the day. Highs will barely register in the mid-30s, and with temperatures likely declining as the afternoon progresses, it will feel increasingly brisk. With a forecasted wind becoming a bit more pronounced, dressing warmly is advisable\u2014layers paired with a sturdy coat should serve you well in these chilly, moist conditions. As for the shoreline, the waves may become lively with the coming weather, so it's best to keep any outdoor plans near the water to a minimum for comfort and safety. \n\nWith winter officially upon us, these temperatures reflect the season's typical chill in this lakeside region. While the beach may not be a preferred destination, cozy indoor activities or a hearty meal by a warm fire would certainly be fitting given the weather's wintery disposition.",
+    "color_code": "#5B5C6F",
+    "timestamp": "2024-12-18 01:05:34"
 }
