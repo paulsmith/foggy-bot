@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T04:51:00+00:00",
+            "timestamp": "2024-12-19T05:51:00+00:00",
             "temperature_f": 26.060000000000002,
             "temperature_c": -3.3,
             "humidity": 65.223838384227,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 350,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 10,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-19T00:00:00-06:00",
+                "startTime": "2024-12-19T01:00:00-06:00",
                 "endTime": "2024-12-19T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 27,
+                "temperature": 25,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "0 to 5 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 27. West wind 0 to 5 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 25. West wind 0 to 5 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-19T06:00:00-06:00",
                 "endTime": "2024-12-19T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 35,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/day/ovc/snow,50?size=medium",
                 "shortForecast": "Cloudy then Chance Snow",
-                "detailedForecast": "A chance of snow after 1pm. Cloudy, with a high near 35. South southeast wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "A chance of snow after 1pm. Cloudy, with a high near 34. South southeast wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a chilly picture, with temperatures hovering in the mid 20s and a gentle breeze whispering from the northwest. The air carries a certain crispness, typical of a winter's night, as thick clouds blanket the sky. As night deepens, the shoreline of Lake Michigan looks serene yet somber, with muted waves lapping gently at the sandy beach.\n\nLooking ahead to Thursday, residents can expect a predominantly cloudy day with temperatures rising toward the mid 30s. A shift to a southerly breeze promises to bring with it the potential for snow later in the afternoon, with a 50% chance of precipitation that could leave a light dusting on the ground. Given the winter season, these temperatures align with what is typical for this time of year in the Midwest, lending an expectant feel to the atmosphere as the holiday season approaches. For those venturing out, layering up with warm clothing is advisable, as the air may feel even cooler with the expected wind. While bracing the elements, a stroll along the beach could be quite refreshing, but it's best to keep an eye on the forecast for those planning extended outdoor activities.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2024-12-19 00:07:18"
+    "weather_report": "Evanston is currently experiencing chilly conditions with temperatures dipping into the mid 20s, accompanied by a gentle breeze. The sky overhead is cloaked in clouds, creating a rather subdued atmosphere typical for this time of year. The expected weather for tomorrow promises to bring a bit of excitement, as clouds reign continue to dominate, with a chance of light snow beginning in the afternoon. Highs will reach near the mid 30s, and south-southeast winds could gust up to 25 mph, enhancing the feeling of briskness.\n\nThe beach scene is likely to appear bleak and somewhat uninviting, with limited visibility and low temperatures creating a cold and stark landscape. While wave action may stir Lake Michigan slightly, conditions are not ideal for any water activities. Residents are advised to dress warmly\u2014layered clothing with a winter coat, hat, and gloves will be essential for comfortable outdoor exposure. This time of year, temperatures are typical for a Midwest winter, evoking the expected chill as we approach the holiday season. With no major holidays occurring today, the focus can remain on enjoying quiet moments indoors, but for the adventurous, a brisk walk on the beach might be invigorating, albeit cold.",
+    "color_code": "#4B758B",
+    "timestamp": "2024-12-19 01:05:41"
 }
