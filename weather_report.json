@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T20:51:00+00:00",
+            "timestamp": "2024-12-19T21:57:00+00:00",
             "temperature_f": 32.0,
             "temperature_c": 0,
-            "humidity": 60.67424203712,
-            "wind_speed_mph": 53.95644000000001,
+            "humidity": 65.988878729131,
+            "wind_speed_mph": 57.98304000000001,
             "wind_direction": 150,
             "description": "Cloudy"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-19T16:00:00-06:00",
+                "startTime": "2024-12-19T17:00:00-06:00",
                 "endTime": "2024-12-19T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 34,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current conditions paint a chilly picture with temperatures hovering in the low 30s, accompanied by brisk winds that create a biting chill, making it feel quite frigid outdoors. The sky is cloaked in a gray blanket of clouds, hinting at an impending wintery mix. As for the forecast, there is a notable chance of snow this afternoon, with temperatures expected to peak near the mid 30s before slipping back down to the low 30s later. Winds will remain gentle yet noticeable, swirling from the southeast with occasional gusts. As night falls, anticipate snow transitioning into rain, with a significant chance of precipitation, including light accumulation of snow.\n\nWith the winter season firmly in place along Lake Michigan, such conditions are to be expected. Today's overcast sky and gusty winds create a dreary vista, reflective of the season's typical character. The waves on the lake are likely stirred up, presenting an unfriendly surface\u2014perhaps more suitable for a cozy afternoon indoors rather than any outdoor excursions. For those braving the elements, warm layers topped with a waterproof outer shell would be advisable to stay comfortable amid the damp chill. Given that it\u2019s mid-December, many may find themselves dreaming of holiday festivities, as the spirit of the season begins to fluff its feathers in the coming days.",
-    "color_code": "#A9A39B",
-    "timestamp": "2024-12-19 16:05:12"
+    "weather_report": "In Evanston, the scene is brisk and overcast, with temperatures hovering in the low 30s and a notable wind creating a chilling atmosphere. Currently, it's cloudy with the gusts picking up, producing a fierce sensation for anyone venturing outside. As we look ahead, this afternoon holds a 50% chance of snow, accompanied by closely hovering temperatures around 32 degrees, eventually reaching a high near 34. The winds, blowing from the south-southeast, will bring a bit of warmth but still feel quite brisk due to their strength. \n\nTonight, an 80% likelihood of snow transforms into rain and snow after 1 AM, with temperatures gradually rising to approximately 33 degrees. As conditions shift, expect additional snow accumulation with little risk of ice. The beach may appear somewhat tumultuous with the wind stirring the waters, making for choppy waves. Dress warmly with layers to combat the chill and keep dry, as outdoor activities may be limited. Given the season, these temperatures are typical for mid-December in the Midwest. Although not a holiday, it offers a cozy setting for indoor gatherings or a peaceful evening by the fireplace, perhaps with a warm beverage in hand to ward off the winter bite.",
+    "color_code": "#5B5C69",
+    "timestamp": "2024-12-19 17:05:21"
 }
