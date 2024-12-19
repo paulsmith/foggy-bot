@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T12:51:00+00:00",
-            "temperature_f": 26.060000000000002,
-            "temperature_c": -3.3,
-            "humidity": 65.223838384227,
+            "timestamp": "2024-12-19T13:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 65.851373117086,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 160,
-            "description": "Cloudy"
+            "wind_direction": 200,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-19T07:00:00-06:00",
+                "startTime": "2024-12-19T09:00:00-06:00",
                 "endTime": "2024-12-19T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 34,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "0 to 15 mph",
-                "windDirection": "SSE",
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/ovc/snow,60?size=medium",
                 "shortForecast": "Cloudy then Chance Snow",
-                "detailedForecast": "A chance of snow between 3pm and 5pm, then rain and snow likely. Cloudy, with a high near 34. South southeast wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "A chance of snow between 3pm and 5pm, then rain and snow likely. Cloudy, with a high near 34. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -49,14 +49,14 @@
                     "value": 80
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "WSW",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,70?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow and a chance of drizzle. Cloudy, with a low around 30. West southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "Snow and a chance of drizzle. Cloudy, with a low around 30. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "Currently in Evanston, temperatures hover in the mid-20s, providing a crisp and cool atmosphere, complemented by the dampness in the air. The scene is one of muted colors, with the sky cloaked in an overcast, giving the beachfront an almost somber yet serene feel. As the day unfolds, expect cloudy skies to persist with a chance of snow between mid-afternoon and evening, transitioning into possible rain and snow as temperatures rise toward the low 30s. Winds are gentle, blowing from the southeast, contributing a slight chill as you approach the water.\n\nAlthough precipitation is on the horizon, the waves at Lake Michigan remain calm today. With the anticipated snowfall accumulating less than half an inch, the risk of slick conditions may increase later in the day and tonight. Given the cold temperatures and impending weather, attire should include warm layers, with hats and gloves strongly recommended for comfort, especially near the shore. As we\u2019re in the heart of winter, these temperatures are quite typical for this season in the Midwest. Ideal activities today might include a brisk walk along the beach wrapped in cozy layers or enjoying the view from a sheltered spot, watching the wintery transformation of the landscape.",
-    "color_code": "#9BB0B4",
-    "timestamp": "2024-12-19 08:05:22"
+    "weather_report": "A cool and blustery morning blanket Evanston, Illinois, with current temperatures hovering in the mid-20s. The air feels crisp enough to bite at exposed skin, a reminder that winter is firmly entrenched as the winds whip in from the southwest. Light snow is expected later, mixing with rain this afternoon as clouds dominate the sky, casting a gray hue over the shoreline. As the day unfolds, temperatures will rise slightly, climbing to the low 30s, accompanied by a gentle yet gusty breeze.\n\nToday's weather will likely be unpleasant for outdoor enthusiasts, with the combination of snow and drizzle making for a damp experience. Waves along the Lake Michigan shore are expected to be moderate, reflecting the restless energy brought by the winds. Given the forecast, it would be wise to dress warmly; layers, a waterproof jacket, and gloves will provide comfort against the chill and moisture. This December day is characterized by typical Midwest winter conditions, bracing and biting, yet undeniably part of the seasonal landscape. While outdoor activities may be limited due to the impending weather, cozying up with a good book or enjoying the festive preparations indoors could be a delightful alternative as we approach the holiday season.",
+    "color_code": "#A9B9B0",
+    "timestamp": "2024-12-19 09:05:37"
 }
