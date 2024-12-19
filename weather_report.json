@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-19T12:00:00-06:00",
+                "startTime": "2024-12-19T14:00:00-06:00",
                 "endTime": "2024-12-19T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 34,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 50
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,60?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,50?size=medium",
                 "shortForecast": "Chance Snow",
-                "detailedForecast": "A chance of snow between 3pm and 5pm, then rain and snow likely. Cloudy, with a high near 34. South southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "A chance of snow after 3pm. Mostly cloudy. High near 34, with temperatures falling to around 32 in the afternoon. South southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,70?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow and a chance of drizzle. Cloudy, with a low around 30. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "Snow before 1am, then rain and snow likely. Cloudy. Low around 30, with temperatures rising to around 33 overnight. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
             }
         ]
     },
-    "weather_report": "This afternoon in Evanston, Illinois, residents can expect a chilly and damp atmosphere, with current temperatures settling in the low 30s. It\u2019s a cloudy day with a brisk wind adding a bite to the air, making it feel significantly cooler. As we move through the day, snow may begin to mix with rain between 3 PM and 5 PM, carrying a 60% chance for precipitation. Highs will struggle to reach the mid-30s, accompanied by a southerly wind around 15 mph, gusting higher, which may create a notable chill along the waterfront.\n\nAs night approaches, snowfall is expected to increase with an 80% chance of precipitation, leaning towards snow and drizzle, and temperatures are forecasted to remain around 30 degrees. The waves on Lake Michigan are likely choppy due to the gusty conditions, adding an element of unease for any wanderers by the shore. Given the weather, layering up is essential; a warm coat, scarf, and waterproof gear would be advisable for those venturing outdoors. While the temperature fits the typical December chill in the Midwest, the wet conditions might deter outdoor activities. Instead, it could be a fitting time for warm drinks by the fireplace or enjoying a cozy evening in.",
-    "color_code": "#A23E3D",
-    "timestamp": "2024-12-19 13:05:06"
+    "weather_report": "As the afternoon unfolds in Evanston, the chill is palpable, with temperatures hovering in the low 30s. The atmosphere is thick with cloud cover, setting a moody scene as a brisk wind sweeps off Lake Michigan, turning what might be a pleasant coastal outing into a more blustery experience. The forecast hints at the possibility of snow beginning mid-afternoon, with a 50% chance of accumulation that could dust the area with less than half an inch before twilight descends.\n\nLooking ahead, expect a transition to snow this evening, potentially mixing with rain as temperatures creep back up to the mid-30s. It's a day where bundling up is not just advisable but essential\u2014layering with a warm coat, gloves, and perhaps a sturdy hat is recommended for venturing outdoors. The sandy beach may seem less inviting under the heavy cloud cover and with the impending precipitation, but for the brave souls willing to brave the elements, an invigorating winter walk could be just the thing to lift the spirits. With today being just a week before Christmas, one can almost feel the anticipation of the season in the air, even if it carries the crisp bite of winter.",
+    "color_code": "#A8B8B1",
+    "timestamp": "2024-12-19 14:05:45"
 }
