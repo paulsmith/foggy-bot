@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T07:51:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 68.214331190713,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 260,
+            "timestamp": "2024-12-19T09:51:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 65.223838384227,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 240,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-19T04:00:00-06:00",
+                "startTime": "2024-12-19T05:00:00-06:00",
                 "endTime": "2024-12-19T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 25,
@@ -33,7 +33,7 @@
                 "windDirection": "",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 25. Southwest wind around 0 mph."
+                "detailedForecast": "Cloudy, with a low around 25. Wind around 0 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the early morning air is decidedly chilly, hovering in the low 20s, with an atmosphere that feels damp and cool\u2014a stark reminder of winter's grip. The skies are heavily clouded, muting the morning light and casting a grayish hue over the scene. The air carries a light breeze, subtly rustling through the trees, while the waters of Lake Michigan appear subdued, with only gentle waves lapping against the shore.\n\nLooking ahead to the day's forecast, we expect temperatures to rise slightly, reaching the mid-30s by afternoon. Cloudiness will persist, with the possibility of light snow transitioning to rain, particularly between the afternoon hours. With a brisk wind occasionally gusting, extra layers will be necessary for outdoor excursions. The chance for precipitation, while not overwhelming, means the day may lend itself more to indoor activities. Given the current conditions and impending weather, a warm coat, gloves, and a hat are sensible attire for those venturing outside. As winter continues to assert its presence in Evanston, today\u2019s temperatures remain typical for this season, making for a crisp and cold day. \n\nFor those contemplating activities, a quiet stroll along the beach, though invigorating, may be better suited to those who appreciate the stark beauty of winter landscapes. Indoor settings, such as cozy caf\u00e9s or community spaces, could serve as welcoming havens against the chilly backdrop of December.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-19 04:06:02"
+    "weather_report": "Current conditions in Evanston, Illinois reveal a chilly scene, with temperatures lingering in the mid 20s. As the wind whistles gently from the southwest, it adds a touch of briskness to the air, making for a distinctly wintry feel. Overhead, the sky is draped in a blanket of clouds that offers little promise of sunshine. \n\nLooking ahead, the forecast suggests a chance of snow later today, transitioning to a mix of rain and snow around the afternoon hours. Highs will climb into the low 30s, accompanied by moderate breezes that could bring gusts up to 25 mph. As for precipitation, expect less than half an inch of new snow, adding a light dusting to the chilly ground. Given the current season and the typical climate for the area, these temperatures are standard fare for December in the Midwest, evoking thoughts of cozy layers and warm indoor activities. Residents are advised to dress warmly\u2014layering up with a thick coat, scarf, and gloves would be prudent for outdoor ventures. \n\nWith the backdrop of winter, opportunities for indoor pursuits are plentiful. A stroll along the beach may offer a serene moment, but expect the atmosphere to be brisk and subdued. Alternatively, a visit to a local caf\u00e9 or warm library could provide a delightful escape from the cold. For those craving the season's charm, indulge in hot cocoa or baked treats to warm up from the inside out.",
+    "color_code": "#B0C4D1",
+    "timestamp": "2024-12-19 05:05:23"
 }
