@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-18T19:00:00-06:00",
+                "startTime": "2024-12-18T20:00:00-06:00",
                 "endTime": "2024-12-19T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 25,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly, blustery evening with temperatures hovering in the mid-20s. The air is crisp and carries a piercing wind that can make it feel even colder, while the cloudy sky contributes to a dim atmosphere over the beach, where the waves roll gently against the shore. Tonight's forecast suggests a slight change, with partial clearing and a low only slightly below freezing, accompanied by a light west wind, making for a pleasant, if cool, evening walk for the hearty.\n\nLooking ahead to Thursday, there\u2019s a forecasted chance of snow in the afternoon, with temperatures expected to rise to the mid-30s. Gusts from the southeast could stir up the waves a bit, leading to potentially lively conditions on Lake Michigan. Those venturing out should prepare for chilly, possibly wet weather as light snow could begin accumulating. Given the season, these temperatures are within the typical range for December in this region, marking a wintry landscape balanced with the promise of flurries. Residents are advised to bundle up, donning warm layers, hats, and gloves to stay cozy during outdoor activities, perhaps a wintry stroll along the lakeshore to enjoy the holiday season ambiance.",
-    "color_code": "#2E2A2B",
-    "timestamp": "2024-12-18 20:30:44"
+    "weather_report": "The current conditions in Evanston are decidedly chilly, with temperatures resting in the mid-20s, wrapped in a layer of cloud cover. The air feels crisp, buoyed by a vigorous, blustery wind sweeping in from the northwest. Tonight, expect partially clear skies as temperatures dip toward the low 20s, with a gentle breeze measuring 5 to 10 mph, offering a touch of relief against the cool evening air. \n\nLooking ahead to tomorrow, the forecast hints at potential snow later in the afternoon, with temperatures climbing to the mid-30s. The atmosphere will remain mostly cloudy, and winds are likely to shift to the south-southeast, bringing gusts that could reach 25 mph, so plan on a rather blustery day. Precipitation is quantified at 50%, suggesting a fair chance of flurries, though accumulations should be modest at under half an inch. Given this wintry scene, attendees might think twice about outdoor plans, favoring cozy indoor activities, especially with the holiday season approaching. Attire should prioritize warmth; layers, a good coat, and possibly a hat and gloves will be essential for comfort as Evanston continues to embrace the chill of winter.",
+    "color_code": "#4B6F95",
+    "timestamp": "2024-12-18 21:14:46"
 }
