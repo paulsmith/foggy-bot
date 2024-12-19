@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T09:51:00+00:00",
+            "timestamp": "2024-12-19T10:51:00+00:00",
             "temperature_f": 26.060000000000002,
             "temperature_c": -3.3,
             "humidity": 65.223838384227,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 240,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 210,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-19T05:00:00-06:00",
-                "endTime": "2024-12-19T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 25,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "0 mph",
-                "windDirection": "",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 25. Wind around 0 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2024-12-19T06:00:00-06:00",
                 "endTime": "2024-12-19T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/ovc/snow,60?size=medium",
                 "shortForecast": "Cloudy then Chance Snow",
                 "detailedForecast": "A chance of snow between 3pm and 5pm, then rain and snow likely. Cloudy, with a high near 34. South southeast wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-19T18:00:00-06:00",
+                "endTime": "2024-12-20T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 30,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,70?size=medium",
+                "shortForecast": "Snow",
+                "detailedForecast": "Snow and a chance of drizzle. Cloudy, with a low around 30. West southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois reveal a chilly scene, with temperatures lingering in the mid 20s. As the wind whistles gently from the southwest, it adds a touch of briskness to the air, making for a distinctly wintry feel. Overhead, the sky is draped in a blanket of clouds that offers little promise of sunshine. \n\nLooking ahead, the forecast suggests a chance of snow later today, transitioning to a mix of rain and snow around the afternoon hours. Highs will climb into the low 30s, accompanied by moderate breezes that could bring gusts up to 25 mph. As for precipitation, expect less than half an inch of new snow, adding a light dusting to the chilly ground. Given the current season and the typical climate for the area, these temperatures are standard fare for December in the Midwest, evoking thoughts of cozy layers and warm indoor activities. Residents are advised to dress warmly\u2014layering up with a thick coat, scarf, and gloves would be prudent for outdoor ventures. \n\nWith the backdrop of winter, opportunities for indoor pursuits are plentiful. A stroll along the beach may offer a serene moment, but expect the atmosphere to be brisk and subdued. Alternatively, a visit to a local caf\u00e9 or warm library could provide a delightful escape from the cold. For those craving the season's charm, indulge in hot cocoa or baked treats to warm up from the inside out.",
-    "color_code": "#B0C4D1",
-    "timestamp": "2024-12-19 05:05:23"
+    "weather_report": "Current conditions in Evanston paint a chilly picture with temperatures sitting in the low 20s and a gentle breeze rustling through the air. The atmosphere feels damp, lending a raw edge to the overall outlook, and the sky is cloaked in clouds, promising the possibility of snow later. Throughout the day, conditions are expected to remain overcast with a chance of snow introducing itself in the afternoon, followed by a mix of rain and snow as temperatures slowly climb to near the mid-30s. As night approaches, heavier snow and a risk of drizzle loom, keeping the chill in the air as temperatures dip towards the low 30s.\n\nGiven the day\u2019s overcast nature and the likelihood of precipitation, it may not be the most inviting for outdoor activities. The lake's surface might mirror the slate gray of the sky, with gentle swells expected but likely calm in this weather. Dress warmly in layers, with coats, hats, and gloves recommended to ward off the biting chill. While the current temperatures are typical for this season in the Midwest, the mix of snow and dreary conditions is perhaps more suited for cozy indoor pursuits. If one must venture outdoors, a brisk walk with a companion might suffice, but indoor activities like visiting a local caf\u00e9 or museum could be a more pleasant choice on a day like today.",
+    "color_code": "#7f8c8d",
+    "timestamp": "2024-12-19 06:09:04"
 }
