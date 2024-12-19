@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T11:51:00+00:00",
+            "timestamp": "2024-12-19T12:51:00+00:00",
             "temperature_f": 26.060000000000002,
             "temperature_c": -3.3,
             "humidity": 65.223838384227,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 220,
-            "description": ""
+            "wind_direction": 160,
+            "description": "Cloudy"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather presents a chilly and somewhat damp scene, with temperatures hovering in the mid-20s and a gentle breeze whispering from the west-southwest. As the day unfolds, residents can expect an increase in cloud cover and a chance of snow during the afternoon hours, transitioning to a mix of rain and snow later, with temperatures peaking near the low 30s. The impending snow may result in a light dusting, with less than half an inch expected.\n\nThe murky sky and overcast conditions lend a bleak appearance to the beach, where Lake Michigan's waves are gently rippling against the shoreline. With precipitation likely and gusty winds reaching up to 15 mph, it would be prudent to dress warmly, layering up with a good coat, gloves, and perhaps a scarf to combat the chill. Despite it being the holiday season, today is not marked by any significant celebration, but the weather conditions may limit outdoor activities to brief jaunts rather than extended outings. Given the current season, these temperatures are typical for December in the Midwest, presenting a quintessential winter\u2019s day.",
-    "color_code": "#B0C4E1",
-    "timestamp": "2024-12-19 07:10:45"
+    "weather_report": "Currently in Evanston, temperatures hover in the mid-20s, providing a crisp and cool atmosphere, complemented by the dampness in the air. The scene is one of muted colors, with the sky cloaked in an overcast, giving the beachfront an almost somber yet serene feel. As the day unfolds, expect cloudy skies to persist with a chance of snow between mid-afternoon and evening, transitioning into possible rain and snow as temperatures rise toward the low 30s. Winds are gentle, blowing from the southeast, contributing a slight chill as you approach the water.\n\nAlthough precipitation is on the horizon, the waves at Lake Michigan remain calm today. With the anticipated snowfall accumulating less than half an inch, the risk of slick conditions may increase later in the day and tonight. Given the cold temperatures and impending weather, attire should include warm layers, with hats and gloves strongly recommended for comfort, especially near the shore. As we\u2019re in the heart of winter, these temperatures are quite typical for this season in the Midwest. Ideal activities today might include a brisk walk along the beach wrapped in cozy layers or enjoying the view from a sheltered spot, watching the wintery transformation of the landscape.",
+    "color_code": "#9BB0B4",
+    "timestamp": "2024-12-19 08:05:22"
 }
