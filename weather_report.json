@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T02:51:00+00:00",
+            "timestamp": "2024-12-19T03:51:00+00:00",
             "temperature_f": 26.060000000000002,
             "temperature_c": -3.3,
-            "humidity": 65.223838384227,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 330,
+            "humidity": 62.719538029778,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 30,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-18T22:00:00-06:00",
+                "startTime": "2024-12-18T23:00:00-06:00",
                 "endTime": "2024-12-19T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 27. West wind 5 to 10 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 27. West wind around 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, we find ourselves under a blanket of clouds with crisp, wintry conditions as the temperature settles into the mid-20s. A blustery wind is making its presence known, with gusts sweeping across the beach, enhancing the chill. As night falls, the atmosphere takes on a palpable stillness, punctuated only by the swaying of nearby structures. \n\nLooking ahead to the weather for tomorrow, a chance of snow looms as we approach the afternoon, likely beginning after 1 PM. The clouds are expected to linger, and temperatures will rise to the mid-30s, accompanied by a gentle breeze from the south-southeast. There's a 50% chance of precipitation, potentially resulting in light snow accumulation, making for a winter atmosphere that could delight those who enjoy the season's offerings. Despite the gusty wind tonight, the scene may transform into a serene snowy landscape by day's end. Given this chilly forecast, layers are advised\u2014think warm coats, hats, and mittens for those stepping outside. The temperature is par for the course for this time of year in the Midwest, typical of the winter season, where such crisp air and the prospect of snow can charm residents into embracing the outdoors. While outdoor excursions may be curtailed by the cold and wind, tomorrow evening could open up opportunities for cozy indoor activities, making it a fine chance to curl up with a good book or enjoy warm beverages, perfectly in tune with the holiday spirit just around the corner.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2024-12-18 22:06:33"
+    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere, with the temperature settling in the mid-20s and a gentle breeze providing a bit of bite to the air. The sky is draped in clouds, offering a muted palette across the horizon, while the beach, typically vibrant, presents a somber scene this evening. As we look ahead, the forecast suggests a slow rise in temperature, reaching the upper 30s by Thursday. A chance of snow arrives after noon, with the potential for a light dusting as the clouds deepen their coverage, propelled by a gentle southerly breeze.\n\nWith the coastal winds whispering softly, the waves on Lake Michigan are likely to be manageable, creating a serene if not slightly frosty ambiance. Given the chilly conditions, layered clothing is highly recommended. Warm jackets, hats, and scarves would be prudent as the night wears on, especially with the possibility of light snow adding a wintery charm. As this cool December day comes to a close, the chill in the air is not unusual for the season, reflecting the typical northern climate during this time of year. While the beach may not beckon for strolls in such conditions, cozying up indoors with a warm drink or planning a winter sports outing could be delightful alternatives. As a side note, tomorrow marks the time for festive cheer, with the holiday season drawing near quickly.",
+    "color_code": "#4a4c76",
+    "timestamp": "2024-12-18 23:05:48"
 }
