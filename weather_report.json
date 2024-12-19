@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T16:51:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 60.394650155608,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 150,
-            "description": "Cloudy"
+            "timestamp": "2024-12-19T19:51:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 63.379362708216,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 170,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-19T14:00:00-06:00",
+                "startTime": "2024-12-19T15:00:00-06:00",
                 "endTime": "2024-12-19T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 34,
@@ -33,7 +33,7 @@
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/day/snow,50?size=medium",
                 "shortForecast": "Chance Snow",
-                "detailedForecast": "A chance of snow after 3pm. Mostly cloudy. High near 34, with temperatures falling to around 32 in the afternoon. South southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "A chance of snow. Mostly cloudy. High near 34, with temperatures falling to around 32 in the afternoon. South southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Evanston, the chill is palpable, with temperatures hovering in the low 30s. The atmosphere is thick with cloud cover, setting a moody scene as a brisk wind sweeps off Lake Michigan, turning what might be a pleasant coastal outing into a more blustery experience. The forecast hints at the possibility of snow beginning mid-afternoon, with a 50% chance of accumulation that could dust the area with less than half an inch before twilight descends.\n\nLooking ahead, expect a transition to snow this evening, potentially mixing with rain as temperatures creep back up to the mid-30s. It's a day where bundling up is not just advisable but essential\u2014layering with a warm coat, gloves, and perhaps a sturdy hat is recommended for venturing outdoors. The sandy beach may seem less inviting under the heavy cloud cover and with the impending precipitation, but for the brave souls willing to brave the elements, an invigorating winter walk could be just the thing to lift the spirits. With today being just a week before Christmas, one can almost feel the anticipation of the season in the air, even if it carries the crisp bite of winter.",
-    "color_code": "#A8B8B1",
-    "timestamp": "2024-12-19 14:05:45"
+    "weather_report": "In Evanston, Illinois, the current weather presents a brisk scene with temperatures hovering in the low 30s, accompanied by a biting wind that sweeps across the beach, creating a distinctly chilly atmosphere. The sky is mostly cloudy, lending an overcast and muted tone to the day, while conditions are set to change significantly as the afternoon progresses. A chance of snow lingers, and as the day advances, snow is likely to make an appearance, possibly mixing with rain later in the evening.\n\nWith the wind howling from the south at a spirited pace, wave conditions along Lake Michigan may be choppy, inviting a sense of the wildness of winter. Although temperatures are a touch cooler than average for mid-December, they align with the seasonal expectations for this time of year in the Midwest. It's advisable to layer up for warmth, sporting sturdy outerwear, and perhaps a hat and gloves, especially for any outdoor endeavors. Given the forecast for precipitation and persistent cloud cover, indoor activities may be more pleasant, such as visiting local cafes or museums, allowing for a cozy reprieve from the wintry chill outside. As it's just a few weeks before the year's end and holiday festivities ramp up, staying warm will be paramount as you navigate the evolving weather.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-19 15:05:06"
 }
