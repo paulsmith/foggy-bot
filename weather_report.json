@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-18T23:42:00+00:00",
-            "temperature_f": 28.94,
-            "temperature_c": -1.7,
-            "humidity": 60.711387030295,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 300,
+            "timestamp": "2024-12-19T00:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 60.112478635772,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 340,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-18T18:00:00-06:00",
+                "startTime": "2024-12-18T19:00:00-06:00",
                 "endTime": "2024-12-19T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 25,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 25. West northwest wind 5 to 10 mph."
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 25. West wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the evening settles upon Evanston, current conditions reveal a chilly atmosphere with temperatures dipping into the upper 20s. The humidity adds a crispness to the air, making it feel even cooler as a steady, blustery wind pulls at anything not anchored down. The sky, cloaked in clouds, casts a muted glow over the landscape, creating a scene that feels both serene and somber, perfect for a contemplative stroll along the beach if one is adequately bundled. \n\nLooking ahead, tonight brings mostly cloudy skies with temperatures dropping further to around the mid 20s, accompanied by a gentle west northwest wind. Tomorrow, residents can expect a chance of snow in the afternoon, with mainly cloudy conditions and highs reaching into the mid 30s. While precipitation is a possibility, it\u2019s likely to be light with new accumulations under half an inch. Hence, those venturing outdoors should dress warmly in layers, perhaps donning a heavy coat and sturdy boots to navigate the potentially icy paths. The season brings typical chill for December in the Midwest, suggesting it\u2019s a good time for winter activities\u2014perhaps a brisk walk or a visit to a local caf\u00e9 to escape the cold. As we approach the holiday season, the atmosphere is certainly festive, holding the promise of snow as we count down the days until celebrations commence.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2024-12-18 18:22:39"
+    "weather_report": "Current temperatures in Evanston hover in the low 30s, which feels sharp and brisk as winds howl from the northwest at a dizzying speed. The air carries a damp chill that settles in, making outdoor ventures feel notably cool and somewhat uncomfortable. As evening approaches, the sky presents a thick blanket of clouds, promising a night of partial obscurity with a low dipping down to the mid 20s, accompanied by gentle shifts in wind.\n\nLooking ahead to Thursday, residents might want to keep an eye on the skies, as there\u2019s a chance of light snow after 1 PM. The forecast indicates mostly cloudy conditions with a high creeping toward the mid 30s, under the flow of a gentle breeze from the south-southeast. Wave activity at Lake Michigan could be moderate, which might call for caution for those near the water's edge. While snow accumulation is expected to be minimal, it could create a picturesque winter scene. As preparations begin for the upcoming holidays, make sure to bundle up if you\u2019re stepping out, with recommended attire including warm layers, hats, and gloves to maintain comfort against the biting cold. Given the seasonal chill, this weather is decidedly typical for December in the Midwest, as the region settles in for winter\u2019s embrace.",
+    "color_code": "#5B7F8C",
+    "timestamp": "2024-12-18 19:33:05"
 }
