@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T21:57:00+00:00",
+            "timestamp": "2024-12-19T22:51:00+00:00",
             "temperature_f": 32.0,
             "temperature_c": 0,
-            "humidity": 65.988878729131,
-            "wind_speed_mph": 57.98304000000001,
+            "humidity": 69.058867777488,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 150,
-            "description": "Cloudy"
+            "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-19T17:00:00-06:00",
-                "endTime": "2024-12-19T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,50?size=medium",
-                "shortForecast": "Chance Snow",
-                "detailedForecast": "A chance of snow. Mostly cloudy. High near 34, with temperatures falling to around 32 in the afternoon. South southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-19T18:00:00-06:00",
                 "endTime": "2024-12-20T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,70?size=medium",
                 "shortForecast": "Snow",
                 "detailedForecast": "Snow before 1am, then rain and snow likely. Cloudy. Low around 30, with temperatures rising to around 33 overnight. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-12-20T06:00:00-06:00",
+                "endTime": "2024-12-20T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 35,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/snow,90/snow,80?size=medium",
+                "shortForecast": "Snow then Snow Showers",
+                "detailedForecast": "Snow before 11am, then snow showers. Mostly cloudy. High near 35, with temperatures falling to around 30 in the afternoon. North wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, the scene is brisk and overcast, with temperatures hovering in the low 30s and a notable wind creating a chilling atmosphere. Currently, it's cloudy with the gusts picking up, producing a fierce sensation for anyone venturing outside. As we look ahead, this afternoon holds a 50% chance of snow, accompanied by closely hovering temperatures around 32 degrees, eventually reaching a high near 34. The winds, blowing from the south-southeast, will bring a bit of warmth but still feel quite brisk due to their strength. \n\nTonight, an 80% likelihood of snow transforms into rain and snow after 1 AM, with temperatures gradually rising to approximately 33 degrees. As conditions shift, expect additional snow accumulation with little risk of ice. The beach may appear somewhat tumultuous with the wind stirring the waters, making for choppy waves. Dress warmly with layers to combat the chill and keep dry, as outdoor activities may be limited. Given the season, these temperatures are typical for mid-December in the Midwest. Although not a holiday, it offers a cozy setting for indoor gatherings or a peaceful evening by the fireplace, perhaps with a warm beverage in hand to ward off the winter bite.",
-    "color_code": "#5B5C69",
-    "timestamp": "2024-12-19 17:05:21"
+    "weather_report": "Current conditions in Evanston, Illinois present a chilly and blustery scene, with temperatures hovering in the low 30s and light snow creating a picturesque winter ambiance. The visibility is somewhat reduced, lending a soft veil to the landscape as flakes drift slowly down, while a fierce wind adds an invigorating bite to the air. This evening, expect snow to continue until about 1 AM, then transition into a mix of rain and snow as the temperature gradually rises to the mid 30s. With a substantial chance of precipitation, conditions will remain fairly damp and breezy, particularly with gusts approaching 25 miles per hour.\n\nTomorrow promises a similar wintry experience, with snow likely until around mid-morning followed by intermittent snow showers, and temperatures dipping back into the low 30s during the afternoon. The waves on Lake Michigan may be somewhat choppy but manageable, given the ongoing weather. Those venturing outdoors should consider bundling up in warm layers, donning a heavy coat, insulated gloves, and waterproof boots for comfort against the cold and wet conditions. Given that we are well into December, these temperatures align closely with typical seasonal expectations for the region, providing an authentic feel of a Midwest winter. As the holiday season approaches, it's a perfect time to enjoy cozy indoor activities or take brisk winter walks, embracing the serene beauty of Evanston\u2019s snow-dusted shorelines.",
+    "color_code": "#A6B5C2",
+    "timestamp": "2024-12-19 18:21:35"
 }
