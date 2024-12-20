@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T14:51:00+00:00",
+            "timestamp": "2024-12-20T16:08:00+00:00",
             "temperature_f": 33.98,
             "temperature_c": 1.1,
-            "humidity": 78.630508989653,
+            "humidity": 75.21413677184,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Cloudy"
+            "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-20T10:00:00-06:00",
+                "startTime": "2024-12-20T11:00:00-06:00",
                 "endTime": "2024-12-20T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -33,7 +33,7 @@
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,70?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+                "detailedForecast": "A chance of snow showers. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, paint a brisk scene with a chilly temperature hovering in the mid-30s and a thick blanket of clouds overhead. The atmosphere feels quite damp and raw, characteristic of a wintry day, as gusts begin to pick up from the north, creating a blustery ambiance. Today's forecast hints at a 70% chance of snow showers, raising the possibility of light accumulation, with temperatures expected to dip into the low 30s by afternoon. As the day progresses, the likelihood of snow will heighten, making for a rather gloomy outlook at the beach, where the waves of Lake Michigan might be rolling in with a spirited chop, influenced by the invigorating winds.\n\nAs night falls, temperatures will chill further, sinking to the upper teens; thus, dressing warmly is essential for any outdoor activities. Layering with a sturdy coat, gloves, and a hat is prudent to combat the biting cold. In keeping with the season, these conditions are certainly typical for December in the Midwest, where such temperatures and potential snowfall are par for the course. With the chilly weather and possible precipitation, outside activities may be limited to quick errands or a brisk walk. Given the short days leading to the holiday season, it\u2019s an excellent time for cozy indoor pursuits or preparations for upcoming celebrations.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-12-20 10:06:03"
+    "weather_report": "In Evanston, the current scene is marked by a chilly temperature in the low 30s, accompanied by light snow that adds a delicate layer to the already damp conditions. The atmosphere feels crisp and cool, enhanced by a gentle breeze that stirs the air but isn\u2019t overly biting. As the day unfolds, clouds will dominate the sky with a forecast calling for a chance of more snow showers. Highs will near the mid-30s, dropping slightly as afternoon wears on, while a more blustery north wind will pick up, gusting into the 20s, bringing a sharpness to the air. By nightfall, temperatures will dip to the low 20s, with a calmer wind settling in.\n\nUnderneath the cloudy blanket, the lake near the beach presents itself with a slightly tumultuous character, where you can expect moderate waves reflecting the startled nature of the weather. While the day may not offer clear views, it could serve as a peaceful backdrop for indoor activities or short strolls, bundled up warmly. As we inch closer to the holidays, the seasonal chill is entirely typical for this time of year. Layering up with a warm coat, gloves, and a hat will be essential for outdoor ventures, providing a cozy escape amidst the winter elements.",
+    "color_code": "#A0C1D6",
+    "timestamp": "2024-12-20 11:05:06"
 }
