@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T10:51:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 95.731858833056,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 340,
+            "timestamp": "2024-12-20T12:34:00+00:00",
+            "temperature_f": 33.08,
+            "temperature_c": 0.6,
+            "humidity": 91.665578984399,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Light Snow and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-20T06:00:00-06:00",
+                "startTime": "2024-12-20T07:00:00-06:00",
                 "endTime": "2024-12-20T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 80
                 },
                 "windSpeed": "20 to 25 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,100/snow,80?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,70/snow,80?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
+                "detailedForecast": "Snow. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, present a stark winter landscape, with the temperature hovering in the low 30s, accompanied by a biting breeze that adds to a wintry chill. Light snow is falling, mingling with fog, creating a damp atmosphere that can feel quite raw. As snow accumulates and visibility dips, the day appears overcast and dreary, well-suited for staying indoors with a warm drink.\n\nThe forecast indicates continuing snow throughout the day, with temperatures peaking near mid 30s before slipping back into the low 30s by afternoon. Winds will be blustery, whipping in from the north at 20 to 25 miles per hour, with gusts reaching near 40 miles per hour. New snow accumulation may reach around an inch, making for slushy conditions by evening. As night descends, skies will partly clear, dropping to a low around 18, turning the air crisp and biting. The wave conditions off Lake Michigan are likely to be tumultuous, matching the gusty winds and the snow-covered shoreline.\n\nGiven the conditions, dressing in layers is essential\u2014opt for warm coats, hats, and gloves to combat the chill. Footwear suited for wet and icy surfaces is also advisable. Though the cold and snowy setting might deter many from venturing out, it offers an opportunity for winter activities like sledding or a brisk walk along the beach, as long as one is adequately dressed. Today marks a typical winter day in Evanston, reflecting the region's seasonal character, with winter's chill firmly in place.",
-    "color_code": "#AAB8D1",
-    "timestamp": "2024-12-20 06:08:25"
+    "weather_report": "Evanston is currently enveloped in a chilly and damp atmosphere, with light snow and mist adorning the landscapes. The temperature hovers around the low 30s, giving off a crisp, wintry feel that is typical for this time of year in the Midwest. As we look ahead to today, a snowy and cloudy day is expected with temperatures peaking near the mid-30s before settling into the low 30s by afternoon. Blustery north winds at 20 to 25 mph with gusts could reach 40 mph, adding a biting chill to the air, making outdoor conditions less than inviting.\n\nAs the waves lap against the shore of Lake Michigan, one can expect them to be moderately rough due to the brisk wind, which could pose challenges for anyone considering water activities. There is a significant chance of snow accumulation, so travelers and pedestrians should be cautious as they navigate potentially slick surfaces. For those braving the cold, wearing layered, insulated attire with a good coat, hat, and gloves is highly recommended. While today might not be ideal for outdoor excursions, it lends itself well to cozying up indoors, perhaps enjoying a warm drink or indulging in holiday preparations as the season approaches. Remember, today is not a holiday, but the feel of the season is unmistakable.",
+    "color_code": "#A7B7B4",
+    "timestamp": "2024-12-20 07:08:52"
 }
