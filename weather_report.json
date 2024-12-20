@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T14:19:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 84.573028786765,
+            "timestamp": "2024-12-20T14:51:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 78.630508989653,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Cloudy"
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-20T09:00:00-06:00",
+                "startTime": "2024-12-20T10:00:00-06:00",
                 "endTime": "2024-12-20T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 70
                 },
                 "windSpeed": "20 to 25 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,50/snow,80?size=medium",
-                "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,70?size=medium",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a chilly and overcast morning, with temperatures hovering in the low 30s. The atmosphere feels damp and crisp, setting the stage for the anticipated winter snow. Throughout the day, expect shades of gray as snow clouds gather, leading to likely snowfall later on. By afternoon, temperatures may dip slightly to around 31, accompanied by a blustery north wind that could elevate gusts to a fierce 40 mph. The chances for new snow accumulation sit at 80%, with about an inch expected, likely creating a wintry scene along the beach and Lake Michigan.\n\nAs evening approaches, skies will transition to partly cloudy, with temperatures dropping to the low teens and a gentler north-northwest breeze. The wave conditions will likely be choppy given the gusty winds, so caution is advised for those wishing to venture near the water. The weather calls for warm layers, including a sturdy winter coat, gloves, and a hat to guard against the biting wind. Given the season, this weather aligns with typical December chill, making it ideal for cozy indoor activities or wintry walks for the adventurous. Overall, today, December 20, is pleasant for anyone seeking the holiday spirit amidst a picturesque, snow-laden winter landscape.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-20 09:05:22"
+    "weather_report": "Current conditions in Evanston, Illinois, paint a brisk scene with a chilly temperature hovering in the mid-30s and a thick blanket of clouds overhead. The atmosphere feels quite damp and raw, characteristic of a wintry day, as gusts begin to pick up from the north, creating a blustery ambiance. Today's forecast hints at a 70% chance of snow showers, raising the possibility of light accumulation, with temperatures expected to dip into the low 30s by afternoon. As the day progresses, the likelihood of snow will heighten, making for a rather gloomy outlook at the beach, where the waves of Lake Michigan might be rolling in with a spirited chop, influenced by the invigorating winds.\n\nAs night falls, temperatures will chill further, sinking to the upper teens; thus, dressing warmly is essential for any outdoor activities. Layering with a sturdy coat, gloves, and a hat is prudent to combat the biting cold. In keeping with the season, these conditions are certainly typical for December in the Midwest, where such temperatures and potential snowfall are par for the course. With the chilly weather and possible precipitation, outside activities may be limited to quick errands or a brisk walk. Given the short days leading to the holiday season, it\u2019s an excellent time for cozy indoor pursuits or preparations for upcoming celebrations.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-12-20 10:06:03"
 }
