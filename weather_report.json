@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T01:38:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 92.262580702357,
+            "timestamp": "2024-12-20T01:51:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 88.324683513715,
             "wind_speed_mph": 33.01812,
             "wind_direction": 130,
-            "description": "Light Freezing Rain and Snow and Fog/Mist"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-19T20:00:00-06:00",
+                "startTime": "2024-12-19T21:00:00-06:00",
                 "endTime": "2024-12-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 30,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 70
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,70?size=medium",
-                "shortForecast": "Snow",
-                "detailedForecast": "Snow before 1am, then rain and snow likely. Cloudy. Low around 30, with temperatures rising to around 33 overnight. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,70?size=medium",
+                "shortForecast": "Snow Likely",
+                "detailedForecast": "Snow likely before 1am, then rain and snow likely. Cloudy. Low around 30, with temperatures rising to around 33 overnight. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As we survey the current conditions in Evanston, Illinois, we find ourselves enveloped in a wintry scene marked by light freezing rain mixed with snow, accompanied by a thick fog that casts a steely gloom over the beach. The temperature sits in the low 30s, with a fierce wind howling from the south-southeast, adding a biting chill to the damp air. This is not the fairest of evenings to be outside\u2014indeed, visibility is severely limited, and the landscape appears subdued and gray, typical of a late December night in the Midwest.\n\nLooking ahead to the night, expect a continuation of snow before transitioning to a wintry mix as temperatures hover around the low 30s, rising slightly overnight. A brisk breeze will persist, with gusts strong enough to make even the sturdiest of winter coats feel inadequate. Precipitation will likely accumulate with a chance of snow likely exceeding one inch, creating slick surfaces ahead. For those venturing out, layering up with a warm, waterproof coat, gloves, and sturdy boots is advisable, as conditions remain anything but inviting. Given that today is an ordinary weekday in the midst of the holiday season, indoor activities may be preferable for most. However, for the brave-hearted, a brisk walk along the beach offers a chance to experience nature at its most formidable, though caution is warranted due to the slippery terrain.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-19 20:27:41"
+    "weather_report": "As evening falls over Evanston, the temperature hovers in the low 30s, creating a chill in the air that combines with a dense layer of cloudiness. The winds are blowing with a blustery intensity, whipping through the beach area and hinting at the approaching winter storm. Snow is beginning to fall, swirling visibly as visibility drops under the darkening sky. Tonight's forecast promises more snow, alongside rain that could lead to a wintery mix until temperatures begin to rise slightly.\n\nLooking ahead to tomorrow, residents can expect a continuation of snowy conditions with a high near the mid-30s, accompanied by a north wind that will further enhance the wintry atmosphere, creating a fierce chill in the air. Wave conditions will likely be choppy along Lake Michigan, with increased wave activity due to the strong winds. Given these conditions, it is advisable to dress warmly in layers, including heavy coats, hats, and gloves, to contend with the biting cold and possible wet weather. As we are deep in the heart of winter, these temperatures are typical for this season in the Midwest. The inclement weather may limit outdoor activities, but it could provide ideal conditions for cozy indoor pursuits or enjoying the serene beauty of a snowfall from the comfort of home.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-12-19 21:09:30"
 }
