@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-20T11:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-20T12:00:00-06:00",
                 "endTime": "2024-12-20T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "20 to 25 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,70?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible."
+                "detailedForecast": "A chance of snow showers. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current scene is marked by a chilly temperature in the low 30s, accompanied by light snow that adds a delicate layer to the already damp conditions. The atmosphere feels crisp and cool, enhanced by a gentle breeze that stirs the air but isn\u2019t overly biting. As the day unfolds, clouds will dominate the sky with a forecast calling for a chance of more snow showers. Highs will near the mid-30s, dropping slightly as afternoon wears on, while a more blustery north wind will pick up, gusting into the 20s, bringing a sharpness to the air. By nightfall, temperatures will dip to the low 20s, with a calmer wind settling in.\n\nUnderneath the cloudy blanket, the lake near the beach presents itself with a slightly tumultuous character, where you can expect moderate waves reflecting the startled nature of the weather. While the day may not offer clear views, it could serve as a peaceful backdrop for indoor activities or short strolls, bundled up warmly. As we inch closer to the holidays, the seasonal chill is entirely typical for this time of year. Layering up with a warm coat, gloves, and a hat will be essential for outdoor ventures, providing a cozy escape amidst the winter elements.",
-    "color_code": "#A0C1D6",
-    "timestamp": "2024-12-20 11:05:06"
+    "weather_report": "Evanston is currently experiencing a cool, overcast day marked by light snow, with temperatures hovering in the low 30s. The air carries a crispness that, combined with the dampness in the atmosphere, adds a chill that permeates your bones. As we look forward to this afternoon, expect a continuation of the cloudy skies with a chance of snow showers; temperatures will dip toward the upper 20s as the north winds whip through at a brisk pace, lending a blustery feel to the day.\n\nAs for conditions by the lake, the waves are likely to be choppy due to the strong winds, making for a rather rough appearance at the shoreline. Should you find it necessary to venture outdoors, be advised that warm, layered attire is essential to combat the briskness of the day and the falling temperatures. While the overall scene may appear gloomy, the beauty of the lakefront in winter can be striking, and a brisk walk could invigorate those who are bundled up sufficiently. With the holiday season approaching, it might be a good time to enjoy the festive decorations in local neighborhoods, keeping in mind that this is not only a typical winter day for the region but also one rich with potential for cozy gatherings and reflections as we approach the year's end.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-20 12:06:41"
 }
