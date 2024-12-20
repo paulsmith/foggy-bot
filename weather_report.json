@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T02:51:00+00:00",
+            "timestamp": "2024-12-20T03:51:00+00:00",
             "temperature_f": 32.0,
             "temperature_c": 0,
             "humidity": 92.299311472692,
-            "wind_speed_mph": 28.991520000000005,
+            "wind_speed_mph": 24.964920000000003,
             "wind_direction": 140,
-            "description": "Light Freezing Drizzle and Fog/Mist"
+            "description": "Light Freezing Drizzle and Snow and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-19T21:00:00-06:00",
+                "startTime": "2024-12-19T23:00:00-06:00",
                 "endTime": "2024-12-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 30,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 80
                 },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,70?size=medium",
-                "shortForecast": "Snow Likely",
-                "detailedForecast": "Snow likely before 1am, then rain and snow likely. Cloudy. Low around 30, with temperatures rising to around 33 overnight. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+                "windSpeed": "5 to 15 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,80?size=medium",
+                "shortForecast": "Snow",
+                "detailedForecast": "A chance of snow before midnight, then snow and a slight chance of drizzle. Cloudy, with a low around 30. East wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible. Little or no ice accumulation expected."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/snow,90/snow,80?size=medium",
                 "shortForecast": "Snow then Snow Showers",
-                "detailedForecast": "Snow before 11am, then snow showers. Mostly cloudy. High near 35, with temperatures falling to around 30 in the afternoon. North wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "Snow and a slight chance of drizzle before 11am, then snow showers. Mostly cloudy. High near 35, with temperatures falling to around 30 in the afternoon. North wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, the current scene is marked by a chilly embrace, with temperatures hovering in the low 30s. The air carries a biting crispness, accentuated by a steady and gusty wind that adds a wild edge to the landscape. Light freezing drizzle accompanied by fog creates a haunting atmosphere along the lakeshore, blurring the line between land and water as waves lap silently against the shore.\n\nAs night approaches, expect a transition, as snow is likely to unfold before 1 AM, giving in later to a mix of rain and snow. The temperature will dip slightly, settling around 30 degrees but may rise to the mid-30s overnight. A strong southwest wind will be felt, so dress warmly in layers; a sturdy coat, gloves, and a hat are essential. The waves along Lake Michigan will likely be choppy, influenced by the gusty winds, and may not be suitable for evening strolls. While it's not officially a holiday, the upcoming festive spirit is palpable in the air, encouraging indoor activities such as cozy gatherings or holiday baking as the winter chill continues to deepen.",
-    "color_code": "#7F8CDA",
-    "timestamp": "2024-12-19 22:06:23"
+    "weather_report": "Current conditions in Evanston reveal a chilly scene, as light freezing drizzle and snow drift across the air, paired with a dense fog that thickens the atmosphere. The temperature hovers in the low 30s, creating a raw and biting chill, accentuated by a blustery wind from the southeast. As night sets in, there's a solid chance of accumulating snow, with projections indicating one to two inches could blanket the area, turning the landscape into a soft, wintry postcard. The ocean waves, perhaps not as fierce as during a storm, may see a gentle swell, kissed by the frosty breeze.\n\nLooking ahead to the day, expect persistent snow showers accompanied by cloudy skies, with temperatures barely climbing to the mid-30s before they retreat again. The wind, sometimes howling with gusts up to 40 mph, will keep the air feeling even colder. Attire should be warm and layered, with a heavy jacket, gloves, and insulated boots highly advisable for anyone venturing outdoors. While these conditions may seem less than welcoming, it\u2019s a perfect afternoon for sipping hot cocoa indoors or gathering with friends to celebrate the season of festivities\u2014though it is not a national holiday, the spirit of the season is certainly in the air.",
+    "color_code": "#A6B2C2",
+    "timestamp": "2024-12-19 23:05:28"
 }
