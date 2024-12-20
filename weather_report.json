@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T16:08:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 75.21413677184,
+            "timestamp": "2024-12-20T17:51:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 78.458012744656,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Light Snow"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-20T12:00:00-06:00",
+                "startTime": "2024-12-20T13:00:00-06:00",
                 "endTime": "2024-12-20T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -30,10 +30,10 @@
                     "value": 70
                 },
                 "windSpeed": "20 to 25 mph",
-                "windDirection": "N",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+                "detailedForecast": "A chance of snow showers. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North northwest wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a cool, overcast day marked by light snow, with temperatures hovering in the low 30s. The air carries a crispness that, combined with the dampness in the atmosphere, adds a chill that permeates your bones. As we look forward to this afternoon, expect a continuation of the cloudy skies with a chance of snow showers; temperatures will dip toward the upper 20s as the north winds whip through at a brisk pace, lending a blustery feel to the day.\n\nAs for conditions by the lake, the waves are likely to be choppy due to the strong winds, making for a rather rough appearance at the shoreline. Should you find it necessary to venture outdoors, be advised that warm, layered attire is essential to combat the briskness of the day and the falling temperatures. While the overall scene may appear gloomy, the beauty of the lakefront in winter can be striking, and a brisk walk could invigorate those who are bundled up sufficiently. With the holiday season approaching, it might be a good time to enjoy the festive decorations in local neighborhoods, keeping in mind that this is not only a typical winter day for the region but also one rich with potential for cozy gatherings and reflections as we approach the year's end.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-20 12:06:41"
+    "weather_report": "Evanston, Illinois, is currently enveloped in a chilly embrace, with temperatures settling in the low 30s, a stark reminder that winter has arrived. The air feels brisk and damp, typical of this season, as thick clouds linger overhead, shrouding the area in a gray veil. The forecast for later today warns of a chance for snow showers, with temperatures nudging downwards in the afternoon. Winds from the north northwest are set to whip through at a brisk pace, adding an extra bite to the already cool atmosphere. \n\nWave conditions on Lake Michigan are likely to reflect this blustery weather, with choppy waters anticipating the potential for snow flurries. With such frigid conditions, layered clothing is highly recommended\u2014think warm coats, scarves, and sturdy boots to navigate the chill effectively. While the day might not beckon for outdoor leisure, the cozy indoors like cafes or local shops may provide a welcoming retreat. It\u2019s a fitting day that aligns with the wintry spell of late December, as the holiday season approaches, inviting both reflection and warmth amidst the cold.",
+    "color_code": "#A8B7B4",
+    "timestamp": "2024-12-20 13:04:49"
 }
