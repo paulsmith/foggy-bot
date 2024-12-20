@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T12:34:00+00:00",
+            "timestamp": "2024-12-20T13:14:00+00:00",
             "temperature_f": 33.08,
             "temperature_c": 0.6,
-            "humidity": 91.665578984399,
+            "humidity": 88.378831552409,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Light Snow and Fog/Mist"
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is currently enveloped in a chilly and damp atmosphere, with light snow and mist adorning the landscapes. The temperature hovers around the low 30s, giving off a crisp, wintry feel that is typical for this time of year in the Midwest. As we look ahead to today, a snowy and cloudy day is expected with temperatures peaking near the mid-30s before settling into the low 30s by afternoon. Blustery north winds at 20 to 25 mph with gusts could reach 40 mph, adding a biting chill to the air, making outdoor conditions less than inviting.\n\nAs the waves lap against the shore of Lake Michigan, one can expect them to be moderately rough due to the brisk wind, which could pose challenges for anyone considering water activities. There is a significant chance of snow accumulation, so travelers and pedestrians should be cautious as they navigate potentially slick surfaces. For those braving the cold, wearing layered, insulated attire with a good coat, hat, and gloves is highly recommended. While today might not be ideal for outdoor excursions, it lends itself well to cozying up indoors, perhaps enjoying a warm drink or indulging in holiday preparations as the season approaches. Remember, today is not a holiday, but the feel of the season is unmistakable.",
-    "color_code": "#A7B7B4",
-    "timestamp": "2024-12-20 07:08:52"
+    "weather_report": "In Evanston, Illinois, the morning unfolds with a chilly embrace, as temperatures hover in the low 30s under a shroud of light snow and fog. Conditions feel damp and brisk, with a mist subtly softening the shoreline's edges as it creeps toward Lake Michigan. The day ahead promises more wintry weather, with forecasts indicating steady snow throughout, leading to a high around 35 degrees before dipping to near 31 in the afternoon. Winds will be strong and gusty, stirring up the atmosphere, making for a rather wintry scene by the lakeshore.\n\nAs snow falls and blankets the ground, the beach presents a serene yet somber sight, the waves rolling gently amid the relentless chill. Precipitation is likely to accumulate, adding another layer to the landscape; ideal for those who appreciate the stark beauty of a snowy day. Given the current season, bundle up in warm layers, perhaps a coat, hat, and gloves, to combat the biting wind and cold air. This chilly atmosphere isn't unusual for December, with temperatures falling right in line with seasonal expectations. The weather might not be inviting for outdoor pursuits, but a winter walk along the beach could provide a quiet escape, or perhaps a cozy afternoon inside with a book and hot drink as the snow continues to fall.",
+    "color_code": "#A9B6C1",
+    "timestamp": "2024-12-20 08:05:25"
 }
