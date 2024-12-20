@@ -7,13 +7,13 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T05:18:00+00:00",
+            "timestamp": "2024-12-20T05:51:00+00:00",
             "temperature_f": 33.08,
             "temperature_c": 0.6,
             "humidity": 91.665578984399,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 140,
-            "description": ""
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Light Snow and Fog/Mist"
         },
         "forecast": [
             {
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston suggest a chilly atmosphere, where temperatures hover in the low 30s accompanied by a damp and biting breeze. The air is thick with the scent of impending snow as well, as the area experiences a gentle yet consistent snowfall, with the possibility of drizzle adding to the wintery mix. As residents step outside, they\u2019ll encounter a stark landscape defined by low visibility and a pervasive cloud cover that seems to dim the usual vibrancy of the shoreline.\n\nLooking ahead to the day, snow showers are expected to continue throughout the morning, eventually giving way to colder temperatures in the afternoon. Winds will pick up as the day goes on, shifting to the north and gaining intensity, leaving an unmistakable chill in the air. Any accumulation of snow will likely be minor, but still enough to paint a delicate blanket over the landscape. Given the seasonal transition, the low 30s feel typical for a December day in this region, though the damp air may make it feel even colder. For those venturing outdoors, it would be wise to bundle up in warm layers, perhaps donning a heavy coat, gloves, and a hat. Outdoor activities may be limited, but a brisk walk along the shore might provide a refreshing respite, especially for those who cherish the serene beauty of winter's embrace.",
-    "color_code": "#6C7F9A",
-    "timestamp": "2024-12-20 00:06:56"
+    "weather_report": "Evanston is currently enveloped in a chilly embrace as temperatures hover in the mid-30s, complemented by a comfortable yet damp air that gives a sense of winter's persistent hold. Light snow and fog create a dim, almost ethereal atmosphere, obscuring visibility and rendering the landscape a muted canvas of white and gray. As we look ahead, an overnight forecast promises more snow and a chance for drizzle, with temperatures expected to dip slightly, rising only to around the low 30s by the overnight hours. The winds will shift from the east southeast, becoming more blustery at 5 to 15 mph, occasionally gusting as high as 25 mph, adding a sharp bite to the already cool conditions.\n\nTomorrow, the snow will continue, particularly in the morning, yielding to snow showers through the day. Daytime temperatures will struggle to reach the mid-30s before dipping once again, combined with a brisk north wind that may howl at 20 to 25 mph, creating formidable wind chills. The likelihood of precipitation remains high, with expected snowfall amounts possibly reaching accretions of less than an inch. These conditions suggest a winter day that lacks the warmth or allure for outdoor enjoyment. For those venturing out, layers are advisable, ideally including a warm coat, hat, and sturdy boots\u2014essential gear for navigating the slick and snowy terrain. Overall, this wintry weather is more akin to the heart of the season, reminding us that winter is still in command on this December day.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-20 01:05:22"
 }
