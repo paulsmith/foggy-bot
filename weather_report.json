@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T08:29:00+00:00",
+            "timestamp": "2024-12-20T09:36:00+00:00",
             "temperature_f": 33.08,
             "temperature_c": 0.6,
             "humidity": 91.665578984399,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 350,
-            "description": "Fog/Mist"
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 340,
+            "description": "Light Snow and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-20T03:00:00-06:00",
+                "startTime": "2024-12-20T04:00:00-06:00",
                 "endTime": "2024-12-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "5 to 15 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "NNE",
                 "icon": "https://api.weather.gov/icons/land/night/snow,90?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy. Low around 29, with temperatures rising to around 33 overnight. North northeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "Snow. Cloudy. Low around 29, with temperatures rising to around 33 overnight. North northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a cold and dreary atmosphere, with temperatures lingering in the low 30s and a damp chill that feels persistent in the air. The fog and mist hovering over the beach contribute to a shadowy landscape, where visibility may be limited. Winds are brisk, coming from the north-northwest at a fierce pace, adding an edge to the already biting temperatures. The scenery along the lake is transformed into a wintry backdrop, as snow begins to sprinkle down, setting the stage for more accumulation overnight.\n\nLooking ahead, expect snowfall throughout the day, with the temperature peaking in the mid 30s before falling slightly in the afternoon. The gusty winds will continue, likely making conditions feel even more wintery, while a complete cloud cover adds to the somber tone. With a 100% chance of snow and potential for accumulations of an inch or more, it\u2019s wise to prepare for slippery and wet conditions if venturing out. As such, layers of warm clothing, waterproof outerwear, and sturdy footwear are recommended for anyone stepping outside to weather these conditions. Considering the season and location, temperatures are in line with what one would expect for mid-December in the Midwest, where winter holds sway.\n\nGiven the forecast and prevailing conditions, indoor activities might be best, such as visiting a local cafe or exploring community events that embrace the cozy spirit of the season. It is indeed a day to enjoy the comfort of warmth indoors, especially with the holidays approaching.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-20 03:05:23"
+    "weather_report": "In Evanston, current conditions are marked by light snow and a persistent fog, creating a chilly, wintry atmosphere. With temperatures hovering in the low 30s and winds howling from the north at a brisk pace, the air feels biting and damp, typical for this season. The visibility is likely reduced as flurries drift through the air, blanketing the landscape in a fine layer of white.\n\nLooking ahead, the forecast indicates a continuation of snowy weather, with overnight lows dipping to the upper 20s, while the snow is expected to intensify tomorrow, accumulating an inch or so. The day will remain overcast with a high reaching only the mid-30s, accompanied by fierce north winds that could produce gusts up to 40 mph. Those venturing outdoors should dress warmly in layered attire against the cold and rising wind chill, and it's wise to wear waterproof gear given the likelihood of snow accumulation. Activities might be limited, but for the adventurous, a brisk walk or an outing to enjoy the holiday lights in the area could provide a refreshing experience amid the winter elements. As the season invites cozy indoor gatherings, perhaps curling up with a warm drink and watching the snow might be the best way to embrace this frosty day.",
+    "color_code": "#A6C5E6",
+    "timestamp": "2024-12-20 04:05:31"
 }
