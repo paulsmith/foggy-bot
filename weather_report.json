@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T09:36:00+00:00",
+            "timestamp": "2024-12-20T09:51:00+00:00",
             "temperature_f": 33.08,
             "temperature_c": 0.6,
             "humidity": 91.665578984399,
-            "wind_speed_mph": 37.04472,
+            "wind_speed_mph": 24.964920000000003,
             "wind_direction": 340,
             "description": "Light Snow and Fog/Mist"
         },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, current conditions are marked by light snow and a persistent fog, creating a chilly, wintry atmosphere. With temperatures hovering in the low 30s and winds howling from the north at a brisk pace, the air feels biting and damp, typical for this season. The visibility is likely reduced as flurries drift through the air, blanketing the landscape in a fine layer of white.\n\nLooking ahead, the forecast indicates a continuation of snowy weather, with overnight lows dipping to the upper 20s, while the snow is expected to intensify tomorrow, accumulating an inch or so. The day will remain overcast with a high reaching only the mid-30s, accompanied by fierce north winds that could produce gusts up to 40 mph. Those venturing outdoors should dress warmly in layered attire against the cold and rising wind chill, and it's wise to wear waterproof gear given the likelihood of snow accumulation. Activities might be limited, but for the adventurous, a brisk walk or an outing to enjoy the holiday lights in the area could provide a refreshing experience amid the winter elements. As the season invites cozy indoor gatherings, perhaps curling up with a warm drink and watching the snow might be the best way to embrace this frosty day.",
-    "color_code": "#A6C5E6",
-    "timestamp": "2024-12-20 04:05:31"
+    "weather_report": "In Evanston, Illinois, the current weather presents a chilly and damp scene, with temperatures lingering in the low 30s and a light snow falling, adding a delicate layer of white to the already muted landscape. The gusty winds, coming from the north at nearly 25 miles per hour, create a brisk atmosphere, causing the air to feel colder than it actually is. As the day progresses, snow will continue to dominate, with a high anticipated near mid 30s. The forecast predicts consistent snowfall throughout the day, with a 100% chance of accumulation potentially reaching around one inch by evening. \n\nThe beach panorama, normally inviting, takes on a somber and quiet ambiance under gray skies and falling snowflakes, not the best for a leisurely stroll along the shore. Wave activity is likely subdued given the weather, so it's wise to steer clear of the waterfront for safety. For those heading outdoors, bundling up is essential; a heavy coat, gloves, and a warm hat will make a crucial difference. Even as winter deepens, today's temperatures are typical for this time of year in the region, though the biting wind adds a layer of discomfort. Consider staying cozy indoors by reading a good book or indulging in a warm beverage\u2014activities perfectly suited for a snowy winter day.",
+    "color_code": "#A9C4DA",
+    "timestamp": "2024-12-20 05:04:56"
 }
