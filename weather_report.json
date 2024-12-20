@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T09:51:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 91.665578984399,
-            "wind_speed_mph": 24.964920000000003,
+            "timestamp": "2024-12-20T10:51:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 95.731858833056,
+            "wind_speed_mph": 49.929840000000006,
             "wind_direction": 340,
             "description": "Light Snow and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-20T04:00:00-06:00",
-                "endTime": "2024-12-20T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 29,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 90
-                },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/snow,90?size=medium",
-                "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy. Low around 29, with temperatures rising to around 33 overnight. North northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2024-12-20T06:00:00-06:00",
                 "endTime": "2024-12-20T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/snow,100/snow,80?size=medium",
                 "shortForecast": "Snow",
                 "detailedForecast": "Snow. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-20T18:00:00-06:00",
+                "endTime": "2024-12-21T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 18,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 18. North northwest wind 10 to 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather presents a chilly and damp scene, with temperatures lingering in the low 30s and a light snow falling, adding a delicate layer of white to the already muted landscape. The gusty winds, coming from the north at nearly 25 miles per hour, create a brisk atmosphere, causing the air to feel colder than it actually is. As the day progresses, snow will continue to dominate, with a high anticipated near mid 30s. The forecast predicts consistent snowfall throughout the day, with a 100% chance of accumulation potentially reaching around one inch by evening. \n\nThe beach panorama, normally inviting, takes on a somber and quiet ambiance under gray skies and falling snowflakes, not the best for a leisurely stroll along the shore. Wave activity is likely subdued given the weather, so it's wise to steer clear of the waterfront for safety. For those heading outdoors, bundling up is essential; a heavy coat, gloves, and a warm hat will make a crucial difference. Even as winter deepens, today's temperatures are typical for this time of year in the region, though the biting wind adds a layer of discomfort. Consider staying cozy indoors by reading a good book or indulging in a warm beverage\u2014activities perfectly suited for a snowy winter day.",
-    "color_code": "#A9C4DA",
-    "timestamp": "2024-12-20 05:04:56"
+    "weather_report": "Current conditions in Evanston, Illinois, present a stark winter landscape, with the temperature hovering in the low 30s, accompanied by a biting breeze that adds to a wintry chill. Light snow is falling, mingling with fog, creating a damp atmosphere that can feel quite raw. As snow accumulates and visibility dips, the day appears overcast and dreary, well-suited for staying indoors with a warm drink.\n\nThe forecast indicates continuing snow throughout the day, with temperatures peaking near mid 30s before slipping back into the low 30s by afternoon. Winds will be blustery, whipping in from the north at 20 to 25 miles per hour, with gusts reaching near 40 miles per hour. New snow accumulation may reach around an inch, making for slushy conditions by evening. As night descends, skies will partly clear, dropping to a low around 18, turning the air crisp and biting. The wave conditions off Lake Michigan are likely to be tumultuous, matching the gusty winds and the snow-covered shoreline.\n\nGiven the conditions, dressing in layers is essential\u2014opt for warm coats, hats, and gloves to combat the chill. Footwear suited for wet and icy surfaces is also advisable. Though the cold and snowy setting might deter many from venturing out, it offers an opportunity for winter activities like sledding or a brisk walk along the beach, as long as one is adequately dressed. Today marks a typical winter day in Evanston, reflecting the region's seasonal character, with winter's chill firmly in place.",
+    "color_code": "#AAB8D1",
+    "timestamp": "2024-12-20 06:08:25"
 }
