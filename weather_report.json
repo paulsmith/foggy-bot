@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T01:02:00+00:00",
+            "timestamp": "2024-12-20T01:38:00+00:00",
             "temperature_f": 30.92,
             "temperature_c": -0.6,
             "humidity": 92.262580702357,
-            "wind_speed_mph": 24.964920000000003,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 130,
             "description": "Light Freezing Rain and Snow and Fog/Mist"
         },
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-19T19:00:00-06:00",
+                "startTime": "2024-12-19T20:00:00-06:00",
                 "endTime": "2024-12-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 30,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois reveal a frigid landscape, with temperatures hovering in the low 30s and a forbidding atmosphere enhanced by a light freezing rain and snow mix along with persistent fog. The air feels biting and damp, as gusty winds sweep through, creating a rather bleak and chilling scene near the shores of Lake Michigan. The beach, usually a place of relaxation, is transformed into a winter tableau, its beauty muted by the shroud of snowflakes and frost. As night falls, the weather is expected to further deteriorate with snow likely until the early hours, followed by a grim mix of rain and snow, hinting at a messy overnight transition.\n\nTomorrow, snow will continue to fall, tapering off by late morning, but the cloud cover will remain thick and oppressive. With high temperatures barely reaching the mid-30s, the day will feel decidedly chilly, with strong north winds intensifying the cold and making any outdoor venture feel less inviting. Splashes of activity are best suited for indoors, where one can find warmth and comfort. If venturing outside is unavoidable, dressing in layers with a warm coat, gloves, and waterproof boots will be essential. As we approach the winter solstice, these bone-chilling, damp conditions are typical for this time of year in the Midwest, marking a distinctly wintry pattern that many in the region have learned to endure. With no holidays or special events on the horizon today, it might be best to cozy up and plan for indoor pursuits until the weather eases.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-12-19 19:32:47"
+    "weather_report": "As we survey the current conditions in Evanston, Illinois, we find ourselves enveloped in a wintry scene marked by light freezing rain mixed with snow, accompanied by a thick fog that casts a steely gloom over the beach. The temperature sits in the low 30s, with a fierce wind howling from the south-southeast, adding a biting chill to the damp air. This is not the fairest of evenings to be outside\u2014indeed, visibility is severely limited, and the landscape appears subdued and gray, typical of a late December night in the Midwest.\n\nLooking ahead to the night, expect a continuation of snow before transitioning to a wintry mix as temperatures hover around the low 30s, rising slightly overnight. A brisk breeze will persist, with gusts strong enough to make even the sturdiest of winter coats feel inadequate. Precipitation will likely accumulate with a chance of snow likely exceeding one inch, creating slick surfaces ahead. For those venturing out, layering up with a warm, waterproof coat, gloves, and sturdy boots is advisable, as conditions remain anything but inviting. Given that today is an ordinary weekday in the midst of the holiday season, indoor activities may be preferable for most. However, for the brave-hearted, a brisk walk along the beach offers a chance to experience nature at its most formidable, though caution is warranted due to the slippery terrain.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-19 20:27:41"
 }
