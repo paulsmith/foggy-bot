@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T17:51:00+00:00",
+            "timestamp": "2024-12-20T18:51:00+00:00",
             "temperature_f": 32.0,
             "temperature_c": 0,
-            "humidity": 78.458012744656,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Cloudy"
+            "humidity": 75.018440463752,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 340,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-20T13:00:00-06:00",
+                "startTime": "2024-12-20T14:00:00-06:00",
                 "endTime": "2024-12-20T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -32,8 +32,8 @@
                 "windSpeed": "20 to 25 mph",
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
-                "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Cloudy. High near 35, with temperatures falling to around 31 in the afternoon. North northwest wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+                "shortForecast": "Snow Likely",
+                "detailedForecast": "Snow likely. Mostly cloudy. High near 35, with temperatures falling to around 30 in the afternoon. North northwest wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-12-20T18:00:00-06:00",
                 "endTime": "2024-12-21T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 18,
+                "temperature": 19,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 30
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 18. North northwest wind 10 to 15 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/sct?size=medium",
+                "shortForecast": "Scattered Snow Showers then Partly Cloudy",
+                "detailedForecast": "Scattered snow showers before 8pm. Partly cloudy, with a low around 19. North northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "Evanston, Illinois, is currently enveloped in a chilly embrace, with temperatures settling in the low 30s, a stark reminder that winter has arrived. The air feels brisk and damp, typical of this season, as thick clouds linger overhead, shrouding the area in a gray veil. The forecast for later today warns of a chance for snow showers, with temperatures nudging downwards in the afternoon. Winds from the north northwest are set to whip through at a brisk pace, adding an extra bite to the already cool atmosphere. \n\nWave conditions on Lake Michigan are likely to reflect this blustery weather, with choppy waters anticipating the potential for snow flurries. With such frigid conditions, layered clothing is highly recommended\u2014think warm coats, scarves, and sturdy boots to navigate the chill effectively. While the day might not beckon for outdoor leisure, the cozy indoors like cafes or local shops may provide a welcoming retreat. It\u2019s a fitting day that aligns with the wintry spell of late December, as the holiday season approaches, inviting both reflection and warmth amidst the cold.",
-    "color_code": "#A8B7B4",
-    "timestamp": "2024-12-20 13:04:49"
+    "weather_report": "A chilly afternoon in Evanston sees temperatures sitting squarely in the low 30s, accompanied by a dense layer of clouds that keep the sun at bay and create a somber, overcast ambiance. The strong, gusty winds from the north-northwest howl across Lake Michigan, whipping up waves that dance with a wild intensity. As the day progresses, snow is anticipated, with a 70% chance of flurries adding to the mix and potentially dusting the area with a light layer. By evening, the snow may taper off to scattered showers, with evening temperatures expected to dip into the upper teens, leading to a particularly brisk night.\n\nGiven the weather, those venturing outdoors should don warm layers, including insulated jackets, hats, and gloves, to stave off the cold. The wave conditions could make for an interesting, albeit frigid, view along the lakefront, making it a great time for a brisk walk, but best suited for a quick glimpse rather than extensive exploration. While today isn't marked by any significant holiday, residents will want to prepare for the wintry conditions that characterize this time of year in the Midwest, with temperatures aligning with the typical cold snap of late December as we approach the festive season.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-20 14:05:43"
 }
