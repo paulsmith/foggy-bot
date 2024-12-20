@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T22:51:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 69.058867777488,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 150,
-            "description": "Light Snow"
+            "timestamp": "2024-12-20T01:02:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 92.262580702357,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 130,
+            "description": "Light Freezing Rain and Snow and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-19T18:00:00-06:00",
+                "startTime": "2024-12-19T19:00:00-06:00",
                 "endTime": "2024-12-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 30,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois present a chilly and blustery scene, with temperatures hovering in the low 30s and light snow creating a picturesque winter ambiance. The visibility is somewhat reduced, lending a soft veil to the landscape as flakes drift slowly down, while a fierce wind adds an invigorating bite to the air. This evening, expect snow to continue until about 1 AM, then transition into a mix of rain and snow as the temperature gradually rises to the mid 30s. With a substantial chance of precipitation, conditions will remain fairly damp and breezy, particularly with gusts approaching 25 miles per hour.\n\nTomorrow promises a similar wintry experience, with snow likely until around mid-morning followed by intermittent snow showers, and temperatures dipping back into the low 30s during the afternoon. The waves on Lake Michigan may be somewhat choppy but manageable, given the ongoing weather. Those venturing outdoors should consider bundling up in warm layers, donning a heavy coat, insulated gloves, and waterproof boots for comfort against the cold and wet conditions. Given that we are well into December, these temperatures align closely with typical seasonal expectations for the region, providing an authentic feel of a Midwest winter. As the holiday season approaches, it's a perfect time to enjoy cozy indoor activities or take brisk winter walks, embracing the serene beauty of Evanston\u2019s snow-dusted shorelines.",
-    "color_code": "#A6B5C2",
-    "timestamp": "2024-12-19 18:21:35"
+    "weather_report": "Current conditions in Evanston, Illinois reveal a frigid landscape, with temperatures hovering in the low 30s and a forbidding atmosphere enhanced by a light freezing rain and snow mix along with persistent fog. The air feels biting and damp, as gusty winds sweep through, creating a rather bleak and chilling scene near the shores of Lake Michigan. The beach, usually a place of relaxation, is transformed into a winter tableau, its beauty muted by the shroud of snowflakes and frost. As night falls, the weather is expected to further deteriorate with snow likely until the early hours, followed by a grim mix of rain and snow, hinting at a messy overnight transition.\n\nTomorrow, snow will continue to fall, tapering off by late morning, but the cloud cover will remain thick and oppressive. With high temperatures barely reaching the mid-30s, the day will feel decidedly chilly, with strong north winds intensifying the cold and making any outdoor venture feel less inviting. Splashes of activity are best suited for indoors, where one can find warmth and comfort. If venturing outside is unavoidable, dressing in layers with a warm coat, gloves, and waterproof boots will be essential. As we approach the winter solstice, these bone-chilling, damp conditions are typical for this time of year in the Midwest, marking a distinctly wintry pattern that many in the region have learned to endure. With no holidays or special events on the horizon today, it might be best to cozy up and plan for indoor pursuits until the weather eases.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-19 19:32:47"
 }
