@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T19:51:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 69.058867777488,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-12-20T22:51:00+00:00",
+            "temperature_f": 28.94,
+            "temperature_c": -1.7,
+            "humidity": 68.694547915021,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 320,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-20T14:00:00-06:00",
-                "endTime": "2024-12-20T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 35,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "20 to 25 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
-                "shortForecast": "Snow Likely",
-                "detailedForecast": "Snow likely. Mostly cloudy. High near 35, with temperatures falling to around 30 in the afternoon. North northwest wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-20T18:00:00-06:00",
                 "endTime": "2024-12-21T06:00:00-06:00",
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 40
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30/sct?size=medium",
-                "shortForecast": "Scattered Snow Showers then Partly Cloudy",
-                "detailedForecast": "Scattered snow showers before 8pm. Partly cloudy, with a low around 19. North northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,40/sct?size=medium",
+                "shortForecast": "Chance Snow Showers then Partly Cloudy",
+                "detailedForecast": "A chance of snow showers before 8pm. Partly cloudy, with a low around 19. North northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-12-21T06:00:00-06:00",
+                "endTime": "2024-12-21T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 26,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 26, with temperatures falling to around 23 in the afternoon. Northwest wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, conditions are currently brisk and chilly, with temperatures hovering in the low 30s. The air feels rather damp, accentuated by the gray, partly cloudy sky, setting a somewhat somber winter atmosphere. Snow is expected to make an appearance this afternoon, with a high reaching around 35 degrees, then gradually dropping to the upper teens tonight. Expect a steady north-northwest wind, adding a blustery chill, particularly during any gusts that may reach up to 35 mph.\n\nWith a 70% chance of snow this afternoon, it is wise to prepare for slippery conditions, especially as light accumulation is anticipated. Later, scattered snow showers will give way to a partly cloudy night, enhancing the cool and crisp feel of the evening. Lake Michigan may exhibit some fresh waves today, providing a dramatic backdrop as the clouds roll in, but the conditions will not be ideal for swimming or other water activities. Instead, warm layers and waterproof attire are recommended if venturing outside, particularly for those walking near the beach or attending to outdoor tasks. Given the winter season, this temperature is typical for the region, so bundle up and enjoy some cozy indoor activities as the holiday season draws near.",
-    "color_code": "#A6B0B4",
-    "timestamp": "2024-12-20 15:04:57"
+    "weather_report": "In Evanston, the current weather presents a crisp chill, with temperatures hovering in the upper 20s and a prevailing wind that feels fierce out of the northwest. The day is mostly cloudy, lending a subdued atmosphere over the lakefront, where wave activity adds a dynamic, rolling motion to the scene. As evening approaches, a chance of light snow showers exists, particularly before 8 PM, accompanied by temperatures expected to dip to the low teens later tonight. With gusty winds expected, particularly this evening, conditions might feel even colder than the thermometer suggests.\n\nLooking ahead to Saturday, expect a brightening sky with mostly sunny conditions taking over, but don\u2019t expect much warmth as the high struggles to reach the mid 20s. This temperature trend is consistent with typical winter weather for this time of year in the Midwest, where the mercury reliably falls. Given the chilly and potentially breezy nature, layered, warm attire is advised\u2014think heavy coats, gloves, and perhaps a hat to shield from the cutting wind. The beach might not be the first choice of destination, but bundled walks along the lakefront could offer a refreshing winter experience for those adventurous enough to embrace the season. This period leading up to the holidays invites a cozy atmosphere, perfect for warming up indoors with friends or family as celebrations draw closer.",
+    "color_code": "#A0B4C4",
+    "timestamp": "2024-12-20 18:17:32"
 }
