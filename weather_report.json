@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-21T02:51:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 70.823079159733,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 340,
+            "timestamp": "2024-12-21T06:51:00+00:00",
+            "temperature_f": 21.02,
+            "temperature_c": -6.1,
+            "humidity": 70.468689669362,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 330,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-20T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-21T02:00:00-06:00",
                 "endTime": "2024-12-21T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 19,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 19. North northwest wind 10 to 15 mph."
+                "detailedForecast": "Partly cloudy, with a low around 19. North northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -49,14 +49,14 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "NW",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 26, with temperatures falling to around 23 in the afternoon. Northwest wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly sunny. High near 26, with temperatures falling to around 24 in the afternoon. North northwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston are marked by a brisk chill, with temperatures hovering in the low 20s and a noticeable wind creating a sharp bite in the air. It's mostly clear, making for a refreshing atmosphere despite the ongoing frostiness. The wind, fierce and relentless, whips across the landscape at nearly 50 miles per hour, contributing to a distinct winter feel that wraps around the beach and Lake Michigan's shoreline.\n\nAs we anticipate tonight, expect the clouds to gather slightly, bringing a partly cloudy sky with temperatures dipping to around 19 degrees. Tomorrow offers a glimmer of sunshine; however, temperatures are expected to peak near 26 before waning through the afternoon. The winds will shift to a gentler breeze, making the day manageable though still cold. Given the frosty conditions and the strong waves on the lake, outdoor activities should be approached with caution. Those venturing out should don layers for warmth\u2014heavy coats, hats, and gloves to fend off the chill will be necessary. In this winter season, these temperatures align closely with what one would expect, as we embrace the deepening of winter's grip. While it might not be the optimal day for extended outdoor adventures, a brisk walk along the beach could provide a moment of solitude amidst the vibrant, raw beauty of the winter landscape.",
-    "color_code": "#A3B5C4",
-    "timestamp": "2024-12-20 22:05:09"
+    "weather_report": "In Evanston, the current weather presents a brisk scene, with temperatures hovering in the low 20s and a blustery wind slicing through the air at a notable pace. The atmosphere feels quite cool, thanks to a significant chill which is accentuated by moisture lingering in the air. As the night unfolds, the sky will become partly cloudy, allowing for a hint of starlight amidst the cold\u2014a low dipping toward the teens will lend a stark winter chill to the air.\n\nLooking ahead to Saturday, residents can expect mostly sunny skies, a welcome sight after the recent clouds and chill. Highs will reach into the mid 20s before settling back into the low 20s in the afternoon. While wind speeds will moderate to a gentle breeze, the lakefront may still experience some spirited wave action, making it less than ideal for casual strolls along the beach. Dress warmly, ideally layering with thick winter clothing and accessories such as gloves and scarves, as the temperature feels distinctly wintry. These conditions reflect typical seasonal expectations for December in this region, where the cold comes hand in hand with the onset of winter festivities. \n\nWith no significant precipitation in sight, outdoor enthusiasts might find enjoyment in winter activities like ice skating or even a brisk walk in the quieter parks. However, given the chill, one should bundle up well to fully appreciate the beauty of the snowy landscape without discomfort.",
+    "color_code": "#A6C0D7",
+    "timestamp": "2024-12-21 02:05:09"
 }
