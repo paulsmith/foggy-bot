@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-21T10:51:00+00:00",
-            "temperature_f": 17.06,
-            "temperature_c": -8.3,
-            "humidity": 70.001211999313,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 320,
-            "description": "Clear"
+            "timestamp": "2024-12-21T14:51:00+00:00",
+            "temperature_f": 19.04,
+            "temperature_c": -7.2,
+            "humidity": 64.289719305684,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 330,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-21T06:00:00-06:00",
+                "startTime": "2024-12-21T10:00:00-06:00",
                 "endTime": "2024-12-21T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 26,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the current conditions present a brisk scene with a temperature in the low 20s, combined with a biting wind, creating a crisp chill that cuts through the air. The skies are clear at the moment, but this shouldn\u2019t be taken for granted, as gusty winds from the northwest are stirring the atmosphere, hinting at the volatility typical for winter months. The beach, bordered by the churning waters of Lake Michigan, reflects the starkness of the season, with waves lapping against the shore in a teasing manner.\n\nLooking forward, today\u2019s forecast predicts mostly sunny skies with a high near the mid 20s, though temperatures may momentarily dip to around 24 in the afternoon. The wind is expected to calm down slightly, offering a gentler breeze, inviting those who dare to venture outdoors. Tonight, a shift to mostly cloudy conditions will bring temperatures down to the upper teens, slightly warming as the night progresses, all with a whispering west wind. As for precipitation, it appears we are in a dry spell for now, but the cloudy night could bring the potential for flurries in the immediate future.\n\nGiven the season, this weather is typical for a winter day in the Midwest, though the windchill might make it feel noticeably colder. It\u2019s advisable to bundle up in layers, ensuring warmth with hats and gloves for those heading outside. With clear conditions, this could be an excellent opportunity for brisk walks along the beach or just enjoying the serene winter landscape. However, if you're seeking warmth, cozying up indoors with a warm beverage might be the favored choice as we inch closer to the holiday season.",
-    "color_code": "#B0C4D4",
-    "timestamp": "2024-12-21 06:06:20"
+    "weather_report": "Current conditions in Evanston present a chilly atmosphere, with temperatures hovering in the low 20s and a brisk, almost biting wind sweeping in from the northwest. There's a definite sense of winter in the air, highlighted by the mostly cloudy skies that have cast a muted light over the landscape. As we look ahead, the forecast anticipates a shift towards mostly sunny skies with temperatures peaking in the mid-to-upper 20s, though they may dip back into the low 20s as the day fades into evening. Cloud cover is expected to return after sunset, leading to a low around the upper teens, so a warm layer would be advisable for those venturing out later.\n\nThe view outside reveals a choppy Lake Michigan, with noticeable wave activity that suggests a brisk rolling swell\u2014ideal for watching the serenity and strength of winter waters, yet perhaps not the best for casual beach strolls. There\u2019s no immediate threat of precipitation, allowing for clear visibility, although the cold may deter all but the most determined outdoor enthusiasts. Dressing in layers is key today; think thick coats, hats, and gloves to combat the winter wind while enjoying a brisk walk or perhaps a moment spent by the water. While the date holds no major holiday significance, it embodies the essence of a Chicago winter day, offering a beautiful yet subdued invitation to experience the season\u2019s chill.",
+    "color_code": "#A5C8E0",
+    "timestamp": "2024-12-21 10:04:34"
 }
