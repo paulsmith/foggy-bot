@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-22T06:51:00+00:00",
-            "temperature_f": 15.979999999999997,
-            "temperature_c": -8.9,
-            "humidity": 73.352369508984,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": ""
+            "timestamp": "2024-12-22T10:51:00+00:00",
+            "temperature_f": 14.0,
+            "temperature_c": -10,
+            "humidity": 79.968355478689,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 170,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-22T02:00:00-06:00",
-                "endTime": "2024-12-22T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 19,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "0 to 5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 19. Southwest wind 0 to 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2024-12-22T06:00:00-06:00",
                 "endTime": "2024-12-22T18:00:00-06:00",
                 "isDaytime": true,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 33. South wind 10 to 15 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 33. South wind 10 to 15 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-22T18:00:00-06:00",
+                "endTime": "2024-12-23T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 31,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "20 to 25 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 31. South wind 20 to 25 mph, with gusts as high as 35 mph."
             }
         ]
     },
-    "weather_report": "As we step into the early morning of December 22nd in Evanston, the air is noticeably brisk, with temperatures hovering just above the freezing mark and a cool dampness settling in with the surroundings. The wind is calm, offering a slightly tranquil yet chilly atmosphere. Expect partly cloudy skies overnight with temperatures dipping to the high teens, followed by a clearer and sunnier Sunday that will bring some warmth with highs nearing the low 30s. \n\nWhile the beach scene looks serene, the waves are likely to be restless, reflecting the seasonal chill of Lake Michigan. Precipitation seems absent at present, although atmospheric conditions could shift as breezy weather is anticipated later. Given the wintry feel, it\u2019s advisable to dress warmly, layering with a sturdy coat, a hat, and gloves to stay comfortable during outdoor excursions. This time of year typically brings cold temperatures to the region, and while today's conditions are seasonally appropriate, they still warrant caution for those venturing outside. Suggested activities include brisk walks along the lakeshore to enjoy the winter scenery or cozying up in a local caf\u00e9 to savor a hot beverage, particularly as the holidays approach.",
-    "color_code": "#A3A3A3",
-    "timestamp": "2024-12-22 02:05:06"
+    "weather_report": "In Evanston, Illinois, the morning brings a cold chill with temperatures resting in the low teens, where the biting air mixes with dampness, creating a brisk and frigid atmosphere. The sky shines with clarity, suggesting a fleeting moment of brightness amid the winter chill. As we look ahead to the day, we can expect a notable shift; partly sunny skies will usher in a high nearing the mid-30s, accompanied by a gentle to breezy south wind that will invigorate the day, topping out with gusts reaching nearly 25 mph. Tonight, clouds will blanket the horizon, presenting a low in the low 30s, as the wind stiffens, swirling about with a somewhat fierce demeanor.\n\nThe lake is restless this morning, its waves churning with an unmistakable energy, indicating a potential for choppy waters. With no precipitation expected for today, the scene remains inviting yet cold, necessitating warm attire for anyone brave enough to venture outside. Think heavy coats, scarves, and sturdy footwear to combat the cold and potential wind chill. Even in late December, while temperatures are typical for the season, it's a reminder of winter's grasp. Given the mix of chilly conditions, those suited for winter sports might find satisfaction on the beach or nearby parks, making the most of a brisk walk or jog by the shore. The day, however, also highlights the proximity of the festive holiday season, as we approach Christmas just a few days away.",
+    "color_code": "#A4B0C5",
+    "timestamp": "2024-12-22 06:06:08"
 }
