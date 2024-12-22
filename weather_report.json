@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-21T23:51:00+00:00",
-            "temperature_f": 21.02,
-            "temperature_c": -6.1,
-            "humidity": 67.724030493874,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 350,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-22T02:51:00+00:00",
+            "temperature_f": 17.96,
+            "temperature_c": -7.8,
+            "humidity": 70.674441801711,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 330,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-21T18:00:00-06:00",
+                "startTime": "2024-12-21T22:00:00-06:00",
                 "endTime": "2024-12-22T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 17,
+                "temperature": 18,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "0 to 5 mph",
-                "windDirection": "WSW",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 17, with temperatures rising to around 19 overnight. West southwest wind 0 to 5 mph."
+                "detailedForecast": "Mostly cloudy. Low around 18, with temperatures rising to around 23 overnight. Southwest wind 0 to 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, the atmosphere is marked by a chill that permeates the air, hovering in the low 20s, creating a brisk and slightly biting environment. With a strong, gusty wind whipping down from the northwest, those venturing outside will feel the chill more acutely as it stirs the mostly cloudy skies. The beach presents a somber sight, with waves lapping restlessly against the shore, hinting at winter's approach. Although precipitation is not expected tonight, the air remains heavy with a moisture-laden mist, making the visibility somewhat limited as the sun sets.\n\nLooking to tomorrow, conditions will improve slightly, bringing a mix of clouds and sunshine throughout the day. As temperatures rise to the low 30s, it should feel a bit more comfortable, especially with lighter breezes expected from the south. It\u2019s a typical winter day in the Midwest, with the cold air reminding us of the season's firm grip. Given the current conditions and forecast, wearing layered clothing\u2014perhaps a thick winter coat, hat, and gloves\u2014will be advisable for those enjoying a stroll along the beach. Outdoor activities may lean more towards brisk walks or runs rather than leisurely outings, as the cozy indoor spaces beckon to those looking for warmth and comfort.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-12-21 18:19:34"
+    "weather_report": "Current conditions in Evanston, Illinois, present a crisp and cool evening with temperatures hovering in the mid-teen range. The air carries a gentle chill, made more pronounced by a brisk wind sweeping in from the northwest. Although the day is closing out partly cloudy, the outdoor scene hints at the possibility of an impending weather shift, as mostly cloudy skies will blanket the area tonight with temperatures slightly rising as the night progresses.\n\nLooking ahead, Sunday promises to be partly sunny with temperatures climbing into the low 30s, accompanied by a south wind that may generate some blustery conditions. The waves on Lake Michigan will likely be choppy, a reflection of the ongoing winds and cloud cover, which could be a bit unsettled for shoreline activities. There\u2019s no substantial precipitation expected overnight or through the day tomorrow, making for a dry but brisk outing through the holiday season. \n\nGiven the chill and wind, layering up with warm clothing is recommended\u2014think insulated jackets, hats, and gloves for any potential outdoor adventures. While the current temperatures are typical for this time of year in the Midwest, the coastal allure of the lake might draw some hearty souls out for a brisk walk or a picturesque moment by the water. With the holiday spirit in the air, it\u2019s a fine time for indoor gatherings or cozy evenings by the fire, as December days in Evanston grow shorter and colder.",
+    "color_code": "#A32A2E",
+    "timestamp": "2024-12-21 22:05:09"
 }
