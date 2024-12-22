@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-22T14:51:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 70.823079159733,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 180,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-22T18:51:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 68.930948937497,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 170,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-22T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-22T14:00:00-06:00",
                 "endTime": "2024-12-22T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "20 to 25 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 31. South wind 20 to 25 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 31. South wind 15 to 20 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere as temperatures hover around the low 20s, accompanied by a blustery wind from the south that adds a sharp bite to the air. The skies above remain mostly cloudy, casting a muted light over the landscape. As we look ahead, the forecast promises a transition to mostly sunny weather, with temperatures expected to climb toward the low 30s, although a gusty south wind may still keep the chill lingering throughout the day. This wintry weather, typical for December in the Midwest, suggests a stark contrast to the warmth that\u2019s often craved during the holiday season.\n\nAs for outdoor activities, while the bluster and cool air may deter some, the upcoming sunshine could make for a pleasant time along the beach, especially for brief strolls or quiet reflection by Lake Michigan. However, it is advisable to dress warmly, with layers and a windproof coat to combat the cold and gusty conditions. Waves along the shore can be robust today, possibly drawing surf enthusiasts, but caution is encouraged given the higher gusts forecasted for the evening. Indeed, today marks the winter solstice, a day of shorter daylight but greater promise as we embrace the season ahead.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-22 10:04:18"
+    "weather_report": "In Evanston, the current weather reflects a chilly December ambiance, with temperatures in the low 30s and a brisk, almost howling wind that adds a bite to the air. Cloud cover dominates the sky, creating a somewhat dreary atmosphere as the waves on Lake Michigan churn restlessly. These conditions may discourage those seeking outdoor leisure, but the expected shift toward mostly sunny skies this afternoon will bring a welcome change, with highs just a few degrees above freezing and winds easing slightly to a more manageable breeze.\n\nThough precipitation isn't on the immediate horizon, the damp chill can make the day feel particularly raw. Those venturing outside should dress warmly, opting for layers that include winter jackets, hats, and gloves to ward off the cold. The temperature aligns well with the winter season in the Midwest, where chilly days are to be expected. As this holiday season unfolds, outdoor activities might include a brisk walk by the beach to enjoy the fresh air, albeit with caution due to the wind and potential for slippery surfaces. Despite lacking a major holiday today, the spirit of the season may inspire mild festivities or cozy gatherings indoors.",
+    "color_code": "#BFD3C1",
+    "timestamp": "2024-12-22 14:04:31"
 }
