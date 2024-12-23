@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-22T22:51:00+00:00",
+            "timestamp": "2024-12-23T02:51:00+00:00",
             "temperature_f": 32.0,
             "temperature_c": 0,
-            "humidity": 75.018440463752,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 150,
-            "description": "Mostly Cloudy"
+            "humidity": 72.255157554836,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 170,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-22T18:00:00-06:00",
+                "startTime": "2024-12-22T22:00:00-06:00",
                 "endTime": "2024-12-23T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 30,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/bkn,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Freezing Drizzle",
-                "detailedForecast": "A chance of freezing drizzle after 4am. Mostly cloudy, with a low around 30. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Freezing Drizzle",
+                "detailedForecast": "A slight chance of freezing drizzle and a slight chance of drizzle after 5am. Cloudy. Low around 30, with temperatures rising to around 32 overnight. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 40
                 },
                 "windSpeed": "10 to 20 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50/rain,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,40?size=medium",
                 "shortForecast": "Chance Freezing Drizzle then Chance Rain",
-                "detailedForecast": "A chance of freezing drizzle and a chance of drizzle before noon, then a chance of rain. Cloudy, with a high near 39. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no ice accumulation expected."
+                "detailedForecast": "A chance of freezing drizzle and a chance of drizzle before noon, then a chance of rain. Cloudy, with a high near 39. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. Little or no ice accumulation expected."
             }
         ]
     },
-    "weather_report": "As night descends on Evanston, conditions remain quite brisk with a temperature hovering in the low 30s, while a persistent cloud cover casts a gloomy pall over the beach. The air feels sharply cool, reminiscent of damp winter days, as a fierce wind whips from the south at speeds that could chill even the most bundled-up passerby. This evening, there's a chance of freezing drizzle after the early hours, adding to the already overcast landscape. \n\nLooking ahead to tomorrow, a chance of drizzle looms before noon, transitioning into rain later in the day, with highs barely climbing into the upper 30s. Winds will continue to gust, making it feel a bit chillier than the actual temperature suggests. Given these blustery conditions and imminent precipitation, residents are advised to dress warmly in layers, perhaps donning a waterproof outer layer to combat the likelihood of drizzle. As we are well into late December, these temperatures are fairly typical for the season, fitting into that wintry mix that characterizes this time of year in the Midwest. Given the forecast and the chilly aesthetic outside, it may be a day better suited for cozy indoor activities rather than braving the elements.",
-    "color_code": "#A4B0B4",
-    "timestamp": "2024-12-22 18:18:32"
+    "weather_report": "In Evanston, the air is currently brisk, with temperatures in the low 30s and a shivering breeze coming from the south at a fierce clip. The cloudy skies cast a dim veil over the day, contributing to a chilly ambiance as the wind whips through, adding a biting edge. The forecast for the night hints at a slight chance of freezing drizzle and other forms of light precipitation, culminating in a low near 30. Notably, as the hours grow later, temperatures are expected to stabilize around 32, leaving the evening to feel particularly cool and damp.\n\nLooking forward to Monday, conditions may bring more of the same, with a chance of precipitation in the form of freezing drizzle before noon, then transitioning to drizzle and potentially rain later in the day. Highs could rise to nearly 40, but the presence of a steady breeze will persist, keeping the outdoor experience less than inviting. Wave conditions along the shore are expected to be noticeable, with choppy waters reflecting the gusty winds; local beach enthusiasts should take caution. Because of the chilly, damp feel, it\u2019s advisable to dress warmly\u2014layers of thick clothing along with waterproof outerwear would be sensible. Given that we are in the heart of December, these temperatures are quite typical for the season. There might be a temptation to head outdoors for some winter activities, but considering the weather, indoor pursuits seem more appropriate as we approach the holiday season.",
+    "color_code": "#B0C4D0",
+    "timestamp": "2024-12-22 22:05:19"
 }
