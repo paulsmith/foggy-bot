@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-23T10:51:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 66.73918795736,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 180,
+            "timestamp": "2024-12-23T14:51:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 66.983960134777,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 190,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-23T06:00:00-06:00",
+                "startTime": "2024-12-23T10:00:00-06:00",
                 "endTime": "2024-12-23T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
-                "shortForecast": "Chance Drizzle then Chance Light Rain",
-                "detailedForecast": "A chance of drizzle and a slight chance of freezing drizzle before noon, then a chance of rain. Cloudy. High near 39, with temperatures falling to around 37 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers/rain_showers,20?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy, with a high near 39. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2024-12-23T18:00:00-06:00",
                 "endTime": "2024-12-24T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 33,
+                "temperature": 35,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +52,11 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 33. West northwest wind 5 to 10 mph."
+                "detailedForecast": "Cloudy, with a low around 35. West northwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the morning greets us with a frosty chill, as temperatures hover in the mid-30s. The air carries a biting edge, making it feel quite brisk, especially with the strong winds swirling from the south, creating an atmosphere that is both invigorating and somewhat harsh. The cloudy sky looms above, painting a stark canvas, with the occasional threat of drizzle in the air. As the day unfolds, a slight chance of brief, freezing drizzle exists until noon, transitioning later to a possibility of light rain. The high is projected to near 39, ultimately sliding down to the low 30s tonight under a persistent gray blanket.\n\nConditions on the beach reveal rolling waves of Lake Michigan, each cresting under the gusty winds, crafting a restless and tumultuous scene. While the shoreline is exposed to the chill of the season, it may not be the most inviting for outdoor activities; however, this is a time known for gathering with friends and family, perhaps warming up indoors with hot beverages or engaging in cozy indoor pursuits. Given the holiday spirit of the season, this day leads up to Christmas, suggesting a festive air despite the less than pleasant weather. Layering up is recommended if venturing outside, with warm attire necessary to combat the cold and wind, allowing a chance for a brisk walk along the beach to appreciate the rugged beauty of Lake Michigan in winter.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2024-12-23 06:07:12"
+    "weather_report": "Current conditions in Evanston present a chilly environment, with temperatures in the mid-30s, creating a crisp yet damp atmosphere due to the overcast skies. As the day unfolds, residents can expect continued cloudiness with a small chance of rain showers; the high will struggle to reach the upper 30s while a brisk southwest wind adds a raw edge to the air. The sizable wave action on Lake Michigan reflects the wind's vigor, suggesting an unsettled and potentially choppy shoreline. It's prudent to dress warmly, layering against the cool breeze and possible dampness, while a waterproof jacket could be wise if venturing outdoors.\n\nWith the dynamic weather typical for this time of year, activities will be best enjoyed indoors, perhaps cozying up by the fire or engaging in festive preparations as the holiday celebration approaches. Today, being the day before Christmas Eve, lends a special significance, and many may find themselves in the spirit of holiday cheer, searching for warmth and comfort amidst the chilly backdrop.",
+    "color_code": "#A3B4B9",
+    "timestamp": "2024-12-23 10:05:07"
 }
