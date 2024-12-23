@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-23T02:51:00+00:00",
+            "timestamp": "2024-12-23T06:51:00+00:00",
             "temperature_f": 32.0,
             "temperature_c": 0,
-            "humidity": 72.255157554836,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 170,
-            "description": ""
+            "humidity": 65.988878729131,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-22T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-23T02:00:00-06:00",
                 "endTime": "2024-12-23T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 30,
+                "temperature": 31,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/rain,20?size=medium",
-                "shortForecast": "Cloudy then Slight Chance Freezing Drizzle",
-                "detailedForecast": "A slight chance of freezing drizzle and a slight chance of drizzle after 5am. Cloudy. Low around 30, with temperatures rising to around 32 overnight. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. Low around 31, with temperatures rising to around 33 overnight. South wind around 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 30
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,40?size=medium",
-                "shortForecast": "Chance Freezing Drizzle then Chance Rain",
-                "detailedForecast": "A chance of freezing drizzle and a chance of drizzle before noon, then a chance of rain. Cloudy, with a high near 39. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. Little or no ice accumulation expected."
+                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
+                "shortForecast": "Chance Drizzle then Chance Light Rain",
+                "detailedForecast": "A chance of drizzle and a slight chance of freezing drizzle between 7am and noon, then a chance of rain. Cloudy. High near 39, with temperatures falling to around 37 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, the air is currently brisk, with temperatures in the low 30s and a shivering breeze coming from the south at a fierce clip. The cloudy skies cast a dim veil over the day, contributing to a chilly ambiance as the wind whips through, adding a biting edge. The forecast for the night hints at a slight chance of freezing drizzle and other forms of light precipitation, culminating in a low near 30. Notably, as the hours grow later, temperatures are expected to stabilize around 32, leaving the evening to feel particularly cool and damp.\n\nLooking forward to Monday, conditions may bring more of the same, with a chance of precipitation in the form of freezing drizzle before noon, then transitioning to drizzle and potentially rain later in the day. Highs could rise to nearly 40, but the presence of a steady breeze will persist, keeping the outdoor experience less than inviting. Wave conditions along the shore are expected to be noticeable, with choppy waters reflecting the gusty winds; local beach enthusiasts should take caution. Because of the chilly, damp feel, it\u2019s advisable to dress warmly\u2014layers of thick clothing along with waterproof outerwear would be sensible. Given that we are in the heart of December, these temperatures are quite typical for the season. There might be a temptation to head outdoors for some winter activities, but considering the weather, indoor pursuits seem more appropriate as we approach the holiday season.",
-    "color_code": "#B0C4D0",
-    "timestamp": "2024-12-22 22:05:19"
+    "weather_report": "As the clock strikes two in the morning on this late December night, Evanston, Illinois, is currently enveloped in a chilly embrace, with temperatures hovering around the low 30s. The air feels crisp and cool, lending a distinct wintry atmosphere as clouds gather above, shrouding the landscape in a muted, gray-toned palette. Lacking any substantial wind, the scene outside remains still, although the atmosphere hints at the changes coming with the dawn.\n\nLooking towards the day ahead, residents can expect cloudy skies with temperatures gradually rising to the mid 30s overnight. As morning approaches, a drizzle is forecasted, accompanied by the possibility of some freezing droplets before noon, transitioning to light rain in the afternoon. Gusty winds will sweep in from the south, potentially intensifying throughout the day. While the allure of winter's beauty persists, the dreary conditions may not inspire outdoor adventure, making a cozy indoor day more appealing. Recommended attire would include warm layers, complemented by a waterproof jacket for those venturing out amid the overcast skies and possible light rain. The temperatures are typical for this season in the region, as the holiday spirit fills the air with the promise of festivities just around the corner.\n\nThe waves of Lake Michigan are likely to exhibit a mild tumult, given the forecasted winds and persistent cloud cover, creating a rather uninviting beach scene. Nevertheless, for those wishing to wander along the shore or simply enjoy a hot drink while gazing out at the choppy waters, the beach may still offer a unique serenity this winter morning. With the holiday season upon us, it\u2019s the perfect time to embrace warmth indoors or partake in festive activities wrapped in the cozy comfort of the season\u2019s spirit.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-12-23 02:06:11"
 }
