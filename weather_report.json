@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-23T22:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 75.702644607027,
+            "timestamp": "2024-12-24T02:51:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 78.969648730007,
             "wind_speed_mph": 20.93832,
-            "wind_direction": 220,
+            "wind_direction": 330,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-23T18:00:00-06:00",
+                "startTime": "2024-12-23T22:00:00-06:00",
                 "endTime": "2024-12-24T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 35,
+                "temperature": 36,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "NW",
+                "windSpeed": "10 mph",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 35. Northwest wind 5 to 10 mph."
+                "detailedForecast": "Cloudy, with a low around 36. North northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, conditions are chilly, with temperatures in the mid-30s, complemented by a persistent cloud cover that casts a gray hue over the shoreline. A steady breeze from the northwest adds an unsettled chill to the air, contributing to a rather brisk atmosphere as the wind stirs the waters of Lake Michigan, creating gently rolling waves. While there isn't any precipitation currently observed, the outlook remains foreboding with expectations of temperatures dipping further tonight.\n\nLooking ahead, the weather tomorrow is set to maintain its cloudy demeanor, with a high struggling to reach the upper 30s and a gusty north wind continuing to sweep through. It's a rather wintry scene typical for this time of year in the Midwest, where such cool weather reflects the deepening winter season. Layers are advisable, ideally a warm coat along with a scarf to stave off the cold as you enjoy the brisk air. Although outdoor activities should be approached judiciously given the conditions, a leisurely stroll along the beach could offer a stark yet beautiful winter vista. Keep in mind that tomorrow is not marked by any major holiday, but the festive spirit looms large as we approach the Christmas season.",
-    "color_code": "#B0B3C5",
-    "timestamp": "2024-12-23 18:17:59"
+    "weather_report": "As evening descends upon Evanston, the atmosphere carries a chill with current temperatures hovering in the mid-30s accompanied by overcast skies. The brisk north-northwest wind creates a spirited chill, rendering the outdoor conditions quite cool and damp, ideal for a cozy indoor evening rather than outdoor excursions. Wave conditions along Lake Michigan are moderate, reflecting the gusty winds that stir the waters, but no significant precipitation is anticipated at this time, allowing for a relatively dry evening.\n\nLooking ahead to the forecast for Tuesday, the clouds will remain firmly in place, with temperatures peaking near the mid-30s before gradually dropping in the afternoon. This season is typical for late December in the Chicago area, embracing the cold and often gray conditions that characterize a Midwestern winter. Given the chill in the air, layered clothing is advisable for anyone venturing outside, perhaps a warm coat, gloves, and a hat for comfort. With the holiday season upon us, indoor activities or festive gatherings would be far more appealing, as the night rests on the eve of Christmas Eve.",
+    "color_code": "#2B3A3A",
+    "timestamp": "2024-12-23 22:05:15"
 }
