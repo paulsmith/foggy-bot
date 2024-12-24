@@ -7,41 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-24T02:51:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 78.969648730007,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 330,
+            "timestamp": "2024-12-24T06:51:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 85.253168149775,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 350,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-23T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-24T02:00:00-06:00",
                 "endTime": "2024-12-24T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 36,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 36. North northwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2024-12-24T06:00:00-06:00",
-                "endTime": "2024-12-24T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 37,
+                "temperature": 35,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 35. North wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2024-12-24T06:00:00-06:00",
+                "endTime": "2024-12-24T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "NNE",
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. North wind around 10 mph."
+                "detailedForecast": "Cloudy. High near 39, with temperatures falling to around 35 in the afternoon. North northeast wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "As evening descends upon Evanston, the atmosphere carries a chill with current temperatures hovering in the mid-30s accompanied by overcast skies. The brisk north-northwest wind creates a spirited chill, rendering the outdoor conditions quite cool and damp, ideal for a cozy indoor evening rather than outdoor excursions. Wave conditions along Lake Michigan are moderate, reflecting the gusty winds that stir the waters, but no significant precipitation is anticipated at this time, allowing for a relatively dry evening.\n\nLooking ahead to the forecast for Tuesday, the clouds will remain firmly in place, with temperatures peaking near the mid-30s before gradually dropping in the afternoon. This season is typical for late December in the Chicago area, embracing the cold and often gray conditions that characterize a Midwestern winter. Given the chill in the air, layered clothing is advisable for anyone venturing outside, perhaps a warm coat, gloves, and a hat for comfort. With the holiday season upon us, indoor activities or festive gatherings would be far more appealing, as the night rests on the eve of Christmas Eve.",
-    "color_code": "#2B3A3A",
-    "timestamp": "2024-12-23 22:05:15"
+    "weather_report": "As the clock ticks into the early hours of Christmas Eve in Evanston, the air is marked by a crisp chill, with temperatures nestled in the mid-30s. A robust north wind subtly howls in from the lake, creating an invigorating atmosphere that feels both bracing and alive. The prevailing cloud cover lends a muted quality to the landscape, casting a soft, gray hue over the beach, where the waves lap against the shore with a slightly aggressive rhythm, hinting at a restless Lake Michigan. There are no signs of precipitation just yet, allowing the bleakness of the day to wash over the scene without the interruption of rain or snow.\n\nLooking ahead, the forecast doesn't promise much change, with cloudy skies expected to linger throughout the day. Gusts will ease, transitioning to a gentler breeze, and temperatures are projected to hover around the mid-30s in the afternoon. While it may feel rather dreary, the weather is typical for this season in the Midwest, often marked by chilly and overcast conditions. As for attire, layering is advisable: a warm coat, perhaps a scarf, and sturdy boots will keep spirits high against the winter elements. Ideal moments can still be found outdoors\u2014consider a brisk walk along the shoreline to invigorate the senses or perhaps a hot beverage from a nearby caf\u00e9 to enjoy while watching the world bustle by amidst the winter chill. It's a day that invites reflection and coziness as families gather to celebrate the holidays.",
+    "color_code": "#A6A69A",
+    "timestamp": "2024-12-24 02:05:51"
 }
