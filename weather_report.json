@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-24T22:51:00+00:00",
-            "temperature_f": 35.06,
-            "temperature_c": 1.7,
-            "humidity": 69.417414993084,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 60,
+            "timestamp": "2024-12-25T02:51:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 78.363087668207,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 20,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-24T18:00:00-06:00",
+                "startTime": "2024-12-24T22:00:00-06:00",
                 "endTime": "2024-12-25T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "0 to 5 mph",
-                "windDirection": "ENE",
+                "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 33. East northeast wind 0 to 5 mph."
+                "detailedForecast": "Cloudy, with a low around 33. East wind 0 to 5 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As evening falls upon Evanston, current conditions reveal a chilly, blustery atmosphere with temperatures resting in the mid 30s. The air carries a damp chill, leaving a slightly uncomfortable bite as clouds blanket the sky. The winds are notably brisk, adding to the winter's edge, although light relief is expected tonight with winds quieting down to a gentle breath. The shoreline is marked by rolling waves, a reminder of the lake's restless nature this time of year.\n\nLooking ahead, tonight\u2019s forecast indicates a cloudy evening with temperatures dipping towards the low 30s, creating a raw atmosphere suitable for cozying indoors. Christmas Day, however, promises a touch of uncertainty with a slight chance of drizzle after noon, and daytime highs reaching the upper 30s. Given the season, these temperatures are typical for late December in Illinois, resting firmly in the realm of typical winter weather. With Christmas just a day away, the atmosphere invites indoor gatherings and the warmth of festive cheer, while outdoor excursions should be approached with preparation for damp conditions. For those venturing out, a warm coat, sturdy footwear, and perhaps an umbrella would serve well against the chill and potential drizzle.",
-    "color_code": "#757575",
-    "timestamp": "2024-12-24 18:17:38"
+    "weather_report": "Current conditions in Evanston reveal a brisk and chilly atmosphere, with temperatures hovering in the low 30s, while the air carries a damp chill from the east, creating a slightly dreary yet calm scene. The skies are predominantly overcast, with a notable breeze adding a touch of wind to the mix as it sweeps across the beach towards Lake Michigan. As evening falls and the temperature settles around the mid-30s, tonight will bring cloudy skies with light winds, inviting a cozy indoor evening.\n\nLooking forward to the next day, Christmas Day is set to continue the cloudy trend, presenting a slight chance of drizzle after noon. Expect temperatures to peak near the upper 30s, with gentle easterly winds contributing to a persistent chill in the air. While wave conditions along the lakeshore may be moderately active, with whitecaps forming under the brisk wind, outdoor activities might be limited. Attire should include warm layers, perhaps a good winter coat, hat, and gloves to combat the penetrating coolness typical of a Chicago winter. Given that tomorrow is Christmas, it's an ideal time for indoor gatherings, celebrating with loved ones in warmth, or perhaps enjoying local holiday events under the evening lights.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-12-24 22:05:15"
 }
