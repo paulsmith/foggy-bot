@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-24T18:51:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 61.958017064999,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 30,
-            "description": "Cloudy"
+            "timestamp": "2024-12-24T22:51:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 69.417414993084,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 60,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-24T14:00:00-06:00",
-                "endTime": "2024-12-24T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 38, with temperatures falling to around 35 in the afternoon. Northeast wind 5 to 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-24T18:00:00-06:00",
                 "endTime": "2024-12-25T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
                 "detailedForecast": "Cloudy, with a low around 33. East northeast wind 0 to 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Christmas Day",
+                "startTime": "2024-12-25T06:00:00-06:00",
+                "endTime": "2024-12-25T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "0 to 10 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle after noon. Cloudy, with a high near 38. East wind 0 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current scene is painted with cloudy skies and a brisk chill, as temperatures hover in the mid to upper 30s. The air carries a stimulating freshness, accentuated by a sharp, gusty wind swirling in from the northeast, creating a blustery atmosphere along the lakeshore. As the day unfolds, expect the temperature to gradually dip, settling around 35 by afternoon, reinforcing the need for warm attire. Tonight will bring similar cloud cover with temperatures sinking to about 33, though the winds will ease to a gentle breeze.\n\nThe lake, retaining a restless demeanor, showcases moderate wave action typical for this season, reflecting the backdrop of winter\u2019s approach. With no significant precipitation looming, outdoor visibility remains unobstructed, albeit subdued under the cloud cover. Given these conditions, it's wise to bundle up in a heavy coat, scarf, and perhaps a beanie for any excursions outdoors. As this festive Christmas Eve unfolds, consider a cozy gathering indoors or a brisk stroll along the beach to take in the rugged beauty of winter by the lake.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2024-12-24 14:04:30"
+    "weather_report": "As evening falls upon Evanston, current conditions reveal a chilly, blustery atmosphere with temperatures resting in the mid 30s. The air carries a damp chill, leaving a slightly uncomfortable bite as clouds blanket the sky. The winds are notably brisk, adding to the winter's edge, although light relief is expected tonight with winds quieting down to a gentle breath. The shoreline is marked by rolling waves, a reminder of the lake's restless nature this time of year.\n\nLooking ahead, tonight\u2019s forecast indicates a cloudy evening with temperatures dipping towards the low 30s, creating a raw atmosphere suitable for cozying indoors. Christmas Day, however, promises a touch of uncertainty with a slight chance of drizzle after noon, and daytime highs reaching the upper 30s. Given the season, these temperatures are typical for late December in Illinois, resting firmly in the realm of typical winter weather. With Christmas just a day away, the atmosphere invites indoor gatherings and the warmth of festive cheer, while outdoor excursions should be approached with preparation for damp conditions. For those venturing out, a warm coat, sturdy footwear, and perhaps an umbrella would serve well against the chill and potential drizzle.",
+    "color_code": "#757575",
+    "timestamp": "2024-12-24 18:17:38"
 }
