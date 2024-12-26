@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-26T15:05:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 96.601586728182,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 120,
-            "description": ""
+            "timestamp": "2024-12-26T19:27:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 86.090017231195,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 160,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-26T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-26T14:00:00-06:00",
                 "endTime": "2024-12-26T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 46,
+                "temperature": 45,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -32,8 +32,8 @@
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Areas Of Drizzle",
-                "detailedForecast": "Areas of drizzle and patchy fog. Cloudy. High near 46, with temperatures falling to around 44 in the afternoon. South southeast wind 5 to 10 mph. Chance of precipitation is 20%."
+                "shortForecast": "Slight Chance Rain",
+                "detailedForecast": "A slight chance of rain. Cloudy, with a high near 45. South southeast wind 5 to 10 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-12-26T18:00:00-06:00",
                 "endTime": "2024-12-27T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 41,
+                "temperature": 42,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 40
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle and a slight chance of rain. Cloudy, with a low around 41. Southeast wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
+                "shortForecast": "Chance Rain",
+                "detailedForecast": "A chance of rain. Cloudy, with a low around 42. South southeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather presents a chilly scene, with temperatures hovering in the low 40s and a gentle wind whispering in from the southeast. The air feels damp and raw, creating a rather gloomy atmosphere typical of a winter day by the lake. Expect the mood to linger throughout today, as areas of drizzle and patches of fog are likely to persist, with a high nearing the mid 40s. The afternoon may dip slightly, complementing the ever-cloudy sky. Wave conditions are moderate, reflecting a steady but somewhat restless Lake Michigan, aligning with the drizzly ambiance.\n\nAs the day wears on into the evening, it\u2019s advisable to bundle up, opting for warm, waterproof attire to fend off the chill and potential drizzle. Despite the rather uninviting weather, it might be a good day for indoor activities\u2014perhaps a visit to a cozy caf\u00e9 or a local museum to escape the dampness outside. Being the day after Christmas, many may still be reveling in holiday festivities, making it a time to reflect and relax indoors. Overall, while the outdoor conditions are uncomfortable, there's a quiet beauty in winter's chill that can be enjoyed from the warmth of inside.",
-    "color_code": "#B0C4C4",
-    "timestamp": "2024-12-26 10:04:50"
+    "weather_report": "As we venture into this winter afternoon in Evanston, it's a chilly scene, with temperatures hovering in the low 50s, accompanied by a heavy, damp feeling in the air. The atmosphere is cloaked in a thick fog, lending a muted quality to the horizon over Lake Michigan. Winds are fairly brisk, coming from the south-southeast, adding a bite to the already cool air. Today's forecast suggests a slight chance of rain as clouds gather more densely, with waves lapping restlessly along the shore, likely creating a choppy surface on the lake, not ideal for leisurely activities.\n\nLooking ahead into the evening, there's a greater likelihood of rain, with temperatures dipping to the low 40s. While the chance of precipitation is moderate, it'll be wise for residents to dress warmly and perhaps carry an umbrella if venturing outdoors. Given the wintry season in the Midwest, today's weather falls squarely within the expected pattern of cold and wet conditions typically experienced this time of year. In terms of activities, a cozy day indoors might be the most appealing suggestion, perhaps enjoying the warmth of home with a good book or a movie, as the outdoors remains discouragingly damp and hazy.",
+    "color_code": "#8F9CA8",
+    "timestamp": "2024-12-26 14:04:37"
 }
