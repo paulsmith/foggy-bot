@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-25T22:51:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 85.441682739594,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 80,
-            "description": ""
+            "timestamp": "2024-12-26T03:20:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 92.496796158864,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 90,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-25T18:00:00-06:00",
+                "startTime": "2024-12-25T22:00:00-06:00",
                 "endTime": "2024-12-26T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "ESE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog and intermittent drizzle before 3am, then areas of fog and a slight chance of rain. Cloudy. Low around 37, with temperatures rising to around 39 overnight. East southeast wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,30?size=medium",
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Patchy drizzle and patchy fog before 11pm, then areas of fog and patchy drizzle between 11pm and midnight, then areas of drizzle and areas of fog between midnight and 4am, then areas of fog and patchy drizzle. Cloudy. Low around 37, with temperatures rising to around 39 overnight. Southeast wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -51,12 +51,12 @@
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog and intermittent drizzle. Cloudy, with a high near 45. South southeast wind 5 to 10 mph. Chance of precipitation is 20%."
+                "shortForecast": "Areas Of Fog then Patchy Drizzle",
+                "detailedForecast": "Areas of fog and patchy drizzle before 10am, then patchy drizzle and patchy fog. Cloudy, with a high near 45. South southeast wind 5 to 10 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, present a chilly scene with a temperature in the mid 30s, under a blanket of clouds. The air feels damp and the brisk winds stir up a blustery chill, making it a day when feeling a bit nippy is the norm as you look out towards the waves of Lake Michigan. While the surf appears restless, with waves crashing against the shore, the beach won't see much activity as drizzles and fog are expected, especially later in the evening.\n\nTonight, fog will settle in with a slight chance of rain, making the evening feel particularly damp. As temperatures creep up slightly to the high 30s, venturing out will require a cozy layer\u2014think warm jackets and perhaps a scarf to fend off the cool breeze. Given the weather, coupled with the holiday season around Christmas, it's a good night to stay indoors or cozy up over warm drinks, rather than enjoy outdoor festivities. The atmosphere may be subdued, but the festive spirit can still warm hearts despite the chilly, gray backdrop.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-12-25 18:17:36"
+    "weather_report": "As evening settles in Evanston, the conditions are decidedly brisk and damp, with temperatures hovering in the mid-30s, complemented by a thick blanket of fog and mist. A gentle breeze from the east adds a chill to the air as residents navigate the muted visibility along the waterfront. The beach scene, usually vibrant, is subdued under the wispy haze, with only the sound of the waves gently crashing against the shore punctuating the quiet. \n\nLooking ahead to Thursday, the morning will see persistent fog and patchy drizzle, slowly giving way to cloudy skies that may offer little reprieve from the humidity. Highs will creep into the mid-40s, characteristic of a late December day in the Midwest, but still a touch below the seasonal average. The wave conditions will remain moderate, and any outdoor activities should be approached with caution; a warm, waterproof jacket and sturdy shoes are recommended for anyone venturing out. As this day coincides with the festive spirit of Christmas, it's an opportune moment to enjoy cozy indoor gatherings, reflect on the holiday, or perhaps take a brisk walk along the beach\u2014keeping warm and dry is key amidst the chilly air.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-25 22:05:16"
 }
