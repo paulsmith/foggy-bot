@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-25T18:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 69.873019738904,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 100,
-            "description": "Cloudy"
+            "timestamp": "2024-12-25T22:51:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 85.441682739594,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 80,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Christmas Day",
-                "startTime": "2024-12-25T14:00:00-06:00",
-                "endTime": "2024-12-25T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "ESE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog before 4pm, then patchy fog and intermittent drizzle. Cloudy. High near 39, with temperatures falling to around 37 in the afternoon. East southeast wind 5 to 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-25T18:00:00-06:00",
                 "endTime": "2024-12-26T06:00:00-06:00",
@@ -52,11 +33,30 @@
                 "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog and intermittent drizzle before 3am, then areas of fog and a slight chance of rain. Cloudy, with a low around 37. East southeast wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Areas of fog and intermittent drizzle before 3am, then areas of fog and a slight chance of rain. Cloudy. Low around 37, with temperatures rising to around 39 overnight. East southeast wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2024-12-26T06:00:00-06:00",
+                "endTime": "2024-12-26T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog and intermittent drizzle. Cloudy, with a high near 45. South southeast wind 5 to 10 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a chilly scene with temperatures settling comfortably in the mid to upper 30s. The air feels crisp and damp, as the breeze picks up from the east-southeast, creating a blustery atmosphere over Lake Michigan. Cloud cover enhances the somber palette of the day, with a persistent gray sky hinting at the likelihood of patchy fog and occasional drizzle, particularly as we move into the afternoon and evening hours. As we approach Christmas Day, waves on the lake will be moderated but can be choppy, reflecting the gusts stirring up the water.\n\nThroughout the day, expect temperatures to hover around the same cool range, gradually dipping as we transition into a layered twilight. With humidity in the air, the forecasted drizzle will add an uninviting dampness, perfecting a classic winter's day for cozy indoor activities. Given the season, it's advisable to dress warmly in layers, perhaps with a waterproof outer layer to prepare for the potential of light rain later. Although it may not be the most appealing day outdoors, those who venture out can enjoy the enchanting, albeit foggy, landscape, suitable for a brisk walk along the shore or a visit to a local caf\u00e9 to savor a warm drink. It's a day infused with the spirit of the holiday, celebrating Christmas with its characteristic chill, perfect for gathering with loved ones to reflect on the season's joys.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2024-12-25 14:04:31"
+    "weather_report": "Current conditions in Evanston, Illinois, present a chilly scene with a temperature in the mid 30s, under a blanket of clouds. The air feels damp and the brisk winds stir up a blustery chill, making it a day when feeling a bit nippy is the norm as you look out towards the waves of Lake Michigan. While the surf appears restless, with waves crashing against the shore, the beach won't see much activity as drizzles and fog are expected, especially later in the evening.\n\nTonight, fog will settle in with a slight chance of rain, making the evening feel particularly damp. As temperatures creep up slightly to the high 30s, venturing out will require a cozy layer\u2014think warm jackets and perhaps a scarf to fend off the cool breeze. Given the weather, coupled with the holiday season around Christmas, it's a good night to stay indoors or cozy up over warm drinks, rather than enjoy outdoor festivities. The atmosphere may be subdued, but the festive spirit can still warm hearts despite the chilly, gray backdrop.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-12-25 18:17:36"
 }
