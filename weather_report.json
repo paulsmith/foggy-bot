@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-26T19:27:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 86.090017231195,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 160,
+            "timestamp": "2024-12-26T22:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 92.782035663943,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 140,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-26T14:00:00-06:00",
-                "endTime": "2024-12-26T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Slight Chance Rain",
-                "detailedForecast": "A slight chance of rain. Cloudy, with a high near 45. South southeast wind 5 to 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-26T18:00:00-06:00",
                 "endTime": "2024-12-27T06:00:00-06:00",
@@ -51,12 +32,31 @@
                 "windSpeed": "10 mph",
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
-                "shortForecast": "Chance Rain",
-                "detailedForecast": "A chance of rain. Cloudy, with a low around 42. South southeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain and patchy fog. Cloudy, with a low around 42. South southeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-12-27T06:00:00-06:00",
+                "endTime": "2024-12-27T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy. High near 47, with temperatures falling to around 45 in the afternoon. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As we venture into this winter afternoon in Evanston, it's a chilly scene, with temperatures hovering in the low 50s, accompanied by a heavy, damp feeling in the air. The atmosphere is cloaked in a thick fog, lending a muted quality to the horizon over Lake Michigan. Winds are fairly brisk, coming from the south-southeast, adding a bite to the already cool air. Today's forecast suggests a slight chance of rain as clouds gather more densely, with waves lapping restlessly along the shore, likely creating a choppy surface on the lake, not ideal for leisurely activities.\n\nLooking ahead into the evening, there's a greater likelihood of rain, with temperatures dipping to the low 40s. While the chance of precipitation is moderate, it'll be wise for residents to dress warmly and perhaps carry an umbrella if venturing outdoors. Given the wintry season in the Midwest, today's weather falls squarely within the expected pattern of cold and wet conditions typically experienced this time of year. In terms of activities, a cozy day indoors might be the most appealing suggestion, perhaps enjoying the warmth of home with a good book or a movie, as the outdoors remains discouragingly damp and hazy.",
-    "color_code": "#8F9CA8",
-    "timestamp": "2024-12-26 14:04:37"
+    "weather_report": "As dusk falls over Evanston, the weather presents a rather dreary picture. Currently, temperatures hover in the mid-40s, accompanied by a blanket of fog and mist that shrouds the shoreline. The breeze is brisk, lending an almost biting edge to the air, creating an atmosphere that feels more like the depths of winter than the tail end of December. The prevailing conditions are suitable for a quiet, introspective evening rather than outdoor festivities.\n\nThe forecast for the night warns of patchy fog and a chance of light rain, with temperatures expected to dip into the low 40s. A gentle wind from the south-southeast will likely add a chill to the air, and as the evening progresses, the likelihood of rain increases, with up to a quarter of an inch expected tomorrow. Wave conditions on Lake Michigan appear moderately active, reflecting the gusty wind. This might deter any ambitious beachgoers, as the combination of moisture in the air and the chill makes for an uncomfortable outing. \n\nFor those venturing outside this evening, layering becomes essential; a warm coat paired with a scarf and perhaps even a hat will offer some solace against the cool air. With the current season being winter, the temperatures are somewhat typical for this time of year in the Midwest, though the prevalent dampness does amplify the cold impression. Activities are best suited indoors\u2014perhaps enjoying a warm drink while spending time with family, especially since today is celebrated for being just after Christmas, a time for reflection and togetherness.",
+    "color_code": "#A2B2C6",
+    "timestamp": "2024-12-26 18:17:51"
 }
