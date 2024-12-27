@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-27T02:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 89.091584214285,
-            "wind_speed_mph": 37.04472,
+            "timestamp": "2024-12-27T06:51:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 92.7542403083,
+            "wind_speed_mph": 12.0798,
             "wind_direction": 150,
-            "description": "Light Rain"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-26T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-27T02:00:00-06:00",
                 "endTime": "2024-12-27T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 30
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/rain_showers,40?size=medium",
-                "shortForecast": "Scattered Rain Showers then Patchy Fog",
-                "detailedForecast": "Scattered rain showers before midnight, then patchy fog and scattered rain showers between midnight and 4am, then patchy drizzle and patchy fog. Cloudy, with a low around 42. South southeast wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and scattered rain showers before 4am, then patchy drizzle and patchy fog. Cloudy, with a low around 42. Southeast wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is experiencing raw and blustery conditions this evening, with temperatures hovering in the low 50s accompanied by a persistent, dreary drizzle. The air feels damp and chilly as light rain continues to fall, creating a gray, overcast sky that muffles the shoreline's usual vibrance. Winds are quite gusty, whipping through at speeds that add a sharp, biting edge to the atmosphere, especially near the lake front.\n\nAs night envelops the area, scattered showers are expected to persist, tapering off to patchy fog and light drizzle into the early hours. Tomorrow, the forecast brings more rain and fog, with highs reaching only the mid-40s as nighttime chill sets back in. Given these uninspiring conditions, it would be wise to dress warmly in layers, opting for waterproof outerwear and sturdy shoes if you plan to venture outdoors. The choppy waves of Lake Michigan may also present tricky conditions, discouraging swimming or boating activities. Overall, it\u2019s a day better suited for cozy indoor pursuits, like visiting a local caf\u00e9 or having a warm meal while the weather churns outside, with no significant holidays or events on the horizon to spur outdoor gatherings.",
-    "color_code": "#A9B2B3",
-    "timestamp": "2024-12-26 22:05:11"
+    "weather_report": "In Evanston, Illinois, the current conditions present a chilly scene with temperatures in the low 40s, complemented by a damp and overcast sky that intensifies the sense of coolness in the air. As you look out toward Lake Michigan, the ocean's surface ripples under a gently breezy southeast wind, which brushes against your skin, evoking a mild chill that feels refreshingly invigorating. The forecast suggests continuing showers and patchy fog through the night, with a low dipping to around 42. Travelers venturing out should prepare for a wet day on Friday, with rain and visibility challenges as temperatures hover near the mid to high 40s.\n\nWave conditions are likely to reflect the increasing wind speeds, creating a slightly choppy surface on the lake. Rainfall amounts are expected to be modest, contributing to a sloshy atmosphere on the beach. Because of these conditions, individuals are advised to dress warmly, layering up with waterproof clothing to fend off the wet chill. Given that it\u2019s late December and the season is typically cold, these temperatures are indeed characteristic for this time of year. Even with the adverse weather, a brisk walk along the beach to embrace the wintery sights can nurture a refreshing perspective, though being mindful of the elements is essential. Today does not mark a major holiday, but the upcoming New Year is on the horizon, inviting a sense of anticipation as the year closes.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-27 02:05:30"
 }
