@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-26T22:51:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 92.782035663943,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 140,
-            "description": "Fog/Mist"
+            "timestamp": "2024-12-27T02:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 89.091584214285,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 150,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-26T18:00:00-06:00",
+                "startTime": "2024-12-26T22:00:00-06:00",
                 "endTime": "2024-12-27T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 50
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain and patchy fog. Cloudy, with a low around 42. South southeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/rain_showers,40?size=medium",
+                "shortForecast": "Scattered Rain Showers then Patchy Fog",
+                "detailedForecast": "Scattered rain showers before midnight, then patchy fog and scattered rain showers between midnight and 4am, then patchy drizzle and patchy fog. Cloudy, with a low around 42. South southeast wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,90?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain,60/rain,90?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy. High near 47, with temperatures falling to around 45 in the afternoon. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain and areas of fog. Cloudy. High near 47, with temperatures falling to around 45 in the afternoon. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dusk falls over Evanston, the weather presents a rather dreary picture. Currently, temperatures hover in the mid-40s, accompanied by a blanket of fog and mist that shrouds the shoreline. The breeze is brisk, lending an almost biting edge to the air, creating an atmosphere that feels more like the depths of winter than the tail end of December. The prevailing conditions are suitable for a quiet, introspective evening rather than outdoor festivities.\n\nThe forecast for the night warns of patchy fog and a chance of light rain, with temperatures expected to dip into the low 40s. A gentle wind from the south-southeast will likely add a chill to the air, and as the evening progresses, the likelihood of rain increases, with up to a quarter of an inch expected tomorrow. Wave conditions on Lake Michigan appear moderately active, reflecting the gusty wind. This might deter any ambitious beachgoers, as the combination of moisture in the air and the chill makes for an uncomfortable outing. \n\nFor those venturing outside this evening, layering becomes essential; a warm coat paired with a scarf and perhaps even a hat will offer some solace against the cool air. With the current season being winter, the temperatures are somewhat typical for this time of year in the Midwest, though the prevalent dampness does amplify the cold impression. Activities are best suited indoors\u2014perhaps enjoying a warm drink while spending time with family, especially since today is celebrated for being just after Christmas, a time for reflection and togetherness.",
-    "color_code": "#A2B2C6",
-    "timestamp": "2024-12-26 18:17:51"
+    "weather_report": "Evanston is experiencing raw and blustery conditions this evening, with temperatures hovering in the low 50s accompanied by a persistent, dreary drizzle. The air feels damp and chilly as light rain continues to fall, creating a gray, overcast sky that muffles the shoreline's usual vibrance. Winds are quite gusty, whipping through at speeds that add a sharp, biting edge to the atmosphere, especially near the lake front.\n\nAs night envelops the area, scattered showers are expected to persist, tapering off to patchy fog and light drizzle into the early hours. Tomorrow, the forecast brings more rain and fog, with highs reaching only the mid-40s as nighttime chill sets back in. Given these uninspiring conditions, it would be wise to dress warmly in layers, opting for waterproof outerwear and sturdy shoes if you plan to venture outdoors. The choppy waves of Lake Michigan may also present tricky conditions, discouraging swimming or boating activities. Overall, it\u2019s a day better suited for cozy indoor pursuits, like visiting a local caf\u00e9 or having a warm meal while the weather churns outside, with no significant holidays or events on the horizon to spur outdoor gatherings.",
+    "color_code": "#A9B2B3",
+    "timestamp": "2024-12-26 22:05:11"
 }
