@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-27T19:13:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 92.782035663943,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 110,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2024-12-27T23:37:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 96.056307711081,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 140,
+            "description": "Light Drizzle and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-27T14:00:00-06:00",
-                "endTime": "2024-12-27T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 90
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy, with a high near 47. Southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-27T18:00:00-06:00",
                 "endTime": "2024-12-28T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,90/rain,50?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain and patchy fog. Cloudy, with a low around 45. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-12-28T06:00:00-06:00",
+                "endTime": "2024-12-28T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. High near 48, with temperatures falling to around 46 in the afternoon. Southwest wind 5 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a cool and damp environment, with temperatures lingering in the mid 40s, coupled with a blanket of light rain and persistent fog. As a southeast wind whistles in at a brisk pace, creating a dynamic atmosphere, visibility may be less than ideal for outings along the beach. The day's forecast indicates continued rain, with patchy fog lingering into the evening, and temperatures are expected to dip slightly, settling into the mid 40s tonight. This weather is typical for late December in this region, where chilly rains and cloud cover often define the season.\n\nThe appearance outdoors is rather dreary, with the beach shrouded in mist, making it less inviting for leisurely strolls. Wave conditions may be somewhat mixed, with the winds kicking up a moderate chop on the lake, which could be hazardous for small craft. Given the persistent precipitation, waterproof attire is highly recommended, along with warm layers to combat the coolness of the air. The holiday spirit, infused with year-end reflections, allows for cozy indoor activities, such as visiting local cafes or enjoying the city\u2019s cultural offerings indoors\u2014ideal alternatives to the less-than-pleasant outdoor conditions.",
-    "color_code": "#7A9A8C",
-    "timestamp": "2024-12-27 14:04:42"
+    "weather_report": "The current weather in Evanston, Illinois is characterized by a chilly and damp atmosphere, with temperatures in the low 50s. A light drizzle and a thick fog contribute to the humid feel of the air, while a brisk wind blows from the south, adding a touch of wildness to the scene. As evening approaches, the forecast suggests further rain and patchy fog, with overnight lows expected in the mid-40s, accompanied by gusty winds that will create a blustery environment. \n\nLooking ahead to Saturday, the clouds will persist, with a high also around 48 degrees, keeping the day cold and damp. The appearance of the shoreline is muted and somewhat bleak, typical for this time of year, as the Lake Michigan waves churn restlessly, adding to the overall sense of winter\u2019s grip on the area. For those venturing outside, it\u2019s advisable to dress in warm, water-resistant layers to combat the chill and potential rain. Given the date, which falls just after the holiday season, outdoor activities may be limited, making a cozy day indoors or a brisk walk along the beach more suitable under these dreary but picturesque conditions.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-12-27 18:17:24"
 }
