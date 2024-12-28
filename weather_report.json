@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-28T10:51:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 86.141284587185,
-            "wind_speed_mph": 70.86816,
+            "timestamp": "2024-12-28T14:51:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 83.104539551896,
+            "wind_speed_mph": 66.03624,
             "wind_direction": 240,
-            "description": "Cloudy and Windy"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-28T06:00:00-06:00",
+                "startTime": "2024-12-28T10:00:00-06:00",
                 "endTime": "2024-12-28T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 50,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the sun rises over Evanston this morning, it unveils a chilly scene with temperatures in the upper 40s and a steady, brisk wind blowing across the beach from the southwest. The air feels raw and damp, accentuated by a heavy overcast sky, a telltale sign of the cloud cover that blankets the region. The current conditions suggest a blustery day ahead, with gusts around 70 miles per hour adding to the coastal chill. \n\nToday's forecast anticipates mostly cloudy skies, with temperatures projected to drop slightly as the day unfolds. Expect patchy fog this evening, coupled with a slight chance of rain, but any precipitation should be minimal, with barely enough to measure. While the waves appear choppy and turbulent, ideal for those who enjoy the dramatic beauty of an Arctic shoreline, it may deter casual beachgoers. As we venture further into late December, the seasonal chill has firmly settled over the area; indeed, temperatures this time of year remain typical for the Midwest\u2019s winter months. Therefore, layering is key: a heavy coat, warm gloves, and perhaps a wool scarf would be ideal for braving the outdoors today. While the day is not ideal for lengthy outdoor activities due to the wind and dampness, a brisk walk along the waterfront or a quick trip to a cozy caf\u00e9 nearby may just lift one\u2019s spirits against this winter backdrop.",
-    "color_code": "#4B7C93",
-    "timestamp": "2024-12-28 06:06:12"
+    "weather_report": "Current conditions in Evanston paint a scene of chill and wind, with a temperature lingering in the mid 40s. The atmosphere feels damp and crisp, characterized by a robust breeze that carries the chill from Lake Michigan, making it appear brisk outside. The cloudy skies obscure the sun and suggest a potential for a dreary day, enhancing the sense of a typical late December in this region. As we look ahead, the forecast for today predicts mostly cloudy conditions with a high nearing 50 degrees before the temperature settles back to the low 40s in the evening. The light evening breeze will shift to the east-southeast, adding to the coolness as patchy fog replaces any lingering clarity from the day.\n\nWhile there is a slight chance of light rain, expect minimal precipitation, with only trace amounts anticipated. The waves along the shoreline may be choppy due to the winds, so it's advisable to approach the beach with caution. Attire recommendations would include layers to combat the chill, a warm coat, and perhaps a scarf or hat, ensuring comfort against the damp and blustery conditions. As for activities, this day would not be ideal for beach outings, but a cozy visit to a local caf\u00e9 or a brisk walk along the waterfront could be delightful, with the patchy fog offering a quiet charm. This day is not a holiday, but it carries the essence of winter\u2019s embrace, fitting for this festive season.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-28 10:04:31"
 }
