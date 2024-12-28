@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-28T02:51:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 96.074594670841,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 170,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2024-12-28T06:51:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 86.202442841334,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 220,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-27T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-28T02:00:00-06:00",
                 "endTime": "2024-12-28T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 40
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,80/rain,50?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain and areas of fog. Cloudy. Low around 42, with temperatures rising to around 47 overnight. South southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
+                "shortForecast": "Chance Rain",
+                "detailedForecast": "A chance of rain and patchy fog. Cloudy. Low around 42, with temperatures rising to around 47 overnight. South southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather presents a dreary picture, with light rain and a thick blanket of fog lingering over the area. The temperature sits in the low 50s, making it feel cool and damp, while a fierce wind from the south adds a biting chill to the air, stirring the waters of Lake Michigan into a restless state. As night falls, expect continued rain and areas of fog, with temperatures gradually climbing to the 40s overnight. The chance of precipitation remains high, and the forecast suggests up to a quarter-inch more rain.\n\nFor Saturday, cloudy skies persist, accompanied by a steady breeze, as temperatures hover in the upper 40s, making for a rather unpleasant outdoor experience. The waves on the lake are likely to remain choppy due to the ongoing winds, which could make any seaside activities somewhat challenging. Given the season, these temperatures are quite typical for late December in the Midwest, but the damp conditions feel particularly harsh. Attire should include warm layers and waterproof outerwear, ideally paired with sturdy footwear suitable for wet conditions. As for activities, outdoor ventures may be best postponed in favor of indoor plans, such as visiting a local museum or enjoying a cozy day with a good book by the fireplace. No notable holidays are occurring today, but the festive spirit remains palpable in the lead-up to New Year\u2019s celebrations.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2024-12-27 22:05:17"
+    "weather_report": "In Evanston, Illinois, the current scene is one of chilly discontent, with temperatures resting in the low 50s and a considerable moisture in the air creating a damp chill. The conditions are dominated by a fierce wind barreling in from the southwest, producing a blustery atmosphere that underscores the cloudy sky hanging low over the beach. As we look ahead, the overnight forecast hints at a chance of rain with patchy fog, leading temperatures down to the low 40s, then rising slightly as the night progresses. Saturday promises a mix of clouds and cooler temps, with highs around the mid to high 40s, paired with a gentler breeze punctuated by occasional gusts.\n\nThe waves of Lake Michigan are likely to appear restless and choppy, stirred by the vigorous winds. Outdoor activities may be best approached with caution; a quick jaunt along the shore could be invigorating for the bold, but dress warmly and prepare for the possibility of dampness. Considering the season, these temperatures are fitting for late December in the Midwest, though the mix of chill and moisture might demand extra layers. As we approach the New Year, the weather serves as a fitting backdrop for reflective indoor pursuits or cozy gatherings with friends and family, making the most of the lingering holiday spirit.",
+    "color_code": "#A9A09A",
+    "timestamp": "2024-12-28 02:05:18"
 }
