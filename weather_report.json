@@ -7,41 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-28T06:51:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 86.202442841334,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 220,
-            "description": "Cloudy"
+            "timestamp": "2024-12-28T10:51:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 86.141284587185,
+            "wind_speed_mph": 70.86816,
+            "wind_direction": 240,
+            "description": "Cloudy and Windy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-28T02:00:00-06:00",
-                "endTime": "2024-12-28T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
-                "shortForecast": "Chance Rain",
-                "detailedForecast": "A chance of rain and patchy fog. Cloudy. Low around 42, with temperatures rising to around 47 overnight. South southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2024-12-28T06:00:00-06:00",
                 "endTime": "2024-12-28T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 48,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 48, with temperatures falling to around 46 in the afternoon. Southwest wind 5 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly cloudy. High near 50, with temperatures falling to around 47 in the afternoon. Southwest wind 5 to 15 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-28T18:00:00-06:00",
+                "endTime": "2024-12-29T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 40,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "ESE",
+                "icon": "https://api.weather.gov/icons/land/night/fog/rain,20?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog between 9pm and 3am, then patchy fog and a slight chance of rain. Mostly cloudy, with a low around 40. East southeast wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current scene is one of chilly discontent, with temperatures resting in the low 50s and a considerable moisture in the air creating a damp chill. The conditions are dominated by a fierce wind barreling in from the southwest, producing a blustery atmosphere that underscores the cloudy sky hanging low over the beach. As we look ahead, the overnight forecast hints at a chance of rain with patchy fog, leading temperatures down to the low 40s, then rising slightly as the night progresses. Saturday promises a mix of clouds and cooler temps, with highs around the mid to high 40s, paired with a gentler breeze punctuated by occasional gusts.\n\nThe waves of Lake Michigan are likely to appear restless and choppy, stirred by the vigorous winds. Outdoor activities may be best approached with caution; a quick jaunt along the shore could be invigorating for the bold, but dress warmly and prepare for the possibility of dampness. Considering the season, these temperatures are fitting for late December in the Midwest, though the mix of chill and moisture might demand extra layers. As we approach the New Year, the weather serves as a fitting backdrop for reflective indoor pursuits or cozy gatherings with friends and family, making the most of the lingering holiday spirit.",
-    "color_code": "#A9A09A",
-    "timestamp": "2024-12-28 02:05:18"
+    "weather_report": "As the sun rises over Evanston this morning, it unveils a chilly scene with temperatures in the upper 40s and a steady, brisk wind blowing across the beach from the southwest. The air feels raw and damp, accentuated by a heavy overcast sky, a telltale sign of the cloud cover that blankets the region. The current conditions suggest a blustery day ahead, with gusts around 70 miles per hour adding to the coastal chill. \n\nToday's forecast anticipates mostly cloudy skies, with temperatures projected to drop slightly as the day unfolds. Expect patchy fog this evening, coupled with a slight chance of rain, but any precipitation should be minimal, with barely enough to measure. While the waves appear choppy and turbulent, ideal for those who enjoy the dramatic beauty of an Arctic shoreline, it may deter casual beachgoers. As we venture further into late December, the seasonal chill has firmly settled over the area; indeed, temperatures this time of year remain typical for the Midwest\u2019s winter months. Therefore, layering is key: a heavy coat, warm gloves, and perhaps a wool scarf would be ideal for braving the outdoors today. While the day is not ideal for lengthy outdoor activities due to the wind and dampness, a brisk walk along the waterfront or a quick trip to a cozy caf\u00e9 nearby may just lift one\u2019s spirits against this winter backdrop.",
+    "color_code": "#4B7C93",
+    "timestamp": "2024-12-28 06:06:12"
 }
