@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-28T19:00:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 71.204369375173,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 240,
+            "timestamp": "2024-12-28T22:51:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 77.156442416889,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 210,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-28T14:00:00-06:00",
-                "endTime": "2024-12-28T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 50, with temperatures falling to around 48 in the afternoon. Southwest wind 5 to 10 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-28T18:00:00-06:00",
                 "endTime": "2024-12-29T06:00:00-06:00",
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 50
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "ESE",
-                "icon": "https://api.weather.gov/icons/land/night/fog/rain,30?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/fog/rain,50?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog between 9pm and 3am, then patchy fog and a slight chance of rain between 3am and 5am, then a chance of rain and patchy fog. Mostly cloudy. Low around 40, with temperatures rising to around 42 overnight. East southeast wind 5 to 10 mph. Chance of precipitation is 30%."
+                "detailedForecast": "Patchy fog between 9pm and 2am, then patchy fog and a slight chance of rain between 2am and 3am, then a chance of rain and patchy fog. Cloudy. Low around 40, with temperatures rising to around 42 overnight. East southeast wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-12-29T06:00:00-06:00",
+                "endTime": "2024-12-29T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain and patchy fog. Cloudy. High near 43, with temperatures falling to around 40 in the afternoon. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "Currently in Evanston, the atmosphere feels crisp and cool, with temperatures hovering in the low 50s. A strong, gusty wind sweeps in from the southwest, creating an invigorating chill in the air. As the day progresses, expect a shift towards partly sunny skies, but temperatures will gradually dip, reaching a high near 50, before settling around the mid 40s by evening. As the sun sets, patchy fog is anticipated, accompanied by a slight chance of rain later tonight, hinting at the clouds that blanket the sky.\n\nDespite the potential for rain later, the landscape maintains a somewhat dreary charm. The waves on Lake Michigan are slightly turbulent, making the beach less inviting for typical outdoor activities. Given these conditions, light layers along with a waterproof jacket are advisable for those venturing outside. This time of year, temperatures generally trend towards the 30s and 40s, making today\u2019s readings characteristic of winter in this region, though slightly above the normal chill. With the holiday season upon us, today offers a moment to appreciate the serene beauty of winter, even with the prospect of rain on the horizon.",
-    "color_code": "#A9BFC7",
-    "timestamp": "2024-12-28 14:04:17"
+    "weather_report": "In Evanston, the current conditions are marked by a chilly demeanor, enveloped in a blanket of mostly cloudy skies with a gentle breeze stirring through the air. The temperature is hovering in the low 50s, creating a crisp environment that\u2019s likely to feel a bit nippy, especially as the evening progresses. As night falls, expect patchy fog and a fairly decent chance of rain, with temperatures dipping to around the low 40s. The air will gather a bit of warmth overnight, rising slightly to about 42 degrees with an easterly wind gently making its presence known.\n\nLooking ahead to Sunday, the scene shifts to one dominated by rain and lingering fog. The high temperature will reach the low 40s, but with a cold north wind whipping through at 10 to 15 mph, the day will feel decidedly chillier. With a near-guaranteed 90% chance of precipitation, it\u2019s vital to prepare for rainy conditions throughout the day. Given the overall gloomy atmosphere and potential for scattered showers along the beach, outdoor activities may be better suited for a cozy indoor environment. On this day, layering up with warm attire, perhaps a waterproof jacket, and sturdy footwear will help keep you comfortable against the impending rain and cool winds. \n\nWhether you're snuggled inside with a book or sipping a hot drink, embracing this winter ambiance could be quite enjoyable, despite the less than appealing weather. The scene at the beach will likely be one of restless waves and a shivering shoreline as Lake Michigan mirrors the cloudy heavens above.",
+    "color_code": "#8B9DC3",
+    "timestamp": "2024-12-28 18:19:47"
 }
