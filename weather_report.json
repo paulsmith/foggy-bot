@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-29T02:51:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 91.984495702735,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "timestamp": "2024-12-29T06:51:00+00:00",
+            "temperature_f": 44.06,
+            "temperature_c": 6.7,
+            "humidity": 92.692530298592,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 10,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-28T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-29T02:00:00-06:00",
                 "endTime": "2024-12-29T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 41,
@@ -30,10 +30,10 @@
                     "value": 50
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/fog/rain,50?size=medium",
-                "shortForecast": "Patchy Fog then Chance Rain",
-                "detailedForecast": "Patchy fog before 3am, then a chance of rain and patchy fog. Cloudy, with a low around 41. East wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
+                "shortForecast": "Chance Rain",
+                "detailedForecast": "Patchy fog before 3am, then a chance of rain and patchy fog. Cloudy, with a low around 41. Northeast wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a chilly and damp atmosphere, with temperatures lingering in the low 40s and a thick blanket of clouds overhead. The air feels cool and slightly uncomfortable due to the moisture present. With little to no breeze, outdoor activities might be subdued, carrying a tranquil yet somber quality, particularly as night approaches. Looking ahead, tonight promises patchy fog and a potential for rain, creating a 50% chance of precipitation, while tomorrow's forecast warns of a steady drizzle and further fog, with conditions cooling slightly to the low 40s. \n\nGiven the wet and overcast conditions, the lake's surface may exhibit moderate wave activity, with a gentle swell reminiscent of late autumn days. For anyone venturing outdoors, wearing warm and waterproof layers is advisable to stay cozy against the damp chill. This time of year is typically cold in the Midwest, and these temperatures align closely with what one might expect during late December. While outdoor excursions may be limited, the serenity of a foggy lakeside stroll or a cozy evening indoors could provide a fitting way to enjoy the early holiday season, especially as New Year\u2019s approaches.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2024-12-28 22:05:13"
+    "weather_report": "In Evanston, the air is chilly, with a temperature dipping into the low 40s and a dampness that gives it a raw edge, thanks to a gentle breeze coming from the northeast. The current conditions reflect the wintry grip of the season; it's a stark reminder that winter isn't quite ready to loosen its hold. The beach view looks overcast, with the potential for rain and patchy fog rolling in overnight, maintaining a likelihood of precipitation at 50%. As we move through Sunday, expect persistent rain to drench the area, with temperatures falling throughout the day, reaching highs near 43 before slipping into the cooler realm of the late afternoon.\n\nWith the expected rain, the beach may not present its usual allure. The surf will likely churn with rough wave conditions, making any beach walks less than pleasant. For those venturing outdoors, insulated and waterproof attire is advisable, complemented by sturdy boots to navigate through possible puddles. While the temperature is reflective of late December in the Midwest, the combination of moisture and wind creates an atmosphere that could be described as dreary and unfriendly. Indoor activities, such as visiting local cafes or enjoying a cozy afternoon in a bookstore, would be more suited to these conditions, allowing one to stay warm and dry as the precipitation falls steadily from the sky.",
+    "color_code": "#A5A5A5",
+    "timestamp": "2024-12-29 02:05:22"
 }
