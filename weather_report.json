@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-29T10:51:00+00:00",
+            "timestamp": "2024-12-29T14:51:00+00:00",
             "temperature_f": 44.96,
             "temperature_c": 7.2,
             "humidity": 89.56964455156,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 40,
-            "description": "Fog/Mist"
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-29T06:00:00-06:00",
+                "startTime": "2024-12-29T10:00:00-06:00",
                 "endTime": "2024-12-29T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 44,
+                "temperature": 42,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain,90/rain,100?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain,100/rain,80?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy. High near 44, with temperatures falling to around 41 in the afternoon. North wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "Rain and patchy fog. Cloudy, with a high near 42. North wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30/bkn?size=medium",
-                "shortForecast": "Chance Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain before 10pm. Mostly cloudy, with a low around 33. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Rain then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain before 7pm. Mostly cloudy, with a low around 33. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Evanston awakens to a chilly, fog-laden morning, the temperature resting in the low 40s, while a significant blanket of moisture hangs in the air, imparting a damp feel to the surroundings. The winds are brisk, whispering down from the north at a steady pace, creating a blustery ambiance along the shoreline. As the day unfolds, expect rain and patchy fog to persist, with clouds shrouding the sky. Today's high will hover around 44, descending slightly by the afternoon, while the winds may intensify, bringing gusts that could reach up to 30 miles per hour. The chance of precipitation remains at a notable 100%, with expected rainfall between half and three-quarters of an inch, contributing to the overall dreariness.\n\nThe scene at the beach, while inherently beautiful, might appear rather uninviting today, with the gray waters of Lake Michigan churning under the overcast sky. Waves will likely be moderate, offering a sight that may not be conducive to swimming, but could delight those who appreciate the raw energy of the lake. Given the weather, it is advisable to dress warmly in layers, opting for a waterproof coat and sturdy footwear if venturing outdoors. This late December day, with its cold and damp conditions, reflects the essence of winter in the Midwest, staying true to seasonal norms. Activities may be limited by the weather, and indoor pursuits such as visiting local caf\u00e9s or exploring indoor attractions would likely be the best options for enjoyment. As today is not noted as a holiday, it serves as an ordinary yet significant day to reflect on the changing seasons and the comforts of home.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-12-29 06:06:15"
+    "weather_report": "The current weather in Evanston, Illinois, presents a notably damp and cool scene, with temperatures dipping into the mid 40s and a heavy blanket of fog reducing visibility along the beach. Light rain adds to the chill, creating a slightly dreary ambiance that reflects the overcast sky. Today, expect conditions to remain gloomy with persistent rain and patchy fog, while temperatures are predicted to reach a high in the low 40s. The north wind will be brisk, stirring some wave action on Lake Michigan, suggesting a blustery day ahead.\n\nAs you venture outdoors, it's advisable to dress warmly in layers, ideally donning a waterproof jacket and sturdy shoes to keep dry. The atmosphere has a raw, winter bite typical of this season in northern Illinois, although today's weather feels colder than one might anticipate for late December. Given the weather, leisurely beach walks or waterfront activities may be best replaced with indoor options. Considering today is not a holiday, but the new year approaches, you might find some comfort in cozying up with a warm drink or catching up on indoor hobbies while escaping the weather\u2019s chill.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-29 10:04:14"
 }
