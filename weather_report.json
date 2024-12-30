@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-29T22:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 92.59561987308,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 340,
+            "timestamp": "2024-12-30T03:09:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 92.431808462521,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 290,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-12-29T18:00:00-06:00",
+                "startTime": "2024-12-29T22:00:00-06:00",
                 "endTime": "2024-12-30T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
-                "windSpeed": "5 to 15 mph",
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20/ovc?size=medium",
-                "shortForecast": "Slight Chance Rain then Cloudy",
-                "detailedForecast": "A slight chance of rain before 7pm. Cloudy, with a low around 35. West northwest wind 5 to 15 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/fog?size=medium",
+                "shortForecast": "Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after 5am. Cloudy, with a low around 35. West northwest wind 5 to 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain/bkn?size=medium",
-                "shortForecast": "Chance Drizzle then Mostly Cloudy",
-                "detailedForecast": "A chance of drizzle and patchy fog before 9am, then patchy fog and a slight chance of drizzle between 9am and noon. Mostly cloudy, with a high near 39. West southwest wind 5 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog before 3pm. Mostly cloudy, with a high near 39. West southwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a gloomy winter evening with temperatures in the low 40s, accompanied by swirling winds from the northwest that lend a brisk chill to the air. The atmosphere is thick with clouds, creating a somewhat dreary and subdued landscape. Tonight, there's a slight chance of rain before 7 PM, though the outlook suggests that intermittent drizzle may linger into the early morning, with patchy fog hazing visibility throughout the day. Expect highs struggling to reach the upper 30s tomorrow, under a mantle of cloud cover.\n\nWith the weather conditions being less than ideal, outdoor activities might be curtailed. Yet, if you venture out, dress warmly, including a sturdy coat, gloves, and perhaps a knitted hat to keep the cold at bay. Wave conditions along Lake Michigan could be somewhat restless due to the wind, lending a meeting of choppy waters against the shore, which may be best viewed from a distance. As we close out the year with December 29, Evanston reflects the chilly season characteristic of the Midwest, with current temperatures aligning with typical winter expectations.",
+    "weather_report": "As night falls over Evanston, the air is a chilly embrace with temperatures lingering in the mid-30s. The atmosphere is thick and damp, belying the winter season and intensifying the outdoor chill. A strong wind whips off Lake Michigan, creating a blustery feel that dances with the clouds hanging low in the sky, rendering the view across the beach somewhat muted and gray. There are no immediate signs of precipitation, but patchy fog is expected to creep in overnight.\n\nLooking ahead to tomorrow, the forecast anticipates more clouds and the potential for fog in the morning hours, with temperatures inching slightly higher, peaking around the high 30s. The day remains obscured, with little promise of sunshine, and the gentle west-southwest breeze should offer a modest respite from the cold. With this winter weather upon us, it\u2019s advisable to layer up warmly, perhaps with a cozy jacket and a scarf, to ward off the chill while venturing outdoors. Ideal activities for this time might include indoor pursuits\u2014perhaps a leisurely visit to a local caf\u00e9 or a warm gathering with friends\u2014as the beach presents a stark, yet captivating, winter scene, best viewed from the comfort of a cozy spot away from the wind.",
     "color_code": "#A9A9A9",
-    "timestamp": "2024-12-29 18:18:39"
+    "timestamp": "2024-12-29 22:05:58"
 }
