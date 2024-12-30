@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2024-12-30T03:09:00+00:00",
+            "timestamp": "2024-12-30T06:51:00+00:00",
             "temperature_f": 35.96,
             "temperature_c": 2.2,
-            "humidity": 92.431808462521,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 290,
-            "description": "Cloudy"
+            "humidity": 89.16280483489,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 280,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-29T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2024-12-30T02:00:00-06:00",
                 "endTime": "2024-12-30T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -31,8 +31,8 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/fog?size=medium",
-                "shortForecast": "Cloudy then Patchy Fog",
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Patchy Fog",
                 "detailedForecast": "Patchy fog after 5am. Cloudy, with a low around 35. West northwest wind 5 to 10 mph, with gusts as high as 20 mph."
             },
             {
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "WSW",
+                "windSpeed": "5 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/fog?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog before 3pm. Mostly cloudy, with a high near 39. West southwest wind 5 to 10 mph."
+                "detailedForecast": "Patchy fog before 3pm. Mostly cloudy, with a high near 39. Southwest wind around 5 mph, with gusts as high as 10 mph."
             }
         ]
     },
-    "weather_report": "As night falls over Evanston, the air is a chilly embrace with temperatures lingering in the mid-30s. The atmosphere is thick and damp, belying the winter season and intensifying the outdoor chill. A strong wind whips off Lake Michigan, creating a blustery feel that dances with the clouds hanging low in the sky, rendering the view across the beach somewhat muted and gray. There are no immediate signs of precipitation, but patchy fog is expected to creep in overnight.\n\nLooking ahead to tomorrow, the forecast anticipates more clouds and the potential for fog in the morning hours, with temperatures inching slightly higher, peaking around the high 30s. The day remains obscured, with little promise of sunshine, and the gentle west-southwest breeze should offer a modest respite from the cold. With this winter weather upon us, it\u2019s advisable to layer up warmly, perhaps with a cozy jacket and a scarf, to ward off the chill while venturing outdoors. Ideal activities for this time might include indoor pursuits\u2014perhaps a leisurely visit to a local caf\u00e9 or a warm gathering with friends\u2014as the beach presents a stark, yet captivating, winter scene, best viewed from the comfort of a cozy spot away from the wind.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-12-29 22:05:58"
+    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere, with temperatures lingering in the mid 30s and moisture in the air creating a gloomy setting. A brisk wind from the west-northwest adds to the biting chill, and the skies are dominated by thick clouds. Overnight, expect patchy fog to settle in after 5 AM, under a blanket of clouds, with temperatures dipping slightly. The forecast for Monday hints at continued coolness, featuring a high in the upper 30s and lingering fog until mid-afternoon. \n\nThe lake\u2019s demeanor is mixed today, with choppy waves making for less than ideal conditions for water activities. Although no significant precipitation is anticipated, the overall grayness could make for an uninviting outdoor experience. Dress warmly; layered gloves and a sturdy coat are essential for comfort. While these temperatures are typical for this time of year in the Midwest, the moisture adds a layer of discomfort. This last weekend of the year might not inspire outdoor excursions, yet short walks along the shoreline could be a serene option for those seeking a breath of fresh, albeit crisp, air as the year draws to a close.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-12-30 02:05:56"
 }
