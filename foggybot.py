@@ -19,7 +19,7 @@ from googleapiclient.discovery import build
 from pytz import timezone
 
 # Constants
-YOUTUBE_VIDEO_ID = "XP3Gle-S9lE"
+YOUTUBE_VIDEO_ID = "dUyCWAhCdJs"
 EVANSTON_COORDINATES = (42.032931, -87.680432)
 OUTPUT_DIR = "captures"
 TIMEZONE = "America/Chicago"
@@ -245,7 +245,8 @@ Evanston capturing:
 - Suggested activities given conditions, day, time, and location
 - If the date happens to be a major U.S. or religious holiday, or election day,
   make note of it in your report. If it's not a holiday, don't mention it,
-  unless a holiday is coming up in the next few days or weeks.
+  unless a holiday is coming up in the next few days, in which case, it's okay
+  to refer to it.
 
 Take care not to mistake the current conditions for the upcoming forecast.
 
