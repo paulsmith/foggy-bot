@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-03T11:29:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 80.719316800236,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 320,
-            "description": "Cloudy"
+            "timestamp": "2025-01-03T14:51:00+00:00",
+            "temperature_f": 21.02,
+            "temperature_c": -6.1,
+            "humidity": 62.018638304668,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 300,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-01-03T06:00:00-06:00",
+                "startTime": "2025-01-03T10:00:00-06:00",
                 "endTime": "2025-01-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 24,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": null
                 },
                 "windSpeed": "15 to 20 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30/sct?size=medium",
-                "shortForecast": "Scattered Snow Showers then Mostly Sunny",
-                "detailedForecast": "Scattered snow showers before 8am. Mostly sunny. High near 24, with temperatures falling to around 22 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 24, with temperatures falling to around 21 in the afternoon. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2025-01-03T18:00:00-06:00",
                 "endTime": "2025-01-04T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 12,
+                "temperature": 11,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 12. Wind chill values as low as -1. West northwest wind around 15 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 11. Wind chill values as low as -4. West northwest wind around 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions present a chilly and blustery morning, with temperatures settling in the low 20s and a strong, gusty wind creating a biting wind chill. The sky is cloudy, enhancing the stark winter atmosphere along the lakeshore. With scattered snow showers tapering off early, the day is expected to transition to mostly sunny, despite a high hovering around the mid-20s. However, chilly temperatures will prevail this afternoon, leading to a cool day overall.\n\nWaves may be moderate, influenced by the brisk winds that could stir up some conditions along the shore, making it unsuitable for swimming or water-related activities. As for attire, it is advisable to dress warmly in layers, wearing hats and gloves to combat the wind chill. Given it's the heart of winter in the Midwest, these temperatures are typical for January. Despite the cold, the sunny intervals could provide a refreshing perspective for a winter walk or a visit to local parks, and with no significant holidays on the horizon, it could offer a quiet winter escape.",
-    "color_code": "#1F3B6A",
-    "timestamp": "2025-01-03 06:09:06"
+    "weather_report": "Evanston is currently experiencing crisp and cool conditions, with the temperature hovering in the low 20s and a blustery wind from the northwest. The mostly clear morning offers a serene view over Lake Michigan, with gentle waves lapping at the shore, making for a picturesque winter scene. As the day progresses, temperatures are expected to remain around the low to mid 20s, accompanied by a bright and mostly sunny sky, though they will dip further into the lower teens this evening. A wind chill will make it feel even colder, so outdoor enthusiasts should be prepared for a biting chill as the sun sets and temperatures drop.\n\nGiven these conditions, a warm coat, gloves, and a good hat are essential for anyone venturing outdoors. The relatively tranquil wave conditions might invite some onlookers to stroll along the beach or enjoy the view, yet the cold air is likely to keep most folks indoors. While today isn't marked by any significant holiday, the seasonal temperature is typical for early January in the Midwest, maintaining the region's characteristic chilly ambiance during winter.",
+    "color_code": "#007ACC",
+    "timestamp": "2025-01-03 10:06:29"
 }
