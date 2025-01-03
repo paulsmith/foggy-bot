@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-02T20:51:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 51.402431479583,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 230,
-            "description": "Cloudy"
+            "timestamp": "2025-01-02T23:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 81.122333102085,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 240,
+            "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-02T15:00:00-06:00",
-                "endTime": "2025-01-02T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/snow,40?size=medium",
-                "shortForecast": "Chance Snow",
-                "detailedForecast": "A chance of snow after 4pm. Cloudy, with a high near 31. West wind around 10 mph. Chance of precipitation is 40%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-02T18:00:00-06:00",
                 "endTime": "2025-01-03T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow,50/bkn?size=medium",
                 "shortForecast": "Chance Snow then Mostly Cloudy",
                 "detailedForecast": "A chance of snow before 9pm. Mostly cloudy. Low around 17, with temperatures rising to around 19 overnight. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-01-03T06:00:00-06:00",
+                "endTime": "2025-01-03T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 24,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 24, with temperatures falling to around 22 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly and cloudy afternoon, with temperatures hovering in the low 30s and a strong, blustery wind sweeping in from the west. The beach, usually a tranquil retreat, today bears the touch of winter's chill, preparing for potential snowfall later in the day. The forecast indicates a 40% chance of snow after 4 PM, with blustery conditions continuing, making it feel even colder as the day progresses.\n\nAs night falls, expect temperatures to dip into the teens, while the humidity adds a biting edge to the air. With a 50% chance of light snow before 9 PM, conditions may not be ideal for outdoor activities. The lake mirrors the overcast sky, reflecting a muted palette that matches the crisp season. For those venturing outside, bundling up in layers is essential\u2014think heavy coats, scarves, and perhaps gloves to keep warm against the relentless breeze. The ongoing winter season lends a familiar chill, typical of Illinois in January, so this weather fits right into the seasonal rhythm. While the beach may not be bustling with summer activities, it offers a serene backdrop for a brisk winter walk or a moment to observe the beauty of nature\u2019s quiet rest.",
-    "color_code": "#A2A29A",
-    "timestamp": "2025-01-02 15:27:18"
+    "weather_report": "This evening in Evanston, current conditions are marked by a biting chill with light snow falling, as temperatures hover in the upper 20s. The air carries a brisk wind that sweeps in from the west-northwest, creating a sharp contrast against the wintry scene. As night sets in, the chance of additional snow remains until 9 PM, with cloudy skies dominating the backdrop, offering a rather muted and overcast appearance outside.\n\nLooking ahead, Friday promises slightly clearer conditions, bathed in mostly sunny skies but with a high in the mid-20s. The breeze will continue to whistle at a noticeable pace, keeping the air feeling icy. Given these weather conditions, bundling up in heavy layers with a warm hat and gloves is advisable to combat the penetrating cold. Approximately typical for mid-winter in this region, today\u2019s temperatures reflect what one would expect during this seasonal turn. While outdoor activities may be limited due to the cold and snow, a brisk walk along the frozen shore of Lake Michigan could be invigorating for those who are well-prepared, capturing the essence of winter's stark beauty\u2014though caution should be exercised on slippery surfaces.",
+    "color_code": "#2C2E4A",
+    "timestamp": "2025-01-02 18:23:31"
 }
