@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-04T10:51:00+00:00",
+            "timestamp": "2025-01-04T14:51:00+00:00",
             "temperature_f": 14.0,
             "temperature_c": -10,
-            "humidity": 61.01334138511,
-            "wind_speed_mph": 33.01812,
+            "humidity": 58.035574986311,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 310,
-            "description": "Clear"
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-01-04T06:00:00-06:00",
+                "startTime": "2025-01-04T10:00:00-06:00",
                 "endTime": "2025-01-04T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 22,
@@ -33,7 +33,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 22. Wind chill values as low as -3. West northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Sunny. High near 22, with temperatures falling to around 19 in the afternoon. Wind chill values as low as 1. West northwest wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 13. West northwest wind 5 to 10 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 13. West northwest wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "Good morning, Evanston. As the sun rises over the horizon, temperatures sit in the low teens, giving a crisp and cool feel to the air. The wind is a howling presence, invigorating some and biting others with gusts that sweep around at over 30 miles per hour. The sky is clear, providing a serene view across Lake Michigan, where the water dances gently with modest waves, perfect for those who find peace in nature's rhythm. \n\nAs we progress through the day, expect the sun to shine brightly, pushing temperatures up into the lower 20s. Though a warming trend is on the horizon, wind chill will temper that comfort, making it feel far chillier, especially in the gusts later. Tonight, things will cool down further, settling in around the teen mark under mostly cloudy skies. With no precipitation in sight, it\u2019s an excellent day to bundle up and perhaps take a brisk walk along the lake or engage in graceful winter sports, maximizing the beauty of the season. For those heading outside, be sure to layer up\u2014keeping warm will be essential as we embrace the season's chill in this part of the world.",
-    "color_code": "#C0D3E3",
-    "timestamp": "2025-01-04 06:08:13"
+    "weather_report": "In Evanston, the day begins with a stark chill permeating the air, as temperatures hover in the low teens, accompanied by a blustery wind, which adds an edge to the already frosty morning. The sky is mostly clear, providing glimpses of bright blue above. As we look toward the shoreline of Lake Michigan, the water is slightly agitated, producing gentle waves that lap against the beach. With no precipitation in sight, the environment stands calm yet invigorating\u2014ideal for those bundled up warmly.\n\nLooking ahead, today\u2019s weather promises a sunny respite with temperatures climbing to the low 20s, though a brisk wind will create an even sharper chill throughout the day. Tonight, expect partly cloudy skies and temperatures dipping slightly, but still remaining within a bearable range for winter. Given the conditions, layers are recommended\u2014thick coats, hats, and mittens to keep comfortably warm against the winter elements. As we embrace this January day, the weather is typical for the season, where winter\u2019s grip is firmly felt, yet the clear, bright skies offer a glimmering chance for outdoor activities like a brisk walk by the beach or visiting local parks, where one can revel in the serene, frosty beauty of the surroundings.",
+    "color_code": "#A3B2C1",
+    "timestamp": "2025-01-04 10:06:09"
 }
