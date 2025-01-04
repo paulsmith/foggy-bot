@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-04T14:51:00+00:00",
-            "temperature_f": 14.0,
-            "temperature_c": -10,
-            "humidity": 58.035574986311,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 310,
+            "timestamp": "2025-01-04T18:51:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 35.964539737242,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 290,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-04T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-01-04T14:00:00-06:00",
                 "endTime": "2025-01-04T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 22,
@@ -33,7 +33,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 22, with temperatures falling to around 19 in the afternoon. Wind chill values as low as 1. West northwest wind 10 to 15 mph."
+                "detailedForecast": "Sunny. High near 22, with temperatures falling to around 19 in the afternoon. West northwest wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 13. West northwest wind 5 to 10 mph, with gusts as high as 20 mph."
+                "windSpeed": "10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 13. Wind chill values as low as 1. Northwest wind around 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the day begins with a stark chill permeating the air, as temperatures hover in the low teens, accompanied by a blustery wind, which adds an edge to the already frosty morning. The sky is mostly clear, providing glimpses of bright blue above. As we look toward the shoreline of Lake Michigan, the water is slightly agitated, producing gentle waves that lap against the beach. With no precipitation in sight, the environment stands calm yet invigorating\u2014ideal for those bundled up warmly.\n\nLooking ahead, today\u2019s weather promises a sunny respite with temperatures climbing to the low 20s, though a brisk wind will create an even sharper chill throughout the day. Tonight, expect partly cloudy skies and temperatures dipping slightly, but still remaining within a bearable range for winter. Given the conditions, layers are recommended\u2014thick coats, hats, and mittens to keep comfortably warm against the winter elements. As we embrace this January day, the weather is typical for the season, where winter\u2019s grip is firmly felt, yet the clear, bright skies offer a glimmering chance for outdoor activities like a brisk walk by the beach or visiting local parks, where one can revel in the serene, frosty beauty of the surroundings.",
-    "color_code": "#A3B2C1",
-    "timestamp": "2025-01-04 10:06:09"
+    "weather_report": "In Evanston, the weather is presently crisp and cool, with a temperature hovering in the low 20s and mostly clear skies, offering a serene view toward Lake Michigan. As the afternoon unfolds, expect sunny conditions with the temperature gently dropping to around 19 degrees, complemented by a light, blustery wind. Tonight, the clouds will roll in, ushering in a chill that may bring wind chill values as low as 1 degree, so plan for a cozy environment.\n\nWave conditions along the shore will be moderate, aligning with the ongoing chill and northwesterly winds gusting up to 20 miles per hour. Fortunately, no precipitation is forecasted, making for a dry day, ideal for bundled up outdoor strolls along the beach or parks. Given the season\u2019s character, this winter weather is typical for the region, suggesting that a warm coat, hat, and gloves will ensure comfort against the biting chill. Enjoy a brisk walk or perhaps take a moment to admire the frosty beauty of the lake\u2014a perfect way to cherish this winter's day.",
+    "color_code": "#6D9EC8",
+    "timestamp": "2025-01-04 14:05:45"
 }
