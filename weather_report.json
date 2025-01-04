@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-04T06:51:00+00:00",
-            "temperature_f": 17.06,
-            "temperature_c": -8.3,
-            "humidity": 55.671559520125,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 290,
+            "timestamp": "2025-01-04T10:51:00+00:00",
+            "temperature_f": 14.0,
+            "temperature_c": -10,
+            "humidity": 61.01334138511,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 310,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-04T02:00:00-06:00",
-                "endTime": "2025-01-04T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 10,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 10. Wind chill values as low as -4. West northwest wind around 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2025-01-04T06:00:00-06:00",
                 "endTime": "2025-01-04T18:00:00-06:00",
                 "isDaytime": true,
@@ -52,11 +33,30 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 22. Wind chill values as low as -5. West northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Sunny, with a high near 22. Wind chill values as low as -3. West northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-04T18:00:00-06:00",
+                "endTime": "2025-01-05T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 13,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 13. West northwest wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, you are greeted by a chilly yet invigorating atmosphere, with current temperatures hovering in the low 20s. The air feels crisp and clean, complemented by a blustery wind pouring in from the northwest, reaching up to 37 miles per hour, making for a rather biting wind chill that could dip to a frigid -4. Thankfully, the skies remain clear, providing a unimpeded view of the winter landscape appropriate for this time of year, as we are firmly nestled in the grasp of January.\n\nAs the night unfolds, expect mostly clear skies with temperatures dropping to the low teens, ensuring a frigid overnight chill. Tomorrow, while conditions will mirror today with brilliant sunshine and highs nearing the low 20s, bear in mind that wind chill values can create a sense of deeper cold, hovering around -5. The waves along Lake Michigan will be moderately active, showcasing a choppy surface that could be captivating for onlookers but not ideal for aquatic activities. Layered clothing is highly advisable for those venturing outside; warm jackets, hats, and gloves will be essential to stave off the freeze. It\u2019s a typical winter day along the shoreline, perfect for witnessing the serene beauty of the lake while staying bundled up, making it a day better spent indoors or wrapped in warmth, perhaps anticipating the upcoming celebrations of the New Year.",
-    "color_code": "#A3BADC",
-    "timestamp": "2025-01-04 02:06:47"
+    "weather_report": "Good morning, Evanston. As the sun rises over the horizon, temperatures sit in the low teens, giving a crisp and cool feel to the air. The wind is a howling presence, invigorating some and biting others with gusts that sweep around at over 30 miles per hour. The sky is clear, providing a serene view across Lake Michigan, where the water dances gently with modest waves, perfect for those who find peace in nature's rhythm. \n\nAs we progress through the day, expect the sun to shine brightly, pushing temperatures up into the lower 20s. Though a warming trend is on the horizon, wind chill will temper that comfort, making it feel far chillier, especially in the gusts later. Tonight, things will cool down further, settling in around the teen mark under mostly cloudy skies. With no precipitation in sight, it\u2019s an excellent day to bundle up and perhaps take a brisk walk along the lake or engage in graceful winter sports, maximizing the beauty of the season. For those heading outside, be sure to layer up\u2014keeping warm will be essential as we embrace the season's chill in this part of the world.",
+    "color_code": "#C0D3E3",
+    "timestamp": "2025-01-04 06:08:13"
 }
