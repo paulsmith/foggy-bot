@@ -7,56 +7,56 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-05T06:51:00+00:00",
-            "temperature_f": 17.06,
-            "temperature_c": -8.3,
-            "humidity": 46.317137964874,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 290,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-01-05T10:51:00+00:00",
+            "temperature_f": 15.979999999999997,
+            "temperature_c": -8.9,
+            "humidity": 46.52377717473,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 300,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-05T02:00:00-06:00",
-                "endTime": "2025-01-05T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 13,
+                "name": "Today",
+                "startTime": "2025-01-05T06:00:00-06:00",
+                "endTime": "2025-01-05T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 27,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 30
                 },
-                "windSpeed": "10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 13. Wind chill values as low as 1. Northwest wind around 10 mph."
+                "windSpeed": "5 to 15 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/ovc/snow,30?size=medium",
+                "shortForecast": "Cloudy then Chance Snow",
+                "detailedForecast": "A chance of snow after 4pm. Cloudy. High near 27, with temperatures falling to around 25 in the afternoon. North wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-01-05T06:00:00-06:00",
-                "endTime": "2025-01-05T18:00:00-06:00",
-                "isDaytime": true,
+                "name": "Tonight",
+                "startTime": "2025-01-05T18:00:00-06:00",
+                "endTime": "2025-01-06T06:00:00-06:00",
+                "isDaytime": false,
                 "temperature": 25,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 60
                 },
-                "windSpeed": "5 to 15 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 25. Wind chill values as low as 1. North wind 5 to 15 mph."
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/snow,40/snow,60?size=medium",
+                "shortForecast": "Snow Likely",
+                "detailedForecast": "Snow likely. Cloudy. Low around 25, with temperatures rising to around 28 overnight. Northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions are chilly, with a temperature dipping into the low teens, accentuated by a brisk northwestern breeze that adds a biting edge to the air. The sky is mostly cloudy, creating a grayish backdrop against the winter scene, where the waves of Lake Michigan are gently lapping at the shore. While there\u2019s no sign of precipitation at this moment, the atmosphere feels crisp and invigorating, perfect for bundled-up outdoor endeavors.\n\nAs we look ahead to the daylight hours, Sunday brings a similar overcast tone but with a slight warming trend, reaching for the mid 20s, accompanied by the same north wind that will maintain the chill factor. Residents will find the day more bearable, but wind chills could still plummet to the single digits, urging everyone to dress warmly in layers. These wintry conditions are typical for this time of year in Illinois, where January often delivers such nippy weather. Ideal activities may include a brisk walk along the shore or enjoying a hot drink at a nearby caf\u00e9, embracing the season\u2019s charm while staying sheltered from the chill.",
-    "color_code": "#AAB8B2",
-    "timestamp": "2025-01-05 02:06:44"
+    "weather_report": "The current chill in Evanston, where temperatures hover in the mid-teens, presents an unmistakable bite typical of a January morning. Clarity is high, with the sky embracing a mix of clouds that hang low over the picturesque beach, creating a stark contrast against the smooth, glistening surface of Lake Michigan, gently fringed by crisp, rolling waves stirred by a substantial, blustery wind. As we move into the day, expect a chance of snow later this afternoon, with temperatures anticipated to rise, reaching the upper 20s. The likelihood of snow increases tonight as the temperatures rise again, creating a scene both invigorating and potentially messy with expected accumulations.\n\nWhile the current conditions might deter casual strolls along the shore, if you venture out, layering up is essential. A warm coat, gloves, and a sturdy hat will provide necessary protection against the cold and gusty winds. The wintry mix of conditions suggests that outdoor activities should lean towards brief excursions rather than prolonged outings. Given the typical Midwest chill of January, today\u2019s weather aligns well with seasonal expectations, making it a reminder of winter\u2019s firm grip. With the landscape dressed in its frosty attire, it's an ideal time for indoor leisure or a cozy gathering ahead, rather than extensive outdoor plans.",
+    "color_code": "#4B88C3",
+    "timestamp": "2025-01-05 06:08:25"
 }
