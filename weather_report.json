@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-04T23:51:00+00:00",
-            "temperature_f": 21.02,
-            "temperature_c": -6.1,
-            "humidity": 41.12442811947,
+            "timestamp": "2025-01-05T02:51:00+00:00",
+            "temperature_f": 19.939999999999998,
+            "temperature_c": -6.7,
+            "humidity": 43.055893253978,
             "wind_speed_mph": 20.93832,
             "wind_direction": 270,
-            "description": "Partly Cloudy"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-01-04T18:00:00-06:00",
+                "startTime": "2025-01-04T21:00:00-06:00",
                 "endTime": "2025-01-05T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 13,
@@ -33,7 +33,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 13. Wind chill values as low as 1. Northwest wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 13. Wind chill values as low as 1. Northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the sun descends on Evanston, the evening air has turned crisp and cool, with temperatures hovering in the low 20s. The atmosphere is stirred by a brisk, blustery northwest wind, lending a bite to the already cold feeling outdoors. Currently partly cloudy, the skies are expected to shift towards a more overcast appearance as night falls, with temperatures dipping to around 13 degrees. Wind chill might make it feel as frigid as 1 degree, so venturing outside will demand warm attire to maintain comfort. \n\nFor those contemplating activities, the beach might not be the most inviting choice given the biting cold and the chilling winds from Lake Michigan. Activity on the water presents some waves, but not enough to encourage safe indulgence, particularly as the night approaches. Instead, cozying up indoors with a warm drink might be the best option. As we are a few days away from a popular holiday, the anticipation in the air adds a touch of warmth to the chilly surroundings.",
-    "color_code": "#B2C8E6",
-    "timestamp": "2025-01-04 18:26:04"
+    "weather_report": "Current conditions in Evanston, Illinois, present a stark winter chill, with the temperature hovering in the low 20s and a brisk, northwesterly wind creating a biting wind chill, making the air feel closer to the single digits. The beach scene, though inviting in its stark beauty, bears witness to a mostly cloudy sky, contributing to a grey and somber ambiance that speaks of deep winter. As night approaches, temperatures are expected to drop to around 13 degrees, with a frostiness settling in, lending everything a crisp and brittle quality.\n\nLooking ahead to Sunday, while the day may begin under a blanket of clouds, a slight warming trend will bring temperatures to near the mid-20s, albeit with continued wind chill effects. The waves on Lake Michigan are manageable but will be choppy, reflective of the blustery conditions. No precipitation is forecasted, keeping the pathway clear for outdoor pursuits, though it may lack the warmth and cheer of more temperate days. Dress warmly in layered clothing, with hats and gloves being essential to ward off the cold as you venture outside. Given the seasonal context, these conditions are entirely typical for winter in this region, so it's an ideal time to embrace indoor activities or brisk walks along the shore, where the frost-kissed scenery can be appreciated from a comfortable distance.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2025-01-04 22:06:43"
 }
