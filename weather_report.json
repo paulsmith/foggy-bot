@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-05T10:51:00+00:00",
+            "timestamp": "2025-01-05T14:51:00+00:00",
             "temperature_f": 15.979999999999997,
             "temperature_c": -8.9,
-            "humidity": 46.52377717473,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 300,
-            "description": ""
+            "humidity": 42.360395516981,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 310,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-01-05T06:00:00-06:00",
+                "startTime": "2025-01-05T10:00:00-06:00",
                 "endTime": "2025-01-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "The current chill in Evanston, where temperatures hover in the mid-teens, presents an unmistakable bite typical of a January morning. Clarity is high, with the sky embracing a mix of clouds that hang low over the picturesque beach, creating a stark contrast against the smooth, glistening surface of Lake Michigan, gently fringed by crisp, rolling waves stirred by a substantial, blustery wind. As we move into the day, expect a chance of snow later this afternoon, with temperatures anticipated to rise, reaching the upper 20s. The likelihood of snow increases tonight as the temperatures rise again, creating a scene both invigorating and potentially messy with expected accumulations.\n\nWhile the current conditions might deter casual strolls along the shore, if you venture out, layering up is essential. A warm coat, gloves, and a sturdy hat will provide necessary protection against the cold and gusty winds. The wintry mix of conditions suggests that outdoor activities should lean towards brief excursions rather than prolonged outings. Given the typical Midwest chill of January, today\u2019s weather aligns well with seasonal expectations, making it a reminder of winter\u2019s firm grip. With the landscape dressed in its frosty attire, it's an ideal time for indoor leisure or a cozy gathering ahead, rather than extensive outdoor plans.",
-    "color_code": "#4B88C3",
-    "timestamp": "2025-01-05 06:08:25"
+    "weather_report": "In Evanston, Illinois, the current weather presents a chilly scene with temperatures lingering in the mid-teens and a noticeable breeze that adds to the briskness. It's a mostly cloudy day, with a somewhat muted atmosphere as the clouds drift overhead, softening the sunlight. As the afternoon approaches, there's a possibility of snow, making the ambiance feel more wintry and somber. The waves on Lake Michigan churn gently, inviting a sense of calm yet hinting at the potential for more disruptive weather later.\n\nLooking ahead, the forecast suggests a shift towards snow later today, with the temperature expected to edge closer to the mid-20s. Tonight, conditions look to transition further into snowfall, with indications of accumulation that may blanket the area lightly. Given the chill in the air and the looming precipitation, it's advisable to bundle up in warm layers, preferably including a good winter coat and accessories like hats and gloves. The season serves up a classic Chicago winter experience, and while today may not be ideal for outdoor activities, it holds potential for cozy indoor pastimes. There are no significant holidays on the calendar today, but with winter in full swing, a seasonal spirit remains palpable.",
+    "color_code": "#A7B2C3",
+    "timestamp": "2025-01-05 10:05:50"
 }
