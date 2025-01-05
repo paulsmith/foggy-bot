@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-05T14:51:00+00:00",
-            "temperature_f": 15.979999999999997,
-            "temperature_c": -8.9,
-            "humidity": 42.360395516981,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 310,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-01-05T18:51:00+00:00",
+            "temperature_f": 19.939999999999998,
+            "temperature_c": -6.7,
+            "humidity": 35.727226532397,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 10,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-05T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-01-05T14:00:00-06:00",
                 "endTime": "2025-01-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": null
                 },
-                "windSpeed": "5 to 15 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/ovc/snow,30?size=medium",
-                "shortForecast": "Cloudy then Chance Snow",
-                "detailedForecast": "A chance of snow after 4pm. Cloudy. High near 27, with temperatures falling to around 25 in the afternoon. North wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. High near 27, with temperatures falling to around 25 in the afternoon. North northeast wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-01-05T18:00:00-06:00",
                 "endTime": "2025-01-06T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 25,
+                "temperature": 26,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 50
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/snow,40/snow,60?size=medium",
-                "shortForecast": "Snow Likely",
-                "detailedForecast": "Snow likely. Cloudy. Low around 25, with temperatures rising to around 28 overnight. Northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/snow,50?size=medium",
+                "shortForecast": "Chance Snow",
+                "detailedForecast": "A chance of snow. Cloudy. Low around 26, with temperatures rising to around 28 overnight. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather presents a chilly scene with temperatures lingering in the mid-teens and a noticeable breeze that adds to the briskness. It's a mostly cloudy day, with a somewhat muted atmosphere as the clouds drift overhead, softening the sunlight. As the afternoon approaches, there's a possibility of snow, making the ambiance feel more wintry and somber. The waves on Lake Michigan churn gently, inviting a sense of calm yet hinting at the potential for more disruptive weather later.\n\nLooking ahead, the forecast suggests a shift towards snow later today, with the temperature expected to edge closer to the mid-20s. Tonight, conditions look to transition further into snowfall, with indications of accumulation that may blanket the area lightly. Given the chill in the air and the looming precipitation, it's advisable to bundle up in warm layers, preferably including a good winter coat and accessories like hats and gloves. The season serves up a classic Chicago winter experience, and while today may not be ideal for outdoor activities, it holds potential for cozy indoor pastimes. There are no significant holidays on the calendar today, but with winter in full swing, a seasonal spirit remains palpable.",
-    "color_code": "#A7B2C3",
-    "timestamp": "2025-01-05 10:05:50"
+    "weather_report": "As the afternoon sun casts a muted glow over Evanston, current conditions reveal a crisp, cool atmosphere characterized by cloud cover and a gentle breeze from the north-northeast. The temperature hovers in the low 20s, offering a genuinely wintry feel, while the brisk winds create a sharp edge to the chill. The waves on Lake Michigan are moderately agitated, reflecting the gusty winds, which may reach near 15 mph, adding a touch of drama to the lakefront scenery.\n\nLooking ahead, the forecast calls for continued cloudiness, with temperatures peaking in the upper 20s before eventually dipping again. There's a 50% chance of snow tonight, as lows settle around the mid-20s, with the possibility of light snow accumulation adding a dusting to the landscape. This combination of elements suggests a less-than-pleasant outdoor experience, especially as evening approaches. For those venturing outside, warm attire is advisable to combat the cool and somewhat windy conditions. Given the time of year, these temperatures are entirely typical for early January in the Midwest, inviting a variety of winter activities. Despite the chill, one might still enjoy a brisk walk along the beach or partake in a cozy indoor gathering, while the prospect of snow could spark interest in classic winter pastimes in the days ahead.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-01-05 14:05:49"
 }
