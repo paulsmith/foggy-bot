@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-05T02:51:00+00:00",
-            "temperature_f": 19.939999999999998,
-            "temperature_c": -6.7,
-            "humidity": 43.055893253978,
+            "timestamp": "2025-01-05T06:51:00+00:00",
+            "temperature_f": 17.06,
+            "temperature_c": -8.3,
+            "humidity": 46.317137964874,
             "wind_speed_mph": 20.93832,
-            "wind_direction": 270,
-            "description": ""
+            "wind_direction": 290,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-01-04T21:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-01-05T02:00:00-06:00",
                 "endTime": "2025-01-05T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 13,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, present a stark winter chill, with the temperature hovering in the low 20s and a brisk, northwesterly wind creating a biting wind chill, making the air feel closer to the single digits. The beach scene, though inviting in its stark beauty, bears witness to a mostly cloudy sky, contributing to a grey and somber ambiance that speaks of deep winter. As night approaches, temperatures are expected to drop to around 13 degrees, with a frostiness settling in, lending everything a crisp and brittle quality.\n\nLooking ahead to Sunday, while the day may begin under a blanket of clouds, a slight warming trend will bring temperatures to near the mid-20s, albeit with continued wind chill effects. The waves on Lake Michigan are manageable but will be choppy, reflective of the blustery conditions. No precipitation is forecasted, keeping the pathway clear for outdoor pursuits, though it may lack the warmth and cheer of more temperate days. Dress warmly in layered clothing, with hats and gloves being essential to ward off the cold as you venture outside. Given the seasonal context, these conditions are entirely typical for winter in this region, so it's an ideal time to embrace indoor activities or brisk walks along the shore, where the frost-kissed scenery can be appreciated from a comfortable distance.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2025-01-04 22:06:43"
+    "weather_report": "In Evanston, the current conditions are chilly, with a temperature dipping into the low teens, accentuated by a brisk northwestern breeze that adds a biting edge to the air. The sky is mostly cloudy, creating a grayish backdrop against the winter scene, where the waves of Lake Michigan are gently lapping at the shore. While there\u2019s no sign of precipitation at this moment, the atmosphere feels crisp and invigorating, perfect for bundled-up outdoor endeavors.\n\nAs we look ahead to the daylight hours, Sunday brings a similar overcast tone but with a slight warming trend, reaching for the mid 20s, accompanied by the same north wind that will maintain the chill factor. Residents will find the day more bearable, but wind chills could still plummet to the single digits, urging everyone to dress warmly in layers. These wintry conditions are typical for this time of year in Illinois, where January often delivers such nippy weather. Ideal activities may include a brisk walk along the shore or enjoying a hot drink at a nearby caf\u00e9, embracing the season\u2019s charm while staying sheltered from the chill.",
+    "color_code": "#AAB8B2",
+    "timestamp": "2025-01-05 02:06:44"
 }
