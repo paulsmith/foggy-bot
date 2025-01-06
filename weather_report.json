@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-06T10:56:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 88.480083908667,
-            "wind_speed_mph": 53.95644000000001,
+            "timestamp": "2025-01-06T15:18:00+00:00",
+            "temperature_f": 24.98,
+            "temperature_c": -3.9,
+            "humidity": 92.055856334226,
+            "wind_speed_mph": 49.929840000000006,
             "wind_direction": 350,
-            "description": "Light Freezing Drizzle and Snow and Fog/Mist"
+            "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-01-06T06:00:00-06:00",
+                "startTime": "2025-01-06T10:00:00-06:00",
                 "endTime": "2025-01-06T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 30,
+                "temperature": 31,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -30,10 +30,10 @@
                     "value": 80
                 },
                 "windSpeed": "15 to 20 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,40/snow,80?size=medium",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/snow,50/snow,80?size=medium",
                 "shortForecast": "Snow Showers",
-                "detailedForecast": "Snow showers and areas of freezing drizzle. Cloudy. High near 30, with temperatures falling to around 28 in the afternoon. North northeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected."
+                "detailedForecast": "Snow showers and a chance of freezing drizzle. Cloudy. High near 31, with temperatures falling to around 28 in the afternoon. North wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible. Little or no ice accumulation expected."
             },
             {
                 "number": 2,
@@ -51,12 +51,12 @@
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,20?size=medium",
-                "shortForecast": "Scattered Snow Showers",
-                "detailedForecast": "Scattered snow showers before 3am. Mostly cloudy. Low around 18, with temperatures rising to around 20 overnight. North northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers and a slight chance of freezing drizzle before 3am. Mostly cloudy. Low around 18, with temperatures rising to around 20 overnight. North northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
             }
         ]
     },
-    "weather_report": "As dawn breaks over the beach in Evanston, temperatures hover in the low 20s, fostering a brisk, biting chill penetrated by a persistent drizzle mixed with light snow and swirling mist. With the humidity enveloping the area, outdoor conditions feel quite damp and raw, compounded by a fierce north-northeast wind that sends flurries racing across the shoreline. Visibility may be compromised as fog drapes over Lake Michigan, dulling the crisp horizon and lending an icy ambiance to the morning.\n\nLooking ahead, today promises snow showers with periods of freezing drizzle, particularly in the afternoon, as temperatures struggle to reach the upper 20s before dipping again tonight. Snow accumulation will likely range between one to three inches, with a chance a few fleeting gusts might blow snow into drifts along the beach. The waves rolling in are considerably agitated, influenced by those gusty winds, making for a potentially tumultuous scene along the waterfront. Given the chill and dampness, dressing warmly in layers\u2014complete with hats, gloves, and waterproof outerwear\u2014remains essential for anyone venturing outdoors. As winter envelops the Great Lakes region, these temperatures are typical for early January, demanding both caution and care as residents and visitors navigate the conditions. While this day may not be ideal for outdoor activities, those keen on winter sports could find solace in the snow, or perhaps retreat indoors to embrace the warmth of a cozy caf\u00e9\u2014savoring a hot drink while watching the flurries dance beyond the window.",
-    "color_code": "#A4B9B2",
-    "timestamp": "2025-01-06 06:09:43"
+    "weather_report": "Current conditions in Evanston are quite brisk, with temperatures hovering in the mid 20s. The air is heavy, giving that typical winter chill an even sharper bite, especially with strong gusts from the north, creating a fiercely blustery atmosphere. Light snow has been falling, adding a delicate touch to the winter landscape as it mingles with the potential for freezing drizzle later today. As we look towards the afternoon, expect **cloudy skies** and a high temperature nearing the low 30s, though it will likely feel much colder due to the wind. Snow showers are expected to continue with an 80 percent chance of precipitation, leading to a light accumulation.\n\nThe overall appearance is one of a stark, wintry scene along the beach, with gently rolling waves lapping at the shore, creating a chilly, somewhat uninviting view for outdoor activities. For those brave enough to venture outside, warm layered clothing is essential, as you'll need to combat the penetrating cold. While today may not be ideal for outdoor fun, cozy indoor pursuits\u2014perhaps reading by the fire or enjoying a warm beverage\u2014could provide a delightful contrast to the wintry conditions. This chilly January day lacks any significant holidays or events, making it a quiet reminder of the season\u2019s grip on our city.",
+    "color_code": "#A9C5E0",
+    "timestamp": "2025-01-06 10:06:33"
 }
