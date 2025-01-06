@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-06T03:21:00+00:00",
-            "temperature_f": 19.939999999999998,
-            "temperature_c": -6.7,
-            "humidity": 84.341107056177,
-            "wind_speed_mph": 53.95644000000001,
+            "timestamp": "2025-01-06T07:02:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 87.85872689459,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 350,
-            "description": "Light Snow and Fog/Mist"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-01-05T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-01-06T02:00:00-06:00",
                 "endTime": "2025-01-06T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 26,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 50
                 },
-                "windSpeed": "15 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/snow,70?size=medium",
-                "shortForecast": "Snow Likely",
-                "detailedForecast": "Snow likely. Cloudy. Low around 26, with temperatures rising to around 28 overnight. North northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/snow,50?size=medium",
+                "shortForecast": "Chance Snow",
+                "detailedForecast": "A chance of snow. Cloudy. Low around 26, with temperatures rising to around 28 overnight. Northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston, Illinois paint a picture of a wintry scene, with temperatures lingering in the upper teens, accompanied by a moist chill that bites at exposed skin. A brisk, howling wind is sweeping in from the north, causing the light snow and fog to swirl, lending an air of stark beauty to the landscape. The picturesque view of Lake Michigan reflects this starkness, presenting gentle waves lapping against the shore, their frothy crests reminiscent of the season\u2019s chill.\n\nLooking ahead, tonight could see increased snowfall, with cloud cover dominating the sky as temperatures hover in the mid-20s, rising slightly overnight. The northern breeze promises a raw, blustery feel, making it imperative to dress warmly for any evening outings. Snow is expected to accumulate lightly, setting the stage for a snowy morning tomorrow, when temperatures will remain in the low 30s accompanied by more significant snowfall\u2014potentially adding a few inches to the winter wonderland. This weather, typical for early January in the Midwest, invites cozy indoor activities or a spirited walk among the flurries, especially given the upcoming holiday cheer just around the corner.",
-    "color_code": "#A9C9E1",
-    "timestamp": "2025-01-05 22:07:07"
+    "weather_report": "In Evanston, the current weather presents a brisk scene with temperatures hovering in the low 20s, under cloudy skies. The air feels notably chilly, with a ferocious wind stirring up from the north at a fierce pace, making outdoor activities feel even colder than the temperature gauges suggest. As we look toward the horizon from the beach, the waves, stirred by the gusty winds, create a restless surface on Lake Michigan, hinting at the potential for snow flurries later in the night.\n\nLooking ahead, the forecast indicates a steady drop to a low near the upper 20s, accompanied by a 50% chance of light snow accumulation\u2014less than half an inch expected overnight. Tomorrow, snow is in the forecast with an 80% likelihood, and significant accumulation could bring 2 to 4 inches. This is typical for this season, where northern Illinois often experiences unpredictable winter weather, but it also encourages cozy activities indoors. Given these conditions, dressing in warm, layered clothing would be prudent if venturing outside. With winter firmly in place, the landscape offers a striking yet subdued beauty, perfect for those inclined to take in the snowy vistas\u2014perhaps with a warm drink in hand.",
+    "color_code": "#A9B1C0",
+    "timestamp": "2025-01-06 02:07:48"
 }
