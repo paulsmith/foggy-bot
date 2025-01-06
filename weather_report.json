@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-05T18:51:00+00:00",
-            "temperature_f": 19.939999999999998,
-            "temperature_c": -6.7,
-            "humidity": 35.727226532397,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 10,
+            "timestamp": "2025-01-05T22:51:00+00:00",
+            "temperature_f": 21.02,
+            "temperature_c": -6.1,
+            "humidity": 70.468689669362,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 20,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-05T14:00:00-06:00",
-                "endTime": "2025-01-05T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 27, with temperatures falling to around 25 in the afternoon. North northeast wind 10 to 15 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-05T18:00:00-06:00",
                 "endTime": "2025-01-06T06:00:00-06:00",
@@ -52,11 +33,30 @@
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/snow,30/snow,50?size=medium",
                 "shortForecast": "Chance Snow",
-                "detailedForecast": "A chance of snow. Cloudy. Low around 26, with temperatures rising to around 28 overnight. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "A chance of snow after 7pm. Cloudy. Low around 26, with temperatures rising to around 28 overnight. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-01-06T06:00:00-06:00",
+                "endTime": "2025-01-06T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 30,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/snow,60/snow,80?size=medium",
+                "shortForecast": "Snow",
+                "detailedForecast": "Snow. Cloudy. High near 30, with temperatures falling to around 28 in the afternoon. North wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
             }
         ]
     },
-    "weather_report": "As the afternoon sun casts a muted glow over Evanston, current conditions reveal a crisp, cool atmosphere characterized by cloud cover and a gentle breeze from the north-northeast. The temperature hovers in the low 20s, offering a genuinely wintry feel, while the brisk winds create a sharp edge to the chill. The waves on Lake Michigan are moderately agitated, reflecting the gusty winds, which may reach near 15 mph, adding a touch of drama to the lakefront scenery.\n\nLooking ahead, the forecast calls for continued cloudiness, with temperatures peaking in the upper 20s before eventually dipping again. There's a 50% chance of snow tonight, as lows settle around the mid-20s, with the possibility of light snow accumulation adding a dusting to the landscape. This combination of elements suggests a less-than-pleasant outdoor experience, especially as evening approaches. For those venturing outside, warm attire is advisable to combat the cool and somewhat windy conditions. Given the time of year, these temperatures are entirely typical for early January in the Midwest, inviting a variety of winter activities. Despite the chill, one might still enjoy a brisk walk along the beach or partake in a cozy indoor gathering, while the prospect of snow could spark interest in classic winter pastimes in the days ahead.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-01-05 14:05:49"
+    "weather_report": "In Evanston, current conditions are quite chilly as temperatures hover in the low 20s, accompanied by a brisk wind that sends chills down your spine. The air is thick with clouds, lending a muted, gray sky that suggests the night ahead may deliver some snow, with a chance beginning after sunset. This evening, temperatures are expected to rise slightly, reaching the mid-20s, but don\u2019t expect much warmth as gusts from the northeast could reach up to 30 miles per hour. Precipitation is likely, with a 50% chance of snow, potentially accumulating less than half an inch.\n\nLooking forward to Monday, the snowy conditions will persist with a high near 30 degrees. Expect a lively, blustery day, as winds from the north whip about, creating a bracing atmosphere. There\u2019s an 80% chance of snow, with accumulations anticipated to be between one and two inches, adding to the wintery landscape. With temperatures falling during the afternoon, the overall ambiance feels quite raw, typical for a January in the Midwest. Dress warmly, favoring layers, shovels, and sturdy footwear if venturing outside, as conditions might make walking tricky. Given the likelihood of winter weather, it might be best to remain cozy indoors, perhaps indulging in a warm beverage or planning a movie night\u2014activities well-suited for a cold, snowy evening in this beloved lakeside town.",
+    "color_code": "#A0A5B1",
+    "timestamp": "2025-01-05 18:25:02"
 }
