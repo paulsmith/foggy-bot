@@ -19,7 +19,7 @@ from googleapiclient.discovery import build
 from pytz import timezone
 
 # Constants
-YOUTUBE_VIDEO_ID = "dUyCWAhCdJs"
+YOUTUBE_VIDEO_ID = "Ytz5_heKd-c"
 EVANSTON_COORDINATES = (42.032931, -87.680432)
 OUTPUT_DIR = "captures"
 TIMEZONE = "America/Chicago"
