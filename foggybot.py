@@ -19,7 +19,7 @@ from googleapiclient.discovery import build
 from pytz import timezone
 
 # Constants
-YOUTUBE_VIDEO_ID = "Ytz5_heKd-c"
+YOUTUBE_VIDEO_ID = "0QJQrjvOlRo"
 EVANSTON_COORDINATES = (42.032931, -87.680432)
 OUTPUT_DIR = "captures"
 TIMEZONE = "America/Chicago"
@@ -227,8 +227,13 @@ Current local date and time: {current_time}
 
 Considering this image and the weather forecast, assess the weather,
 specifically looking for where any preciptitation is, the clarity of the day,
-and more. The image is a view of the beach in Evanston, Illinois, looking east
-from a parks department building towards Lake Michigan.
+and more. The image from a webcam livestream, and is a view of the beach in
+Evanston, Illinois, looking east from a parks department building towards Lake
+Michigan.
+
+Note that because the image is from an unreliable webcam, it may be missing. In
+which case, just forget about the image altogether, and do your assessment
+entirely from the weather forecast.
 
 Considering your assessment of the weather, please write a weather report for
 Evanston capturing:
@@ -286,12 +291,13 @@ COMFORT_MATRIX = {comfort_matrix}
 """
 
     def generate_report(
-        self, weather_data: Dict[str, Any], image_path: str
+        self, weather_data: Dict[str, Any], image_path: Optional[str]
     ) -> Dict[str, Any]:
         forecasts = self._prepare_forecast_prompt(weather_data)
-        response = self.model.prompt(
-            forecasts, attachments=[llm.Attachment(path=image_path)]
+        attachments = (
+            [llm.Attachment(path=image_path)] if image_path is not None else []
         )
+        response = self.model.prompt(forecasts, attachments=attachments)
 
         response_text = str(response)
         color_code = self._extract_color_code(response_text)
@@ -347,11 +353,13 @@ def main():
     youtube_client = YouTubeClient(api_key)
     thumbnail_url = youtube_client.get_live_thumbnail(YOUTUBE_VIDEO_ID)
     if not thumbnail_url:
-        raise RuntimeError("Failed to get YouTube livestream thumbnail")
+        logger.warning("Failed to get YouTube livestream thumbnail")
 
-    captured_file = ThumbnailDownloader.download(thumbnail_url)
-    if not captured_file:
-        raise RuntimeError("Failed to download thumbnail")
+    captured_file = None
+    if thumbnail_url:
+        captured_file = ThumbnailDownloader.download(thumbnail_url)
+        if not captured_file:
+            logger.warning("Failed to download thumbnail")
 
     weather = WeatherGov()
     lat, lon = EVANSTON_COORDINATES
