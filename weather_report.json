@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-24T10:51:00+00:00",
-            "temperature_f": 3.0199999999999996,
-            "temperature_c": -16.1,
-            "humidity": 78.994263687069,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 260,
-            "description": "Clear"
+            "timestamp": "2025-01-24T14:51:00+00:00",
+            "temperature_f": 6.979999999999997,
+            "temperature_c": -13.9,
+            "humidity": 72.347676067569,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 240,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-01-24T06:00:00-06:00",
+                "startTime": "2025-01-24T10:00:00-06:00",
                 "endTime": "2025-01-24T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 21,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 15 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 21, with temperatures falling to around 19 in the afternoon. Wind chill values as low as -8. Southwest wind 5 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly sunny. High near 21, with temperatures falling to around 19 in the afternoon. Wind chill values as low as -3. Southwest wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, current conditions reveal a brisk morning with temperatures hovering in the low single digits, accompanied by a thick atmosphere that feels biting due to the chilly winds. These winds are whispering from the west, and although the sky is clear for now, the overall feel remains quite frosty. \n\nToday\u2019s forecast indicates a shift toward more moderate temperatures, warming into the low 20s, but with a sharp chill factor that may plunge perceived temperatures as low as -8 degrees. A mostly sunny demeanor will grace the day but may give way to light snow showers later tonight, introducing some cloudiness; temperatures are expected to rise slightly overnight. The lake, typically restless in winter, may have some gentle waves, but with snow on the horizon later in the evening, any plans you have along the shoreline should consider the possible precipitation. Dress warmly in layers, with hats and gloves, to combat the cold bite. Though we are still firmly in the heart of winter, today\u2019s temperatures are aligned with typical January highs for this region. Outdoor activities may be limited, but a brisk walk along the beach could be invigorating if one is prepared for the cold.",
-    "color_code": "#D0E5F4",
-    "timestamp": "2025-01-24 06:08:52"
+    "weather_report": "Current conditions in Evanston reflect a brisk morning, with temperatures hovering in the low single digits. The air feels distinctly frosty, enhanced by a blustery wind that carries a chill, making it wise to prepare for a formidable wind chill. Today, expect mostly sunny skies, a welcome sight as the sun rises higher, with afternoon temperatures climbing to the low 20s. Although the forecast suggests a pleasant interval of sun, be prepared for wind gusts that could reach up to 25 miles per hour, which will amplify the cool feel of the day.\n\nLater tonight, the atmosphere shifts, bringing a chance of snow showers in the evening, with light accumulations expected. As temperatures drop to around 17 degrees, dress warmly with layers, and consider a windproof jacket to combat the evening chill. While winter in Evanston typically features such conditions, today\u2019s cold snap serves as a reminder of the season's bite. For those considering outdoor activities, focus on enjoying the refreshing walk along the beach, perhaps making snowmen or savoring the scenic views over Lake Michigan, while keeping in mind the snow chance as night approaches.",
+    "color_code": "#A5B8C8",
+    "timestamp": "2025-01-24 10:06:16"
 }
