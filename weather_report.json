@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-24T14:51:00+00:00",
-            "temperature_f": 6.979999999999997,
-            "temperature_c": -13.9,
-            "humidity": 72.347676067569,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 240,
-            "description": "Mostly Clear"
+            "timestamp": "2025-01-24T18:51:00+00:00",
+            "temperature_f": 19.04,
+            "temperature_c": -7.2,
+            "humidity": 44.742545518711,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 220,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-24T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-01-24T14:00:00-06:00",
                 "endTime": "2025-01-24T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 21,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 21, with temperatures falling to around 19 in the afternoon. Wind chill values as low as -3. Southwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 21, with temperatures falling to around 19 in the afternoon. South southwest wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2025-01-24T18:00:00-06:00",
                 "endTime": "2025-01-25T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 17,
+                "temperature": 18,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/snow/snow,20?size=medium",
-                "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers between 9pm and midnight, then intermittent snow showers and a slight chance of snow. Mostly cloudy. Low around 17, with temperatures rising to around 20 overnight. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
+                "detailedForecast": "A slight chance of snow showers between 7pm and midnight. Mostly cloudy. Low around 18, with temperatures rising to around 21 overnight. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a brisk morning, with temperatures hovering in the low single digits. The air feels distinctly frosty, enhanced by a blustery wind that carries a chill, making it wise to prepare for a formidable wind chill. Today, expect mostly sunny skies, a welcome sight as the sun rises higher, with afternoon temperatures climbing to the low 20s. Although the forecast suggests a pleasant interval of sun, be prepared for wind gusts that could reach up to 25 miles per hour, which will amplify the cool feel of the day.\n\nLater tonight, the atmosphere shifts, bringing a chance of snow showers in the evening, with light accumulations expected. As temperatures drop to around 17 degrees, dress warmly with layers, and consider a windproof jacket to combat the evening chill. While winter in Evanston typically features such conditions, today\u2019s cold snap serves as a reminder of the season's bite. For those considering outdoor activities, focus on enjoying the refreshing walk along the beach, perhaps making snowmen or savoring the scenic views over Lake Michigan, while keeping in mind the snow chance as night approaches.",
-    "color_code": "#A5B8C8",
-    "timestamp": "2025-01-24 10:06:16"
+    "weather_report": "Current conditions in Evanston present a chilly evening, with temperatures settling in the low 20s and a brisk breeze from the south southwest, imparting a sharp edge to the air. The scene outside is mostly cloudy, casting a muted pallor over the landscape. Expect the day to offer moments of partial sun amidst the clouds, but temperatures will gradually drop into the high teens as the afternoon unfolds. Tonight, there's a slight chance of snow showers, mainly in the early evening, with an opportunity for little more than a dusting. The wind may gust at times, adding a wild element to the chilly atmosphere. \n\nWith icy conditions at the beach, the waves may rise slightly under these conditions, but the expectation remains mainly calm along the shores. For those venturing outside, layered clothing is advisable\u2014think warm jackets, hats, and gloves to combat the chill. This weather is typical for a January day in this region, where stark winter reveals its icy grasp. Given the current climate, cozy indoor activities may be preferable, yet a brisk walk by Lake Michigan could refresh hardened spirits looking to embrace the cold. Today marks an ordinary day in January, with no significant holidays looming on the horizon.",
+    "color_code": "#A3B0C4",
+    "timestamp": "2025-01-24 14:06:11"
 }
