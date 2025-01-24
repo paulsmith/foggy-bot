@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-23T23:51:00+00:00",
-            "temperature_f": 14.0,
-            "temperature_c": -10,
-            "humidity": 61.01334138511,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 260,
+            "timestamp": "2025-01-24T02:51:00+00:00",
+            "temperature_f": 10.940000000000001,
+            "temperature_c": -11.7,
+            "humidity": 66.428824589943,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 270,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-01-23T18:00:00-06:00",
+                "startTime": "2025-01-23T22:00:00-06:00",
                 "endTime": "2025-01-24T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 1,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "WNW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear. Low around 1, with temperatures rising to around 3 overnight. Wind chill values as low as -8. West northwest wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly clear. Low around 1, with temperatures rising to around 4 overnight. Wind chill values as low as -7. West wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a frigid scene with a temperature hovering in the low teens, and while it feels bitterly cold with blustery winds whipping at over 40 miles per hour, the night sky remains clear. As we look ahead, expect a night characterized by mostly clear skies, albeit with temperatures dipping to around 1 degree, making it feel even colder with wind chill values plunging to about -8. Tomorrow brings a sense of brightness as mostly sunny skies are anticipated, warming slightly to the low 20s, though chilly wind chill remains a factor.\n\nGiven the harsh winter weather, outdoor activities may feel uninviting. The shoreline will likely reflect the cold air with some wave action, depending on the wind direction, which could lead to choppy waters. Appropriate attire would include heavy winter layers, hats, and gloves to withstand the biting cold. It's that time of year when the chill is typical for this region, with much of the landscape draped in winter's grasp. As we navigate through January, the invigorating cold can be a cue for cozy indoor gatherings rather than outside excursions, making it a good evening to find warmth indoors.",
-    "color_code": "#004B87",
-    "timestamp": "2025-01-23 18:23:04"
+    "weather_report": "As night settles over Evanston, the current conditions reflect a biting chill, with temperatures hovering in the low 10s and a brisk westerly wind, creating a sharp wind chill that plunges it closer to the negative. The skies are mostly clear, providing a stark contrast to the frost-kissed landscape along Lake Michigan. Tonight will maintain this clear demeanor, with lows dipping down to around 1 degree, but a slight warming trend through the night will see temperatures rise slightly, avoiding the bitter extremes.\n\nLooking ahead to Friday, residents can expect mostly sunny skies with highs approaching the low 20s. However, caution is advised as wind chill factors could make it feel as frigid as -8. The beach scene, although picturesque with its shimmering, icy coastline under a clear sky, is not inviting for the faint of heart. Those enjoying outdoor activities may find them bracing yet invigorating, provided they bundle up appropriately in warm layers, hats, and gloves. Tread carefully if venturing to the beach, as the waterfront will be particularly wild with the breeze stirring up the lake. In this winter season, temperatures are indeed typical for January in this region, and while tomorrow's sun may seem inviting, the underlying chill will remind everyone it\u2019s still winter in the Midwest.",
+    "color_code": "#233D51",
+    "timestamp": "2025-01-23 22:06:44"
 }
