@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-24T06:51:00+00:00",
-            "temperature_f": 6.080000000000002,
-            "temperature_c": -14.4,
-            "humidity": 75.366625484864,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 230,
+            "timestamp": "2025-01-24T10:51:00+00:00",
+            "temperature_f": 3.0199999999999996,
+            "temperature_c": -16.1,
+            "humidity": 78.994263687069,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 260,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-24T02:00:00-06:00",
-                "endTime": "2025-01-24T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 1,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear. Low around 1, with temperatures rising to around 4 overnight. Wind chill values as low as -7. West wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2025-01-24T06:00:00-06:00",
                 "endTime": "2025-01-24T18:00:00-06:00",
                 "isDaytime": true,
@@ -52,11 +33,30 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 21. Wind chill values as low as -8. Southwest wind 5 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly sunny. High near 21, with temperatures falling to around 19 in the afternoon. Wind chill values as low as -8. Southwest wind 5 to 15 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-24T18:00:00-06:00",
+                "endTime": "2025-01-25T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 17,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/snow/snow,20?size=medium",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers between 9pm and midnight, then intermittent snow showers and a slight chance of snow. Mostly cloudy. Low around 17, with temperatures rising to around 20 overnight. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois, feels decidedly frigid, with temperatures hovering in the mid-single digits. The air is crisp and somewhat biting, heightened by a brisk wind that adds to the chill factor. Conditions outside are clear, providing an unobstructed view of the night sky over Lake Michigan. As we move overnight, expect mostly clear skies with temperatures inching up slightly, though wind chills could dip as low as -7, making it a night best spent indoors.\n\nLooking ahead to Friday, sunshine will break through as temperatures climb into the low 20s, though wind chill could again feel as cold as -8 due to gentle breezes shifting southwest. There is no precipitation in the forecast, ensuring a dry day for anyone wishing to venture outside. However, dress warmly, layering up to combat the cold, and remember that the chill can linger particularly in shaded areas or along the lakeshore. Given that this is late January, temperatures are typical for this time of year in the Midwest, and outdoor activities should be limited to brisk walks or short outings. Residents may want to stay cozy indoors as we anticipate another winter day with plenty of wintery charm but decidedly unpleasant conditions for prolonged outdoor enjoyment.",
-    "color_code": "#000000",
-    "timestamp": "2025-01-24 02:07:42"
+    "weather_report": "As dawn breaks over Evanston, current conditions reveal a brisk morning with temperatures hovering in the low single digits, accompanied by a thick atmosphere that feels biting due to the chilly winds. These winds are whispering from the west, and although the sky is clear for now, the overall feel remains quite frosty. \n\nToday\u2019s forecast indicates a shift toward more moderate temperatures, warming into the low 20s, but with a sharp chill factor that may plunge perceived temperatures as low as -8 degrees. A mostly sunny demeanor will grace the day but may give way to light snow showers later tonight, introducing some cloudiness; temperatures are expected to rise slightly overnight. The lake, typically restless in winter, may have some gentle waves, but with snow on the horizon later in the evening, any plans you have along the shoreline should consider the possible precipitation. Dress warmly in layers, with hats and gloves, to combat the cold bite. Though we are still firmly in the heart of winter, today\u2019s temperatures are aligned with typical January highs for this region. Outdoor activities may be limited, but a brisk walk along the beach could be invigorating if one is prepared for the cold.",
+    "color_code": "#D0E5F4",
+    "timestamp": "2025-01-24 06:08:52"
 }
