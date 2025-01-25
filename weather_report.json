@@ -7,22 +7,22 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-24T22:51:00+00:00",
+            "timestamp": "2025-01-25T02:51:00+00:00",
             "temperature_f": 21.02,
             "temperature_c": -6.1,
-            "humidity": 46.994663099251,
-            "wind_speed_mph": 33.01812,
+            "humidity": 56.746052390686,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 190,
-            "description": "Cloudy"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-01-24T18:00:00-06:00",
+                "startTime": "2025-01-24T22:00:00-06:00",
                 "endTime": "2025-01-25T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 18,
+                "temperature": 21,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20/bkn?size=medium",
-                "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
-                "detailedForecast": "A slight chance of snow showers between 7pm and midnight. Mostly cloudy. Low around 18, with temperatures rising to around 21 overnight. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
+                "shortForecast": "Scattered Snow Showers",
+                "detailedForecast": "Scattered snow showers before 1am. Mostly cloudy, with a low around 21. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As the sun sets on Evanston, chilly conditions envelop the area with the temperature hovering in the low 20s. A brisk and blustery wind, originating from the south-southwest, adds a biting edge to the evening, making it feel even cooler. The atmosphere is mostly cloudy, casting a muted backdrop for the night ahead. There\u2019s a slight chance of snow showers this evening, mostly between 7 PM and midnight, though any accumulation is expected to be minimal\u2014just a dusting of less than half an inch, if anything at all.\n\nLooking ahead to Saturday, the forecast brings a promise of improvement with partly sunny skies and temperatures peaking in the mid-30s, falling later in the day. The winds will remain gentle yet gusty, continuing to whip through the region.  Given the current wintry season, these temperatures are rather typical for January in Illinois, embodying that characteristic chill. Dress warmly if venturing outdoors\u2014layered clothing, a sturdy coat, gloves, and a hat will provide comfort against the elements. Although outdoor activities are limited by the cold and potential light snow, a brisk walk along the beach could be refreshing for those undeterred by the chill.",
-    "color_code": "#3C4A5B",
-    "timestamp": "2025-01-24 18:22:12"
+    "weather_report": "Current conditions in Evanston paint a chilly picture, with temperatures hovering in the low 20s amidst brisk, howling winds. The air carries a biting edge, making it feel even cooler, and the sky is cloaked in clouds, hinting at the possibility of scattered snow showers tonight. As the day transitions, the forecast suggests a shift to partly sunny skies tomorrow, with temperatures rising to the mid 30s\u2014an expected but gradual warming as the day unfolds.\n\nThe beach, usually vibrant, takes on a more subdued and wintry vibe under these conditions. Wave activity along Lake Michigan may be somewhat restless, influenced by the gusty winds but not exceptionally harmful. For those venturing outdoors, a warm coat, gloves, and a hat are strongly advised to combat the frosty air. The temperature feels representative of a typical January in the Midwest, although slightly cooler than average, reminding us that winter holds its grip firmly still. Given the season and temperature, outdoor excursions might be best suited for brisk walks or perhaps a quick visit to enjoy the scenic winter landscape; however, staying cozy indoors with a cup of something warm could prove even more tempting on this cold night.",
+    "color_code": "#6E7B9D",
+    "timestamp": "2025-01-24 22:06:27"
 }
