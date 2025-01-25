@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-24T18:51:00+00:00",
-            "temperature_f": 19.04,
-            "temperature_c": -7.2,
-            "humidity": 44.742545518711,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 220,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-01-24T22:51:00+00:00",
+            "temperature_f": 21.02,
+            "temperature_c": -6.1,
+            "humidity": 46.994663099251,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 190,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-24T14:00:00-06:00",
-                "endTime": "2025-01-24T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 21,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 21, with temperatures falling to around 19 in the afternoon. South southwest wind 10 to 15 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-24T18:00:00-06:00",
                 "endTime": "2025-01-25T06:00:00-06:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow,20/bkn?size=medium",
                 "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
                 "detailedForecast": "A slight chance of snow showers between 7pm and midnight. Mostly cloudy. Low around 18, with temperatures rising to around 21 overnight. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-01-25T06:00:00-06:00",
+                "endTime": "2025-01-25T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 36, with temperatures falling to around 34 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly evening, with temperatures settling in the low 20s and a brisk breeze from the south southwest, imparting a sharp edge to the air. The scene outside is mostly cloudy, casting a muted pallor over the landscape. Expect the day to offer moments of partial sun amidst the clouds, but temperatures will gradually drop into the high teens as the afternoon unfolds. Tonight, there's a slight chance of snow showers, mainly in the early evening, with an opportunity for little more than a dusting. The wind may gust at times, adding a wild element to the chilly atmosphere. \n\nWith icy conditions at the beach, the waves may rise slightly under these conditions, but the expectation remains mainly calm along the shores. For those venturing outside, layered clothing is advisable\u2014think warm jackets, hats, and gloves to combat the chill. This weather is typical for a January day in this region, where stark winter reveals its icy grasp. Given the current climate, cozy indoor activities may be preferable, yet a brisk walk by Lake Michigan could refresh hardened spirits looking to embrace the cold. Today marks an ordinary day in January, with no significant holidays looming on the horizon.",
-    "color_code": "#A3B0C4",
-    "timestamp": "2025-01-24 14:06:11"
+    "weather_report": "As the sun sets on Evanston, chilly conditions envelop the area with the temperature hovering in the low 20s. A brisk and blustery wind, originating from the south-southwest, adds a biting edge to the evening, making it feel even cooler. The atmosphere is mostly cloudy, casting a muted backdrop for the night ahead. There\u2019s a slight chance of snow showers this evening, mostly between 7 PM and midnight, though any accumulation is expected to be minimal\u2014just a dusting of less than half an inch, if anything at all.\n\nLooking ahead to Saturday, the forecast brings a promise of improvement with partly sunny skies and temperatures peaking in the mid-30s, falling later in the day. The winds will remain gentle yet gusty, continuing to whip through the region.  Given the current wintry season, these temperatures are rather typical for January in Illinois, embodying that characteristic chill. Dress warmly if venturing outdoors\u2014layered clothing, a sturdy coat, gloves, and a hat will provide comfort against the elements. Although outdoor activities are limited by the cold and potential light snow, a brisk walk along the beach could be refreshing for those undeterred by the chill.",
+    "color_code": "#3C4A5B",
+    "timestamp": "2025-01-24 18:22:12"
 }
