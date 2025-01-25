@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-25T10:51:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 59.540302385412,
-            "wind_speed_mph": 37.04472,
+            "timestamp": "2025-01-25T13:51:00+00:00",
+            "temperature_f": 21.92,
+            "temperature_c": -5.6,
+            "humidity": 67.836360401459,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 220,
             "description": "Mostly Cloudy"
         },
@@ -19,10 +19,10 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-01-25T06:00:00-06:00",
+                "startTime": "2025-01-25T10:00:00-06:00",
                 "endTime": "2025-01-25T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 36,
+                "temperature": 38,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,7 +33,7 @@
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 36, with temperatures falling to around 33 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly sunny. High near 38, with temperatures falling to around 34 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston is waking up to a brisk morning with temperatures hovering in the low 20s, lending a sharpness to the air that underscores the winter season. While the skies are mostly cloudy, the day is set to transition to mostly sunny, offering a glimpse of brighter moments ahead. The wind is rather fierce, whipping through at a blustery pace, which may make it feel even cooler than the thermometer suggests. Expect a high near the mid 30s today, dropping to a low around the teens as night falls, accompanied by a westward wind that could stir up more than just the leaves.\n\nThe beach may appear serene yet chilly, and the wave conditions will likely reflect the currents brought by this robust wind. There seems to be no precipitation in today\u2019s outlook, making it a clear day for outdoor ventures, albeit bundled up. With these conditions prevailing, layering up with warm attire is essential\u2014think sturdy winter jackets, gloves, and perhaps a hat to fend off the cold. It\u2019s a typical winter's day in the Midwest, where venturing outdoors could be invigorating, especially for those who enjoy the quiet stillness of a lakeside stroll or a brisk jog along the shoreline. \n\nAs the day unfolds, many might consider a warm drink to accompany their outdoor explorations, or perhaps even a trip to one of Evanston's cozy coffee shops, a perfect respite from the cold. With no major holidays looming today, it\u2019s an ordinary but beautifully chilly winter day on the shores of Lake Michigan, inviting those who cherish the cold to embrace the season fully.",
-    "color_code": "#5A5C67",
-    "timestamp": "2025-01-25 06:08:01"
+    "weather_report": "As residents of Evanston step into the day, they face a crisp and chilly atmosphere, with current temperatures resting in the low 20s. The scene is mostly cloudy, but there are hints of sunshine to break through. Winds are blustery, stirring the air at about 33 miles per hour, and the waves on Lake Michigan can be expected to ripple fiercely with such gusts. With no precipitation in sight and the air feeling brisk, it\u2019s certainly a day to dress warmly, perhaps in layers, with a sturdy coat, gloves, and a hat to fend off the chill.\n\nLooking ahead, the forecast promises a transition into a partly sunny day, where high temperatures are anticipated to reach around the upper 30s later on, before dipping down into the teens tonight. These winter conditions are typical for this time of year in the Midwest, as January ushers in its frosty embrace. While outdoor activities might be limited due to the cold, the beauty of the lake and the bite of winter can be appreciated with a brisk walk along the shore, perhaps even ending the day with a warm drink in hand as the sun sets on a mostly clear sky.",
+    "color_code": "#B1C3C0",
+    "timestamp": "2025-01-25 10:05:28"
 }
