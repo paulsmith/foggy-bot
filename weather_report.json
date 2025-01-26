@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-26T02:51:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 53.314052245506,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 300,
+            "timestamp": "2025-01-26T06:51:00+00:00",
+            "temperature_f": 24.98,
+            "temperature_c": -3.9,
+            "humidity": 54.664997362401,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 290,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-01-25T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-01-26T02:00:00-06:00",
                 "endTime": "2025-01-26T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 15,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 15, with temperatures rising to around 17 overnight. West northwest wind 10 to 20 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Partly cloudy. Low around 15, with temperatures rising to around 17 overnight. West northwest wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a brisk winter night, with temperatures hovering in the low 30s and a biting northwest wind making it feel even colder. The sky is mostly cloudy, providing a muted backdrop, and despite the stillness of the evening, the wind hints at a wild gustiness off Lake Michigan as it sways the nearby trees. The forecast paints a picture of a chilly night ahead, with temperatures dropping to the mid-teens, accompanied by the possibility of a steady breeze that will add to the winter's chill.\n\nLooking ahead to Sunday, we can expect a shift as the skies clear, revealing mostly sunny conditions that promise to lift spirits. Daytime highs will near the upper 20s, with winds gentler than tonight, which may allow for a more pleasant outdoor experience. Nonetheless, the water conditions remain uninviting, typical for winter along the lake with choppy waves reflecting the robust winds. As for attire, it would be wise to bundle up in layers, donning a warm coat, gloves, and a hat to ward off the cold. Given this is a typical winter day in the Midwest, outdoor activities will be limited; however, a brisk stroll or a warming cup of coffee indoors could be a suitable way to enjoy the day\u2019s unfolding promise of sunshine. For those planning to venture out, it is advisable to prepare for the cold while keeping an eye on the weather, with springlike warmth just a few weeks away.",
-    "color_code": "#1A1A1A",
-    "timestamp": "2025-01-25 22:06:18"
+    "weather_report": "As the night deepens over Evanston, temperatures hover in the low 20s, presenting a bitter chill that makes the air feel brisk yet invigorating. The substantial wind roaring in from the northwest adds to the formidable sensation, making it an uninviting scene for outdoor activities at this hour. Expect this evening to give way to a partly cloudy sky, with temperatures slowly rising towards the upper teens overnight.\n\nLooking ahead to Sunday, the morning promises to greet us with mostly sunny skies and temperatures reaching near the upper 20s. While a light breeze adds a touch of crispness to the air, conditions should feel considerably more pleasant as the day unfolds. As the sun shines, any lingering chill will likely give way to a more comfortable atmosphere, making the beach and lakeside parks appealing spots for brisk strolls. With no precipitation expected and the cloud cover easing, Evanston can anticipate a bright and refreshing day. Given the season, these temperatures align with the typical winter expectations, though wind gusts may amplify the chill. \n\nFor those venturing outside, warm attire is essential, including hats, gloves, and cozy layers to fend off the cold. Whether it\u2019s grabbing a warm drink or simply basking in the breezy sunshine, it promises to be a day for appreciating the winter landscape.",
+    "color_code": "#2E2D6C",
+    "timestamp": "2025-01-26 02:06:16"
 }
