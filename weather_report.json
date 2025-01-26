@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-25T22:51:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 45.605426168035,
+            "timestamp": "2025-01-26T02:51:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 53.314052245506,
             "wind_speed_mph": 62.00964,
-            "wind_direction": 270,
+            "wind_direction": 300,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-01-25T18:00:00-06:00",
+                "startTime": "2025-01-25T22:00:00-06:00",
                 "endTime": "2025-01-26T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 15,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 to 20 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. West wind 10 to 20 mph, with gusts as high as 35 mph."
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy. Low around 15, with temperatures rising to around 17 overnight. West northwest wind 10 to 20 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This evening in Evanston, the weather paints a brisk and chilly picture, with temperatures settling in the mid-30s and a fierce wind sweeping in from the west, lending a biting edge to the air. The sky is mostly cloudy, masking the moon as it attempts to peek through on this January night. Gusts of wind are stirring up the atmosphere, creating a wild ambiance that might make one think twice before venturing outside without proper attire.\n\nLooking ahead to tomorrow, expect a transition as the sun peeks through to bring mostly sunny skies, though the high will only reach the high 20s, with temperatures falling into the low 20s by the afternoon. The winds will settle a bit but will still possess a noticeable breezy quality. The lake may churn slightly, showing capricious waves spurred by the earlier winds, making the shoreline appear more dramatic. As for precipitation, there are no concerns, allowing for a rain-free and clear day ahead. \n\nDress warmly if you plan to be outside; layers are advisable, including a sturdy jacket, gloves, and maybe even a hat to fend off the chill. Given the wintery conditions and seasonality, daytime activities could include a brisk walk along the beach or a visit to local cafes to warm up while enjoying the clear, sunny spell. While it might not be a holiday or significant event on this January day, the approach of many spring celebrations is sure to be on the minds of those bundled up against the cold.",
-    "color_code": "#8AA7C8",
-    "timestamp": "2025-01-25 18:23:23"
+    "weather_report": "Current conditions in Evanston reveal a brisk winter night, with temperatures hovering in the low 30s and a biting northwest wind making it feel even colder. The sky is mostly cloudy, providing a muted backdrop, and despite the stillness of the evening, the wind hints at a wild gustiness off Lake Michigan as it sways the nearby trees. The forecast paints a picture of a chilly night ahead, with temperatures dropping to the mid-teens, accompanied by the possibility of a steady breeze that will add to the winter's chill.\n\nLooking ahead to Sunday, we can expect a shift as the skies clear, revealing mostly sunny conditions that promise to lift spirits. Daytime highs will near the upper 20s, with winds gentler than tonight, which may allow for a more pleasant outdoor experience. Nonetheless, the water conditions remain uninviting, typical for winter along the lake with choppy waves reflecting the robust winds. As for attire, it would be wise to bundle up in layers, donning a warm coat, gloves, and a hat to ward off the cold. Given this is a typical winter day in the Midwest, outdoor activities will be limited; however, a brisk stroll or a warming cup of coffee indoors could be a suitable way to enjoy the day\u2019s unfolding promise of sunshine. For those planning to venture out, it is advisable to prepare for the cold while keeping an eye on the weather, with springlike warmth just a few weeks away.",
+    "color_code": "#1A1A1A",
+    "timestamp": "2025-01-25 22:06:18"
 }
