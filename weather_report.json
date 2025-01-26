@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-26T10:51:00+00:00",
-            "temperature_f": 19.939999999999998,
-            "temperature_c": -6.7,
-            "humidity": 64.931428659518,
+            "timestamp": "2025-01-26T14:51:00+00:00",
+            "temperature_f": 17.96,
+            "temperature_c": -7.8,
+            "humidity": 67.338102313471,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 290,
+            "wind_direction": 300,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-01-26T06:00:00-06:00",
+                "startTime": "2025-01-26T10:00:00-06:00",
                 "endTime": "2025-01-26T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Evanston's current weather is marked by a chill in the air, with temperatures lingering in the low 20s and a brisk wind sweeping through at a fierce pace, making it feel even colder. The sky is mostly cloudy, giving an overcast feel that might make for a rather dreary morning. Thankfully, the forecast for the day indicates a transition to mostly sunny weather, with the high expected to reach the low 30s before flattening out to around 27 this afternoon. Tonight, clear skies will prevail, allowing temperatures to dip to near 20, accompanied by a steady west-southwest breeze that could become gusty.\n\nAs for how it looks outside, the overall scene is somewhat bleak but refreshing; ideal for a brisk walk if you're dressed warmly. There is no precipitation in sight, and wave conditions along Lake Michigan should be relatively calm given the absence of storms, making it a suitable day for coastal strolls, provided you're bundled up adequately. With this wintry scene playing out in late January, temperatures are on the cooler end of the spectrum, typical for this season in the Midwest. Consider wearing layers, a thick winter coat, hat, and gloves if venturing out. While it\u2019s not a festive holiday today, it\u2019s a fine time for introspection or leisurely walks along the shoreline, inviting moments of solitude away from the hustle and bustle of daily life.",
-    "color_code": "#4B7F9A",
-    "timestamp": "2025-01-26 06:07:55"
+    "weather_report": "In Evanston, Illinois, the current weather presents a chilly atmosphere, with temperatures lingering in the mid-teens and a noticeable wind creating a brisk sensation as it sweeps across the landscape. The overall sky bears a mostly cloudy demeanor, contributing to a somewhat muted brightness. Although the conditions are certainly cold, the day ahead holds promise with a forecast calling for mostly sunny skies, which should provide a welcome contrast as temperatures rise toward the low 30s by afternoon. Despite the chill, the absence of precipitation means those venturing outdoors won\u2019t have to contend with wet conditions.\n\nWith the wind remaining blustery, particularly in the afternoon, it would be advisable to don warm layers, including a sturdy winter coat, gloves, and a hat to ward off the bites of the cold. The scene along the beach, while stark, can be inviting for those who enjoy winter walks along the shore or perhaps a brisk jog, particularly with clear skies expected. Wrapped up warmly, it could be a delightful outing, taking in the beauty of Lake Michigan against the backdrop of winter. While today is not a significant holiday, it may be one of those perfect winter days in Evanston to embrace the outdoors and partake in winter activities, drawing in the fresh air and serene vistas that characterize this time of year.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-01-26 10:05:43"
 }
