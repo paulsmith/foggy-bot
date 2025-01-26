@@ -7,36 +7,17 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-25T18:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 52.279389243228,
-            "wind_speed_mph": 66.03624,
-            "wind_direction": 240,
+            "timestamp": "2025-01-25T22:51:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 45.605426168035,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 270,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-25T14:00:00-06:00",
-                "endTime": "2025-01-25T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 39, with temperatures falling to around 35 in the afternoon. West southwest wind around 15 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-25T18:00:00-06:00",
                 "endTime": "2025-01-26T06:00:00-06:00",
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. West wind 10 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. West wind 10 to 20 mph, with gusts as high as 35 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-01-26T06:00:00-06:00",
+                "endTime": "2025-01-26T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 28,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 28, with temperatures falling to around 25 in the afternoon. West wind around 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a chilly scene, with temperatures hovering around the mid-30s and a brisk breeze sweeping in from the west-southwest at a fierce pace. The air feels crisp and cool, making it a day for bundled jackets as you step out towards the beach. Despite the mostly cloudy skies, the afternoon will bring some sunshine, although temperatures are expected to dip into the low 30s as the day progresses. Tonight will see more clouds, with the temperature dropping into the mid-teens, so outdoor plans should wrap up early.\n\nAs for wave conditions along Lake Michigan, expect some activity; the winds are stirring the water, but precipitation remains absent, lending to a clearer view of the stunning lake, albeit slightly gray. Given these conditions, warm layers are essential, along with sturdy footwear if you plan to venture down to the beach. While the chill encourages contemplation over outdoor activities, the prevailing weather invites you to enjoy a cozy afternoon indoors or perhaps enjoy the scenic views along the shoreline if you're suitably attired. Remember, this day falls gently into the winter season, where such temperatures are typical for these parts, yet they still reinforce the idyllic charm of Evanston during this time of year.",
-    "color_code": "#99B3D7",
-    "timestamp": "2025-01-25 14:05:21"
+    "weather_report": "This evening in Evanston, the weather paints a brisk and chilly picture, with temperatures settling in the mid-30s and a fierce wind sweeping in from the west, lending a biting edge to the air. The sky is mostly cloudy, masking the moon as it attempts to peek through on this January night. Gusts of wind are stirring up the atmosphere, creating a wild ambiance that might make one think twice before venturing outside without proper attire.\n\nLooking ahead to tomorrow, expect a transition as the sun peeks through to bring mostly sunny skies, though the high will only reach the high 20s, with temperatures falling into the low 20s by the afternoon. The winds will settle a bit but will still possess a noticeable breezy quality. The lake may churn slightly, showing capricious waves spurred by the earlier winds, making the shoreline appear more dramatic. As for precipitation, there are no concerns, allowing for a rain-free and clear day ahead. \n\nDress warmly if you plan to be outside; layers are advisable, including a sturdy jacket, gloves, and maybe even a hat to fend off the chill. Given the wintery conditions and seasonality, daytime activities could include a brisk walk along the beach or a visit to local cafes to warm up while enjoying the clear, sunny spell. While it might not be a holiday or significant event on this January day, the approach of many spring celebrations is sure to be on the minds of those bundled up against the cold.",
+    "color_code": "#8AA7C8",
+    "timestamp": "2025-01-25 18:23:23"
 }
