@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-26T14:51:00+00:00",
-            "temperature_f": 17.96,
-            "temperature_c": -7.8,
-            "humidity": 67.338102313471,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 300,
+            "timestamp": "2025-01-26T18:51:00+00:00",
+            "temperature_f": 28.94,
+            "temperature_c": -1.7,
+            "humidity": 44.60435137242,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 260,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-26T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-01-26T14:00:00-06:00",
                 "endTime": "2025-01-26T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "W",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 31, with temperatures falling to around 27 in the afternoon. West wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly sunny. High near 31, with temperatures falling to around 27 in the afternoon. West southwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 20. West southwest wind 10 to 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Clear, with a low around 20. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather presents a chilly atmosphere, with temperatures lingering in the mid-teens and a noticeable wind creating a brisk sensation as it sweeps across the landscape. The overall sky bears a mostly cloudy demeanor, contributing to a somewhat muted brightness. Although the conditions are certainly cold, the day ahead holds promise with a forecast calling for mostly sunny skies, which should provide a welcome contrast as temperatures rise toward the low 30s by afternoon. Despite the chill, the absence of precipitation means those venturing outdoors won\u2019t have to contend with wet conditions.\n\nWith the wind remaining blustery, particularly in the afternoon, it would be advisable to don warm layers, including a sturdy winter coat, gloves, and a hat to ward off the bites of the cold. The scene along the beach, while stark, can be inviting for those who enjoy winter walks along the shore or perhaps a brisk jog, particularly with clear skies expected. Wrapped up warmly, it could be a delightful outing, taking in the beauty of Lake Michigan against the backdrop of winter. While today is not a significant holiday, it may be one of those perfect winter days in Evanston to embrace the outdoors and partake in winter activities, drawing in the fresh air and serene vistas that characterize this time of year.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-01-26 10:05:43"
+    "weather_report": "Current conditions in Evanston present a brisk scene, marked by a temperature that hovers in the upper 20s, coupled with a noticeable breeze that adds a sharp edge to the atmosphere. The air is clear, devoid of any precipitation, and the family of clouds overhead offers only a modest cover, allowing occasional sunbreaks. As the afternoon progresses, expect a transition to mostly sunny skies, with temperatures expected to climb slightly, though a retreat into the mid-20s will remind us of the winter chill. A satisfying clarity blankets the area, making it feel fresh yet brisk.\n\nThe lakefront might feel the effects of swells with gusty winds from the west-southwest, though conditions should not be too wild. Waves will likely be moderate, providing a picturesque backdrop for a quiet stroll. Given the winter season, the recommended attire would center on layering up\u2014consider a warm coat, gloves, and perhaps a knitted hat to fend off the cold. While today's weather is characteristic of a typical January day in the Midwest, it\u2019s quite inviting for those looking to appreciate the natural beauty by the lake or enjoy a brisk walk outdoors. With no major holidays on the horizon, a calm weekend outing to enjoy the serene winter scenery feels like a perfect way to embrace the chilly charm of Evanston.",
+    "color_code": "#A5C3D7",
+    "timestamp": "2025-01-26 14:06:09"
 }
