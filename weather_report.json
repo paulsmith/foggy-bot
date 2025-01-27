@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-27T02:51:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 54.524346103788,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 270,
+            "timestamp": "2025-01-27T05:51:00+00:00",
+            "temperature_f": 19.939999999999998,
+            "temperature_c": -6.7,
+            "humidity": 59.411208521128,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 240,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-01-26T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-01-27T02:00:00-06:00",
                 "endTime": "2025-01-27T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 21,
+                "temperature": 19,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 21. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Clear. Low around 19, with temperatures rising to around 21 overnight. West southwest wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 45, with temperatures falling to around 42 in the afternoon. West southwest wind 15 to 30 mph, with gusts as high as 50 mph."
+                "detailedForecast": "Mostly sunny. High near 45, with temperatures falling to around 43 in the afternoon. West southwest wind 15 to 30 mph, with gusts as high as 45 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston are brisk, with temperatures in the mid-20s and a stirring breeze that is both invigorating and chilly. The air feels crisp and clear, making it an excellent evening for a quiet stroll along the beach, albeit bundled up to ward off the cold. As we move into the night, expect clear skies with a low in the low 20s, accompanied by a gentle breeze from the west-southwest that will ease up later. \n\nTomorrow promises a shift as temperatures peak in the mid-40s, gradually dropping to the low 40s in the afternoon, with winds picking up the pace, potentially reaching howling speeds. The day will be mostly sunny, presenting an inviting scene perfect for outdoor activities. However, the pristine clarity of the night will contrast with strong gusts capable of making the waterfront feel even brisker, so warm layers will be necessary to ensure comfort. Given that we are deep into winter, these temperatures are quite typical for Evanston, suggesting a perfect setting to embrace the chilly season\u2014ideal for winter walks or even some brisk beachcombing, if you're adventurous enough.",
-    "color_code": "#1A1A1D",
-    "timestamp": "2025-01-26 22:07:18"
+    "weather_report": "Under the night sky, Evanston finds itself in crisp and cool conditions, with current temperatures hovering in the lower 20s and a refreshing breeze kicking up from the west. The air feels invigorating, perfect for a late-night stroll or a quick jog along the lakefront, provided you bundle up; a warm coat, hat, and gloves will ensure comfort against the gusty winds. Tonight offers pleasantly clear skies, allowing the stars to shine brightly, laying a serene blanket over the town.\n\nAs we look towards Monday, expect a transition to mostly sunny skies throughout the day as temperatures climb into the mid 40s, making way for a lively, somewhat blustery atmosphere. Winds will persist\u2014lively and gusty\u2014creating a vigorous chill that may have you thinking twice about outdoor plans unless you\u2019re well-prepared with layers. The wave conditions will likely be energetic along the shoreline due to the winds, though no additional precipitation is in sight. Overall, stay warm while enjoying the beauty of winter\u2019s offerings, bearing in mind that these temperatures are fairly typical for this time of year in the Midwest.",
+    "color_code": "#1E88F8",
+    "timestamp": "2025-01-27 02:08:03"
 }
