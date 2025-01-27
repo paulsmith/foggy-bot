@@ -7,33 +7,33 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-27T10:51:00+00:00",
-            "temperature_f": 19.04,
-            "temperature_c": -7.2,
-            "humidity": 56.441508872653,
-            "wind_speed_mph": 37.04472,
+            "timestamp": "2025-01-27T14:51:00+00:00",
+            "temperature_f": 24.08,
+            "temperature_c": -4.4,
+            "humidity": 47.511694826835,
+            "wind_speed_mph": 62.00964,
             "wind_direction": 240,
-            "description": "Clear"
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-01-27T06:00:00-06:00",
+                "startTime": "2025-01-27T10:00:00-06:00",
                 "endTime": "2025-01-27T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 45,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 30 mph",
+                "windSpeed": "20 to 25 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 45, with temperatures falling to around 43 in the afternoon. West southwest wind 15 to 30 mph, with gusts as high as 45 mph."
+                "detailedForecast": "Mostly sunny, with a high near 44. West southwest wind 20 to 25 mph, with gusts as high as 45 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the day begins with a brisk chill, as temperatures hover in the low 20s, creating a surreal, frosty atmosphere that invigorates but demands respect for the cold. Winds are howling from the west-southwest, ruffling the surface of Lake Michigan and adding a wild edge to the morning. The forecast hints at a turn towards delight later on, with a high expected to reach the mid-40s and mostly sunny skies breaking through the current conditions. Tonight will bring partly cloudy skies and a more moderate low in the upper 20s, maintaining that jolt of winter.\n\nThe beach, likely cloaked in a quiet splendor, poses a breathtaking view, though the wave conditions, stirred by the gusty winds, suggest a choppy surface\u2014ideal for winter's hypnotic charm rather than for leisure strolls or water activities. Precipitation seems absent, reinforcing the clear, crisp feel of the day, making it appear perfect for a bundled-up outing or perhaps a brisk walk. Attire should lean towards warmth\u2014think heavy coats, hats, and gloves to combat the brisk air. As it stands, the temperature aligns with the typical winter chill for this region, embracing the season in its true form. Given the conditions, an invigorating walk along the shore or even a cozy indoor setting would serve as delightful winter remedies, perfect for embracing the quietude of a late January day.",
-    "color_code": "#B8D3F1",
-    "timestamp": "2025-01-27 06:09:35"
+    "weather_report": "Today in Evanston, the winter chill is palpable, with current temperatures hovering in the low 20s, creating a crisp and cool atmosphere, especially with the wind making its presence known. The air feels fresh under mostly clear skies, but be aware of the fierce gusts reaching over 60 miles per hour, which can bite through even the heaviest of jackets as they sweep across the beach and Lake Michigan.\n\nAs the day progresses, the forecast suggests a transformation to mostly sunny conditions with a high nearing the mid-40s\u2014quite invigorating for this time of year. Tonight, temperatures will drop to around the high 20s, and the wind will diminish slightly but remain noticeable. With no precipitation expected today, the beach remains inviting despite the cold. The waves will likely be restless, stirred by the howling winds, making the water's edge a sight for those willing to brave the outdoors. Given the chilly weather, layering up in warm clothing is advisable; a heavy coat, gloves, and a hat are essential to stay comfortable. Though it\u2019s not the season for traditional outdoor leisure, a brisk walk along the shoreline might yield stunning views and a recharged spirit as winter gently grips the landscape.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-01-27 10:06:28"
 }
