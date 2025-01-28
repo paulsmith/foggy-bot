@@ -7,19 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-27T22:51:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 30.487835787227,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 230,
-            "description": "Cloudy"
+            "timestamp": "2025-01-28T02:51:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 34.406964086057,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 260,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-01-27T18:00:00-06:00",
+                "startTime": "2025-01-27T22:00:00-06:00",
                 "endTime": "2025-01-28T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 20 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 27. West wind 10 to 20 mph, with gusts as high as 40 mph."
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 27. West northwest wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -49,14 +49,14 @@
                     "value": null
                 },
                 "windSpeed": "10 to 25 mph",
-                "windDirection": "W",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 46, with temperatures falling to around 44 in the afternoon. West wind 10 to 25 mph, with gusts as high as 40 mph."
+                "detailedForecast": "Mostly sunny. High near 46, with temperatures falling to around 44 in the afternoon. West southwest wind 10 to 25 mph, with gusts as high as 45 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a chilly atmosphere, with temperatures hovering in the low 40s under overcast skies. The brisk winds are quite fierce, reaching around 62 miles per hour, which adds a noticeable bite to the air. As evening approaches, the forecast predicts a transition to partly cloudy skies with temperatures dipping to around 27, complemented by a westward breeze that'll retain a gusty character. Tomorrow brings a shift to mostly sunny weather, with highs near the mid-40s, though temperatures are expected to decrease slightly by afternoon.\n\nWith the ongoing wind bringing a distinct coolness, a stroll along the lakefront would be invigorating but is best suited for those dressed warmly\u2014think layers, perhaps a sturdy jacket and a cozy hat. Wave conditions along Lake Michigan could be quite tumultuous due to today\u2019s winds, making it an unsuitable time for water-based activities. While it's not a holiday, the end of January typically feels stark and desolate for outdoor pursuits, but bundled visitors may still enjoy the winter's tranquility, if only for a brief venture outside.",
-    "color_code": "#4B4C51",
-    "timestamp": "2025-01-27 18:23:23"
+    "weather_report": "The current conditions in Evanston paint a picture of a brisk night with temperatures lingering in the low 40s, accompanied by a blustery wind that has been howling at nearly 58 miles per hour from the west. The air feels refreshingly cool yet a tad nippy, a reminder that winter's chill is still very much present. The skies are mostly cloudy, casting a muted light over the landscape as night descends, setting a tranquil but slightly foreboding scene by the lake.\n\nLooking ahead, tonight promises mostly clear skies, with temperatures dipping to around the upper 20s. A gentle breeze from the northwest should make the cold feel crisp but not unbearable. Tomorrow, anticipation builds for a sunnier disposition as the day rolls in, with temperatures climbing towards the mid to upper 40s; however, be prepared for an afternoon drop as they settle closer to 44. Winds will stir again, becoming gusty, potentially reaching up to 45 miles per hour, giving an edge to the cool warmth of the sun amidst an otherwise chilly backdrop. Overall, while the sea remains relatively calm, the air may carry a few playful waves, creating a dance on Lake Michigan\u2019s surface that\u2019s mesmerizing yet invigorating. For those venturing outdoors, layering with warm attire is essential, as the season leans heavily into winter\u2019s clutch\u2014perfect for cozy brisk walks along the shoreline or a quick jaunt through the parks that embrace the frosty charm of a typical January day.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-01-27 22:06:50"
 }
