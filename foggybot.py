@@ -189,6 +189,7 @@ class WeatherGov:
             "wind_speed_mph": self._ms_to_mph(properties["windSpeed"]["value"]),
             "wind_direction": properties["windDirection"]["value"],
             "description": properties["textDescription"],
+            "icon": properties.get("icon"),
         }
 
 
@@ -307,6 +308,7 @@ COMFORT_MATRIX = {comfort_matrix}
             "weather_report": response_text.replace(color_code or "", "").rstrip(),
             "color_code": color_code,
             "timestamp": datetime.now(timezone(TIMEZONE)).strftime("%Y-%m-%d %H:%M:%S"),
+            "icon_url": weather_data["current_conditions"].get("icon"),
         }
 
     @staticmethod

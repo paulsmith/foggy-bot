@@ -17,6 +17,13 @@
                     document.querySelectorAll('.divider').forEach(element => {
                         element.style.backgroundColor = data.color_code;
                     });
+                    
+                    // Handle weather icon
+                    const iconImg = document.getElementById('weather-icon');
+                    if (data.icon_url) {
+                        iconImg.src = data.icon_url;
+                        iconImg.style.display = 'block';
+                    }
                 })
                 .catch(error => console.error('Error loading weather report:', error));
         });
@@ -25,6 +32,9 @@
 <body>
     <div class="container">
         <h1>Evanston, IL Beach Weather Vibes</h1>
+        <div id="weather-icon-container">
+            <img id="weather-icon" src="" alt="Current weather conditions icon" style="display: none;">
+        </div>
         <hr class="divider">
         <div class="cropped-image-container">
             <img src="./captures/capture_latest.jpg" alt="Screengrab of live webcam in Evanston, IL" class="cropped-image">
@@ -50,6 +60,17 @@ body {
   padding: 1rem;
   font-weight: 400;
   
+}
+
+/* Weather icon styles */
+#weather-icon-container {
+    text-align: center;
+    margin: 1em 0;
+}
+
+#weather-icon {
+    width: 75px;
+    height: 75px;
 }
 
 /* Heading styles */
