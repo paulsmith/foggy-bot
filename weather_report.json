@@ -7,23 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-29T02:51:00+00:00",
-            "temperature_f": 46.04,
-            "temperature_c": 7.8,
-            "humidity": 43.365987374469,
-            "wind_speed_mph": 66.03624,
-            "wind_direction": 250,
+            "timestamp": "2025-01-29T06:51:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 46.432508939327,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 280,
             "description": "Mostly Clear",
             "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-01-28T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-01-29T02:00:00-06:00",
                 "endTime": "2025-01-29T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 32,
+                "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,10 +31,10 @@
                     "value": null
                 },
                 "windSpeed": "15 mph",
-                "windDirection": "W",
+                "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 32. West wind around 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly clear. Low around 33, with temperatures rising to around 36 overnight. West northwest wind around 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -42,7 +42,7 @@
                 "startTime": "2025-01-29T06:00:00-06:00",
                 "endTime": "2025-01-29T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 39,
+                "temperature": 43,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -53,12 +53,12 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 39, with temperatures falling to around 37 in the afternoon. West northwest wind 10 to 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Sunny. High near 43, with temperatures falling to around 38 in the afternoon. West northwest wind 10 to 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "The current temperature in Evanston sits in the mid-40s, creating a brisk and cool atmosphere. With mostly clear skies overhead, the scene is rather tranquil, although gusty winds are adding a wild edge to the evening. As night approaches, temperatures are expected to drop to around freezing, accompanied by a west wind that may reach up to 15 mph, with gusts hitting 30 mph. \n\nTomorrow promises an inviting sunny day, with temperatures peaking near the high 30s before falling slightly in the afternoon. The predicted lack of precipitation aligns well with the calm yet biting chill that characterizes this time of year near Lake Michigan. As we are still deep in winter, these temperatures are typical for this region, inviting layered attire; a warm coat, scarf, and perhaps a knit hat would be advisable for those venturing outside. While the gusty winds might create choppy conditions on the water, the clear skies could still make for a pleasant stroll along the beach\u2014just be prepared for the cool air. Today, not aligning with any major holiday, is a good opportunity to appreciate the serene beauty of winter\u2019s grip on this lakeside locale.",
-    "color_code": "#3B7A99",
-    "timestamp": "2025-01-28 22:06:42",
+    "weather_report": "In Evanston, the current weather paints a chilly scene both at the beach and throughout the area. The temperature lingers in the low 40s, accompanied by a brisk wind stirring from the west-northwest, almost howling at times, which contributes to a rather biting feel in the air. The skies are mostly clear, giving way to a crisp night that frames the city in a serene darkness. Looking ahead, the forecast promises a slightly warmer overnight, with temperatures rising to the mid-30s before climbing even closer to the 40s by daybreak. \n\nTomorrow brings sunny skies, with daytime highs expected near the low 40s and temperatures steadily dropping to around the upper 30s by afternoon, all while a moderate wind continues to play a significant role in how it feels outside. This weather aligns with typical winter conditions for the region, making it a day for warm attire. Layering up is advisable\u2014think heavy coats and perhaps a cozy scarf, especially if you're planning to venture outdoors. The wave conditions along Lake Michigan could be quite active, influenced by that gusty wind. Given the clear skies and dry weather, tomorrow is likely a good opportunity for outdoor activities like brisk walks along the beach or enjoying the fresh winter air. There are no forthcoming holidays this week, but it's a charming winter day to embrace in central Evanston.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2025-01-29 02:07:30",
     "icon_url": "https://api.weather.gov/icons/land/night/few?size=medium"
 }
