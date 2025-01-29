@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-28T18:51:00+00:00",
-            "temperature_f": 44.06,
-            "temperature_c": 6.7,
-            "humidity": 43.039467416982,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 230,
-            "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+            "timestamp": "2025-01-28T22:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 42.095680379388,
+            "wind_speed_mph": 78.92136,
+            "wind_direction": 250,
+            "description": "Mostly Cloudy and Windy",
+            "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-28T14:00:00-06:00",
-                "endTime": "2025-01-28T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "20 to 25 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 47. Southwest wind 20 to 25 mph, with gusts as high as 45 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-28T18:00:00-06:00",
                 "endTime": "2025-01-29T06:00:00-06:00",
@@ -54,11 +35,30 @@
                 "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 33. West wind 15 to 25 mph, with gusts as high as 40 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-01-29T06:00:00-06:00",
+                "endTime": "2025-01-29T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 39, with temperatures falling to around 37 in the afternoon. West northwest wind 10 to 15 mph, with gusts as high as 35 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the day presents a cool, mildly brisk atmosphere with current conditions reflecting a temperature in the low 40s and a strong, gusty wind adding a sharp edge to the chill. The sky is mostly cloudy, lending a somewhat muted quality to the light, though clouds will make way for clearer skies this afternoon. Expect temperatures to rise, reaching the high 40s, accompanied by a southwest wind that will continue to howl, with gusts capable of lifting small objects. Tonight, temperatures will retreat into the mid-30s, under mostly clear skies, allowing for a pleasant stargazing opportunity if the winds calm down.\n\nAs for the waves along Lake Michigan, conditions are likely to be lively given the wind's intensity. While there\u2019s no rain forecasted today, the notable winds will create some challenging conditions on the water. Given the chill in the air and the blustery atmosphere, layering up is essential\u2014think warm jackets, hats, and gloves to stay comfortable. This temperature is typical for this time of year in this region, as winter continues to grip the area. Outdoor activities may be limited, but the inviting winter sunlight could provide a great opportunity for brisk walks by the lake or enjoying local coffee shops. Although there are no holidays today, the weekend spirit is palpable in the air, encouraging residents to embrace the season.",
-    "color_code": "#A1C3E4",
-    "timestamp": "2025-01-28 14:06:21",
-    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+    "weather_report": "As Evanston transitions into the night, the current conditions reveal a cool and brisk atmosphere, with temperatures nestled in the upper 40s and winds howling, creating a noticeable bite in the air. The sky is mostly cloudy, adding a dim ambiance to the evening. Looking ahead, the forecast suggests a shift towards clearer skies as tonight progresses, with temperatures dipping to the low 30s and lingering winds gusting from the west. Tomorrow promises a sunny day, albeit cool, with a high reaching just shy of 40 and continued breezy conditions.\n\nIn terms of outdoor activities, the evening is best suited for a cozy night indoors, perhaps in front of a fire, as the chill lingers, and the fierce winds could bring an unsettling chill. For those braving the elements, layering up with a warm jacket is essential, especially as tomorrow\u2019s high will only embrace the coolness, making it advisable to opt for warm attire when stepping outside. The season is firmly winter here in the Midwest, and tonight's cool temperatures align well with what one might expect at this time of year. While precipitation isn\u2019t in the forecast, the winds will likely generate some rough wave conditions along Lake Michigan, creating an impressive yet potentially hazardous shoreline. As the evening settles, keep warm and consider the beauty of winter's quietude.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-01-28 18:23:01",
+    "icon_url": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium"
 }
