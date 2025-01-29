@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-29T10:51:00+00:00",
+            "timestamp": "2025-01-29T14:51:00+00:00",
             "temperature_f": 37.94,
             "temperature_c": 3.3,
-            "humidity": 57.059644110367,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 280,
-            "description": "Partly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+            "humidity": 59.241798916954,
+            "wind_speed_mph": 62.00964,
+            "wind_direction": 290,
+            "description": "Mostly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-01-29T06:00:00-06:00",
+                "startTime": "2025-01-29T10:00:00-06:00",
                 "endTime": "2025-01-29T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -34,7 +34,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 43, with temperatures falling to around 38 in the afternoon. West northwest wind 10 to 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Sunny. High near 43, with temperatures falling to around 39 in the afternoon. West northwest wind 10 to 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, the temperature hovers in the mid-to-high 30s, offering a brisk, cool atmosphere characterized by a slight chill in the air. At this hour, the generally blustery winds from the northwest add a fierce touch to the day, creating a refreshing yet biting breeze that will require adequate layering if venturing outdoors. With the sky partly cloudy now, the morning gives way to a forecast promising bright sunshine, though it is expected to cool slightly as the day progresses, especially in the afternoon.\n\nThe day will provide pleasant conditions for outdoor enthusiasts, albeit an invitation to bundle up against the cold. The forecast predicts no precipitation, and with wave conditions likely being moderate, shoreline strolls could be invigorating. Outdoor activities such as brisk walks, photography of the scenic shoreline, or even a warm drink at a lakeside caf\u00e9 would be delightful options, especially with the beauty of Lake Michigan as a backdrop. As a late January day, these temperatures align with typical seasonal patterns; however, added wind considerations might make conditions feel a touch colder than usual. Dress warmly, perhaps in layers with a wind-resistant jacket, to fully enjoy what this winter day has to offer.",
-    "color_code": "#B3C5D3",
-    "timestamp": "2025-01-29 06:09:04",
-    "icon_url": "https://api.weather.gov/icons/land/night/sct?size=medium"
+    "weather_report": "As the day unfolds in Evanston, the weather presents a brisk and cool atmosphere with current temperatures lingering in the mid to high 30s. While the sky showcases a mostly cloudy demeanor, there\u2019s a noticeable absence of precipitation, allowing for some outdoor activities without the worry of getting drenched. Winds howl at a blustery pace, making it feel even chillier, especially along the lakefront, where the waters of Lake Michigan shimmer under the muted sunlight.\n\nLooking ahead, expect a transition to sunny skies with temperatures peaking near the mid-40s before dipping to a cooler low around 29 tonight. As the sun makes its descent, the clear vistas will be inviting, and you might feel the daytime warmth retreating, making it a good evening to cozy up. It\u2019s advisable to dress warmly, perhaps donning a solid winter coat paired with a scarf and gloves, perfect for an afternoon walk or a quick run with a furry friend along the shoreline. Given the season, this weather is quite typical for late January, resonating with winter's grip yet hinting at the sun's return. Thus, those venturing outside can look forward to invigorating strolls by the lake, taking in the brisk air and the calming scene of winter at Evanston's beaches.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-01-29 10:06:54",
+    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
 }
