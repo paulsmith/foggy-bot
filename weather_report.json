@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-30T06:51:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 63.185953442998,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 230,
-            "description": "Mostly Clear",
-            "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+            "timestamp": "2025-01-30T10:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 71.273049090681,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear",
+            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-30T02:00:00-06:00",
-                "endTime": "2025-01-30T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 29,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear. Low around 29, with temperatures rising to around 31 overnight. South wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2025-01-30T06:00:00-06:00",
                 "endTime": "2025-01-30T18:00:00-06:00",
                 "isDaytime": true,
@@ -54,11 +35,30 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
                 "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain showers after 5pm. Mostly sunny. High near 55, with temperatures falling to around 49 in the afternoon. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-30T18:00:00-06:00",
+                "endTime": "2025-01-31T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "ESE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/rain_showers,80?size=medium",
+                "shortForecast": "Occasional Rain Showers",
+                "detailedForecast": "Occasional rain showers. Cloudy, with a low around 37. East southeast wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As of now, Evanston is experiencing chilly conditions, with temperatures just above freezing and a notable breeze creating an invigorating atmosphere. The air is crisp yet somewhat moist, adding a slight edge to the coolness of the night. Looking ahead, the forecast suggests a transition to mostly sunny skies on Thursday, with a high reaching the mid-50s as the day unfolds, providing a contrast to the current chill. However, be prepared for a chance of light rain showers in the late afternoon, with a mere 20% likelihood of precipitation.\n\nThe wave conditions along Lake Michigan might be moderate given the winds from the southwest, so while not ideal for swimming or water sports, the beach could still offer a refreshing walk. With the forecast suggesting a gradual warming trend into the day, layered attire is recommended, allowing for comfort as morning chills give way to the slightly warmer afternoon temperatures. Given that it's early February and in northern Illinois, these temperatures are par for the course this time of year, characteristic of a typical winter season. Activities such as visiting local caf\u00e9s or indulging in a cozy book by the window could be delightful ways to embrace the day's offering while keeping cozy inside.",
-    "color_code": "#7A9BCA",
-    "timestamp": "2025-01-30 02:07:13",
-    "icon_url": "https://api.weather.gov/icons/land/night/few?size=medium"
+    "weather_report": "In Evanston this morning, the temperature sits comfortably in the low 30s, offering a decidedly chilly feel as the air carries a bit of dampness. Currently, the conditions are clear, though there's a shift expected later in the day. By afternoon, skies will change as rain showers loom on the horizon, with a forecasted high around the mid-50s before slipping back into the upper 30s this evening. The wind will pick up from the southwest, creating a gentle breeze that may whip up on occasion, but initially, it feels quite still.\n\nAs waves roll gently toward the shore, conditions at Lake Michigan today may start off calm; however, with the increasing winds and impending rain, a rippling surface could develop later. The chance of precipitation spikes to 80% tonight, so it\u2019s wise to carry an umbrella or wear a waterproof jacket if venturing outside. With the ground softening under the threat of rain, discerning outdoor activities might be better suited for the morning hours. Given that it\u2019s the last day of January, the weather feels typical for this time of year, though many might wish for a touch more warmth. With Valentine\u2019s Day approaching, thoughts of cozy indoor activities might be on the minds of many, making today just a prelude to the season of warmth to come.",
+    "color_code": "#A2B2CB",
+    "timestamp": "2025-01-30 06:09:30",
+    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
