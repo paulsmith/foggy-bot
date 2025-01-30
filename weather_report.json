@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-29T18:51:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 39.740588762189,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 300,
-            "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+            "timestamp": "2025-01-29T22:51:00+00:00",
+            "temperature_f": 44.06,
+            "temperature_c": 6.7,
+            "humidity": 41.126162176546,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 290,
+            "description": "Partly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-29T14:00:00-06:00",
-                "endTime": "2025-01-29T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 43, with temperatures falling to around 39 in the afternoon. West northwest wind 10 to 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-29T18:00:00-06:00",
                 "endTime": "2025-01-30T06:00:00-06:00",
@@ -53,12 +34,31 @@
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear. Low around 29, with temperatures rising to around 31 overnight. West southwest wind around 5 mph, with gusts as high as 15 mph."
+                "detailedForecast": "Mostly clear, with a low around 29. West southwest wind around 5 mph, with gusts as high as 15 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-01-30T06:00:00-06:00",
+                "endTime": "2025-01-30T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,30?size=medium",
+                "shortForecast": "Mostly Sunny then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 4pm. Mostly sunny. High near 50, with temperatures falling to around 48 in the afternoon. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather paints a picture of a brisk winter day, with temperatures in the low 40s and a noticeable chill due to a fierce breeze from the northwest. The mostly cloudy skies provide a muted light, but perceptibly no precipitation is expected today. As the afternoon progresses, we will see a transition to sunnier conditions with temperatures gradually falling to around the upper 30s, accompanied by gusty winds. Tonight, the skies should remain mostly clear, dipping to the low 30s by morning, making for a crisp evening.\n\nGiven the current weather, it's vital to dress warmly, favoring layers that allow for some insulation against the biting wind. A cozy jacket, scarf, and sturdy shoes would be advisable for anyone venturing outdoors. As for outdoor activities, this afternoon's clearer skies might entice locals to take a stroll along the beach, albeit bundled up against the cold. Just keep in mind that this time of year, such temperatures align with the typical winter conditions one expects in Illinois, with a landscape still graced by remnants of snow. As we consider the forthcoming Valentine's holiday, take a moment to appreciate the serene winter landscape while planning for a romantic outing ahead.",
-    "color_code": "#7B9DCA",
-    "timestamp": "2025-01-29 14:06:21",
-    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+    "weather_report": "The current weather in Evanston paints a scene of brisk, partly cloudy skies, with temperatures hovering in the low 40s and a notably blustery wind sweeping in from the west-northwest. As evening descends, conditions remain crisp and cool, perfect for those who favor the fresh air, though the breeze adds a sharp bite that suggests a warming layer might be wise if venturing outdoors. \n\nLooking ahead, tonight's forecast calls for mostly clear skies and a low nearing the upper 20s, with winds calming to a gentle whisper at around 5 mph, though there may still be gusts whipping through. Tomorrow brings a touch of inconsistency; while the day begins mostly sunny, a chance of rain showers looms in the late afternoon, with temperatures peaking around the mid 50s before settling back into the upper 40s as the day progresses. Such transitional weather highlights the unpredictability of winter in the Midwest and sets the stage for varied outdoor activities. Dress warmly in layers, keeping waterproof attire at the ready to adapt to unexpected showers, and consider a brisk walk along the beach before the clouds roll in. Though tomorrow is not a holiday, it\u2019s a day to embrace the changing season, with the promise of vibrant, if fleeting, winter sounds and sights.",
+    "color_code": "#4A90E2",
+    "timestamp": "2025-01-29 18:22:44",
+    "icon_url": "https://api.weather.gov/icons/land/day/sct?size=medium"
 }
