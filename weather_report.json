@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-30T10:51:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 71.273049090681,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Clear",
-            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
+            "timestamp": "2025-01-30T14:51:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 66.983960134777,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 150,
+            "description": "Mostly Clear",
+            "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-01-30T06:00:00-06:00",
+                "startTime": "2025-01-30T10:00:00-06:00",
                 "endTime": "2025-01-30T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -32,9 +32,9 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 5pm. Mostly sunny. High near 55, with temperatures falling to around 49 in the afternoon. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 5pm. Mostly cloudy. High near 55, with temperatures falling to around 49 in the afternoon. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "In Evanston this morning, the temperature sits comfortably in the low 30s, offering a decidedly chilly feel as the air carries a bit of dampness. Currently, the conditions are clear, though there's a shift expected later in the day. By afternoon, skies will change as rain showers loom on the horizon, with a forecasted high around the mid-50s before slipping back into the upper 30s this evening. The wind will pick up from the southwest, creating a gentle breeze that may whip up on occasion, but initially, it feels quite still.\n\nAs waves roll gently toward the shore, conditions at Lake Michigan today may start off calm; however, with the increasing winds and impending rain, a rippling surface could develop later. The chance of precipitation spikes to 80% tonight, so it\u2019s wise to carry an umbrella or wear a waterproof jacket if venturing outside. With the ground softening under the threat of rain, discerning outdoor activities might be better suited for the morning hours. Given that it\u2019s the last day of January, the weather feels typical for this time of year, though many might wish for a touch more warmth. With Valentine\u2019s Day approaching, thoughts of cozy indoor activities might be on the minds of many, making today just a prelude to the season of warmth to come.",
-    "color_code": "#A2B2CB",
-    "timestamp": "2025-01-30 06:09:30",
-    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
+    "weather_report": "As Evanston awakens to a crisp and cool mid-30s morning, the air carries a brisk freshness enhanced by a gusty breeze, creating a quintessential winter landscape. The cloudless sky promises a mostly clear day, though the forecast hints at the arrival of clouds later on. By afternoon, temperatures are expected to climb to the high 50s before retreating to the low 40s after sunset. This somewhat transitional weather bears the mark of a typical January day along the shores of Lake Michigan.\n\nAs clouds gather, the chance for occasional rain showers increases significantly tonight, which may dampen outdoor plans. The combination of vivid water blues against potentially darker horizons might create a dramatic scene along the beach. With the likelihood of rain and a low dipping around the high 30s, particularly cozy attire is recommended. A jacket, perhaps layered with a sweater, along with sturdy footwear, would ensure comfort if venturing outdoors. While the waves may not be booming today, they will likely come alive as the rain approaches, creating a rhythm only nature can provide. Given the weather and season, taking a leisurely stroll along the waterfront or enjoying a warm drink at a lakeside caf\u00e9 could be ideal before the rain shifts the mood later in the evening.",
+    "color_code": "#7f8c8d",
+    "timestamp": "2025-01-30 10:06:43",
+    "icon_url": "https://api.weather.gov/icons/land/day/few?size=medium"
 }
