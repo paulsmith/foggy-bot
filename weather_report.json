@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-31T14:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 95.862962320942,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Rain and Fog/Mist",
+            "timestamp": "2025-01-31T19:38:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 88.57425771123,
+            "wind_speed_mph": 74.89475999999999,
+            "wind_direction": 10,
+            "description": "Light Rain and Fog/Mist",
             "icon": "https://api.weather.gov/icons/land/day/rain?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-31T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-01-31T14:00:00-06:00",
                 "endTime": "2025-01-31T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 40,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 50
                 },
-                "windSpeed": "15 to 25 mph",
+                "windSpeed": "25 mph",
                 "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,100/snow,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain and patchy fog and a slight chance of thunderstorms before 3pm, then a chance of rain and snow between 3pm and 4pm. Mostly cloudy. High near 40, with temperatures falling to around 35 in the afternoon. North northeast wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
+                "shortForecast": "Chance Rain",
+                "detailedForecast": "A chance of rain before 5pm. Mostly cloudy. High near 40, with temperatures falling to around 35 in the afternoon. North northeast wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -51,14 +51,14 @@
                 },
                 "windSpeed": "15 to 25 mph",
                 "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 28. North northeast wind 15 to 25 mph, with gusts as high as 40 mph."
+                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. North northeast wind 15 to 25 mph, with gusts as high as 40 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston are characterized by a cool and damp atmosphere, with temperatures lingering in the low 40s amidst persistent rain and areas of fog. The air is thick with moisture, contributing to a rather heavy sensation as the day unfolds. The forecast indicates a continuation of rain along with a slight chance of thunderstorms until mid-afternoon, transitioning briefly to mixed rain and snow in the late afternoon. Winds will be brisk from the north-northeast, creating a blustery, wintry feel.\n\nWith expected high temperatures barely reaching the low 40s but dropping to the mid-30s as the afternoon progresses, it\u2019s worth noting that such temperatures are typical for this time of year in Evanston. The conditions may render the beach and waterfront less appealing for outdoor activities, as the waves could rise due to the blustery conditions, bringing a churning appearance to Lake Michigan. It\u2019s advisable to dress warmly in layers, considering a waterproof layer to guard against the steady rain. Given the current dreary conditions, indoor activities, perhaps a visit to a local museum or caf\u00e9, would be more suitable than venturing to the beach today.",
-    "color_code": "#7E9AC0",
-    "timestamp": "2025-01-31 10:06:17",
+    "weather_report": "In Evanston, the current conditions are marked by a brisk chill, with temperatures lingering in the upper 30s. Light rain combines with a haze of mist, creating a damp and somewhat dreary atmosphere, while the gusty winds from the northeast howl at nearly 75 miles per hour, adding an edge to the already crisp coastal air. As the afternoon unfolds, expect a continuation of cloudy skies and a chance of scattered rain, alongside a gradual drop to around 35 degrees. Tonight, the temperatures will dip into the upper 20s, with breezy conditions persisting, making it feel notably colder.\n\nThe overall appearance outside is rather unpleasant, highlighted by the dreary palette of the rain-soaked landscape against the swirl of the lake's waves. Given the current forecast, wave conditions could be choppy, as gusty winds may stir up the waters of Lake Michigan. Residents and visitors would do well to layer up with warm, water-resistant attire to cope with the chill and potential precipitation. The temperatures remain consistent with winter norms for this time of year in the Midwest, as the region endures the depths of winter. With the current conditions and impending weather, outdoor activities are likely better suited for those venturing out briefly, perhaps along covered areas to take in the view of the lake, rather than prolonged exposure amidst the chilly, damp elements.",
+    "color_code": "#A6B4C0",
+    "timestamp": "2025-01-31 14:06:27",
     "icon_url": "https://api.weather.gov/icons/land/day/rain?size=medium"
 }
