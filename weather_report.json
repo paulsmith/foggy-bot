@@ -7,11 +7,11 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-30T23:51:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 88.858482392758,
-            "wind_speed_mph": 20.93832,
+            "timestamp": "2025-01-31T02:51:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 96.555499312154,
+            "wind_speed_mph": 16.91172,
             "wind_direction": 190,
             "description": "Light Rain and Fog/Mist",
             "icon": "https://api.weather.gov/icons/land/night/rain?size=medium"
@@ -20,7 +20,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-01-30T18:00:00-06:00",
+                "startTime": "2025-01-30T22:00:00-06:00",
                 "endTime": "2025-01-31T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -31,10 +31,10 @@
                     "value": 70
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "SSE",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,70?size=medium",
-                "shortForecast": "Rain Likely",
-                "detailedForecast": "A chance of rain before 9pm, then rain likely and patchy fog between 9pm and 5am, then areas of fog and a chance of rain and patchy drizzle. Cloudy, with a low around 37. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely and areas of fog before 3am, then widespread fog and rain likely. Cloudy, with a low around 37. Southeast wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "The current conditions in Evanston paint a typical winter evening, with temperatures lingering in the low 40s, accompanied by light rain and a veil of fog that softens the landscape. The air feels damp and cool, with a brisk wind whispering from the south, creating a chilly atmosphere that hints at more precipitation to come. Tonight, expect a continued likelihood of rain, particularly before 9 PM, followed by a patchy fog that may linger into the early hours. The mercury will dip to around the upper 30s, indicating that residents should brace for a nighttime chill.\n\nAs we look ahead to Friday, the scene will remain rather dreary. Roll in the morning with showers and the possibility of thunderstorms before 9 AM, leading to an overcast day, with temperatures peaking in the high 30s before falling back into the mid-30s later in the afternoon. The winds will pick up, blowing from the northeast with a touch of vigor, potentially gusting up to 30 mph, which adds to the rawness of the day. The beach, often a gathering point for sun-worshippers in warmer months, will not be inviting in this weather. Instead, it will likely be met with choppy waters and overcast skies. As such, a warm coat, perhaps layered with gloves and a hat, will be essential for any outdoor ventures. Given the time of year and current conditions, this weather reflects the typical chill of late January in the Midwest, with temperatures that are comfortably cool yet damp enough to keep most inside. Engaging in indoor activities is a better choice for the day ahead, with a preference for cozy spaces over braving the unfriendly outdoors.",
-    "color_code": "#555555",
-    "timestamp": "2025-01-30 18:23:16",
+    "weather_report": "Current conditions in Evanston reveal a chill in the air, as temperatures hover in the low 40s, accompanied by a persistent drizzle and low visibility from fog. The atmosphere feels damp and raw, with a gentle breeze stirring through the area, making it an uninviting night. As we look ahead, tonight is set to bring likely rainfall and areas of fog, leading into a cloudy morning. The forecast indicates temperatures will dip slightly to around the mid to upper 30s, and the winds will shift to a softer breeze from the southeast.\n\nThe outlook for tomorrow is not much brighter; expect continuing rainfall and patchy fog, with the potential for isolated thunderstorms early on. The high will reach only the upper 30s, quickly giving way to temperatures that could fall into the mid-30s by the afternoon, with gusty winds creating chilly conditions. Such weather lends itself to cozy indoor activities, perhaps a warm cup of coffee at a local caf\u00e9 or indulging in a relaxing afternoon with a good book. Overall, it\u2019s a stark winter's night in Evanston, not quite typical of more hospitable February days, but certainly part of the seasonal embrace as we navigate the depths of winter.",
+    "color_code": "#4A4E54",
+    "timestamp": "2025-01-30 22:06:40",
     "icon_url": "https://api.weather.gov/icons/land/night/rain?size=medium"
 }
