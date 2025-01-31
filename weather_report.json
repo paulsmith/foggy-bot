@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-31T11:17:00+00:00",
+            "timestamp": "2025-01-31T14:51:00+00:00",
             "temperature_f": 39.02,
             "temperature_c": 3.9,
             "humidity": 95.862962320942,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 30,
-            "description": "Fog",
-            "icon": "https://api.weather.gov/icons/land/night/fog?size=medium"
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Rain and Fog/Mist",
+            "icon": "https://api.weather.gov/icons/land/day/rain?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-01-31T06:00:00-06:00",
+                "startTime": "2025-01-31T10:00:00-06:00",
                 "endTime": "2025-01-31T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 40,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "10 to 25 mph",
-                "windDirection": "NE",
+                "windSpeed": "15 to 25 mph",
+                "windDirection": "NNE",
                 "icon": "https://api.weather.gov/icons/land/day/tsra,100/snow,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain and areas of fog before 8am, then rain and areas of fog and a slight chance of thunderstorms between 8am and 3pm, then a chance of rain and snow between 3pm and 4pm. Mostly cloudy. High near 40, with temperatures falling to around 35 in the afternoon. Northeast wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "Rain and patchy fog and a slight chance of thunderstorms before 3pm, then a chance of rain and snow between 3pm and 4pm. Mostly cloudy. High near 40, with temperatures falling to around 35 in the afternoon. North northeast wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the morning unfolds under a blanket of fog, with temperatures hovering in the low 40s and a palpable chill lingering in the air. The atmosphere is decidedly dreary, marked by a strong, gusty wind that adds to the uninviting conditions. As the day progresses, we can expect rain and occasional thunderstorms until early afternoon, transitioning to a chance of wintry precipitation later in the day. High temperatures will barely reach the upper end of the 30s, dropping to around 35 as afternoon approaches. A substantial amount of rain is anticipated, totaling between half an inch to three-quarters, making outdoor plans seem less than ideal.\n\nTonight brings a slight reprieve with partly cloudy skies and temperatures dipping to the upper 20s, but the north-northeast winds will persist, remaining brisk and biting. Given the season, these temperatures are typical for early February along the shores of Lake Michigan. Attire should be geared toward warmth, favoring thermal layers, waterproof outerwear, and a reliable umbrella to navigate the wet conditions. While outdoor activities are best shunned, cozy indoor pursuits with friends or books might be more appealing on this chilly, damp day.",
-    "color_code": "#B6C4C6",
-    "timestamp": "2025-01-31 06:09:07",
-    "icon_url": "https://api.weather.gov/icons/land/night/fog?size=medium"
+    "weather_report": "Current conditions in Evanston are characterized by a cool and damp atmosphere, with temperatures lingering in the low 40s amidst persistent rain and areas of fog. The air is thick with moisture, contributing to a rather heavy sensation as the day unfolds. The forecast indicates a continuation of rain along with a slight chance of thunderstorms until mid-afternoon, transitioning briefly to mixed rain and snow in the late afternoon. Winds will be brisk from the north-northeast, creating a blustery, wintry feel.\n\nWith expected high temperatures barely reaching the low 40s but dropping to the mid-30s as the afternoon progresses, it\u2019s worth noting that such temperatures are typical for this time of year in Evanston. The conditions may render the beach and waterfront less appealing for outdoor activities, as the waves could rise due to the blustery conditions, bringing a churning appearance to Lake Michigan. It\u2019s advisable to dress warmly in layers, considering a waterproof layer to guard against the steady rain. Given the current dreary conditions, indoor activities, perhaps a visit to a local museum or caf\u00e9, would be more suitable than venturing to the beach today.",
+    "color_code": "#7E9AC0",
+    "timestamp": "2025-01-31 10:06:17",
+    "icon_url": "https://api.weather.gov/icons/land/day/rain?size=medium"
 }
