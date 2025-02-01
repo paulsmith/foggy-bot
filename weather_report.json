@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-01T02:51:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 75.21413677184,
+            "timestamp": "2025-02-01T06:51:00+00:00",
+            "temperature_f": 33.08,
+            "temperature_c": 0.6,
+            "humidity": 71.831978021114,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Partly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+            "description": "Mostly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-01-31T21:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-02-01T02:00:00-06:00",
                 "endTime": "2025-02-01T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 28,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "NNE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. North northeast wind 15 to 20 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. North northeast wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere with temperatures hovering in the mid-30s and overcast skies that lend a decidedly gray hue to the landscape. Tonight's forecast promises a continued cloud cover and a low temperature settling around the upper 20s, underscored by a brisk northeasterly wind that will lend a blustery chill to the evening. Tomorrow, the sun may peek through the clouds intermittently as temperatures rise slightly, reaching into the mid-30s, accompanied by a gentle easterly breeze. \n\nAlthough currently devoid of any precipitation, the beach conditions will be marked by slightly choppy waters as winds whip across Lake Michigan, creating a dynamic sea state that may not be ideal for leisurely activities on the sand. Given the cool and crisp nature of the day, residents would be well-advised to bundle up in layers, favoring winter gear such as warm jackets, gloves, and hats for any excursions outdoors. This weather is typical for the end of January in the Midwestern United States, reflecting the season\u2019s characteristic chill. While not suited for sunbathing or swimming, this is a fine day for a brisk walk along the shore or visiting a cozy caf\u00e9 to bask in warmth and comfort. As winter continues its hold, the community may also consider gearing up for any upcoming festivities or holidays that lie just around the corner.",
-    "color_code": "#B8C2C4",
-    "timestamp": "2025-01-31 22:06:29",
-    "icon_url": "https://api.weather.gov/icons/land/night/sct?size=medium"
+    "weather_report": "In Evanston, Illinois, the current conditions reflect a brisk late-night atmosphere, with temperatures hovering in the low 30s and a blanket of moisture lending a damp chill to the air, making it feel even colder. As we look toward the morning, mostly cloudy skies will prevail, with temperatures creeping slightly upwards to around 30 before dawn, accompanied by a gentle, whispering breeze from the north-northeast that could pick up in strength. Saturday is set to greet residents with partly sunny skies, offering a bit of warmth as the high reaches the mid 30s\u2014a modest yet pleasant improvement over the previous day. \n\nWith no precipitation expected, the conditions for outdoor activities remain favorable, though the cool air may compel those venturing out to dress warmly. Waves along Lake Michigan can be expected to be a bit restless, providing a brisk seaside spectacle. This winter chill is typical for this time of year in the Midwest, where crisp, chilly air is the signature of February. Thus, a stable and hearty approach to layering, perhaps integrating a snug coat and warm hat, will enhance comfort for any weekend outings, whether at the beach admiring the fading winter light or engaging in local errands.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-02-01 02:06:28",
+    "icon_url": "https://api.weather.gov/icons/land/night/bkn?size=medium"
 }
