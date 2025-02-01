@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-01T10:51:00+00:00",
+            "timestamp": "2025-02-01T14:51:00+00:00",
             "temperature_f": 30.02,
             "temperature_c": -1.1,
-            "humidity": 68.823797236386,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "humidity": 60.394650155608,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 70,
             "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-01T06:00:00-06:00",
+                "startTime": "2025-02-01T10:00:00-06:00",
                 "endTime": "2025-02-01T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -31,10 +31,10 @@
                     "value": null
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "E",
+                "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 35, with temperatures falling to around 33 in the afternoon. East wind 10 to 15 mph, with gusts as high as 25 mph."
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. High near 35, with temperatures falling to around 33 in the afternoon. East southeast wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a wintry scene, with temperatures in the low 30s and a cloudy sky overhead. The air feels brisk and cool, accompanied by a stillness that allows the cold to settle in. As the day unfolds, expect partly sunny skies with a high near 35, though temperatures will dip to around 33 in the afternoon. The winds will pick up from the east, bringing a gentle yet noticeable movement in the air, which may lend a bit of chill as gusts could reach up to 25 mph. \n\nLooking ahead to the evening, snow is likely after midnight, potentially mixed with rain and low-lying fog, raising the chance of icy conditions as the night progresses. Temperatures are anticipated to rise slightly, hovering around the mid 30s. Those venturing outside should dress warmly in layers, ideally including a sturdy jacket and perhaps waterproof footwear considering the expected precipitation. The lakefront will likely have slightly choppy waters as the wind stirs, but overall conditions call for cautious outdoor activity. Given that it's not a holiday today, it may be best to enjoy indoor pursuits or prepare for a wintery evening at home.",
-    "color_code": "#3C9EDE",
-    "timestamp": "2025-02-01 06:07:56",
-    "icon_url": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+    "weather_report": "Evanston is experiencing a brisk winter day with temperatures in the low 30s, accompanied by a moderately humid chill that bites at exposed skin. The skies are mostly overcast, casting a dull light over the beach as the winds dance fiercely from the east at nearly 50 mph, creating a wild atmosphere along the shores of Lake Michigan. The chilly air is set to give rise to patchy fog later, with snow anticipated just after midnight, potentially leading to slight accumulation.\n\nFor those venturing outdoors today, it\u2019s advisable to dress warmly, favoring insulated layers and wind-resistant outerwear to combat the blustery conditions. Throughout the day, the temperature will hover around the mid-30s, typical for early February in this region. As for activities, it might be best to stay cozy indoors, perhaps indulging in warm drinks or settling in with a book, as the blustery weather and likelihood of precipitation do little to invite outdoor adventures.",
+    "color_code": "#6B7C92",
+    "timestamp": "2025-02-01 10:05:46",
+    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
 }
