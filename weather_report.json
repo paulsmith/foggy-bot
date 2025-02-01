@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-01T14:51:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 60.394650155608,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 70,
+            "timestamp": "2025-02-01T18:51:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 60.67424203712,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 80,
             "description": "Mostly Cloudy",
             "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-01T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-01T14:00:00-06:00",
                 "endTime": "2025-02-01T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 35, with temperatures falling to around 33 in the afternoon. East southeast wind 10 to 15 mph, with gusts as high as 25 mph."
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 35, with temperatures falling to around 33 in the afternoon. East southeast wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Evanston is experiencing a brisk winter day with temperatures in the low 30s, accompanied by a moderately humid chill that bites at exposed skin. The skies are mostly overcast, casting a dull light over the beach as the winds dance fiercely from the east at nearly 50 mph, creating a wild atmosphere along the shores of Lake Michigan. The chilly air is set to give rise to patchy fog later, with snow anticipated just after midnight, potentially leading to slight accumulation.\n\nFor those venturing outdoors today, it\u2019s advisable to dress warmly, favoring insulated layers and wind-resistant outerwear to combat the blustery conditions. Throughout the day, the temperature will hover around the mid-30s, typical for early February in this region. As for activities, it might be best to stay cozy indoors, perhaps indulging in warm drinks or settling in with a book, as the blustery weather and likelihood of precipitation do little to invite outdoor adventures.",
-    "color_code": "#6B7C92",
-    "timestamp": "2025-02-01 10:05:46",
+    "weather_report": "In Evanston, the current conditions are marked by a chilly temperature in the low 30s, accompanied by a formidable east-southeast wind that rustles the air with a brisk intensity. The sky hangs mostly cloudy, offering a somewhat dull and overcast backdrop. Residents can expect a slight improvement as the day progresses, with forecasters predicting a partly sunny afternoon and a high creeping near the mid 30s. However, the evening shifts the mood, bringing the likelihood of snow between midnight and 4 AM, leading to a potential mix of rain and snow as fog rolls into the area. While there may be a trace of new accumulation, the approaching weather could coat the landscape with a thin layer of white.\n\nThe wave conditions along Lake Michigan may be a bit wild as the winds whip over the water, creating choppy seas that may not be ideal for outdoor activities. As temperatures flirt with the freezing point, it's wise to dress warmly, opting for layered clothing, a sturdy coat, and a hat to ward off the biting chill. Given it's early February, these conditions are par for the course in this part of the Midwest, embodying the essence of winter with its frosty embrace. While outdoor ventures might be curtailed due to the impending snow and cold, a cozy afternoon indoors, perhaps with a good book or a warm drink, could provide the perfect antidote to this blustery day.",
+    "color_code": "#A9B0B6",
+    "timestamp": "2025-02-01 14:05:30",
     "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
 }
