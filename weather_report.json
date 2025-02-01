@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-31T19:38:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 88.57425771123,
-            "wind_speed_mph": 74.89475999999999,
-            "wind_direction": 10,
-            "description": "Light Rain and Fog/Mist",
-            "icon": "https://api.weather.gov/icons/land/day/rain?size=medium"
+            "timestamp": "2025-01-31T23:51:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 75.319972812856,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Clear",
+            "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-31T14:00:00-06:00",
-                "endTime": "2025-01-31T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 40,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "25 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
-                "shortForecast": "Chance Rain",
-                "detailedForecast": "A chance of rain before 5pm. Mostly cloudy. High near 40, with temperatures falling to around 35 in the afternoon. North northeast wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-31T18:00:00-06:00",
                 "endTime": "2025-02-01T06:00:00-06:00",
@@ -54,11 +35,30 @@
                 "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. North northeast wind 15 to 25 mph, with gusts as high as 40 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-02-01T06:00:00-06:00",
+                "endTime": "2025-02-01T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 35,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 35. East wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions are marked by a brisk chill, with temperatures lingering in the upper 30s. Light rain combines with a haze of mist, creating a damp and somewhat dreary atmosphere, while the gusty winds from the northeast howl at nearly 75 miles per hour, adding an edge to the already crisp coastal air. As the afternoon unfolds, expect a continuation of cloudy skies and a chance of scattered rain, alongside a gradual drop to around 35 degrees. Tonight, the temperatures will dip into the upper 20s, with breezy conditions persisting, making it feel notably colder.\n\nThe overall appearance outside is rather unpleasant, highlighted by the dreary palette of the rain-soaked landscape against the swirl of the lake's waves. Given the current forecast, wave conditions could be choppy, as gusty winds may stir up the waters of Lake Michigan. Residents and visitors would do well to layer up with warm, water-resistant attire to cope with the chill and potential precipitation. The temperatures remain consistent with winter norms for this time of year in the Midwest, as the region endures the depths of winter. With the current conditions and impending weather, outdoor activities are likely better suited for those venturing out briefly, perhaps along covered areas to take in the view of the lake, rather than prolonged exposure amidst the chilly, damp elements.",
-    "color_code": "#A6B4C0",
-    "timestamp": "2025-01-31 14:06:27",
-    "icon_url": "https://api.weather.gov/icons/land/day/rain?size=medium"
+    "weather_report": "Current conditions in Evanston, Illinois present a chilly evening, with temperatures settling in the mid 30s and a mostly clear sky, creating an inviting ambiance for those who appreciate the crispness of winter. As the night unfolds, clouds will blanket the sky, leading to temperatures dipping to the low 30s and a gusty breeze from the north-northeast reaching up to 25 mph, with stronger gusts of 40 mph. This blustery arrangement is likely to create a biting chill, making for a somewhat uncomfortable outdoor experience unless properly bundled.\n\nLooking ahead to Saturday, expect the weather to offer a mix with only partial sunshine, as temperatures climb to near 35 during the day, accompanied by a gentle east wind. Waves on Lake Michigan may be slightly choppy given the forecasted winds, creating a classic winter scene along the shore. While there\u2019s no significant precipitation anticipated tonight or tomorrow, the blustery conditions may deter outdoor activity unless you\u2019re a fan of brisk walks along the shoreline or enjoying the beauty of a winter's day. Given the time of year, these temperatures are typical for late January in the Midwest, suggesting that residents should dress warmly\u2014layers, hats, and gloves are recommended for venturing outdoors.",
+    "color_code": "#A2B2C6",
+    "timestamp": "2025-01-31 18:25:14",
+    "icon_url": "https://api.weather.gov/icons/land/night/few?size=medium"
 }
