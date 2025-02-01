@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-01-31T23:51:00+00:00",
-            "temperature_f": 35.06,
-            "temperature_c": 1.7,
-            "humidity": 75.319972812856,
+            "timestamp": "2025-02-01T02:51:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 75.21413677184,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Mostly Clear",
-            "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+            "description": "Partly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-01-31T18:00:00-06:00",
+                "startTime": "2025-01-31T21:00:00-06:00",
                 "endTime": "2025-02-01T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 28,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 25 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. North northeast wind 15 to 25 mph, with gusts as high as 40 mph."
+                "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. North northeast wind 15 to 20 mph, with gusts as high as 35 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois present a chilly evening, with temperatures settling in the mid 30s and a mostly clear sky, creating an inviting ambiance for those who appreciate the crispness of winter. As the night unfolds, clouds will blanket the sky, leading to temperatures dipping to the low 30s and a gusty breeze from the north-northeast reaching up to 25 mph, with stronger gusts of 40 mph. This blustery arrangement is likely to create a biting chill, making for a somewhat uncomfortable outdoor experience unless properly bundled.\n\nLooking ahead to Saturday, expect the weather to offer a mix with only partial sunshine, as temperatures climb to near 35 during the day, accompanied by a gentle east wind. Waves on Lake Michigan may be slightly choppy given the forecasted winds, creating a classic winter scene along the shore. While there\u2019s no significant precipitation anticipated tonight or tomorrow, the blustery conditions may deter outdoor activity unless you\u2019re a fan of brisk walks along the shoreline or enjoying the beauty of a winter's day. Given the time of year, these temperatures are typical for late January in the Midwest, suggesting that residents should dress warmly\u2014layers, hats, and gloves are recommended for venturing outdoors.",
-    "color_code": "#A2B2C6",
-    "timestamp": "2025-01-31 18:25:14",
-    "icon_url": "https://api.weather.gov/icons/land/night/few?size=medium"
+    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere with temperatures hovering in the mid-30s and overcast skies that lend a decidedly gray hue to the landscape. Tonight's forecast promises a continued cloud cover and a low temperature settling around the upper 20s, underscored by a brisk northeasterly wind that will lend a blustery chill to the evening. Tomorrow, the sun may peek through the clouds intermittently as temperatures rise slightly, reaching into the mid-30s, accompanied by a gentle easterly breeze. \n\nAlthough currently devoid of any precipitation, the beach conditions will be marked by slightly choppy waters as winds whip across Lake Michigan, creating a dynamic sea state that may not be ideal for leisurely activities on the sand. Given the cool and crisp nature of the day, residents would be well-advised to bundle up in layers, favoring winter gear such as warm jackets, gloves, and hats for any excursions outdoors. This weather is typical for the end of January in the Midwestern United States, reflecting the season\u2019s characteristic chill. While not suited for sunbathing or swimming, this is a fine day for a brisk walk along the shore or visiting a cozy caf\u00e9 to bask in warmth and comfort. As winter continues its hold, the community may also consider gearing up for any upcoming festivities or holidays that lie just around the corner.",
+    "color_code": "#B8C2C4",
+    "timestamp": "2025-01-31 22:06:29",
+    "icon_url": "https://api.weather.gov/icons/land/night/sct?size=medium"
 }
