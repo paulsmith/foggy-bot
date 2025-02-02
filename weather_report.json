@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-02T14:51:00+00:00",
-            "temperature_f": 35.96,
-            "temperature_c": 2.2,
-            "humidity": 85.375550299468,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 200,
+            "timestamp": "2025-02-02T18:51:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 82.104692489025,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 270,
             "description": "Cloudy",
             "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-02T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-02T14:00:00-06:00",
                 "endTime": "2025-02-02T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -53,12 +53,12 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog after midnight. Mostly cloudy, with a low around 37. South wind around 5 mph."
+                "detailedForecast": "Patchy fog after midnight. Mostly cloudy, with a low around 37. South wind around 5 mph, with gusts as high as 15 mph."
             }
         ]
     },
-    "weather_report": "Evanston is waking up to a chilly day, with current temperatures lingering in the mid-30s and a brisk breeze whispering in from the southwest. The air feels damp, and the cloud cover left behind by overnight overcast conditions makes for a rather gray, somber scene. As we look ahead, today's weather promises to remain mostly cloudy, with temperatures climbing toward the low 40s under gentle winds, providing a brief respite from the current chill. Tonight, expect some patchy fog to roll in after midnight, keeping those cozy layers close as temperatures dip back down into the high 30s.\n\nWith the lakefront potentially experiencing some charm today, wave conditions may be mildly active, inviting those with a taste for brisk walks along the shore. I recommend bundling up in layers with a warm coat, mittens, and perhaps a hat as you venture out\u2014the day calls for attire suitable for those who enjoy the candid beauty of winter\u2019s hold. This is typical weather for early February in this part of the Midwest, where the season\u2019s chill lingers with dampness in the air. So, embrace this winter day, grab a hot drink, and consider exploring the quiet beauty of Evanston\u2019s beaches or taking in the local arts and cafes as we await the spring thaw.",
-    "color_code": "#B0C4D3",
-    "timestamp": "2025-02-02 10:05:22",
+    "weather_report": "Current conditions in Evanston reveal a cool and overcast atmosphere with temperatures hovering in the low 40s, complemented by a brisk wind from the west. The air carries a hint of dampness, creating a chill that many may find quite biting. As we look toward the afternoon, expect mostly cloudy skies with a slight uptick in temperature, peaking near 43 degrees. A gentle breeze is anticipated, giving way to patchy fog as night falls. By evening, temperatures will dip to around 37, and while the wind will remain soft, occasional gusts may stir up some chilly sensations.\n\nThough conditions may not offer the most vibrant views, the undulating waves of Lake Michigan paired with the muted sky can present a serene, if somewhat moody, backdrop for outdoor activities. Without any significant precipitation on the horizon, bundled layers are advisable\u2014a warm jacket along with maybe a hat and gloves to fend off the crisp air. As we find ourselves in early February, temperatures are true to form for this season in the Midwest, making it a perfect time for a soothing stroll along the lakeshore or perhaps a cozy afternoon spent at a local caf\u00e9, contemplating the changing seasons.",
+    "color_code": "#A3B3C1",
+    "timestamp": "2025-02-02 14:05:47",
     "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
