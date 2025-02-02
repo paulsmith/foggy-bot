@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-02T06:51:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 72.137811402908,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 150,
+            "timestamp": "2025-02-02T11:20:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 75.21413677184,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 170,
             "description": "Cloudy",
             "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-02T02:00:00-06:00",
-                "endTime": "2025-02-02T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/snow,80?size=medium",
-                "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy. Low around 31, with temperatures rising to around 33 overnight. South southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2025-02-02T06:00:00-06:00",
                 "endTime": "2025-02-02T18:00:00-06:00",
                 "isDaytime": true,
@@ -51,14 +32,33 @@
                 },
                 "windSpeed": "5 to 15 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/snow_fzra,20/ovc?size=medium",
-                "shortForecast": "Areas Of Fog then Cloudy",
-                "detailedForecast": "Areas of fog and a slight chance of freezing rain and a slight chance of rain and snow before noon. Cloudy, with a high near 43. South southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/ovc?size=medium",
+                "shortForecast": "Patchy Fog then Cloudy",
+                "detailedForecast": "Patchy fog and a slight chance of drizzle before noon. Cloudy, with a high near 43. South southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-02T18:00:00-06:00",
+                "endTime": "2025-02-03T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after midnight. Mostly cloudy, with a low around 37. South wind around 5 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston are rather brisk, with temperatures hovering in the low 30s and a veil of clouds overhead. The air feels noticeably cold, accompanied by a blustery wind that creates a biting chill as it whips across the landscape. The possibility of snow is on the horizon, with an 80% chance of accumulation overnight, hinting at a potential dusting for those waking up tomorrow. As the day unfolds, expect areas of fog to accompany a slight chance of rain or freezing rain, with temperatures rising to a high near the low to mid 40s.\n\nWith robust wave conditions likely due to the gusty winds, Lake Michigan may be churning, making it less than ideal for waterfront activities. The next few hours will not be particularly inviting for outdoor excursions; however, indoor activities\u2014perhaps a cozy caf\u00e9 visit or catching up on reading\u2014seem much more appealing under these chilly circumstances. As February unfolds, the temperatures align with the expected winter chill for this time of year, making warm layers and a sturdy coat essential for anyone venturing outside.",
-    "color_code": "#7E9BC2",
-    "timestamp": "2025-02-02 02:06:34",
+    "weather_report": "In Evanston, Illinois, the current weather presents a chilly start to the day, with temperatures lingering in the mid-30s and a noticeable breeze that adds a brisk edge to the atmosphere. The cloud cover casts a gray tone over the morning, while the humidity gently wraps around, creating a damp feel. As the day unfolds, expect patchy fog and a slight chance of drizzle before noon, giving way to a cloudy afternoon with temperatures rising to the low 40s. The wind will remain light, providing a welcome change from the earlier gusts likely experienced overnight.\n\nConsidering the overall conditions, it would be wise to layer your attire for the day, opting for a warm coat and perhaps a stylish scarf, especially if venture outdoors near the lake. The wave conditions along Lake Michigan may be stirred up but should be manageable given the lighter winds forecast for later. With the weather being typical for February in this region, it may not invite the outdoor revelry often sought in summer months, yet it offers a serene backdrop for cozy activities indoors, such as reading a good book or enjoying hot beverages. Today is free from any major holidays, though a sense of calm surrounds as winter maintains its hold.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-02-02 06:08:00",
     "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
