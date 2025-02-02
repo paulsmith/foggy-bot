@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-02T11:20:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 75.21413677184,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 170,
+            "timestamp": "2025-02-02T14:51:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 85.375550299468,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 200,
             "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-02T06:00:00-06:00",
+                "startTime": "2025-02-02T10:00:00-06:00",
                 "endTime": "2025-02-02T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
-                "windSpeed": "5 to 15 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/ovc?size=medium",
-                "shortForecast": "Patchy Fog then Cloudy",
-                "detailedForecast": "Patchy fog and a slight chance of drizzle before noon. Cloudy, with a high near 43. South southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 43. Southwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, the current weather presents a chilly start to the day, with temperatures lingering in the mid-30s and a noticeable breeze that adds a brisk edge to the atmosphere. The cloud cover casts a gray tone over the morning, while the humidity gently wraps around, creating a damp feel. As the day unfolds, expect patchy fog and a slight chance of drizzle before noon, giving way to a cloudy afternoon with temperatures rising to the low 40s. The wind will remain light, providing a welcome change from the earlier gusts likely experienced overnight.\n\nConsidering the overall conditions, it would be wise to layer your attire for the day, opting for a warm coat and perhaps a stylish scarf, especially if venture outdoors near the lake. The wave conditions along Lake Michigan may be stirred up but should be manageable given the lighter winds forecast for later. With the weather being typical for February in this region, it may not invite the outdoor revelry often sought in summer months, yet it offers a serene backdrop for cozy activities indoors, such as reading a good book or enjoying hot beverages. Today is free from any major holidays, though a sense of calm surrounds as winter maintains its hold.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-02-02 06:08:00",
-    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+    "weather_report": "Evanston is waking up to a chilly day, with current temperatures lingering in the mid-30s and a brisk breeze whispering in from the southwest. The air feels damp, and the cloud cover left behind by overnight overcast conditions makes for a rather gray, somber scene. As we look ahead, today's weather promises to remain mostly cloudy, with temperatures climbing toward the low 40s under gentle winds, providing a brief respite from the current chill. Tonight, expect some patchy fog to roll in after midnight, keeping those cozy layers close as temperatures dip back down into the high 30s.\n\nWith the lakefront potentially experiencing some charm today, wave conditions may be mildly active, inviting those with a taste for brisk walks along the shore. I recommend bundling up in layers with a warm coat, mittens, and perhaps a hat as you venture out\u2014the day calls for attire suitable for those who enjoy the candid beauty of winter\u2019s hold. This is typical weather for early February in this part of the Midwest, where the season\u2019s chill lingers with dampness in the air. So, embrace this winter day, grab a hot drink, and consider exploring the quiet beauty of Evanston\u2019s beaches or taking in the local arts and cafes as we await the spring thaw.",
+    "color_code": "#B0C4D3",
+    "timestamp": "2025-02-02 10:05:22",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
