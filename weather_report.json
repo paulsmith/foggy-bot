@@ -7,23 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-02T22:51:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 79.390286642183,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 200,
+            "timestamp": "2025-02-03T02:51:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 88.67016884985,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 170,
             "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-02T18:00:00-06:00",
+                "startTime": "2025-02-02T22:00:00-06:00",
                 "endTime": "2025-02-03T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 37,
+                "temperature": 36,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -34,7 +34,7 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog after 3am. Mostly cloudy. Low around 37, with temperatures rising to around 39 overnight. South wind around 5 mph, with gusts as high as 15 mph."
+                "detailedForecast": "Patchy fog after midnight. Mostly cloudy. Low around 36, with temperatures rising to around 38 overnight. South wind around 5 mph, with gusts as high as 10 mph."
             },
             {
                 "number": 2,
@@ -49,16 +49,16 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 15 mph",
-                "windDirection": "NW",
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
                 "shortForecast": "Patchy Fog then Mostly Cloudy",
-                "detailedForecast": "Patchy fog before 9am. Mostly cloudy. High near 46, with temperatures falling to around 35 in the afternoon. Northwest wind 5 to 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Patchy fog before 9am. Mostly cloudy. High near 46, with temperatures falling to around 35 in the afternoon. West northwest wind 10 to 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, conditions are currently cool and a bit damp, with temperatures in the low 40s and a gentle breeze whispering from the south. Clouds hang low in the sky, creating a gray canvas that offers a somber yet tranquil ambiance. As night approaches, expect patchy fog to develop, particularly after 3 AM, with temperatures dipping toward the mid to upper 30s overnight.\n\nLooking ahead to Monday, the day begins with lingering fog but the cloud cover will persist throughout. Highs will barely reach the mid-40s before slipping back into the mid-30s by the afternoon. The wind will shift to the north, picking up slightly, bringing a brisk feel to the air, aligning with the chilly season typical of early February in the Midwest. Given these conditions, residents might find the beach less inviting; however, the waves could provide some visual interest for those nearby. It\u2019s advisable to dress warmly, layering up to ensure comfort during outdoor activities, whether that's a brisk walk along the shore or a simple excursion to enjoy the scenery. While this day brings no significant precipitation, the dreary weather and patchy fog add a contemplative tone to the winter landscape.",
-    "color_code": "#A7C3D9",
-    "timestamp": "2025-02-02 18:23:58",
-    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+    "weather_report": "Current conditions in Evanston, Illinois reveal a chilly atmosphere with a temperature in the low 40s, accompanied by a dampness that adds to the coolness of the evening. The air is thick and almost heavy, as clouds blanket the sky, while a steady breeze blows from the south, adding a sharpness to the air. As we look ahead to tonight, patchy fog is expected to make its appearance after midnight, creating a shroud over the mostly cloudy canvas of the night. The temperature will gradually drop to around the mid-30s, setting the stage for a brisk start to Monday.\n\nTomorrow, residents can anticipate a continuation of the mostly cloudy theme, with patchy fog lingering in the morning hours. The temperature is predicted to rise during the day to nearly the mid-40s, only to fall again as the afternoon progresses, ushering in the cooler evening chill. Wave conditions along Lake Michigan will likely be moderate, reflecting the gusty winds expected throughout the day. For those venturing outdoors, it is advisable to wear a layered ensemble, including a warm coat to fend off the evening chill, perhaps accessorized with a scarf and gloves. Although we find ourselves in winter's embrace, these temperatures are fairly typical for this season in the Midwest. As far as outdoor activities go, this evening might not be ideal for a long promenade by the beach, but a cozy gathering indoors or a short stroll to enjoy the crisp, fresh air could be a pleasant alternative.",
+    "color_code": "#6B7B8A",
+    "timestamp": "2025-02-02 22:07:10",
+    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
