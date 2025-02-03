@@ -7,58 +7,58 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-03T06:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 92.59561987308,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 180,
+            "timestamp": "2025-02-03T11:28:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 96.525179740444,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 140,
             "description": "Fog/Mist",
             "icon": "https://api.weather.gov/icons/land/night/fog?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-03T02:00:00-06:00",
-                "endTime": "2025-02-03T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 36,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Cloudy. Low around 36, with temperatures rising to around 38 overnight. South wind 5 to 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2025-02-03T06:00:00-06:00",
                 "endTime": "2025-02-03T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 46,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Cloudy",
-                "detailedForecast": "Patchy fog before 9am. Mostly cloudy. High near 46, with temperatures falling to around 35 in the afternoon. West wind 5 to 15 mph, with gusts as high as 25 mph."
+                "windSpeed": "5 to 20 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/ovc?size=medium",
+                "shortForecast": "Patchy Fog then Cloudy",
+                "detailedForecast": "Patchy fog before 9am. Cloudy. High near 44, with temperatures falling to around 37 in the afternoon. West northwest wind 5 to 20 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-03T18:00:00-06:00",
+                "endTime": "2025-02-04T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 26,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. Low around 26, with temperatures rising to around 29 overnight. North wind 10 to 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a chilly ambiance marked by lingering fog and mist, with temperatures in the low 40s. As dawn approaches, the area is draped in a thick shroud of moisture, making the already cool air feel even crisper. This morning's fog is expected to dissipate, though cloud cover will persist throughout the day. The day will see a high nearing 50 degrees, cooling somewhat by the afternoon under a gentle breeze shifting from the southwest to the west, bringing with it occasional gusts.\n\nExpect wave conditions on Lake Michigan to be moderately choppy, a reflection of the breezy wind dynamics. Fortunately, the forecast indicates no significant precipitation, allowing for a slightly clearer afternoon as the day progresses. However, dressed warmly, consider donning layers, suitable for a stroll along the shoreline or enjoying a coffee at a local cafe. It's a typical winter day in the region, with conditions that might inspire few outdoor exertions aside from a brisk walk or a visit to a nearby art exhibition. Though February does not herald a holiday today, it does carry the promise of spring just around the corner.",
-    "color_code": "#7DA1B3",
-    "timestamp": "2025-02-03 02:07:51",
+    "weather_report": "Current conditions in Evanston are characterized by a chilly atmosphere, with temperatures in the mid-30s complemented by a thick cloak of fog and mist. The air feels damp as a gentle breeze whispers in from the southeast at roughly 12 mph, making for a distinctly cool start to the day. As you step outside, expect limited visibility due to the fog, lending an ethereal quality to the surroundings, especially along the beach.\n\nAs the day unfolds, patchy fog should lift, giving way to clouds and a high reaching into the low 40s. Afternoon hours will bring a gradual coolness as temperatures fall back into the upper 30s. Tonight, the weather will turn mostly cloudy with cooler conditions settling in, leading to lows around the mid-20s. The winds are expected to remain brisk, with gusts hitting 30 mph, creating a somewhat blustery evening. While no significant precipitation is in the forecast, the wave conditions on Lake Michigan may churn, given the wind's intensity, though they are unlikely to reach hazardous levels. For those venturing outdoors today, layering up is advisable\u2014think warm jackets and perhaps a hat or scarf, especially as the evening approaches. \n\nIn this chilly early February season, temperatures are typical for the region but can feel colder due to the wind and moisture in the air. Outdoor activities might be limited; however, a brisk walk along the shoreline could be invigorating if one is properly dressed against the elements.",
+    "color_code": "#B0B8B0",
+    "timestamp": "2025-02-03 06:09:17",
     "icon_url": "https://api.weather.gov/icons/land/night/fog?size=medium"
 }
