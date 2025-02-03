@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-03T11:28:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 96.525179740444,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 140,
+            "timestamp": "2025-02-03T15:12:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 92.560961924407,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 20,
             "description": "Fog/Mist",
-            "icon": "https://api.weather.gov/icons/land/night/fog?size=medium"
+            "icon": "https://api.weather.gov/icons/land/day/fog?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-03T06:00:00-06:00",
+                "startTime": "2025-02-03T10:00:00-06:00",
                 "endTime": "2025-02-03T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -31,10 +31,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 20 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/ovc?size=medium",
-                "shortForecast": "Patchy Fog then Cloudy",
-                "detailedForecast": "Patchy fog before 9am. Cloudy. High near 44, with temperatures falling to around 37 in the afternoon. West northwest wind 5 to 20 mph, with gusts as high as 30 mph."
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. High near 44, with temperatures falling to around 37 in the afternoon. North northwest wind 5 to 20 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston are characterized by a chilly atmosphere, with temperatures in the mid-30s complemented by a thick cloak of fog and mist. The air feels damp as a gentle breeze whispers in from the southeast at roughly 12 mph, making for a distinctly cool start to the day. As you step outside, expect limited visibility due to the fog, lending an ethereal quality to the surroundings, especially along the beach.\n\nAs the day unfolds, patchy fog should lift, giving way to clouds and a high reaching into the low 40s. Afternoon hours will bring a gradual coolness as temperatures fall back into the upper 30s. Tonight, the weather will turn mostly cloudy with cooler conditions settling in, leading to lows around the mid-20s. The winds are expected to remain brisk, with gusts hitting 30 mph, creating a somewhat blustery evening. While no significant precipitation is in the forecast, the wave conditions on Lake Michigan may churn, given the wind's intensity, though they are unlikely to reach hazardous levels. For those venturing outdoors today, layering up is advisable\u2014think warm jackets and perhaps a hat or scarf, especially as the evening approaches. \n\nIn this chilly early February season, temperatures are typical for the region but can feel colder due to the wind and moisture in the air. Outdoor activities might be limited; however, a brisk walk along the shoreline could be invigorating if one is properly dressed against the elements.",
-    "color_code": "#B0B8B0",
-    "timestamp": "2025-02-03 06:09:17",
-    "icon_url": "https://api.weather.gov/icons/land/night/fog?size=medium"
+    "weather_report": "Evanston, Illinois, is currently enveloped in a chill that lingers at just below 40 degrees, with a heavy presence of fog lending an eerie feel to the atmosphere. The wind is brisk and relentless from the north-northwest, creating a biting chill as it cuts through the misty conditions. This morning's temperatures are a stark reminder that winter is still holding its grip, and people might find themselves reaching for a heavier coat if venturing outside. As the day progresses, the clouds will blanket the sky, with a peak temperature near 44, though expect a gradual drop to the upper 30s by afternoon.\n\nTonight, the air will turn even cooler, dipping down to about 26 degrees, which might prompt a layer or two more as you plan the evening\u2019s activities. Conditions will remain mostly cloudy, with a north wind adding a chill to the air, but fortunately, no precipitation is expected. Wave heights along Lake Michigan are likely to be moderate, so while a stroll on the beach could be refreshing, it may not be the day for sunbathing. Given the winter chill, traditional indoor activities like visiting local cafes or engaging in community events may be more suitable. February is indeed a time of stark beauty in the Midwest, with temperatures sitting within the expected range for this season, reminding residents that while the blossoms are yet to come, there's a serene kind of beauty in the wintry silence.",
+    "color_code": "#A0A3A6",
+    "timestamp": "2025-02-03 10:06:53",
+    "icon_url": "https://api.weather.gov/icons/land/day/fog?size=medium"
 }
