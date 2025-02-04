@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-04T14:51:00+00:00",
+            "timestamp": "2025-02-04T19:03:00+00:00",
             "temperature_f": 24.98,
             "temperature_c": -3.9,
-            "humidity": 52.515957329281,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 360,
-            "description": "Partly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+            "humidity": 65.595209439964,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-04T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-04T14:00:00-06:00",
                 "endTime": "2025-02-04T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -31,10 +31,10 @@
                     "value": null
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 30, with temperatures falling to around 28 in the afternoon. North wind 10 to 15 mph, with gusts as high as 25 mph."
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
+                "shortForecast": "Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers. Mostly cloudy. High near 30, with temperatures falling to around 28 in the afternoon. North northeast wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -47,18 +47,18 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/snow/ovc?size=medium",
-                "shortForecast": "Slight Chance Snow Showers then Cloudy",
-                "detailedForecast": "A slight chance of snow showers before midnight. Cloudy. Low around 25, with temperatures rising to around 28 overnight. Northeast wind around 10 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/ovc?size=medium",
+                "shortForecast": "Chance Snow Showers then Cloudy",
+                "detailedForecast": "A chance of snow showers and a slight chance of snow before midnight. Cloudy. Low around 25, with temperatures rising to around 28 overnight. Northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Evanston, the day begins under partly cloudy skies as temperatures rest in the mid 20s, presenting a crisp and cool atmosphere. The current weather is marked by a fierce and howling wind, contributing to that brisk winter feel, ideal for bundled-up outdoor activities. Conditions are expected to shift throughout the day, with clouds thickening and a high near 30 forecasted, before temperatures slightly fall to around 28 this afternoon. A slight chance of snow showers looms before midnight, but overall the precipitation risk feels quite low.\n\nConsidering the wintry conditions typical for this time of year in the Midwest, the wave activity on Lake Michigan may be somewhat boisterous due to the strong winds. Those venturing to the beach today might experience a rather unpleasant appearance of the lake and shoreline, with choppy waters and perhaps a bit of spray. Recommended attire would certainly include warm layers, insulated jackets, hats, and gloves to ward off the chill as the winds whip through the area. Given the day of the week and the current season, outdoor activities might be limited to brisk walks or quick errands; however, those who do brave the elements might find pleasure in the sheer beauty of a winter landscape contrasted against the gray skies.",
-    "color_code": "#A0B3C1",
-    "timestamp": "2025-02-04 10:06:36",
-    "icon_url": "https://api.weather.gov/icons/land/day/sct?size=medium"
+    "weather_report": "As we step into this early February afternoon in Evanston, the temperature rests in the mid 20s, offering a well-chilled atmosphere that is accentuated by a damp coolness in the air. The sky hangs low, cloaked in clouds, subtly hinting at the possibility of light snow showers later. While the day may be cloudy, the piercing chill provides a refreshing bite that reminds us the season is still very much winter. Wave conditions on Lake Michigan are moderately active, reflecting the gusty northeast winds that will emerge as the day progresses, potentially reaching speeds of 10 to 15 mph.\n\nThe forecast suggests a chance of snow showers this afternoon, but the expected accumulation will likely be light, as the chances for persistent precipitation remain low. For the evening, temperatures will hover around the mid 20s but are expected to rise slightly overnight, providing a whisper of warmth amid the continuing cloudiness. With these conditions in mind, it's advisable to dress warmly\u2014layers, a sturdy coat, and a hat will provide the necessary comfort to navigate this brisk day. Given the chilly and slightly dreary weather, outdoor activities may be best reserved for those eager to enjoy a brisk walk along the beach or moments by the water's edge, taking in the stark beauty of winter\u2019s grip on the Great Lakes.",
+    "color_code": "#A6B7B2",
+    "timestamp": "2025-02-04 14:06:14",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
