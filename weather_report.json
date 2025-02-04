@@ -7,42 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-03T18:51:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 92.531896684803,
+            "timestamp": "2025-02-03T23:51:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 88.477151746126,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Fog/Mist",
-            "icon": "https://api.weather.gov/icons/land/day/fog?size=medium"
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-03T14:00:00-06:00",
-                "endTime": "2025-02-03T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 to 20 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog before 3pm. Cloudy. High near 44, with temperatures falling to around 34 in the afternoon. North wind 15 to 20 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-03T18:00:00-06:00",
                 "endTime": "2025-02-04T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 26,
+                "temperature": 25,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -53,12 +34,31 @@
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 26, with temperatures rising to around 29 overnight. North wind around 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly cloudy. Low around 25, with temperatures rising to around 28 overnight. North wind around 15 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-02-04T06:00:00-06:00",
+                "endTime": "2025-02-04T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 28,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 28, with temperatures falling to around 26 in the afternoon. North wind around 15 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a cool and decidedly damp atmosphere as temperatures linger in the low 40s, accompanied by a thick blanket of fog and mist that obscures visibility. With a north wind beginning to stir, this afternoon\u2019s forecast shifts towards a high near 44, hinting at a gradual decline in warmth as the day wanes. The forecast calls for clearing clouds but doesn\u2019t signal any substantial precipitation, making the threat of rain minimal. The overarching gloom might create an unusually serene vibe along the beach, with the gentle sound of waves lapping softly against the shore.\n\nAs the sky begins to dim into evening, temperatures are expected to dip to the upper 20s, encouraging layering for those venturing outside. It\u2019s advisable to don a warm jacket, perhaps paired with a cozy hat, to ward off the chill. Given the current season of winter, these temperatures align with typical expectations for the region, immersing residents and visitors alike in an evocative winter's day. Ideal activities for this subdued weather include a brisk walk along the beach or bundled-up outdoor leisure, taking in the serenity of Lake Michigan's coastal views.",
-    "color_code": "#7D8BAC",
-    "timestamp": "2025-02-03 14:06:14",
-    "icon_url": "https://api.weather.gov/icons/land/day/fog?size=medium"
+    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere with overcast skies, the temperature hovering in the mid-30s. For the evening, expect mostly cloudy skies, with temperatures dipping down to the low 20s but rising slightly overnight. The winds will be brisk, coming from the north, and could gust up to 30 mph, contributing to a biting chill. With no immediate precipitation forecasted, the visibility should remain adequate, though the cloud cover lends to a muted appearance around the lakefront. \n\nAs we head into tomorrow, conditions will offer a sliver of brightness with partly sunny skies; however, expect temperatures to only creep up into the upper 20s before some afternoon cooling sets in. The air will feel quite brisk, suitable for bundled-up layers, perhaps a warm coat and a cozy hat to fend off the chill. Given the season, these temperatures are typical for early February in the Midwest, where cold weather prevails but can often present opportunities for a soothing stroll along the beach or a brisk walk in the nearby parks. Notably, today is not a major holiday, allowing a serene winter evening to unfold, perfect for a quiet retreat or a leisurely evening at home.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-02-03 18:23:10",
+    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
