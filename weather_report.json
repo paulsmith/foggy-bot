@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-03T23:51:00+00:00",
+            "timestamp": "2025-02-04T02:51:00+00:00",
             "temperature_f": 35.06,
             "temperature_c": 1.7,
-            "humidity": 88.477151746126,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "humidity": 78.147164261716,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 360,
             "description": "Cloudy",
             "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
@@ -20,7 +20,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-03T18:00:00-06:00",
+                "startTime": "2025-02-03T22:00:00-06:00",
                 "endTime": "2025-02-04T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 25,
@@ -31,10 +31,10 @@
                     "value": null
                 },
                 "windSpeed": "15 mph",
-                "windDirection": "N",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 25, with temperatures rising to around 28 overnight. North wind around 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly cloudy. Low around 25, with temperatures rising to around 28 overnight. North northwest wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -51,14 +51,14 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 28, with temperatures falling to around 26 in the afternoon. North wind around 15 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/snow?size=medium",
+                "shortForecast": "Partly Sunny then Slight Chance Snow",
+                "detailedForecast": "A slight chance of snow after 6am. Partly sunny. High near 28, with temperatures falling to around 26 in the afternoon. North wind around 15 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere with overcast skies, the temperature hovering in the mid-30s. For the evening, expect mostly cloudy skies, with temperatures dipping down to the low 20s but rising slightly overnight. The winds will be brisk, coming from the north, and could gust up to 30 mph, contributing to a biting chill. With no immediate precipitation forecasted, the visibility should remain adequate, though the cloud cover lends to a muted appearance around the lakefront. \n\nAs we head into tomorrow, conditions will offer a sliver of brightness with partly sunny skies; however, expect temperatures to only creep up into the upper 20s before some afternoon cooling sets in. The air will feel quite brisk, suitable for bundled-up layers, perhaps a warm coat and a cozy hat to fend off the chill. Given the season, these temperatures are typical for early February in the Midwest, where cold weather prevails but can often present opportunities for a soothing stroll along the beach or a brisk walk in the nearby parks. Notably, today is not a major holiday, allowing a serene winter evening to unfold, perfect for a quiet retreat or a leisurely evening at home.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-02-03 18:23:10",
+    "weather_report": "In Evanston, the current conditions are marked by a chill in the air as temperatures hover in the mid-30s, accompanied by a blustery wind that creates a biting feel outside. The cloudy sky adds to an overall somber atmosphere, which, combined with the high wind speeds, may deter those who aren\u2019t prepared for a brisk outing. As we look ahead, expect a similarly cool night with temperatures dipping into the mid-20s, though they'll rise slightly as the night progresses. Tomorrow brings a slight chance of snow, particularly in the morning, while skies will show some breaks, allowing for partly sunny moments. Temperatures will again struggle, peaking around 28, and accompanied by a steady north wind.\n\nWave conditions along Lake Michigan could likely be choppy given the wind's intensity, making this an unattractive day for water activities. Dress warmly, layering up to fend off the cold and wind\u2014think insulated jackets, hats, and gloves. As we are in February, these temperatures are typical for the Midwest during winter, reinforcing that you should definitely expect cold, wintry conditions in this region at this time of year. Outdoor activities will be limited, but those seeking fresh air might enjoy a brisk walk along the beach, provided they bundle up against the chill.",
+    "color_code": "#A0B3C8",
+    "timestamp": "2025-02-03 22:06:59",
     "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
