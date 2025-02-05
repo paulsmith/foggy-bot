@@ -2,7 +2,7 @@ name: Hourly Evanston Weather Update
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Run every hour
+    - cron: '0 */4 * * *'  # Run every 4 hours
   workflow_dispatch:      # Allow manual triggers
 
 jobs:
