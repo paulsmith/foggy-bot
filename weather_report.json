@@ -20,7 +20,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2025-02-05T13:00:00-06:00",
+                "startTime": "2025-02-05T14:00:00-06:00",
                 "endTime": "2025-02-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -34,7 +34,7 @@
                 "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 33, with temperatures falling to around 30 in the afternoon. East southeast wind around 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Cloudy. High near 33, with temperatures falling to around 31 in the afternoon. East southeast wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -42,7 +42,7 @@
                 "startTime": "2025-02-05T18:00:00-06:00",
                 "endTime": "2025-02-06T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 30,
+                "temperature": 29,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -51,14 +51,14 @@
                 },
                 "windSpeed": "5 to 15 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,60?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/ovc,80/ovc,60?size=medium",
                 "shortForecast": "Freezing Drizzle",
-                "detailedForecast": "A chance of freezing drizzle before 7pm, then freezing drizzle and a slight chance of snow between 7pm and 5am. Cloudy. Low around 30, with temperatures rising to around 32 overnight. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. Little or no ice accumulation expected."
+                "detailedForecast": "Freezing drizzle before 5am. Cloudy. Low around 29, with temperatures rising to around 31 overnight. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. Little or no ice accumulation expected."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere with temperatures lingering in the upper 20s, accompanied by a brisk wind that adds to the sharpness of the day. The skies are overcast, fostering a somewhat dreary ambiance as the day progresses. As we look ahead, the weather forecast indicates a continued cloudy day, with temperatures peaking just shy of freezing, settling around the low 30s by afternoon. The winds will shift to a gentler breeze from the east southeast, creating a somewhat less biting chill. \n\nAs darkness falls, there\u2019s a notable chance of freezing drizzle, turning the landscape slick, particularly around the time of the evening commute. With a high probability of precipitation, albeit minimal ice accumulation expected, those venturing outside should prepare for damp conditions. Dressing warmly is advisable, ideally with layers to combat the coolness, along with waterproof footwear if you plan on being outdoors. Given that it\u2019s early February in the Midwest, this weather aligns well with the expected seasonal chill, typical of winter in this region. Despite the bleak weather, outdoor enthusiasts might consider brief excursions; perhaps a brisk walk along the lakeshore, appreciating the rugged beauty of winter on Lake Michigan, keeping a cautious eye on the forecasted slick conditions.",
-    "color_code": "#B5B9B8",
-    "timestamp": "2025-02-05 13:38:06",
+    "weather_report": "Current conditions in Evanston paint a wintry picture, with temperatures hovering in the mid 20s and a blustery wind whipping from the east. The air feels rather brisk, lending an almost biting chill to the day as clouds blanket the sky, creating a muted ambiance. As we look ahead, this afternoon promises similar cloudiness, with highs approaching the low 30s. However, the real story lies in the forecast for tonight, which anticipates freezing drizzle before dawn, raising the potential for slick conditions. There\u2019s an 80% chance of precipitation, but little to no ice accumulation is expected.\n\nGiven the current season, these temperatures are typical for early February in the Midwest, and the wave conditions on Lake Michigan are likely choppy, matching the howling gusts forecasted. If you venture outside, a warm jacket, hat, and gloves are essential attire, particularly with the wind chill making it feel colder. While outdoor activities might be limited to brisk walks, be cautious of potential ice as the day progresses. As it\u2019s not a holiday today, but with more wintery weather ahead, it may be a good time to prepare for upcoming warmer months.",
+    "color_code": "#A9B0B1",
+    "timestamp": "2025-02-05 14:07:21",
     "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
