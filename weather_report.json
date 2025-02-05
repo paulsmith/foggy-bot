@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-05T10:51:00+00:00",
+            "timestamp": "2025-02-05T14:51:00+00:00",
             "temperature_f": 26.96,
             "temperature_c": -2.8,
-            "humidity": 68.455685141767,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 60,
+            "humidity": 65.851373117086,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 90,
             "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-05T06:00:00-06:00",
+                "startTime": "2025-02-05T09:00:00-06:00",
                 "endTime": "2025-02-05T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -31,10 +31,10 @@
                     "value": 20
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "E",
+                "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/day/snow,20/ovc?size=medium",
                 "shortForecast": "Slight Chance Light Snow then Cloudy",
-                "detailedForecast": "A slight chance of snow between 9am and noon. Cloudy. High near 33, with temperatures falling to around 30 in the afternoon. East wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of snow before noon. Cloudy. High near 33, with temperatures falling to around 30 in the afternoon. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "This morning in Evanston, the weather is decidedly brisk with temperatures hovering in the mid-20s and a noticeable chill brought on by a blustery wind, which is pushing from the east. The overcast skies blanket the area, creating a somewhat somber but characteristic winter ambiance. As the day unfolds, there is a slight chance of snow early on, followed by cloudy conditions and a gradual warming trend, with highs reaching into the low 30s later in the afternoon. \n\nPrecipitation is more likely tonight with an 80% chance of freezing drizzle, possibly accompanied by some snow as the temperatures rise slightly towards the evening. Given the current season, these temperatures are typical for early February in the Midwest, and residents are advised to dress warmly. Layers are essential today; a sturdy winter coat, gloves, and a hat will go a long way in combating the wind chill. As for activities, outdoor pursuits may be limited, but for those willing, a brisk walk along the waterfront or a visit to local cafes may be just the ticket to enjoy a taste of winter's charm.",
-    "color_code": "#A0B0B3",
-    "timestamp": "2025-02-05 06:09:21",
-    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+    "weather_report": "Current conditions in Evanston reflect a chilly scene, with temperatures resting in the mid 20s, complemented by a blustery wind stirring up the shoreline and creating a noticeable chill in the air. The day remains overcast, with clouds casting a muted tone over the landscape. As we look ahead, today is predicted to bring a slight chance of snow before noon, giving way to a high near the low 30s in the afternoon, when a gentle east-southeast breeze will replace the current winds. Tonight, residents can expect a significant chance of freezing drizzle, shifting to light snow, adding to the wintery ambience with temperatures settling around the low 30s.\n\nGiven the current brisk conditions and impending precipitation, dressing warmly is advisable\u2014layering up with a winter coat, a hat, and sturdy gloves is recommended to stave off the cold. The wave conditions along Lake Michigan could be a bit wild today, influenced by the gusty winds, so it\u2019s best to remain cautious if venturing to the beach. Though it\u2019s a bleak winter day in the Chicago area, activities may still be enjoyed indoors\u2014perhaps a warm drink while reading or visiting local art galleries would provide a cozy alternative to the winter weather. As February unfolds, this chilly forecast captures the essence of a Midwest winter, with conditions typical for this time of year, but not without its enchanting, albeit frosty, charm.",
+    "color_code": "#A1B2C3",
+    "timestamp": "2025-02-05 10:06:34",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
