@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-04T19:03:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 65.595209439964,
+            "timestamp": "2025-02-04T23:51:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 64.820717512787,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-04T14:00:00-06:00",
-                "endTime": "2025-02-04T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
-                "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers. Mostly cloudy. High near 30, with temperatures falling to around 28 in the afternoon. North northeast wind 10 to 15 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-04T18:00:00-06:00",
                 "endTime": "2025-02-05T06:00:00-06:00",
@@ -53,12 +34,31 @@
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/snow,20/ovc?size=medium",
                 "shortForecast": "Chance Snow Showers then Cloudy",
-                "detailedForecast": "A chance of snow showers and a slight chance of snow before midnight. Cloudy. Low around 25, with temperatures rising to around 28 overnight. Northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A chance of snow showers and a slight chance of snow before midnight. Cloudy, with a low around 25. Northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-02-05T06:00:00-06:00",
+                "endTime": "2025-02-05T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 32,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "ESE",
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,40?size=medium",
+                "shortForecast": "Chance Snow",
+                "detailedForecast": "A chance of snow after 7am. Cloudy. High near 32, with temperatures falling to around 30 in the afternoon. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "As we step into this early February afternoon in Evanston, the temperature rests in the mid 20s, offering a well-chilled atmosphere that is accentuated by a damp coolness in the air. The sky hangs low, cloaked in clouds, subtly hinting at the possibility of light snow showers later. While the day may be cloudy, the piercing chill provides a refreshing bite that reminds us the season is still very much winter. Wave conditions on Lake Michigan are moderately active, reflecting the gusty northeast winds that will emerge as the day progresses, potentially reaching speeds of 10 to 15 mph.\n\nThe forecast suggests a chance of snow showers this afternoon, but the expected accumulation will likely be light, as the chances for persistent precipitation remain low. For the evening, temperatures will hover around the mid 20s but are expected to rise slightly overnight, providing a whisper of warmth amid the continuing cloudiness. With these conditions in mind, it's advisable to dress warmly\u2014layers, a sturdy coat, and a hat will provide the necessary comfort to navigate this brisk day. Given the chilly and slightly dreary weather, outdoor activities may be best reserved for those eager to enjoy a brisk walk along the beach or moments by the water's edge, taking in the stark beauty of winter\u2019s grip on the Great Lakes.",
-    "color_code": "#A6B7B2",
-    "timestamp": "2025-02-04 14:06:14",
-    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+    "weather_report": "As evening settles over Evanston, current conditions present a cold, crisp atmosphere with temperatures in the low 20s and a gentle cloud cover above. The air feels decidedly brisk with a moisture-laden chill, making it a stark reminder of winter's firm grip on the region. Looking ahead, tonight's forecast anticipates the possibility of light snow showers as temperatures dip to around the mid-20s, complemented by a northeast breeze that adds a touch of bite. A mere 20% chance of precipitation indicates that any accumulation will be minimal, likely just enough to coat the ground in a fleeting white dusting.\n\nOn Wednesday, the skies will remain predominantly cloudy with a higher chance of snow in the morning hours, setting the scene for a chilly day as temperatures creep up to the low 30s before retreating slightly by afternoon. Given these frigid temperatures and the looming cloud cover, anyone venturing outside should dress warmly in layers, perhaps donning a cozy hat and gloves for comfort against the cold. Wave conditions along the lakeshore are likely moderate, with an unsettled demeanor mirrored in the sky above. As February unfolds, such wintry weather is typical for the region; it\u2019s a time to embrace indoor activities, perhaps cozying up with a good book or enjoying a warm beverage as the world outside transforms under a veil of clouds.",
+    "color_code": "#A4B0C7",
+    "timestamp": "2025-02-04 18:23:26",
+    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
