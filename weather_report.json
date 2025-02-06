@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-05T18:51:00+00:00",
-            "temperature_f": 28.94,
-            "temperature_c": -1.7,
-            "humidity": 63.112421174214,
+            "timestamp": "2025-02-05T22:51:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 60.394650155608,
             "wind_speed_mph": 41.07132,
-            "wind_direction": 80,
+            "wind_direction": 100,
             "description": "Cloudy",
             "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-05T14:00:00-06:00",
-                "endTime": "2025-02-05T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 33,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "ESE",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 33, with temperatures falling to around 31 in the afternoon. East southeast wind around 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-05T18:00:00-06:00",
                 "endTime": "2025-02-06T06:00:00-06:00",
@@ -54,11 +35,30 @@
                 "icon": "https://api.weather.gov/icons/land/night/ovc,80/ovc,60?size=medium",
                 "shortForecast": "Freezing Drizzle",
                 "detailedForecast": "Freezing drizzle before 5am. Cloudy. Low around 29, with temperatures rising to around 31 overnight. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. Little or no ice accumulation expected."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-02-06T06:00:00-06:00",
+                "endTime": "2025-02-06T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 40,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 20 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 40, with temperatures falling to around 36 in the afternoon. West southwest wind 10 to 20 mph, with gusts as high as 35 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a wintry picture, with temperatures hovering in the mid 20s and a blustery wind whipping from the east. The air feels rather brisk, lending an almost biting chill to the day as clouds blanket the sky, creating a muted ambiance. As we look ahead, this afternoon promises similar cloudiness, with highs approaching the low 30s. However, the real story lies in the forecast for tonight, which anticipates freezing drizzle before dawn, raising the potential for slick conditions. There\u2019s an 80% chance of precipitation, but little to no ice accumulation is expected.\n\nGiven the current season, these temperatures are typical for early February in the Midwest, and the wave conditions on Lake Michigan are likely choppy, matching the howling gusts forecasted. If you venture outside, a warm jacket, hat, and gloves are essential attire, particularly with the wind chill making it feel colder. While outdoor activities might be limited to brisk walks, be cautious of potential ice as the day progresses. As it\u2019s not a holiday today, but with more wintery weather ahead, it may be a good time to prepare for upcoming warmer months.",
-    "color_code": "#A9B0B1",
-    "timestamp": "2025-02-05 14:07:21",
+    "weather_report": "In Evanston, temperatures are currently hovering in the low 30s, creating a chilly atmosphere that feels distinctly crisp against the breeze. There's a robust wind, adding a bite to the air, and the sky is draped in a thick layer of clouds. Tonight, expect freezing drizzle before daybreak, with temperatures slipping just below freezing, then gradually rising to the low 30s as the night progresses. Winds will calm somewhat, shifting to a gentler breeze from the south, yet a notable chance of precipitation looms at 80%. \n\nTomorrow, conditions will brighten significantly, revealing mostly sunny skies and temperatures climbing to the high 30s by the afternoon. Given the winter season, these temperatures are typical for this time of year. The beach may appear uninviting given the current weather, but tomorrow\u2019s clearer skies will allow for more appealing outdoor activities. Dress warmly, donning layers and a sturdy jacket to combat the chill and the dampness expected tonight. The forecast suggests minimal ice accumulation, yet some caution is advised if venturing out near the water.",
+    "color_code": "#5C8DFF",
+    "timestamp": "2025-02-05 18:23:41",
     "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
