@@ -7,34 +7,34 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-06T11:27:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 92.231773547128,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 280,
-            "description": "Fog/Mist",
-            "icon": "https://api.weather.gov/icons/land/night/fog?size=medium"
+            "timestamp": "2025-02-06T14:51:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 81.956010988439,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-06T06:00:00-06:00",
+                "startTime": "2025-02-06T10:00:00-06:00",
                 "endTime": "2025-02-06T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 40,
+                "temperature": 38,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 25 mph",
+                "windSpeed": "15 to 25 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/fog/wind_bkn?size=medium",
-                "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog before 9am. Partly sunny. High near 40, with temperatures falling to around 37 in the afternoon. West wind 10 to 25 mph, with gusts as high as 40 mph."
+                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 38, with temperatures falling to around 36 in the afternoon. West wind 15 to 25 mph, with gusts as high as 40 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "An early morning in Evanston reveals a chilly scene, with temperatures hovering in the low 30s. The air is dense and damp, giving life to a thick fog that looms over the beach, obscuring visibility and lending a mysterious atmosphere. Winds are brisk and howling from the west, creating a sharp contrast against the stillness of the water, which may lead to choppy conditions on Lake Michigan.\n\nLooking ahead to the day, a shift is expected. The fog will likely dissipate before 9 a.m., making way for partly sunny skies as temperatures creep towards the high 30s by afternoon. However, as the day progresses, the temperature will begin to decline, ushering in a much colder night with lows around 19. Winds will remain fierce, gusting up to 45 mph, so the air will feel even colder than the thermometer suggests. \n\nIn terms of attire, it's advisable to bundle up in layers, including a warm coat, hat, and perhaps a scarf to shield against the biting wind. With the current season being winter, these conditions are typical for Evanston, prompting a recommendation for indoor activities. A visit to a local caf\u00e9 or cozy library might be enjoyable, as would a stroll along the path if you're prepared for the elements. Today is just another ordinary Tuesday in February, without any major holiday on the horizon.",
-    "color_code": "#4A90E2",
-    "timestamp": "2025-02-06 06:09:20",
-    "icon_url": "https://api.weather.gov/icons/land/night/fog?size=medium"
+    "weather_report": "Today in Evanston, the atmosphere hangs in a chilly embrace, with current temperatures dipping into the low 30s, beneath a canopy of clouds. The air feels damp yet faintly crisp, inviting warm layers to shield against the cold. As the day transitions, temperatures are expected to edge towards the high 30s in the afternoon, giving way to blustery west winds that will gust fiercely, stirring the waters of Lake Michigan as well. Tonight promises a drop into the teens, but the cloud cover will begin to clear, allowing for a more open night sky.\n\nWith no precipitation currently in the mix, the scene at the beach might be relatively calm, although the churning waves hint at the turbulent winds to come. Those venturing outdoors are advised to dress warmly\u2014think heavy coats, scarves, and perhaps a hat, especially with the wild gusts that may sweep through. For this time of year, temperatures are right on the edge of typical for February in the Midwest, where the chill is often a familiar companion. It\u2019s an ideal moment for indoor pursuits or a brisk walk along the lakefront, soaking in the winter scenery while thoughtfully bundled up against the cold.",
+    "color_code": "#A5A9AD",
+    "timestamp": "2025-02-06 10:05:43",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
