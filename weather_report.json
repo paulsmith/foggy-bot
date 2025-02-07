@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-07T10:51:00+00:00",
+            "timestamp": "2025-02-07T14:51:00+00:00",
             "temperature_f": 19.939999999999998,
             "temperature_c": -6.7,
-            "humidity": 47.201966183446,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 300,
-            "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+            "humidity": 49.201831865719,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 260,
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-07T06:00:00-06:00",
+                "startTime": "2025-02-07T10:00:00-06:00",
                 "endTime": "2025-02-07T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 30. West southwest wind 5 to 10 mph."
+                "detailedForecast": "Partly sunny, with a high near 30. West southwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -49,16 +49,16 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "0 to 10 mph",
-                "windDirection": "SSE",
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 26, with temperatures rising to around 29 overnight. South southeast wind 0 to 10 mph."
+                "detailedForecast": "Mostly cloudy. Low around 26, with temperatures rising to around 29 overnight. Southeast wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "This morning in Evanston, conditions are chilly, with temperatures hovering in the low 20s and a noticeable breeze making it feel even cooler. The sky is mostly cloudy, casting a grayish hue over the landscape, and while the winds howl from the northwest, temperatures are expected to rise a bit throughout the day as we anticipate a high approaching the upper 20s. Tonight will bring more cloud cover, with the thermometer settling around the mid-20s, accompanied by a gentle south-southeast wind.\n\nWave conditions on Lake Michigan may be lively, given the current wind speeds, but precipitation appears to be absent from the forecast, lending a dry feel to the day's activities. Those venturing outdoors should dress warmly, donning layers, a sturdy coat, and a hat to keep the chill at bay. As winter grips the region, this weather aligns closely with what one might expect during early February in the Midwest. Given the current conditions, a brisk stroll along the beach or cozy indoor activities would suit the day well, as it provides an opportunity to enjoy the local scenery while staying warm.",
-    "color_code": "#AFAFAF",
-    "timestamp": "2025-02-07 06:09:15",
-    "icon_url": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+    "weather_report": "Current weather conditions in Evanston are quite chilly, with the temperature hovering in the low 20s, accompanied by a brisk and blustery wind that adds a biting edge to the air. The atmosphere is largely overcast, lending a gray hue to the surroundings, where hints of sunlight may struggle to break through the cloud cover. Today's forecast expects a shift to partly sunny skies as the day progresses, reaching a high near the freezing point. Tonight, the sky will remain mostly cloudy with temperatures gently rising as the evening unfolds.\n\nAs for the waves lapping against the shores of Lake Michigan, they are moderate, whipped into a gentle froth by the wind, which creates a picturesque, albeit brisk setting by the beach. With the likelihood of dry conditions throughout the day, attire should lean toward layered warm clothing, perhaps including a windbreaker to combat the chill, along with a scarf and gloves for added comfort. This mid-winter day is reflective of the typical climate for the season here in the Midwest, making it ideal for bundling up and enjoying a stroll along the beach or visiting one of the nearby parks, provided one is well-prepared for the conditions.",
+    "color_code": "#A6B1B2",
+    "timestamp": "2025-02-07 10:06:25",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
