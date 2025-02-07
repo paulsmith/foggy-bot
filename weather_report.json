@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-07T02:51:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 55.906984624856,
-            "wind_speed_mph": 66.03624,
-            "wind_direction": 270,
+            "timestamp": "2025-02-07T05:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 36.660486379698,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Clear",
             "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-06T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-02-07T02:00:00-06:00",
                 "endTime": "2025-02-07T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 19,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 25 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 19. West northwest wind 10 to 25 mph, with gusts as high as 45 mph."
+                "detailedForecast": "Partly cloudy, with a low around 19. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -42,7 +42,7 @@
                 "startTime": "2025-02-07T06:00:00-06:00",
                 "endTime": "2025-02-07T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 31,
+                "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,13 +52,13 @@
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 31, with temperatures falling to around 29 in the afternoon. West southwest wind 5 to 10 mph."
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 30. West southwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a brisk and unnaturally cold evening for early February, with the temperature settling in the low 30s. The air feels sharp, underscored by a blustery wind, which roars in from the west at a wild pace. Clear skies add to the sharpness of the evening, but watch for the night to bring increasing cloud cover as temperatures plummet to a chilling low of around 19. Tomorrow's forecast presents a day filled with mostly cloudy skies, as temperatures struggle to reach the low 30s, bringing a stark contrast to the previous clear day.\n\nThe beach scene may be stark and uninviting, reflecting the biting cold and lack of direct warmth from the sun, particularly along Lake Michigan where the wind swells might lean towards fierce. No precipitation is expected, ensuring a dry, albeit uncomfortable, outdoor experience in the biting cold. Given the seasonal chill typical of the area, layering is crucial\u2014warm coats, hats, and gloves will be necessary for any brief forays outside. The current temperatures fall into that distinctly winter range, providing a true feel of the season in the midwestern United States. Ideal activities might include staying cozy indoors or perhaps a brisk winter walk in the late afternoon, but venture wisely, as the wind may compel even the heartiest souls to retreat indoors early.",
-    "color_code": "#A1C6B8",
-    "timestamp": "2025-02-06 22:06:39",
+    "weather_report": "Current conditions in Evanston are quite brisk, with temperatures hovering in the mid to upper 20s, creating a sharp chill in the air that can feel especially stinging against the skin. The skies are clear, illuminating the snow-frosted landscape, though one can expect a shift overnight as the forecast indicates partly cloudy skies will develop, with temperatures dipping down to around 19 degrees. A light yet blustery northwest wind will accompany these cooler conditions, gusting up to 25 mph. Tomorrow, expect a slight warming trend, with partly sunny skies and temperatures inching toward the low 30s.\n\nAs for the beach, conditions appear to be a bit rough, with likely noticeable wave activity along the shore, driven by the breezy winds. There is no precipitation forecasted, which offers a reprieve from the gloomy winter weather. With the chilly air, it is advisable to dress warmly: layering up with a good winter coat, gloves, and a hat will be essential for comfort if venturing outside. These temperatures are typical for February in this region, aligning with the seasonal chill that defines winter here. Taken together, it presents a day better suited for indoor activities. \n\nFor those who feel adventurous, a brisk walk along the shoreline could be invigorating, yet the biting wind might deter prolonged exposure. Given the time of year and the absence of significant holidays or events on this date, focus might also lean towards cozy indoor pursuits as the week progresses.",
+    "color_code": "#A1A3B2",
+    "timestamp": "2025-02-07 02:07:32",
     "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
