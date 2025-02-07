@@ -7,23 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-06T22:51:00+00:00",
-            "temperature_f": 35.96,
-            "temperature_c": 2.2,
-            "humidity": 56.338368351444,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+            "timestamp": "2025-02-07T02:51:00+00:00",
+            "temperature_f": 33.08,
+            "temperature_c": 0.6,
+            "humidity": 55.906984624856,
+            "wind_speed_mph": 66.03624,
+            "wind_direction": 270,
+            "description": "Clear",
+            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-06T18:00:00-06:00",
+                "startTime": "2025-02-06T22:00:00-06:00",
                 "endTime": "2025-02-07T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 17,
+                "temperature": 19,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -34,7 +34,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 17. West northwest wind 10 to 25 mph, with gusts as high as 45 mph."
+                "detailedForecast": "Partly cloudy, with a low around 19. West northwest wind 10 to 25 mph, with gusts as high as 45 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere with temperatures hovering in the mid 30s, accompanied by a pleasantly cool overcast sky. Clouds hang low over the beach, creating a muted palette that adds to the winter ambiance, yet the air remains crisp, inviting those dressed appropriately to enjoy the outdoors. Tonight, expect the temperatures to plummet, dipping to the teens under partly cloudy skies, with a fierce wind sweeping in, potentially making it feel even colder. \n\nThe day ahead promises to be mostly cloudy, with the high reaching just around 30, gradually falling throughout the afternoon. Wave conditions on Lake Michigan may echo the coolness in the air, likely producing moderate to choppy water as the winds pick up. No precipitation is expected, giving a clear reprieve to those wishing to take a stroll along the shoreline. It\u2019s wise to bundle up in layers, donning a sturdy coat, gloves, and a hat to combat the blustery chill. Given the current season, temperatures are fairly typical for early February in this region, steering clear of extremes, allowing for activities like brisk walks or simple, quiet moments on the beach, perhaps even a chance to gather shells or observe the winter's quiet beauty.",
-    "color_code": "#A4B7C1",
-    "timestamp": "2025-02-06 18:23:41",
-    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+    "weather_report": "Current conditions in Evanston reveal a brisk and unnaturally cold evening for early February, with the temperature settling in the low 30s. The air feels sharp, underscored by a blustery wind, which roars in from the west at a wild pace. Clear skies add to the sharpness of the evening, but watch for the night to bring increasing cloud cover as temperatures plummet to a chilling low of around 19. Tomorrow's forecast presents a day filled with mostly cloudy skies, as temperatures struggle to reach the low 30s, bringing a stark contrast to the previous clear day.\n\nThe beach scene may be stark and uninviting, reflecting the biting cold and lack of direct warmth from the sun, particularly along Lake Michigan where the wind swells might lean towards fierce. No precipitation is expected, ensuring a dry, albeit uncomfortable, outdoor experience in the biting cold. Given the seasonal chill typical of the area, layering is crucial\u2014warm coats, hats, and gloves will be necessary for any brief forays outside. The current temperatures fall into that distinctly winter range, providing a true feel of the season in the midwestern United States. Ideal activities might include staying cozy indoors or perhaps a brisk winter walk in the late afternoon, but venture wisely, as the wind may compel even the heartiest souls to retreat indoors early.",
+    "color_code": "#A1C6B8",
+    "timestamp": "2025-02-06 22:06:39",
+    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
