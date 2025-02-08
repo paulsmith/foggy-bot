@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-08T10:51:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 60.394650155608,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2025-02-08T14:51:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 51.173327432051,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 100,
             "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-08T06:00:00-06:00",
+                "startTime": "2025-02-08T10:00:00-06:00",
                 "endTime": "2025-02-08T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 70
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,40/snow,60?size=medium",
-                "shortForecast": "Slight Chance Snow then Freezing Drizzle Likely",
-                "detailedForecast": "A slight chance of snow and a slight chance of freezing drizzle between 10am and 11am, then freezing drizzle likely and a chance of snow and a chance of drizzle between 11am and 4pm, then snow likely and freezing drizzle likely and a slight chance of drizzle. Cloudy, with a high near 33. East northeast wind 10 to 15 mph. Chance of precipitation is 60%. Little or no ice accumulation expected."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/snow_fzra,70?size=medium",
+                "shortForecast": "Cloudy then Freezing Rain Likely",
+                "detailedForecast": "Freezing rain likely between noon and 3pm, then freezing rain likely and a chance of rain between 3pm and 4pm, then freezing rain likely and a chance of rain and snow between 4pm and 5pm, then a chance of snow and a chance of freezing rain. Cloudy, with a high near 33. East northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. Little or no ice accumulation expected."
             },
             {
                 "number": 2,
@@ -53,12 +53,12 @@
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,30/bkn?size=medium",
                 "shortForecast": "Chance Snow then Mostly Cloudy",
-                "detailedForecast": "A chance of snow before midnight. Mostly cloudy. Low around 23, with temperatures rising to around 25 overnight. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "A chance of snow and a chance of freezing drizzle before midnight. Mostly cloudy. Low around 23, with temperatures rising to around 25 overnight. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, the morning presents a chilly and overcast scene, with current temperatures hovering in the low 30s. The air feels brisk, as the mix of cold temperatures and a touch of moisture adds a bite to the atmosphere. Today's forecast hints at a possibility of snow and freezing drizzle at intervals throughout the day, leading to a high near the mid-30s. The weather will remain cloudy, accompanied by a gentle east-northeast breeze that may stir the air, bringing a slight chill to anyone venturing outside.\n\nWave conditions along the lakeshore are likely to be moderate, with the churning waters reflecting the day's chilliness. Anyone looking to enjoy outdoor activities should dress warmly in layers, as temperatures will dip to around the low 20s tonight. Given that today is an ordinary day without any significant holidays or events, it may be best to plan indoor activities, perhaps a visit to a local caf\u00e9 or a day of reading by the fire, as the forecast suggests a mix of precipitation could make the outdoors less inviting.",
-    "color_code": "#AAB8C5",
-    "timestamp": "2025-02-08 06:08:19",
-    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+    "weather_report": "Evanston, Illinois is currently experiencing a chilly day, with temperatures hovering around the low 30s and a brisk wind giving it a biting feel. The atmosphere is dominated by thick clouds, and the air is palpable with an impending sense of precipitation. This morning, the wind gusts are strong, contributing to an overall sense of winter's grip. As the day progresses, expect a series of wintry conditions: likely freezing rain from midday transitioning into a mix of rain and snow later in the afternoon. Though the high may barely inch upward to 33, little ice accumulation is anticipated, aligning with the day's fluid, drizzly demeanor.\n\nTonight, conditions will remain mostly cloudy, and with nighttime temperatures slipping to the low 20s, residents should prepare for a potentially icy scene. The wind will continue its blustery presence, making it feel even colder. Given the current wintry weather and the overcast skies, it's advisable to bundle up in warm layers, perhaps opting for insulated jackets, hats, and gloves if stepping outside. While outdoor activities may be limited to brief strolls or necessary errands, it's a good day for cozy indoor pursuits, reflecting on the winter season's persistence as it settles over this lakeside region.",
+    "color_code": "#A5C8DE",
+    "timestamp": "2025-02-08 10:05:40",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
