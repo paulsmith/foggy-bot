@@ -7,23 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-08T14:51:00+00:00",
+            "timestamp": "2025-02-08T18:58:00+00:00",
             "temperature_f": 32.0,
             "temperature_c": 0,
-            "humidity": 51.173327432051,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 100,
+            "humidity": 63.523890978545,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 70,
             "description": "Cloudy",
             "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-08T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-08T14:00:00-06:00",
                 "endTime": "2025-02-08T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 33,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -31,10 +31,10 @@
                     "value": 70
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/day/ovc/snow_fzra,70?size=medium",
-                "shortForecast": "Cloudy then Freezing Rain Likely",
-                "detailedForecast": "Freezing rain likely between noon and 3pm, then freezing rain likely and a chance of rain between 3pm and 4pm, then freezing rain likely and a chance of rain and snow between 4pm and 5pm, then a chance of snow and a chance of freezing rain. Cloudy, with a high near 33. East northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. Little or no ice accumulation expected."
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
+                "shortForecast": "Snow Likely",
+                "detailedForecast": "Freezing drizzle likely before 4pm, then snow likely and freezing drizzle likely. Cloudy. High near 34, with temperatures falling to around 32 in the afternoon. Northeast wind around 10 mph. Chance of precipitation is 70%. Little or no ice accumulation expected."
             },
             {
                 "number": 2,
@@ -42,7 +42,7 @@
                 "startTime": "2025-02-08T18:00:00-06:00",
                 "endTime": "2025-02-09T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 23,
+                "temperature": 24,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -51,14 +51,14 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30/bkn?size=medium",
-                "shortForecast": "Chance Snow then Mostly Cloudy",
-                "detailedForecast": "A chance of snow and a chance of freezing drizzle before midnight. Mostly cloudy. Low around 23, with temperatures rising to around 25 overnight. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/snow,20?size=medium",
+                "shortForecast": "Chance Freezing Drizzle",
+                "detailedForecast": "A chance of freezing drizzle and scattered snow showers before 2am. Mostly cloudy. Low around 24, with temperatures rising to around 26 overnight. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "Evanston, Illinois is currently experiencing a chilly day, with temperatures hovering around the low 30s and a brisk wind giving it a biting feel. The atmosphere is dominated by thick clouds, and the air is palpable with an impending sense of precipitation. This morning, the wind gusts are strong, contributing to an overall sense of winter's grip. As the day progresses, expect a series of wintry conditions: likely freezing rain from midday transitioning into a mix of rain and snow later in the afternoon. Though the high may barely inch upward to 33, little ice accumulation is anticipated, aligning with the day's fluid, drizzly demeanor.\n\nTonight, conditions will remain mostly cloudy, and with nighttime temperatures slipping to the low 20s, residents should prepare for a potentially icy scene. The wind will continue its blustery presence, making it feel even colder. Given the current wintry weather and the overcast skies, it's advisable to bundle up in warm layers, perhaps opting for insulated jackets, hats, and gloves if stepping outside. While outdoor activities may be limited to brief strolls or necessary errands, it's a good day for cozy indoor pursuits, reflecting on the winter season's persistence as it settles over this lakeside region.",
-    "color_code": "#A5C8DE",
-    "timestamp": "2025-02-08 10:05:40",
+    "weather_report": "The current weather in Evanston is distinctly chilly, with temperatures hovering in the low 30s and a brisk, howling wind enhancing the sensation of cold. Visibility is limited under thick cloud cover, creating a muted appearance throughout the landscape, particularly along Lake Michigan. The forecast for this afternoon signals potential freezing drizzle, transitioning to snow likely, which hints at a rather wintry scene ahead, matching the stark winter aesthetic of early February.\n\nLooking ahead, temperatures will stay around freezing, dipping further into the night with lows in the mid-20s. Expect sporadic chances of freezing drizzle and light snow before dawn, which may result in some slick spots. As for attire, layering is essential; a sturdy winter coat, gloves, and a warm hat are recommended to combat the biting chill. With the temperatures typical for this season in the Midwest, conditions may not be ideal for outdoor activities\u2014though a brisk walk along the beach could still offer a refreshing break, just be cautious of slippery surfaces. As we\u2019re deep into February, the season's cold grip continues to remind us that winter is far from over.",
+    "color_code": "#A7B2B8",
+    "timestamp": "2025-02-08 14:05:33",
     "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
