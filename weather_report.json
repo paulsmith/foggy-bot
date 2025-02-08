@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-07T22:51:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 39.210403606034,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 240,
-            "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+            "timestamp": "2025-02-08T02:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 52.831443695114,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-07T18:00:00-06:00",
+                "startTime": "2025-02-07T22:00:00-06:00",
                 "endTime": "2025-02-08T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 28,
@@ -31,10 +31,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "SE",
+                "windDirection": "ESE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. Southeast wind 5 to 10 mph."
+                "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. East southeast wind 5 to 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -47,18 +47,18 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 60
                 },
                 "windSpeed": "5 to 15 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/snow,40/snow,70?size=medium",
-                "shortForecast": "Light Snow Likely",
-                "detailedForecast": "A chance of snow between 10am and 11am, then snow likely and freezing drizzle likely between 11am and 3pm, then freezing drizzle likely and a chance of drizzle. Cloudy, with a high near 33. East wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. Little or no ice accumulation expected."
+                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,60?size=medium",
+                "shortForecast": "Snow Likely",
+                "detailedForecast": "A slight chance of snow between 10am and 11am, then freezing drizzle likely between 11am and 4pm, then snow likely and freezing drizzle likely. Cloudy. High near 33, with temperatures falling to around 31 in the afternoon. East wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. Little or no ice accumulation expected."
             }
         ]
     },
-    "weather_report": "In Evanston, current conditions present a brisk and slightly biting atmosphere with temperatures hovering in the low 30s. The air carries a notable chill, enhanced by a blustery wind blowing from the west, stirring up the waters of Lake Michigan. The day is predominantly overcast, leaving a dreary impression as thick clouds blanket the sky, hinting at the potential for further precipitation.\n\nLooking ahead, the forecast is set to unfold a wintry scene tonight, with temperatures dipping to the upper 20s. As the night progresses, the air will remain stagnant yet steadily cool. Tomorrow brings a chance of snow and freezing drizzle primarily during the late morning, transitioning into a day filled with cloud cover and a high nearing the mid-30s. This forecast suggests that tomorrow\u2019s conditions may also contribute to slippery surfaces, urging caution for any outdoor plans. For those braving the outdoors, dressing warmly in layers, with a sturdy coat and winter accessories like gloves and hats, will be essential to navigate this wintry backdrop. Despite the cold, this time of year is typical for the region, making bundled-up walks along the lakeshore or short outings quite fitting for the season.",
-    "color_code": "#A9B0B5",
-    "timestamp": "2025-02-07 18:22:54",
-    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+    "weather_report": "Current conditions in Evanston reflect a chilly evening, with the temperature hovering in the mid-20s paired with a layer of clouds overhead, creating a gray, muted atmosphere along the lakeshore. The air feels crisp yet slightly humid, making it a quintessential winter night. As the evening progresses, temperatures are expected to rise slightly, reaching the low 30s overnight, with a gentle east southeast breeze that could stir up a bit more chill. \n\nLooking ahead to Saturday, the forecast suggests a mix of freezing drizzle and light snow beginning late in the morning, softening into a potentially messy afternoon. The high will struggle to reach the mid-30s, potentially followed by temperatures falling again, complemented by a blustery east wind that may accentuate the wintry feel. Precipitation is likely, but little or no ice accumulation is anticipated. This chilly weather aligns well with February in Illinois, where cool, often turbulent conditions are the norm. Considering these elements, bundled layers\u2014coats, gloves, and perhaps a hat\u2014are recommended for outdoor activities. While the beach might call to some, caution is advised due to the impending weather. This Saturday doesn't overlay with any major holidays, yet the imminent snowfall could inspire cozy indoor activities or quick outdoor errands before the weather shifts.",
+    "color_code": "#A3B7C3",
+    "timestamp": "2025-02-07 22:06:30",
+    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
