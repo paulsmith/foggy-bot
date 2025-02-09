@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-08T23:38:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 85.003898179532,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 340,
-            "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+            "timestamp": "2025-02-09T03:07:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 72.137811402908,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 300,
+            "description": "Light Snow",
+            "icon": "https://api.weather.gov/icons/land/night/snow?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-08T18:00:00-06:00",
+                "startTime": "2025-02-08T22:00:00-06:00",
                 "endTime": "2025-02-09T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 24,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "NNW",
+                "windSpeed": "15 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,30/snow,20?size=medium",
-                "shortForecast": "Scattered Snow Showers",
-                "detailedForecast": "Scattered snow showers before 2am. Mostly cloudy. Low around 24, with temperatures rising to around 26 overnight. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers before 3am. Mostly cloudy. Low around 24, with temperatures rising to around 26 overnight. Northwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "As the sun begins to sink below the horizon in Evanston, the current conditions paint a chilly picture. With temperatures hovering in the low 30s and a brisk north-northwest wind creating a blustery atmosphere, it feels distinctly cold as winter's grip tightens. Overcast skies lend a muted feel to the day, casting a dim light on the beach that lies at the edge of Lake Michigan. Tonight, expect scattered snow showers before 2 a.m., with a low dipping to around 24, and a chance of light accumulation on the ground.\n\nLooking to tomorrow, the weather holds a promise of partly sunny skies with a high near 29, although it remains uninviting for outdoor activities. The cold air coupled with a gentle breeze may leave one feeling more inclined to stay indoors. The presence of snow showers adds a touch of the winter wonderland, yet the rawness of the cold could deter leisurely outings. Given the overall chill and potential for precipitation, warm layers, hats, and gloves are recommended for anyone braving the elements. While the day itself does not coincide with any major holidays, Valentine's Day approaches swiftly, bringing thoughts of warmth and affection even as temperatures remain firmly on the winter side of the spectrum.",
-    "color_code": "#A9B0B4",
-    "timestamp": "2025-02-08 18:25:19",
-    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+    "weather_report": "Evanston\u2019s current conditions present a chilly scenario, with temperatures hovering in the low 30s and a rather blustery wind sweeping from the northwest at around 40 mph, lending a truly wintry feel to the night. Light snow currently blankets the area, adding a soft layer to the skyline and creating a quiet, serene atmosphere, though the gusty winds may cause a bit of discomfort if one dares to venture outside. As evening settles in, the forecast offers a chance of scattered snow showers into the early hours, with lows dipping to the mid-20s. There\u2019s a slight possibility of new snow accumulation, though manageable.\n\nTomorrow promises a respite from the snow, presenting partly sunny skies and high temperatures barely reaching the upper 20s. The day will bring a breezy chill, suggesting that it may feel colder than the actual temperature. With wave conditions likely moderate due to the preceding gusts, outdoor adventure enthusiasts should tread carefully near the shoreline. Given the current season and the typical climate of the Midwest, these temperatures are consistent with February\u2019s usual cold spell, making warm layers and winter attire essential for any time spent outside. It would be best to bundle up in insulated coats, hats, and scarves, ensuring one is prepared for the brisk conditions. While not ideal for casual outdoor activities, the serene environment lends itself to quiet reflection or a brisk walk along the beach, embraced by the sounds of nature and the soft rustle of wind.",
+    "color_code": "#A5B0B2",
+    "timestamp": "2025-02-08 22:06:25",
+    "icon_url": "https://api.weather.gov/icons/land/night/snow?size=medium"
 }
