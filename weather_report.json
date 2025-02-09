@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-09T14:51:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 61.953298718645,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 300,
-            "description": "Light Snow",
-            "icon": "https://api.weather.gov/icons/land/day/snow?size=medium"
+            "timestamp": "2025-02-09T18:51:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 50.855880516993,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Mostly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-09T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-09T14:00:00-06:00",
                 "endTime": "2025-02-09T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -31,10 +31,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/snow/sct?size=medium",
-                "shortForecast": "Scattered Snow Showers then Mostly Sunny",
-                "detailedForecast": "Scattered snow showers before noon. Mostly sunny, with a high near 29. West northwest wind 5 to 10 mph."
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 29. West wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -42,7 +42,7 @@
                 "startTime": "2025-02-09T18:00:00-06:00",
                 "endTime": "2025-02-10T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 20,
+                "temperature": 19,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -53,12 +53,12 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 20. West wind around 5 mph."
+                "detailedForecast": "Mostly clear, with a low around 19. West wind around 5 mph."
             }
         ]
     },
-    "weather_report": "In Evanston this morning, the air is crisp and cool with a temperature hovering in the low 20s, accompanied by light flurries dusting the ground. As the morning progresses, expect scattered snow showers to taper off by noon, giving way to mostly sunny skies with a high reaching the upper 20s. Winds from the west northwest are gentle, adding a slight chill to the already brisk atmosphere. The day promises a pleasant, though rather nippy, afternoon as the sun breaks through the clouds.\n\nWhile wave conditions along the lake may produce some choppy waters due to the light snowfall earlier, conditions should stabilize as the day unfolds. Those venturing outdoors should opt for warm, layered clothing\u2014perhaps a sturdy winter coat, gloves, and a scarf\u2014to combat the chill. Given the current season and regional climate norms, these temperatures are typical of early February in Illinois. Local activities could include a brisk walk along the shoreline, ideal for enjoying the scenery, though more adventurous spirits may want to stay close to indoor comforts until later in the day, when the sun shines down on Evanston.",
-    "color_code": "#A4B9E1",
-    "timestamp": "2025-02-09 10:05:27",
-    "icon_url": "https://api.weather.gov/icons/land/day/snow?size=medium"
+    "weather_report": "Current weather in Evanston presents a chilly scene, with the temperature hovering in the low 30s, lending a crispness to the air. The overall ambiance is colored by mostly cloudy skies, although residents can look forward to sunshine in the afternoon, with temperatures expected to climb slightly as they approach the high 20s. Winds remain calm, making it a deceptively tranquil February day, with a forecasted gentle westerly breeze making its presence felt later on.\n\nAs for moisture, there are no threats of precipitation today, which bodes well for outdoor plans. The lake, typically restless this time of year, may present modest wave action, inviting those daring enough for a wintry stroll along the shoreline. Attire in layers \u2014 a warm coat, hat, and gloves \u2014 is recommended, ideal for warding off the biting chill associated with winter months in the Midwest. Though today's temperatures are typical for the season, they serve as a reminder of winter\u2019s grip, providing a backdrop for activities like quiet walks along the beach or a hearty evening indoors as the stars begin to peek through the clearing skies.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-02-09 14:05:34",
+    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
 }
