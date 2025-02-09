@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-09T07:12:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 74.620485532806,
+            "timestamp": "2025-02-09T11:07:00+00:00",
+            "temperature_f": 24.98,
+            "temperature_c": -3.9,
+            "humidity": 65.595209439964,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 320,
-            "description": "Light Snow",
-            "icon": "https://api.weather.gov/icons/land/night/snow?size=medium"
+            "wind_direction": 330,
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-09T02:00:00-06:00",
-                "endTime": "2025-02-09T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 23,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/snow?size=medium",
-                "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 23. Northwest wind around 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2025-02-09T06:00:00-06:00",
                 "endTime": "2025-02-09T18:00:00-06:00",
                 "isDaytime": true,
@@ -54,11 +35,30 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny, with a high near 29. West northwest wind 5 to 10 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-09T18:00:00-06:00",
+                "endTime": "2025-02-10T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 20,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 20. West wind around 5 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, current conditions paint a brisk winter scene with temperatures hovering in the mid 20s accompanied by blustery winds from the northwest. The air is filled with light snowflakes, creating a wintry atmosphere that\u2019s both chilly and invigorating. As the night progresses, the forecast indicates a chance of more snow showers alongside mostly cloudy skies, with lows dipping slightly into the low 20s. The wind will continue to play a prominent role, whipping at speeds around 15 miles per hour, with gusts reaching up to 25 miles per hour.\n\nFor Sunday, residents can anticipate a shift as the clouds begin to part, yielding partly sunny skies and a high near 30 degrees. Despite the slight warming trend, it would still feel cool, especially with the winds expected to calm to a gentle breeze. For those venturing outside, a warm coat, gloves, and a hat are essential attire to combat the chilly air, especially near the lake where the wind chill can be a factor. The winter season in this region can bring about temperatures like these, aligning with typical mid-February conditions. Those looking to enjoy the outdoors might consider a brisk walk at the beach or engaging with winter sports, all while being mindful of the prevailing wind and possible icy patches as the snow accumulates.",
-    "color_code": "#6A7F9A",
-    "timestamp": "2025-02-09 02:06:29",
-    "icon_url": "https://api.weather.gov/icons/land/night/snow?size=medium"
+    "weather_report": "Currently in Evanston, temperatures hover just below freezing, lending a distinctly chilly feel to the day. The air is heavy with an unmistakable dampness, contributing to a somewhat crisp atmosphere. Today, expect a transition towards partly sunny skies, while a gentle breeze from the west northwest promises to bring some calm to the morning chill, with gusts potentially adding a touch of vigor throughout the day. Temperatures are projected to rise slightly, peaking near the upper 20s, making it a day where layering will be key for comfort.\n\nAs far as wave conditions go, with the lake\u2019s chill, one can anticipate a brisk and frothy surface, typical for this season along the shores of Lake Michigan. No precipitation is expected, allowing for a clear evening as the sun sets, leading to temperatures dropping to around 20 degrees. Dressing warmly in layers is advisable, perhaps a thick coat with a hat and gloves, to navigate the brisk conditions comfortably. While the chill is expected this time of year in the Midwest, the pleasant break in snow and clouds makes for a lovely opportunity for a brisk walk along the beach or a quick visit to local stores and cafes, all while keeping warmth in mind.",
+    "color_code": "#A6C5D6",
+    "timestamp": "2025-02-09 06:08:00",
+    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
