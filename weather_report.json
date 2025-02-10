@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-09T22:51:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 49.032399592716,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 260,
-            "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+            "timestamp": "2025-02-10T02:51:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 57.055298794353,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 270,
+            "description": "Clear",
+            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-09T18:00:00-06:00",
+                "startTime": "2025-02-09T22:00:00-06:00",
                 "endTime": "2025-02-10T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 18,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 18. West wind around 5 mph."
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 18. West northwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston brings a chill to the air, with temperatures hovering in the upper 30s along with a moderate breeze out of the west. Under mostly cloudy skies, the conditions feel crisp and invigorating, certainly invigorating for those who crave a taste of winter. The evening will see a transition to mostly clear skies, allowing for colder air to settle in as temperatures dip toward the low 20s. Tomorrow, residents can expect sunny weather with a high reaching the low 30s, though the chill will linger as the temperatures fall slightly in the afternoon.\n\nWave conditions along Lake Michigan are likely to be moderately stirred due to the current wind, making the shoreline appear lively, but cautious onlookers should be aware of the cooling winds. There is no precipitation anticipated for tonight or through the first half of the week, making for pleasant outdoor conditions, albeit quite cold. Dressing warmly will be essential; layers, including a hearty coat, gloves, and a hat, will make for a more comfortable experience outdoors. While winter weather may not be the ideal time for beach outings, a brisk walk along the frozen shoreline or enjoying a warm beverage from a nearby caf\u00e9 could fit the bill, capturing the essence of this frosty winter day.",
-    "color_code": "#A4A8B7",
-    "timestamp": "2025-02-09 18:24:27",
-    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+    "weather_report": "Currently in Evanston, the air is notably crisp and cool, fitting for winter, with a temperature hovering in the mid 20s and a refreshing breeze that carries a hint of chill. The sky is clear, allowing for a tranquil view of the surroundings, but the strong winds swirling from the west create a noticeable bite, making outdoor conditions feel brisk. Looking ahead, tonight's weather promises similarly clear skies, dropping to a low around the high teens, while tomorrow brings bright sunshine, with temperatures climbing to the low 30s; however, expect a slight afternoon dip.\n\nThere's no precipitation to be found today, allowing for a pleasantly dry atmosphere, though the strong gusts may whip up some waves along Lake Michigan. This makes for a rather daring scene at the beach, which invites the intrepid to brave the chill for a quick stroll or to admire the restless waters. A warm coat, gloves, and perhaps a hat would be advisable for those venturing outside. As we delve deeper into February, the temperatures are typical for this season in the Midwest, beckoning outdoor enthusiasts to enjoy the wintry landscape while the sun shines brightly. Enjoy the fresh air and the quiet beauty of winter's embrace\u2014it\u2019s the perfect time for brisk walks or hot drinks while watching the waves crash against the shore.",
+    "color_code": "#A0C1E1",
+    "timestamp": "2025-02-09 22:07:07",
+    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
