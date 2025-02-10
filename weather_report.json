@@ -7,42 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-10T06:51:00+00:00",
-            "temperature_f": 21.02,
-            "temperature_c": -6.1,
-            "humidity": 46.994663099251,
+            "timestamp": "2025-02-10T10:51:00+00:00",
+            "temperature_f": 17.06,
+            "temperature_c": -8.3,
+            "humidity": 58.49981494146,
             "wind_speed_mph": 20.93832,
-            "wind_direction": 290,
+            "wind_direction": 260,
             "description": "Clear",
             "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-10T02:00:00-06:00",
-                "endTime": "2025-02-10T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 18,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 18. West northwest wind 5 to 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2025-02-10T06:00:00-06:00",
                 "endTime": "2025-02-10T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 33,
+                "temperature": 32,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -53,12 +34,31 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 33, with temperatures falling to around 31 in the afternoon. West wind 5 to 10 mph."
+                "detailedForecast": "Sunny, with a high near 32. West wind 5 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-10T18:00:00-06:00",
+                "endTime": "2025-02-11T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 23,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 3am. Mostly cloudy, with a low around 23. West wind 5 to 10 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois, presents a chilly scene with temperatures hovering in the low 20s and a clear sky, offering a crisp ambiance as a steady wind rustles the air at a brisk pace. With a lack of precipitation and no clouds to be seen, the night ahead promises to remain clear with temperatures dropping to the upper teens, under gentle winds from the west-northwest that should provide a refreshing touch on a winter evening.\n\nLooking ahead to Monday, a sunlit day is expected with highs reaching into the low 30s, though temperatures will gradually decline in the afternoon. The overall feel outdoors will likely remain brisk but pleasant, ideal for a quick stroll or enjoying the beauty of the snow-sprinkled landscape. Given the weather, recommend dressing warmly in layers, including hats and gloves, to combat the cold while taking advantage of the calm, sunny disposition. For those looking to venture out, a visit to the beach or a local park could be invigorating; however, care should be taken of the lake\u2019s likely choppy waters as the winds could stir up the waves. As today is not a noted holiday, the day may unfold as a peaceful interlude in winter's embrace, without any festive interruptions.",
-    "color_code": "#A2C8E0",
-    "timestamp": "2025-02-10 02:08:06",
+    "weather_report": "In Evanston, the day starts with a crisp and cool ambiance, as temperatures hover in the low teens with a gentle breeze stirring from the west. The clear skies offer a bright backdrop for a serene morning, though the wind carries a biting chill that may catch many off guard. As the day unfolds, expect a transition to sunny conditions, with temperatures rising toward the low 30s this afternoon. It's a stark reminder of winter in the Midwest, where a gentle thaw is accompanied by a promise of slightly warmer air, perfect for bundled walks along the snow-dusted shoreline.\n\nAs night falls, the forecast indicates a slight chance of snow after 3 a.m. under mostly cloudy skies, accompanied by another round of gentle winds. Despite the potential for wet conditions, the likelihood remains low, standing at 20%. With temperatures dipping to around the low 20s, layering up is imperative for comfort\u2014think warm coats, scarves, and sturdy boots, especially for those contemplating a brisk stroll by Lake Michigan. The ambiance might not be entirely festive, but for winter enthusiasts, it's an opportunity to embrace the season's chill with winter activities, visiting local shops, or simply enjoying the snowy scene in this vibrant lakeside community.",
+    "color_code": "#F0F8FF",
+    "timestamp": "2025-02-10 06:09:34",
     "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
