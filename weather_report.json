@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-10T10:51:00+00:00",
-            "temperature_f": 17.06,
-            "temperature_c": -8.3,
-            "humidity": 58.49981494146,
-            "wind_speed_mph": 20.93832,
+            "timestamp": "2025-02-10T14:51:00+00:00",
+            "temperature_f": 21.92,
+            "temperature_c": -5.6,
+            "humidity": 54.626326662184,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 260,
-            "description": "Clear",
-            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
+            "description": "Mostly Clear",
+            "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-10T06:00:00-06:00",
+                "startTime": "2025-02-10T10:00:00-06:00",
                 "endTime": "2025-02-10T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 32,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the day starts with a crisp and cool ambiance, as temperatures hover in the low teens with a gentle breeze stirring from the west. The clear skies offer a bright backdrop for a serene morning, though the wind carries a biting chill that may catch many off guard. As the day unfolds, expect a transition to sunny conditions, with temperatures rising toward the low 30s this afternoon. It's a stark reminder of winter in the Midwest, where a gentle thaw is accompanied by a promise of slightly warmer air, perfect for bundled walks along the snow-dusted shoreline.\n\nAs night falls, the forecast indicates a slight chance of snow after 3 a.m. under mostly cloudy skies, accompanied by another round of gentle winds. Despite the potential for wet conditions, the likelihood remains low, standing at 20%. With temperatures dipping to around the low 20s, layering up is imperative for comfort\u2014think warm coats, scarves, and sturdy boots, especially for those contemplating a brisk stroll by Lake Michigan. The ambiance might not be entirely festive, but for winter enthusiasts, it's an opportunity to embrace the season's chill with winter activities, visiting local shops, or simply enjoying the snowy scene in this vibrant lakeside community.",
-    "color_code": "#F0F8FF",
-    "timestamp": "2025-02-10 06:09:34",
-    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
+    "weather_report": "In Evanston, the current weather presents a crisp and cool atmosphere, with temperatures in the low 20s and a light breeze. The day is mostly clear, but there is a forecast for some clouds rolling in tonight, and a slight chance of snow after 3 am. As you venture outside, you'll find the air invigorating, although the wind picks up at times, creating a brisk ambiance. The lake's waves are likely to be moderate, possibly adding to the frosty marine scenery along Lake Michigan.\n\nLooking ahead, expect sunny skies today with a daytime high approach the low 30s. In the evening, temperatures will dip slightly, so dressing warmly is advisable\u2014a layered outfit with a sturdy coat would suit the conditions well. As we are in February, these temperatures are typical for the season, marking it as a standard winter day in this region. Outdoor activities such as brisk walks, enjoying the beach view, or even gathering with friends for a warm drink are encouraged, but do be prepared for the chilly air as night descends.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-02-10 10:06:46",
+    "icon_url": "https://api.weather.gov/icons/land/day/few?size=medium"
 }
