@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-10T22:51:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": null,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-02-11T02:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 57.643750486322,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 150,
             "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+            "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-10T18:00:00-06:00",
+                "startTime": "2025-02-10T22:00:00-06:00",
                 "endTime": "2025-02-11T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 23,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Intermittent Snow Showers",
-                "detailedForecast": "Intermittent snow showers and a slight chance of snow between 3am and 4am, then a chance of snow and intermittent snow showers. Mostly cloudy. Low around 23, with temperatures rising to around 26 overnight. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+                "windSpeed": "5 to 15 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,30?size=medium",
+                "shortForecast": "Cloudy then Intermittent Snow Showers",
+                "detailedForecast": "Intermittent snow showers and a slight chance of snow between 3am and 4am, then a chance of snow and intermittent snow showers. Cloudy. Low around 23, with temperatures rising to around 26 overnight. West northwest wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston depict a chilly evening with temperatures hovering in the low 30s, accompanied by a mostly cloudy sky. As forecasted, tonight is set to bring intermittent snow showers and a slight chance of snow around the early morning hours, suggesting a tranquil yet frigid ambiance for those outdoors. The mercury will drop to about 23, rising slightly as the night progresses, while a gentle southwest breeze adds a crispness to the air.\n\nAs we look ahead to Tuesday, a chance of snow continues, with cloudy skies prevailing and highs reaching the upper 20s. Given the time of year, these temperatures are about appropriate for a town alongside the lakes in northern Illinois. For those planning to venture outdoors, dressing warmly with layers, perhaps a sturdy coat, gloves, and a knit hat will ensure comfort against the biting air and potential flurries. However, while the beach may not provide ideal sunbathing conditions, an invigorating walk by the lakeshore could prove refreshing, redeeming this wintery scene.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2025-02-10 18:23:31",
-    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+    "weather_report": "Current weather conditions in Evanston are chilly, with a temperature hovering around the mid-20s. The atmosphere feels quite brisk due to the wind, which is coming from the southeast at a moderate pace, creating a noticeable chill in the air. The sky is mostly cloudy, casting a grayish hue over the landscape, and there's an indication of some light snow on the horizon. Predictions suggest that overnight temperatures will dip slightly more, and residents might see intermittent snow showers, particularly towards the early morning hours. \n\nAs the day unfolds tomorrow, expect continued cloudy skies with temperatures climbing just a bit, peaking around the upper 20s. While conditions for outdoor pleasure might be limited due to the cold and potential for snow, it\u2019s a good idea to bundle up in warm layers, grab a hat, and perhaps enjoy a cozy indoor activity. Wave conditions along Lake Michigan are likely moderate due to the wind, making it less than ideal for any water activities. All in all, while today may not invite one outdoors, it still holds the charm of a classic winter day in the Midwest, reminding us that the season is still very much in command.",
+    "color_code": "#AAB8C2",
+    "timestamp": "2025-02-10 22:06:48",
+    "icon_url": "https://api.weather.gov/icons/land/night/bkn?size=medium"
 }
