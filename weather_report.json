@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-10T18:51:00+00:00",
+            "timestamp": "2025-02-10T22:51:00+00:00",
             "temperature_f": 33.08,
             "temperature_c": 0.6,
-            "humidity": 30.036998396379,
+            "humidity": null,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Mostly Cloudy",
@@ -19,25 +19,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-10T14:00:00-06:00",
-                "endTime": "2025-02-10T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 32,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 32. East northeast wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-10T18:00:00-06:00",
                 "endTime": "2025-02-11T06:00:00-06:00",
@@ -47,18 +28,37 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow after 3am. Mostly cloudy, with a low around 23. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,30?size=medium",
+                "shortForecast": "Mostly Cloudy then Intermittent Snow Showers",
+                "detailedForecast": "Intermittent snow showers and a slight chance of snow between 3am and 4am, then a chance of snow and intermittent snow showers. Mostly cloudy. Low around 23, with temperatures rising to around 26 overnight. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-02-11T06:00:00-06:00",
+                "endTime": "2025-02-11T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow?size=medium",
+                "shortForecast": "Chance Snow",
+                "detailedForecast": "A chance of snow and a chance of snow showers. Cloudy, with a high near 27. North northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a chilliness in the air, with temperatures hovering in the low 30s, accompanied by a mostly cloudy sky. Wind is calm, offering little distraction from the coolness that seeps into the bones. As the afternoon unfolds, expect a transition to mostly sunny skies, though temperatures may struggle to climb, peaking just below freezing. This evening introduces a chance of light snow into the mix, particularly after 3 AM, set against a backdrop of a mostly cloudy night and a low dipping into the low 20s, with a light southwest breeze stirring occasionally.\n\nToday\u2019s uninviting weather makes outdoor plans a little less appealing, though the scene might be tranquil for short walks along the beach, where the wintry air meets the chilly waters of Lake Michigan. Given the current season, these persistent cool temperatures are characteristic of February in this region. Dress warmly\u2014layered attire, a heavy coat, gloves, and perhaps a snug scarf will be essential for venturing outside. Given the light chance of snow tonight, those with evening plans might consider being prepared for a brief flurry. In this time of year, as the heart of winter settles in, the beauty of Evanston\u2019s lakeshore persists, even if today\u2019s weather might chill the more adventurous spirits.",
-    "color_code": "#A3C1E1",
-    "timestamp": "2025-02-10 14:05:46",
+    "weather_report": "Current conditions in Evanston depict a chilly evening with temperatures hovering in the low 30s, accompanied by a mostly cloudy sky. As forecasted, tonight is set to bring intermittent snow showers and a slight chance of snow around the early morning hours, suggesting a tranquil yet frigid ambiance for those outdoors. The mercury will drop to about 23, rising slightly as the night progresses, while a gentle southwest breeze adds a crispness to the air.\n\nAs we look ahead to Tuesday, a chance of snow continues, with cloudy skies prevailing and highs reaching the upper 20s. Given the time of year, these temperatures are about appropriate for a town alongside the lakes in northern Illinois. For those planning to venture outdoors, dressing warmly with layers, perhaps a sturdy coat, gloves, and a knit hat will ensure comfort against the biting air and potential flurries. However, while the beach may not provide ideal sunbathing conditions, an invigorating walk by the lakeshore could prove refreshing, redeeming this wintery scene.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2025-02-10 18:23:31",
     "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
 }
