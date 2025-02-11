@@ -7,10 +7,10 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-11T14:51:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 74.57090359541,
+            "timestamp": "2025-02-11T18:51:00+00:00",
+            "temperature_f": 24.08,
+            "temperature_c": -4.4,
+            "humidity": 70.823079159733,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Light Snow",
@@ -19,22 +19,22 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-11T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-11T14:00:00-06:00",
                 "endTime": "2025-02-11T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 29,
+                "temperature": 26,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,20?size=medium",
-                "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow before 3pm, then a chance of snow showers. Cloudy. High near 29, with temperatures falling to around 27 in the afternoon. North northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
+                "shortForecast": "Slight Chance Snow",
+                "detailedForecast": "A slight chance of snow before 3pm, then a chance of snow showers. Cloudy, with a high near 26. North northeast wind around 15 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -47,18 +47,18 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 50
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/snow/snow,20?size=medium",
-                "shortForecast": "Chance Snow Showers then Slight Chance Snow",
-                "detailedForecast": "A chance of snow showers before midnight, then a slight chance of snow. Cloudy. Low around 24, with temperatures rising to around 27 overnight. Northeast wind 10 to 15 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/snow/snow,50?size=medium",
+                "shortForecast": "Chance Snow Showers then Chance Snow",
+                "detailedForecast": "A chance of snow showers before midnight, then a chance of snow. Cloudy. Low around 24, with temperatures rising to around 27 overnight. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly scene with light snow falling, as temperatures hover in the low 20s, lending an icy touch to the landscape. The atmosphere is marked by a damp coolness, drawing upon the season\u2019s typical winter character. Today, one may expect a continuation of the snow with the possibility of flurries lingering into the afternoon. Clouds will dominate the sky, with a high reaching the upper 20s, while a brisk northeast wind stirs the air, sometimes feeling quite bold with gusts up to 25 mph. As temperatures subtly rise overnight, the chance of further light snow diminishes, giving way to a somewhat subdued evening.\n\nThe beach, though frosty, presents a visually appealing wintry scene that calls for warm attire. With the winds adding a bite to the cold, layering is essential: a sturdy winter coat, a cozy hat, and insulated footwear would ensure comfort during any outdoor ventures. The Lake Michigan waves may be tumultuous, so caution is recommended near the shoreline. As the snow gently blankets the ground, it offers a serene backdrop, perhaps encouraging a stroll along the waterfront or brief explorations in the parks, though enthusiasm for outdoor activities might be tempered by the chill. While today isn't marked by a holiday, the wintry conditions offer a quintessential Chicago winter experience, a moment to relish before the onset of spring.",
-    "color_code": "#BEC0D7",
-    "timestamp": "2025-02-11 10:07:09",
+    "weather_report": "Current conditions in Evanston paint a chilly and somewhat dreary picture. With temperatures hovering in the low 20s, the air feels crisp and cold, especially as light snow continues to fall gently. The day remains clouded, with limited visibility over Lake Michigan, contrasting with the vibrant summer images that the beach typically evokes. \n\nLooking ahead, the forecast suggests a slight chance of snow showers continuing into the afternoon, with temperatures expected to rise only marginally to around the mid-20s. A northeast breeze adds to the chill, and tonight, snow showers are likely to return, increasing the chances of accumulation. While the waves may not be fierce, they do create a bracing ambiance, reflecting the winter's rhythm rather than summer's gentle lapping. Given the current conditions, dressing warmly in layers with a good winter coat, maybe a scarf and gloves, will be essential for anyone venturing outside. The temperatures align with the expectation for this time of year in the Midwest, confirming the familiarity of winter's grip. As for activities, a cozy evening indoors or a brisk walk along the lake to enjoy the snowfall could be quite refreshing.",
+    "color_code": "#A0B1BC",
+    "timestamp": "2025-02-11 14:06:14",
     "icon_url": "https://api.weather.gov/icons/land/day/snow?size=medium"
 }
