@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-12T02:51:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 67.970456324018,
+            "timestamp": "2025-02-12T06:51:00+00:00",
+            "temperature_f": 21.92,
+            "temperature_c": -5.6,
+            "humidity": 65.194226854189,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "",
-            "icon": null
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-11T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-02-12T01:00:00-06:00",
                 "endTime": "2025-02-12T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 24,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 50
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,20?size=medium",
-                "shortForecast": "Cloudy then Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers and a slight chance of snow after midnight. Cloudy. Low around 24, with temperatures rising to around 27 overnight. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,50?size=medium",
+                "shortForecast": "Chance Snow",
+                "detailedForecast": "A chance of snow. Cloudy. Low around 24, with temperatures rising to around 27 overnight. Northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "As temperatures hover in the low 20s, Evanston is enveloped in a brisk and chilly atmosphere, characteristic of the height of winter. Snow showers are on the horizon, with a forecast suggesting a 20% chance for this evening, while overnight temperatures are expected to rise slightly, hinting at a more robust chance of snow tomorrow. A steady, northeast wind will contribute to the day's cool feel, adding a touch of bite as it swirls through the air. \n\nWith snow accumulating up to several inches projected for Wednesday, getting bundled up in warm layers will be essential. As conditions may turn blustery, it would be wise to don a thick coat, gloves, and perhaps a warm hat, especially if venturing near the shoreline where the lake can whip up waves and splash some chilly spray. The winter weather feel is undoubtedly prominent, typical for this season in the region. Given the conditions, indoor activities might be more appealing\u2014perhaps curling up with a good book or enjoying the warmth of a cup of something hot would suit this wintry evening just fine.",
+    "weather_report": "As we look at the current conditions in Evanston, residents feel the bite of the chill, with temperatures hovering in the low 20s, accompanied by a dampness that adds to the cold. The cloudy skies provide a muted backdrop, casting a somber tone over the landscape, while the chilly air feels even cooler with the potential for snow looming. \n\nThe forecast for the day promises a continued wintery mix, with a significant chance of snowfall. As temperatures inch up to the high 20s, the east-northeast winds will pick up, creating a blustery atmosphere. Expect 2 to 4 inches of accumulation, which will likely blanket the area in white, transforming the beach into a picturesque winter scene. However, those venturing outdoors should prepare for the possibility of a brisk wind that could chill them to the bone. With the conditions being decidedly cold, dress warmly\u2014layers are advisable alongside a good winter coat, hat, and gloves. Engaging in indoor activities may be more appealing given the forecast\u2014consider visiting cafes or local shops, as the weather isn't exactly conducive to a pleasant stroll along the shore, especially with the impending flurries likely making the beach less inviting.",
     "color_code": "#B0C4D4",
-    "timestamp": "2025-02-11 22:06:48",
-    "icon_url": null
+    "timestamp": "2025-02-12 02:07:37",
+    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
