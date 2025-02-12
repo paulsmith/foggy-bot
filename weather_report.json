@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-11T22:51:00+00:00",
+            "timestamp": "2025-02-12T02:51:00+00:00",
             "temperature_f": 23.0,
             "temperature_c": -5,
             "humidity": 67.970456324018,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+            "description": "",
+            "icon": null
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-11T18:00:00-06:00",
+                "startTime": "2025-02-11T22:00:00-06:00",
                 "endTime": "2025-02-12T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 24,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 20
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/snow/snow,50?size=medium",
-                "shortForecast": "Chance Snow Showers then Chance Snow",
-                "detailedForecast": "A chance of snow showers before midnight, then a chance of snow. Cloudy. Low around 24, with temperatures rising to around 27 overnight. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,20?size=medium",
+                "shortForecast": "Cloudy then Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers and a slight chance of snow after midnight. Cloudy. Low around 24, with temperatures rising to around 27 overnight. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -51,14 +51,14 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,70/snow,100?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,80/snow,100?size=medium",
                 "shortForecast": "Snow",
                 "detailedForecast": "Snow. Cloudy, with a high near 29. East northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere, with temperatures settling in the low 20s, compounded by a notable cloudiness that shrouds the skyline. As the evening progresses, residents can anticipate a chance of snow showers, transitioning to more persistent snowfall as temperatures gradually nudge up toward mid-20s overnight. The predicted winds, arriving from the northeast, will come in with a gentle, whistling breeze, adding a touch of biting chill to the air. \n\nLooking ahead to tomorrow, snow is expected to blanket the area, with a potential accumulation of 2 to 4 inches. With a high hovering near the upper 20s, outdoor conditions are likely to appear dreary and damp, making for a potentially unpleasant outing by the lake. While the snow may invite some to engage in winter activities, emerging conditions demand caution, especially considering the possibility of slippery surfaces. Given the time of year, these temperatures align with typical winter weather for the region, though the frigid feel may encourage bundling up in warm layers, including heavy coats, hats, and gloves. As always, a thoughtful approach to outdoor activities\u2014perhaps staying cozy indoors with a warm drink\u2014might be the most appealing option for the evening.",
-    "color_code": "#7F8C9A",
-    "timestamp": "2025-02-11 18:23:26",
-    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+    "weather_report": "As temperatures hover in the low 20s, Evanston is enveloped in a brisk and chilly atmosphere, characteristic of the height of winter. Snow showers are on the horizon, with a forecast suggesting a 20% chance for this evening, while overnight temperatures are expected to rise slightly, hinting at a more robust chance of snow tomorrow. A steady, northeast wind will contribute to the day's cool feel, adding a touch of bite as it swirls through the air. \n\nWith snow accumulating up to several inches projected for Wednesday, getting bundled up in warm layers will be essential. As conditions may turn blustery, it would be wise to don a thick coat, gloves, and perhaps a warm hat, especially if venturing near the shoreline where the lake can whip up waves and splash some chilly spray. The winter weather feel is undoubtedly prominent, typical for this season in the region. Given the conditions, indoor activities might be more appealing\u2014perhaps curling up with a good book or enjoying the warmth of a cup of something hot would suit this wintry evening just fine.",
+    "color_code": "#B0C4D4",
+    "timestamp": "2025-02-11 22:06:48",
+    "icon_url": null
 }
