@@ -7,42 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-12T06:51:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 65.194226854189,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+            "timestamp": "2025-02-12T10:51:00+00:00",
+            "temperature_f": 19.939999999999998,
+            "temperature_c": -6.7,
+            "humidity": 81.102790061535,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 20,
+            "description": "Light Snow",
+            "icon": "https://api.weather.gov/icons/land/night/snow?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-12T01:00:00-06:00",
-                "endTime": "2025-02-12T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 24,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/snow,50?size=medium",
-                "shortForecast": "Chance Snow",
-                "detailedForecast": "A chance of snow. Cloudy. Low around 24, with temperatures rising to around 27 overnight. Northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2025-02-12T06:00:00-06:00",
                 "endTime": "2025-02-12T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 29,
+                "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,13 +33,32 @@
                 "windSpeed": "15 mph",
                 "windDirection": "ENE",
                 "icon": "https://api.weather.gov/icons/land/day/snow,80/snow,100?size=medium",
+                "shortForecast": "Heavy Snow",
+                "detailedForecast": "Snow. Cloudy. High near 30, with temperatures falling to around 28 in the afternoon. East northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-12T18:00:00-06:00",
+                "endTime": "2025-02-13T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 16,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/snow,90/snow,50?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy, with a high near 29. East northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
+                "detailedForecast": "Snow before 3am. Cloudy. Low around 16, with temperatures rising to around 21 overnight. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
             }
         ]
     },
-    "weather_report": "As we look at the current conditions in Evanston, residents feel the bite of the chill, with temperatures hovering in the low 20s, accompanied by a dampness that adds to the cold. The cloudy skies provide a muted backdrop, casting a somber tone over the landscape, while the chilly air feels even cooler with the potential for snow looming. \n\nThe forecast for the day promises a continued wintery mix, with a significant chance of snowfall. As temperatures inch up to the high 20s, the east-northeast winds will pick up, creating a blustery atmosphere. Expect 2 to 4 inches of accumulation, which will likely blanket the area in white, transforming the beach into a picturesque winter scene. However, those venturing outdoors should prepare for the possibility of a brisk wind that could chill them to the bone. With the conditions being decidedly cold, dress warmly\u2014layers are advisable alongside a good winter coat, hat, and gloves. Engaging in indoor activities may be more appealing given the forecast\u2014consider visiting cafes or local shops, as the weather isn't exactly conducive to a pleasant stroll along the shore, especially with the impending flurries likely making the beach less inviting.",
-    "color_code": "#B0C4D4",
-    "timestamp": "2025-02-12 02:07:37",
-    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+    "weather_report": "Current conditions in Evanston present a chilly setting as light snow blankets the area, with temperatures hovering in the low 20s. The air feels quite brisk, with a gusty wind creating a sharp edge in the air. The forecast indicates continued snowfall throughout the day, leading to potentially significant accumulation. The clouds will dominate the sky, obscuring any chance of sunshine. Waves on Lake Michigan may be choppy due to the wind, creating a turbulent scene along the shoreline, which might dissuade any leisurely beach outings.\n\nLooking ahead, expect snow to persist into the night, with temperatures dropping further into the mid-teens. Layering is essential today\u2014dress warmly with insulated outerwear, hats, and gloves to keep comfortable against the wintry blast. Given the current winter season, the temperatures are typical for February in this region, though the snow adds an extra chill. While the conditions may not warrant outdoor festivities, they're perfect for cozying up indoors with a warm drink, enjoying a book or movie, or perhaps taking a winter stroll to appreciate the blanket of snow in the neighborhood.",
+    "color_code": "#A6C8E0",
+    "timestamp": "2025-02-12 06:09:30",
+    "icon_url": "https://api.weather.gov/icons/land/night/snow?size=medium"
 }
