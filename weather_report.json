@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-12T14:51:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 74.620485532806,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 70,
-            "description": "Light Snow",
+            "timestamp": "2025-02-12T18:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 88.73223947223,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 60,
+            "description": "Snow and Fog",
             "icon": "https://api.weather.gov/icons/land/day/snow?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-12T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-12T14:00:00-06:00",
                 "endTime": "2025-02-12T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -32,9 +32,9 @@
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,80/snow,100?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,100?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy. High near 30, with temperatures falling to around 28 in the afternoon. East northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
+                "detailedForecast": "Snow. Cloudy. High near 30, with temperatures falling to around 28 in the afternoon. East northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
             },
             {
                 "number": 2,
@@ -47,18 +47,18 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 90
+                    "value": 100
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow,90/snow,50?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,100/snow,50?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow before 3am. Cloudy. Low around 16, with temperatures rising to around 21 overnight. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+                "detailedForecast": "Snow before 3am. Cloudy. Low around 16, with temperatures rising to around 21 overnight. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
             }
         ]
     },
-    "weather_report": "Good morning, Evanston. Currently, the temperature hovers in the upper 20s, accompanied by a robust, gusty wind that whips through the air. The scene is marked by light snow, creating a brisk and biting atmosphere, perfect for those who might appreciate the winter's bite but daunting for the more sensitive. Expect a snowy day ahead, with continued cloud cover and temperatures barely nudging near 30 degrees before taking a slight dip this afternoon. The east-northeast winds will contribute to a chilly feel, with gusts that may catch you off guard. As the day progresses, anticipate significant snowfall, with new accumulation possibly reaching up to 4 inches.\n\nTonight the region will see ongoing snow, tapering off as the low settles into the upper teens. The drive home may be less than pleasant with the potential for slick roads. Waves on Lake Michigan are likely to be choppy, stirred by the fierce winds, though this might not be the best day to test the waters. Given the blustery conditions, a warm winter coat, sturdy boots, and perhaps a hat and gloves are highly recommended to keep the chill at bay. While February can often bring such wintry weather, today's conditions reflect the typical chill of a Midwestern winter, reminding us that it's still very much the season for cozy indoor activities. With no major holidays on the horizon, it may be a fine evening to enjoy a warm drink by the fire or a movie night indoors, away from the frosty elements outside.",
-    "color_code": "#A7B2C1",
-    "timestamp": "2025-02-12 10:06:58",
+    "weather_report": "Evanston is currently experiencing frigid temperatures in the mid-20s, coupled with a damp chill that makes it feel even more biting. The atmosphere is thick with the gaze of heavy snowfall and fog, casting a grey veil over the beachfront vista. Winds howl from the east-northeast at a vigorous pace, adding to the windswept scene and limiting visibility. Moving through the afternoon, the snow will persist relentlessly, with a forecasted high near 30 degrees. Conditions will remain overcast as more snow stirs up, leading to an accumulation of a few inches. This persistent precipitation signifies a day that feels decidedly uninviting, especially along the shoreline where the waves may swell with the wind.\n\nAs temperatures dip tonight to the low teens, a more biting cold will settle in with wind gusts continuing after dusk. The coastal conditions may create a rough, choppy surface on Lake Michigan, not ideal for any water-related activities. For anyone braving the elements, layered clothing suitable for cold, wet weather is advisable\u2014think heavy jackets, warm hats, and preferably waterproof footwear to navigate the icy patches. Given the current season, these temperatures align well with a typical February day in the Midwest, where winter's chill holds sway. Outdoor activities might be limited although cozying up with a good book or indulging in a warm drink indoors would surely enhance the comfort of this wintry Saturday.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2025-02-12 14:06:41",
     "icon_url": "https://api.weather.gov/icons/land/day/snow?size=medium"
 }
