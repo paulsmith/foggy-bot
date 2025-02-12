@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-11T18:51:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 70.823079159733,
+            "timestamp": "2025-02-11T22:51:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 67.970456324018,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Light Snow",
-            "icon": "https://api.weather.gov/icons/land/day/snow?size=medium"
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-11T14:00:00-06:00",
-                "endTime": "2025-02-11T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 26,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
-                "shortForecast": "Slight Chance Snow",
-                "detailedForecast": "A slight chance of snow before 3pm, then a chance of snow showers. Cloudy, with a high near 26. North northeast wind around 15 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-11T18:00:00-06:00",
                 "endTime": "2025-02-12T06:00:00-06:00",
@@ -54,11 +35,30 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow/snow,50?size=medium",
                 "shortForecast": "Chance Snow Showers then Chance Snow",
                 "detailedForecast": "A chance of snow showers before midnight, then a chance of snow. Cloudy. Low around 24, with temperatures rising to around 27 overnight. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-02-12T06:00:00-06:00",
+                "endTime": "2025-02-12T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 29,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "ENE",
+                "icon": "https://api.weather.gov/icons/land/day/snow,70/snow,100?size=medium",
+                "shortForecast": "Snow",
+                "detailedForecast": "Snow. Cloudy, with a high near 29. East northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a chilly and somewhat dreary picture. With temperatures hovering in the low 20s, the air feels crisp and cold, especially as light snow continues to fall gently. The day remains clouded, with limited visibility over Lake Michigan, contrasting with the vibrant summer images that the beach typically evokes. \n\nLooking ahead, the forecast suggests a slight chance of snow showers continuing into the afternoon, with temperatures expected to rise only marginally to around the mid-20s. A northeast breeze adds to the chill, and tonight, snow showers are likely to return, increasing the chances of accumulation. While the waves may not be fierce, they do create a bracing ambiance, reflecting the winter's rhythm rather than summer's gentle lapping. Given the current conditions, dressing warmly in layers with a good winter coat, maybe a scarf and gloves, will be essential for anyone venturing outside. The temperatures align with the expectation for this time of year in the Midwest, confirming the familiarity of winter's grip. As for activities, a cozy evening indoors or a brisk walk along the lake to enjoy the snowfall could be quite refreshing.",
-    "color_code": "#A0B1BC",
-    "timestamp": "2025-02-11 14:06:14",
-    "icon_url": "https://api.weather.gov/icons/land/day/snow?size=medium"
+    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere, with temperatures settling in the low 20s, compounded by a notable cloudiness that shrouds the skyline. As the evening progresses, residents can anticipate a chance of snow showers, transitioning to more persistent snowfall as temperatures gradually nudge up toward mid-20s overnight. The predicted winds, arriving from the northeast, will come in with a gentle, whistling breeze, adding a touch of biting chill to the air. \n\nLooking ahead to tomorrow, snow is expected to blanket the area, with a potential accumulation of 2 to 4 inches. With a high hovering near the upper 20s, outdoor conditions are likely to appear dreary and damp, making for a potentially unpleasant outing by the lake. While the snow may invite some to engage in winter activities, emerging conditions demand caution, especially considering the possibility of slippery surfaces. Given the time of year, these temperatures align with typical winter weather for the region, though the frigid feel may encourage bundling up in warm layers, including heavy coats, hats, and gloves. As always, a thoughtful approach to outdoor activities\u2014perhaps staying cozy indoors with a warm drink\u2014might be the most appealing option for the evening.",
+    "color_code": "#7F8C9A",
+    "timestamp": "2025-02-11 18:23:26",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
