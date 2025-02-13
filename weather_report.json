@@ -7,12 +7,12 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-12T23:24:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 81.036997053857,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 90,
+            "timestamp": "2025-02-13T02:51:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 88.020159269446,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 50,
             "description": "Light Snow and Fog/Mist",
             "icon": "https://api.weather.gov/icons/land/night/snow?size=medium"
         },
@@ -20,7 +20,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-12T18:00:00-06:00",
+                "startTime": "2025-02-12T22:00:00-06:00",
                 "endTime": "2025-02-13T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 16,
@@ -31,10 +31,10 @@
                     "value": 100
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "N",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,100/snow,70?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy. Low around 16, with temperatures rising to around 21 overnight. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+                "detailedForecast": "Snow. Cloudy. Low around 16, with temperatures rising to around 19 overnight. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
             },
             {
                 "number": 2,
@@ -53,12 +53,12 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 22, with temperatures falling to around 17 in the afternoon. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly sunny. High near 22, with temperatures falling to around 17 in the afternoon. Wind chill values as low as 1. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "This evening in Evanston, temperatures are hovering in the mid-20s, imbued with a chill that feels more piercing due to the gusty winds sweeping in from the east. The light snow and mist create a damp, murky atmosphere, with visibility likely reduced as flurries continue to fall, setting the stage for a bitter night ahead. The forecast signals approaching snowfall that will blanket the region under a fresh layer of white, with an expected low in the teens and wind gusts potentially reaching 25 mph, adding to the overall discomfort. \n\nAs the night progresses, expect a cold and blustery scene along the lakefront, where waves may churn restlessly amid the snowfall. Individuals considering venturing outdoors should think warmly, equipped with insulated coats, scarves, and sturdy footwear to navigate the snowy terrain. While winter sports enthusiasts might find the conditions favorable for some light activities, the biting cold and wind may deter most casual outings. As this is a regular weekday, it might be wise to stay indoors, perhaps enjoying a warm drink while the winter transforms the landscape outside into a picturesque but harsh scene.",
+    "weather_report": "Current conditions in Evanston present a chilly scene with temperatures hovering in the mid-20s, accompanied by light snow and a veil of fog, making it feel quite biting outside. The strong winds are howling from the northeast, causing a brisk chill that penetrates layers, and while visibility may be reduced due to the snowfall, the ground is likely to accumulate a fresh dusting as the evening progresses. Tonight, expect snow to intensify, with temperatures plunging to the low teens and potentially rising overnight\u2014a stark contrast that could create a wintry wonderland.\n\nTomorrow, a shift to mostly sunny skies is anticipated, with a high near the low 20s. However, it will still feel quite cold, as characteristic wind chills could dip to the single digits. With such blustery conditions at the lakefront, the waves may be moderately choppy, offering a dramatic vista of frothy whitecaps against the muted sky. Given the chill factor and ongoing snow, warm and layered clothing is advised, including hats and gloves to fend off the cold. While February may be a time for winter sports, today\u2019s conditions shy away from outdoor relaxation, favoring snug indoor activities instead.",
     "color_code": "#B0C4DE",
-    "timestamp": "2025-02-12 18:23:32",
+    "timestamp": "2025-02-12 22:07:16",
     "icon_url": "https://api.weather.gov/icons/land/night/snow?size=medium"
 }
