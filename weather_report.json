@@ -7,39 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-13T23:51:00+00:00",
-            "temperature_f": 12.920000000000002,
-            "temperature_c": -10.6,
-            "humidity": 58.358440198654,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 250,
+            "timestamp": "2025-02-14T02:51:00+00:00",
+            "temperature_f": 8.059999999999999,
+            "temperature_c": -13.3,
+            "humidity": 62.760624738296,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 260,
             "description": "Clear",
             "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-13T17:00:00-06:00",
-                "endTime": "2025-02-13T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 19,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 19, with temperatures falling to around 17 in the afternoon. West wind around 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-13T18:00:00-06:00",
+                "startTime": "2025-02-13T22:00:00-06:00",
                 "endTime": "2025-02-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 3,
@@ -49,16 +30,35 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 3. Wind chill values as low as -11. West southwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly clear, with a low around 3. Wind chill values as low as -11. West southwest wind around 10 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-02-14T06:00:00-06:00",
+                "endTime": "2025-02-14T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "10 to 20 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/snow,30?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Snow",
+                "detailedForecast": "A chance of snow after 4pm. Mostly cloudy, with a high near 27. Wind chill values as low as -9. South wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions present a bracing chill, with temperatures hovering in the low teens, accompanied by a noticeable breeze that is decidedly vigorous. The air feels sharp, marking a quintessential winter's evening, ideal for bundling up. As the day progresses, the forecast indicates a sunny afternoon, with temperatures slightly rising towards the upper teens but still feeling cool due to the persistent breeze. As the sun sets, expect a drop to near freezing, and wind chill values could plunge to a stark -11, so caution is advised for anyone venturing out.\n\nGiven the clear skies and absence of precipitation, this is not the time for raindrops or snowflakes, making for a pleasant appearance at the beach, though the wind may aggravate the cool conditions. Waves may be choppy, generating an impressive spectacle, but perhaps not inviting for a swim. Layers are highly recommended\u2014a warm coat, gloves, and a hat will serve you well in this bitter air. Considering that we are deep into winter, these temperatures are not unexpected for this time of year in the Midwest. Outdoor activities might best be limited to brisk walks or watching the sunset by the shore, as long as you remain mindful of the chill.",
-    "color_code": "#A5C8D4",
-    "timestamp": "2025-02-13 18:23:34",
+    "weather_report": "Current conditions in Evanston present a stark winter chill, with temperatures lingering in the low single digits. The air feels sharply crisp, complemented by a biting wind that adds to the overall chilliness. Although the sky is clear, the day\u2019s openness does little to mitigate the severity of the cold, creating an environment that is not conducive to prolonged outdoor activities without proper attire. \n\nLooking ahead, the night will remain largely clear, dipping to around three degrees, while wind chill could plunge to a bone-chilling minus eleven. Tomorrow, a shift in conditions is anticipated, with a chance of snow arriving late in the afternoon, and the high near 27 offering only fleeting relief from the cold. Gusty winds will continue to create a wind chill that feels even colder, lending a sense of urgency to finding warmth indoors. While the beach may appear inviting in its stark winter beauty, wave conditions may present moderate activity given the winds, so those planning to enjoy the outdoors should dress warmly in layers, opting for insulated outerwear, hats, and gloves. Despite the dreariness of winter, it\u2019s worth noting that such cold is typical for February in this region, offering an opportunity for brisk walks or cozy gatherings rather than any prolonged outdoor enjoyment.",
+    "color_code": "#B8C4D1",
+    "timestamp": "2025-02-13 22:06:47",
     "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
