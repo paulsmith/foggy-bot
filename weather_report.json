@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-14T02:51:00+00:00",
-            "temperature_f": 8.059999999999999,
-            "temperature_c": -13.3,
-            "humidity": 62.760624738296,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 260,
+            "timestamp": "2025-02-14T06:51:00+00:00",
+            "temperature_f": 5.0,
+            "temperature_c": -15,
+            "humidity": 65.632582986568,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 270,
             "description": "Clear",
             "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-13T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-02-14T02:00:00-06:00",
                 "endTime": "2025-02-14T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 3,
@@ -34,7 +34,7 @@
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 3. Wind chill values as low as -11. West southwest wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly clear, with a low around 3. Wind chill values as low as -11. West southwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -47,18 +47,18 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": null
                 },
                 "windSpeed": "10 to 20 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/snow,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Snow",
-                "detailedForecast": "A chance of snow after 4pm. Mostly cloudy, with a high near 27. Wind chill values as low as -9. South wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 27. Wind chill values as low as -9. South wind 10 to 20 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a stark winter chill, with temperatures lingering in the low single digits. The air feels sharply crisp, complemented by a biting wind that adds to the overall chilliness. Although the sky is clear, the day\u2019s openness does little to mitigate the severity of the cold, creating an environment that is not conducive to prolonged outdoor activities without proper attire. \n\nLooking ahead, the night will remain largely clear, dipping to around three degrees, while wind chill could plunge to a bone-chilling minus eleven. Tomorrow, a shift in conditions is anticipated, with a chance of snow arriving late in the afternoon, and the high near 27 offering only fleeting relief from the cold. Gusty winds will continue to create a wind chill that feels even colder, lending a sense of urgency to finding warmth indoors. While the beach may appear inviting in its stark winter beauty, wave conditions may present moderate activity given the winds, so those planning to enjoy the outdoors should dress warmly in layers, opting for insulated outerwear, hats, and gloves. Despite the dreariness of winter, it\u2019s worth noting that such cold is typical for February in this region, offering an opportunity for brisk walks or cozy gatherings rather than any prolonged outdoor enjoyment.",
-    "color_code": "#B8C4D1",
-    "timestamp": "2025-02-13 22:06:47",
+    "weather_report": "Current conditions in Evanston reveal a brisk winter scene, with temperatures hovering in the low single digits, accompanied by a blanket of natural stillness in the clear night air. The wind carries a chill, creating wind chill values that plunge well into negative territory, an omen of what one might feel stepping outdoors. As the forecast for Friday unfurls, expect a shift to mostly cloudy skies, though the day may bring a modest high in the upper 20s. With gusts predicted, the air will remain lively and invigorating, likely feeling colder due to the wind.\n\nAs day breaks, the appearance is distinctly wintry and raw. The lake may churn restlessly, with potential waves crashing onto the shore, yet the absence of precipitation will keep the landscape dry. It\u2019s advisable to bundle up with layers, a warm coat, gloves, and perhaps a comfortable hat, as the temperatures are typical for mid-February in this region\u2014a time for cozying up indoors with a good book or braving the cold for a brisk walk along the shoreline. Valentine's Day may lend a romantic hue to indoor pursuits, so consider a warm caf\u00e9 visit to celebrate, or take a moment to appreciate nature\u2019s stark beauty along Lake Michigan.",
+    "color_code": "#A3B0C1",
+    "timestamp": "2025-02-14 02:07:32",
     "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
