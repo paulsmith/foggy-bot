@@ -7,58 +7,58 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-14T06:51:00+00:00",
-            "temperature_f": 5.0,
-            "temperature_c": -15,
-            "humidity": 65.632582986568,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 270,
-            "description": "Clear",
-            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
+            "timestamp": "2025-02-14T10:51:00+00:00",
+            "temperature_f": 3.0199999999999996,
+            "temperature_c": -16.1,
+            "humidity": 71.888891075774,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 240,
+            "description": "Partly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-14T02:00:00-06:00",
-                "endTime": "2025-02-14T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 3,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 3. Wind chill values as low as -11. West southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2025-02-14T06:00:00-06:00",
                 "endTime": "2025-02-14T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 27,
+                "temperature": 28,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
                 "windSpeed": "10 to 20 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 27. Wind chill values as low as -9. South wind 10 to 20 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/snow,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Snow",
+                "detailedForecast": "A slight chance of snow after 5pm. Mostly cloudy. High near 28, with temperatures falling to around 25 in the afternoon. Wind chill values as low as -8. South wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-14T18:00:00-06:00",
+                "endTime": "2025-02-15T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 25,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "10 to 20 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,70?size=medium",
+                "shortForecast": "Snow",
+                "detailedForecast": "Snow before 4am, then snow likely and a slight chance of freezing drizzle. Cloudy. Low around 25, with temperatures rising to around 28 overnight. South southeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a brisk winter scene, with temperatures hovering in the low single digits, accompanied by a blanket of natural stillness in the clear night air. The wind carries a chill, creating wind chill values that plunge well into negative territory, an omen of what one might feel stepping outdoors. As the forecast for Friday unfurls, expect a shift to mostly cloudy skies, though the day may bring a modest high in the upper 20s. With gusts predicted, the air will remain lively and invigorating, likely feeling colder due to the wind.\n\nAs day breaks, the appearance is distinctly wintry and raw. The lake may churn restlessly, with potential waves crashing onto the shore, yet the absence of precipitation will keep the landscape dry. It\u2019s advisable to bundle up with layers, a warm coat, gloves, and perhaps a comfortable hat, as the temperatures are typical for mid-February in this region\u2014a time for cozying up indoors with a good book or braving the cold for a brisk walk along the shoreline. Valentine's Day may lend a romantic hue to indoor pursuits, so consider a warm caf\u00e9 visit to celebrate, or take a moment to appreciate nature\u2019s stark beauty along Lake Michigan.",
-    "color_code": "#A3B0C1",
-    "timestamp": "2025-02-14 02:07:32",
-    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
+    "weather_report": "Current conditions in Evanston reveal a chill in the air, with temperatures resting in the low single digits alongside a biting breeze. Although partly cloudy, the day carries with it an unmistakable briskness that could lead to a few flurries later on. Residents can expect a significant uptick in cloud cover as we move through the afternoon, with temperatures only reaching the high 20s. Wind chill values may plunge to uncomfortable levels, reminding everyone that February in the Midwest demands warm attire.\n\nAs we transition into the evening, snow is likely to blanket the area, making for slippery roads and potential accumulations of 1 to 3 inches. The snow's arrival brings a quieter, cozy feel to the winter landscape, but caution is advised when venturing outside. Given the notable chill, warm layers, sturdy boots, and perhaps a waterproof outer jacket will be essential for anyone braving the elements. This weather certainly reflects winter\u2019s peak in the Midwest, as temperatures are on par with what one would expect for this time of year. While outdoor activities might be limited due to the impending snowfall, indoor pursuits or a warming visit to a local caf\u00e9 could be delightful options, especially as today also marks Valentine\u2019s Day, an occasion celebrated by many.",
+    "color_code": "#C2D4D6",
+    "timestamp": "2025-02-14 06:09:12",
+    "icon_url": "https://api.weather.gov/icons/land/night/sct?size=medium"
 }
