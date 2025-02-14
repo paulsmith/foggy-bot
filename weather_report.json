@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-14T14:51:00+00:00",
-            "temperature_f": 10.940000000000001,
-            "temperature_c": -11.7,
-            "humidity": 66.428824589943,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 170,
+            "timestamp": "2025-02-14T18:51:00+00:00",
+            "temperature_f": 24.08,
+            "temperature_c": -4.4,
+            "humidity": 47.511694826835,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 160,
             "description": "Cloudy",
             "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-14T09:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-14T14:00:00-06:00",
                 "endTime": "2025-02-14T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 28,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "10 to 20 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/snow,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Snow",
-                "detailedForecast": "A slight chance of snow after 5pm. Mostly cloudy. High near 28, with temperatures falling to around 25 in the afternoon. Wind chill values as low as 0. South wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
+                "shortForecast": "Slight Chance Snow",
+                "detailedForecast": "A slight chance of snow after 5pm. Cloudy. High near 28, with temperatures falling to around 25 in the afternoon. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston present a chilly scene, with temperatures lingering in the low teens and a blustery wind from the south delivering a biting chill. The cloud-covered sky casts a muted light over the beach, adding to the wintry atmosphere. Today's forecast hints at a slight chance of snow after the afternoon, with temperatures expected to reach the upper 20s later, transitioning into a snowier evening. Snow is likely overnight, bringing with it the possibility of 1 to 3 inches of accumulation. The winds, gusty and vigorous, could make for some rather wild conditions along the lakeshore.\n\nGiven the current winter chill and overcast skies, dressing warmly with layers is essential; a heavy coat, hats, gloves, and sturdy boots are recommended for those venturing outside. As for activities, it may be a good time for indoor pursuits or perhaps a brisk walk along the beach\u2014provided one is properly bundled up. The frigid temperatures are typical for a mid-February day in the Midwest, a time when winter still holds its grasp tightly. The day also holds the significance of Valentine's Day, which might bring a few more souls outside as they seek to enjoy the cozy, romantic charm of the season, though they should be wary of the impending snowfall.",
-    "color_code": "#4B8DAB",
-    "timestamp": "2025-02-14 10:06:33",
+    "weather_report": "The current weather in Evanston, Illinois is quite chilly, with temperatures hovering in the mid-20s and a strong, blustery wind adding a biting chill to the air. Clouds blanket the sky, casting a dull light over the landscape, creating a somewhat gloomy atmosphere perfect for sipping warm beverages indoors. As the afternoon progresses, the temperature is expected to dip slightly, with an increased chance of snow after 5 PM, promising a few inches of accumulation overnight. The wind will shift to a gentler breeze, but gusts will still deliver a chilly sting, especially near the lake where conditions can feel harsher.\n\nWith some light snowfall on the way, this isn't the best time for outdoor activities. Those venturing out should bundle up warmly\u2014think heavy coats, gloves, and perhaps a scarf to ward off the cold. The waterfront may be a bit tumultuous as well, with moderate to high waves typical for this time of year, making it best to observe from indoors rather than braving the elements on the shore. As Valentine's Day unfolds, it's a fitting occasion for cozy gatherings or cozy meals at home, contemplating the warmth of companionship against the backdrop of a wintry day.",
+    "color_code": "#A6B0B5",
+    "timestamp": "2025-02-14 14:06:06",
     "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
