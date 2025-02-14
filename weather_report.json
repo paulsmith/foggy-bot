@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-13T17:51:00+00:00",
-            "temperature_f": 17.06,
-            "temperature_c": -8.3,
-            "humidity": 64.02021527494,
+            "timestamp": "2025-02-13T23:51:00+00:00",
+            "temperature_f": 12.920000000000002,
+            "temperature_c": -10.6,
+            "humidity": 58.358440198654,
             "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 290,
-            "description": "Mostly Clear",
-            "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+            "wind_direction": 250,
+            "description": "Clear",
+            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2025-02-13T14:00:00-06:00",
+                "startTime": "2025-02-13T17:00:00-06:00",
                 "endTime": "2025-02-13T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 19,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 19, with temperatures falling to around 17 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Sunny. High near 19, with temperatures falling to around 17 in the afternoon. West wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "In Evanston, Illinois, current conditions present a biting chill, with temperatures hovering in the upper teens and a brisk wind stirring from the west. The atmosphere feels alive yet sharp, a reminder of winter\u2019s firm grip. The day boasts mostly clear skies, promising a sunny afternoon with highs creeping slightly higher before settling back to the upper teens. As evening approaches, a bite to the air will set in, with temperatures plunging toward the low single digits and wind chills potentially plummeting even lower.\n\nThe beach scene along Lake Michigan reflects the season's stark beauty, with the waters likely churned by gusty winds. In terms of precipitation, the skies are dry today, maintaining a crisp clarity that contrasts nicely with the seasonal cold. Optimal attire for venture outdoors would be layers, including a warm coat, insulated gloves, and a snug hat\u2014an absolute necessity against the fierce winds. As we move through February, these temperatures are typical for the region, lending themselves to winter activities if one dares to brave the cold. Whether walking along the beach or enjoying the serenity of a quiet park, it\u2019s a splendid day for a brisk stroll, although one may prefer to stay cozy indoors with a warm drink and a good book given the chilly elements at play.",
-    "color_code": "#5A8E8B",
-    "timestamp": "2025-02-13 14:06:11",
-    "icon_url": "https://api.weather.gov/icons/land/day/few?size=medium"
+    "weather_report": "In Evanston, the current conditions present a bracing chill, with temperatures hovering in the low teens, accompanied by a noticeable breeze that is decidedly vigorous. The air feels sharp, marking a quintessential winter's evening, ideal for bundling up. As the day progresses, the forecast indicates a sunny afternoon, with temperatures slightly rising towards the upper teens but still feeling cool due to the persistent breeze. As the sun sets, expect a drop to near freezing, and wind chill values could plunge to a stark -11, so caution is advised for anyone venturing out.\n\nGiven the clear skies and absence of precipitation, this is not the time for raindrops or snowflakes, making for a pleasant appearance at the beach, though the wind may aggravate the cool conditions. Waves may be choppy, generating an impressive spectacle, but perhaps not inviting for a swim. Layers are highly recommended\u2014a warm coat, gloves, and a hat will serve you well in this bitter air. Considering that we are deep into winter, these temperatures are not unexpected for this time of year in the Midwest. Outdoor activities might best be limited to brisk walks or watching the sunset by the shore, as long as you remain mindful of the chill.",
+    "color_code": "#A5C8D4",
+    "timestamp": "2025-02-13 18:23:34",
+    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
