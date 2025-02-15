@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-15T13:51:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 81.277356533637,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+            "timestamp": "2025-02-15T18:59:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 72.255157554836,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 340,
+            "description": "Light Snow and Fog/Mist",
+            "icon": "https://api.weather.gov/icons/land/day/snow?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-15T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-15T14:00:00-06:00",
                 "endTime": "2025-02-15T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 80
                 },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,50?size=medium",
-                "shortForecast": "Chance Snow",
-                "detailedForecast": "A chance of snow. Cloudy, with a high near 33. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+                "windSpeed": "5 to 15 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/snow,80?size=medium",
+                "shortForecast": "Snow",
+                "detailedForecast": "Snow. Cloudy, with a high near 33. North wind 5 to 15 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -42,23 +42,23 @@
                 "startTime": "2025-02-15T18:00:00-06:00",
                 "endTime": "2025-02-16T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 27,
+                "temperature": 26,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 70
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "15 to 25 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow,60?size=medium",
-                "shortForecast": "Snow Likely",
-                "detailedForecast": "Snow likely. Cloudy, with a low around 27. North wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,40/snow,70?size=medium",
+                "shortForecast": "Snow Showers Likely",
+                "detailedForecast": "Snow showers likely. Cloudy. Low around 26, with temperatures rising to around 28 overnight. North wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere, with temperatures hovering in the low 30s accompanied by a heavy feeling in the air. The day presents a cloudy canvas, setting the stage for anticipated snow flurries. As we look ahead, today\u2019s forecast indicates a 50% chance of additional snow accumulation nearing an inch, especially as winds from the north-northeast pick up to a gentle breeze later, possibly gusting to 20 mph. Tonight's outlook suggests a greater likelihood of snow, with expected accumulation of 1 to 2 inches, as the evening chill falls to around the upper 20s.\n\nGiven these conditions, attire should be warm and layered; think insulated jackets, sturdy footwear, and perhaps a hat to fend off the brisk wind. The beach along Lake Michigan might not be the ideal spot for a stroll, yet the snowy scene may offer a picturesque winter postcard appeal. With the landscape enhanced by the fresh snowfall, it invites a cozy day indoors or a brief venture outside for those embracing the wintry weather. As the calendar notes this day in mid-February, it aligns well with the typical seasonal chill expected in the Midwest, painting a seasonal story of resilience amid the cold.",
-    "color_code": "#A0B0B9",
-    "timestamp": "2025-02-15 10:05:30",
-    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+    "weather_report": "The current weather in Evanston, Illinois, presents a chilly picture, with temperatures hovering in the low 30s and a noticeable bite in the air, exacerbated by a brisk, gusty north wind. Light snow flurries mingle with fog, creating a gray haze that envelops the beachfront, casting a melancholic yet serene aura. As we move through this afternoon, snow is expected to intensify, with temperatures nudging slightly higher, maintaining a solid chill. Preparations for around half an inch of fresh snow should be made, and with the skies coated in clouds, visibility may remain hampered.\n\nHeading into the evening, snow showers will likely persist, with temperatures gradually rising to the high 20s, though the wind will continue to howl, creating an environment reminiscent of the colder months. Although the beach may not be the prime location for activities today, bundled layers, sturdy boots, and a warm hat are essential for those who venture out to appreciate the brisk air and soft snowflakes. While this February chill is typical for the region, the mild snowfall paired with gusty winds may make outdoor activities less appealing. Perhaps a cozy evening indoors or a brisk walk to enjoy the quiet beauty of a snowy lakefront would be the more fortifying option on this dreary day.",
+    "color_code": "#A0C2D7",
+    "timestamp": "2025-02-15 14:05:28",
+    "icon_url": "https://api.weather.gov/icons/land/day/snow?size=medium"
 }
