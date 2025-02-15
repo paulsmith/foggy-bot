@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-14T22:51:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 45.608526116688,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 130,
-            "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+            "timestamp": "2025-02-15T03:16:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 87.85872689459,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Light Snow and Fog/Mist",
+            "icon": "https://api.weather.gov/icons/land/night/snow?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-14T18:00:00-06:00",
+                "startTime": "2025-02-14T21:00:00-06:00",
                 "endTime": "2025-02-15T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 25,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 80
                 },
-                "windSpeed": "10 to 20 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/snow,100/snow,30?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,30?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy. Low around 25, with temperatures rising to around 29 overnight. South southeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+                "detailedForecast": "Snow. Cloudy. Low around 25, with temperatures rising to around 29 overnight. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois paints a decidedly wintry picture, with temperatures hovering in the mid-20s, a chilly breeze stirring from the southeast, and dense clouds casting a gray pall over the landscape. As evening approaches, conditions are expected to deteriorate further, giving way to a snowfall that promises to blanket the area with 1 to 3 inches of fresh powder. The biting chill combined with the gusty winds creates a stark, cool atmosphere, best suited for those properly bundled against the elements.\n\nLooking ahead, Saturday will continue the theme of snowy conditions and overcast skies, with temperatures struggling to reach the low 30s. The overall vibe is quite uninviting for leisurely outside activities, urging people to stay warm indoors or seek shelter while navigating the snowy backdrop. Considering the currents of Lake Michigan, waves may present a brisk sight, reflecting the tumult of impending weather. Given these conditions, layered clothing, a sturdy winter coat, and waterproof boots will be essential to endure the harsh environment. Although it's not a holiday, the forecast suggests a typical mid-winter day in this part of the world, reminiscent of the season's unyielding grip.",
-    "color_code": "#A4B6C1",
-    "timestamp": "2025-02-14 18:23:09",
-    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+    "weather_report": "In Evanston, the evening unfolds under a veil of light snow, accompanied by the gentle whisper of mist. Currently, temperatures are in the low 20s, creating a crisp and cool atmosphere that fills the air with a delicate chill, perfect for enjoying the serene beauty of winter. As the night progresses, expect the mercury to dip slightly, with snow accumulation predicted, transforming the landscape into a wintry wonderland. The remainder of the weekend promises continued snowfall, with chances of precipitation at 80%, keeping those planning outdoor excursions on alert.\n\nWith a cloud cover hanging overhead, the visibility may diminish, casting a muted light over the Lake Michigan shoreline, while waves may exhibit a gentle roll typical of winter conditions. As for attire, warm layers are essential\u2014consider bundling up with a heavy coat, scarf, and gloves, as any outdoor activities will require protection against the biting chill. This mid-February weather, characteristic of the season, invites cozy moments indoors or brisk walks for those who seize the opportunity amidst falling snowflakes. As Valentine's Day draws near, couples may find enchanting strolls along the beach particularly romantic in this picturesque setting.",
+    "color_code": "#D8E0E3",
+    "timestamp": "2025-02-14 22:06:39",
+    "icon_url": "https://api.weather.gov/icons/land/night/snow?size=medium"
 }
