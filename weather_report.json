@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-15T10:51:00+00:00",
-            "temperature_f": 28.94,
-            "temperature_c": -1.7,
-            "humidity": 74.711706970209,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 120,
+            "timestamp": "2025-02-15T13:51:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 81.277356533637,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-15T06:00:00-06:00",
+                "startTime": "2025-02-15T10:00:00-06:00",
                 "endTime": "2025-02-15T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -31,10 +31,10 @@
                     "value": 50
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "NE",
+                "windDirection": "NNE",
                 "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,50?size=medium",
                 "shortForecast": "Chance Snow",
-                "detailedForecast": "A chance of snow. Cloudy, with a high near 33. Northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+                "detailedForecast": "A chance of snow. Cloudy, with a high near 33. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "As dawn breaks over Evanston, temperatures hover in the low 30s, bringing a chilly bite to the morning air. The day is enveloped in a thick layer of clouds, creating a muted atmosphere, with a noticeable breeze whispering in from the northeast, creating an overall feeling of briskness. Throughout the day, a chance of snow looms, and the city may see a light dusting at times, with potential accumulation later in the evening. This wintry scenario brings not only a cold chill but also a sense of cozy anticipation for residents who enjoy the quieter side of winter.\n\nWaves along Lake Michigan are likely to be somewhat choppy, with winds picking up as the day progresses, gusting up to 20 mph. For those venturing outdoors, it's best to bundle up in warm layers, considering gloves and a hat essential to ward off the cold. Despite being chillier than average for mid-February\u2014when winter often wears thin\u2014the weather offers a quintessential seasonal landscape perfect for those looking to enjoy a brisk walk along the shore or perhaps a warm drink at a nearby caf\u00e9. As evening approaches, snow showers are likely to intensify, further transforming the landscape into a serene winter wonderland, making this day a lovely prelude to the weekend.",
-    "color_code": "#A3B0B4",
-    "timestamp": "2025-02-15 06:08:10",
-    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
+    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere, with temperatures hovering in the low 30s accompanied by a heavy feeling in the air. The day presents a cloudy canvas, setting the stage for anticipated snow flurries. As we look ahead, today\u2019s forecast indicates a 50% chance of additional snow accumulation nearing an inch, especially as winds from the north-northeast pick up to a gentle breeze later, possibly gusting to 20 mph. Tonight's outlook suggests a greater likelihood of snow, with expected accumulation of 1 to 2 inches, as the evening chill falls to around the upper 20s.\n\nGiven these conditions, attire should be warm and layered; think insulated jackets, sturdy footwear, and perhaps a hat to fend off the brisk wind. The beach along Lake Michigan might not be the ideal spot for a stroll, yet the snowy scene may offer a picturesque winter postcard appeal. With the landscape enhanced by the fresh snowfall, it invites a cozy day indoors or a brief venture outside for those embracing the wintry weather. As the calendar notes this day in mid-February, it aligns well with the typical seasonal chill expected in the Midwest, painting a seasonal story of resilience amid the cold.",
+    "color_code": "#A0B0B9",
+    "timestamp": "2025-02-15 10:05:30",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
