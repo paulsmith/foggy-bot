@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-14T18:51:00+00:00",
+            "timestamp": "2025-02-14T22:51:00+00:00",
             "temperature_f": 24.08,
             "temperature_c": -4.4,
-            "humidity": 47.511694826835,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 160,
+            "humidity": 45.608526116688,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 130,
             "description": "Cloudy",
             "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-14T14:00:00-06:00",
-                "endTime": "2025-02-14T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "15 to 20 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
-                "shortForecast": "Slight Chance Snow",
-                "detailedForecast": "A slight chance of snow after 5pm. Cloudy. High near 28, with temperatures falling to around 25 in the afternoon. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-14T18:00:00-06:00",
                 "endTime": "2025-02-15T06:00:00-06:00",
@@ -47,18 +28,37 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 100
                 },
                 "windSpeed": "10 to 20 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,70?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,100/snow,30?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow before 4am, then snow likely and a slight chance of freezing drizzle. Cloudy. Low around 25, with temperatures rising to around 28 overnight. South southeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected."
+                "detailedForecast": "Snow. Cloudy. Low around 25, with temperatures rising to around 29 overnight. South southeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-02-15T06:00:00-06:00",
+                "endTime": "2025-02-15T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,80?size=medium",
+                "shortForecast": "Snow",
+                "detailedForecast": "Snow. Cloudy, with a high near 33. East wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois is quite chilly, with temperatures hovering in the mid-20s and a strong, blustery wind adding a biting chill to the air. Clouds blanket the sky, casting a dull light over the landscape, creating a somewhat gloomy atmosphere perfect for sipping warm beverages indoors. As the afternoon progresses, the temperature is expected to dip slightly, with an increased chance of snow after 5 PM, promising a few inches of accumulation overnight. The wind will shift to a gentler breeze, but gusts will still deliver a chilly sting, especially near the lake where conditions can feel harsher.\n\nWith some light snowfall on the way, this isn't the best time for outdoor activities. Those venturing out should bundle up warmly\u2014think heavy coats, gloves, and perhaps a scarf to ward off the cold. The waterfront may be a bit tumultuous as well, with moderate to high waves typical for this time of year, making it best to observe from indoors rather than braving the elements on the shore. As Valentine's Day unfolds, it's a fitting occasion for cozy gatherings or cozy meals at home, contemplating the warmth of companionship against the backdrop of a wintry day.",
-    "color_code": "#A6B0B5",
-    "timestamp": "2025-02-14 14:06:06",
+    "weather_report": "The current weather in Evanston, Illinois paints a decidedly wintry picture, with temperatures hovering in the mid-20s, a chilly breeze stirring from the southeast, and dense clouds casting a gray pall over the landscape. As evening approaches, conditions are expected to deteriorate further, giving way to a snowfall that promises to blanket the area with 1 to 3 inches of fresh powder. The biting chill combined with the gusty winds creates a stark, cool atmosphere, best suited for those properly bundled against the elements.\n\nLooking ahead, Saturday will continue the theme of snowy conditions and overcast skies, with temperatures struggling to reach the low 30s. The overall vibe is quite uninviting for leisurely outside activities, urging people to stay warm indoors or seek shelter while navigating the snowy backdrop. Considering the currents of Lake Michigan, waves may present a brisk sight, reflecting the tumult of impending weather. Given these conditions, layered clothing, a sturdy winter coat, and waterproof boots will be essential to endure the harsh environment. Although it's not a holiday, the forecast suggests a typical mid-winter day in this part of the world, reminiscent of the season's unyielding grip.",
+    "color_code": "#A4B6C1",
+    "timestamp": "2025-02-14 18:23:09",
     "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
