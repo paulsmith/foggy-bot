@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-15T22:58:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 75.018440463752,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 30,
+            "timestamp": "2025-02-16T01:51:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 78.363087668207,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-15T18:00:00-06:00",
+                "startTime": "2025-02-15T22:00:00-06:00",
                 "endTime": "2025-02-16T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 26,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 80
                 },
                 "windSpeed": "15 to 25 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow,40/snow,70?size=medium",
-                "shortForecast": "Snow Showers Likely",
-                "detailedForecast": "Snow showers likely. Cloudy. Low around 26, with temperatures rising to around 28 overnight. North wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,40/snow,80?size=medium",
+                "shortForecast": "Snow Showers",
+                "detailedForecast": "Snow showers. Cloudy. Low around 26, with temperatures rising to around 28 overnight. North wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
             },
             {
                 "number": 2,
@@ -47,18 +47,18 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 70
                 },
                 "windSpeed": "25 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,50/snow,20?size=medium",
-                "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Cloudy. High near 29, with temperatures falling to around 22 in the afternoon. Northwest wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,70/snow,20?size=medium",
+                "shortForecast": "Snow Showers Likely",
+                "detailedForecast": "Snow showers likely. Cloudy. High near 29, with temperatures falling to around 22 in the afternoon. Northwest wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston paint a chilly and wintry scene, with temperatures hovering in the low 30s, making it feel quite brisk. The air is thick with moisture, adding a damp chill that many in the area will notice as they step outside. A blustery wind from the northeast stirs the atmosphere, suggesting a persistent winter vibe that won't let up easily. \n\nAs we look ahead, tonight brings likely snow showers, adding to the overcast skies, with lows dipping close to 26 degrees and temperatures rising slightly overnight. The gusts could reach up to 40 mph, making for an intense winter evening. Tomorrow, expect a continued chance of snow, with a high near 29 and a noticeable drop as the day goes on. Despite the promise of some snowfall, it seems the accumulation will be modest, with less than half an inch expected on Sunday. Those intending to venture outdoors would do well to bundle up and prepare for blustery, cold conditions; layering will be key to combatting the chill. Given the current season, these temperatures align well with what one would expect in mid-February, often characterized by frostbiting air and muted, gray skies. For those seeking activity, it might be best to stick to indoor pursuits or perhaps enjoy a brisk walk along the beach, where the waves will be agitated but the snowy landscape offers its own beauty.",
-    "color_code": "#A0B8D8",
-    "timestamp": "2025-02-15 18:25:52",
-    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+    "weather_report": "Current conditions in Evanston paint a classic winter scene, with temperatures in the low 30s and a damp chill permeating the air, making it feel decidedly brisk and biting. The sky is cloaked in a thick blanket of clouds, casting a gray pall over the landscape, while the absence of wind keeps the surface still for now. The forecast warns of snow showers this evening, with temperatures expected to drop into the mid-20s. A gusty north wind is anticipated, whipping through at 15 to 25 mph, likely creating blustery conditions, particularly as the night deepens. Accumulations of 1 to 2 inches are possible, enhancing the already frosty spectacle.\n\nGiven these conditions, outdoor appearances may take on a somewhat gloomy air, particularly along the shores of Lake Michigan, where waves are likely to be choppy as winter continues to assert its presence. It would be wise to dress warmly in layers, with a heavy coat, scarf, and gloves recommended to battle the biting cold. Following the winter season\u2019s typical pattern, these temperatures are in line with what one would expect in February in this region, characterized by frigid weather and possible precipitation. Suggested activities might include enjoying a warm drink at a local caf\u00e9 or taking a brisk walk, feeling the crisp winter air invigorate your senses, as long as you are suitably attired for the chilly embrace of the evening.",
+    "color_code": "#A1C8E4",
+    "timestamp": "2025-02-15 22:06:29",
+    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
