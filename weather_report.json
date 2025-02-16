@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-15T18:59:00+00:00",
+            "timestamp": "2025-02-15T22:58:00+00:00",
             "temperature_f": 32.0,
             "temperature_c": 0,
-            "humidity": 72.255157554836,
+            "humidity": 75.018440463752,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 340,
-            "description": "Light Snow and Fog/Mist",
-            "icon": "https://api.weather.gov/icons/land/day/snow?size=medium"
+            "wind_direction": 30,
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-15T14:00:00-06:00",
-                "endTime": "2025-02-15T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 33,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "5 to 15 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,80?size=medium",
-                "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy, with a high near 33. North wind 5 to 15 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-15T18:00:00-06:00",
                 "endTime": "2025-02-16T06:00:00-06:00",
@@ -54,11 +35,30 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow,40/snow,70?size=medium",
                 "shortForecast": "Snow Showers Likely",
                 "detailedForecast": "Snow showers likely. Cloudy. Low around 26, with temperatures rising to around 28 overnight. North wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-02-16T06:00:00-06:00",
+                "endTime": "2025-02-16T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 29,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 50
+                },
+                "windSpeed": "25 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/snow,50/snow,20?size=medium",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers. Cloudy. High near 29, with temperatures falling to around 22 in the afternoon. Northwest wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois, presents a chilly picture, with temperatures hovering in the low 30s and a noticeable bite in the air, exacerbated by a brisk, gusty north wind. Light snow flurries mingle with fog, creating a gray haze that envelops the beachfront, casting a melancholic yet serene aura. As we move through this afternoon, snow is expected to intensify, with temperatures nudging slightly higher, maintaining a solid chill. Preparations for around half an inch of fresh snow should be made, and with the skies coated in clouds, visibility may remain hampered.\n\nHeading into the evening, snow showers will likely persist, with temperatures gradually rising to the high 20s, though the wind will continue to howl, creating an environment reminiscent of the colder months. Although the beach may not be the prime location for activities today, bundled layers, sturdy boots, and a warm hat are essential for those who venture out to appreciate the brisk air and soft snowflakes. While this February chill is typical for the region, the mild snowfall paired with gusty winds may make outdoor activities less appealing. Perhaps a cozy evening indoors or a brisk walk to enjoy the quiet beauty of a snowy lakefront would be the more fortifying option on this dreary day.",
-    "color_code": "#A0C2D7",
-    "timestamp": "2025-02-15 14:05:28",
-    "icon_url": "https://api.weather.gov/icons/land/day/snow?size=medium"
+    "weather_report": "Current conditions in Evanston paint a chilly and wintry scene, with temperatures hovering in the low 30s, making it feel quite brisk. The air is thick with moisture, adding a damp chill that many in the area will notice as they step outside. A blustery wind from the northeast stirs the atmosphere, suggesting a persistent winter vibe that won't let up easily. \n\nAs we look ahead, tonight brings likely snow showers, adding to the overcast skies, with lows dipping close to 26 degrees and temperatures rising slightly overnight. The gusts could reach up to 40 mph, making for an intense winter evening. Tomorrow, expect a continued chance of snow, with a high near 29 and a noticeable drop as the day goes on. Despite the promise of some snowfall, it seems the accumulation will be modest, with less than half an inch expected on Sunday. Those intending to venture outdoors would do well to bundle up and prepare for blustery, cold conditions; layering will be key to combatting the chill. Given the current season, these temperatures align well with what one would expect in mid-February, often characterized by frostbiting air and muted, gray skies. For those seeking activity, it might be best to stick to indoor pursuits or perhaps enjoy a brisk walk along the beach, where the waves will be agitated but the snowy landscape offers its own beauty.",
+    "color_code": "#A0B8D8",
+    "timestamp": "2025-02-15 18:25:52",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
