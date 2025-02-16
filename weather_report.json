@@ -7,34 +7,34 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-16T10:51:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 78.009892957999,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 320,
-            "description": "Light Snow",
-            "icon": "https://api.weather.gov/icons/land/night/snow?size=medium"
+            "timestamp": "2025-02-16T14:51:00+00:00",
+            "temperature_f": 24.98,
+            "temperature_c": -3.9,
+            "humidity": 71.479945623777,
+            "wind_speed_mph": 53.95644000000001,
+            "wind_direction": 310,
+            "description": "Mostly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-16T06:00:00-06:00",
+                "startTime": "2025-02-16T10:00:00-06:00",
                 "endTime": "2025-02-16T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 28,
+                "temperature": 27,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 30
                 },
-                "windSpeed": "25 mph",
+                "windSpeed": "20 to 25 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,80/snow,20?size=medium",
-                "shortForecast": "Snow then Periods Of Snow Showers",
-                "detailedForecast": "Snow before 11am, then periods of snow showers and a slight chance of snow. Cloudy. High near 28, with temperatures falling to around 24 in the afternoon. Northwest wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,30?size=medium",
+                "shortForecast": "Slight Chance Snow then Snow Showers Likely",
+                "detailedForecast": "A slight chance of snow before 11am, then snow showers likely and a chance of snow. Cloudy. High near 27, with temperatures falling to around 23 in the afternoon. Northwest wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -42,23 +42,23 @@
                 "startTime": "2025-02-16T18:00:00-06:00",
                 "endTime": "2025-02-17T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 3,
+                "temperature": 4,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 25 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 3. Wind chill values as low as -15. West northwest wind 15 to 25 mph, with gusts as high as 35 mph."
+                "icon": "https://api.weather.gov/icons/land/night/snow/cold?size=medium",
+                "shortForecast": "Chance Snow Showers then Mostly Cloudy",
+                "detailedForecast": "A chance of snow showers before 8pm. Mostly cloudy, with a low around 4. Wind chill values as low as -15. West northwest wind 15 to 20 mph, with gusts as high as 35 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly, wintry scene with light snow falling and temperatures hovering in the mid 20s. The air feels particularly crisp due to brisk winds blowing from the northwest, creating a biting chill that underscores the snowy landscape. As the day unfolds, more snow is expected before the sun climbs higher, transitioning to intermittent snow showers and overcast skies. With a maximum temperature only reaching near the upper 20s later on, it\u2019s likely to feel quite raw, particularly with wind gusts nearing 40 miles per hour.\n\nAs evening approaches, conditions will only get more frigid, dropping to around 3 degrees, accentuated by wind chills plummeting to minus 15. Given the snow-covered beach and icy shores along Lake Michigan, wave conditions are likely to be turbulent, posing dangers for any waterfront activities. Residents are advised to dress warmly in layered clothing, including hats and heavy winter coats, if venturing outdoors. With the cold season firmly in place, these temperatures are consistent with a typical Chicago winter. While the weather isn\u2019t inviting for outdoor leisure, a cozy day indoors with warm drinks might be the ideal way to manage the wintry chill.",
-    "color_code": "#A9B0C3",
-    "timestamp": "2025-02-16 06:10:24",
-    "icon_url": "https://api.weather.gov/icons/land/night/snow?size=medium"
+    "weather_report": "In Evanston, the current conditions reflect a brisk winter morning with temperatures lingering in the mid-20s. The atmosphere is filled with a sense of chilliness, compounded by a blustery wind that adds to the bite of the cold. As clouds loom overhead, visibility may seem somewhat muted, creating a typical winter tableau. Today's forecast suggests a slight chance of snow early, making way for more snow showers as the day progresses, with a high expected near 27 degrees and temperatures falling through the afternoon. Tonight, the cold intensifies, dipping into the low single digits, accompanied by a rather sharp wind chill that could feel as frigid as -15.\n\nThe beach, ordinarily a place of warmth and vibrancy, now presents a scene that's more stark and foreboding against the sweeping winds and rolling waves of Lake Michigan. While snowfall may be light and accumulation minimal, the overcast skies and winter conditions render outdoor activities rather challenging. Such weather calls for warm attire, ideally layered and insulated, to guard against the biting chill. Despite the cold, die-hard winter enthusiasts might embrace the brisk environment for a short walk, preferably with sturdy boots to navigate the potentially slippery conditions. As a reminder, today is not a holiday, but it sets the stage for the upcoming seasons, capturing the essence of winter in this lakeside community.",
+    "color_code": "#A2BFFE",
+    "timestamp": "2025-02-16 10:05:54",
+    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
 }
