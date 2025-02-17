@@ -7,23 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-16T22:51:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 59.382422302313,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 300,
-            "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+            "timestamp": "2025-02-17T02:51:00+00:00",
+            "temperature_f": 15.079999999999998,
+            "temperature_c": -9.4,
+            "humidity": 55.359706173668,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 280,
+            "description": "Clear",
+            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-16T18:00:00-06:00",
+                "startTime": "2025-02-16T22:00:00-06:00",
                 "endTime": "2025-02-17T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 4,
+                "temperature": 3,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -32,9 +32,9 @@
                 },
                 "windSpeed": "15 to 20 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/snow/cold?size=medium",
-                "shortForecast": "Chance Snow Showers then Partly Cloudy",
-                "detailedForecast": "A chance of snow showers before 7pm. Partly cloudy, with a low around 4. Wind chill values as low as -13. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear. Low around 3, with temperatures rising to around 5 overnight. Wind chill values as low as -13. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Current weather conditions in Evanston are quite crisp, with temperatures in the low 20s and a substantial wind that adds a biting chill to the air. It's mostly cloudy, enhancing the wintery feel as wind gusts whip through at a fierce pace, creating a wintry scene that might discourage long outdoor excursions. As evening approaches, expect a chance of snow flurries before 7 PM, transitioning to partly cloudy skies with temperatures dipping to around 4 degrees, while wind chills could plunge as low as -13. \n\nFor the upcoming weather, Washington's Birthday promises to be partly sunny, though daytime temperatures will only rise to the low teens, accompanied by similar wind chill values. Perfect for bundled sweaters and thick coats, those venturing outside should prepare for cold and breezy conditions. The lake may feature moderate waves, typical for this time of year, which could be enticing for a brisk stroll along the beach, although caution is advised given the strong winds. Overall, this is a classic winter day in the Midwest, with temperatures reflecting the season and region. Ideal activities might include cozying up with a warm drink or preparing for the upcoming holiday celebrations as Presidents\u2019 Day draws near.",
-    "color_code": "#A2B3C4",
-    "timestamp": "2025-02-16 18:25:19",
-    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+    "weather_report": "Current conditions in Evanston offer a brisk and biting chill, with temperatures resting in the mid-teens and a clear expanse above. Winds are gusty, whipping in from the west-northwest, adding a fierce edge to the evening air that feels even colder when combined with the wind chill. Overnight, expect primarily clear skies giving way to a low near freezing, though it will feel much colder, with temperatures only slightly rising as morning approaches.\n\nLooking ahead to Washington's Birthday, the forecast hints at a partly sunny day with a high creeping near the low teens, but again, the cold will make its presence felt with wind chills dipping as low as -14 degrees. Wave conditions along Lake Michigan could be slightly choppy in these blustery conditions, so keep an eye on the shoreline if venturing out. Given the frigid atmosphere, dress warmly in layers, choosing insulated outerwear and hats to guard against the penetrating cold. As winter envelops the Midwest, today\u2019s temperatures align with the expected chill of this season, setting a fitting backdrop for indoor activities. With no special holidays on the horizon, a cozy day spent at home, perhaps by the fireside, could be ideal as the weather remains truly unforgiving.",
+    "color_code": "#B2C9E4",
+    "timestamp": "2025-02-16 22:07:20",
+    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
