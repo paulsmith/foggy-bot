@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-16T18:51:00+00:00",
-            "temperature_f": 26.060000000000002,
-            "temperature_c": -3.3,
-            "humidity": 65.223838384227,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 320,
-            "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+            "timestamp": "2025-02-16T22:51:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 59.382422302313,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 300,
+            "description": "Mostly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-16T14:00:00-06:00",
-                "endTime": "2025-02-16T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30?size=medium",
-                "shortForecast": "Snow Showers Likely",
-                "detailedForecast": "Snow showers likely and a chance of snow. Cloudy. High near 27, with temperatures falling to around 22 in the afternoon. Northwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-16T18:00:00-06:00",
                 "endTime": "2025-02-17T06:00:00-06:00",
@@ -54,11 +35,30 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow/cold?size=medium",
                 "shortForecast": "Chance Snow Showers then Partly Cloudy",
                 "detailedForecast": "A chance of snow showers before 7pm. Partly cloudy, with a low around 4. Wind chill values as low as -13. West northwest wind 15 to 20 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Washington's Birthday",
+                "startTime": "2025-02-17T06:00:00-06:00",
+                "endTime": "2025-02-17T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 11,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 11. Wind chill values as low as -14. West northwest wind around 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "The current weather in Evanston is characterized by a chill in the air, with temperatures settling in the mid 20s and a strong, brisk wind creating a biting sensation. The sky hangs heavy with clouds, suggesting a looming chance of snow showers this afternoon, echoing the wintery conditions typical for this time of year. As the day unfolds, temperatures are expected to barely reach into the upper 20s before dropping further into the low single digits by tonight, where wind chill values may plunge to a biting -13. \n\nWith the forecast calling for occasional snow showers and a blustery northwest wind gusting up to 35 mph, it would be wise to dress warmly in layered clothing, with a sturdy coat, hat, gloves, and insulated footwear. The wave conditions are likely choppy along Lake Michigan, making any water-related activities uninviting. This frost-laden day, blending cloudiness with a touch of snow, captures the essence of a typical February afternoon in the Midwest, a time when people often seek the warmth of indoors rather than the brisk embrace of the outdoors.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-02-16 14:06:04",
-    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+    "weather_report": "Current weather conditions in Evanston are quite crisp, with temperatures in the low 20s and a substantial wind that adds a biting chill to the air. It's mostly cloudy, enhancing the wintery feel as wind gusts whip through at a fierce pace, creating a wintry scene that might discourage long outdoor excursions. As evening approaches, expect a chance of snow flurries before 7 PM, transitioning to partly cloudy skies with temperatures dipping to around 4 degrees, while wind chills could plunge as low as -13. \n\nFor the upcoming weather, Washington's Birthday promises to be partly sunny, though daytime temperatures will only rise to the low teens, accompanied by similar wind chill values. Perfect for bundled sweaters and thick coats, those venturing outside should prepare for cold and breezy conditions. The lake may feature moderate waves, typical for this time of year, which could be enticing for a brisk stroll along the beach, although caution is advised given the strong winds. Overall, this is a classic winter day in the Midwest, with temperatures reflecting the season and region. Ideal activities might include cozying up with a warm drink or preparing for the upcoming holiday celebrations as Presidents\u2019 Day draws near.",
+    "color_code": "#A2B3C4",
+    "timestamp": "2025-02-16 18:25:19",
+    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
 }
