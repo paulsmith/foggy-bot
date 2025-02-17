@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-17T10:51:00+00:00",
-            "temperature_f": 3.0199999999999996,
-            "temperature_c": -16.1,
-            "humidity": 62.029778863373,
-            "wind_speed_mph": 33.01812,
+            "timestamp": "2025-02-17T13:51:00+00:00",
+            "temperature_f": 1.9400000000000048,
+            "temperature_c": -16.7,
+            "humidity": 68.71519322106,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 270,
-            "description": "Clear",
-            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
+            "description": "Mostly Clear",
+            "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Washington's Birthday",
-                "startTime": "2025-02-17T06:00:00-06:00",
+                "startTime": "2025-02-17T10:00:00-06:00",
                 "endTime": "2025-02-17T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 11,
@@ -34,7 +34,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 11, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -14. West northwest wind around 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly sunny. High near 11, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -10. West northwest wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the morning is marked by a particularly brisk chill, with a temperature hovering in the low single digits, and a wind that is both strong and relentless, creating an atmosphere that feels much colder. Current conditions are clear, allowing the sun to peek through, but with significant wind chill, it feels far more like a frosty winter's day than what the thermometer might suggest. The forecast points to a partly sunny day ahead, with a high expected to reach the low teens, but conditions will further drop to near-zero temperatures by evening, accompanied by a chilling breeze from the northwest.\n\nThe beach, typically a vibrant escape, is currently subdued under the weight of winter. Waves from Lake Michigan may be quite lively with the wind, but their movements contribute to a stark, rather than inviting, landscape. As precipitation is notably absent, it\u2019s a dry day, though the persistent cold makes outdoor activities less appealing. Layers are essential, and wearing a heavy coat, warm hat, and gloves is advisable to combat the biting cold. As this is Washington's Birthday, one might consider indoor celebrations or cozy gatherings to stay warm. Overall, today\u2019s weather is a reminder of the season\u2019s frigid grasp, and while the sun may shine intermittently, the chill in the air suggests a stay-close-to-home approach.",
-    "color_code": "#A3C1C4",
-    "timestamp": "2025-02-17 06:09:40",
-    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
+    "weather_report": "Current conditions in Evanston present a biting chill, with temperatures hovering in the low single digits, compounded by a robust breeze that adds to the discomfort. The sky appears mostly clear, though the air carries the promise of a chilly day ahead. As for today's forecast, expect partly sunny skies with a high nearing 11 degrees, but temperatures will decrease to around 9 in the afternoon. Wind chills may plummet to as low as -10 due to a persistent west-northwest wind, gusting fiercely, intensifying the sense of cold. \n\nTonight, conditions will remain partly cloudy as temperatures dip to around 0. The wind will continue to howl from the northwest, and wind chill values could reach a frigid -19. Opportunities for recreational activities outdoors may be limited; however, bundled-up walks near the beautiful shores of Lake Michigan might be enjoyable for those hearty enough to brave the elements. Given the season, these temperatures are quite typical for mid-February in the Midwest, reflecting the cold, crisp reality of a Chicago winter.",
+    "color_code": "#6F6E84",
+    "timestamp": "2025-02-17 10:06:39",
+    "icon_url": "https://api.weather.gov/icons/land/day/few?size=medium"
 }
