@@ -7,23 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-17T22:51:00+00:00",
-            "temperature_f": 8.059999999999999,
-            "temperature_c": -13.3,
-            "humidity": 44.741789745298,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 290,
-            "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+            "timestamp": "2025-02-18T02:51:00+00:00",
+            "temperature_f": 3.0199999999999996,
+            "temperature_c": -16.1,
+            "humidity": 51.076559268173,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 310,
+            "description": "Mostly Clear",
+            "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-17T18:00:00-06:00",
+                "startTime": "2025-02-17T22:00:00-06:00",
                 "endTime": "2025-02-18T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 0,
+                "temperature": -2,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -34,7 +34,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 0. Wind chill values as low as -17. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly cloudy, with a low around -2. Wind chill values as low as -18. Northwest wind 10 to 15 mph."
             },
             {
                 "number": 2,
@@ -53,12 +53,12 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 12, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -17. Northwest wind around 10 mph."
+                "detailedForecast": "Mostly sunny. High near 12, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -18. Northwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "As evening settles over Evanston, the current conditions reflect a biting chill, with temperatures hovering in the low single digits. The air feels brisk, accentuated by a fierce northwesterly wind that whips through the area, creating wind chill values that can dip to a frosty -17. The sky is mostly cloudy, but tonight is expected to trend partly cloudy, giving a glimpse of the stars beneath the cold blanket of clouds. \n\nFor tomorrow, residents can anticipate a mostly sunny day, though the temperature will remain low, reaching only around the mid-teens during the afternoon. With wind chill effects still prevalent, it is advisable to bundle up before stepping outside. Presently, the lake, agitated by the gusty winds, may produce rough wave conditions, making it less than ideal for any waterfront activities. Given the brisk and biting weather, layered clothing, warm hats, and gloves are essential for anyone venturing outdoors. While February is typically marked by frigid temperatures in the Midwest, today's chill is particularly pronounced, encouraging cozy indoor pursuits rather than frolicking in the cold. Although there are no holidays on the immediate horizon, the season\u2019s winter beauty is sure to bring moments of splendor for those who appreciate the stark allure of a cold lakeside.",
-    "color_code": "#A8B9C8",
-    "timestamp": "2025-02-17 18:23:32",
-    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+    "weather_report": "Currently in Evanston, temperatures are hovering in the low single digits with a brisk northwest wind providing an invigorating chill in the air. The atmosphere is mostly clear, perhaps enticing some hearty souls to brave the outdoors. However, as the night approaches, conditions will shift toward partly cloudy skies with temperatures plummeting to around -2, while wind chill values could make it feel as frigid as -18. Tomorrow, residents can expect a sunny yet chilly day, with highs reaching just above 10, but again feeling much colder due to the wind.\n\nThe beach scene presents a raw and rugged beauty\u2014ideal for those who appreciate the stark elegance of winter, but not for the faint of heart. Given the strong wind and cold temperatures, anyone venturing out should dress warmly in layers, donning hats, gloves, and insulated footwear to combat the biting cold. While precipitation is not anticipated, the waves of Lake Michigan may be stirred up, creating a lively environment for those who enjoy winter seascapes. This wintry weather is characteristic of mid-February in northern Illinois, where the temperatures align with the seasonal chill, suitable for winter sports or a brisk walk along the beach. With the Valentine's Day holiday just passed, the day presents an opportunity for quiet reflection rather than large gatherings, making it an ideal time for solitude or small, cozy meetups.",
+    "color_code": "#8BBEDD",
+    "timestamp": "2025-02-17 22:06:48",
+    "icon_url": "https://api.weather.gov/icons/land/night/few?size=medium"
 }
