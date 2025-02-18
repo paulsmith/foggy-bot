@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-18T06:51:00+00:00",
-            "temperature_f": -0.04000000000000625,
-            "temperature_c": -17.8,
-            "humidity": 50.549983929104,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 320,
-            "description": "Partly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+            "timestamp": "2025-02-18T10:51:00+00:00",
+            "temperature_f": -4.0,
+            "temperature_c": -20,
+            "humidity": 55.167958118599,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 300,
+            "description": "Clear",
+            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-18T02:00:00-06:00",
-                "endTime": "2025-02-18T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": -3,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around -3. Wind chill values as low as -20. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2025-02-18T06:00:00-06:00",
                 "endTime": "2025-02-18T18:00:00-06:00",
                 "isDaytime": true,
@@ -54,11 +35,30 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 12, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -21. Northwest wind around 10 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-18T18:00:00-06:00",
+                "endTime": "2025-02-19T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 4,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 4. Wind chill values as low as -10. Northwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current atmosphere is one of chilling stillness, with temperatures hovering just below freezing and winds howling fiercely from the northwest. The air is crisp and biting, a stark reminder of winter's dominance, complemented by a refreshing clarity that reveals a partly cloudy sky. As for today\u2019s forecast, expect mostly sunny conditions to greet you, but don\u2019t be deceived; the day's high will struggle to reach the low teens and wind chill values may plummet to as low as -21, making outdoor conditions feel even harsher. \n\nWave action on Lake Michigan should be moderate, visible from the beach as occasionally turbulent swells meet the shoreline. Fortunately, no additional precipitation is anticipated, keeping the day dry despite the cold. With the seasonal chill in full effect, dress warmly in layers, favoring insulated outerwear, gloves, and hats. While this weather may not entice leisurely beach strolls, it sets the stage for invigorating winter activities; perhaps a brisk walk along the shoreline or a journey to a nearby caf\u00e9 for a warm drink could provide some comfort on this frigid February day.",
-    "color_code": "#A7B2C8",
-    "timestamp": "2025-02-18 02:07:36",
-    "icon_url": "https://api.weather.gov/icons/land/night/sct?size=medium"
+    "weather_report": "In Evanston, the morning presents a biting chill, with current temperatures hovering in the low single digits, accompanied by a brisk northwest wind that gives an added bite, causing wind chill values to plummet. The sky is clear, painting a stark but beautiful backdrop for the desolate beach scene, with the icy expanse of Lake Michigan reflecting the crystalline quality of the day. As we look ahead to later today, expect mostly sunny conditions, though temperatures will barely rise above the teens, dipping into the low single digits this evening. The forecast suggests that the wind will remain gentle yet persistent, maintaining the frigid feel throughout the day and into the night.\n\nWith no precipitation forecasted, the beach scene remains unmarred by rain or snow, although the wave conditions are likely to be a bit choppy due to the wind. For those venturing outdoors, it's advisable to dress in layers that effectively ward off the cold, opting for insulated clothing, hats, gloves, and sturdy boots to traverse the frigid landscape comfortably. While the temperatures are typical for winter in the Midwest, the conditions could deter casual outdoor activities, though a brisk walk on the beach, bundled up appropriately, could provide a refreshing escape for those seeking solitude in the beauty of the season\u2019s starkness. As today is not marked by any major holiday, it remains an ordinary winter\u2019s day, offering a chance to attune to the quiet moments of nature.",
+    "color_code": "#A7C6D9",
+    "timestamp": "2025-02-18 06:09:23",
+    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
