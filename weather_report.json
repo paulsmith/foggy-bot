@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-19T06:51:00+00:00",
-            "temperature_f": 6.080000000000002,
-            "temperature_c": -14.4,
-            "humidity": 48.94081630101,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 330,
+            "timestamp": "2025-02-19T10:51:00+00:00",
+            "temperature_f": 5.0,
+            "temperature_c": -15,
+            "humidity": 56.631484335982,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 280,
             "description": "Cloudy",
             "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-19T02:00:00-06:00",
-                "endTime": "2025-02-19T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 4,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 4. Wind chill values as low as -10. Northwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2025-02-19T06:00:00-06:00",
                 "endTime": "2025-02-19T18:00:00-06:00",
                 "isDaytime": true,
@@ -53,12 +34,31 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/ovc/snow,20?size=medium",
                 "shortForecast": "Cloudy then Intermittent Snow Showers",
-                "detailedForecast": "Intermittent snow showers between 2pm and 4pm, then intermittent snow showers and a slight chance of snow. Cloudy. High near 16, with temperatures falling to around 14 in the afternoon. Wind chill values as low as -10. Northwest wind around 10 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Intermittent snow showers between 2pm and 4pm, then intermittent snow showers and a slight chance of snow. Cloudy. High near 16, with temperatures falling to around 14 in the afternoon. Wind chill values as low as -9. Northwest wind around 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-19T18:00:00-06:00",
+                "endTime": "2025-02-20T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 7,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/snow?size=medium",
+                "shortForecast": "Intermittent Snow Showers then Chance Snow",
+                "detailedForecast": "Intermittent snow showers and a slight chance of snow before 7pm, then a chance of snow and intermittent snow showers. Cloudy, with a low around 7. Wind chill values as low as -9. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "The current conditions in Evanston are quite brisk, with temperatures lingering in the low single digits, creating a biting chill that makes outdoor activities feel even colder. The day opens under a blanket of cloud cover, and with a fierce wind from the northwest at a considerable pace, it adds to the sense of chill, driving wind chill values down to a frosty -10. As we look ahead, overnight temperatures are expected to dip slightly below freezing, with a predicted low of around 4. On Wednesday, residents can anticipate intermittent snow showers in the afternoon, amid cloudy skies and temperatures climbing to the mid-teens. Despite the moderate chance of precipitation at 20%, the primary feature of the day will be the cold and overcast conditions that dominate the landscape.\n\nFor those keen on venturing outside, it\u2019s essential to dress warmly, donning layers with heavy winter coats, hats, and gloves to shield against the biting cold. Wave conditions along Lake Michigan will likely be choppy, reflecting the gusty winds and cooler air, which may not be ideal for activities near the water. While the weather is certainly challenging, this particular late winter day provides an opportunity to embrace the season's chill and perhaps enjoy indoor pursuits, such as visiting a local caf\u00e9 or partaking in community events. As for the calendar, today is a regular Tuesday in February, as the anticipation builds for the approaching spring.",
-    "color_code": "#004b87",
-    "timestamp": "2025-02-19 02:07:38",
+    "weather_report": "In Evanston this morning, residents are greeted by a frigid chill, as the temperature hovers in the low single digits. A brisk northwest wind adds to the biting sensation, making it feel as if temperatures have dipped dangerously low, casting a wintry pall over the shoreline. Skies are heavy with clouds, setting a gloomy backdrop, while the beach remains in a lull before the afternoon's forecasted intermittent snow showers. \n\nLooking ahead, today promises sporadic snow showers from 2 PM until late afternoon, with a high struggling to reach the mid-teens. Wind chill could plunge to as low as -9, making outdoor excursions feel especially harsh. Tonight follows suit with more snow chances before seven, leading to a low around 7 degrees as gusty winds will keep the air feeling particularly frosty. The waves on Lake Michigan are likely to be agitated by the gusty conditions, making for a rough surface not suited for leisurely activities. Given the weather, it is advisable for those venturing outside to bundle up in heavy, insulated layers, with hats and gloves as essentials. In this season and region, today's temperatures fall well below typical, emphasizing the need to stay warm. Outdoor plans are best postponed as the weather anticipates a bitter cold experience, rather than an inviting winter day.",
+    "color_code": "#A9B5C5",
+    "timestamp": "2025-02-19 06:09:22",
     "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
