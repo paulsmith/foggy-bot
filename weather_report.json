@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-18T18:51:00+00:00",
-            "temperature_f": 12.920000000000002,
-            "temperature_c": -10.6,
-            "humidity": 41.817052223184,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 340,
-            "description": "Mostly Clear",
-            "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+            "timestamp": "2025-02-18T22:51:00+00:00",
+            "temperature_f": 10.04,
+            "temperature_c": -12.2,
+            "humidity": 39.165770098008,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 320,
+            "description": "Mostly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-18T14:00:00-06:00",
-                "endTime": "2025-02-18T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 12,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 12, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -3. North northwest wind around 10 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-18T18:00:00-06:00",
                 "endTime": "2025-02-19T06:00:00-06:00",
@@ -53,12 +34,31 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 3, with temperatures rising to around 5 overnight. Wind chill values as low as -10. Northwest wind around 10 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 3. Wind chill values as low as -11. Northwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-02-19T06:00:00-06:00",
+                "endTime": "2025-02-19T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 15,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/snow?size=medium",
+                "shortForecast": "Mostly Cloudy then Intermittent Snow Showers",
+                "detailedForecast": "Intermittent snow showers after 3pm. Mostly cloudy. High near 15, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -11. Northwest wind 10 to 15 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reflect a typical winter's day, with temperatures hovering in the low teens and a brisk, gusty wind sweeping across the landscape. As you venture out, you'll feel the sharp sting of wind chill, which can plunge to a biting -3 degrees. The air is clear for now, promising a sunny afternoon that will see a slight drop in temperature, settling near 10 degrees. The shoreline along Lake Michigan may have some modest waves today, lending the beach a dynamic presence, though conditions remain calm in terms of precipitation, with no significant moisture expected.\n\nAs day turns to night, expect a shift towards mostly cloudy skies, with temperatures dipping further to around 3 degrees and a chilly wind that may occasionally howl. In this wintry season, such temperatures are in line with what is typical for February in the Midwest. For anyone venturing outdoors, especially near the water, layered attire including a heavy coat, hat, and gloves will be essential to ward off the cold. Given the conditions and the time of year, a brisk walk along the lakefront could be a refreshing option; however, outdoor activities should be optimized for warmth and comfort.",
-    "color_code": "#3b3c30",
-    "timestamp": "2025-02-18 14:06:12",
-    "icon_url": "https://api.weather.gov/icons/land/day/few?size=medium"
+    "weather_report": "Current conditions in Evanston, Illinois, reveal a frigid winter scene, with temperatures hovering in the low teens and a brisk northwesterly wind adding a biting edge to the air. The day is mostly shrouded in clouds, casting a dull light over the landscape, and it's an overall uncomfortable chill, with wind chill values plummeting to dangerous depths. As we look ahead, the forecast for tonight indicates a continuation of mostly cloudy skies, with temperatures expected to dip to around 3 degrees, pushing those wind chill figures even lower.\n\nAs Wednesday unfolds, expect intermittent snow showers by the afternoon, which will likely add a layer of white to the already bleak setting. The high temperature will struggle to reach the mid-teens, presenting a harsh reminder of winter\u2019s grasp on the area. With wave conditions likely to be choppy due to the blustery winds, outdoor enthusiasts should be cautious. Recommended attire includes heavy winter coats, insulated layers, hats, and scarves to combat the cold. While the chill might deter extensive outdoor activities, it's a perfect time for indoor pursuits or perhaps a brief venture outside to experience the winter wonderland\u2014always a unique sight by the lakeshore this season.",
+    "color_code": "#6D9BCD",
+    "timestamp": "2025-02-18 18:23:44",
+    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
 }
