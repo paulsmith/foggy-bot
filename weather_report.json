@@ -7,23 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-18T22:51:00+00:00",
-            "temperature_f": 10.04,
-            "temperature_c": -12.2,
-            "humidity": 39.165770098008,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 320,
-            "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+            "timestamp": "2025-02-19T01:51:00+00:00",
+            "temperature_f": 6.080000000000002,
+            "temperature_c": -14.4,
+            "humidity": 48.94081630101,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 300,
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-18T18:00:00-06:00",
+                "startTime": "2025-02-18T22:00:00-06:00",
                 "endTime": "2025-02-19T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 3,
+                "temperature": 4,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -34,7 +34,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 3. Wind chill values as low as -11. Northwest wind around 10 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 4. Wind chill values as low as -10. Northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston, Illinois, reveal a frigid winter scene, with temperatures hovering in the low teens and a brisk northwesterly wind adding a biting edge to the air. The day is mostly shrouded in clouds, casting a dull light over the landscape, and it's an overall uncomfortable chill, with wind chill values plummeting to dangerous depths. As we look ahead, the forecast for tonight indicates a continuation of mostly cloudy skies, with temperatures expected to dip to around 3 degrees, pushing those wind chill figures even lower.\n\nAs Wednesday unfolds, expect intermittent snow showers by the afternoon, which will likely add a layer of white to the already bleak setting. The high temperature will struggle to reach the mid-teens, presenting a harsh reminder of winter\u2019s grasp on the area. With wave conditions likely to be choppy due to the blustery winds, outdoor enthusiasts should be cautious. Recommended attire includes heavy winter coats, insulated layers, hats, and scarves to combat the cold. While the chill might deter extensive outdoor activities, it's a perfect time for indoor pursuits or perhaps a brief venture outside to experience the winter wonderland\u2014always a unique sight by the lakeshore this season.",
-    "color_code": "#6D9BCD",
-    "timestamp": "2025-02-18 18:23:44",
-    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+    "weather_report": "Current conditions in Evanston present a decidedly wintry scene, with temperatures hovering in the low single digits and a brisk northwestern breeze adding a sharp bite to the air. The atmosphere is notably overcast, casting a gray hue over the landscape, enhancing the chill felt both in the air and on the skin. As we look ahead, the forecast anticipates intermittent snow showers arriving in the afternoon, accompanied by a high near 15 as temperatures begin to fall slightly later in the day. Wind chill values may plummet to around -11, which certainly suggests it would be prudent to stay bundled up if you venture outside.\n\nFor those considering outdoor activities, the sharp conditions may be less than inviting. The beaches along Lake Michigan could be an enjoyable sight, but the cold and increasing likelihood of snow showers may deter casual walks or leisurely outings. Instead, this might be a day for indoor pursuits, perhaps enjoying a warm beverage or exploring local cafes or theaters. Those who do brave the cold should don several layers, complemented with a warm hat and gloves, to enjoy the beauty of an emerging winter landscape while minimizing discomfort.",
+    "color_code": null,
+    "timestamp": "2025-02-18 22:07:08",
+    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
