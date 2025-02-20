@@ -7,34 +7,34 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-19T22:51:00+00:00",
-            "temperature_f": 12.020000000000003,
-            "temperature_c": -11.1,
-            "humidity": 50.387611831676,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 310,
-            "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+            "timestamp": "2025-02-20T02:51:00+00:00",
+            "temperature_f": 10.04,
+            "temperature_c": -12.2,
+            "humidity": 55.023010073812,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 300,
+            "description": "Mostly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-19T18:00:00-06:00",
+                "startTime": "2025-02-19T22:00:00-06:00",
                 "endTime": "2025-02-20T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 6,
+                "temperature": 7,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "NW",
+                "windSpeed": "10 mph",
+                "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
                 "shortForecast": "Intermittent Snow Showers",
-                "detailedForecast": "Intermittent snow showers between 8pm and 10pm, then intermittent snow showers and a slight chance of snow. Mostly cloudy. Low around 6, with temperatures rising to around 8 overnight. Wind chill values as low as -8. Northwest wind 10 to 15 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Intermittent snow showers and a slight chance of snow. Mostly cloudy, with a low around 7. Wind chill values as low as -8. West northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -42,7 +42,7 @@
                 "startTime": "2025-02-20T06:00:00-06:00",
                 "endTime": "2025-02-20T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 23,
+                "temperature": 24,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -53,12 +53,12 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow/sct?size=medium",
                 "shortForecast": "Chance Snow Showers then Mostly Sunny",
-                "detailedForecast": "A chance of snow showers before 9am. Mostly sunny. High near 23, with temperatures falling to around 21 in the afternoon. Wind chill values as low as -9. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "A chance of snow showers before 9am. Mostly sunny. High near 24, with temperatures falling to around 22 in the afternoon. Wind chill values as low as -8. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions present a chilly scene, with temperatures hovering in the low teens and a brisk, howling wind. The air is dry yet carries a distinct coldness that bites as evening approaches. It is mostly cloudy now but falls before a forecasted shift later in the night, where intermittent snow showers are expected between 8 PM and 10 PM. As temperatures dip further, a low of around 6 is anticipated, creating wind chill values as frigid as -8. \n\nLooking ahead to Thursday, the morning may start with a chance of snow showers, contributing to a predominantly sunny day with high temperatures near the low 20s. Despite the clearer skies, the biting wind will persist, maintaining that winter chill. Given these conditions, it\u2019s advisable to bundle up in layers, wearing insulated clothing, a warm hat, and gloves to stave off the cold. The beach may appear a bit desolate at this time of year, with elevated wave conditions likely churning the waters of Lake Michigan, making outdoor activities at the shore less inviting. While today isn\u2019t a holiday, the mid-February temperatures reflect typical winter patterns for the region, urging locals to embrace cozy indoor pursuits until spring arrives.",
-    "color_code": "#A9B0B7",
-    "timestamp": "2025-02-19 18:23:51",
-    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+    "weather_report": "Currently, Evanston feels quite chilly, with temperatures in the low 10s and a breeze that's more biting than merely brisk, creating a wind chill effect that makes it seem even colder. The sky wears a cloak of mostly cloud, hinting at the possibility of intermittent snow showers as night approaches, making everything appear somewhat gloomy. Tonight is expected to bring a slight chance of snow with temperatures dipping to the low single digits, so the landscape may soon be dusted in a fine layer of white.\n\nAs the week unfolds, tomorrow morning offers a fleeting chance of snow before transitioning to mostly sunny skies. The day will see a high near the mid 20s, although the wind will remain a noticeable factor, gusting at times and ensuring that a warm jacket is an absolute necessity. Wave conditions on Lake Michigan are likely to be moderate, with the choppy waters reflecting the gustiness of the winds. Given the weather's chill, bundled clothing is strongly recommended for anyone looking to venture outdoors, while the shore may provide a stark but serene beauty best appreciated from a sheltered viewpoint. Though not a holiday today, the cold certainly beckons for cozy indoor activities or a brisk walk for the hearty souls willing to brave the elements.",
+    "color_code": "#A6C1C2",
+    "timestamp": "2025-02-19 22:06:58",
+    "icon_url": "https://api.weather.gov/icons/land/night/bkn?size=medium"
 }
