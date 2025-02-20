@@ -7,58 +7,58 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-19T18:51:00+00:00",
-            "temperature_f": 15.979999999999997,
-            "temperature_c": -8.9,
-            "humidity": 46.52377717473,
+            "timestamp": "2025-02-19T22:51:00+00:00",
+            "temperature_f": 12.020000000000003,
+            "temperature_c": -11.1,
+            "humidity": 50.387611831676,
             "wind_speed_mph": 41.07132,
-            "wind_direction": 320,
-            "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+            "wind_direction": 310,
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-19T14:00:00-06:00",
-                "endTime": "2025-02-19T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 16,
+                "name": "Tonight",
+                "startTime": "2025-02-19T18:00:00-06:00",
+                "endTime": "2025-02-20T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 6,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
                 "shortForecast": "Intermittent Snow Showers",
-                "detailedForecast": "Intermittent snow showers. Cloudy. High near 16, with temperatures falling to around 14 in the afternoon. Wind chill values as low as 0. Northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Intermittent snow showers between 8pm and 10pm, then intermittent snow showers and a slight chance of snow. Mostly cloudy. Low around 6, with temperatures rising to around 8 overnight. Wind chill values as low as -8. Northwest wind 10 to 15 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-02-19T18:00:00-06:00",
-                "endTime": "2025-02-20T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 7,
+                "name": "Thursday",
+                "startTime": "2025-02-20T06:00:00-06:00",
+                "endTime": "2025-02-20T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 23,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": null
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30/snow?size=medium",
-                "shortForecast": "Intermittent Snow Showers then Chance Snow",
-                "detailedForecast": "Intermittent snow showers and a slight chance of snow before 7pm, then a chance of snow and intermittent snow showers. Cloudy, with a low around 7. Wind chill values as low as -9. Northwest wind 10 to 15 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/snow/sct?size=medium",
+                "shortForecast": "Chance Snow Showers then Mostly Sunny",
+                "detailedForecast": "A chance of snow showers before 9am. Mostly sunny. High near 23, with temperatures falling to around 21 in the afternoon. Wind chill values as low as -9. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As we look out over Evanston today, conditions are distinctly chilly, with temps hovering in the mid-teens and a noticeable briskness whipping through the air. The sky is layered with clouds, setting a somber tone, while wind gusts add a bit of bite to the atmosphere. This afternoon, a few intermittent snow showers are expected, making for a rather dreary scene, and temperatures will dip slightly, touching around 14 by the end of the day, with wind chill values plunging as low as zero.\n\nTonight holds more promise for snow, with the temperature dropping to a frigid low in the single digits and wind chill potentially taking it down to a biting -9. Conditions will remain overcast, and with a 30% chance of snow showers, it\u2019s likely that the landscape will be transformed into a wintry canvas. Now, while the shore of Lake Michigan may host some gentle waves, the cold will discourage any outdoor activities. Those venturing out should bundle up in warm layers, with insulated coats, hats, and gloves, to combat the cold. In the context of the season, these temperatures are consistent with what one would expect for February in this part of the Midwest, making it a true winter\u2019s day.",
-    "color_code": "#A32300",
-    "timestamp": "2025-02-19 14:06:13",
-    "icon_url": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+    "weather_report": "In Evanston, the current conditions present a chilly scene, with temperatures hovering in the low teens and a brisk, howling wind. The air is dry yet carries a distinct coldness that bites as evening approaches. It is mostly cloudy now but falls before a forecasted shift later in the night, where intermittent snow showers are expected between 8 PM and 10 PM. As temperatures dip further, a low of around 6 is anticipated, creating wind chill values as frigid as -8. \n\nLooking ahead to Thursday, the morning may start with a chance of snow showers, contributing to a predominantly sunny day with high temperatures near the low 20s. Despite the clearer skies, the biting wind will persist, maintaining that winter chill. Given these conditions, it\u2019s advisable to bundle up in layers, wearing insulated clothing, a warm hat, and gloves to stave off the cold. The beach may appear a bit desolate at this time of year, with elevated wave conditions likely churning the waters of Lake Michigan, making outdoor activities at the shore less inviting. While today isn\u2019t a holiday, the mid-February temperatures reflect typical winter patterns for the region, urging locals to embrace cozy indoor pursuits until spring arrives.",
+    "color_code": "#A9B0B7",
+    "timestamp": "2025-02-19 18:23:51",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
