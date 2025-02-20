@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-20T02:51:00+00:00",
-            "temperature_f": 10.04,
-            "temperature_c": -12.2,
-            "humidity": 55.023010073812,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 300,
+            "timestamp": "2025-02-20T06:51:00+00:00",
+            "temperature_f": 8.059999999999999,
+            "temperature_c": -13.3,
+            "humidity": 62.760624738296,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 280,
             "description": "Mostly Cloudy",
             "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-19T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-02-20T02:00:00-06:00",
                 "endTime": "2025-02-20T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 7,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Currently, Evanston feels quite chilly, with temperatures in the low 10s and a breeze that's more biting than merely brisk, creating a wind chill effect that makes it seem even colder. The sky wears a cloak of mostly cloud, hinting at the possibility of intermittent snow showers as night approaches, making everything appear somewhat gloomy. Tonight is expected to bring a slight chance of snow with temperatures dipping to the low single digits, so the landscape may soon be dusted in a fine layer of white.\n\nAs the week unfolds, tomorrow morning offers a fleeting chance of snow before transitioning to mostly sunny skies. The day will see a high near the mid 20s, although the wind will remain a noticeable factor, gusting at times and ensuring that a warm jacket is an absolute necessity. Wave conditions on Lake Michigan are likely to be moderate, with the choppy waters reflecting the gustiness of the winds. Given the weather's chill, bundled clothing is strongly recommended for anyone looking to venture outdoors, while the shore may provide a stark but serene beauty best appreciated from a sheltered viewpoint. Though not a holiday today, the cold certainly beckons for cozy indoor activities or a brisk walk for the hearty souls willing to brave the elements.",
-    "color_code": "#A6C1C2",
-    "timestamp": "2025-02-19 22:06:58",
+    "weather_report": "In Evanston, the current weather paints a scene of a cold, blustery winter night. The temperature hovers in the low single digits, accompanied by a significant wind that carries a biting chill. It feels markedly colder, with wind chill plunging to nearly -8 degrees, contributing to an environment that demands caution and warmth. Tonight is mostly cloudy with intermittent snow showers and a slight chance of accumulating snow as temperatures dip down to around 7 degrees.\n\nLooking ahead to Thursday, the day will begin with a chance of lingering snow showers, clearing to mostly sunny skies. The temperature will manage to rise to the mid-20s, a modest improvement yet still firmly in winter\u2019s embrace. The winds will remain noticeable, adding a robust edge to the coolness, and the overall appearance of the day is crisp and bright with a hint of snow on the ground. \n\nGiven the prevailing conditions, dressing in layers, including insulated outerwear and accessories such as hats, gloves, and scarves, is essential for comfort. Outdoor enthusiasts should be mindful of possible snow-covered paths, making afternoon strolls scenic yet potentially slippery. While temperatures are typical for mid-February in this region, snowy landscapes provide a picturesque contrast worth appreciating, particularly for those inclined towards winter walks or enjoying the tranquility of a snow-laden beach.",
+    "color_code": "#8F8B9B",
+    "timestamp": "2025-02-20 02:07:38",
     "icon_url": "https://api.weather.gov/icons/land/night/bkn?size=medium"
 }
