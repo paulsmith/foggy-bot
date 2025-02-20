@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-20T10:51:00+00:00",
-            "temperature_f": 5.0,
-            "temperature_c": -15,
-            "humidity": 62.319124968751,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2025-02-20T14:51:00+00:00",
+            "temperature_f": 10.940000000000001,
+            "temperature_c": -11.7,
+            "humidity": 60.564285428015,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 300,
-            "description": "Partly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+            "description": "Mostly Clear",
+            "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-20T06:00:00-06:00",
+                "startTime": "2025-02-20T10:00:00-06:00",
                 "endTime": "2025-02-20T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 24,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 24, with temperatures falling to around 22 in the afternoon. Wind chill values as low as -8. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Partly sunny. High near 24, with temperatures falling to around 22 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -53,12 +53,12 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 10. Wind chill values as low as 0. West northwest wind 5 to 10 mph."
+                "detailedForecast": "Partly cloudy, with a low around 10. Wind chill values as low as 0. West northwest wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston feature a biting chill, with temperatures dipping into the low single digits, yielding a frosty morning atmosphere. The wind is howling from the northwest at a brisk pace, intensifying the cold and creating wind chill values that plummet well below zero. Today's weather is expected to reveal partly sunny skies, but despite the improved visibility, temperatures will struggle to rise, reaching only near the mid-20s by afternoon. Tonight, the cold front will continue, with lows dipping back to around 10 degrees while remaining partly cloudy. \n\nThe beach at this time remains somber, greeted by rough waters as gusty winds stir up Lake Michigan, creating wave action likely unsuitable for any recreational activities. Precipitation is absent in today\u2019s forecast, but the persistent cold warrants warm layers and perhaps a sturdy hat and gloves to ward off the chill. In this mid-winter season for the Great Lakes region, temperature fluctuations are expected, but today's cold snap is more intense than usual, making typical outdoor activities less than inviting. With no prominent holidays approaching, it's an ideal day for indoor pursuits, perhaps enjoying a warm drink while admiring the resilience of winter from a cozy spot indoors.",
-    "color_code": "#A1B2C3",
-    "timestamp": "2025-02-20 06:09:24",
-    "icon_url": "https://api.weather.gov/icons/land/night/sct?size=medium"
+    "weather_report": "Current conditions in Evanston reveal a chilly scene, with temperatures hovering in the low teens and a noticeable wind adding a sharp edge to the air, creating a brisk atmosphere. With a strong northwestern breeze, outdoor activities may feel invigorating but somewhat biting, especially near the waterfront areas. The day holds promise for partly sunny skies, gradually warming to a high in the mid-20s. As the afternoon progresses, temperatures will dip slightly, presenting a wintry feel that encourages well-layered attire\u2014cozy coats, hats, and gloves are recommended.\n\nThe lakeshore could be choppy due to the gusty winds, potentially generating moderate waves, while the absence of precipitation keeps the day dry. Given the winter season\u2019s nature here in the Midwest, these temperatures are typical, allowing for vibrant seasonal activities. A brisk walk along the beach, exploring local caf\u00e9s, or engaging in winter sports remains inviting despite the currently cold and breezy conditions. Today is a regular Tuesday, devoid of notable holidays, but the chill in the air and hints of sunshine may still beckon locals to enjoy the beauty of winter in Evanston.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2025-02-20 10:07:07",
+    "icon_url": "https://api.weather.gov/icons/land/day/few?size=medium"
 }
