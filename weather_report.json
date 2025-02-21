@@ -7,23 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-21T02:51:00+00:00",
-            "temperature_f": 15.979999999999997,
-            "temperature_c": -8.9,
-            "humidity": 67.085045426616,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 260,
+            "timestamp": "2025-02-21T06:51:00+00:00",
+            "temperature_f": 14.0,
+            "temperature_c": -10,
+            "humidity": 70.206165060716,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 270,
             "description": "Clear",
             "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-20T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-02-21T02:00:00-06:00",
                 "endTime": "2025-02-21T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 11,
+                "temperature": 12,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -34,7 +34,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 11. Wind chill values as low as 1. West northwest wind 5 to 10 mph."
+                "detailedForecast": "Mostly clear, with a low around 12. Wind chill values as low as 1. West northwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -53,12 +53,12 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 30, with temperatures falling to around 27 in the afternoon. Wind chill values as low as 0. West wind 5 to 10 mph."
+                "detailedForecast": "Sunny. High near 30, with temperatures falling to around 28 in the afternoon. West wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, current conditions reveal a chilly atmosphere with temperatures hovering in the mid-teens and a brisk, howling wind that brings added intensity to the cold. The air feels invigorating yet biting, setting the stage for a night marked by mostly clear skies and temperatures dipping to around 11 degrees. Wind chill values could plummet as low as 1 degree, calling for a careful approach to outdoor ventures.\n\nAs we look forward to tomorrow, expect a sunny day, albeit with the temperature struggling to reach near the freezing mark, only climbing to the high 20s in the afternoon. The delightful sunshine will contrast with the chill, and gentle winds from the west will provide a soothing touch for those bundled up. Wave activity along Lake Michigan is likely to be moderate, inviting those adventurous souls to explore the beach near the shoreline. Given the current winter season, temperatures are falling well within the expected range, signaling typical Midwestern winter weather rather than any unusual extremes. Be sure to wrap up warmly in layers, consider a sturdy hat and gloves, and perhaps plan for some outdoor activities such as a brisk walk along the beach or a visit to nearby parks.",
-    "color_code": "#A9B0B8",
-    "timestamp": "2025-02-20 22:07:20",
+    "weather_report": "In Evanston, the current scene is quite frigid, with temperatures hovering in the low teens, creating a stark winter chill that is accompanied by moderate winds slicing through the air. The conditions are clear, offering a crisp view of the surroundings, though the breeze may momentarily bite against exposed skin. Looking ahead to the forecast, a mild warming trend is anticipated, with sunny skies expected to bring a high near the low 30s on Friday, perfect for those seeking a touch of winter sunshine.\n\nWith no precipitation on the immediate horizon, the day looks to be pleasantly dry, despite the chill. As for wave conditions along Lake Michigan, they may reflect a bit of agitation typical for this season, with a gentle surf that complements the winter landscape. For those venturing outdoors, layered attire will be essential; consider wearing a warm coat, gloves, and a hat to ward off the cold. The current temperatures align with typical winter standards for the Midwest, which often sees such chilly conditions at this time of year. Engaging in winter activities like a beach stroll or photography may be fitting, especially with the promise of sun tomorrow.",
+    "color_code": "#A9C3D0",
+    "timestamp": "2025-02-21 02:07:33",
     "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
