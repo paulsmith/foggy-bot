@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-20T22:51:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 56.883597586315,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 300,
-            "description": "Mostly Clear",
-            "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+            "timestamp": "2025-02-21T02:51:00+00:00",
+            "temperature_f": 15.979999999999997,
+            "temperature_c": -8.9,
+            "humidity": 67.085045426616,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 260,
+            "description": "Clear",
+            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-20T18:00:00-06:00",
+                "startTime": "2025-02-20T22:00:00-06:00",
                 "endTime": "2025-02-21T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 11,
@@ -34,7 +34,7 @@
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 11. Wind chill values as low as 1. West northwest wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly clear, with a low around 11. Wind chill values as low as 1. West northwest wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather reflects a biting chill, with temperatures hovering in the low 20s, accompanied by a brisk northwest wind that adds a layer of intensity to the chilly atmosphere. The skies are mostly clear, presenting a crisp and sharp appearance, fostering a sense of tranquility despite the cold. Tonight, expect the temperature to drop further, reaching a low in the single digits, and with wind chill making it feel even colder\u2014closer to 1 degree.\n\nTomorrow promises a sunny respite with temperatures peaking in the upper 20s, but residents should not be fooled; the wind chill will still bite, dipping down to around 0 degrees throughout the day. Although precipitation is absent from the forecast, the undulating Lake Michigan may offer some turbulence, with waves likely roused by the earlier gusty conditions. Attire should be geared towards warmth, favoring thick coats, hats, gloves, and insulated boots, suitable for this time of year when winter's grip is firmly in place. While the temperatures are typical for February in the Midwest, with this mix of sunlight and chill, opportunities for brisk walks along the beach abound, making for a refreshing outing before warmer days come.",
-    "color_code": "#4A6EBA",
-    "timestamp": "2025-02-20 18:23:54",
-    "icon_url": "https://api.weather.gov/icons/land/day/few?size=medium"
+    "weather_report": "In Evanston, current conditions reveal a chilly atmosphere with temperatures hovering in the mid-teens and a brisk, howling wind that brings added intensity to the cold. The air feels invigorating yet biting, setting the stage for a night marked by mostly clear skies and temperatures dipping to around 11 degrees. Wind chill values could plummet as low as 1 degree, calling for a careful approach to outdoor ventures.\n\nAs we look forward to tomorrow, expect a sunny day, albeit with the temperature struggling to reach near the freezing mark, only climbing to the high 20s in the afternoon. The delightful sunshine will contrast with the chill, and gentle winds from the west will provide a soothing touch for those bundled up. Wave activity along Lake Michigan is likely to be moderate, inviting those adventurous souls to explore the beach near the shoreline. Given the current winter season, temperatures are falling well within the expected range, signaling typical Midwestern winter weather rather than any unusual extremes. Be sure to wrap up warmly in layers, consider a sturdy hat and gloves, and perhaps plan for some outdoor activities such as a brisk walk along the beach or a visit to nearby parks.",
+    "color_code": "#A9B0B8",
+    "timestamp": "2025-02-20 22:07:20",
+    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
