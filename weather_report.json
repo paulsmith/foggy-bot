@@ -7,37 +7,18 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-21T18:51:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 54.664997362401,
+            "timestamp": "2025-02-21T22:51:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 54.833072865634,
             "wind_speed_mph": 41.07132,
-            "wind_direction": 240,
-            "description": "Mostly Clear",
-            "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+            "wind_direction": 230,
+            "description": "Clear",
+            "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-21T14:00:00-06:00",
-                "endTime": "2025-02-21T18:00:00-06:00",
-                "isDaytime": true,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 31, with temperatures falling to around 28 in the afternoon. West southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-21T18:00:00-06:00",
                 "endTime": "2025-02-22T06:00:00-06:00",
@@ -54,11 +35,30 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 15. Southwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-02-22T06:00:00-06:00",
+                "endTime": "2025-02-22T18:00:00-06:00",
+                "isDaytime": true,
+                "temperature": 34,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 34, with temperatures falling to around 31 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a chilly atmosphere, with temperatures in the mid-20s and a brisk, almost howling wind making it feel rather nippy. The day is mostly clear, contributing to a sense of brightness despite the cold. The forecast for the afternoon promises sunnier skies with a high approaching the low 30s, though it will drop back to the mid-teens tonight. Wave conditions near Lake Michigan are likely to be affected by gusty winds, which could create a bit of a tumultuous ride on the water, making it less than ideal for casual beachside enjoyment.\n\nAs for attire, it's wise to bundle up, opting for warm layers, hats, and gloves to fend off the sharp chill. This time of year is typical for winter in the Midwest, where frigid temperatures are to be expected. As the day unfolds, there's a perfect opportunity for a brisk walk along the shore or through local parks, taking in the crisp air and clear sky\u2014a refreshing experience amid the cold. Given that there are no major holidays today, residents can focus on enjoying simple winter activities instead.",
-    "color_code": "#0088CC",
-    "timestamp": "2025-02-21 14:06:05",
-    "icon_url": "https://api.weather.gov/icons/land/day/few?size=medium"
+    "weather_report": "In Evanston, the current conditions are biting cold, with temperatures hovering in the mid-20s, and a blustery wind making it feel even more frigid. The air is clear, offering a crisp view, but the harsh wind chill might deter outdoor enthusiasts. Tonight, temperatures will drop further to the low teens, paired with a gentle southwest breeze, providing a tranquil evening under mostly clear skies. As we look ahead to Saturday, the sun will make an appearance, warming the high to around the mid-30s, albeit with temperatures slipping back into the low 30s during the afternoon as the wind picks up again.\n\nOverall, the scene is far from inviting for leisurely lakeside activities; the beach may be somewhat subdued, and the wave conditions could reflect a slight chop due to the ongoing gusty winds. For those braving the elements, it\u2019s wise to don layering attire\u2014think thick coats, gloves, and perhaps a warm hat to mitigate the biting chill. Given that it\u2019s winter in the Midwest, while the temperatures are indeed reflective of the season, they do lean toward the colder end of the spectrum. With the sun's brief visit anticipated tomorrow, one might consider bundling up for brisk walks or quick outdoor errands, making the most of the fleeting sunshine.",
+    "color_code": "#B0C4D8",
+    "timestamp": "2025-02-21 18:22:58",
+    "icon_url": "https://api.weather.gov/icons/land/day/skc?size=medium"
 }
