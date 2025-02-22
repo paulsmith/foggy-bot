@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-22T10:51:00+00:00",
-            "temperature_f": 17.06,
-            "temperature_c": -8.3,
-            "humidity": 67.223404209287,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 230,
-            "description": "Clear",
-            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
+            "timestamp": "2025-02-22T14:51:00+00:00",
+            "temperature_f": 19.939999999999998,
+            "temperature_c": -6.7,
+            "humidity": 59.411208521128,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 220,
+            "description": "Mostly Clear",
+            "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-22T06:00:00-06:00",
+                "startTime": "2025-02-22T10:00:00-06:00",
                 "endTime": "2025-02-22T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 34,
@@ -32,9 +32,9 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 34, with temperatures falling to around 32 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 34, with temperatures falling to around 32 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois, presents a chilly scene with temperatures in the mid-teen range and a brisk wind howling from the southwest. With the day starting clear, the atmosphere feels incredibly crisp, though it carries a bite that one might feel while standing near icy Lake Michigan. As the day progresses, the forecast predicts notably warmer conditions, with sunny skies lifting temperatures toward the mid-30s, giving way to a clearer and more comfortable afternoon. \n\nWave conditions should be on the calmer side, although the lake may still maintain a restless demeanor with some movement from the gusty winds. Fortunately, there\u2019s no precipitation expected, ensuring a dry day for anyone choosing to venture outside. With the forecast suggesting a sunny afternoon, layers are recommended to combat the lingering chill, perhaps a warm coat complemented by a knitted hat and gloves for the morning. As winter lingers, these temperatures are not unusual for this time of year in northern Illinois. Outdoor enthusiasts may find this a perfect opportunity to enjoy a brisk walk along the beach and relish the beauty of a winter landscape under clear skies.",
-    "color_code": "#A6AEC3",
-    "timestamp": "2025-02-22 06:07:55",
-    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
+    "weather_report": "Currently in Evanston, temperatures hover in the low 20s with a noticeable brisk chill and a stout breeze sweeping through the area. The sky reveals itself mostly clear, allowing the sunlight to break through occasionally despite the cold. Residents can expect more favorable conditions as the day progresses towards a high near 34 degrees, though temperatures are likely to dip back into the low 30s by afternoon. Tonight, it will remain partly cloudy with a low around 23.\n\nThe beach\u2019s appearance is stark, with rolling waves indicative of a blustery day, a stark reminder of winter\u2019s grip in this lakeside community. There is no precipitation expected, making for pleasant outdoor conditions devoid of slushy interruptions. Given the cool climate, layering up is advisable; a warm coat, insulated gloves, and hats will ensure comfort against the elements. With February firmly in place, these temperatures are typical for this time of year in the Midwest. For those seeking activity, the weather permits a brisk walk along the shore or the chance to enjoy the serene beauty of the lake, perhaps in a spirited engagement with the elements\u2014just be sure to dress for the cool winter air.",
+    "color_code": "#2E2A31",
+    "timestamp": "2025-02-22 10:05:36",
+    "icon_url": "https://api.weather.gov/icons/land/day/few?size=medium"
 }
