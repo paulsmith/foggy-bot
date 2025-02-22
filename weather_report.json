@@ -7,23 +7,23 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-21T22:51:00+00:00",
-            "temperature_f": 26.060000000000002,
-            "temperature_c": -3.3,
-            "humidity": 54.833072865634,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 230,
+            "timestamp": "2025-02-22T02:51:00+00:00",
+            "temperature_f": 19.939999999999998,
+            "temperature_c": -6.7,
+            "humidity": 67.588530361427,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 200,
             "description": "Clear",
-            "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
+            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-21T18:00:00-06:00",
+                "startTime": "2025-02-21T22:00:00-06:00",
                 "endTime": "2025-02-22T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 15,
+                "temperature": 14,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -34,7 +34,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 15. Southwest wind around 10 mph."
+                "detailedForecast": "Mostly clear, with a low around 14. Wind chill values as low as 0. Southwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -53,12 +53,12 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 34, with temperatures falling to around 31 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Sunny. High near 34, with temperatures falling to around 32 in the afternoon. Wind chill values as low as 0. Southwest wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current conditions are biting cold, with temperatures hovering in the mid-20s, and a blustery wind making it feel even more frigid. The air is clear, offering a crisp view, but the harsh wind chill might deter outdoor enthusiasts. Tonight, temperatures will drop further to the low teens, paired with a gentle southwest breeze, providing a tranquil evening under mostly clear skies. As we look ahead to Saturday, the sun will make an appearance, warming the high to around the mid-30s, albeit with temperatures slipping back into the low 30s during the afternoon as the wind picks up again.\n\nOverall, the scene is far from inviting for leisurely lakeside activities; the beach may be somewhat subdued, and the wave conditions could reflect a slight chop due to the ongoing gusty winds. For those braving the elements, it\u2019s wise to don layering attire\u2014think thick coats, gloves, and perhaps a warm hat to mitigate the biting chill. Given that it\u2019s winter in the Midwest, while the temperatures are indeed reflective of the season, they do lean toward the colder end of the spectrum. With the sun's brief visit anticipated tomorrow, one might consider bundling up for brisk walks or quick outdoor errands, making the most of the fleeting sunshine.",
-    "color_code": "#B0C4D8",
-    "timestamp": "2025-02-21 18:22:58",
-    "icon_url": "https://api.weather.gov/icons/land/day/skc?size=medium"
+    "weather_report": "As night falls in Evanston, current conditions present a brisk chill, with temperatures hovering in the low 20s and a gentle breeze contributing to wind chill values that feel closer to zero. The current clear skies have provided a tranquil view but are countered by the frosty air, making it advisable for anyone venturing outdoors to dress warmly, layering with insulated coats, hats, and gloves. The weather forecast hints at mostly clear skies tonight, with a low dipping to the mid-teens; tomorrow promises a sunny day but with a high around freezing, maintaining the briskness throughout.\n\nAs for the lakefront, expect wave conditions to remain moderate given the current wind speeds, which could lead to some splashing at the shore. Fortunately, precipitation is absent, allowing for outdoor activities, albeit with appropriate warm attire. This time of year typically brings winter's chill to the Midwest, placing the expected conditions firmly within seasonal norms, making it a perfect opportunity for those who enjoy the serenity of winter walks along the beach or a brisk jog against the backdrop of Lake Michigan.",
+    "color_code": "#657C9A",
+    "timestamp": "2025-02-21 22:06:26",
+    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
