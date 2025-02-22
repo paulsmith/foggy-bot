@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-22T02:51:00+00:00",
+            "timestamp": "2025-02-22T06:51:00+00:00",
             "temperature_f": 19.939999999999998,
             "temperature_c": -6.7,
             "humidity": 67.588530361427,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 200,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 230,
             "description": "Clear",
             "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-21T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-02-22T02:00:00-06:00",
                 "endTime": "2025-02-22T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -34,7 +34,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 14. Wind chill values as low as 0. Southwest wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly clear, with a low around 14. Wind chill values as low as 0. Southwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -53,12 +53,12 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 34, with temperatures falling to around 32 in the afternoon. Wind chill values as low as 0. Southwest wind 10 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Sunny. High near 34, with temperatures falling to around 32 in the afternoon. Wind chill values as low as 1. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "As night falls in Evanston, current conditions present a brisk chill, with temperatures hovering in the low 20s and a gentle breeze contributing to wind chill values that feel closer to zero. The current clear skies have provided a tranquil view but are countered by the frosty air, making it advisable for anyone venturing outdoors to dress warmly, layering with insulated coats, hats, and gloves. The weather forecast hints at mostly clear skies tonight, with a low dipping to the mid-teens; tomorrow promises a sunny day but with a high around freezing, maintaining the briskness throughout.\n\nAs for the lakefront, expect wave conditions to remain moderate given the current wind speeds, which could lead to some splashing at the shore. Fortunately, precipitation is absent, allowing for outdoor activities, albeit with appropriate warm attire. This time of year typically brings winter's chill to the Midwest, placing the expected conditions firmly within seasonal norms, making it a perfect opportunity for those who enjoy the serenity of winter walks along the beach or a brisk jog against the backdrop of Lake Michigan.",
-    "color_code": "#657C9A",
-    "timestamp": "2025-02-21 22:06:26",
+    "weather_report": "As temperatures hover in the low 20s and a brisk wind sweeps through Evanston, the current conditions present a rather biting feel, with wind gusts adding to the chill. The skies are clear, creating a stark contrast against the blue of Lake Michigan, though one should brace for especially frigid wind chill values reaching near zero. The forecast for the day ahead offers a promising transition as temperatures are projected to rise into the mid 30s, but they will fall back mid-afternoon, sustaining that frosty atmosphere. \n\nWith the absence of precipitation, outdoor activities could certainly be enjoyed, although the fierce winds warrant caution. Ideal attire would include layers, particularly a warm coat, gloves, and a hat to fend off the cold. Given the season, these temperatures are in line with what one can expect in late February in the Midwest, encapsulating the typical winter chill. If you're out and about today, consider going for a brisk walk on the beach or a quick stroll through a nearby park, just make sure to bundle up.",
+    "color_code": "#A1B2C3",
+    "timestamp": "2025-02-22 02:06:28",
     "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
