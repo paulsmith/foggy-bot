@@ -7,34 +7,34 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-23T02:51:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 60.990161458938,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 230,
-            "description": "Mostly Clear",
-            "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+            "timestamp": "2025-02-23T06:51:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 68.455685141767,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 210,
+            "description": "Partly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-22T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-02-23T02:00:00-06:00",
                 "endTime": "2025-02-23T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 22,
+                "temperature": 23,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 22. Southwest wind 5 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 23. Southwest wind around 5 mph, with gusts as high as 10 mph."
             },
             {
                 "number": 2,
@@ -42,7 +42,7 @@
                 "startTime": "2025-02-23T06:00:00-06:00",
                 "endTime": "2025-02-23T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 43,
+                "temperature": 42,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -53,12 +53,12 @@
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 43, with temperatures falling to around 41 in the afternoon. South southwest wind 5 to 10 mph."
+                "detailedForecast": "Partly sunny. High near 42, with temperatures falling to around 39 in the afternoon. South southwest wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "In Evanston, the current weather presents a chilly scene with temperatures hovering in the low 30s, accompanied by a refreshing breeze that adds a bite to the air. The evening features mostly clear skies, promising a pleasant night for those venturing outdoors. As we look ahead, tonight will remain partly cloudy with temperatures dipping to the low 20s, and the winds will lighten, becoming more gentle from the southwest. \n\nTomorrow's forecast hints at a transition; expect partly sunny skies with temperatures peaking near the low 40s before gradually falling during the afternoon. As the day unfolds, the atmosphere should feel crisp and invigorating, ideal for activities like brisk walks by the lake or enjoying the parks amidst the early signs of spring. Currently, there is no precipitation in sight, allowing for clear vistas towards Lake Michigan. Given the time of year, with winter still holding sway, these temperatures are typical for this region, making warm layers and a hearty coat advisable for outdoor excursions. \n\nThe day is not marked by any notable celebrations, but as winter gives way to spring, it invites a spirit of exploration and outdoor enjoyment.",
-    "color_code": "#AAB8C2",
-    "timestamp": "2025-02-22 22:06:25",
-    "icon_url": "https://api.weather.gov/icons/land/night/few?size=medium"
+    "weather_report": "Current conditions in Evanston present a chilly evening with temperatures lingering in the mid to upper 20s, complemented by a gentle breeze that stirs the air, lending a crisp edge to the atmosphere. As clouds gradually blanket the sky, there's a subtle transition into mostly cloudy skies overnight. The forecast for Sunday calls for a more welcoming shift, as partly sunny skies promise a high in the low 40s, though temperatures will ease into the upper 30s by afternoon. \n\nWith wave conditions likely reflecting the gentle undulations of early spring alongside the moderate winds, outdoor enthusiasts might find the beach a bit brisk, yet invigorating. There\u2019s no significant precipitation expected; thus, it remains dry for all outdoor plans. For those venturing outside, warm layers are advisable given the persistent chill, with a focus on preparing for the upcoming drop in temperature as the day progresses. The current weather is typical for late February in the Midwest, a stark reminder of winter's grip, though the promise of spring warmth lingers just on the horizon. Given the day and upcoming weeks, light outdoor activities might be heartily enjoyed if bundled for warmth, such as walks along the lakeshore or brief visits to local parks as hints of milder weather begin to emerge.",
+    "color_code": "#A1B3C4",
+    "timestamp": "2025-02-23 02:06:30",
+    "icon_url": "https://api.weather.gov/icons/land/night/sct?size=medium"
 }
