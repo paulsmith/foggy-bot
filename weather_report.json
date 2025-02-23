@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-23T10:51:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 71.479945623777,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 200,
-            "description": "Partly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+            "timestamp": "2025-02-23T13:51:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 68.586280864385,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 180,
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-23T06:00:00-06:00",
+                "startTime": "2025-02-23T10:00:00-06:00",
                 "endTime": "2025-02-23T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -30,11 +30,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 42, with temperatures falling to around 39 in the afternoon. South southwest wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly sunny. High near 42, with temperatures falling to around 39 in the afternoon. South southwest wind around 10 mph, with gusts as high as 20 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "As the sun rises over Evanston this morning, the air is crisp and cool, registering in the mid-20s. A gentle breeze flows from the southwest at a notable clip, creating a brisk atmosphere. The current weather presents a partly cloudy sky, setting a tranquil backdrop as residents prepare for the day. With no precipitation expected, this mid-winter morning offers a refreshing clarity typical for this time of year.\n\nLooking ahead, the day will gradually warm to the low 40s, with partly sunny skies promising a pleasant afternoon. The winds will ease somewhat, making for a more comfortable outdoor experience. As night falls, temperatures will dip to the mid-30s, with increasing cloud cover and rising temperatures overnight. Given the season, the current conditions are in line with expectations for late February in the Midwest, where robust winter holds sway. \n\nFor those venturing outside, layered attire is advisable\u2014think warm coats, hats, and gloves, with perhaps a lighter layer underneath for the afternoon sun. Wave conditions at nearby Lake Michigan may be moderate, presenting opportunities for brisk beach walks but not ideal for water sports, given the winter chill. Engaging in leisurely strolls along the shore or visiting local cafes sounds just right for today\u2019s weather, allowing for a pleasant refuge from the strong winds and chilly temps.",
-    "color_code": "#C1D9E0",
-    "timestamp": "2025-02-23 06:08:06",
-    "icon_url": "https://api.weather.gov/icons/land/night/sct?size=medium"
+    "weather_report": "In Evanston, Illinois, the current conditions are quite brisk, with temperatures hovering in the upper 20s and a notable wind creating a chill. It feels decidedly cold as the winds howl from the south, carrying with them hints of lake moisture and making for a rather dreary scene. The forecast for today anticipates a shift toward partly sunny skies, with a high making its way to the low 40s, and evening temperatures slowly creeping up towards the mid-30s. Although today\u2019s temperatures are typical for late February in this region, the gusty winds will likely keep most folks indoors unless they\u2019re prepared for a brisk stroll.\n\nAs for precipitation, no significant rain or snow is expected today, offering a respite for those eager to venture outside. The wave conditions along the lake may be slightly choppy, owing to the brisk wind, making it less than ideal for any water-related activities. Those looking to enjoy the day should dress warmly; layers will be advantageous, possibly including a sturdy jacket and a hat to shield against the wind\u2019s bite. While today doesn\u2019t mark any significant holiday, it still brings the allure of winter's last hurrah, perfect for cozy indoor gatherings or brief outdoor excursions amidst the shifting clouds.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-02-23 10:05:29",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
