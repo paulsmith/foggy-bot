@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-24T04:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 67.105479906029,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 210,
+            "timestamp": "2025-02-24T10:51:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 64.560986143923,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 220,
             "description": "Mostly Cloudy",
             "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-24T02:00:00-06:00",
-                "endTime": "2025-02-24T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 to 20 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 34, with temperatures rising to around 36 overnight. Southwest wind 15 to 20 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2025-02-24T06:00:00-06:00",
                 "endTime": "2025-02-24T18:00:00-06:00",
                 "isDaytime": true,
@@ -52,13 +33,32 @@
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 54, with temperatures falling to around 49 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 54, with temperatures falling to around 50 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-24T18:00:00-06:00",
+                "endTime": "2025-02-25T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 35,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
+                "shortForecast": "Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers before 3am. Mostly cloudy, with a low around 35. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Current conditions in Evanston reveal a crisp and cool atmosphere, with temperatures hovering in the low 40s complemented by a blustery wind. The overcast skies contribute to an impression of muted brightness, and the waves along Lake Michigan are likely choppy, reflecting the intensity of the gusty breezes. As the night progresses, temperatures are expected to dip, becoming slightly chillier but with a gradual warming trend into the early morning.\n\nLooking ahead to Monday, the forecast suggests more mostly cloudy skies with a high nearing the mid-50s. Winds will calm to a breezy pace, offering a slight reprieve from the current gales. There is no precipitation expected, making outdoor plans feasible, though it's wise to layer up with a heavier jacket to embrace the seasonal chill. The coastal conditions and overall weather do not align with any major holiday, but the aspects of late February perfectly suit winter strolls by the beach or perhaps even some light outdoor winter sports. Enjoy the day wrapped in warmth as winter begins its slow retreat.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2025-02-24 02:08:13",
+    "weather_report": "Current weather in Evanston, Illinois, bears a crisp chill as temperatures hover in the upper 30s, combined with a brisk wind that feels quite fierce. The sky is mostly cloudy, lending a somewhat dim outlook to the day. As you venture outside, the air carries a noticeable bite, making it feel even cooler, and the conditions are anything but inviting without proper attire. Looking ahead, today's forecast suggests a transition toward partly sunny skies, with the temperature nudging up into the mid-50s by afternoon, before a series of scattered rain showers are expected tonight. Winds will shift to a gentler breeze, which is a welcome change from the morning's relentless gusts.\n\nDespite the potential for a few drops later on, the afternoon might offer a brief window for outdoor activities, particularly for brisk walks along the beach or park visits, as the temperatures warm slightly. However, keep a light jacket handy, especially as you head into the evening when temperatures dip back toward the mid-30s. Given that it is still winter, today's relatively cool weather is quite typical for this region, and while it's somewhat dreary, the promise of brighter skies later could provide a welcome reprieve.",
+    "color_code": "#A1B2C3",
+    "timestamp": "2025-02-24 06:09:39",
     "icon_url": "https://api.weather.gov/icons/land/night/bkn?size=medium"
 }
