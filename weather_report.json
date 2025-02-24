@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-24T10:51:00+00:00",
-            "temperature_f": 39.92,
-            "temperature_c": 4.4,
-            "humidity": 64.560986143923,
-            "wind_speed_mph": 45.903240000000004,
+            "timestamp": "2025-02-24T14:51:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 64.366395426096,
+            "wind_speed_mph": 57.98304000000001,
             "wind_direction": 220,
-            "description": "Mostly Cloudy",
-            "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-02-24T06:00:00-06:00",
+                "startTime": "2025-02-24T09:00:00-06:00",
                 "endTime": "2025-02-24T18:00:00-06:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -31,10 +31,10 @@
                     "value": null
                 },
                 "windSpeed": "10 to 15 mph",
-                "windDirection": "SW",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 54, with temperatures falling to around 50 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Partly sunny. High near 54, with temperatures falling to around 50 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 30 mph."
             },
             {
                 "number": 2,
@@ -57,8 +57,8 @@
             }
         ]
     },
-    "weather_report": "Current weather in Evanston, Illinois, bears a crisp chill as temperatures hover in the upper 30s, combined with a brisk wind that feels quite fierce. The sky is mostly cloudy, lending a somewhat dim outlook to the day. As you venture outside, the air carries a noticeable bite, making it feel even cooler, and the conditions are anything but inviting without proper attire. Looking ahead, today's forecast suggests a transition toward partly sunny skies, with the temperature nudging up into the mid-50s by afternoon, before a series of scattered rain showers are expected tonight. Winds will shift to a gentler breeze, which is a welcome change from the morning's relentless gusts.\n\nDespite the potential for a few drops later on, the afternoon might offer a brief window for outdoor activities, particularly for brisk walks along the beach or park visits, as the temperatures warm slightly. However, keep a light jacket handy, especially as you head into the evening when temperatures dip back toward the mid-30s. Given that it is still winter, today's relatively cool weather is quite typical for this region, and while it's somewhat dreary, the promise of brighter skies later could provide a welcome reprieve.",
-    "color_code": "#A1B2C3",
-    "timestamp": "2025-02-24 06:09:39",
-    "icon_url": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+    "weather_report": "Current weather conditions in Evanston present a chilly scene. As the temperature rests in the low 40s, the air carries a brisk chill, complemented by an overcast sky. With winds howling at nearly 58 miles per hour, the outdoor environment feels quite blustery, creating a stark contrast against the stillness of the dark waters of Lake Michigan. There is currently no precipitation, but the forecast suggests a chance of scattered rain showers later tonight, giving way to a partially cloudy evening as temperatures dip towards the mid-30s.\n\nAs we look ahead to the day, expect partly sunny skies with a high creeping up to around the mid-50s, though likely dropping back into the 40s by afternoon. This day would be best suited for bundling up in layers, perhaps favoring a warm jacket and a hat, given the wind chill and impending moisture in the air. While today isn't a major holiday, its unfriendly chill may steer most away from outdoor activities, except for a vigorous walk along the lakeshore, where the sound of crashing waves could provide a refreshing backdrop. The conditions reflect a typical late winter day in Illinois, hinting at the promise of spring, even as the remnants of winter still linger in the air.",
+    "color_code": "#9BB8D8",
+    "timestamp": "2025-02-24 10:07:10",
+    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
 }
