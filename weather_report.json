@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-25T02:51:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 70.874364547581,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 320,
-            "description": "",
-            "icon": null
+            "timestamp": "2025-02-25T06:51:00+00:00",
+            "temperature_f": 44.06,
+            "temperature_c": 6.7,
+            "humidity": 82.325880313448,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Light Rain",
+            "icon": "https://api.weather.gov/icons/land/night/rain?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-24T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-02-25T01:00:00-06:00",
                 "endTime": "2025-02-25T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 30
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,50?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30?size=medium",
                 "shortForecast": "Scattered Showers And Thunderstorms",
-                "detailedForecast": "Isolated rain showers before 11pm, then scattered showers and thunderstorms between 11pm and 5am. Mostly cloudy, with a low around 36. West southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Scattered showers and thunderstorms before 5am. Mostly cloudy, with a low around 36. West southwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -50,15 +50,15 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "N",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 46, with temperatures falling to around 42 in the afternoon. North wind 5 to 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly sunny. High near 46, with temperatures falling to around 42 in the afternoon. North northwest wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "As the evening settles over Evanston, the temperature hovers in the mid-40s, accompanied by a damp chill that seeps into the bones. With a gentle but noticeable breeze from the northwest, the air feels crisp but not unbearably cold. Cloud cover thickens, hinting at the scattered showers and potential thunderstorms expected overnight. As the clock ticks toward midnight, conditions may become a bit unsettled with rain likely, and a low temperature around the mid-30s, turning the atmosphere into a more somber scene, perfect only for those equipped for the elements.\n\nLooking ahead to tomorrow, residents can expect a brief brake in rain, giving way to mostly sunny skies throughout the day. However, don't be fooled; temperatures will retreat into the upper 40s, cooling off noticeably by afternoon. Outdoor conditions will be accompanied by a breezy north wind, making for a somewhat brisk environment by Lake Michigan. Wave conditions may be choppy, given the gusts that could reach beyond 20 mph, so caution is advised for those near the shoreline. A warm jacket and perhaps a hat will be essential attire for anyone venturing outdoors, especially as we move into the last few days of winter\u2014a season that continues to display its unpredictability.",
-    "color_code": "#BEBEBE",
-    "timestamp": "2025-02-24 22:07:17",
-    "icon_url": null
+    "weather_report": "The current weather in Evanston, Illinois, reflects a rather gloomy early morning, with the temperature resting in the low 40s and light rain falling intermittently. A sense of coolness lingers in the air, accentuated by the dampness, evoking a brisk and somewhat chill vibe for those who step outdoors. As the day unfolds, scattered showers and thunderstorms are expected overnight, with temperatures dropping to around the mid 30s. A light breeze from the west southwest may provide a touch of refreshment but will also contribute to a notably cool atmosphere.\n\nLooking ahead to Tuesday, residents can anticipate a shift toward brighter conditions, with mostly sunny skies predominating. Highs are projected to flirt with the mid 40s, before decreasing to the low 40s by afternoon. This change could foster a more pleasant environment, though the presence of gusty north northwest winds may add a brisk edge to the day. The lake may exhibit moderate wave conditions, possibly making it a less than favorable day for leisurely waterfront activities except for those who enjoy a brisk walk along the shore wrapped in a cozy jacket. \n\nGiven the season, these temperatures align with winter expectations in the Midwest, emphasizing the cool nature of February. For those venturing outside, dressing in layers will be wise, including a warm, waterproof coat, as the possibility of further rain persists. While today isn't marked by any notable holiday or festivity, it's a quiet reminder of the winter season, leading into spring.",
+    "color_code": "#A0A9B1",
+    "timestamp": "2025-02-25 02:07:46",
+    "icon_url": "https://api.weather.gov/icons/land/night/rain?size=medium"
 }
