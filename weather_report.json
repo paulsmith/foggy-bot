@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-24T22:51:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 61.174179639918,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 240,
-            "description": "Cloudy",
-            "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+            "timestamp": "2025-02-25T02:51:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 70.874364547581,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 320,
+            "description": "",
+            "icon": null
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-24T18:00:00-06:00",
+                "startTime": "2025-02-24T22:00:00-06:00",
                 "endTime": "2025-02-25T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 50
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers between 7pm and 4am. Mostly cloudy, with a low around 36. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,50?size=medium",
+                "shortForecast": "Scattered Showers And Thunderstorms",
+                "detailedForecast": "Isolated rain showers before 11pm, then scattered showers and thunderstorms between 11pm and 5am. Mostly cloudy, with a low around 36. West southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -50,15 +50,15 @@
                     "value": null
                 },
                 "windSpeed": "5 to 10 mph",
-                "windDirection": "NNW",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 46, with temperatures falling to around 42 in the afternoon. North northwest wind 5 to 10 mph."
+                "detailedForecast": "Mostly sunny. High near 46, with temperatures falling to around 42 in the afternoon. North wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "As the sun sets over Evanston, the current temperature rests gently in the low 50s, accompanied by a subtle humidity that gives a cool and slightly damp feel to the air. With the wind rustling in from the west-southwest at a brisk pace, the atmosphere carries a hint of the unsettled weather to come. Tonight, expect scattered rain showers to grace the area between 7 PM and 4 AM, with the skies remaining predominantly cloudy. The temperature will dip to a low in the mid-30s, so those venturing out should prepare for the brisk evening with layers.\n\nTomorrow, the outlook is more cheerful, featuring mostly sunny skies and a high around the mid-40s, though temperatures will gradually retreat into the low 40s by afternoon. The day will likely reveal an invigorating quality, despite the chill. Wave activity on Lake Michigan may exhibit some height, making the shoreline a sight to see, yet not particularly inviting for swimming. Given the current season, these temperatures reflect typical late February conditions for the Chicagoland area, leaning towards the cool side but still within seasonal norms. As for attire, a warm jacket, perhaps a hat or gloves, is advisable for those planning outdoor activities, which could include a brisk walk along the beach or enjoying a warm drink in the park while watching the lake's restless waters.",
-    "color_code": "#4B7F74",
-    "timestamp": "2025-02-24 18:24:19",
-    "icon_url": "https://api.weather.gov/icons/land/day/ovc?size=medium"
+    "weather_report": "As the evening settles over Evanston, the temperature hovers in the mid-40s, accompanied by a damp chill that seeps into the bones. With a gentle but noticeable breeze from the northwest, the air feels crisp but not unbearably cold. Cloud cover thickens, hinting at the scattered showers and potential thunderstorms expected overnight. As the clock ticks toward midnight, conditions may become a bit unsettled with rain likely, and a low temperature around the mid-30s, turning the atmosphere into a more somber scene, perfect only for those equipped for the elements.\n\nLooking ahead to tomorrow, residents can expect a brief brake in rain, giving way to mostly sunny skies throughout the day. However, don't be fooled; temperatures will retreat into the upper 40s, cooling off noticeably by afternoon. Outdoor conditions will be accompanied by a breezy north wind, making for a somewhat brisk environment by Lake Michigan. Wave conditions may be choppy, given the gusts that could reach beyond 20 mph, so caution is advised for those near the shoreline. A warm jacket and perhaps a hat will be essential attire for anyone venturing outdoors, especially as we move into the last few days of winter\u2014a season that continues to display its unpredictability.",
+    "color_code": "#BEBEBE",
+    "timestamp": "2025-02-24 22:07:17",
+    "icon_url": null
 }
