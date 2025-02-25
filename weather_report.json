@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-25T06:51:00+00:00",
-            "temperature_f": 44.06,
-            "temperature_c": 6.7,
-            "humidity": 82.325880313448,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Light Rain",
-            "icon": "https://api.weather.gov/icons/land/night/rain?size=medium"
+            "timestamp": "2025-02-25T10:51:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 85.680483315611,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 210,
+            "description": "Mostly Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-25T01:00:00-06:00",
-                "endTime": "2025-02-25T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 36,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30?size=medium",
-                "shortForecast": "Scattered Showers And Thunderstorms",
-                "detailedForecast": "Scattered showers and thunderstorms before 5am. Mostly cloudy, with a low around 36. West southwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2025-02-25T06:00:00-06:00",
                 "endTime": "2025-02-25T18:00:00-06:00",
                 "isDaytime": true,
@@ -54,11 +35,30 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 46, with temperatures falling to around 42 in the afternoon. North northwest wind 5 to 10 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-25T18:00:00-06:00",
+                "endTime": "2025-02-26T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 34,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 50
+                },
+                "windSpeed": "0 to 10 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,50?size=medium",
+                "shortForecast": "Mostly Cloudy then Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers after midnight. Mostly cloudy. Low around 34, with temperatures rising to around 37 overnight. South southwest wind 0 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois, reflects a rather gloomy early morning, with the temperature resting in the low 40s and light rain falling intermittently. A sense of coolness lingers in the air, accentuated by the dampness, evoking a brisk and somewhat chill vibe for those who step outdoors. As the day unfolds, scattered showers and thunderstorms are expected overnight, with temperatures dropping to around the mid 30s. A light breeze from the west southwest may provide a touch of refreshment but will also contribute to a notably cool atmosphere.\n\nLooking ahead to Tuesday, residents can anticipate a shift toward brighter conditions, with mostly sunny skies predominating. Highs are projected to flirt with the mid 40s, before decreasing to the low 40s by afternoon. This change could foster a more pleasant environment, though the presence of gusty north northwest winds may add a brisk edge to the day. The lake may exhibit moderate wave conditions, possibly making it a less than favorable day for leisurely waterfront activities except for those who enjoy a brisk walk along the shore wrapped in a cozy jacket. \n\nGiven the season, these temperatures align with winter expectations in the Midwest, emphasizing the cool nature of February. For those venturing outside, dressing in layers will be wise, including a warm, waterproof coat, as the possibility of further rain persists. While today isn't marked by any notable holiday or festivity, it's a quiet reminder of the winter season, leading into spring.",
-    "color_code": "#A0A9B1",
-    "timestamp": "2025-02-25 02:07:46",
-    "icon_url": "https://api.weather.gov/icons/land/night/rain?size=medium"
+    "weather_report": "This morning in Evanston, residents are greeted by temperatures in the low 40s, accompanied by a damp and chilly atmosphere. The wind is moderately brisk from the southwest, creating a bit of a chill that may interrupt your comfort as you step outside. While the clouds loom overhead, the forecast promises a shift towards mostly sunny conditions as the day progresses, with expected highs near the mid-40s. However, as evening approaches, expect scattered rain showers to sweep through the area, bringing moisture and a rather gloomy ambiance.\n\nAs the day unfolds, the wave conditions along Lake Michigan may be somewhat unsettled due to that blustery wind, making for a picturesque, yet potentially rough, view of the shoreline. Given the anticipated rain, a light jacket or umbrella is advisable for those venturing out. These temperatures are typical for late February in the Midwest, hinting at the lingering chill of winter, yet with tendencies towards slightly more pleasant days ahead. Despite the forecasted precipitation this evening, take advantage of the daylight by enjoying a brisk walk along the beach or a cozy afternoon at a local caf\u00e9 while the sun graces us with its presence.",
+    "color_code": "#A3BBA1",
+    "timestamp": "2025-02-25 06:09:43",
+    "icon_url": "https://api.weather.gov/icons/land/night/bkn?size=medium"
 }
