@@ -7,34 +7,34 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-25T13:51:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 78.753376184584,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 300,
-            "description": "Clear",
-            "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
+            "timestamp": "2025-02-25T18:51:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 50.138015445735,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 270,
+            "description": "Mostly Clear",
+            "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-25T10:00:00-06:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-25T14:00:00-06:00",
                 "endTime": "2025-02-25T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 47,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 mph",
-                "windDirection": "N",
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 47, with temperatures falling to around 42 in the afternoon. North wind around 10 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Sunny. High near 50, with temperatures falling to around 44 in the afternoon. West wind 5 to 10 mph."
             },
             {
                 "number": 2,
@@ -42,23 +42,23 @@
                 "startTime": "2025-02-25T18:00:00-06:00",
                 "endTime": "2025-02-26T06:00:00-06:00",
                 "isDaytime": false,
-                "temperature": 34,
+                "temperature": 35,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 60
                 },
-                "windSpeed": "0 to 10 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,50?size=medium",
-                "shortForecast": "Mostly Cloudy then Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers after midnight. Mostly cloudy. Low around 34, with temperatures rising to around 37 overnight. South southwest wind 0 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,60?size=medium",
+                "shortForecast": "Partly Cloudy then Rain Showers Likely",
+                "detailedForecast": "Rain showers likely after 1am. Partly cloudy. Low around 35, with temperatures rising to around 37 overnight. South southeast wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The current weather in Evanston, Illinois, presents a chilly atmosphere with temperatures in the low 40s, accompanied by a brisk, blustery wind that makes the air feel even cooler. The sky is clear this morning, providing a vibrant contrast to the stillness of Lake Michigan, though the wind is creating waves that could catch the eye of any local beachgoer. As we move through the day, expect sunny conditions, with high temperatures inching close to the upper 40s but dipping back to around 42 by afternoon. \n\nLooking ahead, tonight will usher in scattered rain showers after midnight, shrouding the region in mostly cloudy skies. Temperatures will drop to the mid-30s, with slight chances of rising overnight. Given these conditions, it\u2019s advisable to wear layers, opting for a warm jacket and perhaps a waterproof outer layer if you plan to be out later. As for outdoor activities, the clear morning gives way to a chilly day, which might be ideal for a quick walk along the beach, but prepare for rain if you're out after dark. With the late February chill still holding sway, this weather is typical for the season in this region, reminding us that winter is still in its closing act.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-02-25 10:07:24",
-    "icon_url": "https://api.weather.gov/icons/land/day/skc?size=medium"
+    "weather_report": "As the afternoon unfolds over Evanston, a gentle warmth lingers in the air with temperatures dipping from a comfortable low 50s to around the mid-40s, promoting an inviting yet slightly chilly environment. The atmosphere remains clear, providing a pleasant backdrop as a light breeze whispers from the west, making it ideal for an invigorating stroll. However, as night falls, the forecast brings a shift in the weather, with rain showers likely to arrive after 1 AM. A low around the mid-30s is predicted, with an increase in temperature overnight, hinting at a moist start to the next day.\n\nWave conditions at Lake Michigan may begin to stir as the day progresses, influenced by impending precipitation. The chance of light rain won\u2019t deter outdoor endeavors for much of the day, but a proper coat or warm layers will keep you cozy against the evening chill. While outdoor activities are still quite feasible with the current charm of the season, do consider your plans noting the pleasant yet soon-to-turn unpredictable conditions ahead. Today is unremarkable in terms of holidays or significant events, allowing a moment of normalcy amid winter.",
+    "color_code": "#A3B7C2",
+    "timestamp": "2025-02-25 14:06:26",
+    "icon_url": "https://api.weather.gov/icons/land/day/few?size=medium"
 }
