@@ -7,38 +7,19 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-26T06:51:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 78.320613177263,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-02-26T10:51:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 73.206846724276,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 140,
             "description": "Cloudy",
             "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-26T02:00:00-06:00",
-                "endTime": "2025-02-26T06:00:00-06:00",
-                "isDaytime": false,
-                "temperature": 35,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy. Low around 35, with temperatures rising to around 37 overnight. South southeast wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2025-02-26T06:00:00-06:00",
                 "endTime": "2025-02-26T18:00:00-06:00",
                 "isDaytime": true,
@@ -51,14 +32,33 @@
                 },
                 "windSpeed": "5 to 15 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/rain_showers,20?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 41. East wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/tsra,70/tsra,20?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 41. East wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-26T18:00:00-06:00",
+                "endTime": "2025-02-27T06:00:00-06:00",
+                "isDaytime": false,
+                "temperature": 34,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers before 3am. Mostly cloudy. Low around 34, with temperatures rising to around 36 overnight. Northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Evanston, current conditions are chilly, with temperatures lingering in the mid 30s and a gentle breeze barely stirring the air. The sky is solidly overcast, casting a muted glow over the landscape, contributing to that quintessential winter feel. As we move into the overnight hours, expect a chance of rain showers, with temperatures rising slightly as we approach the morning. The forecast indicates a chance of precipitation around 50%, leading into a Wednesday that promises more rain in the air, giving way to a high in the low 40s. \n\nGiven the forecast, the atmosphere is likely to be damp, so wear something warm and waterproof if venturing outside. The wave conditions from Lake Michigan could be slightly choppy, aggravated by wind gusts that may reach 25 miles per hour during the day. Light to moderate rain could make outdoor activities less appealing, so consider indoor options or perhaps a good book by the window. As we find ourselves in late February, these temperatures are typical for the Midwest, though the overriding grayness may add an extra chill to the air. With no major holidays looming in the immediate future, it\u2019s a day to take a breath before the seasonal shifts begin in earnest.",
-    "color_code": "#A2C1C5",
-    "timestamp": "2025-02-26 02:07:38",
+    "weather_report": "Evanston, Illinois is currently experiencing a chilly scene, with temperatures in the low 40s accompanied by a damp and cloudy atmosphere. The air feels crisp, yet there's a biting chill in the air from the brisk winds sweeping in, reaching near gales. The forecast for today anticipates a more unsettled mood with a 70% chance of showers and possibly thunderstorms, so a bit of rain is likely on the way. Expect temperatures to remain stagnant with highs around 41 degrees and a gentle eastward wind becoming somewhat stronger as the day progresses.\n\nGiven that it's a late February morning, such temperatures are typical for this time of year, yet there's an undercurrent of discomfort due to the moisture in the air and the wind chill factor. The wave conditions along Lake Michigan could be lively, with winds stoking the waters a bit, so those near the shore should remain cautious. For those venturing outside, layered clothing is advised\u2014consider a warm jacket, a hat, and perhaps an umbrella to guard against the impending showers. With the weather discouraging outdoor enjoyment, indoor activities would be more suitable today, as the harsh elements might deter a comfortable stroll along the beach.",
+    "color_code": "#A4B8D8",
+    "timestamp": "2025-02-26 06:09:40",
     "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
