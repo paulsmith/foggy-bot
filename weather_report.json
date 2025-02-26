@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-25T22:51:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 49.998796124422,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 280,
-            "description": "Mostly Clear",
-            "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+            "timestamp": "2025-02-26T02:51:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 70.097333034191,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 170,
+            "description": "Clear",
+            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-25T18:00:00-06:00",
+                "startTime": "2025-02-25T22:00:00-06:00",
                 "endTime": "2025-02-26T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 40
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,60?size=medium",
-                "shortForecast": "Partly Cloudy then Rain Showers Likely",
-                "detailedForecast": "Rain showers likely after 1am. Partly cloudy. Low around 35, with temperatures rising to around 37 overnight. South southeast wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,40?size=medium",
+                "shortForecast": "Mostly Cloudy then Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers after 3am. Mostly cloudy, with a low around 35. South southeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -47,18 +47,18 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 50
                 },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/rain_showers,20?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Mostly cloudy. High near 49, with temperatures falling to around 42 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "5 to 15 mph",
+                "windDirection": "ENE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain,20?size=medium",
+                "shortForecast": "Scattered Rain Showers then Patchy Drizzle",
+                "detailedForecast": "Scattered rain showers before noon, then patchy drizzle. Mostly cloudy. High near 49, with temperatures falling to around 40 in the afternoon. East northeast wind 5 to 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As evening settles over Evanston, temperatures hover in the low 50s, providing a mildly crisp atmosphere as you step outside. Currently, it is mostly clear, with a gentle breeze whispering in from the west, making for a pleasant outdoor feel. However, the forecast holds a different story for tonight, as rain showers are expected to creep in after 1 a.m., with temperatures dipping to the mid-30s before rising slightly overnight. It's a classic transitional winter evening in the Midwest.\n\nWave conditions along the shores of Lake Michigan might stir as the rain approaches, potentially leading to choppy waters overnight. With a 60% chance of precipitation, it would be wise to prepare for wet weather. For those venturing out this evening, layer up\u2014perhaps a warm jacket and sturdy footwear will do the trick. Considering we are still in winter here, temperatures are running quite typical for this time of year. As we look ahead, indoor activities might be the best option, as the wet weather settles in and the chill sets in after dark. The day might not be a holiday, but it certainly invites a reflective indoor evening as we await the spring thaw in the days to come.",
-    "color_code": "#6B8E9B",
-    "timestamp": "2025-02-25 18:24:00",
-    "icon_url": "https://api.weather.gov/icons/land/day/few?size=medium"
+    "weather_report": "Evanston is currently experiencing a crisp and cool evening, with temperatures nestled in the low 40s and a gentle breeze blowing in from the south. The clear skies of the day offer a pleasant view towards Lake Michigan, although clouds are expected to gather later, heralding a shift in the weather. As night falls, scattered showers are forecasted to arise after 3 AM, with a low dipping to around the mid-30s. The winds will soften to a light pace, making for a relatively calm night ahead.\n\nLooking to tomorrow, expect a continuation of the cool and cloudy conditions, as scattered rain showers will be prevalent before noon, giving way to patchy drizzle. With highs climbing to near 50 before sliding back into the 40s by afternoon, it is advisable to dress warmly and consider a rainproof layer, given the likelihood of wet conditions. While the temperatures are typical for this time of year in the Midwest, the choppy waters of the lake may create rough wave conditions. Despite the dreary forecast, an invigorating walk along the beach could be refreshing, though outdoor plans should definitely account for the risk of precipitation.",
+    "color_code": "#A5B0B8",
+    "timestamp": "2025-02-25 22:07:18",
+    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
 }
