@@ -7,20 +7,20 @@
             "longitude": -87.680432
         },
         "current_conditions": {
-            "timestamp": "2025-02-26T02:51:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 70.097333034191,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 170,
-            "description": "Clear",
-            "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
+            "timestamp": "2025-02-26T06:51:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 78.320613177263,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Cloudy",
+            "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-25T22:00:00-06:00",
+                "name": "Overnight",
+                "startTime": "2025-02-26T02:00:00-06:00",
                 "endTime": "2025-02-26T06:00:00-06:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -28,13 +28,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 50
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,40?size=medium",
-                "shortForecast": "Mostly Cloudy then Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers after 3am. Mostly cloudy, with a low around 35. South southeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy. Low around 35, with temperatures rising to around 37 overnight. South southeast wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -42,23 +42,23 @@
                 "startTime": "2025-02-26T06:00:00-06:00",
                 "endTime": "2025-02-26T18:00:00-06:00",
                 "isDaytime": true,
-                "temperature": 49,
+                "temperature": 41,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 70
                 },
                 "windSpeed": "5 to 15 mph",
-                "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain,20?size=medium",
-                "shortForecast": "Scattered Rain Showers then Patchy Drizzle",
-                "detailedForecast": "Scattered rain showers before noon, then patchy drizzle. Mostly cloudy. High near 49, with temperatures falling to around 40 in the afternoon. East northeast wind 5 to 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/rain_showers,20?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 41. East wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "Evanston is currently experiencing a crisp and cool evening, with temperatures nestled in the low 40s and a gentle breeze blowing in from the south. The clear skies of the day offer a pleasant view towards Lake Michigan, although clouds are expected to gather later, heralding a shift in the weather. As night falls, scattered showers are forecasted to arise after 3 AM, with a low dipping to around the mid-30s. The winds will soften to a light pace, making for a relatively calm night ahead.\n\nLooking to tomorrow, expect a continuation of the cool and cloudy conditions, as scattered rain showers will be prevalent before noon, giving way to patchy drizzle. With highs climbing to near 50 before sliding back into the 40s by afternoon, it is advisable to dress warmly and consider a rainproof layer, given the likelihood of wet conditions. While the temperatures are typical for this time of year in the Midwest, the choppy waters of the lake may create rough wave conditions. Despite the dreary forecast, an invigorating walk along the beach could be refreshing, though outdoor plans should definitely account for the risk of precipitation.",
-    "color_code": "#A5B0B8",
-    "timestamp": "2025-02-25 22:07:18",
-    "icon_url": "https://api.weather.gov/icons/land/night/skc?size=medium"
+    "weather_report": "In Evanston, current conditions are chilly, with temperatures lingering in the mid 30s and a gentle breeze barely stirring the air. The sky is solidly overcast, casting a muted glow over the landscape, contributing to that quintessential winter feel. As we move into the overnight hours, expect a chance of rain showers, with temperatures rising slightly as we approach the morning. The forecast indicates a chance of precipitation around 50%, leading into a Wednesday that promises more rain in the air, giving way to a high in the low 40s. \n\nGiven the forecast, the atmosphere is likely to be damp, so wear something warm and waterproof if venturing outside. The wave conditions from Lake Michigan could be slightly choppy, aggravated by wind gusts that may reach 25 miles per hour during the day. Light to moderate rain could make outdoor activities less appealing, so consider indoor options or perhaps a good book by the window. As we find ourselves in late February, these temperatures are typical for the Midwest, though the overriding grayness may add an extra chill to the air. With no major holidays looming in the immediate future, it\u2019s a day to take a breath before the seasonal shifts begin in earnest.",
+    "color_code": "#A2C1C5",
+    "timestamp": "2025-02-26 02:07:38",
+    "icon_url": "https://api.weather.gov/icons/land/night/ovc?size=medium"
 }
